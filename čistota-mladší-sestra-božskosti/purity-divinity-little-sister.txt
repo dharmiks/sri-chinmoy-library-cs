@@ -10,7 +10,7 @@
   :BOOK-NUMBER: 
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
-  :YEAR: 2012
+  :BOOK-YEAR: 2012
   :PUBLISHER: Madal Bal
   :CITE-KEY: PDLS-cs
   :GENRE: discourse

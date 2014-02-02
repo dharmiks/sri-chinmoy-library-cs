@@ -10,7 +10,7 @@
   :BOOK-NUMBER: 
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
-  :YEAR: 2007
+  :BOOK-YEAR: 2007
   :PUBLISHER: Madal Bal
   :CITE-KEY: HRML-cs
   :GENRE: qa

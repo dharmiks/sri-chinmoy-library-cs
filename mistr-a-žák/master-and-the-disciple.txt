@@ -10,7 +10,7 @@
   :BOOK-NUMBER: 
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
-  :YEAR: 1993
+  :BOOK-YEAR: 1993
   :PUBLISHER:Madal Bal
   :CITE-KEY: TIMD-cs
   :GENRE: discourse

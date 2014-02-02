@@ -10,7 +10,7 @@
   :BOOK-NUMBER: 
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: Nil
-  :YEAR: 1999
+  :BOOK-YEAR: 1999
   :PUBLISHER: Madal Bal
   :CITE-KEY: GWSS-cs
   :GENRE: poem

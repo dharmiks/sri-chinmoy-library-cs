@@ -10,7 +10,7 @@
   :BOOK-NUMBER:
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
-  :YEAR: 1999
+  :BOOK-YEAR: 1999
   :PUBLISHER: Madal Bal
   :CITE-KEY: SPR-cs
   :GENRE: qa

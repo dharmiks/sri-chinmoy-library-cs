@@ -10,7 +10,7 @@
   :BOOK-NUMBER: 
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
-  :YEAR: 2009
+  :BOOK-YEAR: 2009
   :PUBLISHER: Madal Bal
   :CITE-KEY: MIMH-cs
   :GENRE: poem

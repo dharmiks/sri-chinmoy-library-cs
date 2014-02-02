@@ -10,7 +10,7 @@
   :BOOK-NUMBER: 
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
-  :YEAR: 1994
+  :BOOK-YEAR: 1994
   :PUBLISHER: Madal Bal
   :CITE-KEY: KMP-cs
   :GENRE: discourse
