@@ -1,0 +1,1278 @@
+#+TITLE: Pravý žák
+#+AUTHOR: Sri Chinmoy
+#+LANGUAGE: cs
+
+
+
+* Index
+
+  :PROPERTIES:
+  :BOOK-NUMBER:
+  :AUTHOR: Sri Chinmoy
+  :ORIGINAL-EDITION: nil
+  :YEAR: 1998
+  :PUBLISHER: Madal Bal
+  :CITE-KEY: TD-cs 
+  :GENRE: poem
+  :KEYWORDS:
+  :END:
+
+
+
+* 1 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:1-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+se nikdy nehádá
+se svým Mistrem.
+
+#+END_VERSE
+
+
+* 2 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:2-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák 
+je božskou pýchou 
+Mistrova srdce.
+
+#+END_VERSE
+
+
+* 3 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:3-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+se usmívá, 
+usmívá-li se oko Mistra.
+
+#+END_VERSE
+
+
+* 4 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:4-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+pláče,
+pláče-li srdce Mistra.
+
+#+END_VERSE
+
+
+* 5 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:5-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+zmenšuje Mistrovy 
+odpovědnosti za přeměnu světa.
+
+#+END_VERSE
+
+
+* 6 PRAVÝ žák miluje rovným dílem...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:6-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák miluje rovným dílem
+Mistrovo odstrašující oko a osvětlující srdce,
+protože ví, že obojí je pro 
+blaženost jeho nejrychlejšího pokroku.
+
+#+END_VERSE
+
+
+* 7 Mistr ví, že jeho PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:7-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mistr ví, že jeho PRAVÝ žák
+je nejen dostupný, 
+ale též služby schopný
+v kteroukoliv hodinu.
+
+#+END_VERSE
+
+
+* 8 PRAVÝ žák chce,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:8-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák chce,
+aby byl jeho život utvářen
+z nektarových doteků
+a hromových kopanců jeho Mistra.
+
+#+END_VERSE
+
+
+* 9 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:9-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák 
+je 
+odolný proti nejistotě srdce.
+
+#+END_VERSE
+
+
+* 10 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:10-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák 
+je 
+odolný proti žárlivosti mysli.
+
+#+END_VERSE
+
+
+* 11 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:11-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák 
+je 
+odolný proti negativní myšlence.
+
+#+END_VERSE
+
+
+* 12 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:12-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák 
+je 
+odolný proti nečistotě vitálna.
+
+#+END_VERSE
+
+
+* 13 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:13-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák 
+je 
+odolný proti letargii těla.
+
+#+END_VERSE
+
+
+* 14 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:14-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+je
+odolný proti neochotnému životu.
+
+#+END_VERSE
+
+
+* 15 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:15-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+zbožňuje šepot
+Mistrových šlépějí po špičkách.
+
+#+END_VERSE
+
+
+* 16 Opravdové odevzdání Mistrovi...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:16-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Opravdové odevzdání Mistrovi
+je nezdolná odvaha
+PRAVÉHO žáka.
+
+#+END_VERSE
+
+
+* 17 PRAVÝ žák ví,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:17-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák ví,
+že oko jeho Mistra je jediná Cesta
+a srdce jeho Mistra je jediný Cíl.
+
+#+END_VERSE
+
+
+* 18 PRAVÝ žák nechce vědět,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:18-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák nechce vědět,
+co neví jeho Mistr.
+
+#+END_VERSE
+
+
+* 19 PRAVÝ žák nechce vědět,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:19-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák nechce vědět,
+co jeho Mistr
+nechce, aby věděl.
+
+#+END_VERSE
+
+
+* 20 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:20-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+je zesilovačem
+tichého života Mistra.
+
+#+END_VERSE
+
+
+* 21 PRAVÝ žák má bolestnou úlohu...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:21-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák má bolestnou úlohu
+informování Mistra
+o hladovění aspirace
+jeho bratrů a sester-žáků.
+
+#+END_VERSE
+
+
+* 22 PRAVÝ žák ví,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:22-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák ví,
+že jeho Mistr
+dělá vše
+vlastním Způsobem Boha.
+
+
+#+END_VERSE
+
+
+* 23 PRAVÝ žák ví,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:23-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák ví,
+že jeho Mistr nemá svou vlastní vůli.
+Boží Vůle
+je vůle jeho Mistra.
+
+#+END_VERSE
+
+
+* 24 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:24-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák 
+miluje svého Mistra,
+Lásku.
+
+#+END_VERSE
+
+
+* 25 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:25-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+slouží svému Mistrovi,
+Službě.
+
+#+END_VERSE
+
+
+* 26 PRAVÝ žák ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:26-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+si nikdy nedovolí
+omezovat svého Mistra,
+Neomezeného.
+
+#+END_VERSE
+
+
+* 27 Mistrův úsměv plný požehnání
+...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:27-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mistrův úsměv plný požehnání
+je nektarová blaženost
+pravého žáka.
+
+#+END_VERSE
+
+
+* 28 PRAVÝ žák ví,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:28-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák ví, 
+že sen o dokonalosti jeho života
+je založen na 
+spokojeném srdci Mistra.
+
+#+END_VERSE
+
+
+* 29 Soucitem zaplavený pohled ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:29-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Soucitem zaplavený pohled 
+oka Mistra
+je celým světem PRAVÉHO žáka.
+
+#+END_VERSE
+
+
+* 30 PRAVÝ žák cítí,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:30-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák cítí,
+že každá chvíle je zlatá příležitost
+k utváření a formování svého života
+pro uspokojení svého Pána-Mistra.
+
+#+END_VERSE
+
+
+* 31 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:31-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+se nadechuje a vydechuje
+vyslovujíc jednu jedinou mantru:
+”Můj Mistr, pro mého Mistra.”
+
+#+END_VERSE
+
+
+* 32 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:32-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák 
+hoduje
+v hodině zvolené Mistrem.
+
+#+END_VERSE
+
+
+* 33 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:33-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+je krásou a vůní
+Mistrova
+slibu projevení Boha.
+
+#+END_VERSE
+
+
+* 34 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:34-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák 
+nahrazuje sebeshovívavost
+Boží zářivostí.
+
+#+END_VERSE
+
+
+* 35 PRAVÝ žák ví,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:35-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák ví,
+že srdce jeho Mistra
+je jeho jediným domovem.
+
+#+END_VERSE
+
+
+* 36 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:36-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák ví,
+že nešťastná mysl 
+je zabíječem šťastného srdce.
+
+#+END_VERSE
+
+
+* 37 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:37-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+nezná žádné sebe popírání
+a žádné znepokojení Boha.
+
+#+END_VERSE
+
+
+* 38 PRAVÝ žák ví,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:38-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák ví,
+že zklame-li někdy svého Mistra
+stane se pohromou 
+svému vlastnímu já.
+
+#+END_VERSE
+
+
+* 39 Když žádá PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:39-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když žádá PRAVÝ žák
+svého Mistra o ochranu,
+Mistr říká,
+”Hleď, okamžitá záchrana.”
+
+#+END_VERSE
+
+
+* 40 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:40-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+říká svému Mistrovi:
+”Mistře, tak jako je tvé vychvalování mocné,
+tak je i tvé kárání milosrdné.”
+
+#+END_VERSE
+
+
+* 41 PRAVÝ žák říká svému Mistrovi:...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:41-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák říká svému Mistrovi:
+”Mistře, ve tvém soucitném oku jsem úplný.”
+Mistr říká svému pravému žákovi:
+”Mé dítě, ve tvém spokojeném srdci jsem úplný.”
+
+#+END_VERSE
+
+
+* 42 PRAVÝ žák žadoní na svém Mistrovi...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:42-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák žadoní na svém Mistrovi,
+aby ho svázal a oslepil,
+tak aby mohl pln modlitby a hrdě
+kráčet se svým Mistrem po cestě, po celé cestě.
+
+#+END_VERSE
+
+
+* 43 Každý den PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:43-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Každý den PRAVÝ žák
+se slzami prosí svého Mistra:
+”Mistře, požehnej mě novým životem
+prachem tvých nohou odpuštění.”
+
+#+END_VERSE
+
+
+* 44 PRAVÝ žák říká svému Mistrovi:...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:44-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák říká svému Mistrovi:
+”Mistře, láme to mé srdce,
+že musíš čekat
+tak dlouhou dobu
+na mou realizaci Boha.”
+
+Mistr říká svému PRAVÉMU žákovi:
+”Mé dítě, nebuď blázen!
+Cíl už k tobě přišel
+v podobě tvého Mistra.”
+
+#+END_VERSE
+
+
+* 45 PRAVÝ žák ví,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:45-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák ví,
+že jeho minulost byla v oku Mistra,
+jeho přítomnost je u nohou Mistra,
+a jeho budoucnost bude v srdci Mistra.
+
+#+END_VERSE
+
+
+* 46 PRAVÝ žák neváhá ani na letmou sekundu...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:46-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák neváhá ani na letmou sekundu
+považovat Mistra za svého, zcela svého.
+Mistr je nesmírně hrdý
+na samostatně naučenou lekci svého žáka.
+
+#+END_VERSE
+
+
+* 47 PRAVÝ žák se nenasytně těší každý den...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:47-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák se nenasytně těší každý den
+ze dvou jídel: 
+Jídla soucitu oka Mistra 
+a 
+jídla odpuštění srdce Mistra.
+
+#+END_VERSE
+
+
+* 48 Mistr se nenasytně těší...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:48-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mistr se nenasytně těší
+každý den
+ze dvou jídel:
+Jídla krásy oddanosti
+svého pravého žáka
+a 
+jídla vůně odevzdání
+svého pravého žáka.
+
+#+END_VERSE
+
+
+* 49 PRAVÝ žák prosí svého Mistra,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:49-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák prosí svého Mistra,
+aby žongloval jeho životem
+podle Mistrovi libovůle.
+
+#+END_VERSE
+
+
+* 50 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:50-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+pln modlitby hltá
+nektarový nápoj poslušnosti Mistrovi.
+
+#+END_VERSE
+
+
+* 51 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:51-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák 
+razantně zamítá
+jedovatý nápoj neposlušnosti Mistrovi.
+
+#+END_VERSE
+
+
+* 52 PRAVÝ žák žebrá na Mistrovi,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:52-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák žebrá na Mistrovi,
+aby z něj udělal
+volejbalový míč, basketbalový míč, pingpongový míč
+a ”miluj a služ” tenisový míč.
+
+#+END_VERSE
+
+
+* 53 PRAVÝ žák žebrá na Mistrovi,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:53-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák žebrá na Mistrovi,
+aby mu nedovolil
+zůstat rozděleným člověkem,
+ale učinil ho sjednoceným člověkem.
+
+#+END_VERSE
+
+
+* 54 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:54-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+nastupuje na duchovní cestu
+s myšlenkou, že cesta jeho Mistra
+je zdaleka nejlepší cesta.
+Avšak zatímco kráčí, pochoduje, běží
+a sprintuje
+po cestě Mistra,
+uvědomuje si, že cesta jeho Mistra
+je Cesta jediná.
+
+#+END_VERSE
+
+
+* 55 PRAVÝ žák se ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:55-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák se
+naučil od svého Mistra,
+že cesta očekávání
+nemá v sobě nic.
+Zatímco cesta odevzdání
+nejenže má všechno,
+ale též je vším.
+
+#+END_VERSE
+
+
+* 56 PRAVÝ žák ví ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:56-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák ví,
+že šlépěje jeho Mistra
+jej soucitně, neustále
+a neomylně budou volat k následování.
+
+#+END_VERSE
+
+
+* 57 Pokaždé, když PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:57-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Pokaždé, když PRAVÝ žák
+přichází na návštěvu za svým Mistrem,
+přichází s fontánou blaženosti písně.
+
+#+END_VERSE
+
+
+* 58 PRAVÝ žák ví...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:58-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák ví,
+že přišel na svět,
+aby hrdě vyvěsil
+prapor velikosti života jeho Mistra.
+
+#+END_VERSE
+
+
+* 59 PRAVÝ žák ví,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:59-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák ví,
+že přišel na svět,
+aby bezesně létal
+na obloze dobroty srdce jeho Mistra.
+
+#+END_VERSE
+
+
+* 60 PRAVÝ žák ví,...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:60-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák ví,
+že palác srdce jeho Mistra
+má tisíce vchodů,
+ale žádný východ.
+
+#+END_VERSE
+
+
+* 61 Rozsudek celoživotního vězení...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:61-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Rozsudek celoživotního vězení
+dostává pochybující mysl
+od PRAVÉHO žáka.
+
+#+END_VERSE
+
+
+* 62 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:62-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák
+dychtivě sbírá
+sklizeň vůle svého Mistra.
+
+#+END_VERSE
+
+
+* 63 PRAVÝ žák...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:63-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+PRAVÝ žák 
+nechává svou sebeuvalenou vůli
+rozmetanou v prach.
+
+#+END_VERSE
+
+
+* 64 Pláč srdce PRAVÉHO žáka
+...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:64-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Pláč srdce PRAVÉHO žáka
+a úsměvy duše jeho Mistra
+se hluboce těší
+ze hry na schovávanou.
+
+#+END_VERSE
+
+
+* 65 Dědeček Bůh říká...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:65-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Dědeček Bůh říká
+svému pravému žáku, vnukovi:
+”Jsi tak roztomilý!
+Jsi tak zbožňování hodný!
+Má Láska je všechna pro tebe.
+Má Pých je všechna v tobě.
+Jsem celý pro tebe,
+můj vnuku!”
+
+#+END_VERSE
+
+
+* 66 Dědeček Bůh říká
+...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: TD:66-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Dědeček Bůh říká
+svému pravému žáku, vnukovi:
+”Můj vnuku, máš takové štěstí.
+Položil jsem před tvého otce 
+nekonečně delší cestu,
+ale on ji nepředstavitelně zkrátil
+pro tebe.”
+
+#+END_VERSE
+
+
+#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+
+# Local Variables:
+# mode: org
+# coding: unix
+# End:
+
