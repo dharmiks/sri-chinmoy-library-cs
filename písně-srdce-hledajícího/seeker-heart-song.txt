@@ -10,7 +10,7 @@
   :BOOK-NUMBER: 
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
-  :BOOK-YEAR: 2007
+  :YEAR: 2007
   :PUBLISHER: Madal Bal
   :CITE-KEY: SHS-cs
   :GENRE: discourse, qa
@@ -200,7 +200,7 @@ Je to jako dítě, jehož otec je soudcem Nejvyššího soudu. Když dítě vid�
   :END:
 
 
-/Profesorka Diana Eck:/ Když tedy přemýšlíme o různých způsobech, kterými lidé z různých částí naší lidské rodiny zažívají Milovaného Nejvyššího -- jako Krišnu, Krista nebo dosti hrůzostrašnou formu Kálí -- můžeme považovat všechny tyto způsoby za stejné?
+/Profesorka Diana Eck:/ Když tedy přemýšlíme o různých způsobech, kterými lidé z různých částí naší lidské rodiny zažívají Milovaného Nejvyššího -- jako Krišnu, Krista nebo dosti hrůzostrašnou formu Kálí -- můžeme považovat všechny tyto způsoby za stejné?
 
 
 /Sri Chinmoy:/ Jsou všechny stejné. Ale děláme chybu, když vidíme jeden z aspektů božské Reality jako hrůzostrašný nebo děsivý. Není to tak. V hinduismu často mluvíme o stvoření, udržování a zničení. Ale „zničení“ je nesprávný výraz. Lepší výraz je přeměna. Když vidíme mocný aspekt Kálí, cítíme, že nás mučí a ničí. Ale ona nás ve skutečnosti přeměňuje. Když nám doktor dává injekci nebo nás operuje, je to velmi bolestivé, považujeme to za úplná muka. Ale on to dělá, jen aby vyléčil nemoc, kterou máme. 
@@ -296,4 +296,5 @@ Buddha, Kristus a všichni duchovní Mistři poznali Boha zde na zemi. Musíme d
 # mode: org
 # coding: unix
 # End:
+
 

@@ -1,4 +1,4 @@
-#+TITLE: Dvacet sedm tisíc rostlin aspirace, část 36
+#+TITLE: Dvacet sedm tisíc rostlin aspirace, část 036
 #+AUTHOR: Sri Chinmoy
 #+LANGUAGE: cs
 
@@ -1949,4 +1949,5 @@ do Božího Srdce.
 # mode: org
 # coding: unix
 # End:
+
 

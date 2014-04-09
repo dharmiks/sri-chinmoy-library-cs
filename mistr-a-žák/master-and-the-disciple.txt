@@ -1,4 +1,4 @@
-#+TITLE: MISTR A ŽÁK
+#+TITLE: Mistr a žák
 #+AUTHOR: Sri Chinmoy
 #+LANGUAGE: cs
 
@@ -17,7 +17,6 @@
   :KEYWORDS:
   :END:
 
-
 * Úvod
 
 :PROPERTIES:
@@ -26,13 +25,12 @@
 :CITE-KEY: TIMD:1-cs
   :END:
 
-
 Kdo je to pravý duchovní Mistr a jakou moudrost v sobě ztělesňuje? Kdo jsou jeho žáci a jaká síla je nutí Mistra následovat? Duchovní Mistr Sri Chinmoy nám v této nevšední knize ukazuje, co vlastně spojuje duchovního Mistra a jeho žáka. 
 Pravý duchovní Mistr či Guru je ten, kdo dosáhl realizace Boha, neoddělitelné jednoty s Nejvyšším. Osvícený Mistr předává svou moudrost zřídkakdy slovy. Učí tichem svého pohledu, harmonií svých gest, soucitem svého úsměvu a nekonečností svého srdce. Jeho autorita pramení z lásky a míru.
 
 Základním nástrojem duchovního vedení je pro duchovního Mistra meditace. S její pomocí postupně vynáší do popředí vlastnosti, které žákovi umožňují dělat vnitřní pokrok a které působí proti negativním silám a jeho starým zvykům. Meditací začíná u žáka proces přeměny celé jeho bytosti. Začíná v sobě nacházet neochvějný vnitřní zdroj plný lásky, míru a naplnění, zdroj tak hluboký, že není vyveden z rovnováhy vlnami a bouřemi vnějšího světa. Tajemná cesta k neznámému zdroji odkrývá zázrak radosti a vděčnosti, které se pro pravého hledajícího stávají hnací silou jeho života. Všechny ostatní zážitky ztrácí ve srovnání s touto cestou k lásce, světlu a blaženosti svou důležitost.
 
-Díky jednotě se svým Guruem se žák učí, že každý z nás má v sobě Boha a že veškeré stvoření není nic než Boží Světlo. Vidí, že jeho úlohou je prostě patřit tomuto Světlu, projevovat jej a milovat jej a opatrovat  v druhých. Se záplavou radosti objímá dar života. S vděčností nabízí svůj život Mistrově vizi. A Mistr mu s bezmezným soucitem dává svůj oceán radosti, lásky, míru a naplnění.
+Díky jednotě se svým Guruem se žák učí, že každý z nás má v sobě Boha a že veškeré stvoření není nic než Boží Světlo. Vidí, že jeho úlohou je prostě patřit tomuto Světlu, projevovat jej a milovat jej a opatrovat v druhých. Se záplavou radosti objímá dar života. S vděčností nabízí svůj život Mistrově vizi. A Mistr mu s bezmezným soucitem dává svůj oceán radosti, lásky, míru a naplnění.
 
 
 * Část I. -- GURU
@@ -43,8 +41,6 @@ Díky jednotě se svým Guruem se žák učí, že každý z nás má v sobě Bo
   :CITE-KEY: TIMD:2e1-cs
   :END:
 
-
-
 * 1. GURU
 
   :PROPERTIES:
@@ -52,8 +48,6 @@ Díky jednotě se svým Guruem se žák učí, že každý z nás má v sobě Bo
   :KEYWORDS:
   :CITE-KEY: TIMD:2-cs
   :END:
-
-
 
 Guru vidí ve svém žákovi skutečnou podobu Boha, a proto se pro žáka naprosto obětuje. Žák ve svém Guruovi vidí a cítí jediné útočiště svých omezení, a proto svého Gurua naprosto miluje.
 Silou Gurua je jeho láska k žákovi. Silou žáka je jeho odevzdání Guruovi. 
@@ -77,7 +71,6 @@ Dosáhnout realizace vlastní silou je jako přeplout oceán na voru. Avšak dos
   :KEYWORDS:
   :CITE-KEY: TIMD:3-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -107,7 +100,6 @@ je tvůj skutečný učitel.
   :CITE-KEY: TIMD:4-cs
   :END:
 
-
 #+BEGIN_VERSE
 
 Lidský učitel 
@@ -134,7 +126,6 @@ nebesky rozlehlé Modři.
   :KEYWORDS:
   :CITE-KEY: TIMD:5-cs
   :END:
-
 
 Skutečným duchovním Mistrem je ten, kdo dosáhl realizace Boha. Každý člověk je sjednocen s Bohem, ale skutečný duchovní Mistr si s Bohem vytvořil vědomou jednotu. Může kdykoliv vstoupit do vyššího vědomí a přinést od Boha poselství pro ty žáky, kteří v něj mají víru. Mistr, je-li opravdový, představuje Boha na zemi pro hledající, kteří v něj věří a mají skutečnou aspiraci. Byl Bohem pověřen a zmocněn, aby jim pomáhal. Skutečným Učitelem, skutečným Guruem, je sám Bůh. Na zemi však bude často působit prostřednictvím určitého duchovního Mistra. Mistr hledajícího inspiruje a postupem času mu pomocí nekonečné Milosti Nejvyššího nabízí osvícení.
 
@@ -221,7 +212,6 @@ Guru není tělem. Guru je odhalením a projevením božské Síly na zemi.
   :CITE-KEY: TIMD:7-cs
   :END:
 
-
 #+BEGIN_VERSE
 
 Setkat se s Bohem bez prostředníka nemusí být nemožné, 
@@ -238,7 +228,6 @@ avšak je to jistě ten největší horolezecký úkol.
   :CITE-KEY: TIMD:8-cs
   :END:
 
-
 Pomáhal ti někdo, když ses učil abecedu? Potřeboval jsi učitele, aby ti pomohl zvládnout tvůj hudební nástroj? Chodil jsi na přednášky, které ti umožnily získat akademický titul? Pokud jsi ke zvládnutí těchto věcí potřeboval pomocníka, nepotřebuješ snad také učitele, který tě dokáže dovést ke znalosti Božského, k moudrosti Nekonečného? Tím učitelem je tvůj Guru a nikdo jiný.
 
 
@@ -250,7 +239,6 @@ Pomáhal ti někdo, když ses učil abecedu? Potřeboval jsi učitele, aby ti po
   :KEYWORDS:
   :CITE-KEY: TIMD:9-cs
   :END:
-
 
 Guru a žák se musí něžně, opravdově a dokonale zkoušet, než dojde k jejich vzájemnému přijetí. Jinak –– pokud se ve volbě zmýlí –– bude muset Guru tančit se selháním a žák se zničením.
 
@@ -264,7 +252,6 @@ Guru a žák se musí něžně, opravdově a dokonale zkoušet, než dojde k je
   :CITE-KEY: TIMD:10-cs
   :END:
 
-
 Co znamená, když Guru přijme žáka? Znamená to, že Guru bude ochotně žít ve světě zlatého obětování.
 
 
@@ -276,7 +263,6 @@ Co znamená, když Guru přijme žáka? Znamená to, že Guru bude ochotně ží
   :KEYWORDS:
   :CITE-KEY: TIMD:11-cs
   :END:
-
 
 Nejvyšší zasvěcení je, 
 když Mistr řekne žákovi: 
@@ -296,7 +282,6 @@ a žák řekne Mistrovi:
   :END:
 
 
-
 * 1. Výběr Gurua
 
   :PROPERTIES:
@@ -304,7 +289,6 @@ a žák řekne Mistrovi:
   :KEYWORDS:
   :CITE-KEY: TIMD:12-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -379,7 +363,6 @@ Není na zemi hledající, který by zůstal bez učitele, když zoufale nějak�
   :CITE-KEY: TIMD:13-cs
   :END:
 
-
 Jednou věcí je znát učitele a druhou je znát jeho učení. Jeho učení ukazuje světu, co má, avšak to, co je, je jiným jménem pro Vizi Věčnosti.
 
 
@@ -390,7 +373,6 @@ Jednou věcí je znát učitele a druhou je znát jeho učení. Jeho učení uka
   :KEYWORDS:
   :CITE-KEY: TIMD:14-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -411,7 +393,6 @@ potřebuje správného Boha.
   :KEYWORDS:
   :CITE-KEY: TIMD:15-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -452,7 +433,6 @@ jsou falešní.
   :CITE-KEY: TIMD:17-cs
   :END:
 
-
 #+BEGIN_VERSE
 
 Tvůj Mistr se před tebou neskrývá. 
@@ -474,7 +454,6 @@ se svým Okem Soucitu Věčnosti.
   :END:
 
 
-
 * 1. Realizovaný Mistr
 
   :PROPERTIES:
@@ -482,7 +461,6 @@ se svým Okem Soucitu Věčnosti.
   :KEYWORDS:
   :CITE-KEY: TIMD:18-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -540,7 +518,6 @@ Když svět pláče po vnitřním jídle, musíme ho nakrmit, jestliže to doká
   :CITE-KEY: TIMD:19-cs
   :END:
 
-
 #+BEGIN_VERSE
 
 Duše, která opravdu realizovala Boha, 
@@ -558,7 +535,6 @@ do pozemských lidských událostí.
   :KEYWORDS:
   :CITE-KEY: TIMD:20-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -580,7 +556,6 @@ pro tvé osvícení.
   :CITE-KEY: TIMD:21-cs
   :END:
 
-
 Skutečný Guru je nesobeckým, zasvěceným a věčným žebrákem, který od Boha žádá všemohoucnost a všudypřítomnost, aby nasytil své nevědomě hladové a vědomě aspirující žáky –– v dokonalém souladu s potřebami jejich duše.
 
 
@@ -593,7 +568,6 @@ Skutečný Guru je nesobeckým, zasvěceným a věčným žebrákem, který od B
   :KEYWORDS:
   :CITE-KEY: TIMD:22-cs
   :END:
-
 
 Guru je duchovním magnetem, 
 který žáka neustále přitahuje 
@@ -610,7 +584,6 @@ k nekonečnému Světlu Nejvyššího.
   :CITE-KEY: TIMD:23-cs
   :END:
 
-
 Jen ten je božským vůdcem, 
 kdo má schopnost zasadit inspiraci 
 do srdce lidské duše.
@@ -624,7 +597,6 @@ do srdce lidské duše.
   :KEYWORDS:
   :CITE-KEY: TIMD:24-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -643,7 +615,6 @@ Pravý duchovní Mistr musí nést na svých bedrech nesčetné odpovědnosti sv
   :END:
 
 
-
 * 1. Mistr a žák
 
   :PROPERTIES:
@@ -651,7 +622,6 @@ Pravý duchovní Mistr musí nést na svých bedrech nesčetné odpovědnosti sv
   :KEYWORDS:
   :CITE-KEY: TIMD:25-cs
   :END:
-
 
 
 Pravý duchovní Mistr je ten, kdo má neoddělitelnou jednotu s tím Nejvyšším. Na základě této jednoty může snadno vstoupit do hledajícího, vidět jeho vývoj a aspiraci a dozvědět se vše o jeho vnitřním i vnějším životě. Když Mistr medituje před svými žáky, snáší Shůry Mír, Světlo a Blaženost, které do nich vstupují. Automaticky se tak vnitřně naučí, jak meditovat. Všichni skuteční duchovní Mistři učí meditaci v tichu. Pravý Mistr nemusí navenek vysvětlovat, jak máte meditovat, nebo vám dávat zvláštní druh meditace. Jednoduše na vás bude meditovat a jeho tichý pohled vás naučí, jak meditovat. Vaše duše vstoupí do jeho duše a přinese od ní poselství, poznání, jak meditovat.
@@ -696,7 +666,6 @@ Neupřímný žák si myslí, že si může Mistra získat vnějším lichocení
   :CITE-KEY: TIMD:26-cs
   :END:
 
-
 #+BEGIN_VERSE
 
 Lidský učitel říká studentovi:
@@ -716,7 +685,6 @@ Neotálej, pojď Jej se mnou navštívit.“
   :KEYWORDS:
   :CITE-KEY: TIMD:27-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -738,7 +706,6 @@ a jehož srdce je odpuštěním.
   :CITE-KEY: TIMD:28-cs
   :END:
 
-
 #+BEGIN_VERSE
 
 Skutečným Mistrem nikdy nemůže být ten,
@@ -756,7 +723,6 @@ podle tvých vlastních podmínek.
   :KEYWORDS:
   :CITE-KEY: TIMD:29-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -776,7 +742,6 @@ jako se svým vlastním.
   :KEYWORDS:
   :CITE-KEY: TIMD:30-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -804,7 +769,6 @@ k duchovnímu pokroku.
   :CITE-KEY: TIMD:31-cs
   :END:
 
-
 Pro žáka neexistuje lepší způsob,
 jak sloužit svému Guruovi, 
 než poslouchat jeho rady.
@@ -822,7 +786,6 @@ než poslouchat jeho rady.
   :END:
 
 
-
 * 1. Jednota s Mistrem
 
   :PROPERTIES:
@@ -830,7 +793,6 @@ než poslouchat jeho rady.
   :KEYWORDS:
   :CITE-KEY: TIMD:32-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -925,7 +887,6 @@ Každý aspirant musí složit vnitřní slib, že bude poslouchat Vůli Nejvyš
   :END:
 
 
-
 #+BEGIN_VERSE
 
 Čisté srdce je nesmrtelné.
@@ -947,7 +908,6 @@ a Pláčem Věčnosti.
   :CITE-KEY: TIMD:34-cs
   :END:
 
-
 Realizace může být dosaženo 
 Milostí Boha, 
 milostí Gurua 
@@ -967,7 +927,6 @@ Hleď, bohatou úrodou je realizace!
   :CITE-KEY: TIMD:35-cs
   :END:
 
-
 #+BEGIN_VERSE
 
 Tvůj Mistr je posvátný most, 
@@ -985,7 +944,6 @@ a dosáhnout tvého předurčeného cíle.
   :KEYWORDS:
   :CITE-KEY: TIMD:36-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -1005,7 +963,6 @@ Věčnou Píseň Jednoty.
   :KEYWORDS:
   :CITE-KEY: TIMD:37-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -1028,7 +985,6 @@ Svět je jen musí přijmout.
   :KEYWORDS:
   :CITE-KEY: TIMD:38-cs
   :END:
-
 
 #+BEGIN_VERSE
 
@@ -1336,7 +1292,6 @@ MISTR (k prvnímu žákovi): Tím, že jsi rozpoznal svou hloupost, svou nevědo
   :GENRE: section
   :CITE-KEY: TIMD:39e6-cs
   :END:
-
 
 
 * Naše cesta

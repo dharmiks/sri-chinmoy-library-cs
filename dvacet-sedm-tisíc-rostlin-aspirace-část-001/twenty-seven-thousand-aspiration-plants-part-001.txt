@@ -1,4 +1,4 @@
-#+TITLE: Dvacet sedm tisíc rostlin aspirace, svazek 1
+#+TITLE: Dvacet sedm tisíc rostlin aspirace, část 001
 #+AUTHOR: Sri Chinmoy
 #+LANGUAGE: cs
 
@@ -10,7 +10,7 @@
   :BOOK-NUMBER:  
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION:  nil
-  :BOOK-YEAR:  2005
+  :YEAR:  2005
   :PUBLISHER:  Madal Bal
   :CITE-KEY: AP-1-cs
   :GENRE: poem
@@ -2218,4 +2218,5 @@ Pokud ano, pak buď ujištěn,
 # mode: org
 # coding: unix
 # End:
+
 

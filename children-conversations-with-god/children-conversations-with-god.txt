@@ -10,7 +10,7 @@
   :BOOK-NUMBER: 
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
-  :BOOK-YEAR: 2007 
+  :YEAR: 2007 
   :PUBLISHER: Madal Bal
   :CITE-KEY: CCG-cs
   :GENRE: story
@@ -75,7 +75,7 @@ Každé ráno si stoupni před veliké zrcadlo v obývacím pokoji a měj oči
   :END:
 
 
-„Bože, kolik je ti let?“
+„Bože, kolik je Ti let?“
 
 „Je mi jeden rok.“
 
@@ -653,7 +653,7 @@ Bůh se na Veroniku usmívá svým nanejvýš milujícím Úsměvem.
 
 „Co ti ještě říká pan farář v kostele?“
 
-„Řekl mi něco velmi důležitého. Řekl, že jen Bůh ví všechno. Bože, říkám ti, že je to milý farář. Řekl mi, že on sám neví všechno, ale říká, že Bůh ví všechno.“ 
+„Řekl mi něco velmi důležitého. Řekl, že jen Bůh ví všechno. Bože, říkám Ti, že je to milý farář. Řekl mi, že on sám neví všechno, ale říká, že Bůh ví všechno.“ 
 
 „Ty víš, že já jsem ten Bůh. Chci ti říct, že tví rodiče se nemýlili. Řekli ti pravdu. Existuje tolik bohů a bohyň, kolik je na světě mužů a žen.“
 
@@ -683,4 +683,5 @@ Bůh se na Veroniku usmívá svým nanejvýš milujícím Úsměvem.
 # mode: org
 # coding: unix
 # End:
+
 
