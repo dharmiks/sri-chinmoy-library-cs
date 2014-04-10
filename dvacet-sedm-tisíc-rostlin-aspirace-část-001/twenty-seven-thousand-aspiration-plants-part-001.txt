@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:1-cs
+  :CITE-KEY: AP-cs:1
   :END:
 
 
@@ -48,7 +48,7 @@ po celé cestě budu kráčet s tebou.”
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:2-cs
+  :CITE-KEY: AP-cs:2
   :END:
 
 
@@ -68,7 +68,7 @@ krásou zaplavený úsvit radosti.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:3-cs
+  :CITE-KEY: AP-cs:3
   :END:
 
 
@@ -88,7 +88,7 @@ Volba je nezbytnou dokonalostí
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:4-cs
+  :CITE-KEY: AP-cs:4
   :END:
 
 
@@ -113,7 +113,7 @@ a nanejvýše dobrého
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:5-cs
+  :CITE-KEY: AP-cs:5
   :END:
 
 
@@ -134,7 +134,7 @@ aby Boží Blaženost
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:6-cs
+  :CITE-KEY: AP-cs:6
   :END:
 
 
@@ -153,7 +153,7 @@ jak se pak můžeš ty vzdát
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:7-cs
+  :CITE-KEY: AP-cs:7
   :END:
 
 
@@ -174,7 +174,7 @@ aby Bůh Milovník bojoval za tebe.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:8-cs
+  :CITE-KEY: AP-cs:8
   :END:
 
 
@@ -198,7 +198,7 @@ Oka Vize.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:9-cs
+  :CITE-KEY: AP-cs:9
   :END:
 
 
@@ -217,7 +217,7 @@ znamená to, že nejsi nikde nablízku
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:10-cs
+  :CITE-KEY: AP-cs:10
   :END:
 
 
@@ -241,7 +241,7 @@ bude můj život milovat
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:11-cs
+  :CITE-KEY: AP-cs:11
   :END:
 
 
@@ -266,7 +266,7 @@ Já ti chci dát a také ti dám
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:12-cs
+  :CITE-KEY: AP-cs:12
   :END:
 
 
@@ -290,7 +290,7 @@ Je tak mocné.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:13-cs
+  :CITE-KEY: AP-cs:13
   :END:
 
 
@@ -314,7 +314,7 @@ mě můj Pán žádá, abych zabil
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:14-cs
+  :CITE-KEY: AP-cs:14
   :END:
 
 
@@ -335,7 +335,7 @@ předpovědět výsledek?
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:15-cs
+  :CITE-KEY: AP-cs:15
   :END:
 
 
@@ -354,7 +354,7 @@ Boha a Lásku Jeho Nesmrtelnosti
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:16-cs
+  :CITE-KEY: AP-cs:16
   :END:
 
 
@@ -380,7 +380,7 @@ Potřebuji Tebe jen,
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:17-cs
+  :CITE-KEY: AP-cs:17
   :END:
 
 
@@ -404,7 +404,7 @@ mého Milovaného Nejvyššího
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:18-cs
+  :CITE-KEY: AP-cs:18
   :END:
 
 
@@ -423,7 +423,7 @@ Pláč mé modlitby činí mé srdce
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:19-cs
+  :CITE-KEY: AP-cs:19
   :END:
 
 
@@ -444,7 +444,7 @@ Jeho Sliby, mocné jako Lev?
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:20-cs
+  :CITE-KEY: AP-cs:20
   :END:
 
 
@@ -467,7 +467,7 @@ s nezrozenou a nesmrtelnou jednotou mé duše
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:21-cs
+  :CITE-KEY: AP-cs:21
   :END:
 
 
@@ -490,7 +490,7 @@ nýbrž vždy posvátným,
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:22-cs
+  :CITE-KEY: AP-cs:22
   :END:
 
 
@@ -514,7 +514,7 @@ jsem průsvitným úsměvem
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:23-cs
+  :CITE-KEY: AP-cs:23
   :END:
 
 
@@ -537,7 +537,7 @@ můj Milovaný Nejvyšší mi nyní říká,
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:24-cs
+  :CITE-KEY: AP-cs:24
   :END:
 
 
@@ -559,7 +559,7 @@ slepě odmítáš přijmout
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:25-cs
+  :CITE-KEY: AP-cs:25
   :END:
 
 
@@ -578,7 +578,7 @@ Moje duše to nazývá oltářem čistoty.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:26-cs
+  :CITE-KEY: AP-cs:26
   :END:
 
 
@@ -599,7 +599,7 @@ neomezenému, jednotnému já.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:27-cs
+  :CITE-KEY: AP-cs:27
   :END:
 
 
@@ -618,7 +618,7 @@ mému srdci plnému jednoty Boha.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:28-cs
+  :CITE-KEY: AP-cs:28
   :END:
 
 
@@ -638,7 +638,7 @@ cizincem vlastním výškám
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:29-cs
+  :CITE-KEY: AP-cs:29
   :END:
 
 
@@ -661,7 +661,7 @@ Božím nejmilejším nástrojem-dítětem:
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:30-cs
+  :CITE-KEY: AP-cs:30
   :END:
 
 
@@ -685,7 +685,7 @@ ne-li Životem Univerzální Jednoty
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:31-cs
+  :CITE-KEY: AP-cs:31
   :END:
 
 
@@ -707,7 +707,7 @@ je hrdinným bojovníkem
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:32-cs
+  :CITE-KEY: AP-cs:32
   :END:
 
 
@@ -728,7 +728,7 @@ aby se stal dokonale dokonalým?
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:33-cs
+  :CITE-KEY: AP-cs:33
   :END:
 
 
@@ -750,7 +750,7 @@ Božího velmi neobyčejného jídla:
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:34-cs
+  :CITE-KEY: AP-cs:34
   :END:
 
 
@@ -769,7 +769,7 @@ Otevřeně se těšíš ze sbírání
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:35-cs
+  :CITE-KEY: AP-cs:35
   :END:
 
 
@@ -790,7 +790,7 @@ krásu přirozeného Života Ticha
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:36-cs
+  :CITE-KEY: AP-cs:36
   :END:
 
 
@@ -811,7 +811,7 @@ Tvá realizace ti říká,
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:37-cs
+  :CITE-KEY: AP-cs:37
   :END:
 
 
@@ -832,7 +832,7 @@ Vnitřního Pilota.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:38-cs
+  :CITE-KEY: AP-cs:38
   :END:
 
 
@@ -851,7 +851,7 @@ Nic není tak nekonečně plodné
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:39-cs
+  :CITE-KEY: AP-cs:39
   :END:
 
 
@@ -876,7 +876,7 @@ sloužíš Bohu a pomáháš člověku.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:40-cs
+  :CITE-KEY: AP-cs:40
   :END:
 
 
@@ -906,7 +906,7 @@ ale také ti nikdy neodpustím,
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:41-cs
+  :CITE-KEY: AP-cs:41
   :END:
 
 
@@ -927,7 +927,7 @@ ale také ti nikdy neodpustím,
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:42-cs
+  :CITE-KEY: AP-cs:42
   :END:
 
 
@@ -946,7 +946,7 @@ nenalézá pohodlí v hrobu.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:43-cs
+  :CITE-KEY: AP-cs:43
   :END:
 
 
@@ -975,7 +975,7 @@ nedokážeš poděkovat Mně, stvoření?
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:44-cs
+  :CITE-KEY: AP-cs:44
   :END:
 
 
@@ -1006,7 +1006,7 @@ A tvá dokonalost je jiným jménem
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:45-cs
+  :CITE-KEY: AP-cs:45
   :END:
 
 
@@ -1033,7 +1033,7 @@ bude tím nejpřísnějším trestem.”
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:46-cs
+  :CITE-KEY: AP-cs:46
   :END:
 
 
@@ -1054,7 +1054,7 @@ již za ni vykonalo aspirující srdce
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:47-cs
+  :CITE-KEY: AP-cs:47
   :END:
 
 
@@ -1072,7 +1072,7 @@ bude muset dříve či později čelit
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:48-cs
+  :CITE-KEY: AP-cs:48
   :END:
 
 
@@ -1097,7 +1097,7 @@ možná nebudu tolik šťasten.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:49-cs
+  :CITE-KEY: AP-cs:49
   :END:
 
 
@@ -1118,7 +1118,7 @@ a můj život bude jen pro něj samotného.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:50-cs
+  :CITE-KEY: AP-cs:50
   :END:
 
 
@@ -1142,7 +1142,7 @@ by byla zničující
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:51-cs
+  :CITE-KEY: AP-cs:51
   :END:
 
 
@@ -1162,7 +1162,7 @@ stoupajícího pláče mého srdce.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:52-cs
+  :CITE-KEY: AP-cs:52
   :END:
 
 
@@ -1187,7 +1187,7 @@ v závodu manifestace Boha.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:53-cs
+  :CITE-KEY: AP-cs:53
   :END:
 
 
@@ -1208,7 +1208,7 @@ Tě ušetřím trápení
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:54-cs
+  :CITE-KEY: AP-cs:54
   :END:
 
 
@@ -1236,7 +1236,7 @@ když vědomě začnu kráčet
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:55-cs
+  :CITE-KEY: AP-cs:55
   :END:
 
 
@@ -1256,7 +1256,7 @@ a novou cestu aspirace.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:56-cs
+  :CITE-KEY: AP-cs:56
   :END:
 
 
@@ -1278,7 +1278,7 @@ tolik příležitostí, kolik jen potřebuje,
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:57-cs
+  :CITE-KEY: AP-cs:57
   :END:
 
 
@@ -1298,7 +1298,7 @@ je transcendentálním Světlem
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:58-cs
+  :CITE-KEY: AP-cs:58
   :END:
 
 
@@ -1320,7 +1320,7 @@ schopnost projevit Jeho Spokojenost
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:59-cs
+  :CITE-KEY: AP-cs:59
   :END:
 
 
@@ -1339,7 +1339,7 @@ co si o ní myslí --
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:60-cs
+  :CITE-KEY: AP-cs:60
   :END:
 
 
@@ -1360,7 +1360,7 @@ inkoustu nečistoty mé mysli.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:61-cs
+  :CITE-KEY: AP-cs:61
   :END:
 
 
@@ -1382,7 +1382,7 @@ po starodávné cestě sebedisciplíny --
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:62-cs
+  :CITE-KEY: AP-cs:62
   :END:
 
 
@@ -1404,7 +1404,7 @@ v moři blaženosti moudrosti.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:63-cs
+  :CITE-KEY: AP-cs:63
   :END:
 
 
@@ -1428,7 +1428,7 @@ svými slzami plnými vděku.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:64-cs
+  :CITE-KEY: AP-cs:64
   :END:
 
 
@@ -1464,7 +1464,7 @@ přebývá uvnitř Soucitného Srdce
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:65-cs
+  :CITE-KEY: AP-cs:65
   :END:
 
 
@@ -1487,7 +1487,7 @@ zítřejší vnější slunce
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:66-cs
+  :CITE-KEY: AP-cs:66
   :END:
 
 
@@ -1506,7 +1506,7 @@ ale také svého nedosažitelného Já.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:67-cs
+  :CITE-KEY: AP-cs:67
   :END:
 
 
@@ -1529,7 +1529,7 @@ být těšen
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:68-cs
+  :CITE-KEY: AP-cs:68
   :END:
 
 
@@ -1548,7 +1548,7 @@ mince dokonalého života.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:69-cs
+  :CITE-KEY: AP-cs:69
   :END:
 
 
@@ -1567,7 +1567,7 @@ sebepřekonávání
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:70-cs
+  :CITE-KEY: AP-cs:70
   :END:
 
 
@@ -1586,7 +1586,7 @@ aby ocenila naše úžasné rozloučení.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:71-cs
+  :CITE-KEY: AP-cs:71
   :END:
 
 
@@ -1607,7 +1607,7 @@ Běda, běda!
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:72-cs
+  :CITE-KEY: AP-cs:72
   :END:
 
 
@@ -1626,7 +1626,7 @@ pak tak učiň, avšak neměř.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:73-cs
+  :CITE-KEY: AP-cs:73
   :END:
 
 
@@ -1648,7 +1648,7 @@ na trůn osvícení
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:74-cs
+  :CITE-KEY: AP-cs:74
   :END:
 
 
@@ -1668,7 +1668,7 @@ musíš ztišit svou mysl,
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:75-cs
+  :CITE-KEY: AP-cs:75
   :END:
 
 
@@ -1689,7 +1689,7 @@ Mou jedinou stížností vůči tobě je,
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:76-cs
+  :CITE-KEY: AP-cs:76
   :END:
 
 
@@ -1709,7 +1709,7 @@ nečinit žádné kompromisy
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:77-cs
+  :CITE-KEY: AP-cs:77
   :END:
 
 
@@ -1734,7 +1734,7 @@ a přesto tě zoufale
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:78-cs
+  :CITE-KEY: AP-cs:78
   :END:
 
 
@@ -1755,7 +1755,7 @@ Vnitřní slunce mi říká, abych bezesně zůstal
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:79-cs
+  :CITE-KEY: AP-cs:79
   :END:
 
 
@@ -1779,7 +1779,7 @@ nebo se připravím
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:80-cs
+  :CITE-KEY: AP-cs:80
   :END:
 
 
@@ -1800,7 +1800,7 @@ Píseň mé realizace
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:81-cs
+  :CITE-KEY: AP-cs:81
   :END:
 
 
@@ -1821,7 +1821,7 @@ Můj je život, jenž chce být
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:82-cs
+  :CITE-KEY: AP-cs:82
   :END:
 
 
@@ -1841,7 +1841,7 @@ těšit se ze slunečně nesmírných snů
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:83-cs
+  :CITE-KEY: AP-cs:83
   :END:
 
 
@@ -1863,7 +1863,7 @@ Pokouším se stát vítězným nástrojem
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:84-cs
+  :CITE-KEY: AP-cs:84
   :END:
 
 
@@ -1884,7 +1884,7 @@ a strom příslibu
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:85-cs
+  :CITE-KEY: AP-cs:85
   :END:
 
 
@@ -1903,7 +1903,7 @@ i studentem žaláře přeludů
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:86-cs
+  :CITE-KEY: AP-cs:86
   :END:
 
 
@@ -1924,7 +1924,7 @@ co má a čím je tvá duše.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:87-cs
+  :CITE-KEY: AP-cs:87
   :END:
 
 
@@ -1944,7 +1944,7 @@ ne však místnost života.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:88-cs
+  :CITE-KEY: AP-cs:88
   :END:
 
 
@@ -1964,7 +1964,7 @@ se mohou a také se budou těšit
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:89-cs
+  :CITE-KEY: AP-cs:89
   :END:
 
 
@@ -1983,7 +1983,7 @@ tvé srdce osvobodí?
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:90-cs
+  :CITE-KEY: AP-cs:90
   :END:
 
 
@@ -2004,7 +2004,7 @@ Avšak Bůh ví a říká světu,
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:91-cs
+  :CITE-KEY: AP-cs:91
   :END:
 
 
@@ -2029,7 +2029,7 @@ ve Svůj božský nástroj,
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:92-cs
+  :CITE-KEY: AP-cs:92
   :END:
 
 
@@ -2049,7 +2049,7 @@ v tobě a skrze tebe.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:93-cs
+  :CITE-KEY: AP-cs:93
   :END:
 
 
@@ -2068,7 +2068,7 @@ Svůj vlastní, vesmír sytící Hlas Věčnosti.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:94-cs
+  :CITE-KEY: AP-cs:94
   :END:
 
 
@@ -2086,7 +2086,7 @@ uvnitř zahrady aspirace tvého srdce?
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:95-cs
+  :CITE-KEY: AP-cs:95
   :END:
 
 
@@ -2108,7 +2108,7 @@ Dnes mi Bůh s největší spokojeností říká:
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:96-cs
+  :CITE-KEY: AP-cs:96
   :END:
 
 
@@ -2130,7 +2130,7 @@ Boží Srdce a má duše cítí,
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:97-cs
+  :CITE-KEY: AP-cs:97
   :END:
 
 
@@ -2151,7 +2151,7 @@ a Boží bezmeznou Blažeností.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:98-cs
+  :CITE-KEY: AP-cs:98
   :END:
 
 
@@ -2177,7 +2177,7 @@ jak Jemu sloužit ve světě
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:99-cs
+  :CITE-KEY: AP-cs:99
   :END:
 
 
@@ -2197,7 +2197,7 @@ pro Tvou realizaci.
   :PROPERTIES:
   :GENRE:  poem
   :KEYWORDS:
-  :CITE-KEY: AP:100-cs
+  :CITE-KEY: AP-cs:100
   :END:
 
 
