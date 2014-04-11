@@ -47,7 +47,6 @@ Ticha-Boha.
   :CITE-KEY: AP:1802-cs
   :END:
 
-
 #+BEGIN_VERSE
 
 Nezdolná síla vůle,
@@ -84,8 +83,6 @@ získají velmi zvláštní význam.
 
 
 
-
-
 * 1804
 
   :PROPERTIES:
@@ -94,18 +91,16 @@ získají velmi zvláštní význam.
   :CITE-KEY: AP:1804-cs
   :END:
 
-
 #+BEGIN_VERSE
-
 
 Ve vnějším vědomí
 jsi již založil
 něco nesmrtelného.
+
 Nyní musíš totéž udělat
 ve vnitřním vědomí
 s pláčem tvého srdce pro lidstvo
 a s láskou tvého života pro lidstvo.
-
 
 #+END_VERSE
 
@@ -167,6 +162,7 @@ Když myslíme na vnějšího člověka,
 jsme fascinováni,
 protože předvedl cosi velkého
 lidstvu.
+
 Když však myslíme na vnitřního člověka,
 jsme osvíceni,
 protože učinil cosi dobrého
@@ -187,8 +183,7 @@ pro Boha.
 #+BEGIN_VERSE
 
 Když něco udělá vnější člověk,
-svět ihned získá
-ohromnou radost a extázi.
+svět ihned získá ohromnou radost a extázi.
 Vnější dosažení potom
 upadne v zapomnění.
 Když však něco udělá vnitřní člověk,
@@ -299,9 +294,8 @@ Vnějšímu člověku to může trvat
 mnoho, mnoho století,
 ale nakonec
 v Bohem vybrané Hodině
-vnější člověk
-definitivně
-vroste do vnitřního člověka.
+vnější člověk definitivně vroste 
+do vnitřního člověka.
 
 #+END_VERSE
 
@@ -322,9 +316,11 @@ Vnější člověk
 sbírá esence
 bezpočtu zážitků
 během svého pozemského pobytu.
+
 Avšak vnitřní člověk
 již má nekonečné bohatství,
 vnitřní bohatství.
+
 Ve skutečnosti
 je vnitřní člověk věčně tím,
 po čem vnější člověk
@@ -366,9 +362,11 @@ věčný úsvit probouzení srdce.
 Navenek
 je největším šampiónem
 na světě.
+
 Ale uvnitř je čímsi
 nekonečně mocnějším
 a nekonečně krásnějším:
+
 nejvyšším bojovníkem-hrdinou
 bojujícím proti nevědomosti lidstva.
 
@@ -438,8 +436,8 @@ celé tvoje.“
 
 #+BEGIN_VERSE
 
-Ve své nejvyšší meditaci
-se stal tím, co jeho vnější život
+Ve své nejvyšší meditaci se stal tím, 
+co jeho vnější život
 občas vědomě,
 občas nevědomě,
 hledá.
@@ -655,6 +653,7 @@ nejdražším, nejbližším a nejdokonalejším
 Kdy uvěříš,
   že tě Bůh používá
 jako Svůj nejvyšší nástroj?
+
 Jasně vidím, že uvnitř a skrze
   tvoje vnější bytí
 nabízí Bůh novou Vizi
@@ -812,7 +811,9 @@ Můj Bůh je moje vlastní
 #+BEGIN_VERSE
 
   Sny, které se nikdy nezrodí:
-miluji Boha více, než On miluje mě,
+
+miluji Boha více, než On miluje mě;
+
 Bůh mne potřebuje více, než já Jeho.
 
 #+END_VERSE
@@ -1112,6 +1113,7 @@ musíš se vzdát přebývání uvnitř
 Ukryl ses před Bohem,
   protože se bojíš,
 že selžeš v Jeho Zkoušce Života.
+
 Ti, kteří aspoň stojí
   před Zkoušejícím
 a chtějí projít Jeho Zkouškou,
@@ -1240,7 +1242,8 @@ a sebechvála?
 #+BEGIN_VERSE
 
 Člověk mysli řekne:
-„Tady je ošklivý suchý klacek.“
+„Tady je ošklivý suchý strom.“
+
 Člověk srdce řekne:
 „Jak překrásný je i teď
 tento strom bez mízy, stojící přede mnou.“
@@ -1280,6 +1283,7 @@ v jiném světě.
 
  Obyčejné lidské oko
 vidí sterilitu vnějšího světa.
+
   Duchovní srdce
 vidí květiny a plody
   vnitřního zdroje světa.
@@ -1301,6 +1305,7 @@ vidí květiny a plody
 To, co Bůh od tebe chce,
 je oddaná jednota
   s Jeho Vizí.
+
 Tvoje mysl možná nepochopí
   Jeho Poselství okamžitě,
 ale tvé srdce jednoty
@@ -1363,7 +1368,8 @@ co má pro tebe v životě cenu.
 
 Jestliže nemáš vnitřní nutkání
   těšit svého Nejvyššího Pilota,
-proč potom zůstáváš  v Jeho Lodi?
+proč potom zůstáváš v Jeho Lodi?
+
 Pouze Jej nutíš,
 aby nesl váhu
   mrtvého slona.
@@ -1484,8 +1490,10 @@ pro tvoji naprostou přeměnu.
 
 Můj Pane, dovol mi být
 ve stálém spojení s Tebou.
+
 Když budu chtít něco říci,
   budu se modlit.
+
 A když se budu chtít něco naučit,
   budu meditovat.
 
@@ -1506,6 +1514,7 @@ A když se budu chtít něco naučit,
 Nechť šplhám vzhůru po nebeském žebříku,
 abych seděl u Nohou
   mého Pána Nejvyššího.
+
 Až dosáhnu jisté výšky
   vědomí,
 uvidím tam mého Milovaného Nejvyššího.
@@ -1561,13 +1570,11 @@ a dal mu Svůj vlastní Štít Odpoutání.
 
 #+BEGIN_VERSE
 
-
   Tvé džungli mysli
 může meditace připadat cizí.
   Ale tvé zahradě srdce
 nebude meditace nikdy připadat cizí -
   nikdy!
-
 
 #+END_VERSE
 
@@ -1584,13 +1591,11 @@ nebude meditace nikdy připadat cizí -
 #+BEGIN_VERSE
 
   Ráno
-medituj na vlny a příboj
-  oceánu.
+medituj na vlny a příboj oceánu.
 Nalezneš dynamickou energii života.
 
   Večer
-medituj na hlubokou nesmírnost
-  oceánu.
+medituj na hlubokou nesmírnost oceánu.
 Pocítíš mír Nekonečnosti.
 
 #+END_VERSE
@@ -1653,6 +1658,7 @@ trvalo mu pouze
   pár letmých okamžiků,
 než přinesl svoji vnitřní existenci
   do popředí.
+
 Je vskutku vybraným hledajícím,
 protože je na zemi mnoho, mnoho těch,
 kteří prostě nebudou schopni
@@ -1788,7 +1794,7 @@ vidíme, že je něco,
 Na božské úrovni
 není nic takového
   jako oběť.
-Vše je jednotou -
+Vše je jednotou -- 
   jednotou dokonalosti
   a jednotou uspokojení.
 
@@ -1830,6 +1836,7 @@ I velký šampión,
 není-li duchovní,
 může velmi trpět
   svým bezdůvodným strachem z budoucnosti.
+
 Říká sám sobě:
   „Kdo ví,
 zítra možná nebudu schopen
@@ -1855,10 +1862,13 @@ a odejme moji slávu.“
 Z lidského života
 se pokoušíme dosáhnout 
   božského života.
+
 Přinejmenším se tedy vzdejme
   našich zvířecích vlastností.
+
 Nechť jsou naše srdce chápavá
   k našim druhům cestovatelům.
+
 Dovolme Bohu naplnit
 alespoň jeden Jeho Sen
  uvnitř a skrze nás.
@@ -1880,6 +1890,7 @@ alespoň jeden Jeho Sen
   Moje mysl mi řekne
 jen to, co ji  ostatní naučili:
 „Květina je krásná.“
+
 Moje srdce však cítí a vidí všechno
   jako nový zážitek.
 Může dokonce objevit úžasnou moc
@@ -2188,6 +2199,9 @@ a Bůh Milovaný používá tebe
 velmi zvláštním způsobem.
 
 #+END_VERSE
+
+
+
 
 #+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
 
