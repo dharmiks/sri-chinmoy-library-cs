@@ -253,11 +253,11 @@ Můj pane, jak mohu být s Tebou
 když mi nedáváš
  to, co chci?
 
-”Mé dítě, nemohu být k tobě krutý.
+„Mé dítě, nemohu být k tobě krutý.
 Ty si ode Mne žádáš
  otroctví konečného. 
 Já ti chci dát a také ti dám
- jedině svobodu Nekonečna. 
+ jedině svobodu Nekonečna.“ 
 
 #+END_VERSE
 
@@ -325,7 +325,7 @@ Moře dumajících pochybností
 mé mysli
 versus
 vždy-osvěcující Slunce Trpělivosti mého Pána:
-Kdo dokáže neomylně 
+kdo dokáže neomylně 
 předpovědět výsledek?
 
 #+END_VERSE
@@ -477,6 +477,7 @@ s nezrozenou a nesmrtelnou jednotou mé duše
 Během mé ranní meditace 
  v Hodině Boha
 mi můj Milovaný Nejvyšší řekl:
+
 ”Mé dítě, fontánový Zdroj
  extáze tvého srdce
 není skrytým pokladem,
@@ -1020,7 +1021,8 @@ Myslí si a cítí,
 že jsou absolutně dokonalí.
  Co s nimi mohu dělat?
  Co pro ně mohu udělat?
-”Mé dítě, nemusíš s nimi nic dělat
+
+„Mé dítě, nemusíš s nimi nic dělat
 nebo pro ně něco udělat.
  Jen zůstaň tichým.
 Tvá tichá lhostejnost
@@ -1933,8 +1935,7 @@ co má a čím je tvá duše.
 
 Každé dveře se dají zavřít -- 
 ne však dveře smrti.
-Každá místnost může zůstat 
-bez povšimnutí --
+Každá místnost může zůstat bez povšimnutí --
 ne však místnost života.
 
 #+END_VERSE
@@ -2098,7 +2099,8 @@ mi Bůh co nejsoucitněji řekl:
 ”Noc lpění je neuhasitelnou žízní
  ve světě tužeb.”
 Dnes mi Bůh s největší spokojeností říká:
-”Světlo nelpění je nekonečnou nektarovou blažeností
+
+„Světlo nelpění je nekonečnou nektarovou blažeností
  ve světě aspirace.”
 
 #+END_VERSE
