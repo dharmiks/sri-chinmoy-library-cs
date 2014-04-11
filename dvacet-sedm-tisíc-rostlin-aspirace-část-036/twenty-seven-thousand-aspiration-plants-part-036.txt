@@ -1,4 +1,4 @@
-#+TITLE: Dvacet sedm tisíc rostlin aspirace, část 036
+﻿#+TITLE: Dvacet sedm tisíc rostlin aspirace, část 036
 #+AUTHOR: Sri Chinmoy
 #+LANGUAGE: cs
 
@@ -609,7 +609,7 @@ Nežádám tě,
 abys běžel. 
 Žádám tě, 
 abys jen šel,
-když jsi začátečník.
+jsi-li začátečník.
 
 #+END_VERSE
 
@@ -857,6 +857,7 @@ na pomoc mému srdci.
 
 Ten, kdo radostně dává,
 je tekoucí řekou.
+
 Ten, kdo nevděčně přijímá,
 je stojatým rybníkem.
 
@@ -1097,8 +1098,7 @@ postrádat domov.
 Uniknul 
 z velkoměsta nedokonalosti.
 Proto se s ním
-nyní přátelí
-spokojenost.
+nyní přátelí spokojenost.
 
 #+END_VERSE
 
@@ -1249,6 +1249,7 @@ tvůj Bohu se přibližující život.
 
 Osvícené srdce:
 to je to, čím jsi.
+
 Zmatená mysl:
 to je to, co máš.
 
@@ -1497,10 +1498,10 @@ v pokoji tvého srdce?
 
 #+BEGIN_VERSE
 
-Excellence-edifice
-Cannot be founded on
-The stale achievements
-Of the past.
+Excelentní stavba
+nemůže být založena 
+na zatuchlých úspěších
+minulosti.
 
 #+END_VERSE
 
@@ -1593,6 +1594,7 @@ tvůj neosvícený život.
 
 Je pro mě bolestivým úkolem
 přátelit se s naprostými hlupáky.
+
 Je pro mě nemožným úkolem
 jim nějak pomoci.	
 
@@ -1916,6 +1918,7 @@ Když hledající neuposlechne
 svého Mistra,
 je to počátek
 jeho duchovní smrti.
+
 Když se Mistr odtáhne
 od hledajícího,
 je to dovršení
@@ -1941,6 +1944,8 @@ a nyní se navrací
 do Božího Srdce.
 
 #+END_VERSE
+
+
 
 
 #+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
