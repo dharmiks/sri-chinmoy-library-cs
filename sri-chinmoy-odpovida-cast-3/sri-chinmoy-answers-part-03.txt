@@ -620,7 +620,7 @@ Mé tělo má ruce, nohy, oči a tak dále. Mám upřednostňovat pouze své ruc
 
 
 
-* 1.
+* 1. Mé umění není žádné umění… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -637,7 +637,7 @@ bez světla v mé duši.
 #+END_VERSE
 
 
-* 2.
+* 2. Mé umění není žádné umění… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -655,7 +655,7 @@ bez čistoty v mém srdci.
 #+END_VERSE
 
 
-* 3.
+* 3. Mé umění není žádné umění…
 
   :PROPERTIES:
   :GENRE: poem
@@ -672,7 +672,7 @@ bez prostoty mé mysli.
 #+END_VERSE
 
 
-* 4.
+* 4. Mé umění je hra na schovávanou… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -690,7 +690,7 @@ a proudícími slzami mého srdce.
 #+END_VERSE
 
 
-* 5.
+* 5. Umělec, jenž je ve mně… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -710,7 +710,7 @@ a život plnosti.
 #+END_VERSE
 
 
-* 6.
+* 6. Srdce mého umění… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -731,7 +731,7 @@ závislá na sobě bezesně.
 #+END_VERSE
 
 
-* 7.
+* 7. Má mysl říká, že cokoliv dělám… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -759,7 +759,7 @@ Netřeba říkat,
 #+END_VERSE
 
 
-* 8.
+* 8. Mé umění se nechce podepsat… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -778,7 +778,7 @@ vládne světu.
 #+END_VERSE
 
 
-* 9.
+* 9. Mé umění žije… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -797,7 +797,7 @@ pro snem zaplavené Pobřeží Skutečnosti.
 #+END_VERSE
 
 
-* 10.
+* 10. Když maluji nebo kreslím… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -815,7 +815,7 @@ udržuji zahradu své mysli
 #+END_VERSE
 
 
-* 11.
+* 11. Mohu oddělit svůj umělecký život… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -834,7 +834,7 @@ a rozpuků mé meditace.
 #+END_VERSE
 
 
-* 12.
+* 12. Ve chvíli, kdy začnu malovat… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -853,7 +853,7 @@ plameny mého aspirujícího srdce.
 #+END_VERSE
 
 
-* 13.
+* 13. První věci první:… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -873,7 +873,7 @@ do rychlíku aspirace svého srdce.
 #+END_VERSE
 
 
-* 14.
+* 14. Skutečně, ve svém umění chci spatřit…
 
   :PROPERTIES:
   :GENRE: poem
@@ -893,7 +893,7 @@ víc, nekonečně víc.
 #+END_VERSE
 
 
-* 15.
+* 15. Umělec-člověk ve mně říká:… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -925,8 +925,7 @@ mého umění.
 #+END_VERSE
 
 
-* 16.
-
+* 16. Uvnitř mého uměleckého života… 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
@@ -958,7 +957,7 @@ ve všech mých činnostech.“
 #+END_VERSE
 
 
-* 17.
+* 17. Nechci, aby lidstvo opakovalo… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -982,7 +981,7 @@ jeho cíle sebepřekonávání.
 #+END_VERSE
 
 
-* 18.
+* 18. Během své hluboké meditace… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1004,7 +1003,7 @@ prohlíží mé umělecké výtvory.
 #+END_VERSE
 
 
-* 19.
+* 19. Ó můj trpasličí rozume… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1032,7 +1031,7 @@ v mém životě umění.
 #+END_VERSE
 
 
-* 20.
+* 20. Každý pták mého srdce… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1050,7 +1049,7 @@ mírových květů.
 #+END_VERSE
 
 
-* 21.
+* 21. Ó mí nesčetní ptáčci srdce… 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1071,7 +1070,7 @@ po nekonečné Obloze Svobody.
 #+END_VERSE
 
 
-* 22.
+* 22. Nejvyšší, můj Nejvyšší, můj Pane Nejvyšší…
 
   :PROPERTIES:
   :GENRE: prayer
