@@ -1,4 +1,4 @@
-#+TITLE: Písně srdce hledajícího
+﻿#+TITLE: Písně srdce hledajícího
 #+AUTHOR: Sri Chinmoy
 #+LANGUAGE: cs
 
@@ -81,7 +81,7 @@ Bůh nám říká: „Mé dítě, mám pro tebe nesčetně způsobů, jak Mě re
 
 
 
-* Profesor David Eckel: Sri Chinmoy bude odpovídat.. Sri Chinmoy bude odpovídat na duchovní otázky. Jestliže máte nějaká témata, na která byste se chtěli zeptat a která vychází z vašeho studia hinduistických mýtů a rituálů nebo ze studia hinduistické filozofie, teď je vhodná příležitost, abyste se zeptali.
+* Profesor David Eckel: Sri Chinmoy bude odpovídat na duchovní otázky. Jestliže máte nějaká témata, na která byste se chtěli zeptat a která vychází z vašeho studia hinduistických mýtů a rituálů nebo ze studia hinduistické filozofie, teď je vhodná příležitost, abyste se zeptali.
 
   :PROPERTIES:
   :GENRE: qa
