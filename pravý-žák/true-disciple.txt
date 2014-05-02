@@ -494,7 +494,7 @@ Neomezeného.
 #+END_VERSE
 
 
-* 27 Mistrův úsměv plný požehnání
+* 27 Mistrův úsměv plný požehnání...
 ...
 
   :PROPERTIES:
@@ -748,7 +748,7 @@ Mistr říká,
 
 PRAVÝ žák
 říká svému Mistrovi:
-”Mistře, tak jako je tvé vychvalování mocné,
+”Mistře, tak jako je tvé posilování mocné,
 tak je i tvé kárání milosrdné.”
 
 #+END_VERSE
@@ -1239,14 +1239,14 @@ svému pravému žáku, vnukovi:
 ”Jsi tak roztomilý!
 Jsi tak zbožňování hodný!
 Má Láska je všechna pro tebe.
-Má Pých je všechna v tobě.
+Má Pýcha je všechna v tobě.
 Jsem celý pro tebe,
 můj vnuku!”
 
 #+END_VERSE
 
 
-* 66 Dědeček Bůh říká
+* 66 Dědeček Bůh říká...
 ...
 
   :PROPERTIES:

@@ -141,8 +141,8 @@ dušeplné a plodné.
 
 #+BEGIN_VERSE
 
-Bůh nechce, aby
-mé srdce zůstalo
+Bůh nechce, 
+aby mé srdce zůstalo
 neviditelným hledajícím.
 
 #+END_VERSE
@@ -159,8 +159,8 @@ neviditelným hledajícím.
 
 #+BEGIN_VERSE
 
-Bůh chce, abych studoval
-důkladně
+Bůh chce, 
+abych studoval důkladně
 historii aspirace svého srdce.
 
 #+END_VERSE
@@ -753,7 +753,7 @@ k napadení Boha.
 
 Buď opatrný na to, co děláš
 se svými myšlenkami,
-proto, že každá myšlenka má a je
+protože každá myšlenka má a je
 atomovou silou.
 
 #+END_VERSE
@@ -810,8 +810,7 @@ do tíže myšlenky.
 
 #+BEGIN_VERSE
 
-Když tě šípy myšlenek tvé mysli
-zasáhnou,						(přepadnou)
+Když tě šípy myšlenek tvé mysli zasáhnou,
 slyš pouze jedno slovo
 explodující jako bomba
 ve tvé meditaci:
@@ -1188,11 +1187,9 @@ oceňuje tvé nejvyšší vědomí.
 
 #+BEGIN_VERSE
 
-Tím nejlepším zakončením
-každého roku
-je pouze vděčnost
-za věci, které se staly
-ve tvém životě.
+Tím nejlepším zakončením každého roku
+je pouze vděčnost za věci, 
+které se staly ve tvém životě.
 
 #+END_VERSE
 

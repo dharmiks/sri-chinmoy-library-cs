@@ -742,8 +742,7 @@ Představivosti, ach představivosti!]
   :END:
 
 
-/( Haridasův dům. Vstupují Tansen a Akbar převlečený
- za Tansenova sluhu. Haridas medituje.)/
+/(Haridasův dům. Vstupují Tansen a Akbar převlečený za Tansenova sluhu. Haridas medituje.)/
 
    TANSEN: „Mistře, to je můj sluha. Dlouho mne prosil a žadonil, abych ho k tobě přivedl, protože chce slyšet tvoji hudbu. Dnes jsem ho přivedl.“
 
@@ -767,7 +766,7 @@ Představivosti, ach představivosti!]
 
    HARIDAS: „Tansene, ty lháři! Takhle jsem tě zpívat neučil. To je úplně špatně.“
 
-/(Haridas snatches away Tansen's tampura and starts singing the same song most soulfully and hauntingly. The music comes from another world. Akbar is in deep trance. Tansen is listening with deepest inner delight.)/
+/(Haridas si bere Tansenovu tampuru a začne zpívat stejnou píseň velmi oduševněle a chytlavě. Hudba pochází z jiného světa. Akbar je v hlubokém transu. Tansen poslouchá s nejhlubší vnitřní blažeností.)/
 
 /(Haridas zpívá.)/
 
@@ -2001,9 +2000,7 @@ Taj Mahal, Agra a Delhi --
 
 všechny jsou synonymem Mogulského císařství --
 
-nyní se spojily
-
-v rodině Mírových květů Sri Chinmoye.
+nyní se spojily v rodině Mírových květů Sri Chinmoye.
 
 
 
