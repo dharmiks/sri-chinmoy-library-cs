@@ -689,7 +689,7 @@ Protože my lidské bytosti vidíme nepřátele kolem nás, protože se bojíme,
   :END:
   
   
-  
+
 * Poznámky editora:
 
   :PROPERTIES:
@@ -698,7 +698,8 @@ Protože my lidské bytosti vidíme nepřátele kolem nás, protože se bojíme,
   :CITE-KEY: SCA:276e2-cs
   :END:
 
-/ Následující otázky byly položeny pí.Hanne Strongovou, manželkou  Maurice Stronga, generálního sekretáře Shromáždění Životního prostředí a Rozvoje Organizace Spojených národů./
+
+/Následující otázky byly položeny pí.Hanne Strongovou, manželkou  Maurice Stronga, generálního sekretáře Shromáždění Životního prostředí a Rozvoje Organizace Spojených národů./
 
 
 
@@ -755,7 +756,7 @@ Vědci mohou sestoupit na měsíc a vidět několik kamenů, ale nezískají vě
   :CITE-KEY: SCA:278e2-cs
   :END:
 
-/ Následující otázky byly položeny na Maui 25-26 ledna 1995/
+/Následující otázky byly položeny na Maui 25-26 ledna 1995/
 
 
 * Je duchovní život snazší nebo méně přísný dnes než byl v dávných časech?
@@ -992,8 +993,10 @@ Problém je, že naprosto každý si vytvořil určité představy na mentální
   :END:
 
 
-/Sri Chinmoy:/ Když Ardžuna viděl, jak se k němu Bhíšma přibližuje na bitevním poli, řekl Krišnovi, „Ztratili jsme našeho otce, když jsme byli docela mladí a Bhíšma se stal našim otcem. Měl pro nás takovou náklonnost, takovou lásku! Existuje něco, co bychom pro něj neudělali? Je mi tak drahý. Nemohu proti němu bojovat“
+/Sri Chinmoy:/ Když Ardžuna viděl, jak se k němu Bhíšma přibližuje na bitevním poli, řekl Krišnovi, „Ztratili jsme našeho otce, když jsme byli docela mladí a Bhíšma se stal našim otcem. Měl pro nás takovou náklonnost, takovou lásku! Existuje něco, co bychom pro něj neudělali? Je mi tak drahý. Nemohu proti němu bojovat.“
+
 Krišna řekl Ardžunovi, „Ve vnitřním světě je již mrtvý. Musíš s ním bojovat!“ Ardžuna se stále nemohl přinutit, aby bojoval se svým praotcem; tak Krišna vystoupil z vozu se svým diskem. Když se Krišna rozhodl bojovat, řekl, „Moje láska k Ardžunovi je nekonečně důležitější než můj tak zvaný slib. Lidé řeknou, že nejsem muž slova. Nevadí mi to. Chci dokázat, že moje láska k Ardžunovi je nekonečně důležitější než zachování cti v očích světa. Jsem připraven jít proti obyčejnému světlu morálky, abych dostál vítězství pro Ardžunu.“ Když Bhíšma viděl, že je to sám Krišna, kdo proti němu přišel bojovat, začal k němu utíkat, aby byl zabit. Řekl, „Můj Pane, můj Pane, vím, kdo Jsi! Když mě zabiješ, budu ten nejšťastnější člověk. Na jednu stranu, jsem tak smutný, že porušuješ Svůj Slib. Na druhou stranu jsem tak rád, že zemřu Tvou Rukou. Zabij mě, zabij mě! Umírám, abych zemřel Tvou Rukou!“
+
 Potom Ardžuna řekl, „Ne, ne, jsem připraven bojovat!“ Vtáhl Krišnu zpátky do vozu a bojoval s Bhíšmou s nejvyšším odhodláním. Konečně Bhíšma ležel umírající a Ardžuna přinesl svému praotci vodu.
 
 Když Ardžuna viděl, že Bhíšma roní slzy, řekl Krišnovi, „Náš praotec neudělal nic špatného. Byl tak dobrý, tak božský. Proč musí trpět? Proč jsou slzy v jeho očích?“
@@ -1036,6 +1039,7 @@ Slyšíc tato slova, jeden z Durjodhanových vlastních bratrů přiběhl a řek
 /Sri Chinmoy:/ Pokud člověk vede dobrý duchovní život, zájem tam určitě je a tito kosmičtí bohové a bohyně budou pomáhat. Ve škole, ne všichni studenti mají stejný standard; učitel musí učit každého Toma, Dicka a Harryho. Ale pokud jsou tam vynikající studenti, kteří dávají učiteli radost, dá těmto studentům více pozornosti. Soukromě jim řekne, „Přijďte do mého domu. Naučím vás více.“ Ale žák třetí třídy se bude učit pouze během školních hodin. V duchovním životě také, pokud je někdo dobrý hledající, tento člověk dostane více pozornosti a vnitřního spojení od kosmického boha nebo bohyně, která ovládá jeho osud. Ale znovu, kosmický bůh má pouze omezené vedení nad člověkem; pouze Nejvyšší má plné vedení.
 
 Na začátku kosmičtí bohové a bohyně budou hledajícímu pomáhat tolika způsoby, když se hledající modlí a medituje. Potom, když vidí, že hledající jde za jejich výšku nebo jejich sféru, v tu chvíli se postaví proti němu. Nejprve vás sytí a sytí; pak stojí ve vaší cestě. Když ale dokážete jít za ně, potom se vám znovu stanou nesmírně blízkými a pokusí se vám pomoci, protože vidí, že máte přímé spojení s Absolutním.
+
 Stejně tak, pokud má někdo duchovního Mistra, kosmičtí bohové se neúčastní. Protože duchovní Mistr jako zástupce hledajícího má přímé spojení s Nejvyšším, Absolutním Nejvyšším, kosmičtí bohové a bohyně se stávají jako drazí příbuzní. S příbuznými neudržujeme denní spojení. Můžeme je vidět jednou za měsíc nebo jednou za šest let. Ale s naším otcem nebo matkou udržujeme spojení každý den. Takže duchovní Mistr je někdo, s kým naše duše musí udržovat denní spojení.
 
 
@@ -1063,6 +1067,7 @@ Stejně tak, pokud má někdo duchovního Mistra, kosmičtí bohové se neúčas
 
 
 /Sri Chinmoy:/ Evoluce vyžaduje lidskou inkarnaci a oni nemají lidskou inkarnaci. Mytologie vypráví příběhy o tom, jak jeden bůh proklel jiného, tak že se narodil do třídy služebnické rodiny; ale to jsou jen příběhy. V podstatě, si kosmičtí bohové neberou lidskou inkarnaci, protože nejsou vývojové bytosti. Začali meditovat před tisíci lety a dostali obrovskou duchovní nebo okultní sílu a nesmírné světlo a to je uspokojilo. Dosáhli určité výšky, která je nekonečně nadřazenější výšce běžných lidských bytostí. Ale nepůjdou výše.
+
 Podle našeho současného standardu se nám kosmičtí bohové zdají neomezení. Řekněme, že máme jeden dolar, a kosmičtí bohové mají deset miliónů dolarů. Ale deset miliónů dolarů není konečných. Po deseti miliónech přichází miliarda a tak dále. Cítíme, že se kosmičtí bohové zabývají Neomezeným, ale toto není ten případ. Proto je nezbytné vzít fyzické tělo a vyvíjet se od zvířecího do lidského, do božského a konečně do Nejvyššího.
 
 Ve srovnání s kosmickými bohy, jsou nyní lidské bytosti jako malé děti. Dítě je tak malé; kdo si kdy dokáže představit, že jednoho dne bude šest stop vysoké? Ale ačkoliv právě teď jsme slabší než nejslabší, naše evoluce se nikdy nezastaví, protože lidské bytosti mají věčný hlad, věčnou aspiraci jít nahoru, nahoru, nahoru. Modlitbou a meditací a odevzdáním naší vůle Boží Vůli, my lidské bytosti se nakonec staneme svatými, jogíny a půjdeme za kosmické bohy.
