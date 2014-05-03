@@ -19,7 +19,7 @@
 
 
 
-* 1
+* 1 Dvacet sedm tisíc rostlin aspirace:
 
   :PROPERTIES:
   :GENRE:  poem
@@ -37,13 +37,13 @@ Můj Milovaný Pán Nejvyšší mi však
   říká:
 ”Mé dítě, ta vzdálenost je příliš
   krátká.
-v naprosté tajnosti ti říkám:
+V naprosté tajnosti ti říkám:
 po celé cestě budu kráčet s tebou.”
 
 #+END_VERSE
 
 
-* 2
+* 2 Každý den celá má bytost 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -63,7 +63,7 @@ krásou zaplavený úsvit radosti.
 #+END_VERSE
 
 
-* 3
+* 3 Volba je má zbytečná 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -84,7 +84,7 @@ Volba je nezbytnou dokonalostí
 
 
 
-* 4
+* 4 Jsem vybraným nástrojem 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -109,7 +109,7 @@ a nanejvýše dobrého
 #+END_VERSE
 
 
-* 5
+* 5 Stanu se modlitbou čistoty 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -130,7 +130,7 @@ aby Boží Blaženost
 #+END_VERSE
 
 
-* 6
+* 6 Protože se Bůh nevzdal 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -149,7 +149,7 @@ jak se pak můžeš ty vzdát
 #+END_VERSE
 
 
-* 7
+* 7 Jsi zbytečný!
 
   :PROPERTIES:
   :GENRE:  poem
@@ -170,7 +170,7 @@ aby Bůh Milovník bojoval za tebe.
 #+END_VERSE
 
 
-* 8
+* 8 Dušeplný pláč, kde je?
 
   :PROPERTIES:
   :GENRE:  poem
@@ -194,7 +194,7 @@ Oka Vize.
 #+END_VERSE
 
 
-* 9
+* 9 Pokud se ty a tvá mysl obáváte 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -213,7 +213,7 @@ znamená to, že nejsi nikde nablízku
 #+END_VERSE
 
 
-* 10
+* 10 Včera má mysl milovala 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -237,7 +237,7 @@ bude můj život milovat
 #+END_VERSE
 
 
-* 11
+* 11 Můj pane, jak mohu být s Tebou spokojen 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -262,7 +262,7 @@ Já ti chci dát a také ti dám
 #+END_VERSE
 
 
-* 12
+* 12 Ó Běžče Inspirace 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -286,7 +286,7 @@ Je tak mocné.
 #+END_VERSE
 
 
-* 13
+* 13 Ráno mi můj Pán dává 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -310,7 +310,7 @@ mě můj Pán žádá, abych zabil
 #+END_VERSE
 
 
-* 14
+* 14 Moře dumajících pochybností 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -331,7 +331,7 @@ předpovědět výsledek?
 #+END_VERSE
 
 
-* 15
+* 15 Boha a Sílu Jeho Nekonečnosti 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -350,7 +350,7 @@ Boha a Lásku Jeho Nesmrtelnosti
 #+END_VERSE
 
 
-* 16
+* 16 Ó má mysli, rychle se odnauč 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -376,7 +376,7 @@ Potřebuji Tebe jen,
 #+END_VERSE
 
 
-* 17
+* 17 Oko Vize mého Milovaného Nejvyššího 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -400,7 +400,7 @@ mého Milovaného Nejvyššího
 #+END_VERSE
 
 
-* 18
+* 18 Pláč mé modlitby činí mé srdce
 
   :PROPERTIES:
   :GENRE:  poem
@@ -419,7 +419,7 @@ Pláč mé modlitby činí mé srdce
 #+END_VERSE
 
 
-* 19
+* 19 Můj Milovaný Nejvyšší mi nikdy nepřipomíná 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -440,7 +440,7 @@ Jeho Sliby, mocné jako Lev?
 #+END_VERSE
 
 
-* 20
+* 20 Ó má hloupá mysli 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -463,7 +463,7 @@ s nezrozenou a nesmrtelnou jednotou mé duše
 #+END_VERSE
 
 
-* 21
+* 21 Během mé ranní meditace 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -487,7 +487,7 @@ nýbrž vždy posvátným,
 #+END_VERSE
 
 
-* 22
+* 22 Když jsem uvnitř své mysli 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -511,7 +511,7 @@ jsem průsvitným úsměvem
 #+END_VERSE
 
 
-* 23
+* 23 Včera mne můj úspěšný život
 
   :PROPERTIES:
   :GENRE:  poem
@@ -534,7 +534,7 @@ můj Milovaný Nejvyšší mi nyní říká,
 #+END_VERSE
 
 
-* 24
+* 24 Zaslepil jsi zcela své oko vize 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -556,7 +556,7 @@ slepě odmítáš přijmout
 #+END_VERSE
 
 
-* 25
+* 25 Já tomu říkám život 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -575,7 +575,7 @@ Moje duše to nazývá oltářem čistoty.
 #+END_VERSE
 
 
-* 26
+* 26 Jsi vybrané dítě Boha 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -596,7 +596,7 @@ neomezenému, jednotnému já.
 #+END_VERSE
 
 
-* 27
+* 27 Na bojišti mého života 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -615,7 +615,7 @@ mému srdci plnému jednoty Boha.
 #+END_VERSE
 
 
-* 28
+* 28 Jestliže se nestaneš vědomým milovníkem Boha 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -635,7 +635,7 @@ cizincem vlastním výškám
 #+END_VERSE
 
 
-* 29
+* 29 Víš, že jsem velice zvláštním členem 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -658,7 +658,7 @@ Božím nejmilejším nástrojem-dítětem:
 #+END_VERSE
 
 
-* 30
+* 30 Čím je má lidská mysl 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -682,7 +682,7 @@ ne-li Životem Univerzální Jednoty
 #+END_VERSE
 
 
-* 31
+* 31 Milovník Boha, který se modlí 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -704,7 +704,7 @@ je hrdinným bojovníkem
 #+END_VERSE
 
 
-* 32
+* 32 Dobře víš, že mysli trvá dlouho 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -725,7 +725,7 @@ aby se stal dokonale dokonalým?
 #+END_VERSE
 
 
-* 33
+* 33 Hned ode dne, kdy jsem se narodil 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -747,7 +747,7 @@ Božího velmi neobyčejného jídla:
 #+END_VERSE
 
 
-* 34
+* 34 Potajmu se těšíš z výstupu 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -766,7 +766,7 @@ Otevřeně se těšíš ze sbírání
 #+END_VERSE
 
 
-* 35
+* 35 Moje modlitba si přeje skrýt 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -787,7 +787,7 @@ krásu přirozeného Života Ticha
 #+END_VERSE
 
 
-* 36
+* 36 Tvá aspirace ti říká 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -808,7 +808,7 @@ Tvá realizace ti říká,
 #+END_VERSE
 
 
-* 37
+* 37 Moje stálé štěstí  zcela závisí 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -829,7 +829,7 @@ Vnitřního Pilota.
 #+END_VERSE
 
 
-* 38
+* 38 Nic není tak věčně krásné
 
   :PROPERTIES:
   :GENRE:  poem
@@ -848,7 +848,8 @@ Nic není tak nekonečně plodné
 #+END_VERSE
 
 
-* 39
+* 39 Hluboce obdivuji
+
 
   :PROPERTIES:
   :GENRE:  poem
@@ -873,7 +874,7 @@ sloužíš Bohu a pomáháš člověku.
 #+END_VERSE
 
 
-* 40
+* 40 Nechceš žít pro druhé 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -903,7 +904,7 @@ ale také ti nikdy neodpustím,
 #+END_VERSE
 
 
-* 41
+* 41 Ó mé srdce, cožpak se nedokážeš stát 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -924,7 +925,8 @@ ale také ti nikdy neodpustím,
 #+END_VERSE
 
 
-* 42
+* 42 Tak jako pochybovačná mysl
+
 
   :PROPERTIES:
   :GENRE:  poem
@@ -943,7 +945,7 @@ nenalézá pohodlí v hrobu.
 #+END_VERSE
 
 
-* 43
+* 43 Můj Pane Nejvyšší 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -972,7 +974,7 @@ nedokážeš poděkovat Mně, stvoření?
 #+END_VERSE
 
 
-* 44
+* 44 Nejsi tím, co si ostatní myslí, že jsi 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1003,7 +1005,7 @@ A tvá dokonalost je jiným jménem
 #+END_VERSE
 
 
-* 45
+* 45 Můj Pane, každý den vídám ty 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1031,7 +1033,7 @@ bude tím nejpřísnějším trestem.”
 #+END_VERSE
 
 
-* 46
+* 46 Pouze mysl, která dostala tvrdě za vyučenou 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1052,7 +1054,7 @@ již za ni vykonalo aspirující srdce
 #+END_VERSE
 
 
-* 47
+* 47 Mysl toulajících se myšlenek 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1070,7 +1072,8 @@ bude muset dříve či později čelit
 #+END_VERSE
 
 
-* 48
+* 48 Můj Pane, neříkej mi jaká je Tvá Vůle.
+
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1095,7 +1098,7 @@ možná nebudu tolik šťasten.
 #+END_VERSE
 
 
-* 49
+* 49 Závod mého Mistra již začal 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1116,7 +1119,7 @@ a můj život bude jen pro něj samotného.
 #+END_VERSE
 
 
-* 50
+* 50 Možná nejsem velkým hledajícím pravdy 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1140,7 +1143,7 @@ by byla zničující
 #+END_VERSE
 
 
-* 51
+* 51 Můj Pane, prověř mne 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1160,7 +1163,7 @@ stoupajícího pláče mého srdce.
 #+END_VERSE
 
 
-* 52
+* 52 Tvé srdce přebývá ve vzdálené zemi naděje 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1185,7 +1188,7 @@ v závodu manifestace Boha.
 #+END_VERSE
 
 
-* 53
+* 53 Můj Pane Nejvyšší, tentokrát budu dobrým hledajícím 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1206,7 +1209,7 @@ Tě ušetřím trápení
 #+END_VERSE
 
 
-* 54
+* 54 Mysli, má mysli, cožpak se nestydíš 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1234,7 +1237,7 @@ když vědomě začnu kráčet
 #+END_VERSE
 
 
-* 55
+* 55 Abys strávil jed své podezřívavé mysli 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1254,7 +1257,7 @@ a novou cestu aspirace.
 #+END_VERSE
 
 
-* 56
+* 56 Bůh se nestydí za to 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1276,7 +1279,7 @@ tolik příležitostí, kolik jen potřebuje,
 #+END_VERSE
 
 
-* 57
+* 57 Univerzální objev všech milovníků Boha 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1296,7 +1299,7 @@ je transcendentálním Světlem
 #+END_VERSE
 
 
-* 58
+* 58 Zima noci letargie mého života 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1318,7 +1321,7 @@ schopnost projevit Jeho Spokojenost
 #+END_VERSE
 
 
-* 59
+* 59 Má mysl je vždy neochotná
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1337,7 +1340,7 @@ co si o ní myslí --
 #+END_VERSE
 
 
-* 60
+* 60 Každý den je beznadějně marným dnem 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1358,7 +1361,7 @@ inkoustu nečistoty mé mysli.
 #+END_VERSE
 
 
-* 61
+* 61 Kdo tě žádá, abys zůstal 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1380,7 +1383,7 @@ po starodávné cestě sebedisciplíny --
 #+END_VERSE
 
 
-* 62
+* 62 Když jsi chycen v pasti 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1402,7 +1405,7 @@ v moři blaženosti moudrosti.
 #+END_VERSE
 
 
-* 63
+* 63 Můj Pane Nejvyšší, byly doby 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1426,7 +1429,7 @@ svými slzami plnými vděku.
 #+END_VERSE
 
 
-* 64
+* 64 Mé oči jsou tak slepé 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1462,7 +1465,7 @@ přebývá uvnitř Soucitného Srdce
 #+END_VERSE
 
 
-* 65
+* 65 Jsi nerozumný 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1485,7 +1488,7 @@ zítřejší vnější slunce
 #+END_VERSE
 
 
-* 66
+* 66 Jaké to je, být dalším Bohem?
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1504,7 +1507,7 @@ ale také svého nedosažitelného Já.
 #+END_VERSE
 
 
-* 67
+* 67 Bůh stvořil mnoho cest
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1527,7 +1530,7 @@ být těšen
 #+END_VERSE
 
 
-* 68
+* 68 Radostné sebedávání
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1546,7 +1549,7 @@ mince dokonalého života.
 #+END_VERSE
 
 
-* 69
+* 69 Žádná vnější schopnost se nikdy nemůže vyrovnat
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1565,7 +1568,7 @@ sebepřekonávání
 #+END_VERSE
 
 
-* 70
+* 70 Ó má pochybující mysli 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1584,7 +1587,7 @@ aby ocenila naše úžasné rozloučení.
 #+END_VERSE
 
 
-* 71
+* 71 Má pyšná mysl 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1605,7 +1608,7 @@ Běda, běda!
 #+END_VERSE
 
 
-* 72
+* 72 Chtějí-li tvé oči vidět svět 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1624,7 +1627,7 @@ pak tak učiň, avšak neměř.
 #+END_VERSE
 
 
-* 73
+* 73 V komnatě zmatku své mysli 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1646,7 +1649,7 @@ na trůn osvícení
 #+END_VERSE
 
 
-* 74
+* 74 Předtím, než se odvážíš 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1666,7 +1669,7 @@ musíš ztišit svou mysl,
 #+END_VERSE
 
 
-* 75
+* 75 Tvou jedinou stížností
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1687,7 +1690,7 @@ Mou jedinou stížností vůči tobě je,
 #+END_VERSE
 
 
-* 76
+* 76 Víš, co tě nezdar naučil?
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1707,7 +1710,7 @@ nečinit žádné kompromisy
 #+END_VERSE
 
 
-* 77
+* 77 Duše, má duše 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1732,7 +1735,7 @@ a přesto tě zoufale
 #+END_VERSE
 
 
-* 78
+* 78 Vnější slunce není nové každý den 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1753,7 +1756,7 @@ Vnitřní slunce mi říká, abych bezesně zůstal
 #+END_VERSE
 
 
-* 79
+* 79 Lidské ve mně předvídá můj život 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1777,7 +1780,7 @@ nebo se připravím
 #+END_VERSE
 
 
-* 80
+* 80 Úsměv mé inspirace 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1798,7 +1801,7 @@ Píseň mé realizace
 #+END_VERSE
 
 
-* 81
+* 81 Má je mysl, jež chce být 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1819,7 +1822,7 @@ Můj je život, jenž chce být
 #+END_VERSE
 
 
-* 82
+* 82 Tvůj život je napaden 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1839,7 +1842,7 @@ těšit se ze slunečně nesmírných snů
 #+END_VERSE
 
 
-* 83
+* 83 Každé ráno věrně provádím tři věci:
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1861,7 +1864,7 @@ Pokouším se stát vítězným nástrojem
 #+END_VERSE
 
 
-* 84
+* 84 Jediný závan noci nečistoty
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1882,7 +1885,7 @@ a strom příslibu
 #+END_VERSE
 
 
-* 85
+* 85 Je zároveň profesorem 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1901,7 +1904,7 @@ i studentem žaláře přeludů
 #+END_VERSE
 
 
-* 86
+* 86 Nesnaž se zatajit 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1922,7 +1925,7 @@ co má a čím je tvá duše.
 #+END_VERSE
 
 
-* 87
+* 87 Každé dveře se dají zavřít 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1941,7 +1944,7 @@ ne však místnost života.
 #+END_VERSE
 
 
-* 88
+* 88 Aspirující srdce 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1961,7 +1964,7 @@ se mohou a také se budou těšit
 #+END_VERSE
 
 
-* 89
+* 89 Jsi svým životem plným břemen 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -1980,7 +1983,7 @@ tvé srdce osvobodí?
 #+END_VERSE
 
 
-* 90
+* 90 Tvůj život překypuje problémy 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -2001,7 +2004,7 @@ Avšak Bůh ví a říká světu,
 #+END_VERSE
 
 
-* 91
+* 91 Včera jsem byl upřímný 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -2026,7 +2029,7 @@ ve Svůj božský nástroj,
 #+END_VERSE
 
 
-* 92
+* 92 Nyní, když je tvá mysl zcela otřesena 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -2046,7 +2049,7 @@ v tobě a skrze tebe.
 #+END_VERSE
 
 
-* 93
+* 93 Protože ke každé situaci přistupuješ 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -2057,7 +2060,7 @@ v tobě a skrze tebe.
 
 #+BEGIN_VERSE
 
-Neboť ke každé situaci přistupuješ
+Protože ke každé situaci přistupuješ
 s měsíčně bílou rozvahou svého srdce,
 Bůh ti poskytuje
 Svůj vlastní, vesmír sytící Hlas Věčnosti.
@@ -2065,7 +2068,7 @@ Svůj vlastní, vesmír sytící Hlas Věčnosti.
 #+END_VERSE
 
 
-* 94
+* 94 Čím je bezesné sebedávání 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -2083,7 +2086,7 @@ uvnitř zahrady aspirace tvého srdce?
 #+END_VERSE
 
 
-* 95
+* 95 Včera mi Bůh co nejsoucitněji řekl: 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -2094,19 +2097,18 @@ uvnitř zahrady aspirace tvého srdce?
 
 #+BEGIN_VERSE
 
-Včera
-mi Bůh co nejsoucitněji řekl:
+Včera mi Bůh co nejsoucitněji řekl:
 ”Noc lpění je neuhasitelnou žízní
  ve světě tužeb.”
-Dnes mi Bůh s největší spokojeností říká:
 
+Dnes mi Bůh s největší spokojeností říká:
 „Světlo nelpění je nekonečnou nektarovou blažeností
  ve světě aspirace.”
 
 #+END_VERSE
 
 
-* 96
+* 96 Modlím se a modlím k Bohu
 
   :PROPERTIES:
   :GENRE:  poem
@@ -2128,7 +2130,7 @@ Boží Srdce a má duše cítí,
 #+END_VERSE
 
 
-* 97
+* 97 Neutápěj se v beznaději 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -2149,7 +2151,7 @@ a Boží bezmeznou Blažeností.
 #+END_VERSE
 
 
-* 98
+* 98 V den, kdy jsem sám sebe 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -2175,7 +2177,7 @@ jak Jemu sloužit ve světě
 #+END_VERSE
 
 
-* 99
+* 99 Můj Milovaný Nejvyšší, zcela určitě zkrotím 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -2195,7 +2197,7 @@ pro Tvou realizaci.
 #+END_VERSE
 
 
-* 100
+* 100 Jseš si naprosto jistý 
 
   :PROPERTIES:
   :GENRE:  poem
@@ -2213,6 +2215,9 @@ Pokud ano, pak buď ujištěn,
  Své Věčnosti ZLATÉ VŠE.
 
 #+END_VERSE
+
+
+
 
 
 #+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
