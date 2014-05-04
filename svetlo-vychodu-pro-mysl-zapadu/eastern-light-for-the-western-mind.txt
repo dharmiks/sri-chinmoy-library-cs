@@ -490,7 +490,7 @@ Veď mne od neskutečného ke Skutečnému.
 Veď mne od temnoty ke Světlu.
 Veď mne od smrti k Nesmrtelnosti. 
 
--- /Brhadáranjaka Upanišada/
+-- Brhadáranjaka Upanišada
 
 #+END_QUOTE
 
@@ -749,6 +749,8 @@ Jeho jsem poznal, Bytost Nejvyšší,
 zářivou, svítící jako Slunce nad temnotou,
 daleko za objetím pohlcující tmy.
 
+-- Védy
+
 #+END_QOUTE
 
 Zřeci nás učí, že transcendentální Skutečnost a všeobjímající Existence jsou jedním a tímtéž.
@@ -930,7 +932,7 @@ Dokonalost na zemi dosud nezasvitla, jednoho dne však zasvitne. Dokonalost je i
 
 „Nikdo z nás ještě neviděl ideální lidskou bytost, a přesto se nám říká, abychom v ni věřili. Nikdo z nás ještě neviděl ideálně dokonalého člověka, a přesto se bez tohoto ideálu nemůžeme vyvíjet.“
 
--- Vivékánanda 
+-- Svámí Vivékánanda 
 
 #+END_QUOTE
 
@@ -1160,7 +1162,7 @@ Rousseau nám říká něco docela pozoruhodného:
 
 Svědomí je hlasem duše, stejně jako je vášeň hlasem těla. Není divu, že si často protiřečí.
 
--- Rousseau 
+-- Jean-Jacques Rousseau 
 
 #+END_QUOTE
 
@@ -1818,7 +1820,9 @@ Chtěl bych vám dát velmi krátkou promluvu o vědomí těla. Na začátek byc
 
 #+BEGIN_QUOTE
 
-/Sannjása koru karma sahana/ 
+„Sannjása koru karma sahana“ 
+
+-- Védy
 
 #+END_QUOTE
 
@@ -1848,7 +1852,7 @@ Tělo, vitálno a mysl se obvykle hádají a bojují. Nikdy se nechtějí navzá
 
 #+BEGIN_QUOTE
 
-/Atmanam rathinam viddhi shariram rathameva tu/ 
+„/Atmanam rathinam viddhi shariram rathameva tu/“ 
 
 -- Katha Upanišada
 
@@ -1928,7 +1932,9 @@ Vědomí, které používá neomezená duše, se nazývá plodné vědomí.
 
 #+BEGIN_QUOTE
 
-/Aum Anandamayee Chaitanyamayee Satyamayee Parame/
+„/Aum anandamayee chaitanyamayee satyamayee parame/“ 
+
+-- Védy
 
 #+END_QUOTE
 
@@ -2050,7 +2056,7 @@ Také Bacon řekl něco pozoruhodného:
 
 „Zvolit si čas znamená ušetřit čas.“
 
--- Bacon
+-- Francis Bacon 
 
 #+END_QUOTE
 
@@ -2442,7 +2448,7 @@ Velký indický filozof Šankaráčárja říkal:
 
 „Kdo je tvá žena, kdo je tvůj syn? Tento svět je velmi zvláštní. Bratři, myslete na Toho, který vám patří věčně.“
 
--- Šankaráčárja 
+-- Srí Šankaráčárja 
 
 #+END_QUOTE
 
