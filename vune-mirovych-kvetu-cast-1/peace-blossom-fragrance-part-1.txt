@@ -381,7 +381,7 @@ jen když pláču a vzdychám.
 
 #+BEGIN_VERSE
 
-Člověk -- univerzální Bůh --
+Člověk -- univerzální Bůh -- 
 je květinou míru.
 
 #+END_VERSE
@@ -398,7 +398,7 @@ je květinou míru.
 
 #+BEGIN_VERSE
 
-Bůh - transcendentální člověk -
+Bůh -- transcendentální člověk -- 
 je vůní míru.
 
 #+END_VERSE
@@ -932,8 +932,7 @@ duchovní Krásou.
 #+END_VERSE
 
 
-* 53 Mír se rodí
-...
+* 53 Mír se rodí...
 
   :PROPERTIES:
   :GENRE: poem
@@ -1842,7 +1841,7 @@ dotazy a podezřeními?
 Můj mír je
 Trumpetou Nejvyššího Vítězství
 mého Pána
-ve mně a pro mě.
+ve mně a pro mne.
 
 #+END_VERSE
 
