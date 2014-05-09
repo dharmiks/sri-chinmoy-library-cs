@@ -549,7 +549,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 
 
-* Když říkáš /„Aum“/, obracíš se na nekonečné? 
+* Když říkáš „Aum“, obracíš se na nekonečné? 
 
  :PROPERTIES:
  :GENRE: qa
