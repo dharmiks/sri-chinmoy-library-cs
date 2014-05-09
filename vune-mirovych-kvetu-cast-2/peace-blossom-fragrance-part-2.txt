@@ -809,7 +809,7 @@ vědomě odhaluje Boha.
 #+END_VERSE
 
 
-* 142 Svět vědy
+* 142 Svět vědy...
 ...
 
   :PROPERTIES:
@@ -1403,10 +1403,10 @@ kteří se těší z rozdělování světa.
 
 #+BEGIN_VERSE
 
-Your attraction to God's Eye
-And your devotion to God's Feet
-Will definitely give your mind
-Peace unhorizoned.
+Tvé přitahování k Božímu Oku 
+a tvá oddanost Božím Nohám
+určitě dají tvé mysli
+neohraničený Mír.
 
 #+END_VERSE
 
