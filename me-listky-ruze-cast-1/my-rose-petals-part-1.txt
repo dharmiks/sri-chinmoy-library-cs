@@ -7,12 +7,12 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0005
+  :BOOK-NUMBER: 
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: Nil
   :YEAR: 2001
   :PUBLISHER: Madal Bal
-  :CITE-KEY: RP-1
+  :CITE-KEY: RP-1-cs
   :GENRE: discourse
   :KEYWORDS:
   :END:

@@ -12,7 +12,7 @@
   :ORIGINAL-EDITION: nil
   :YEAR: 1998
   :PUBLISHER: SCC Praha
-  :CITE-KEY: RRGB
+  :CITE-KEY: RRGB-cs
   :GENRE: qa
   :KEYWORDS:
   :END:
