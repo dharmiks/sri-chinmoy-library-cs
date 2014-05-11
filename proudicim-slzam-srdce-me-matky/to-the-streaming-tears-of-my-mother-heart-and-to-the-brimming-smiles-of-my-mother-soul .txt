@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: STMH:1-cs
+  :CITE-KEY: STMH:1
   :END:
 
 
@@ -46,7 +46,7 @@ duše mé matky
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: STMH:2-cs
+  :CITE-KEY: STMH:2
   :END:
 
 
@@ -84,7 +84,7 @@ duše mé matky
   :PROPERTIES:
   :GENRE: stories
   :KEYWORDS:
-  :CITE-KEY: STMH:3-cs
+  :CITE-KEY: STMH:3
   :END:
 
 
@@ -94,7 +94,7 @@ duše mé matky
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:4-cs
+  :CITE-KEY: STMH:4
   :END:
 
 
@@ -109,7 +109,7 @@ Pro oslavu stého výročí narození mé matky jsme použili mnoho soch a obraz
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:5-cs
+  :CITE-KEY: STMH:5
   :END:
 
 
@@ -136,7 +136,7 @@ Dali mi jméno Madal, což znamená "buben", ale mé úplně první jméno, mé 
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:6-cs
+  :CITE-KEY: STMH:6
   :END:
 
 
@@ -151,7 +151,7 @@ Během mého dětství jsem byl známý pod něžnou Bengálskou přezdívkou Ma
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:7-cs
+  :CITE-KEY: STMH:7
   :END:
 
 
@@ -176,7 +176,7 @@ Můj úsměv ale vždy překonal její srdce. Jak rychle mne začala peskovat, t
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:8-cs
+  :CITE-KEY: STMH:8
   :END:
 
 
@@ -191,7 +191,7 @@ Když mi byly čtyři roky, moje nejstarší sestra, Arpita, řekla, že nemám 
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:9-cs
+  :CITE-KEY: STMH:9
   :END:
 
 
@@ -204,7 +204,7 @@ Každý víkend brzo ráno přišla moje maminka se sklenicí vody za tatínkem 
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:10-cs
+  :CITE-KEY: STMH:10
   :END:
 
 
@@ -219,7 +219,7 @@ Když jsem byl ještě dítě, měli jsme psa jménem Bhaga, bílého zajíce, m
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:11-cs
+  :CITE-KEY: STMH:11
   :END:
 
 
@@ -246,7 +246,7 @@ Když se můj tatínek stal vlastníkem a ředitelem banky, zůstával celý tý
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:12-cs
+  :CITE-KEY: STMH:12
   :END:
 
 
@@ -270,7 +270,7 @@ Když mi bylo deset let, navštívil jsem strýce z maminčiny strany, který ž
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:13-cs
+  :CITE-KEY: STMH:13
   :END:
 
 
@@ -289,7 +289,7 @@ Ještě před tím, než jsem přijal duchovní život, jsem jedl ryby a maso, c
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:14-cs
+  :CITE-KEY: STMH:14
   :END:
 
 
@@ -304,7 +304,7 @@ Moje maminka se velmi zlobila, když slyšela, jak lidé někoho kritizují. V j
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:15-cs
+  :CITE-KEY: STMH:15
   :END:
 
 
@@ -317,7 +317,7 @@ Moje maminka věřila v Boha, ale nikdy nevěřila doktorům. Kdykoli někdo z r
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:16-cs
+  :CITE-KEY: STMH:16
   :END:
 
 
@@ -334,7 +334,7 @@ Když mi byly čtyři roky, dostal jsem tu nejhorší možnou formu neštovic. N
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:17-cs
+  :CITE-KEY: STMH:17
   :END:
 
 
@@ -355,7 +355,7 @@ V průběhu mé nemoci byla chvíle, kdy se můj stav zhoršoval den ode dne. Ne
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:18-cs
+  :CITE-KEY: STMH:18
   :END:
 
 
@@ -378,7 +378,7 @@ Jednou byl můj bratr Chitta velmi vážně nemocen a s ním také syn příbuzn
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:19-cs
+  :CITE-KEY: STMH:19
   :END:
 
 
@@ -395,7 +395,7 @@ Moje sestra Lily jednou dostala velmi nebezpečnou tyfovou horečku. Vesnický d
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:20-cs
+  :CITE-KEY: STMH:20
   :END:
 
 
@@ -412,7 +412,7 @@ Takový byl vnitřní pláč mé maminky.
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:21-cs
+  :CITE-KEY: STMH:21
   :END:
 
 
@@ -446,7 +446,7 @@ Byl mi pouze jeden rok a tři měsíce, když můj nejstarší bratr, Hriday, op
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:22-cs
+  :CITE-KEY: STMH:22
   :END:
 
 
@@ -465,7 +465,7 @@ Když se můj nejstarší bratr vrátil na pár měsíců do Chittagongu, jiný 
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:23-cs
+  :CITE-KEY: STMH:23
   :END:
 
 
@@ -494,7 +494,7 @@ Když můj tatínek odešel ze svého zaměstnání inspektora železničních d
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:24-cs
+  :CITE-KEY: STMH:24
   :END:
 
 
@@ -511,7 +511,7 @@ Můj nejstarší strýc z maminčiny strany, Ambika Charan Biswas, se kvůli té
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:25-cs
+  :CITE-KEY: STMH:25
   :END:
 
 
@@ -550,7 +550,7 @@ Morálně i právně, ale zejména morálně měl tatínek zodpovědnost, proto�
   :PROPERTIES:
   :GENRE: stories
   :KEYWORDS:
-  :CITE-KEY: STMH:26-cs
+  :CITE-KEY: STMH:26
   :END:
 
 
@@ -560,7 +560,7 @@ Morálně i právně, ale zejména morálně měl tatínek zodpovědnost, proto�
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:27-cs
+  :CITE-KEY: STMH:27
   :END:
 
 
@@ -582,7 +582,7 @@ Moje maminka zemřela na strumu,  na nádor v levé části krku. V Americe to n
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:28-cs
+  :CITE-KEY: STMH:28
   :END:
 
 
@@ -597,7 +597,7 @@ Když je někdo velmi duchovní, pak v čase, kdy přichází smrt, řekne svým
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:29-cs
+  :CITE-KEY: STMH:29
   :END:
 
 
@@ -614,7 +614,7 @@ Sri Aurobindo měl dva nebo tři sekretáře. Jeden z nich byl dříve lékařem
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:30-cs
+  :CITE-KEY: STMH:30
   :END:
 
 
@@ -629,7 +629,7 @@ Ten den, kdy moje maminka umírala, jsem byl v domě strýce z maminčiny strany
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:31-cs
+  :CITE-KEY: STMH:31
   :END:
 
 
@@ -648,7 +648,7 @@ Podle našeho hinduistického zvyku se mrtvé tělo nenechává déle než jeden
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:32-cs
+  :CITE-KEY: STMH:32
   :END:
 
 
@@ -667,7 +667,7 @@ Když moje maminka opustila tělo, jeden z blízkých příbuzných mi vyprávě
   :PROPERTIES:
   :GENRE: stories
   :KEYWORDS:
-  :CITE-KEY: STMH:33-cs
+  :CITE-KEY: STMH:33
   :END:
 
 
@@ -677,7 +677,7 @@ Když moje maminka opustila tělo, jeden z blízkých příbuzných mi vyprávě
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:34-cs
+  :CITE-KEY: STMH:34
   :END:
 
 
@@ -692,7 +692,7 @@ Můj fyzický otec mne ze světa duší navštěvuje jenom při vzácných a vý
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:35-cs
+  :CITE-KEY: STMH:35
   :END:
 
 
@@ -707,7 +707,7 @@ Ráno, když cvičím, se mnou občas bývají Matka Kálí a duše mé fyzické
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:36-cs
+  :CITE-KEY: STMH:36
   :END:
 
 
@@ -722,7 +722,7 @@ Jednou zrána, když jsem zrovna cvičil, jsem slyšel Ranjanu, svoji sekretář
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:37-cs
+  :CITE-KEY: STMH:37
   :END:
 
 
@@ -737,7 +737,7 @@ Po té, co jsem uzvedl 240 liber jednou rukou, dali mi žáci dort se třemi dro
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:38-cs
+  :CITE-KEY: STMH:38
   :END:
 
 
@@ -754,7 +754,7 @@ To ráno, kdy jsem poprvé uzvedl jednou rukou 360 liber, přišla maminčina du
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:39-cs
+  :CITE-KEY: STMH:39
   :END:
 
 
@@ -796,7 +796,7 @@ Jednou jsem začal se vzpíráním okolo 7.30 ráno. Na první pokus, který je 
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:40-cs
+  :CITE-KEY: STMH:40
   :END:
 
 
@@ -809,7 +809,7 @@ Když jsem poprvé zvedl jednou rukou 604 libry, objevila se přede mnou ve vnit
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:41-cs
+  :CITE-KEY: STMH:41
   :END:
 
 
@@ -824,7 +824,7 @@ V říjnu 1988, když jsem byl ve Washingtonu na meditaci v Pentagonu, jsem nav�
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:42-cs
+  :CITE-KEY: STMH:42
   :END:
 
 
@@ -842,7 +842,7 @@ V červnu 1991 jsem jel do International Falls na zvláštní obřad. Starosta F
   :GENRE: story
   :PRIVATE: t
   :KEYWORDS:
-  :CITE-KEY: STMH:43-cs
+  :CITE-KEY: STMH:43
   :END:
 
 
@@ -863,7 +863,7 @@ Náš malý pes Kanu opustil tělo 23.prosince 1992. Mí žáci a já, ale zejm�
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: STMH:44-cs
+  :CITE-KEY: STMH:44
   :END:
 
 
@@ -878,7 +878,7 @@ První den tohoto roku jsem byl v Nandi, na Fidji. Přišla za mnou duše mého 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: STMH:45-cs
+  :CITE-KEY: STMH:45
   :END:
 
 

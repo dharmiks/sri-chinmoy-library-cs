@@ -27,7 +27,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:1-cs
+  :CITE-KEY: EA:1
   :END:
 
 
@@ -84,7 +84,7 @@ Asbury Park, New Jersey
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:2-cs
+  :CITE-KEY: EA:2
   :END:
 
 
@@ -110,7 +110,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:3-cs
+  :CITE-KEY: EA:3
   :END:
 
 
@@ -134,7 +134,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:4-cs
+  :CITE-KEY: EA:4
   :END:
 
 
@@ -164,7 +164,7 @@ Long Island, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:5-cs
+  :CITE-KEY: EA:5
   :END:
 
 
@@ -198,7 +198,7 @@ Long Island. New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:6-cs
+  :CITE-KEY: EA:6
   :END:
 
 
@@ -224,7 +224,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:7-cs
+  :CITE-KEY: EA:7
   :END:
 
 
@@ -255,7 +255,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:8-cs
+  :CITE-KEY: EA:8
   :END:
 
 
@@ -287,7 +287,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:9-cs
+  :CITE-KEY: EA:9
   :END:
 
 
@@ -315,7 +315,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:10-cs
+  :CITE-KEY: EA:10
   :END:
 
 
@@ -344,7 +344,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:11-cs
+  :CITE-KEY: EA:11
   :END:
 
 
@@ -370,7 +370,7 @@ Hollis, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:12-cs
+  :CITE-KEY: EA:12
   :END:
 
 "Můj drahý Milovaný Nejvyšší, vím, že ztělesňuješ dvě skutečnosti, dva aspekty -- lidskou skutečnost, nebo lidský aspekt, a božskou skutečnost, nebo božský aspekt. Prosím, řekni mi, který Tvůj aspekt je lepší, nebo který aspekt si musím vybrat, abych dělal nejrychlejší pokrok, nebo zda je z mé strany nutné zvolit si jeden z aspektů, abych dospěl k nejvyššímu Cíli hluboko uvnitř Tebe. "
@@ -396,7 +396,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:13-cs
+  :CITE-KEY: EA:13
   :END:
 
 
@@ -425,7 +425,7 @@ Flushing, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:14-cs
+  :CITE-KEY: EA:14
   :END:
 
 
@@ -454,7 +454,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:15-cs
+  :CITE-KEY: EA:15
   :END:
 
 
@@ -484,7 +484,7 @@ Caldwell, New Jersey \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:16-cs
+  :CITE-KEY: EA:16
   :END:
 
 
@@ -526,7 +526,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:17-cs
+  :CITE-KEY: EA:17
   :END:
 
 
@@ -556,7 +556,7 @@ United Nations, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:18-cs
+  :CITE-KEY: EA:18
   :END:
 
 
@@ -597,7 +597,7 @@ Purchase, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:19-cs
+  :CITE-KEY: EA:19
   :END:
 
 
@@ -635,7 +635,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:20-cs
+  :CITE-KEY: EA:20
   :END:
 
 
@@ -661,7 +661,7 @@ Bronx, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:21-cs
+  :CITE-KEY: EA:21
   :END:
 
 
@@ -685,7 +685,7 @@ Norwalk, Connecticut \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:22-cs
+  :CITE-KEY: EA:22
   :END:
 
 
@@ -714,7 +714,7 @@ New Rochelle, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:23-cs
+  :CITE-KEY: EA:23
   :END:
 
 
@@ -753,7 +753,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:24-cs
+  :CITE-KEY: EA:24
   :END:
 
 
@@ -781,7 +781,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:25-cs
+  :CITE-KEY: EA:25
   :END:
 
 

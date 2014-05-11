@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:26-cs
+  :CITE-KEY: EA:26
   :END:
 
 
@@ -66,7 +66,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:27-cs
+  :CITE-KEY: EA:27
   :END:
 
 
@@ -90,7 +90,7 @@ United Nations, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:28-cs
+  :CITE-KEY: EA:28
   :END:
 
 
@@ -132,7 +132,7 @@ Jamaica, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:29-cs
+  :CITE-KEY: EA:29
   :END:
 
 
@@ -158,7 +158,7 @@ New York, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:30-cs
+  :CITE-KEY: EA:30
   :END:
 
 
@@ -186,7 +186,7 @@ New York, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:31-cs
+  :CITE-KEY: EA:31
   :END:
 
 
@@ -213,7 +213,7 @@ New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:32-cs
+  :CITE-KEY: EA:32
   :END:
 
 
@@ -233,7 +233,7 @@ New York, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:33-cs
+  :CITE-KEY: EA:33
   :END:
 
 
@@ -261,7 +261,7 @@ New York, New York \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:34-cs
+  :CITE-KEY: EA:34
   :END:
 
 
@@ -285,7 +285,7 @@ New York, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:35-cs
+  :CITE-KEY: EA:35
   :END:
 
 
@@ -315,7 +315,7 @@ Jamaica, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:36-cs
+  :CITE-KEY: EA:36
   :END:
 
 
@@ -353,7 +353,7 @@ Jamaica, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:37-cs
+  :CITE-KEY: EA:37
   :END:
 
 
@@ -379,7 +379,7 @@ Jamaica, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:38-cs
+  :CITE-KEY: EA:38
   :END:
 
 
@@ -412,7 +412,7 @@ Jamaica, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:39-cs
+  :CITE-KEY: EA:39
   :END:
 
 
@@ -454,7 +454,7 @@ Hollis, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:40-cs
+  :CITE-KEY: EA:40
   :END:
 
 
@@ -488,7 +488,7 @@ Hollis, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:41-cs
+  :CITE-KEY: EA:41
   :END:
 
 
@@ -523,7 +523,7 @@ Jamaica, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:42-cs
+  :CITE-KEY: EA:42
   :END:
 
 
@@ -551,7 +551,7 @@ United Nations New York, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:43-cs
+  :CITE-KEY: EA:43
   :END:
 
 
@@ -575,7 +575,7 @@ Great Neck, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:44-cs
+  :CITE-KEY: EA:44
   :END:
 
 
@@ -600,7 +600,7 @@ Jamaica, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:45-cs
+  :CITE-KEY: EA:45
   :END:
 
 
@@ -624,7 +624,7 @@ Bronx, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:46-cs
+  :CITE-KEY: EA:46
   :END:
 
 
@@ -649,7 +649,7 @@ Na cestě do New Jersey
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:47-cs
+  :CITE-KEY: EA:47
   :END:
 
 
@@ -670,7 +670,7 @@ Na cestě do New Jersey
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:48-cs
+  :CITE-KEY: EA:48
   :END:
 
 
@@ -696,7 +696,7 @@ Union, New Jersey
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:49-cs
+  :CITE-KEY: EA:49
   :END:
 
 
@@ -717,7 +717,7 @@ Na cestě na Jamaicu, New York
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: EA:50-cs
+  :CITE-KEY: EA:50
   :END:
 
 

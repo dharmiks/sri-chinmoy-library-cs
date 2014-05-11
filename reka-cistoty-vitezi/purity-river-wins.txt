@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:1e1-cs
+  :CITE-KEY: PRW:1e1
   :END:
 
 
@@ -33,7 +33,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:1-cs
+  :CITE-KEY: PRW:1
   :END:
 
 
@@ -53,7 +53,7 @@ V našem vnitřním životě aspirace nemůže být nic důležitějšího než 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:2-cs
+  :CITE-KEY: PRW:2
   :END:
 
 
@@ -69,7 +69,7 @@ Každý den myslíme a konáme. Činnost nemůže být nikdy oddělena od našeh
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:3-cs
+  :CITE-KEY: PRW:3
   :END:
 
 
@@ -87,7 +87,7 @@ Prosím modlete se a meditujte na vnitřní světlo, vyšší světlo, aby svět
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:4-cs
+  :CITE-KEY: PRW:4
   :END:
 
 
@@ -103,7 +103,7 @@ V našem každodenním životě často narazíme na lidi a místa, která jsou v
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:5e2-cs
+  :CITE-KEY: PRW:5e2
   :END:
 
 
@@ -113,7 +113,7 @@ V našem každodenním životě často narazíme na lidi a místa, která jsou v
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:5-cs
+  :CITE-KEY: PRW:5
   :END:
 
 
@@ -129,7 +129,7 @@ Poté, co si vytvoříme čistotu ve fyzickém, musíme cítit, že tato čistot
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:6-cs
+  :CITE-KEY: PRW:6
   :END:
 
 
@@ -143,7 +143,7 @@ Poté, co si vytvoříme čistotu ve fyzickém, musíme cítit, že tato čistot
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:7-cs
+  :CITE-KEY: PRW:7
   :END:
 
 
@@ -170,7 +170,7 @@ Když pláču, létám.
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:8-cs
+  :CITE-KEY: PRW:8
   :END:
 
 
@@ -186,7 +186,7 @@ Pokaždé, když získáte nějakou myšlenku, pokaždé,  když jakákoliv pře
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:9-cs
+  :CITE-KEY: PRW:9
   :END:
 
 
@@ -204,7 +204,7 @@ Mistr nebude žádat žáky, aby dělali něco, co nemohou udělat. Jestliže ř
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:10-cs
+  :CITE-KEY: PRW:10
   :END:
 
 
@@ -217,7 +217,7 @@ Mistr nebude žádat žáky, aby dělali něco, co nemohou udělat. Jestliže ř
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:11-cs
+  :CITE-KEY: PRW:11
   :END:
 
 
@@ -232,7 +232,7 @@ Mistr nebude žádat žáky, aby dělali něco, co nemohou udělat. Jestliže ř
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:12-cs
+  :CITE-KEY: PRW:12
   :END:
 
 
@@ -254,7 +254,7 @@ Vedeme-li duchovní život, získáme takovéto aktivní tělo, dynamické vitá
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:13-cs
+  :CITE-KEY: PRW:13
   :END:
 
 
@@ -272,7 +272,7 @@ Existuje ještě jeden postup, kterým můžeme očistit své duchovní nervy a 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:14e3-cs
+  :CITE-KEY: PRW:14e3
   :END:
 
 
@@ -282,7 +282,7 @@ Existuje ještě jeden postup, kterým můžeme očistit své duchovní nervy a 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:14-cs
+  :CITE-KEY: PRW:14
   :END:
 
 
@@ -296,7 +296,7 @@ Existuje ještě jeden postup, kterým můžeme očistit své duchovní nervy a 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:15-cs
+  :CITE-KEY: PRW:15
   :END:
 
 
@@ -310,7 +310,7 @@ Existuje ještě jeden postup, kterým můžeme očistit své duchovní nervy a 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:16-cs
+  :CITE-KEY: PRW:16
   :END:
 
 
@@ -324,7 +324,7 @@ Existuje ještě jeden postup, kterým můžeme očistit své duchovní nervy a 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:17-cs
+  :CITE-KEY: PRW:17
   :END:
 
 
@@ -341,7 +341,7 @@ Ale co děláme samotným potlačováním? Volíme negativní cestu. Snažíme s
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:18-cs
+  :CITE-KEY: PRW:18
   :END:
 
 
@@ -357,7 +357,7 @@ Ale tyto metody jsou pouze pro začátečníky. Jednou přijde den, kdy se podí
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:19-cs
+  :CITE-KEY: PRW:19
   :END:
 
 
@@ -375,7 +375,7 @@ Očištění a aspirace musí jít společně bok po boku. Jestliže chcete ček
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:20-cs
+  :CITE-KEY: PRW:20
   :END:
 
 
@@ -394,7 +394,7 @@ Když získáme vnitřní zkušenosti, celé naše bytí bude zaplaveno blaženo
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:21-cs
+  :CITE-KEY: PRW:21
   :END:
 
 
@@ -414,7 +414,7 @@ V budoucnosti budou duše sestupovat do světa, aniž by procházely procesem li
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:22-cs
+  :CITE-KEY: PRW:22
   :END:
 
 
@@ -429,7 +429,7 @@ Je bláhové snažit se redukovat všechny lidské a božské podněty na takzva
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:23-cs
+  :CITE-KEY: PRW:23
   :END:
 
 
@@ -443,7 +443,7 @@ Je bláhové snažit se redukovat všechny lidské a božské podněty na takzva
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:24-cs
+  :CITE-KEY: PRW:24
   :END:
 
 
@@ -456,7 +456,7 @@ Je bláhové snažit se redukovat všechny lidské a božské podněty na takzva
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:25e4-cs
+  :CITE-KEY: PRW:25e4
   :END:
 
 
@@ -466,7 +466,7 @@ Je bláhové snažit se redukovat všechny lidské a božské podněty na takzva
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:25-cs
+  :CITE-KEY: PRW:25
   :END:
 
 
@@ -486,7 +486,7 @@ Dokážete-li přeměnit své vitální emoce do božských emocí, tyto božsk�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:26-cs
+  :CITE-KEY: PRW:26
   :END:
 
 
@@ -503,7 +503,7 @@ Někdy si druzí mohou stěžovat na tvé chování, protože děláš něco, co
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:27-cs
+  :CITE-KEY: PRW:27
   :END:
 
 
@@ -518,7 +518,7 @@ Kdo ho prosil, aby jim pomáhal? Pouze jeho vlastní ego. Ty ženy za ním nepř
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:28-cs
+  :CITE-KEY: PRW:28
   :END:
 
 
@@ -531,7 +531,7 @@ Sri Chinmoy:/ Rozšíření srdce je velmi dobré, velmi potřebné. Ale musíme
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:29-cs
+  :CITE-KEY: PRW:29
   :END:
 
 
@@ -545,7 +545,7 @@ Sri Chinmoy:/ Rozšíření srdce je velmi dobré, velmi potřebné. Ale musíme
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:30-cs
+  :CITE-KEY: PRW:30
   :END:
 
 
@@ -563,7 +563,7 @@ Jestliže zakoušíme pravou radost, můžeme cítit, že Bůh je námi potěše
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:31-cs
+  :CITE-KEY: PRW:31
   :END:
 
 
@@ -578,7 +578,7 @@ Lásku také můžeš vyjádřit a manifestovat ve fyzickém světě skrze čist
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:32e5-cs
+  :CITE-KEY: PRW:32e5
   :END:
 
 
@@ -588,7 +588,7 @@ Lásku také můžeš vyjádřit a manifestovat ve fyzickém světě skrze čist
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:32-cs
+  :CITE-KEY: PRW:32
   :END:
 
 
@@ -607,7 +607,7 @@ Na zemi pracuje touha i aspirace. Ale přijde den, kdy bude celý svět přeměn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:33-cs
+  :CITE-KEY: PRW:33
   :END:
 
 
@@ -624,7 +624,7 @@ Duše také po nějaký čas vyčkává. Uvnitř duše je neústupná Vůle Nejv
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:34-cs
+  :CITE-KEY: PRW:34
   :END:
 
 
@@ -641,7 +641,7 @@ Ale jak se můžeme osvobodit od touhy po plodech činnosti? Když pracujeme, p�
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:35e6-cs
+  :CITE-KEY: PRW:35e6
   :END:
 
 
@@ -651,7 +651,7 @@ Ale jak se můžeme osvobodit od touhy po plodech činnosti? Když pracujeme, p�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:35-cs
+  :CITE-KEY: PRW:35
   :END:
 
 
@@ -673,7 +673,7 @@ Doporučuji mladším manželským párům, aby duchovně rostli pomalu, jistě 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:36-cs
+  :CITE-KEY: PRW:36
   :END:
 
 
@@ -688,7 +688,7 @@ Toto vše vám říkám z přísně duchovního hlediska. Než můžeme zamítno
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:37-cs
+  :CITE-KEY: PRW:37
   :END:
 
 
@@ -703,7 +703,7 @@ Manželství není v některých případech nutné. Ti, kdo prošli rodinným �
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:38-cs
+  :CITE-KEY: PRW:38
   :END:
 
 
@@ -718,7 +718,7 @@ Co potřebuješ skutečně pro očištění je aspirace. Ale nemuč sám sebe. P
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:39-cs
+  :CITE-KEY: PRW:39
   :END:
 
 
@@ -733,7 +733,7 @@ Co potřebuješ skutečně pro očištění je aspirace. Ale nemuč sám sebe. P
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:40e7-cs
+  :CITE-KEY: PRW:40e7
   :END:
 
 
@@ -743,7 +743,7 @@ Co potřebuješ skutečně pro očištění je aspirace. Ale nemuč sám sebe. P
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:40-cs
+  :CITE-KEY: PRW:40
   :END:
 
 
@@ -758,7 +758,7 @@ Nejprve božští vojáci vstoupí a vidí, že jsou zde nebožští vojáci. Po
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:41-cs
+  :CITE-KEY: PRW:41
   :END:
 
 
@@ -778,7 +778,7 @@ Takže se koncentruj na třetí oko a uzři světlo, vstup do světla, vrosť do
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:42-cs
+  :CITE-KEY: PRW:42
   :END:
 
 
@@ -793,7 +793,7 @@ Nečistota je také vyléčitelná choroba, ale nečistota v nás vydrží déle
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:43-cs
+  :CITE-KEY: PRW:43
   :END:
 
 
@@ -806,7 +806,7 @@ Nečistota je také vyléčitelná choroba, ale nečistota v nás vydrží déle
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:44-cs
+  :CITE-KEY: PRW:44
   :END:
 
 
@@ -821,7 +821,7 @@ Napsal jsem esej nazvanou “Úloha čistoty v duchovním životě”(pozn.: v k
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:45-cs
+  :CITE-KEY: PRW:45
   :END:
 
 
@@ -834,7 +834,7 @@ Napsal jsem esej nazvanou “Úloha čistoty v duchovním životě”(pozn.: v k
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:46-cs
+  :CITE-KEY: PRW:46
   :END:
 
 
@@ -848,7 +848,7 @@ Napsal jsem esej nazvanou “Úloha čistoty v duchovním životě”(pozn.: v k
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:47-cs
+  :CITE-KEY: PRW:47
   :END:
 
 
@@ -864,7 +864,7 @@ Protože jsem duchovní člověk, ti, kteří přicházejí se mnou meditovat, b
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: PRW:48-cs
+  :CITE-KEY: PRW:48
   :END:
 
 

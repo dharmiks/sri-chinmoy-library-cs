@@ -25,7 +25,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: KMP:1-cs
+  :CITE-KEY: KMP:1
   :END:
 
 
@@ -44,7 +44,7 @@ I když použijeme síly kundalini ke správnému účelu, nemůžeme touto cest
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: KMP:2-cs
+  :CITE-KEY: KMP:2
   :END:
 
 
@@ -73,7 +73,7 @@ Chceme se dát cestou kundalini jógy? Pak si musíme uvědomit, že naší pods
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: KMP:3-cs
+  :CITE-KEY: KMP:3
   :END:
 
 
@@ -177,7 +177,7 @@ Sahasrára je tím nejvyšším, nejmíruplnějším, nejoduševnělejším a n
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: KMP:4-cs
+  :CITE-KEY: KMP:4
   :END:
 
 
@@ -263,7 +263,7 @@ Jógu odevzdání je možné praktikovat i v rámci ostatních systémů jógy.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: KMP:5-cs
+  :CITE-KEY: KMP:5
   :END:
 
 
@@ -310,7 +310,7 @@ Pokud by někdo z vás chtěl cvičit kundalini jógu, doporučil bych mu, aby 
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: KMP:6-cs
+  :CITE-KEY: KMP:6
   :END:
 
 
@@ -330,7 +330,7 @@ Kundalini jógu cvičíme, když chceme získat určitý druh síly. Ale medituj
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: KMP:7-cs
+  :CITE-KEY: KMP:7
   :END:
 
 
@@ -348,7 +348,7 @@ Starší bratr si uvědomil, že hloupě promarnil dvanáct let. Znovu opustil d
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: KMP:8-cs
+  :CITE-KEY: KMP:8
   :END:
 
 
@@ -366,7 +366,7 @@ Z kundalini jógy získal schopnost zůstat mnoho dní pod zemí. Ale k čemu t
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: KMP:9-cs
+  :CITE-KEY: KMP:9
   :END:
 
 
@@ -385,7 +385,7 @@ Jiný duchovní Mistr začal s Jógou téměř ve stejnou dobu jako jeho mladš
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: KMP:10-cs
+  :CITE-KEY: KMP:10
   :END:
 
 
@@ -430,7 +430,7 @@ Když ses potom stal ženou, aby ses ke mně dostal a pomohl mi, naučil ses ne
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: KMP:11-cs
+  :CITE-KEY: KMP:11
   :END:
 
 
@@ -453,7 +453,7 @@ Každému z vás nabízím svou nejhlubší vděčnost. Přišli jste sem s ne
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: KMP:12e1-cs
+  :CITE-KEY: KMP:12e1
   :END:
 
 
@@ -467,7 +467,7 @@ Každému z vás nabízím svou nejhlubší vděčnost. Přišli jste sem s ne
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:12-cs
+  :CITE-KEY: KMP:12
   :END:
 
 
@@ -483,7 +483,7 @@ Každému z vás nabízím svou nejhlubší vděčnost. Přišli jste sem s ne
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:13-cs
+  :CITE-KEY: KMP:13
   :END:
 
 
@@ -496,7 +496,7 @@ Každému z vás nabízím svou nejhlubší vděčnost. Přišli jste sem s ne
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:14-cs
+  :CITE-KEY: KMP:14
   :END:
 
 
@@ -514,7 +514,7 @@ Někdy však lidé čtou knihy a pokoušejí se meditovat a potom mají okamž
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:15-cs
+  :CITE-KEY: KMP:15
   :END:
 
 
@@ -533,7 +533,7 @@ Jestliže si přejete jít cestou kundalini jógy, se vší pokorou vám radím,
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:16-cs
+  :CITE-KEY: KMP:16
   :END:
 
 
@@ -560,7 +560,7 @@ Jestliže chcete být spokojeni s trochou síly kundalini, meditujte pár hodin
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:17-cs
+  :CITE-KEY: KMP:17
   :END:
 
 
@@ -574,7 +574,7 @@ Otevření center nemusí být znamením realizace Boha. Jestliže je však ve h
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:18-cs
+  :CITE-KEY: KMP:18
   :END:
 
 
@@ -591,7 +591,7 @@ Když se kundalini probudí, je jako kapesní nůž, se kterým můžete dělat 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:19-cs
+  :CITE-KEY: KMP:19
   :END:
 
 
@@ -604,7 +604,7 @@ Když se kundalini probudí, je jako kapesní nůž, se kterým můžete dělat 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:20-cs
+  :CITE-KEY: KMP:20
   :END:
 
 
@@ -623,7 +623,7 @@ Jestliže se chce někdo naučit okultismu, musí se zcela vyhnout dvěma věcem
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:21-cs
+  :CITE-KEY: KMP:21
   :END:
 
 
@@ -636,7 +636,7 @@ Jestliže se chce někdo naučit okultismu, musí se zcela vyhnout dvěma věcem
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:22-cs
+  :CITE-KEY: KMP:22
   :END:
 
 
@@ -649,7 +649,7 @@ Jestliže se chce někdo naučit okultismu, musí se zcela vyhnout dvěma věcem
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:23-cs
+  :CITE-KEY: KMP:23
   :END:
 
 
@@ -669,7 +669,7 @@ Milost může přijít přímo od Boha, prostřednictvím žijícího Mistra neb
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:24-cs
+  :CITE-KEY: KMP:24
   :END:
 
 
@@ -685,7 +685,7 @@ Srdce je pro vás tím nejbezpečnějším místem, na které se můžete koncen
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:25-cs
+  :CITE-KEY: KMP:25
   :END:
 
 
@@ -709,7 +709,7 @@ Existují lidé, kteří si otevřeli toto centrum mezi obočím, aniž by měli
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:26-cs
+  :CITE-KEY: KMP:26
   :END:
 
 
@@ -722,7 +722,7 @@ Existují lidé, kteří si otevřeli toto centrum mezi obočím, aniž by měli
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:27-cs
+  :CITE-KEY: KMP:27
   :END:
 
 
@@ -743,7 +743,7 @@ Velmi moudří lidé ale zároveň cítí, že třetí oko je také srdcem, prot
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:28-cs
+  :CITE-KEY: KMP:28
   :END:
 
 
@@ -757,7 +757,7 @@ Velmi moudří lidé ale zároveň cítí, že třetí oko je také srdcem, prot
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:29-cs
+  :CITE-KEY: KMP:29
   :END:
 
 
@@ -775,7 +775,7 @@ V jedné chvíli se Nekonečné oddělí od konečného, v další pozve koneč
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:30-cs
+  :CITE-KEY: KMP:30
   :END:
 
 
@@ -788,7 +788,7 @@ V jedné chvíli se Nekonečné oddělí od konečného, v další pozve koneč
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:31-cs
+  :CITE-KEY: KMP:31
   :END:
 
 
@@ -802,7 +802,7 @@ Poté uvidíte ve všem radost. Nyní o radost zoufale usilujete, ale přijde d
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:32-cs
+  :CITE-KEY: KMP:32
   :END:
 
 
@@ -814,7 +814,7 @@ Poté uvidíte ve všem radost. Nyní o radost zoufale usilujete, ale přijde d
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:33-cs
+  :CITE-KEY: KMP:33
   :END:
 
 
@@ -841,7 +841,7 @@ Síla kundalini a všechny zázračné síly na zemi jsou prchavé, protože js
  :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
- :CITE-KEY: KMP:34-cs
+ :CITE-KEY: KMP:34
   :END:
 
 
@@ -860,7 +860,7 @@ Vy nemůžete žít bez Boha, já nemohu žít bez Boha. Každý musí žít s 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:35-cs
+  :CITE-KEY: KMP:35
   :END:
 
 
@@ -873,7 +873,7 @@ Vy nemůžete žít bez Boha, já nemohu žít bez Boha. Každý musí žít s 
  :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
- :CITE-KEY: KMP:36-cs
+ :CITE-KEY: KMP:36
   :END:
 
 
@@ -890,7 +890,7 @@ Dokud nemáme pátou čakru otevřenou, vyjádření, odhalení a projevení js
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:37-cs
+  :CITE-KEY: KMP:37
   :END:
 
 
@@ -902,7 +902,7 @@ Dokud nemáme pátou čakru otevřenou, vyjádření, odhalení a projevení js
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: KMP:38-cs
+  :CITE-KEY: KMP:38
   :END:
 
 
@@ -915,7 +915,7 @@ Dokud nemáme pátou čakru otevřenou, vyjádření, odhalení a projevení js
   :PROPERTIES:
   :GENRE: note
   :KEYWORDS:
-  :CITE-KEY: KMP:39e2-cs
+  :CITE-KEY: KMP:39e2
   :END:
 
 

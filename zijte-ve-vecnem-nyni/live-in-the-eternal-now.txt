@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: note
   :KEYWORDS:
-  :CITE-KEY: LEN:1e1-cs
+  :CITE-KEY: LEN:1e1
   :END:
 
 
@@ -39,7 +39,7 @@ Název knihy, stejně jako výběr kapitol vybralo /Nakladatelství Sri Chinmoy 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:1-cs
+  :CITE-KEY: LEN:1
   :END:
 
 
@@ -56,7 +56,7 @@ Milujte Nejvyššího ve mně více, nekonečně více. Buďte oddaní Nejvyšš
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:2-cs
+  :CITE-KEY: LEN:2
   :END:
 
 Včera jsme měli v autobuse soutěž v intuici. Napsal jsem tři řádky a vyzval žáky, aby použili svou intuici a řekli, co jsem napsal. Vyhráli tři žáci. Neřekli přesně, co jsem napsal, ale slova byla do určité míry správná. 
@@ -84,7 +84,7 @@ Ve vnitřním světě vím, co musím dělat. I ve vnějším světě, až udeř
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:3-cs
+  :CITE-KEY: LEN:3
   :END:
 
 
@@ -108,7 +108,7 @@ Máte-li ryzí aspiraci, pak vyrůstejte každým okamžikem se svou aspirací. 
   :PROPERTIES:
   :GENRE: anecdote-biographical
   :KEYWORDS:
-  :CITE-KEY: LEN:4-cs
+  :CITE-KEY: LEN:4
   :END:
 
 
@@ -139,7 +139,7 @@ Co to znamená? Kdybyste tento sen řekli vykladači snů, krásně by ho vysvě
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:5-cs
+  :CITE-KEY: LEN:5
   :END:
 
 Mé drahé děti, toto je můj nanejvýš, nanejvýš požehnaný požadavek na každičkého z vás zde osobně přítomného. Každý večer, než jdete spát, se posaďte na své posteli a jen tři nebo pět minut se modlete a meditujte. Také prosím zpívejte nebo recitujte novou /Bhulite Diyona/. Tady je její překlad:
@@ -238,7 +238,7 @@ Roním slzy vděčnosti, když si vzpomenu, kolik dobrých věcí jste pro mě u
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:6-cs
+  :CITE-KEY: LEN:6
   :END:
 
 
@@ -270,7 +270,7 @@ Drazí, vy jste průkopníky v učení se mých písní. Jste se mnou, ve mně 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:7-cs
+  :CITE-KEY: LEN:7
   :END:
 
 
@@ -327,7 +327,7 @@ Když ve vnějším maratonu uběhnete čtyřicet dva kilometrů, je konec. Po d
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:8-cs
+  :CITE-KEY: LEN:8
   :END:
 
 Celý svůj život jsem byl básníkem. Ve čtyřech nebo pěti letech jsem začal skládat verše v bengálštině. Ve věku sedmi let jsem dokázal diktovat básně svému bratru Chittovi. 
@@ -415,7 +415,7 @@ Tímto způsobem můžete vytvořit tajné a posvátné kluby, ve kterých se po
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:9-cs
+  :CITE-KEY: LEN:9
   :END:
 
 
@@ -493,7 +493,7 @@ Můj problém je jen začít. Kolik nových žáků přijde na naši loď a koli
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:10-cs
+  :CITE-KEY: LEN:10
   :END:
 
 
@@ -537,7 +537,7 @@ Zapomeňme na mučivé bolesti, úplně zapomeňme. Jednoduše se staňme sladko
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:11-cs
+  :CITE-KEY: LEN:11
   :END:
 
 
@@ -588,7 +588,7 @@ Ve vašem případě můžete učinit rozhodnutí, že se ode dneška budete up�
   :PROPERTIES:
   :GENRE: anecdote-biographical
   :KEYWORDS:
-  :CITE-KEY: LEN:12-cs
+  :CITE-KEY: LEN:12
   :END:
 
 
@@ -684,7 +684,7 @@ Vyprávím vám to proto, že někteří z vás chtěli studovat, ale nebylo ji
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:13-cs
+  :CITE-KEY: LEN:13
   :END:
 
 
@@ -724,7 +724,7 @@ Co se týká úsměvu, usmívám se na vás nekonečně, nekonečně, nekonečn�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:14-cs
+  :CITE-KEY: LEN:14
   :END:
 
 
@@ -755,7 +755,7 @@ Mnozí z vás kvůli této cestě opustili své drahé, své příbuzné, člen
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:15-cs
+  :CITE-KEY: LEN:15
   :END:
 
 
@@ -782,7 +782,7 @@ Když se díváte na moji Transcendentální fotografii, usmívejte se ze své d
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:16-cs
+  :CITE-KEY: LEN:16
   :END:
 
 
@@ -826,7 +826,7 @@ Pokud již věnujete stejnou pozornost aspiraci a zasvěcené službě, jsem vel
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: LEN:17-cs
+  :CITE-KEY: LEN:17
   :END:
 
 

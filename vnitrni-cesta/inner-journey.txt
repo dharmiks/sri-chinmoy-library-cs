@@ -25,7 +25,7 @@
  :PROPERTIES:
  :GENRE: section
  :KEYWORDS:
- :CITE-KEY: IJ:1e1-cs
+ :CITE-KEY: IJ:1e1
   :END:
 
 
@@ -35,7 +35,7 @@
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:1-cs
+ :CITE-KEY: IJ:1
   :END:
 
 
@@ -50,7 +50,7 @@
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:2-cs
+ :CITE-KEY: IJ:2
   :END:
 
 
@@ -71,7 +71,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:3-cs
+ :CITE-KEY: IJ:3
   :END:
 
 
@@ -84,7 +84,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:4-cs
+ :CITE-KEY: IJ:4
   :END:
 
 
@@ -101,7 +101,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:5-cs
+ :CITE-KEY: IJ:5
   :END:
 
 
@@ -115,7 +115,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 7
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:6-cs
+ :CITE-KEY: IJ:6
   :END:
 
 
@@ -131,7 +131,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:7-cs
+ :CITE-KEY: IJ:7
   :END:
 
 
@@ -144,7 +144,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:8-cs
+ :CITE-KEY: IJ:8
   :END:
 
 
@@ -157,7 +157,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:9-cs
+ :CITE-KEY: IJ:9
   :END:
 
 
@@ -174,7 +174,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:10-cs
+ :CITE-KEY: IJ:10
   :END:
 
 
@@ -187,7 +187,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:11-cs
+ :CITE-KEY: IJ:11
   :END:
 
 
@@ -202,7 +202,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: section
  :KEYWORDS:
- :CITE-KEY: IJ:12e2-cs
+ :CITE-KEY: IJ:12e2
   :END:
 
 
@@ -212,7 +212,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:12-cs
+ :CITE-KEY: IJ:12
   :END:
 
 
@@ -241,7 +241,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:13-cs
+ :CITE-KEY: IJ:13
   :END:
 
 
@@ -254,7 +254,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:14-cs
+ :CITE-KEY: IJ:14
   :END:
 
 
@@ -269,7 +269,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:15-cs
+ :CITE-KEY: IJ:15
   :END:
 
 
@@ -282,7 +282,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:16-cs
+ :CITE-KEY: IJ:16
   :END:
 
 
@@ -299,7 +299,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:17-cs
+ :CITE-KEY: IJ:17
   :END:
 
 
@@ -318,7 +318,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:18-cs
+ :CITE-KEY: IJ:18
   :END:
 
 
@@ -333,7 +333,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:19-cs
+ :CITE-KEY: IJ:19
   :END:
 
 
@@ -347,7 +347,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:20-cs
+ :CITE-KEY: IJ:20
   :END:
 
 
@@ -360,7 +360,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: section
  :KEYWORDS:
- :CITE-KEY: IJ:21e3-cs
+ :CITE-KEY: IJ:21e3
   :END:
 
 
@@ -370,7 +370,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:21-cs
+ :CITE-KEY: IJ:21
   :END:
 
 
@@ -387,7 +387,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:22-cs
+ :CITE-KEY: IJ:22
   :END:
 
 
@@ -404,7 +404,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:23-cs
+ :CITE-KEY: IJ:23
   :END:
 
 
@@ -423,7 +423,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:24-cs
+ :CITE-KEY: IJ:24
   :END:
 
 
@@ -442,7 +442,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:25-cs
+ :CITE-KEY: IJ:25
   :END:
 
 
@@ -455,7 +455,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: section
  :KEYWORDS:
- :CITE-KEY: IJ:26e4-cs
+ :CITE-KEY: IJ:26e4
   :END:
 
 
@@ -465,7 +465,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:26-cs
+ :CITE-KEY: IJ:26
   :END:
 
 
@@ -480,7 +480,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:27-cs
+ :CITE-KEY: IJ:27
   :END:
 
 
@@ -493,7 +493,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:28-cs
+ :CITE-KEY: IJ:28
   :END:
 
 
@@ -508,7 +508,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:29-cs
+ :CITE-KEY: IJ:29
   :END:
 
 
@@ -526,7 +526,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:30-cs
+ :CITE-KEY: IJ:30
   :END:
 
 
@@ -539,7 +539,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:31-cs
+ :CITE-KEY: IJ:31
   :END:
 
 
@@ -554,7 +554,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:32-cs
+ :CITE-KEY: IJ:32
   :END:
 
 
@@ -567,7 +567,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:33-cs
+ :CITE-KEY: IJ:33
   :END:
 
 
@@ -580,7 +580,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: qa
  :KEYWORDS:
- :CITE-KEY: IJ:34-cs
+ :CITE-KEY: IJ:34
   :END:
 
 
@@ -600,7 +600,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
  :PROPERTIES:
  :GENRE: discourse
  :KEYWORDS:
- :CITE-KEY: IJ:35-cs
+ :CITE-KEY: IJ:35
   :END:
 
 

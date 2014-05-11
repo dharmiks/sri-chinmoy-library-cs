@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:1-cs
+  :CITE-KEY: MIMH:1
   :END:
 
 
@@ -43,7 +43,7 @@ můj zasvěcený život k překonání.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:2-cs
+  :CITE-KEY: MIMH:2
   :END:
 
 
@@ -62,7 +62,7 @@ K potěšení z bezdeché radosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:3-cs
+  :CITE-KEY: MIMH:3
   :END:
 
 
@@ -80,7 +80,7 @@ byli jednotou přátelství.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:4-cs
+  :CITE-KEY: MIMH:4
   :END:
 
 
@@ -98,7 +98,7 @@ závod pokroku.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:5-cs
+  :CITE-KEY: MIMH:5
   :END:
 
 
@@ -117,7 +117,7 @@ Svým Stromem Uspokojení Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:6-cs
+  :CITE-KEY: MIMH:6
   :END:
 
 
@@ -135,7 +135,7 @@ dušeplné a plodné.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:7-cs
+  :CITE-KEY: MIMH:7
   :END:
 
 
@@ -153,7 +153,7 @@ neviditelným hledajícím.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:8-cs
+  :CITE-KEY: MIMH:8
   :END:
 
 
@@ -171,7 +171,7 @@ historii aspirace svého srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:9-cs
+  :CITE-KEY: MIMH:9
   :END:
 
 
@@ -189,7 +189,7 @@ je extrémě nebezpečné.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:10-cs
+  :CITE-KEY: MIMH:10
   :END:
 
 
@@ -207,7 +207,7 @@ na naplnění svých vlastních tužeb?
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:11-cs
+  :CITE-KEY: MIMH:11
   :END:
 
 
@@ -226,7 +226,7 @@ Nejvyššího v našich životech.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:12-cs
+  :CITE-KEY: MIMH:12
   :END:
 
 
@@ -247,7 +247,7 @@ tvé sebedávání?
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:13-cs
+  :CITE-KEY: MIMH:13
   :END:
 
 
@@ -267,7 +267,7 @@ není Spasitelem."
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:14-cs
+  :CITE-KEY: MIMH:14
   :END:
 
 
@@ -286,7 +286,7 @@ radostně a hrdě k Bohu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:15-cs
+  :CITE-KEY: MIMH:15
   :END:
 
 
@@ -304,7 +304,7 @@ neopakovat je.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:16-cs
+  :CITE-KEY: MIMH:16
   :END:
 
 
@@ -323,7 +323,7 @@ modlitbu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:17-cs
+  :CITE-KEY: MIMH:17
   :END:
 
 
@@ -341,7 +341,7 @@ jehož práce není oceňována.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:18-cs
+  :CITE-KEY: MIMH:18
   :END:
 
 
@@ -361,7 +361,7 @@ za tvůj duchovní život?
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:19-cs
+  :CITE-KEY: MIMH:19
   :END:
 
 
@@ -381,7 +381,7 @@ v tomto životě.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:20-cs
+  :CITE-KEY: MIMH:20
   :END:
 
 
@@ -401,7 +401,7 @@ zklamání.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:21-cs
+  :CITE-KEY: MIMH:21
   :END:
 
 
@@ -422,7 +422,7 @@ které neudělaly.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:22-cs
+  :CITE-KEY: MIMH:22
   :END:
 
 
@@ -443,7 +443,7 @@ běda?
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:23-cs
+  :CITE-KEY: MIMH:23
   :END:
 
 
@@ -465,7 +465,7 @@ k Boží skutečné Spokojenosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:24-cs
+  :CITE-KEY: MIMH:24
   :END:
 
 
@@ -484,7 +484,7 @@ snažícím se tě pohltit.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:25-cs
+  :CITE-KEY: MIMH:25
   :END:
 
 
@@ -504,7 +504,7 @@ Ne, ani tvůj Pilot Nejvyšší.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:26-cs
+  :CITE-KEY: MIMH:26
   :END:
 
 
@@ -524,7 +524,7 @@ postarat se o lidstvo.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:27-cs
+  :CITE-KEY: MIMH:27
   :END:
 
 
@@ -543,7 +543,7 @@ k překonání svých vlastních schopností.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:28-cs
+  :CITE-KEY: MIMH:28
   :END:
 
 
@@ -563,7 +563,7 @@ každou chvíli.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:29-cs
+  :CITE-KEY: MIMH:29
   :END:
 
 
@@ -582,7 +582,7 @@ budeš odpovědný za svůj vnitřní pokrok.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:30-cs
+  :CITE-KEY: MIMH:30
   :END:
 
 
@@ -601,7 +601,7 @@ Tvá okamžitá odpověď modlitby:
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:31-cs
+  :CITE-KEY: MIMH:31
   :END:
 
 
@@ -620,7 +620,7 @@ a proti této překážce bojovat.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:32-cs
+  :CITE-KEY: MIMH:32
   :END:
 
 
@@ -640,7 +640,7 @@ a nakonec uspět.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:33-cs
+  :CITE-KEY: MIMH:33
   :END:
 
 
@@ -661,7 +661,7 @@ budou vyřešeny.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:34-cs
+  :CITE-KEY: MIMH:34
   :END:
 
 
@@ -682,7 +682,7 @@ a tvá duchovní smrt bude bližší.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:35-cs
+  :CITE-KEY: MIMH:35
   :END:
 
 
@@ -703,7 +703,7 @@ Svými problémy.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:36-cs
+  :CITE-KEY: MIMH:36
   :END:
 
 
@@ -724,7 +724,7 @@ Bohu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:37-cs
+  :CITE-KEY: MIMH:37
   :END:
 
 
@@ -745,7 +745,7 @@ k napadení Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:38-cs
+  :CITE-KEY: MIMH:38
   :END:
 
 
@@ -764,7 +764,7 @@ atomovou silou.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:39-cs
+  :CITE-KEY: MIMH:39
   :END:
 
 
@@ -784,7 +784,7 @@ bojovat do samotného konce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:40-cs
+  :CITE-KEY: MIMH:40
   :END:
 
 
@@ -804,7 +804,7 @@ do tíže myšlenky.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:41-cs
+  :CITE-KEY: MIMH:41
   :END:
 
 
@@ -824,7 +824,7 @@ Tvého srdce neustálé "Ne!"
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:42-cs
+  :CITE-KEY: MIMH:42
   :END:
 
 
@@ -843,7 +843,7 @@ a ne tvé neaspirující myšlenky.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:43-cs
+  :CITE-KEY: MIMH:43
   :END:
 
 
@@ -863,7 +863,7 @@ po vnitřní cestě.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:44-cs
+  :CITE-KEY: MIMH:44
   :END:
 
 
@@ -882,7 +882,7 @@ také Ho nezradíme
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:45-cs
+  :CITE-KEY: MIMH:45
   :END:
 
 
@@ -901,7 +901,7 @@ našemu vnějšímu životu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:46-cs
+  :CITE-KEY: MIMH:46
   :END:
 
 
@@ -921,7 +921,7 @@ který je pro tebe vším.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:47-cs
+  :CITE-KEY: MIMH:47
   :END:
 
 
@@ -941,7 +941,7 @@ ale nový začátek.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:48-cs
+  :CITE-KEY: MIMH:48
   :END:
 
 
@@ -959,7 +959,7 @@ nemůže být většího blázna, než tebe!
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:49-cs
+  :CITE-KEY: MIMH:49
   :END:
 
 
@@ -979,7 +979,7 @@ do svého života zapomnění.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:50-cs
+  :CITE-KEY: MIMH:50
   :END:
 
 
@@ -999,7 +999,7 @@ od úplného začátku.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:51-cs
+  :CITE-KEY: MIMH:51
   :END:
 
 
@@ -1019,7 +1019,7 @@ vnitřní i vnější.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:52-cs
+  :CITE-KEY: MIMH:52
   :END:
 
 
@@ -1039,7 +1039,7 @@ nebo v Životě tvého Milovaného Nejvyššího.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:53-cs
+  :CITE-KEY: MIMH:53
   :END:
 
 
@@ -1058,7 +1058,7 @@ je také důležitá.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:54-cs
+  :CITE-KEY: MIMH:54
   :END:
 
 
@@ -1081,7 +1081,7 @@ na můj vnitřní telefon!"
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:55-cs
+  :CITE-KEY: MIMH:55
   :END:
 
 
@@ -1103,7 +1103,7 @@ nebo tě dal pryč ze Svého Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:56-cs
+  :CITE-KEY: MIMH:56
   :END:
 
 
@@ -1124,7 +1124,7 @@ se světem.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:57-cs
+  :CITE-KEY: MIMH:57
   :END:
 
 
@@ -1143,7 +1143,7 @@ a Božím Uspokojením.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:58-cs
+  :CITE-KEY: MIMH:58
   :END:
 
 
@@ -1162,7 +1162,7 @@ a mé Oko Boha se dívá.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:59-cs
+  :CITE-KEY: MIMH:59
   :END:
 
 
@@ -1181,7 +1181,7 @@ oceňuje tvé nejvyšší vědomí.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIMH:60-cs
+  :CITE-KEY: MIMH:60
   :END:
 
 

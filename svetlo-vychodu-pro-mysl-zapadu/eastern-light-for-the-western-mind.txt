@@ -23,7 +23,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:1-cs
+  :CITE-KEY: ELWM:1
   :END:
 
 
@@ -93,7 +93,7 @@ V Bohu jsem.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:2-cs
+  :CITE-KEY: ELWM:2
   :END:
 
 
@@ -135,7 +135,7 @@ Pokud vaše srdce touží po tom sloužit lidstvu, musíte nejprve sloužit vnit
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:3-cs
+  :CITE-KEY: ELWM:3
   :END:
 
 
@@ -175,7 +175,7 @@ Musíme mít pozitivní myšlenky, pozitivní představy, pozitivní ideály. Je
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:4-cs
+  :CITE-KEY: ELWM:4
   :END:
 
 
@@ -240,7 +240,7 @@ Můj život má tři Bohy: Boha Existenci, Boha Vědomí a Boha Blaženost. Bůh
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:5-cs
+  :CITE-KEY: ELWM:5
   :END:
 
 
@@ -303,7 +303,7 @@ Kdo říká, že člověk spí? Není to pravda. Člověk se probudil se svými 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:6-cs
+  :CITE-KEY: ELWM:6
   :END:
 
 
@@ -379,7 +379,7 @@ Vnější svět je tělo. Vnitřní svět je duše. Pokud zůstáváme v těle,
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:7-cs
+  :CITE-KEY: ELWM:7
   :END:
 
 
@@ -445,7 +445,7 @@ Také v duchovním světě existuje povinnost. Tou povinností je těšit se z�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:8-cs
+  :CITE-KEY: ELWM:8
   :END:
 
 
@@ -501,7 +501,7 @@ Veď mne od smrti k Nesmrtelnosti.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:9-cs
+  :CITE-KEY: ELWM:9
   :END:
 
 
@@ -590,7 +590,7 @@ Vrchol lidské touhy je vyjádřen Césarovým „/Veni, vidi, vici/“ -- „P�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:10-cs
+  :CITE-KEY: ELWM:10
   :END:
 
 
@@ -647,7 +647,7 @@ Vraťme se ke své původní otázce: „Jak potěšit Boha?“ Nejsnazší a ne
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:11-cs
+  :CITE-KEY: ELWM:11
   :END:
 
 
@@ -730,7 +730,7 @@ Bůh transplantoval na zemi pravdu a On tuto pravdu s láskou udržuje. V kombi
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:12-cs
+  :CITE-KEY: ELWM:12
   :END:
 
 
@@ -799,7 +799,7 @@ S veškerou duchovní jistotou, kterou mám, si přeji říci, že mystika je l
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:13-cs
+  :CITE-KEY: ELWM:13
   :END:
 
 
@@ -887,7 +887,7 @@ Roztavené vědomí světa
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:14-cs
+  :CITE-KEY: ELWM:14
   :END:
 
 
@@ -966,7 +966,7 @@ Na začátku své duchovní cesty cítíme, že meditace je naše úsilí a ná�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:15-cs
+  :CITE-KEY: ELWM:15
   :END:
 
 
@@ -1070,7 +1070,7 @@ Tajemstvím nejvyšším je realizace Boha, nic víc a nic míň. Včera mě má
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:16-cs
+  :CITE-KEY: ELWM:16
   :END:
 
 
@@ -1110,7 +1110,7 @@ Mystika není výhradním monopolem hinduismu. Křesťanství i ostatní nábož
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:17-cs
+  :CITE-KEY: ELWM:17
   :END:
 
 
@@ -1202,7 +1202,7 @@ Bůh poručil vnitřnímu hlasu, aby byl přítelem aspirujících duší a soud
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:18-cs
+  :CITE-KEY: ELWM:18
   :END:
 
 
@@ -1257,7 +1257,7 @@ Upřímnost našeho srdce nikdy neselhává. Zájem naší duše nikdy neselháv
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:19-cs
+  :CITE-KEY: ELWM:19
   :END:
 
 
@@ -1292,7 +1292,7 @@ Podobně, když my se svou individualitou vstoupíme do své božské osobnosti,
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:20-cs
+  :CITE-KEY: ELWM:20
   :END:
 
 
@@ -1357,7 +1357,7 @@ Brahman je svou povahou nedělitelný, je to úplný celek. Avšak skrze máju, 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:21-cs
+  :CITE-KEY: ELWM:21
   :END:
 
 
@@ -1397,7 +1397,7 @@ Náš úspěch nebo naše selhání toho mají málo do činění s Boží Moud
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:22-cs
+  :CITE-KEY: ELWM:22
   :END:
 
 
@@ -1448,7 +1448,7 @@ Každý člověk musí být zaplaven touto nejvyšší Pravdou. Měl by vědomě
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:23-cs
+  :CITE-KEY: ELWM:23
   :END:
 
 
@@ -1486,7 +1486,7 @@ Obyčejné lidské tělo je ztělesněnou nedokonalostí. Tato nedokonalost se m
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:24-cs
+  :CITE-KEY: ELWM:24
   :END:
 
 
@@ -1542,7 +1542,7 @@ My všichni bez výjimky máme příležitost naplnit Boha zde na zemi. Pokud se
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:25-cs
+  :CITE-KEY: ELWM:25
   :END:
 
 
@@ -1590,7 +1590,7 @@ Snažte se tedy být upřímní sami k sobě. Ať vám svět něco vytýká. Ať
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:26-cs
+  :CITE-KEY: ELWM:26
   :END:
 
 
@@ -1650,7 +1650,7 @@ Ve světě světla a blaženosti říká duchovnost vědě: „Sestro, potřebuj
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:27-cs
+  :CITE-KEY: ELWM:27
   :END:
 
 
@@ -1704,7 +1704,7 @@ Upřímnost a duchovnost by měly jít společně. Má-li někdo jen upřímnost
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:28-cs
+  :CITE-KEY: ELWM:28
   :END:
 
 
@@ -1762,7 +1762,7 @@ Aspirujeme všichni. Naše je aspirující duše, náš je naplňující Cíl, t
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:29-cs
+  :CITE-KEY: ELWM:29
   :END:
 
 
@@ -1808,7 +1808,7 @@ Světlo v jeho srdci je jeho vítězstvím.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:30-cs
+  :CITE-KEY: ELWM:30
   :END:
 
 
@@ -1901,7 +1901,7 @@ Veškerým Nektarem, Veškerou Blažeností.“
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:31-cs
+  :CITE-KEY: ELWM:31
   :END:
 
 
@@ -1962,7 +1962,7 @@ Hloupý je ten, kdo popírá existenci moře vědomí.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:32-cs
+  :CITE-KEY: ELWM:32
   :END:
 
 
@@ -2019,7 +2019,7 @@ Má duše svobody je soucitnou a neustálou nezbytností mého Boha. Můj cíl s
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:33-cs
+  :CITE-KEY: ELWM:33
   :END:
 
 
@@ -2126,7 +2126,7 @@ Obdivuhodní hledající cítí, že dosáhnou své realizace jen proto, že je 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:34-cs
+  :CITE-KEY: ELWM:34
   :END:
 
 
@@ -2187,7 +2187,7 @@ Je jedna porážka, která nám přináší větší triumf než vítězství. C
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:35-cs
+  :CITE-KEY: ELWM:35
   :END:
 
 
@@ -2251,7 +2251,7 @@ Matka Země symbolizuje lidskou aspiraci. Proto je to Maitréjí, žena v upani�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:36-cs
+  :CITE-KEY: ELWM:36
   :END:
 
 
@@ -2283,7 +2283,7 @@ Intuice je zlatou spojnicí mezi vizí a skutečností. Vize potřebuje intuici,
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:37-cs
+  :CITE-KEY: ELWM:37
   :END:
 
 
@@ -2327,7 +2327,7 @@ Aspirace je uskutečněním, jestliže a pokud aspirant potřebuje uskutečněn�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:38-cs
+  :CITE-KEY: ELWM:38
   :END:
 
 
@@ -2374,7 +2374,7 @@ Věkem uskutečnění Skutečnosti je Nesmrtelnost.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:39-cs
+  :CITE-KEY: ELWM:39
   :END:
 
 
@@ -2415,7 +2415,7 @@ Sebeovládání znamená sebenabízení Bohu. Sehrajme svou roli: dejme to, co m
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:40-cs
+  :CITE-KEY: ELWM:40
   :END:
 
 
@@ -2499,7 +2499,7 @@ Když děláme moudrou věc, jsme naplnění.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:41-cs
+  :CITE-KEY: ELWM:41
   :END:
 
 
@@ -2549,7 +2549,7 @@ Mým nedokonalým dárkem Bohu je včerejšek, včerejší zážitek. Božím do
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: ELWM:42-cs
+  :CITE-KEY: ELWM:42
   :END:
 
 

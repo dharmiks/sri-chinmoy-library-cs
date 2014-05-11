@@ -25,7 +25,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: VIFC:1-cs
+  :CITE-KEY: VIFC:1
   :END:
 
 
@@ -101,7 +101,7 @@ Védy neztělesňují depresi, potlačování, sebeumrtvování, uvědomování 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: VIFC:2-cs
+  :CITE-KEY: VIFC:2
   :END:
 
 
@@ -165,7 +165,7 @@ Neskutečnost je nepravda a Skutečnost je Pravda. Čisté srdce vzývá /satja
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: VIFC:3-cs
+  :CITE-KEY: VIFC:3
   :END:
 
 
@@ -222,7 +222,7 @@ Existují čtyři védy: Rgvéda, Jadžurvéda, Sámavéda a Atharvavéda. Rgv�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: VIFC:4-cs
+  :CITE-KEY: VIFC:4
   :END:
 
 
@@ -287,7 +287,7 @@ Máme aspiraci. Potřebujeme realizaci. Bůh i my společně potřebujeme proje
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: VIFC:5-cs
+  :CITE-KEY: VIFC:5
   :END:
 
 
@@ -324,7 +324,7 @@ Obětování je nabízení sebe sama. Sebenabízení je sebenaplnění. Sebenapl
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: VIFC:6-cs
+  :CITE-KEY: VIFC:6
   :END:
 
 Učenci ani studenti véd se nemohou shodnout na jejich původu. Připadá mi to pošetilé. Védy jsou stejně staré jako vědomá aspirace vesmíru. Vesmír se však vědomě či nevědomě vyvíjí k dokonalosti, kdežto védy obsahují počátek inspirující dokonalosti a završení osvěcující realizace.
@@ -373,7 +373,7 @@ Blaženost je to, čím Bůh je.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: VIFC:7-cs
+  :CITE-KEY: VIFC:7
   :END:
 
 

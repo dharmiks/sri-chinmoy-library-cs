@@ -25,7 +25,7 @@
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCP:1e1-cs
+  :CITE-KEY: SCP:1e1
   :END:
 
 
@@ -35,7 +35,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:1-cs
+  :CITE-KEY: SCP:1
   :END:
 
 
@@ -58,7 +58,7 @@ Náboženství je inspirace. Jóga je aspirace. Božskost je dokonalost. Inspira
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:2-cs
+  :CITE-KEY: SCP:2
   :END:
 
 
@@ -77,7 +77,7 @@ Buďme tedy bdělí. Naléhavě vás žádám, abyste nezaplétali svoji ryzí m
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:3-cs
+  :CITE-KEY: SCP:3
   :END:
 
 
@@ -97,7 +97,7 @@ Musím nicméně zdůraznit, že Hatha Jóga je vysoce nadřazena západnímu sy
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:4-cs
+  :CITE-KEY: SCP:4
   :END:
 
 
@@ -118,7 +118,7 @@ Když dosáhneš pokročilejšího stádia, pociťuj, že tvůj dech nepřicház
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:5-cs
+  :CITE-KEY: SCP:5
   :END:
 
 
@@ -137,7 +137,7 @@ Mnoho duchovních hledajících došlo k závěru, že vegetarián je schopen ud
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:6-cs
+  :CITE-KEY: SCP:6
   :END:
 
 
@@ -162,7 +162,7 @@ Pokud chceš realizovat Boha v tomto životě, naplnit Boha v tomto životě, ch
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:7-cs
+  :CITE-KEY: SCP:7
   :END:
 
 
@@ -191,7 +191,7 @@ Pokud meditujeme, chceme rozmlouvat jenom s Bohem. Teď mluvím anglicky a vy mi
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:8-cs
+  :CITE-KEY: SCP:8
   :END:
 
 
@@ -212,7 +212,7 @@ Bez čistoty nemohou v naší přirozenosti natrvalo zůstat vnitřní dosažen�
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCP:9e2-cs
+  :CITE-KEY: SCP:9e2
   :END:
 
 
@@ -222,7 +222,7 @@ Bez čistoty nemohou v naší přirozenosti natrvalo zůstat vnitřní dosažen�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:9-cs
+  :CITE-KEY: SCP:9
   :END:
 
 
@@ -248,7 +248,7 @@ Stane-li se někdo opravdovým žákem nějakého Mistra, nebude cítit, že on 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:10-cs
+  :CITE-KEY: SCP:10
   :END:
 
 
@@ -265,7 +265,7 @@ Všichni skuteční duchovní Mistři učí své žáky a obdivovatele meditaci 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCP:11e3-cs
+  :CITE-KEY: SCP:11e3
   :END:
 
 
@@ -275,7 +275,7 @@ Všichni skuteční duchovní Mistři učí své žáky a obdivovatele meditaci 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:11-cs
+  :CITE-KEY: SCP:11
   :END:
 
 
@@ -290,7 +290,7 @@ Naproti tomu musíš vědět, zda ti to přísluší posuzovat. Nevím-li nic o 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:12-cs
+  :CITE-KEY: SCP:12
   :END:
 
 
@@ -305,7 +305,7 @@ Když při opakování jména určitého Mistra nezískáš žádnou odpověď, 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:13-cs
+  :CITE-KEY: SCP:13
   :END:
 
 
@@ -340,7 +340,7 @@ Jak může Nejvyššího uspokojit Guru? Guru hraje svoji úlohu tím, že z ž�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:14-cs
+  :CITE-KEY: SCP:14
   :END:
 
 
@@ -359,7 +359,7 @@ Musíme vědět, kde se ten daný aspirant nachází. K tomu, aby nějaký člov
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:15-cs
+  :CITE-KEY: SCP:15
   :END:
 
 
@@ -386,7 +386,7 @@ Toto všechno samozřejmě platí pro ty, kteří přijali duchovní život cel�
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCP:16e4-cs
+  :CITE-KEY: SCP:16e4
   :END:
 
 
@@ -396,7 +396,7 @@ Toto všechno samozřejmě platí pro ty, kteří přijali duchovní život cel�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:16-cs
+  :CITE-KEY: SCP:16
   :END:
 
 
@@ -415,7 +415,7 @@ Když meditujeme, když aspirujeme, docházíme k poznání Boží Vůle. Je-li 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:17-cs
+  :CITE-KEY: SCP:17
   :END:
 
 
@@ -432,7 +432,7 @@ Pokus se ve všech svých činnostech cítit přítomnost Boha. Když krmíš sv
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:18-cs
+  :CITE-KEY: SCP:18
   :END:
 
 
@@ -457,7 +457,7 @@ Pokud někdo vstoupí do duchovního života a řekne: “Dnes porazím všechny
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:19-cs
+  :CITE-KEY: SCP:19
   :END:
 
 
@@ -484,7 +484,7 @@ Svět realizace a projevení může být založen pouze pomocí naší aspirace.
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCP:20e5-cs
+  :CITE-KEY: SCP:20e5
   :END:
 
 
@@ -495,7 +495,7 @@ Svět realizace a projevení může být založen pouze pomocí naší aspirace.
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:20-cs
+  :CITE-KEY: SCP:20
   :END:
 
 
@@ -512,7 +512,7 @@ Nepřijmu-li tě, neciť prosím, že nejsi určen pro duchovní život. Zdaleka
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:21-cs
+  :CITE-KEY: SCP:21
   :END:
 
 
@@ -527,7 +527,7 @@ Musíš vědět, že jsou různé způsoby, jak sloužit světu. V Himalájích 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:22-cs
+  :CITE-KEY: SCP:22
   :END:
 
 
@@ -544,7 +544,7 @@ Každý žák musí cítit, že toto je jeho duchovní domov a že žít v tomto
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:23-cs
+  :CITE-KEY: SCP:23
   :END:
 
 
@@ -561,7 +561,7 @@ Každý žák musí cítit, že toto je jeho duchovní domov a že žít v tomto
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCP:24e6-cs
+  :CITE-KEY: SCP:24e6
   :END:
 
 
@@ -571,7 +571,7 @@ Každý žák musí cítit, že toto je jeho duchovní domov a že žít v tomto
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:24-cs
+  :CITE-KEY: SCP:24
   :END:
 
 
@@ -596,7 +596,7 @@ Pokud se vysprchujete a potom si oblečete oděv, který není čerstvý a vypra
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:25-cs
+  :CITE-KEY: SCP:25
   :END:
 
 
@@ -611,7 +611,7 @@ Na vlasy je také dobrý olej. Používáte-li na své vlasy olej, ihned to dá 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCP:26e7-cs
+  :CITE-KEY: SCP:26e7
   :END:
 
 
@@ -621,7 +621,7 @@ Na vlasy je také dobrý olej. Používáte-li na své vlasy olej, ihned to dá 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:26-cs
+  :CITE-KEY: SCP:26
   :END:
 
 
@@ -650,7 +650,7 @@ Mezi Mistrovou vůlí a Cílem není rozdíl. V jeho vůli samotné je Cíl a te
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:27-cs
+  :CITE-KEY: SCP:27
   :END:
 
 
@@ -665,7 +665,7 @@ V Indii uvidíš mnoho duchovních Mistrů s dlouhými vlasy. Podívej se jim v�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:28-cs
+  :CITE-KEY: SCP:28
   :END:
 
 
@@ -692,7 +692,7 @@ Na druhou stranu by muži měli vědět, že to nebude bílé oblečení, co jim
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:29-cs
+  :CITE-KEY: SCP:29
   :END:
 
 
@@ -709,7 +709,7 @@ S plamenem svíčky je to stejné. Sám o sobě nám nedá aspiraci; je to vnit�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCP:30-cs
+  :CITE-KEY: SCP:30
   :END:
 
 

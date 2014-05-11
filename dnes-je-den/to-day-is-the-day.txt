@@ -22,7 +22,7 @@
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:1-cs
+  :CITE-KEY: TID:1
   :END:
 
 
@@ -40,7 +40,7 @@ mého života.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:2-cs
+  :CITE-KEY: TID:2
   :END:
 
 
@@ -58,7 +58,7 @@ mého srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:3-cs
+  :CITE-KEY: TID:3
   :END:
 
 
@@ -76,7 +76,7 @@ mé mysli.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:4-cs
+  :CITE-KEY: TID:4
   :END:
 
 
@@ -94,7 +94,7 @@ mého vitálna.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:5-cs
+  :CITE-KEY: TID:5
   :END:
 
 
@@ -112,7 +112,7 @@ mého těla.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:6-cs
+  :CITE-KEY: TID:6
   :END:
 
 
@@ -131,7 +131,7 @@ ze slz mé vděčnosti Bohu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:7-cs
+  :CITE-KEY: TID:7
   :END:
 
 
@@ -150,7 +150,7 @@ v důvěru v Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:8-cs
+  :CITE-KEY: TID:8
   :END:
 
 
@@ -168,7 +168,7 @@ zpívat všechny své písně.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:9-cs
+  :CITE-KEY: TID:9
   :END:
 
 
@@ -186,7 +186,7 @@ vyroste v Boží Úsměv Sladkosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:10-cs
+  :CITE-KEY: TID:10
   :END:
 
 
@@ -206,7 +206,7 @@ a bezdeché uspokojení Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:11-cs
+  :CITE-KEY: TID:11
   :END:
 
 
@@ -225,7 +225,7 @@ si nikdy nemůže dovolit vzít volno.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:12-cs
+  :CITE-KEY: TID:12
   :END:
 
 
@@ -244,7 +244,7 @@ kladivem neoblomné víry srdce v Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:13-cs
+  :CITE-KEY: TID:13
   :END:
 
 
@@ -264,7 +264,7 @@ abych dobyl Boží Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:14-cs
+  :CITE-KEY: TID:14
   :END:
 
 
@@ -283,7 +283,7 @@ z exilu útlaku mé mysli.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:15-cs
+  :CITE-KEY: TID:15
   :END:
 
 
@@ -302,7 +302,7 @@ svého vnitřního slunce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:16-cs
+  :CITE-KEY: TID:16
   :END:
 
 
@@ -319,7 +319,7 @@ mé mysli a ega.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:17-cs
+  :CITE-KEY: TID:17
   :END:
 
 
@@ -337,7 +337,7 @@ realizace Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:18-cs
+  :CITE-KEY: TID:18
   :END:
 
 
@@ -355,7 +355,7 @@ které bude každý den mládnout.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:19-cs
+  :CITE-KEY: TID:19
   :END:
 
 
@@ -374,7 +374,7 @@ do Svého Paláce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:20-cs
+  :CITE-KEY: TID:20
   :END:
 
 
@@ -395,7 +395,7 @@ po celém světě.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:21-cs
+  :CITE-KEY: TID:21
   :END:
 
 
@@ -414,7 +414,7 @@ jasmínově sladkým srdcem oddanosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:22-cs
+  :CITE-KEY: TID:22
   :END:
 
 
@@ -434,7 +434,7 @@ Jeho Stromu Soucitu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:23-cs
+  :CITE-KEY: TID:23
   :END:
 
 
@@ -453,7 +453,7 @@ dech míru Nebe.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:24-cs
+  :CITE-KEY: TID:24
   :END:
 
 
@@ -474,7 +474,7 @@ a stálou nepřítomnost.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:25-cs
+  :CITE-KEY: TID:25
   :END:
 
 
@@ -493,7 +493,7 @@ všemi nespočetnými překážkami.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:26-cs
+  :CITE-KEY: TID:26
   :END:
 
 
@@ -512,7 +512,7 @@ vždy rostoucími úsměvy mého srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:27-cs
+  :CITE-KEY: TID:27
   :END:
 
 
@@ -531,7 +531,7 @@ abych se stal vítězným hrdinou
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:28-cs
+  :CITE-KEY: TID:28
   :END:
 
 
@@ -549,7 +549,7 @@ zamést cestu své mysli.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:29-cs
+  :CITE-KEY: TID:29
   :END:
 
 
@@ -568,7 +568,7 @@ má Jeho Dech Věčnosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:30-cs
+  :CITE-KEY: TID:30
   :END:
 
 
@@ -587,7 +587,7 @@ svého Cíle Božího Domova.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:31-cs
+  :CITE-KEY: TID:31
   :END:
 
 
@@ -606,7 +606,7 @@ bezpodmínečného odevzdání Bohu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:32-cs
+  :CITE-KEY: TID:32
   :END:
 
 
@@ -625,7 +625,7 @@ všechny mé sliby projevení Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:33-cs
+  :CITE-KEY: TID:33
   :END:
 
 
@@ -644,7 +644,7 @@ všechny Své nektarem zaplavené Písně Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:34-cs
+  :CITE-KEY: TID:34
   :END:
 
 
@@ -662,7 +662,7 @@ nevkročím do špinavých kaluží života.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:35-cs
+  :CITE-KEY: TID:35
   :END:
 
 
@@ -682,7 +682,7 @@ naplnění Jeho Vize zde na zemi.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:36-cs
+  :CITE-KEY: TID:36
   :END:
 
 
@@ -701,7 +701,7 @@ na Jeho Věčnost, Nekonečnost a Nesmrtelnost.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:37-cs
+  :CITE-KEY: TID:37
   :END:
 
 
@@ -719,7 +719,7 @@ kdy začíná můj sen
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:38-cs
+  :CITE-KEY: TID:38
   :END:
 
 
@@ -738,7 +738,7 @@ kamkoli půjde.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:39-cs
+  :CITE-KEY: TID:39
   :END:
 
 
@@ -757,7 +757,7 @@ schoulil do Božího vlastního elysejského klína.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:40-cs
+  :CITE-KEY: TID:40
   :END:
 
 
@@ -776,7 +776,7 @@ až po své realizaci Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:41-cs
+  :CITE-KEY: TID:41
   :END:
 
 
@@ -797,7 +797,7 @@ je Jeho vnější Hlas.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:42-cs
+  :CITE-KEY: TID:42
   :END:
 
 
@@ -817,7 +817,7 @@ o světovém míru.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:43-cs
+  :CITE-KEY: TID:43
   :END:
 
 
@@ -838,7 +838,7 @@ Jeho přímé zástupce zde na zemi.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:44-cs
+  :CITE-KEY: TID:44
   :END:
 
 
@@ -858,7 +858,7 @@ nikdy nezapadá.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:45-cs
+  :CITE-KEY: TID:45
   :END:
 
 
@@ -879,7 +879,7 @@ Jeho neustále odpouštějící Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:46-cs
+  :CITE-KEY: TID:46
   :END:
 
 
@@ -898,7 +898,7 @@ a zářících Úsměvů Jeho Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:47-cs
+  :CITE-KEY: TID:47
   :END:
 
 
@@ -917,7 +917,7 @@ a ne příběhy mé mysli.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:48-cs
+  :CITE-KEY: TID:48
   :END:
 
 
@@ -936,7 +936,7 @@ projevení Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:49-cs
+  :CITE-KEY: TID:49
   :END:
 
 
@@ -957,7 +957,7 @@ po stezce touhy.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:50-cs
+  :CITE-KEY: TID:50
   :END:
 
 
@@ -978,7 +978,7 @@ Domova své Nesmrtelnosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:51-cs
+  :CITE-KEY: TID:51
   :END:
 
 
@@ -997,7 +997,7 @@ upřímností zaplavené slzy mého srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:52-cs
+  :CITE-KEY: TID:52
   :END:
 
 
@@ -1016,7 +1016,7 @@ neupřímností zaplavené úsměvy mé mysli.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:53-cs
+  :CITE-KEY: TID:53
   :END:
 
 
@@ -1035,7 +1035,7 @@ s mými slzami srdce vděčnosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:54-cs
+  :CITE-KEY: TID:54
   :END:
 
 
@@ -1054,7 +1054,7 @@ před Dveřmi Jeho Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:55-cs
+  :CITE-KEY: TID:55
   :END:
 
 
@@ -1075,7 +1075,7 @@ Krásy Jeho Oka Soucitu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:56-cs
+  :CITE-KEY: TID:56
   :END:
 
 
@@ -1096,7 +1096,7 @@ na
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:57-cs
+  :CITE-KEY: TID:57
   :END:
 
 
@@ -1115,7 +1115,7 @@ je úplně prostý Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:58-cs
+  :CITE-KEY: TID:58
   :END:
 
 
@@ -1133,7 +1133,7 @@ mé dvě o světě pochybující oči.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:59-cs
+  :CITE-KEY: TID:59
   :END:
 
 
@@ -1151,7 +1151,7 @@ mé svět objímající srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:60-cs
+  :CITE-KEY: TID:60
   :END:
 
 
@@ -1169,7 +1169,7 @@ mého v nevědomosti si hovícího života.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:61-cs
+  :CITE-KEY: TID:61
   :END:
 
 
@@ -1188,7 +1188,7 @@ a získal Boží Partnerství Jednoty.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:62-cs
+  :CITE-KEY: TID:62
   :END:
 
 
@@ -1208,7 +1208,7 @@ a ne před Ním.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:63-cs
+  :CITE-KEY: TID:63
   :END:
 
 
@@ -1228,7 +1228,7 @@ než Jeho Světlo Spravedlnosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:64-cs
+  :CITE-KEY: TID:64
   :END:
 
 
@@ -1247,7 +1247,7 @@ s úsměvy mé duše.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:65-cs
+  :CITE-KEY: TID:65
   :END:
 
 
@@ -1265,7 +1265,7 @@ s Okem bezpodmínečného Soucitu Svého Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:66-cs
+  :CITE-KEY: TID:66
   :END:
 
 
@@ -1288,7 +1288,7 @@ Boží hrdá Odpověď je:
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:67-cs
+  :CITE-KEY: TID:67
   :END:
 
 
@@ -1306,7 +1306,7 @@ trvalý rozkvět srdce aspirace.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:68-cs
+  :CITE-KEY: TID:68
   :END:
 
 
@@ -1326,7 +1326,7 @@ Oceán Něžnosti z Jeho Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:69-cs
+  :CITE-KEY: TID:69
   :END:
 
 
@@ -1346,7 +1346,7 @@ Jeho vlastním Domovem Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TID:70-cs
+  :CITE-KEY: TID:70
   :END:
 
 

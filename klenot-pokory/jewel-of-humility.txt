@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: JH:1e1-cs
+  :CITE-KEY: JH:1e1
   :END:
 
 
@@ -34,7 +34,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: JH:1-cs
+  :CITE-KEY: JH:1
   :END:
 
 
@@ -59,7 +59,7 @@
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: JH:2e2-cs
+  :CITE-KEY: JH:2e2
   :END:
 
 
@@ -72,7 +72,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:2-cs
+  :CITE-KEY: JH:2
   :END:
 
 
@@ -86,7 +86,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:3-cs
+  :CITE-KEY: JH:3
   :END:
 
 
@@ -104,7 +104,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:4-cs
+  :CITE-KEY: JH:4
   :END:
 
 
@@ -117,7 +117,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:5-cs
+  :CITE-KEY: JH:5
   :END:
 
 
@@ -132,7 +132,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:6-cs
+  :CITE-KEY: JH:6
   :END:
 
 
@@ -146,7 +146,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:7-cs
+  :CITE-KEY: JH:7
   :END:
 
 
@@ -163,7 +163,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:8-cs
+  :CITE-KEY: JH:8
   :END:
 
 
@@ -182,7 +182,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:9-cs
+  :CITE-KEY: JH:9
   :END:
 
 
@@ -199,7 +199,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:10-cs
+  :CITE-KEY: JH:10
   :END:
 
 
@@ -211,7 +211,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:11-cs
+  :CITE-KEY: JH:11
   :END:
 
 
@@ -232,7 +232,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:12-cs
+  :CITE-KEY: JH:12
   :END:
 
 /Sri Chinmoy:/ Raduji se! Jsem velmi vysoko a potom začnu kmitat nohou.
@@ -243,7 +243,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:13-cs
+  :CITE-KEY: JH:13
   :END:
 
 
@@ -257,7 +257,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:14-cs
+  :CITE-KEY: JH:14
   :END:
 
 
@@ -274,7 +274,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:15-cs
+  :CITE-KEY: JH:15
   :END:
 
 
@@ -290,7 +290,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: JH:16e3-cs
+  :CITE-KEY: JH:16e3
   :END:
 
 
@@ -300,7 +300,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:16-cs
+  :CITE-KEY: JH:16
   :END:
 
 
@@ -319,7 +319,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:17-cs
+  :CITE-KEY: JH:17
   :END:
 
 
@@ -345,7 +345,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:18-cs
+  :CITE-KEY: JH:18
   :END:
 
 
@@ -357,7 +357,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:19-cs
+  :CITE-KEY: JH:19
   :END:
 
 
@@ -376,7 +376,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:20-cs
+  :CITE-KEY: JH:20
   :END:
 
 
@@ -388,7 +388,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:21-cs
+  :CITE-KEY: JH:21
   :END:
 
 
@@ -403,7 +403,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: JH:22-cs
+  :CITE-KEY: JH:22
   :END:
 
 
@@ -415,7 +415,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:23-cs
+  :CITE-KEY: JH:23
   :END:
 
 
@@ -427,7 +427,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:24-cs
+  :CITE-KEY: JH:24
   :END:
 
 
@@ -440,7 +440,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:25-cs
+  :CITE-KEY: JH:25
   :END:
 
 
@@ -453,7 +453,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:26-cs
+  :CITE-KEY: JH:26
   :END:
 
 
@@ -466,7 +466,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:27-cs
+  :CITE-KEY: JH:27
   :END:
 
 
@@ -481,7 +481,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:28-cs
+  :CITE-KEY: JH:28
   :END:
 
 
@@ -493,7 +493,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:29-cs
+  :CITE-KEY: JH:29
   :END:
 
 
@@ -508,7 +508,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:30-cs
+  :CITE-KEY: JH:30
   :END:
 
 
@@ -521,7 +521,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:31-cs
+  :CITE-KEY: JH:31
   :END:
 
 
@@ -534,7 +534,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:32-cs
+  :CITE-KEY: JH:32
   :END:
 
 
@@ -547,7 +547,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:33-cs
+  :CITE-KEY: JH:33
   :END:
 
 
@@ -559,7 +559,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: JH:34-cs
+  :CITE-KEY: JH:34
   :END:
 
 

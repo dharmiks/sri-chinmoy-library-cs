@@ -23,7 +23,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: WIW:1-cs
+  :CITE-KEY: WIW:1
   :END:
 
 
@@ -76,7 +76,7 @@ Univerzita v Ottawě
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: WIW:2e1-cs
+  :CITE-KEY: WIW:2e1
   :END:
 
 
@@ -85,7 +85,7 @@ Univerzita v Ottawě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:2-cs
+  :CITE-KEY: WIW:2
   :END:
 
 
@@ -99,7 +99,7 @@ Někdo se stane odborníkem, protože studoval určitý obor. Pokud se tento čl
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:3-cs
+  :CITE-KEY: WIW:3
   :END:
 
 
@@ -113,7 +113,7 @@ Až vnitřně zesílíte a bude-li to vůle Boha, pak můžete dávat světlo sv
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:4-cs
+  :CITE-KEY: WIW:4
   :END:
 
 
@@ -131,7 +131,7 @@ Je to jako dítě a jeho rodiče. Tak jako rodiče považují malé dítě za sv
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:5-cs
+  :CITE-KEY: WIW:5
   :END:
 
 
@@ -146,7 +146,7 @@ Meditací se mnou nebo na můj obrázek ode mě žák načerpává značnou síl
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:6-cs
+  :CITE-KEY: WIW:6
   :END:
 
 
@@ -178,7 +178,7 @@ Jelikož víte, že vaším cílem je světlo, snažte se vždy obracet ke svět
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: WIW:7-cs
+  :CITE-KEY: WIW:7
   :END:
 
 
@@ -200,7 +200,7 @@ Duchovní srdce objímá celý svět jako svůj zcela vlastní, ale neosvícený
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: WIW:8-cs
+  :CITE-KEY: WIW:8
   :END:
 
 
@@ -235,7 +235,7 @@ Každá lidská bytost vědomě nebo nevědomě usiluje o Vítězství Nejvyšš
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: WIW:9-cs
+  :CITE-KEY: WIW:9
   :END:
 
 
@@ -255,7 +255,7 @@ Kdykoliv uděláte něco špatně, Bůh vám odpustí, já vám odpustím, ale t
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: WIW:10-cs
+  :CITE-KEY: WIW:10
   :END:
 
 
@@ -283,7 +283,7 @@ Proto vám všem chci říci, že jsem zcela připraven vzít obvinění od vše
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: WIW:11e2-cs
+  :CITE-KEY: WIW:11e2
   :END:
 
 
@@ -292,7 +292,7 @@ Proto vám všem chci říci, že jsem zcela připraven vzít obvinění od vše
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:11-cs
+  :CITE-KEY: WIW:11
   :END:
 
 
@@ -305,7 +305,7 @@ Je i jiné chvění, které mohou hledající mít --  chvění extáze. Není v
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:12-cs
+  :CITE-KEY: WIW:12
   :END:
 
 
@@ -317,7 +317,7 @@ Je i jiné chvění, které mohou hledající mít --  chvění extáze. Není v
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:13-cs
+  :CITE-KEY: WIW:13
   :END:
 
 
@@ -331,7 +331,7 @@ Když se ponoříme hluboko do svého nitra, v tu chvíli vidíme jednotu, cít
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:14-cs
+  :CITE-KEY: WIW:14
   :END:
 
 
@@ -343,7 +343,7 @@ Když se ponoříme hluboko do svého nitra, v tu chvíli vidíme jednotu, cít
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:15-cs
+  :CITE-KEY: WIW:15
   :END:
 
 
@@ -355,7 +355,7 @@ Když se ponoříme hluboko do svého nitra, v tu chvíli vidíme jednotu, cít
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:16-cs
+  :CITE-KEY: WIW:16
   :END:
 
 
@@ -367,7 +367,7 @@ Když se ponoříme hluboko do svého nitra, v tu chvíli vidíme jednotu, cít
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:17-cs
+  :CITE-KEY: WIW:17
   :END:
 
 /Sri Chinmoy:/ To je individuální a záleží to na způsobu, jak člověk zkušenost zužitkuje. Je-li to neúspěch a my z něho uděláme příležitost, jak zdokonalit svou přirozenost, pak se přibližujeme k cíli. Je-li to úspěch a my jej využijeme, abychom inspirovali sebe sama k většímu zdokonalování, pak se také přibližujeme k cíli. Neexistuje pravidlo, které platí bez výjimky a které by říkalo, že se naučíme více z neúspěchu, nebo z úspěchu. Záleží jen na tom, jak zkušenost zužitkujeme. 
@@ -378,7 +378,7 @@ Když se ponoříme hluboko do svého nitra, v tu chvíli vidíme jednotu, cít
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:18-cs
+  :CITE-KEY: WIW:18
   :END:
 
 
@@ -395,7 +395,7 @@ Pokud je člověk natolik statečný, že přijímá své slabosti a hledá, jak
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:19-cs
+  :CITE-KEY: WIW:19
   :END:
 
 /Sri Chinmoy:/ Bůh je strom. Strom nebude mít jen jednu větev. Který strom budete obdivovat --  ten, který má jen jednu větev, nebo ten, který má několik větví? Otec může mít jen jednoho syna. Na druhou stranu, co je špatného na tom mít dva syny? Nemůžete říci, že otec nemůže mít více než jednoho syna. Má-li otec více než jedno dítě, pak jeden syn může být lékařem, jeden může být inženýrem, jeden může být básníkem. Ale když má jen jednoho syna, pak ten syn nemůže být vším. Berme Boha jako lidskou bytost. Má-li lidský otec více než jednoho syna, může ve svých dětech a jejich prostřednictvím dosáhnout mnoha věcí. Má-li jen jednoho syna, může dělat jen pár věcí.
@@ -408,7 +408,7 @@ Bůh chce projevit na zemi Sám Sebe. Cítíme, že přinést Nebe dolů na zem 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:20-cs
+  :CITE-KEY: WIW:20
   :END:
 
 
@@ -422,7 +422,7 @@ Když pronikáme do meditace, vidíme před sebou a všude kolem sebe rozlehlost
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:21-cs
+  :CITE-KEY: WIW:21
   :END:
 
 
@@ -434,7 +434,7 @@ Když pronikáme do meditace, vidíme před sebou a všude kolem sebe rozlehlost
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:22-cs
+  :CITE-KEY: WIW:22
   :END:
 
 
@@ -448,7 +448,7 @@ Když dítě vidí svého otce osobně, je šťastnější, než kdyby jen věd�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: WIW:23-cs
+  :CITE-KEY: WIW:23
   :END:
 
 

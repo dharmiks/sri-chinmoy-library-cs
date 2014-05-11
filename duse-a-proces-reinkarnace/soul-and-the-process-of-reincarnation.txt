@@ -23,7 +23,7 @@
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SPR:1e1-cs
+  :CITE-KEY: SPR:1e1
   :END:
 
 
@@ -32,7 +32,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:1-cs
+  :CITE-KEY: SPR:1
   :END:
 
 
@@ -46,7 +46,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:2-cs
+  :CITE-KEY: SPR:2
   :END:
 
 
@@ -60,7 +60,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:3-cs
+  :CITE-KEY: SPR:3
   :END:
 
 
@@ -74,7 +74,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:4-cs
+  :CITE-KEY: SPR:4
   :END:
 
 
@@ -88,7 +88,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:5-cs
+  :CITE-KEY: SPR:5
   :END:
 
 
@@ -102,7 +102,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:6-cs
+  :CITE-KEY: SPR:6
   :END:
 
 
@@ -120,7 +120,7 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:7-cs
+  :CITE-KEY: SPR:7
   :END:
 
 
@@ -134,7 +134,7 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:8-cs
+  :CITE-KEY: SPR:8
   :END:
 
 
@@ -148,7 +148,7 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:9-cs
+  :CITE-KEY: SPR:9
   :END:
 
 
@@ -162,7 +162,7 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:10-cs
+  :CITE-KEY: SPR:10
   :END:
 
 
@@ -176,7 +176,7 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:11-cs
+  :CITE-KEY: SPR:11
   :END:
 
 
@@ -190,7 +190,7 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:12-cs
+  :CITE-KEY: SPR:12
   :END:
 
 
@@ -204,7 +204,7 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:13-cs
+  :CITE-KEY: SPR:13
   :END:
 
 
@@ -218,7 +218,7 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:14-cs
+  :CITE-KEY: SPR:14
   :END:
 
 
@@ -236,7 +236,7 @@ Když je vitálno ve vitálním obalu, může značně trpět. Pokud je vitálno
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SPR:15e2-cs
+  :CITE-KEY: SPR:15e2
   :END:
 
 
@@ -245,7 +245,7 @@ Když je vitálno ve vitálním obalu, může značně trpět. Pokud je vitálno
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:15-cs
+  :CITE-KEY: SPR:15
   :END:
 
 
@@ -259,7 +259,7 @@ Když je vitálno ve vitálním obalu, může značně trpět. Pokud je vitálno
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:16-cs
+  :CITE-KEY: SPR:16
   :END:
 
 
@@ -273,7 +273,7 @@ Když je vitálno ve vitálním obalu, může značně trpět. Pokud je vitálno
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:17-cs
+  :CITE-KEY: SPR:17
   :END:
 
 
@@ -287,7 +287,7 @@ Když je vitálno ve vitálním obalu, může značně trpět. Pokud je vitálno
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:18-cs
+  :CITE-KEY: SPR:18
   :END:
 
 
@@ -303,7 +303,7 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:19-cs
+  :CITE-KEY: SPR:19
   :END:
 
 
@@ -317,7 +317,7 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:20-cs
+  :CITE-KEY: SPR:20
   :END:
 
 
@@ -331,7 +331,7 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:21-cs
+  :CITE-KEY: SPR:21
   :END:
 
 
@@ -345,7 +345,7 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:22-cs
+  :CITE-KEY: SPR:22
   :END:
 
 
@@ -359,7 +359,7 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:23-cs
+  :CITE-KEY: SPR:23
   :END:
 
 
@@ -373,7 +373,7 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:24-cs
+  :CITE-KEY: SPR:24
   :END:
 
 
@@ -387,7 +387,7 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:25-cs
+  :CITE-KEY: SPR:25
   :END:
 
 
@@ -403,7 +403,7 @@ Ten jedinec však bude jednat odlišně, třebaže nebude vědět proč. Bude n�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:26-cs
+  :CITE-KEY: SPR:26
   :END:
 
 
@@ -417,7 +417,7 @@ Ten jedinec však bude jednat odlišně, třebaže nebude vědět proč. Bude n�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:27-cs
+  :CITE-KEY: SPR:27
   :END:
 
 
@@ -431,7 +431,7 @@ Ten jedinec však bude jednat odlišně, třebaže nebude vědět proč. Bude n�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:28-cs
+  :CITE-KEY: SPR:28
   :END:
 
 
@@ -445,7 +445,7 @@ Ten jedinec však bude jednat odlišně, třebaže nebude vědět proč. Bude n�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:29-cs
+  :CITE-KEY: SPR:29
   :END:
 
 
@@ -465,7 +465,7 @@ Jakou roli hraje individuální duše? Je to role květu na stromě. Je-li na st
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:30-cs
+  :CITE-KEY: SPR:30
   :END:
 
 
@@ -483,7 +483,7 @@ V dnešní době je na západě nemálo upřímných hledajících. Mnozí z nic
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SPR:31e3-cs
+  :CITE-KEY: SPR:31e3
   :END:
 
 
@@ -492,7 +492,7 @@ V dnešní době je na západě nemálo upřímných hledajících. Mnozí z nic
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:31-cs
+  :CITE-KEY: SPR:31
   :END:
 
 
@@ -506,7 +506,7 @@ V dnešní době je na západě nemálo upřímných hledajících. Mnozí z nic
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:32-cs
+  :CITE-KEY: SPR:32
   :END:
 
 
@@ -520,7 +520,7 @@ V dnešní době je na západě nemálo upřímných hledajících. Mnozí z nic
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:33-cs
+  :CITE-KEY: SPR:33
   :END:
 
 
@@ -534,7 +534,7 @@ V dnešní době je na západě nemálo upřímných hledajících. Mnozí z nic
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:34-cs
+  :CITE-KEY: SPR:34
   :END:
 
 
@@ -548,7 +548,7 @@ V dnešní době je na západě nemálo upřímných hledajících. Mnozí z nic
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:35-cs
+  :CITE-KEY: SPR:35
   :END:
 
 
@@ -572,7 +572,7 @@ Jestliže tedy pro tebe není přirozené a spontánní cítit, že jsi duše, z
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:36-cs
+  :CITE-KEY: SPR:36
   :END:
 
 
@@ -590,7 +590,7 @@ Tak jako se musí tělo, vitálno a mysl odevzdat duši, tak se i my jako jednot
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:37-cs
+  :CITE-KEY: SPR:37
   :END:
 
 
@@ -607,7 +607,7 @@ Abys cítil přítomnost duše, musíš pár roků meditovat. V tuto chvíli nen
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SPR:38e4-cs
+  :CITE-KEY: SPR:38e4
   :END:
 
 
@@ -616,7 +616,7 @@ Abys cítil přítomnost duše, musíš pár roků meditovat. V tuto chvíli nen
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:38-cs
+  :CITE-KEY: SPR:38
   :END:
 
 
@@ -630,7 +630,7 @@ Abys cítil přítomnost duše, musíš pár roků meditovat. V tuto chvíli nen
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:39-cs
+  :CITE-KEY: SPR:39
   :END:
 
 
@@ -648,7 +648,7 @@ Lidská bytost tedy musí realizovat Boha, ne však vlastní duše. Vlastní du�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:40-cs
+  :CITE-KEY: SPR:40
   :END:
 
 
@@ -662,7 +662,7 @@ Lidská bytost tedy musí realizovat Boha, ne však vlastní duše. Vlastní du�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:41-cs
+  :CITE-KEY: SPR:41
   :END:
 
 
@@ -684,7 +684,7 @@ Také je veliký rozdíl mezi Jogínem a Avatárem. Když se někdo stane Jogín
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:42-cs
+  :CITE-KEY: SPR:42
   :END:
 
 
@@ -700,7 +700,7 @@ Na západě se mluví o spáse. Spása je mnohem níže než osvobození. Spása
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:43-cs
+  :CITE-KEY: SPR:43
   :END:
 
 
@@ -716,7 +716,7 @@ Obyčejná osvobozená duše se však neodváží projevit hněv. Obává se hn�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:44-cs
+  :CITE-KEY: SPR:44
   :END:
 
 
@@ -730,7 +730,7 @@ Obyčejná osvobozená duše se však neodváží projevit hněv. Obává se hn�
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SPR:45e5-cs
+  :CITE-KEY: SPR:45e5
   :END:
 
 
@@ -739,7 +739,7 @@ Obyčejná osvobozená duše se však neodváží projevit hněv. Obává se hn�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:45-cs
+  :CITE-KEY: SPR:45
   :END:
 
 
@@ -763,7 +763,7 @@ Na začátku se silnější vytahuje. Když slabší získá nějaké schopnosti
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:46-cs
+  :CITE-KEY: SPR:46
   :END:
 
 
@@ -777,7 +777,7 @@ Na začátku se silnější vytahuje. Když slabší získá nějaké schopnosti
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:47-cs
+  :CITE-KEY: SPR:47
   :END:
 
 
@@ -791,7 +791,7 @@ Na začátku se silnější vytahuje. Když slabší získá nějaké schopnosti
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:48-cs
+  :CITE-KEY: SPR:48
   :END:
 
 
@@ -805,7 +805,7 @@ Na začátku se silnější vytahuje. Když slabší získá nějaké schopnosti
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:49-cs
+  :CITE-KEY: SPR:49
   :END:
 
 
@@ -819,7 +819,7 @@ Na začátku se silnější vytahuje. Když slabší získá nějaké schopnosti
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:50-cs
+  :CITE-KEY: SPR:50
   :END:
 
 
@@ -833,7 +833,7 @@ Na začátku se silnější vytahuje. Když slabší získá nějaké schopnosti
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:51-cs
+  :CITE-KEY: SPR:51
   :END:
 
 
@@ -847,7 +847,7 @@ Na začátku se silnější vytahuje. Když slabší získá nějaké schopnosti
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SPR:52e6-cs
+  :CITE-KEY: SPR:52e6
   :END:
 
 
@@ -856,7 +856,7 @@ Na začátku se silnější vytahuje. Když slabší získá nějaké schopnosti
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:52-cs
+  :CITE-KEY: SPR:52
   :END:
 
 
@@ -880,7 +880,7 @@ Zde na západě, pokud někdo trochu ovládá astrologii, může vzývat planetu
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:53-cs
+  :CITE-KEY: SPR:53
   :END:
 
 
@@ -900,7 +900,7 @@ Jeden aspekt je tedy samá láska, samý soucit. Tady je spokojen a potěšen ka
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:54-cs
+  :CITE-KEY: SPR:54
   :END:
 
 
@@ -914,7 +914,7 @@ Jeden aspekt je tedy samá láska, samý soucit. Tady je spokojen a potěšen ka
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:55-cs
+  :CITE-KEY: SPR:55
   :END:
 
 
@@ -928,7 +928,7 @@ Jeden aspekt je tedy samá láska, samý soucit. Tady je spokojen a potěšen ka
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:56-cs
+  :CITE-KEY: SPR:56
   :END:
 
 
@@ -944,7 +944,7 @@ Mistr se také může zjevit s různými tvářemi, nebo může způsobit, že s
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:57-cs
+  :CITE-KEY: SPR:57
   :END:
 
 
@@ -958,7 +958,7 @@ Mistr se také může zjevit s různými tvářemi, nebo může způsobit, že s
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:58-cs
+  :CITE-KEY: SPR:58
   :END:
 
 
@@ -972,7 +972,7 @@ Mistr se také může zjevit s různými tvářemi, nebo může způsobit, že s
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:59-cs
+  :CITE-KEY: SPR:59
   :END:
 
 
@@ -987,7 +987,7 @@ Pro hledajícího je nemožné znát schopnosti kosmických bohů. Když máš b
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:60-cs
+  :CITE-KEY: SPR:60
   :END:
 
 
@@ -1003,7 +1003,7 @@ Takže duše kosmických bohů se liší od duší lidských bytostí. Na druhou
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:61-cs
+  :CITE-KEY: SPR:61
   :END:
 
 
@@ -1017,7 +1017,7 @@ Takže duše kosmických bohů se liší od duší lidských bytostí. Na druhou
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:62-cs
+  :CITE-KEY: SPR:62
   :END:
 
 
@@ -1032,7 +1032,7 @@ Ve světě Brahmy je svrchovaným aspektem síla. Ve světě Višnua je svrchova
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SPR:63-cs
+  :CITE-KEY: SPR:63
   :END:
 
 
