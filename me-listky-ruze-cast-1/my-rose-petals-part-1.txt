@@ -36,7 +36,7 @@ Evropské turné Sri Chinmoy začal 8. listopadu 1970. Během dvaceti šesti dn�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:1
+  :CITE-KEY: RP:1-cs
   :END:
 
 
@@ -153,7 +153,7 @@ Pondělí, 9. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:2
+  :CITE-KEY: RP:2-cs
   :END:
 
 
@@ -270,7 +270,7 @@ University of Nottingham \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:3
+  :CITE-KEY: RP:3-cs
   :END:
 
 
@@ -368,7 +368,7 @@ Středa, 11. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:4
+  :CITE-KEY: RP:4-cs
   :END:
 
 
@@ -425,7 +425,7 @@ Pátek, 13. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:5
+  :CITE-KEY: RP:5-cs
   :END:
 
 
@@ -499,7 +499,7 @@ Sobota, 14. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:6
+  :CITE-KEY: RP:6-cs
   :END:
 
 
@@ -551,7 +551,7 @@ University of Essex, Colchester \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:7
+  :CITE-KEY: RP:7-cs
   :END:
 
 
@@ -619,7 +619,7 @@ Středa, 18. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:8
+  :CITE-KEY: RP:8-cs
   :END:
 
 
@@ -761,7 +761,7 @@ Keble College, Oxford \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:9
+  :CITE-KEY: RP:9-cs
   :END:
 
 Jsem nesmírně šťastný, pyšný a hrdý na to, že jsem tu dnes večer ve vašem středu. Strávím na britských ostrovech asi měsíc. Mám-li se vrátit do New Yorku, kde žiji, bez toho, aniž bych složil svůj uctivý hold Walesu, byl by to vrchol mé hlouposti a nevědomosti .
@@ -843,7 +843,7 @@ Pátek, 20. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:10
+  :CITE-KEY: RP:10-cs
   :END:
 
 Cambridge, skláním se před výškou tvojí aspirace. Skláním se před tvým světlem znalostí. Skláním se před tvou božskou pýchou. Je pravda, že jste z Anglie, jste v Anglii, ale vy patříte širokému světu. Celý svět vás považuje za svého vlastního.
@@ -951,7 +951,7 @@ Pondělí, 23. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:11
+  :CITE-KEY: RP:11-cs
   :END:
 
 Jeden velký spisovatel kdysi řekl: „Filozof je ten, kdo pochybuje.“ Dle mého nedůležitého názoru jsme všichni filozofové, protože na zemi není nikoho, kdo by alespoň jednou nezapochyboval.
@@ -1040,7 +1040,7 @@ Středa, 25. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:12
+  :CITE-KEY: RP:12-cs
   :END:
 
 Láska je sladká. Oddanost je sladší. Odevzdání je nejsladší.
@@ -1162,7 +1162,7 @@ Pátek, 27. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:13
+  :CITE-KEY: RP:13-cs
   :END:
 
 
@@ -1235,7 +1235,7 @@ Pondělí, 30. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:14
+  :CITE-KEY: RP:14-cs
   :END:
 
 
@@ -1296,7 +1296,7 @@ Trinity College, Dublin \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:15
+  :CITE-KEY: RP:15-cs
   :END:
 
 Bůh myslí na svou Povinnost. Bůh medituje na svou Povinnost.

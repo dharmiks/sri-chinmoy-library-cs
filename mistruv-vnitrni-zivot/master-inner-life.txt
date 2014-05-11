@@ -25,7 +25,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: MIL:1
+  :CITE-KEY: MIL:1-cs
   :END:
 
 
@@ -79,7 +79,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: MIL:2
+  :CITE-KEY: MIL:2-cs
   :END:
 
 
@@ -98,7 +98,7 @@
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: MIL:3e1
+  :CITE-KEY: MIL:3e1-cs
   :END:
 
 
@@ -109,7 +109,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:3
+  :CITE-KEY: MIL:3-cs
   :END:
 
 
@@ -129,7 +129,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:4
+  :CITE-KEY: MIL:4-cs
   :END:
 
 
@@ -142,7 +142,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:5
+  :CITE-KEY: MIL:5-cs
   :END:
 
 
@@ -157,7 +157,7 @@
   :SUBTITLE
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: MIL:6
+  :CITE-KEY: MIL:6-cs
   :END:
 
 
@@ -188,7 +188,7 @@
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: MIL:7e2
+  :CITE-KEY: MIL:7e2-cs
   :END:
 
 
@@ -198,7 +198,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:7
+  :CITE-KEY: MIL:7-cs
   :END:
 
 
@@ -213,7 +213,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:8
+  :CITE-KEY: MIL:8-cs
   :END:
 
 
@@ -233,7 +233,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: MIL:9
+  :CITE-KEY: MIL:9-cs
   :END:
 
 
@@ -249,7 +249,7 @@
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: MIL:10e3
+  :CITE-KEY: MIL:10e3-cs
   :END:
 
 
@@ -260,7 +260,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:10
+  :CITE-KEY: MIL:10-cs
   :END:
 
 
@@ -277,7 +277,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:11
+  :CITE-KEY: MIL:11-cs
   :END:
 
 
@@ -294,7 +294,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:12
+  :CITE-KEY: MIL:12-cs
   :END:
 
 
@@ -310,7 +310,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: MIL:13
+  :CITE-KEY: MIL:13-cs
   :END:
 
 
@@ -343,7 +343,7 @@
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: MIL:14e4
+  :CITE-KEY: MIL:14e4-cs
   :END:
 
 
@@ -353,7 +353,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:14
+  :CITE-KEY: MIL:14-cs
   :END:
 
 
@@ -371,7 +371,7 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:15
+  :CITE-KEY: MIL:15-cs
   :END:
 
 
@@ -388,7 +388,7 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:16
+  :CITE-KEY: MIL:16-cs
   :END:
 
 
@@ -405,7 +405,7 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:17
+  :CITE-KEY: MIL:17-cs
   :END:
 
 
@@ -428,7 +428,7 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:18
+  :CITE-KEY: MIL:18-cs
   :END:
 
 
@@ -443,7 +443,7 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:19
+  :CITE-KEY: MIL:19-cs
   :END:
 
 
@@ -456,7 +456,7 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:20
+  :CITE-KEY: MIL:20-cs
   :END:
 
 
@@ -473,7 +473,7 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: MIL:21
+  :CITE-KEY: MIL:21-cs
   :END:
 
 

@@ -27,7 +27,7 @@
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: HRML:1e1
+  :CITE-KEY: HRML:1e1-cs
   :END:
 
 
@@ -37,7 +37,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:1
+  :CITE-KEY: HRML:1-cs
   :END:
 
 
@@ -55,7 +55,7 @@ Naděje je něco sladkého, božského a povzbuzujícího. Ale očekávání je 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:2
+  :CITE-KEY: HRML:2-cs
   :END:
 
 /Sri Chinmoy:/ Zde na zemi mnoho lidí zapomnělo na slib, který dali Bohu a své vlastní božskosti. Stejně tak je Boží Vědomí ve světě duší, ale kolik duší si to pamatuje? Po šesti letech se většina duší musí vrátit zpět na zem. Některé nechtějí, ale jsou k tomu přinuceny. Jestliže získají zvláštní Boží Milost nebo zvláštní milost Mistra, mohou zůstat ve světě duší natrvalo. Ale obyčejné lidské bytosti se musí vrátit, protože i když jsou ve světě duší, nedělají nic pro Boha ani pro svůj duchovní pokrok. 
@@ -71,7 +71,7 @@ Obyčejné, neaspirující duše mohou na Boha v Nebi určitě zapomenout. Mů�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:3
+  :CITE-KEY: HRML:3-cs
   :END:
 
 /Sri Chinmoy:/ Ano, vděčnost vyléčí vše, jsou-li v ní zbožné slzy. Pokud jen řeknete: „Jsem ti vděčný,“ pak taková vděčnost není hluboká. Je to, jako když řeknete: „Mnohokrát děkuji.“ Pokud ale vděčnost přichází ze samotné hloubky naší bytosti, z nejvnitřnějších zákoutí našeho srdce, protože Bůh pro nás udělal tolik věcí bezvýhradně, pak jsou v takové vděčnosti kanoucí slzy.
@@ -85,7 +85,7 @@ Někdy se stane, že uděláme-li jeden krok směrem k Bohu, on udělá devades�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:4
+  :CITE-KEY: HRML:4-cs
   :END:
 
 /Sri Chinmoy:/ Vize přichází přímo ze třetího oka. Zdroj vize je nekonečně vyšší než zdroj představy. Bůh stvořil tento svět svou kosmickou Vizí. Představa může být vysoká, vyšší, nejvyšší. Ale dotkne-li se nás Boží nekonečná Milost, můžeme se dozvědět, jaká je Jeho Vize a dokonce můžeme být Boží Vizí obdařeni. Pak snadno uvidíme, že představa je nekonečně, nekonečně níže než Bohem daná vize. Existuje velký rozdíl mezi vnitřní vizí a představou. Představa má svou vlastní skutečnost; může být velmi vysoká, velmi vznešená a velmi hluboká. Představa může pocházet z velmi, velmi vysoké úrovně vědomí. Ale zdroj vize je nekonečně výše, než je i ta nejvyšší úroveň představy. 
@@ -99,7 +99,7 @@ Vize je vysoká jako Himálaje, představa je jako malý kopec. Když si něco p
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:5
+  :CITE-KEY: HRML:5-cs
   :END:
 
 
@@ -116,7 +116,7 @@ Naše aspirace či nedostatek aspirace rozhodně ovlivňují svět kolem nás --
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:6
+  :CITE-KEY: HRML:6-cs
   :END:
 
 
@@ -134,7 +134,7 @@ Používám slovo klanět se, ale to není to správné slovo. Klanět se může
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:7
+  :CITE-KEY: HRML:7-cs
   :END:
 
 
@@ -158,7 +158,7 @@ Jediná věc, která pomáhá, je Boží Milost. Musíte se k Bohu zbožně a se
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:8
+  :CITE-KEY: HRML:8-cs
   :END:
 
 
@@ -176,7 +176,7 @@ Takže když někoho vidím, ihned uvnitř něj vidím božský aspekt. Po reali
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:9
+  :CITE-KEY: HRML:9-cs
   :END:
 
 
@@ -192,7 +192,7 @@ Když jste v práci, nemusíte si myslet: „Ó, je jedenáct hodin. Guru je bu�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:10
+  :CITE-KEY: HRML:10-cs
   :END:
 
 
@@ -218,7 +218,7 @@ Abych se vrátil k tvé otázce, má hudba rozhodně napomáhá atmosféře Zem�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:11
+  :CITE-KEY: HRML:11-cs
   :END:
 
 
@@ -238,7 +238,7 @@ Máte-li upřímnou vděčnost, Bůh si vezme všechny vaše hříchy -- všechn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:12
+  :CITE-KEY: HRML:12-cs
   :END:
 
 
@@ -256,7 +256,7 @@ Pak si zkuste během večerní meditace vzpomenout na všechny dobré věci, kte
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:13
+  :CITE-KEY: HRML:13-cs
   :END:
 
 
@@ -276,7 +276,7 @@ Lidská láska je jako pozemská strava. Když budete nepřetržitě jíst dvě 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:14
+  :CITE-KEY: HRML:14-cs
   :END:
 
 
@@ -299,7 +299,7 @@ Nemyslete tedy na to, jak se zbavit svých tužeb. Tyto touhy přichází z my�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:15
+  :CITE-KEY: HRML:15-cs
   :END:
 
 
@@ -315,7 +315,7 @@ Nemusíte se proto odpoutávat od věcí, které vás povzbuzují a inspirují. 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:16
+  :CITE-KEY: HRML:16-cs
   :END:
 
 
@@ -333,7 +333,7 @@ Projevíš tomu člověku náklonnost, protože byla napadená, ale budeš nepř
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:17
+  :CITE-KEY: HRML:17-cs
   :END:
 
 
@@ -376,7 +376,7 @@ Jsem jako restaurace s různými druhy pokrmů. Cokoliv vaše duše chce, jsem p
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:18
+  :CITE-KEY: HRML:18-cs
   :END:
 
 
@@ -400,7 +400,7 @@ Bez upřímné jednoty existuje jen pocit nadřazenosti. Ale existuje-li pocit j
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:19
+  :CITE-KEY: HRML:19-cs
   :END:
 
 
@@ -414,7 +414,7 @@ Bez upřímné jednoty existuje jen pocit nadřazenosti. Ale existuje-li pocit j
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:20
+  :CITE-KEY: HRML:20-cs
   :END:
 
 
@@ -427,7 +427,7 @@ Bez upřímné jednoty existuje jen pocit nadřazenosti. Ale existuje-li pocit j
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: HRML:21
+  :CITE-KEY: HRML:21-cs
   :END:
 
 

@@ -25,7 +25,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: PDLS:1
+  :CITE-KEY: PDLS:1-cs
   :END:
 
 
@@ -52,7 +52,7 @@ Všichni duchovní aspiranti bez výjimky spatřili a pocítili potřebu čistot
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: PDLS:2
+  :CITE-KEY: PDLS:2-cs
   :END:
 
 
@@ -75,7 +75,7 @@ Abyste získali čistotu v průběhu vaší meditace, je třeba pokusit se při
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: PDLS:3
+  :CITE-KEY: PDLS:3-cs
   :END:
 
 
@@ -105,7 +105,7 @@ Ve vnitřním životě není vůbec obtížné být odpoutaný od našeho vněj�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: PDLS:4
+  :CITE-KEY: PDLS:4-cs
   :END:
 
 
@@ -132,7 +132,7 @@ Půjdeme-li hluboko dovnitř, můžeme každou nesnáz vnímat jako laskavost. D
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: PDLS:5
+  :CITE-KEY: PDLS:5-cs
   :END:
 
 
@@ -159,7 +159,7 @@ Nabídneme-li náš životní dech, jsme čistí jako květina. Teprve v ten ok
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: PDLS:6
+  :CITE-KEY: PDLS:6-cs
   :END:
 
 
@@ -190,7 +190,7 @@ Pravý aspirující pláče pro to nejvyšší a nejhlubší v něm v každém
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: PDLS:7
+  :CITE-KEY: PDLS:7-cs
   :END:
 
 
@@ -213,7 +213,7 @@ Vstoupíte-li jednou do duchovního života, nikdy, nikdy se nevracejte zpět do
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: PDLS:8
+  :CITE-KEY: PDLS:8-cs
   :END:
 
 
@@ -239,7 +239,7 @@ Pravidelná, upřímná a oduševnělá meditace je jedinou cestou, jak dojít k
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: PDLS:9
+  :CITE-KEY: PDLS:9-cs
   :END:
 
 #+BEGIN_VERSE

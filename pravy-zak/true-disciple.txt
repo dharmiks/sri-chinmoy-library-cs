@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:1
+  :CITE-KEY: TD:1-cs
   :END:
 
 
@@ -42,7 +42,7 @@ se svým Mistrem.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:2
+  :CITE-KEY: TD:2-cs
   :END:
 
 
@@ -60,7 +60,7 @@ Mistrova srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:3
+  :CITE-KEY: TD:3-cs
   :END:
 
 
@@ -78,7 +78,7 @@ usmívá-li se oko Mistra.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:4
+  :CITE-KEY: TD:4-cs
   :END:
 
 
@@ -96,7 +96,7 @@ pláče-li srdce Mistra.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:5
+  :CITE-KEY: TD:5-cs
   :END:
 
 
@@ -114,7 +114,7 @@ odpovědnosti za přeměnu světa.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:6
+  :CITE-KEY: TD:6-cs
   :END:
 
 
@@ -133,7 +133,7 @@ blaženost jeho nejrychlejšího pokroku.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:7
+  :CITE-KEY: TD:7-cs
   :END:
 
 
@@ -152,7 +152,7 @@ v kteroukoliv hodinu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:8
+  :CITE-KEY: TD:8-cs
   :END:
 
 
@@ -171,7 +171,7 @@ a hromových kopanců jeho Mistra.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:9
+  :CITE-KEY: TD:9-cs
   :END:
 
 
@@ -189,7 +189,7 @@ odolný proti nejistotě srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:10
+  :CITE-KEY: TD:10-cs
   :END:
 
 
@@ -207,7 +207,7 @@ odolný proti žárlivosti mysli.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:11
+  :CITE-KEY: TD:11-cs
   :END:
 
 
@@ -225,7 +225,7 @@ odolný proti negativní myšlence.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:12
+  :CITE-KEY: TD:12-cs
   :END:
 
 
@@ -243,7 +243,7 @@ odolný proti nečistotě vitálna.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:13
+  :CITE-KEY: TD:13-cs
   :END:
 
 
@@ -261,7 +261,7 @@ odolný proti letargii těla.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:14
+  :CITE-KEY: TD:14-cs
   :END:
 
 
@@ -279,7 +279,7 @@ odolný proti neochotnému životu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:15
+  :CITE-KEY: TD:15-cs
   :END:
 
 
@@ -297,7 +297,7 @@ Mistrových šlépějí po špičkách.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:16
+  :CITE-KEY: TD:16-cs
   :END:
 
 
@@ -315,7 +315,7 @@ PRAVÉHO žáka.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:17
+  :CITE-KEY: TD:17-cs
   :END:
 
 
@@ -333,7 +333,7 @@ a srdce jeho Mistra je jediný Cíl.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:18
+  :CITE-KEY: TD:18-cs
   :END:
 
 
@@ -350,7 +350,7 @@ co neví jeho Mistr.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:19
+  :CITE-KEY: TD:19-cs
   :END:
 
 
@@ -368,7 +368,7 @@ nechce, aby věděl.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:20
+  :CITE-KEY: TD:20-cs
   :END:
 
 
@@ -386,7 +386,7 @@ tichého života Mistra.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:21
+  :CITE-KEY: TD:21-cs
   :END:
 
 
@@ -405,7 +405,7 @@ jeho bratrů a sester-žáků.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:22
+  :CITE-KEY: TD:22-cs
   :END:
 
 
@@ -425,7 +425,7 @@ vlastním Způsobem Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:23
+  :CITE-KEY: TD:23-cs
   :END:
 
 
@@ -444,7 +444,7 @@ je vůle jeho Mistra.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:24
+  :CITE-KEY: TD:24-cs
   :END:
 
 
@@ -462,7 +462,7 @@ Lásku.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:25
+  :CITE-KEY: TD:25-cs
   :END:
 
 
@@ -480,7 +480,7 @@ Službě.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:26
+  :CITE-KEY: TD:26-cs
   :END:
 
 
@@ -500,7 +500,7 @@ Neomezeného.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:27
+  :CITE-KEY: TD:27-cs
   :END:
 
 
@@ -518,7 +518,7 @@ pravého žáka.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:28
+  :CITE-KEY: TD:28-cs
   :END:
 
 
@@ -537,7 +537,7 @@ spokojeném srdci Mistra.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:29
+  :CITE-KEY: TD:29-cs
   :END:
 
 
@@ -555,7 +555,7 @@ je celým světem PRAVÉHO žáka.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:30
+  :CITE-KEY: TD:30-cs
   :END:
 
 
@@ -574,7 +574,7 @@ pro uspokojení svého Pána-Mistra.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:31
+  :CITE-KEY: TD:31-cs
   :END:
 
 
@@ -593,7 +593,7 @@ vyslovujíc jednu jedinou mantru:
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:32
+  :CITE-KEY: TD:32-cs
   :END:
 
 
@@ -611,7 +611,7 @@ v hodině zvolené Mistrem.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:33
+  :CITE-KEY: TD:33-cs
   :END:
 
 
@@ -630,7 +630,7 @@ slibu projevení Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:34
+  :CITE-KEY: TD:34-cs
   :END:
 
 
@@ -648,7 +648,7 @@ Boží zářivostí.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:35
+  :CITE-KEY: TD:35-cs
   :END:
 
 
@@ -666,7 +666,7 @@ je jeho jediným domovem.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:36
+  :CITE-KEY: TD:36-cs
   :END:
 
 
@@ -684,7 +684,7 @@ je zabíječem šťastného srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:37
+  :CITE-KEY: TD:37-cs
   :END:
 
 
@@ -702,7 +702,7 @@ a žádné znepokojení Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:38
+  :CITE-KEY: TD:38-cs
   :END:
 
 
@@ -721,7 +721,7 @@ svému vlastnímu já.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:39
+  :CITE-KEY: TD:39-cs
   :END:
 
 
@@ -740,7 +740,7 @@ Mistr říká,
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:40
+  :CITE-KEY: TD:40-cs
   :END:
 
 
@@ -759,7 +759,7 @@ tak je i tvé kárání milosrdné.”
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:41
+  :CITE-KEY: TD:41-cs
   :END:
 
 
@@ -778,7 +778,7 @@ Mistr říká svému pravému žákovi:
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:42
+  :CITE-KEY: TD:42-cs
   :END:
 
 
@@ -797,7 +797,7 @@ kráčet se svým Mistrem po cestě, po celé cestě.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:43
+  :CITE-KEY: TD:43-cs
   :END:
 
 
@@ -816,7 +816,7 @@ prachem tvých nohou odpuštění.”
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:44
+  :CITE-KEY: TD:44-cs
   :END:
 
 
@@ -841,7 +841,7 @@ v podobě tvého Mistra.”
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:45
+  :CITE-KEY: TD:45-cs
   :END:
 
 
@@ -860,7 +860,7 @@ a jeho budoucnost bude v srdci Mistra.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:46
+  :CITE-KEY: TD:46-cs
   :END:
 
 
@@ -879,7 +879,7 @@ na samostatně naučenou lekci svého žáka.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:47
+  :CITE-KEY: TD:47-cs
   :END:
 
 
@@ -899,7 +899,7 @@ jídla odpuštění srdce Mistra.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:48
+  :CITE-KEY: TD:48-cs
   :END:
 
 
@@ -922,7 +922,7 @@ svého pravého žáka.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:49
+  :CITE-KEY: TD:49-cs
   :END:
 
 
@@ -940,7 +940,7 @@ podle Mistrovi libovůle.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:50
+  :CITE-KEY: TD:50-cs
   :END:
 
 
@@ -958,7 +958,7 @@ nektarový nápoj poslušnosti Mistrovi.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:51
+  :CITE-KEY: TD:51-cs
   :END:
 
 
@@ -976,7 +976,7 @@ jedovatý nápoj neposlušnosti Mistrovi.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:52
+  :CITE-KEY: TD:52-cs
   :END:
 
 
@@ -995,7 +995,7 @@ a ”miluj a služ” tenisový míč.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:53
+  :CITE-KEY: TD:53-cs
   :END:
 
 
@@ -1014,7 +1014,7 @@ ale učinil ho sjednoceným člověkem.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:54
+  :CITE-KEY: TD:54-cs
   :END:
 
 
@@ -1038,7 +1038,7 @@ je Cesta jediná.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:55
+  :CITE-KEY: TD:55-cs
   :END:
 
 
@@ -1060,7 +1060,7 @@ ale též je vším.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:56
+  :CITE-KEY: TD:56-cs
   :END:
 
 
@@ -1079,7 +1079,7 @@ a neomylně budou volat k následování.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:57
+  :CITE-KEY: TD:57-cs
   :END:
 
 
@@ -1097,7 +1097,7 @@ přichází s fontánou blaženosti písně.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:58
+  :CITE-KEY: TD:58-cs
   :END:
 
 
@@ -1116,7 +1116,7 @@ prapor velikosti života jeho Mistra.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:59
+  :CITE-KEY: TD:59-cs
   :END:
 
 
@@ -1135,7 +1135,7 @@ na obloze dobroty srdce jeho Mistra.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:60
+  :CITE-KEY: TD:60-cs
   :END:
 
 
@@ -1154,7 +1154,7 @@ ale žádný východ.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:61
+  :CITE-KEY: TD:61-cs
   :END:
 
 
@@ -1172,7 +1172,7 @@ od PRAVÉHO žáka.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:62
+  :CITE-KEY: TD:62-cs
   :END:
 
 
@@ -1190,7 +1190,7 @@ sklizeň vůle svého Mistra.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:63
+  :CITE-KEY: TD:63-cs
   :END:
 
 
@@ -1209,7 +1209,7 @@ rozmetanou v prach.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:64
+  :CITE-KEY: TD:64-cs
   :END:
 
 
@@ -1228,7 +1228,7 @@ ze hry na schovávanou.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:65
+  :CITE-KEY: TD:65-cs
   :END:
 
 
@@ -1252,7 +1252,7 @@ můj vnuku!”
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TD:66
+  :CITE-KEY: TD:66-cs
   :END:
 
 

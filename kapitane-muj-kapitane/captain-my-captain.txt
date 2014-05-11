@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: CMC:1
+  :CITE-KEY: CMC:1-cs
   :END:
 
 
@@ -67,7 +67,7 @@ něžnou láskou Nesmrtelnosti Uspokojení.“
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: CMC:2
+  :CITE-KEY: CMC:2-cs
   :END:
 
 
@@ -122,7 +122,7 @@ snílky přeměny země Věčnosti.“
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: CMC:3
+  :CITE-KEY: CMC:3-cs
   :END:
 
 
@@ -190,7 +190,7 @@ Tvému Oku Soucitu se klaním.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: CMC:4
+  :CITE-KEY: CMC:4-cs
   :END:
 
 
@@ -255,7 +255,7 @@ se svou Blažeností Uspokojení Nesmrtelnosti.“
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: CMC:5
+  :CITE-KEY: CMC:5-cs
   :END:
 
 
@@ -349,7 +349,7 @@ a tvé srdce je čistotou vděčnosti.“
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: CMC:6
+  :CITE-KEY: CMC:6-cs
   :END:
 
 
@@ -391,7 +391,7 @@ Plodnou Jednotu Jednoduchosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: CMC:7
+  :CITE-KEY: CMC:7-cs
   :END:
 
 
@@ -429,7 +429,7 @@ na bezdeché lásce jednoty tvého srdce.“
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: CMC:8
+  :CITE-KEY: CMC:8-cs
   :END:
 
 
@@ -465,7 +465,7 @@ Nektarové Blaženosti Mé Nekonečnosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: CMC:9
+  :CITE-KEY: CMC:9-cs
   :END:
 
 
@@ -539,7 +539,7 @@ stal ses svou nejvyšší realizací.“
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: CMC:10
+  :CITE-KEY: CMC:10-cs
   :END:
 
 
@@ -569,7 +569,7 @@ než si dovedeš představit.“
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: CMC:11
+  :CITE-KEY: CMC:11-cs
   :END:
 
 

@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:1
+  :CITE-KEY: GGGG:1-cs
   :END:
 
 
@@ -44,7 +44,7 @@ mě osvítila.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:2
+  :CITE-KEY: GGGG:2-cs
   :END:
 
 
@@ -64,7 +64,7 @@ mě osvobodila.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:3
+  :CITE-KEY: GGGG:3-cs
   :END:
 
 
@@ -84,7 +84,7 @@ Tvou Dobrotu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:4
+  :CITE-KEY: GGGG:4-cs
   :END:
 
 
@@ -106,7 +106,7 @@ kterou potřebuji.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:5
+  :CITE-KEY: GGGG:5-cs
   :END:
 
 
@@ -126,7 +126,7 @@ je mým hladem aspirace.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:6
+  :CITE-KEY: GGGG:6-cs
   :END:
 
 
@@ -148,7 +148,7 @@ svou Dobrotu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:7
+  :CITE-KEY: GGGG:7-cs
   :END:
 
 
@@ -168,7 +168,7 @@ Tvou Dobrotu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:8
+  :CITE-KEY: GGGG:8-cs
   :END:
 
 
@@ -189,7 +189,7 @@ abys řídil loď mého srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:9
+  :CITE-KEY: GGGG:9-cs
   :END:
 
 
@@ -209,7 +209,7 @@ mě osvěcuje.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:10
+  :CITE-KEY: GGGG:10-cs
   :END:
 
 
@@ -229,7 +229,7 @@ z čisté lásky.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:11
+  :CITE-KEY: GGGG:11-cs
   :END:
 
 
@@ -249,7 +249,7 @@ nad Tvou Dobrotou.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:12
+  :CITE-KEY: GGGG:12-cs
   :END:
 
 
@@ -269,7 +269,7 @@ je nepředstavitelně míruplný.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:13
+  :CITE-KEY: GGGG:13-cs
   :END:
 
 
@@ -289,7 +289,7 @@ sytí mou pokoru.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:14
+  :CITE-KEY: GGGG:14-cs
   :END:
 
 
@@ -309,7 +309,7 @@ kolébá můj život.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:15
+  :CITE-KEY: GGGG:15-cs
   :END:
 
 
@@ -329,7 +329,7 @@ Tvou Dobrotu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:16
+  :CITE-KEY: GGGG:16-cs
   :END:
 
 
@@ -349,7 +349,7 @@ sytí mé upřímné srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:17
+  :CITE-KEY: GGGG:17-cs
   :END:
 
 
@@ -371,7 +371,7 @@ stávám se tanečníkem měsíce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:18
+  :CITE-KEY: GGGG:18-cs
   :END:
 
 
@@ -393,7 +393,7 @@ Srdcem Soucitu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:19
+  :CITE-KEY: GGGG:19-cs
   :END:
 
 
@@ -415,7 +415,7 @@ snadno.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:20
+  :CITE-KEY: GGGG:20-cs
   :END:
 
 
@@ -435,7 +435,7 @@ Bože, Tvá Dobrota
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:21
+  :CITE-KEY: GGGG:21-cs
   :END:
 
 
@@ -457,7 +457,7 @@ není ničím jiným než
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:22
+  :CITE-KEY: GGGG:22-cs
   :END:
 
 
@@ -477,7 +477,7 @@ Bože, Tvá Dobrota
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:23
+  :CITE-KEY: GGGG:23-cs
   :END:
 
 
@@ -497,7 +497,7 @@ nabízím svůj seznam aspirace.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:24
+  :CITE-KEY: GGGG:24-cs
   :END:
 
 
@@ -517,7 +517,7 @@ je Tvou dobrotivou Shovívavostí.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:25
+  :CITE-KEY: GGGG:25-cs
   :END:
 
 
@@ -537,7 +537,7 @@ je přeměnitelem naší temnoty.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:26
+  :CITE-KEY: GGGG:26-cs
   :END:
 
 
@@ -557,7 +557,7 @@ je Posluchačem Tvého Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:27
+  :CITE-KEY: GGGG:27-cs
   :END:
 
 
@@ -582,7 +582,7 @@ pro Tvé Odpuštění.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:28
+  :CITE-KEY: GGGG:28-cs
   :END:
 
 
@@ -602,7 +602,7 @@ otevírá mé zavřené srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:29
+  :CITE-KEY: GGGG:29-cs
   :END:
 
 
@@ -622,7 +622,7 @@ ve mně vytváří vnímavost.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:30
+  :CITE-KEY: GGGG:30-cs
   :END:
 
 
@@ -644,7 +644,7 @@ je bezpodmínečná:
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:31
+  :CITE-KEY: GGGG:31-cs
   :END:
 
 
@@ -664,7 +664,7 @@ si naplněním mého srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:32
+  :CITE-KEY: GGGG:32-cs
   :END:
 
 
@@ -686,7 +686,7 @@ hrdá na mé srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:33
+  :CITE-KEY: GGGG:33-cs
   :END:
 
 
@@ -709,7 +709,7 @@ Tě těšit.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:34
+  :CITE-KEY: GGGG:34-cs
   :END:
 
 
@@ -731,7 +731,7 @@ tak brzo, jak jen to bude možné.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:35
+  :CITE-KEY: GGGG:35-cs
   :END:
 
 
@@ -753,7 +753,7 @@ bez příměsí zklamání.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:36
+  :CITE-KEY: GGGG:36-cs
   :END:
 
 
@@ -777,7 +777,7 @@ a dechem nesobeckosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:37
+  :CITE-KEY: GGGG:37-cs
   :END:
 
 
@@ -799,7 +799,7 @@ abych těšil Tebe.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:38
+  :CITE-KEY: GGGG:38-cs
   :END:
 
 
@@ -819,7 +819,7 @@ já jsem Tvou Oblohou Míru.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:39
+  :CITE-KEY: GGGG:39-cs
   :END:
 
 
@@ -839,7 +839,7 @@ Tvá nekonečná Láska si mne ochočuje.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:40
+  :CITE-KEY: GGGG:40-cs
   :END:
 
 
@@ -863,7 +863,7 @@ tou nejrychlejší příležitostí.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:41
+  :CITE-KEY: GGGG:41-cs
   :END:
 
 
@@ -883,7 +883,7 @@ Ty povzbuzuješ mou připravenost.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:42
+  :CITE-KEY: GGGG:42-cs
   :END:
 
 
@@ -907,7 +907,7 @@ nejhlubších Snů.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:43
+  :CITE-KEY: GGGG:43-cs
   :END:
 
 
@@ -931,7 +931,7 @@ vším, čím Jsem.“
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:44
+  :CITE-KEY: GGGG:44-cs
   :END:
 
 
@@ -951,7 +951,7 @@ Ty jsi svými Tajemstvími.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:45
+  :CITE-KEY: GGGG:45-cs
   :END:
 
 
@@ -971,7 +971,7 @@ Ty jsi svými Sny Požehnání všude.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:46
+  :CITE-KEY: GGGG:46-cs
   :END:
 
 
@@ -991,7 +991,7 @@ Ty jsi vyzařováním mého slibu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:47
+  :CITE-KEY: GGGG:47-cs
   :END:
 
 
@@ -1015,7 +1015,7 @@ zahrady mého srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:48
+  :CITE-KEY: GGGG:48-cs
   :END:
 
 
@@ -1039,7 +1039,7 @@ v mém životě.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:49
+  :CITE-KEY: GGGG:49-cs
   :END:
 
 
@@ -1061,7 +1061,7 @@ neoddělitelně jedním.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:50
+  :CITE-KEY: GGGG:50-cs
   :END:
 
 
@@ -1083,7 +1083,7 @@ stávám se mořem míru.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:51
+  :CITE-KEY: GGGG:51-cs
   :END:
 
 
@@ -1105,7 +1105,7 @@ s jednosměrnou jízdenkou.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:52
+  :CITE-KEY: GGGG:52-cs
   :END:
 
 
@@ -1125,7 +1125,7 @@ Ty inspiruješ mou poslušnost.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:53
+  :CITE-KEY: GGGG:53-cs
   :END:
 
 
@@ -1149,7 +1149,7 @@ svého života.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:54
+  :CITE-KEY: GGGG:54-cs
   :END:
 
 
@@ -1173,7 +1173,7 @@ bezvýhradně.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:55
+  :CITE-KEY: GGGG:55-cs
   :END:
 
 
@@ -1197,7 +1197,7 @@ Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:56
+  :CITE-KEY: GGGG:56-cs
   :END:
 
 
@@ -1222,7 +1222,7 @@ děti
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:57
+  :CITE-KEY: GGGG:57-cs
   :END:
 
 
@@ -1245,7 +1245,7 @@ aby projevili Tvou Božskost.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:58
+  :CITE-KEY: GGGG:58-cs
   :END:
 
 
@@ -1273,7 +1273,7 @@ Způsobem.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GGGG:59
+  :CITE-KEY: GGGG:59-cs
   :END:
 
 

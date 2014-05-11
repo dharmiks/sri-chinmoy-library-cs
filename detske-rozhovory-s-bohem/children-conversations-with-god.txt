@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:1
+  :CITE-KEY: CCG:1-cs
   :END:
 
 
@@ -44,7 +44,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:2
+  :CITE-KEY: CCG:2-cs
   :END:
 
 
@@ -71,7 +71,7 @@ Každé ráno si stoupni před veliké zrcadlo v obývacím pokoji a měj oči
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:3
+  :CITE-KEY: CCG:3-cs
   :END:
 
 
@@ -115,7 +115,7 @@ S nejpyšnějším úsměvem Bůh odchází.
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:4
+  :CITE-KEY: CCG:4-cs
   :END:
 
 
@@ -162,7 +162,7 @@ Bůh se na Kristýnu usmál úsměvem sladké Blaženosti a Soucitu.“
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:5
+  :CITE-KEY: CCG:5-cs
   :END:
 
 
@@ -191,7 +191,7 @@ Bůh se na Kristýnu usmál úsměvem sladké Blaženosti a Soucitu.“
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:6
+  :CITE-KEY: CCG:6-cs
   :END:
 
 
@@ -224,7 +224,7 @@ Bůh se na Kristýnu usmál úsměvem sladké Blaženosti a Soucitu.“
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:7
+  :CITE-KEY: CCG:7-cs
   :END:
 
 
@@ -251,7 +251,7 @@ Bůh se na Kristýnu usmál úsměvem sladké Blaženosti a Soucitu.“
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:8
+  :CITE-KEY: CCG:8-cs
   :END:
 
 
@@ -294,7 +294,7 @@ Bůh roní slzy radosti.
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:9
+  :CITE-KEY: CCG:9-cs
   :END:
 
 
@@ -329,7 +329,7 @@ Bůh říká: „Nikol, jsi tak šťastná. Co ti dává takovou radost?“
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:10
+  :CITE-KEY: CCG:10-cs
   :END:
 
 
@@ -367,7 +367,7 @@ Bůh říká: „Nikol, jsi tak šťastná. Co ti dává takovou radost?“
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:11
+  :CITE-KEY: CCG:11-cs
   :END:
 
 
@@ -393,7 +393,7 @@ Bůh říká: „Nikol, jsi tak šťastná. Co ti dává takovou radost?“
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:12
+  :CITE-KEY: CCG:12-cs
   :END:
 
 
@@ -415,7 +415,7 @@ Stojíš přímo přede mnou. Vidím, že máš dvě oči, dvě uši a ústa ja
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:13
+  :CITE-KEY: CCG:13-cs
   :END:
 
 
@@ -447,7 +447,7 @@ Bůh se usmívá a pláče radostí.
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:14
+  :CITE-KEY: CCG:14-cs
   :END:
 
 
@@ -473,7 +473,7 @@ Bůh se usmívá a pláče radostí.
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:15
+  :CITE-KEY: CCG:15-cs
   :END:
 
 
@@ -505,7 +505,7 @@ Chci tě překvapit tím, že ti řeknu něco o tvé budoucnosti. Chci ti říc
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:16
+  :CITE-KEY: CCG:16-cs
   :END:
 
 
@@ -524,7 +524,7 @@ Chci tě překvapit tím, že ti řeknu něco o tvé budoucnosti. Chci ti říc
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:17
+  :CITE-KEY: CCG:17-cs
   :END:
 
 
@@ -543,7 +543,7 @@ Chci tě překvapit tím, že ti řeknu něco o tvé budoucnosti. Chci ti říc
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:18
+  :CITE-KEY: CCG:18-cs
   :END:
 
 
@@ -564,7 +564,7 @@ Chci tě překvapit tím, že ti řeknu něco o tvé budoucnosti. Chci ti říc
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:19
+  :CITE-KEY: CCG:19-cs
   :END:
 
 
@@ -602,7 +602,7 @@ Chci tě překvapit tím, že ti řeknu něco o tvé budoucnosti. Chci ti říc
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:20
+  :CITE-KEY: CCG:20-cs
   :END:
 
 
@@ -633,7 +633,7 @@ Bůh se na Veroniku usmívá svým nanejvýš milujícím Úsměvem.
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: CCG:21
+  :CITE-KEY: CCG:21-cs
   :END:
 
 

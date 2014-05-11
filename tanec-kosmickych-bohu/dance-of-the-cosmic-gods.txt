@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:1
+  :CITE-KEY: DCG:1-cs
   :END:
 
 
@@ -48,7 +48,7 @@ Kosmičtí bohové a bohyně jsou ušlechtilými bytostmi. Nevstupují do těla 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:2
+  :CITE-KEY: DCG:2-cs
   :END:
 
 
@@ -70,7 +70,7 @@ Tak, jako vy na Západě máte svoji Trojici, my Indové máme také Trojici. Ho
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:3
+  :CITE-KEY: DCG:3-cs
   :END:
 
 
@@ -87,7 +87,7 @@ Každý člověk má ochranné božstvo, které na něj dohlíží. Zde na Zápa
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:4
+  :CITE-KEY: DCG:4-cs
   :END:
 
 
@@ -106,7 +106,7 @@ Jsou nižší kosmičtí bohové a jsou vyšší kosmičtí bohové. Ačkoliv ni
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:5
+  :CITE-KEY: DCG:5-cs
   :END:
 
 
@@ -165,7 +165,7 @@ Ve dvaitadvaitě jdou dualita a monismus společně. V jednom okamžiku jsou du�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:6
+  :CITE-KEY: DCG:6-cs
   :END:
 
 
@@ -283,7 +283,7 @@ Správnou stezkou je aspirace srdce.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:7
+  :CITE-KEY: DCG:7-cs
   :END:
 
 
@@ -328,7 +328,7 @@ Rudra je jedním z nejvýznamnějších Védských bohů. V Rig Védě je o Rudr
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:8
+  :CITE-KEY: DCG:8-cs
   :END:
 
 
@@ -436,7 +436,7 @@ Bůh slunce nám dá poznání a moudrost. Bůh slunce nás oprostí od hojné n
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:9
+  :CITE-KEY: DCG:9-cs
   :END:
 
 
@@ -453,7 +453,7 @@ Dalším jménem Pána Ganéši je Siddhidata. Nazýváme jej také Ganapati. Ga
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:10
+  :CITE-KEY: DCG:10-cs
   :END:
 
 
@@ -474,7 +474,7 @@ V Indii máme velmi důležitého boha jménem Saturn. Nazýváme jej také Šan
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:11
+  :CITE-KEY: DCG:11-cs
   :END:
 
 
@@ -489,7 +489,7 @@ Božská Matka je Božství ve svém ženském aspektu. Velmi často říkáme, 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:12
+  :CITE-KEY: DCG:12-cs
   :END:
 
 
@@ -522,7 +522,7 @@ Prvním je aspekt nesmírnosti, rozlehlosti a hloubky, zvaný Mahéšvarí. "Mah
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:13
+  :CITE-KEY: DCG:13-cs
   :END:
 
 
@@ -574,7 +574,7 @@ V dalším aspektu je božská Matka nazývána Mahákálí. V tomto aspektu je 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:14
+  :CITE-KEY: DCG:14-cs
   :END:
 
 
@@ -609,7 +609,7 @@ Třetí bohyní neboli aspektem Božské Matky je Mahálakšmí. Jak jsem již �
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: DCG:15
+  :CITE-KEY: DCG:15-cs
   :END:
 
 

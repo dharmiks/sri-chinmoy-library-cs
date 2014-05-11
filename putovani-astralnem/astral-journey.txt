@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:1
+  :CITE-KEY: AJ:1-cs
   :END:
 
 
@@ -69,7 +69,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:2
+  :CITE-KEY: AJ:2-cs
   :END:
 
 
@@ -106,7 +106,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:3
+  :CITE-KEY: AJ:3-cs
   :END:
 
 
@@ -137,7 +137,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:4
+  :CITE-KEY: AJ:4-cs
   :END:
 
    "Mistře," řekl jeden žák, "viděl nebo poznal jsi vůbec někdy ve své minulé inkarnaci, nebo dokonce i v tomto vtělení, nějaké zvíře, abys ho po několika letech spatřil znova jako lidskou bytost?"
@@ -178,7 +178,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:5
+  :CITE-KEY: AJ:5-cs
   :END:
 
 
@@ -223,7 +223,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:6
+  :CITE-KEY: AJ:6-cs
   :END:
 
 
@@ -251,7 +251,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:7
+  :CITE-KEY: AJ:7-cs
   :END:
 
 
@@ -281,7 +281,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:8
+  :CITE-KEY: AJ:8-cs
   :END:
 
 
@@ -302,7 +302,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:9
+  :CITE-KEY: AJ:9-cs
   :END:
 
 
@@ -354,7 +354,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:10
+  :CITE-KEY: AJ:10-cs
   :END:
 
 
@@ -371,7 +371,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:11
+  :CITE-KEY: AJ:11-cs
   :END:
 
 
@@ -399,7 +399,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:12
+  :CITE-KEY: AJ:12-cs
   :END:
 
 
@@ -417,7 +417,7 @@
   :PROPERTIES:
   :GENRE: story
   :KEYWORDS:
-  :CITE-KEY: AJ:13
+  :CITE-KEY: AJ:13-cs
   :END:
 
 

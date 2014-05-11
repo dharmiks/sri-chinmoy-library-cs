@@ -22,7 +22,7 @@
 :PROPERTIES:
   :GENRE:
   :KEYWORDS:
-:CITE-KEY: TIMD:1
+:CITE-KEY: TIMD:1-cs
   :END:
 
 Kdo je to pravý duchovní Mistr a jakou moudrost v sobě ztělesňuje? Kdo jsou jeho žáci a jaká síla je nutí Mistra následovat? Duchovní Mistr Sri Chinmoy nám v této nevšední knize ukazuje, co vlastně spojuje duchovního Mistra a jeho žáka. 
@@ -38,7 +38,7 @@ Díky jednotě se svým Guruem se žák učí, že každý z nás má v sobě Bo
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: TIMD:2e1
+  :CITE-KEY: TIMD:2e1-cs
   :END:
 
 * 1. GURU
@@ -46,7 +46,7 @@ Díky jednotě se svým Guruem se žák učí, že každý z nás má v sobě Bo
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: TIMD:2
+  :CITE-KEY: TIMD:2-cs
   :END:
 
 Guru vidí ve svém žákovi skutečnou podobu Boha, a proto se pro žáka naprosto obětuje. Žák ve svém Guruovi vidí a cítí jediné útočiště svých omezení, a proto svého Gurua naprosto miluje.
@@ -69,7 +69,7 @@ Dosáhnout realizace vlastní silou je jako přeplout oceán na voru. Avšak dos
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TIMD:3
+  :CITE-KEY: TIMD:3-cs
   :END:
 
 #+BEGIN_VERSE
@@ -97,7 +97,7 @@ je tvůj skutečný učitel.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TIMD:4
+  :CITE-KEY: TIMD:4-cs
   :END:
 
 #+BEGIN_VERSE
@@ -122,7 +122,7 @@ nebesky rozlehlé Modři.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: TIMD:5
+  :CITE-KEY: TIMD:5-cs
   :END:
 
 Skutečným duchovním Mistrem je ten, kdo dosáhl realizace Boha. Každý člověk je sjednocen s Bohem, ale skutečný duchovní Mistr si s Bohem vytvořil vědomou jednotu. Může kdykoliv vstoupit do vyššího vědomí a přinést od Boha poselství pro ty žáky, kteří v něj mají víru. Mistr, je-li opravdový, představuje Boha na zemi pro hledající, kteří v něj věří a mají skutečnou aspiraci. Byl Bohem pověřen a zmocněn, aby jim pomáhal. Skutečným Učitelem, skutečným Guruem, je sám Bůh. Na zemi však bude často působit prostřednictvím určitého duchovního Mistra. Mistr hledajícího inspiruje a postupem času mu pomocí nekonečné Milosti Nejvyššího nabízí osvícení.
@@ -194,7 +194,7 @@ Jak může Guru naplnit Nejvyššího? Guru sehrává svou úlohu tím, že bere
   :PROPERTIES:
   :GENRE: aphorism
   :KEYWORDS:
-  :CITE-KEY: TIMD:6
+  :CITE-KEY: TIMD:6-cs
   :END:
 
 
@@ -207,7 +207,7 @@ Guru není tělem. Guru je odhalením a projevením božské Síly na zemi.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TIMD:7
+  :CITE-KEY: TIMD:7-cs
   :END:
 
 #+BEGIN_VERSE
@@ -223,7 +223,7 @@ avšak je to jistě ten největší horolezecký úkol.
   :PROPERTIES:
   :GENRE: aphorism
   :KEYWORDS:
-  :CITE-KEY: TIMD:8
+  :CITE-KEY: TIMD:8-cs
   :END:
 
 Pomáhal ti někdo, když ses učil abecedu? Potřeboval jsi učitele, aby ti pomohl zvládnout tvůj hudební nástroj? Chodil jsi na přednášky, které ti umožnily získat akademický titul? Pokud jsi ke zvládnutí těchto věcí potřeboval pomocníka, nepotřebuješ snad také učitele, který tě dokáže dovést ke znalosti Božského, k moudrosti Nekonečného? Tím učitelem je tvůj Guru a nikdo jiný.
@@ -235,7 +235,7 @@ Pomáhal ti někdo, když ses učil abecedu? Potřeboval jsi učitele, aby ti po
   :PROPERTIES:
   :GENRE: aphorism
   :KEYWORDS:
-  :CITE-KEY: TIMD:9
+  :CITE-KEY: TIMD:9-cs
   :END:
 
 Guru a žák se musí něžně, opravdově a dokonale zkoušet, než dojde k jejich vzájemnému přijetí. Jinak -- pokud se ve volbě zmýlí -- bude muset Guru tančit se selháním a žák se zničením.
@@ -247,7 +247,7 @@ Guru a žák se musí něžně, opravdově a dokonale zkoušet, než dojde k je
   :PROPERTIES:
   :GENRE: aphorism
   :KEYWORDS:
-  :CITE-KEY: TIMD:10
+  :CITE-KEY: TIMD:10-cs
   :END:
 
 Co znamená, když Guru přijme žáka? Znamená to, že Guru bude ochotně žít ve světě zlatého obětování.
@@ -259,7 +259,7 @@ Co znamená, když Guru přijme žáka? Znamená to, že Guru bude ochotně ží
   :PROPERTIES:
   :GENRE: aphorism
   :KEYWORDS:
-  :CITE-KEY: TIMD:11
+  :CITE-KEY: TIMD:11-cs
   :END:
 
 Nejvyšší zasvěcení je, 
@@ -276,7 +276,7 @@ a žák řekne Mistrovi:
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: TIMD:12e2
+  :CITE-KEY: TIMD:12e2-cs
   :END:
 
 
@@ -285,7 +285,7 @@ a žák řekne Mistrovi:
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: TIMD:12
+  :CITE-KEY: TIMD:12-cs
   :END:
 
 #+BEGIN_VERSE
@@ -358,7 +358,7 @@ Není na zemi hledající, který by zůstal bez učitele, když zoufale nějak�
   :PROPERTIES:
   :GENRE: aphorism
   :KEYWORDS:
-  :CITE-KEY: TIMD:13
+  :CITE-KEY: TIMD:13-cs
   :END:
 
 Jednou věcí je znát učitele a druhou je znát jeho učení. Jeho učení ukazuje světu, co má, avšak to, co je, je jiným jménem pro Vizi Věčnosti.
@@ -369,7 +369,7 @@ Jednou věcí je znát učitele a druhou je znát jeho učení. Jeho učení uka
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TIMD:14
+  :CITE-KEY: TIMD:14-cs
   :END:
 
 #+BEGIN_VERSE
@@ -389,7 +389,7 @@ potřebuje správného Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TIMD:15
+  :CITE-KEY: TIMD:15-cs
   :END:
 
 #+BEGIN_VERSE
@@ -408,7 +408,7 @@ toho skutečného učitele.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TIMD:16
+  :CITE-KEY: TIMD:16-cs
   :END:
 
 
@@ -428,7 +428,7 @@ jsou falešní.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: TIMD:17
+  :CITE-KEY: TIMD:17-cs
   :END:
 
 #+BEGIN_VERSE
@@ -448,7 +448,7 @@ se svým Okem Soucitu Věčnosti.
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: TIMD:18e3
+  :CITE-KEY: TIMD:18e3-cs
   :END:
 
 
@@ -457,7 +457,7 @@ se svým Okem Soucitu Věčnosti.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: TIMD:18
+  :CITE-KEY: TIMD:18-cs
   :END:
 
 #+BEGIN_VERSE
@@ -513,7 +513,7 @@ Když svět pláče po vnitřním jídle, musíme ho nakrmit, jestliže to doká
   :GENRE:poem:
   :CITE_KEY:
   :KEYWORDS:
-  :CITE-KEY: TIMD:19
+  :CITE-KEY: TIMD:19-cs
   :END:
 
 #+BEGIN_VERSE
@@ -531,7 +531,7 @@ do pozemských lidských událostí.
   :GENRE:poem:
   :CITE_KEY:
   :KEYWORDS:
-  :CITE-KEY: TIMD:20
+  :CITE-KEY: TIMD:20-cs
   :END:
 
 #+BEGIN_VERSE
@@ -551,7 +551,7 @@ pro tvé osvícení.
   :GENRE:aphorism:
   :CITE_KEY:TIMD20:
   :KEYWORDS:
-  :CITE-KEY: TIMD:21
+  :CITE-KEY: TIMD:21-cs
   :END:
 
 Skutečný Guru je nesobeckým, zasvěceným a věčným žebrákem, který od Boha žádá všemohoucnost a všudypřítomnost, aby nasytil své nevědomě hladové a vědomě aspirující žáky -- v dokonalém souladu s potřebami jejich duše.
@@ -564,7 +564,7 @@ Skutečný Guru je nesobeckým, zasvěceným a věčným žebrákem, který od B
   :GENRE:aphorism:
   :CITE_KEY:TIMD21:
   :KEYWORDS:
-  :CITE-KEY: TIMD:22
+  :CITE-KEY: TIMD:22-cs
   :END:
 
 Guru je duchovním magnetem, 
@@ -579,7 +579,7 @@ k nekonečnému Světlu Nejvyššího.
   :GENRE:aphorism:
   :CITE_KEY:TIMD22:
   :KEYWORDS:
-  :CITE-KEY: TIMD:23
+  :CITE-KEY: TIMD:23-cs
   :END:
 
 Jen ten je božským vůdcem, 
@@ -593,7 +593,7 @@ do srdce lidské duše.
   :PROPERTIES:
   :GENRE: poem:
   :KEYWORDS:
-  :CITE-KEY: TIMD:24
+  :CITE-KEY: TIMD:24-cs
   :END:
 
 #+BEGIN_VERSE
@@ -609,7 +609,7 @@ Pravý duchovní Mistr musí nést na svých bedrech nesčetné odpovědnosti sv
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: TIMD:25e4
+  :CITE-KEY: TIMD:25e4-cs
   :END:
 
 
@@ -618,7 +618,7 @@ Pravý duchovní Mistr musí nést na svých bedrech nesčetné odpovědnosti sv
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: TIMD:25
+  :CITE-KEY: TIMD:25-cs
   :END:
 
 
@@ -661,7 +661,7 @@ Neupřímný žák si myslí, že si může Mistra získat vnějším lichocení
   :GENRE: aphorism:
   :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: TIMD:26
+  :CITE-KEY: TIMD:26-cs
   :END:
 
 #+BEGIN_VERSE
@@ -682,7 +682,7 @@ Neotálej, pojď Jej se mnou navštívit.“
   :GENRE: aphorism:
   :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: TIMD:27
+  :CITE-KEY: TIMD:27-cs
   :END:
 
 #+BEGIN_VERSE
@@ -702,7 +702,7 @@ a jehož srdce je odpuštěním.
   :GENRE: aphorism:
   :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: TIMD:28
+  :CITE-KEY: TIMD:28-cs
   :END:
 
 #+BEGIN_VERSE
@@ -720,7 +720,7 @@ podle tvých vlastních podmínek.
   :GENRE: aphorism:
   :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: TIMD:29
+  :CITE-KEY: TIMD:29-cs
   :END:
 
 #+BEGIN_VERSE
@@ -739,7 +739,7 @@ jako se svým vlastním.
   :GENRE: aphorism:
   :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: TIMD:30
+  :CITE-KEY: TIMD:30-cs
   :END:
 
 #+BEGIN_VERSE
@@ -765,7 +765,7 @@ k duchovnímu pokroku.
   :GENRE: aphorism:
   :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: TIMD:31
+  :CITE-KEY: TIMD:31-cs
   :END:
 
 Pro žáka neexistuje lepší způsob,
@@ -779,7 +779,7 @@ než poslouchat jeho rady.
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: TIMD:32e5
+  :CITE-KEY: TIMD:32e5-cs
   :END:
 
 
@@ -788,7 +788,7 @@ než poslouchat jeho rady.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: TIMD:32
+  :CITE-KEY: TIMD:32-cs
   :END:
 
 #+BEGIN_VERSE
@@ -879,7 +879,7 @@ Každý aspirant musí složit vnitřní slib, že bude poslouchat Vůli Nejvyš
   :GENRE: aphorism:
   :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: TIMD:33
+  :CITE-KEY: TIMD:33-cs
   :END:
 
 
@@ -901,7 +901,7 @@ a Pláčem Věčnosti.
   :GENRE: aphorism:
   :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: TIMD:34
+  :CITE-KEY: TIMD:34-cs
   :END:
 
 Realizace může být dosaženo 
@@ -920,7 +920,7 @@ Hleď, bohatou úrodou je realizace!
   :GENRE: aphorism:
   :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: TIMD:35
+  :CITE-KEY: TIMD:35-cs
   :END:
 
 #+BEGIN_VERSE
@@ -938,7 +938,7 @@ a dosáhnout tvého předurčeného cíle.
   :GENRE: aphorism:
   :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: TIMD:36
+  :CITE-KEY: TIMD:36-cs
   :END:
 
 #+BEGIN_VERSE
@@ -956,7 +956,7 @@ Věčnou Píseň Jednoty.
   :GENRE: aphorism:
   :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: TIMD:37
+  :CITE-KEY: TIMD:37-cs
   :END:
 
 #+BEGIN_VERSE
@@ -977,7 +977,7 @@ Svět je jen musí přijmout.
   :GENRE: aphorism:
   :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: TIMD:38
+  :CITE-KEY: TIMD:38-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1284,7 +1284,7 @@ MISTR (k prvnímu žákovi): Tím, že jsi rozpoznal svou hloupost, svou nevědo
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: TIMD:39e6
+  :CITE-KEY: TIMD:39e6-cs
   :END:
 
 

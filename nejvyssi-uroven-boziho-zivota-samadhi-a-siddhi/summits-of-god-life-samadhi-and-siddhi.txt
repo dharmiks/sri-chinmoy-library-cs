@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE:note
   :KEYWORDS:
-  :CITE-KEY: SGL:1e1
+  :CITE-KEY: SGL:1e1-cs
   :END:
 
 
@@ -37,7 +37,7 @@ Podle tradičních pojednání bychom mohli očekávat, že osvíceného jogína
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: SGL:1
+  :CITE-KEY: SGL:1-cs
   :END:
 
 
@@ -63,7 +63,7 @@ Osvícení je v mysli a v srdci. Když je mysl osvícená, stáváme se Boží
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SGL:2e2
+  :CITE-KEY: SGL:2e2-cs
   :END:
 
 
@@ -72,7 +72,7 @@ Osvícení je v mysli a v srdci. Když je mysl osvícená, stáváme se Boží
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:2
+  :CITE-KEY: SGL:2-cs
   :END:
 
 /Sri Chinmoy:/ Vědomí je vnitřní jiskra nebo vnitřní spojnice v nás, zlatý článek, který spojuje naši nejvyšší a nejosvícenější část s tou nejnižší a nejméně osvícenou. Vědomí je spojovacím článkem mezi Nebem a zemí. A teď, kde je Nebe? Není to nahoře či někde daleko. Nebe je v našem vědomí. To, co spojuje zemi s Nebem, je však božské vědomí. Běžné lidské vědomí nás spojí jen s něčím velmi, velmi omezeným a zároveň velmi pomíjivým. Na vteřinu dokážeme zaměřit své vědomí na druhého člověka, a pak naše koncentrace zmizí. Když však jednáme s vnitřním vědomím, které je nesmírné, osvícené a přeměněné, můžeme se koncentrovat dál a dál a dál.
@@ -90,7 +90,7 @@ Vnímání a vědomí jsou také dvě zcela odlišné věci. Když s někým ml
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:3
+  :CITE-KEY: SGL:3-cs
   :END:
 
 /Sri Chinmoy:/ Lidské vědomí chce zůstat zde na zemi. Získává radost v konečném: v rodině, ve společnosti, v pozemských událostech. Božské vědomí se skládá z míru, blaženosti, božské síly a tak dále. Jeho přirozeností je neustále se rozšiřovat. Lidské vědomí cítí, že není nic důležitějšího než pozemské potěšení. Božské vědomí cítí, že není nic důležitějšího a významnějšího než nebeská radost a blaženost na zemi. 
@@ -107,7 +107,7 @@ Božské vědomí takové vůbec není. I to omezené božské vědomí, které 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:4
+  :CITE-KEY: SGL:4-cs
   :END:
 
 /Sri Chinmoy:/ Existují tři hlavní stavy vědomí: /džágriti, šapna a sušupti. Džágriti/ je stav bdění, /šapna/ je stav snění a /sušupti/ je stav hlubokého spánku. Jsme-li v bdělém stavu, naše vědomí je zaměřeno navenek. Jsme-li ve stavu snění, naše vědomí je obráceno dovnitř. Jsme-li ve stavu hlubokého spánku, naše vědomí se toulá světem Za. 
@@ -129,7 +129,7 @@ Při meditaci v /sahaja/ samádhi v nás mohou myšlenky nabývat formy, ale my 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:5
+  :CITE-KEY: SGL:5-cs
   :END:
 
 /Sri Chinmoy:/ Hluboko v nás je sedm nižších světů a sedm vyšších světů. Snažíme se přeměnit nižší světy na zářivé světy, dokonalé světy, a zároveň se snažíme vyšší světy projevit navenek. Některé z vyšších světů již vidíme působit ve fyzickém světě, na zemi. První přichází fyzické, pak vitálno, potom mysl, pak oblast intuice nebo intuitivní mysl, potom nadmysl a supermysl. Po supermysli přichází Bytí-Vědomí-Blaženost -- /Sat-Čit-Ánanda./
@@ -144,7 +144,7 @@ Jsi můj žák, a mohu ti říci, že i teď někdy dostáváš opravdové vědo
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:6
+  :CITE-KEY: SGL:6-cs
   :END:
 
 /Sri Chinmoy:/ Dokážete-li hluboce meditovat, každá úroveň vědomí se vám představí. Sedm hlavních úrovní vědomí je jako sedm příček žebříku. Zatímco upřímně a oduševněle aspirujeme, stoupáme po žebříku příčku za příčkou. Nebo můžete říci, že je to jako strom se sedmi větvemi a naše vědomí je jako pták, který létá z jedné větve na druhou. Když jste na jedné větvi, můžete vidět další větev, která je trochu výš. Potom, když na ni vyšplháte, uvidíte jinou, která je ještě výš. Podobně, když děláte pokrok ve vnitřním světě, spatříte tyto rozdílné úrovně, každou o trochu výš než předchozí. Jakmile jste ale na vrcholu stromu, jste na místě, kde nad vámi není žádné omezení. V tu chvíli se díváte na oblohu a zapomenete, že strom má vůbec nějaké větve. 
@@ -157,7 +157,7 @@ Pokusíte-li se teď poznat sedm úrovní vědomí, bude vaše znalost pouze men
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:7
+  :CITE-KEY: SGL:7-cs
   :END:
 
 
@@ -169,7 +169,7 @@ Pokusíte-li se teď poznat sedm úrovní vědomí, bude vaše znalost pouze men
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:8
+  :CITE-KEY: SGL:8-cs
   :END:
 
 /Sri Chinmoy:/ Realizace Boha neboli siddhi znamená sebeobjevení v nejvyšším slova smyslu. Člověk vědomě poznává svou jednotu s Bohem. Dokud hledající zůstane v nevědomosti, bude cítit, že Bůh je někdo jiný, kdo má nekonečnou Sílu, zatímco on, hledající, je ten nejslabší člověk na zemi. Ale v okamžiku, kdy realizuje Boha, zjistí, že on a Bůh jsou naprosto jedním ve vnitřním i ve vnějším životě. Realizace Boha znamená sjednocení člověka s jeho vlastním naprosto nejvyšším Já. Realizace Boha je, když se člověk dokáže ztotožnit se svým nejvyšším Já a zůstat v tomto vědomí navždy, když jej dokáže odhalit a projevit podle své vůle.
@@ -182,7 +182,7 @@ Obyčejná lidská bytost cítí, že nekonečný mír, nekonečné světlo, nek
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:9
+  :CITE-KEY: SGL:9-cs
   :END:
 
 /Sri Chinmoy:/ Bůh má podobu; je bez podoby. Má atributy; je bez atributů. Chce-li někdo vidět Boha jako nekonečné rozpětí Světla a Blaženosti, Bůh k němu přijde jako nekonečné rozpětí Světla a Blaženosti. Jestliže chce ale vidět Boha jako nejjasnější, nejzářivější bytost, Bůh k němu přijde právě takový. Samozřejmě když říkám, že si Bůh vezme podobu zářivé bytosti, není to úplně správně řečeno. On není jen zářivý -- je takový, že vám to lidskými slovy nedokážu popsat. 
@@ -195,7 +195,7 @@ Když lidská bytost pomyslí na něco většího, než je ona sama, okamžitě 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:10
+  :CITE-KEY: SGL:10-cs
   :END:
 
 
@@ -209,7 +209,7 @@ Díky realizaci poznáváme, že nejsme ani tělo, ani mysl, nejsme nic jiného 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:11
+  :CITE-KEY: SGL:11-cs
   :END:
 
 /Sri Chinmoy:/ Je pravda, že realizace není dosažení, ale objevení. Když ale něco objevíme, stává se to naším dosažením. V okamžiku, kdy něco objevíme, stává se to nedílnou součástí naší existence, a cokoliv se stane nedílnou součástí naší existence, stává se naším dosažením. Přímo v objevení se rýsuje dosažení. Když vědec něco objeví, užitek z toho získává celý svět, avšak stále je to jeho dosažení. Podobně když někdo realizuje Boha, tato realizace je pořád nejvýznamnějším dosažením tohoto člověka, přestože tu Bůh vždy byl a patří jak vnitřnímu světu, tak vnějšímu světu. 
@@ -221,7 +221,7 @@ Pravda a Božskost v nás již existují, my si jich ale nevšímáme. Protože
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:12
+  :CITE-KEY: SGL:12-cs
   :END:
 
 
@@ -235,7 +235,7 @@ Jsou upřímní a neupřímní Mistři. Mnoho neupřímných Mistrů přichází
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:13
+  :CITE-KEY: SGL:13-cs
   :END:
 
 /Sri Chinmoy:/ Úplné osvícení, naprosté a všeozařující osvícení, je realizací Boha. Někdy ale může hledající ve své nejvyšší meditaci získat na půl hodiny nebo hodinu určitý druh vnitřního osvícení. Ale pak, po hodině nebo dvou, se stane tím samým starým já -- znovu se stane obětí žádostí a nebožských vlastností. Došlo k osvícení, ale není to transcendentální osvícení, ke kterému došlo u Buddhy a dalších duchovních Mistrů. Takové všenaplňující, všeozařující osvícení se rovná realizaci Boha. Realizace Boha znamená neustálé a věčné osvícení, transcendentální osvícení. Když dosáhneme realizace Boha, dojde v našem vnějším bytí i v našem vnitřním bytí spontánně k nekonečnému osvícení.
@@ -248,7 +248,7 @@ Mluvíme-li někdy o osvícení, máme na mysli to, že jsme mnoho let neměli v
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:14
+  :CITE-KEY: SGL:14-cs
   :END:
 
 /Sri Chinmoy/: Když někdo realizuje Boha, má schopnost překročit svůj vlastní osud nebo /karmu/. Ale jestliže Bůh chce, aby vlastní /karmu/ přijal a prošel si bolestí a utrpením, udělá to a nabídne to jako zkušenost Bohu. V té chvíli cítí, že Bůh prožívá tyto zkušenosti v něm a jeho prostřednictvím. Po realizaci může člověk vymazat zákon /karmy/. Na druhou stranu může přijmout potrestání nebo odplatu za /karmu/ někoho jiného. Je-li to Boží Vůle, realizovaná osoba může vymazat svou vlastní /karmu/ nebo /karmu/ druhých nebo může vědomě, záměrně a s úsměvem přijmout jak svou vlastní /karmu/, tak i /karmu/ ostatních.
@@ -260,7 +260,7 @@ Mluvíme-li někdy o osvícení, máme na mysli to, že jsme mnoho let neměli v
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:15
+  :CITE-KEY: SGL:15-cs
   :END:
 
 /Sri Chinmoy/: Je obrovský rozdíl mezi tím vidět Boha a realizovat Boha. Když Boha vidíme, můžeme Jej vidět jako jednotlivce nebo jako předmět nebo jako něco jiného. Ale vědomě a neustále Jej neztělesňujeme a necítíme, že je náš zcela vlastní. Když vidíme Boha, je to jako vidět strom. V tom okamžiku vědomě neztělesňujeme vědomí stromu. A dokud se vnitřně nespojíme, nemůžeme ho odhalit nebo projevovat. Ale když si něco uvědomíme, neboli realizujeme, v té chvíli se to stane nedílnou součástí našeho života. Květinu můžeme vidět, ale pouze tehdy, když si květinu uvědomíme, tak se staneme jedním s vědomím květiny.
@@ -273,7 +273,7 @@ Když jen něco vidíme, nemůžeme to považovat za své zcela vlastní a tato 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:16
+  :CITE-KEY: SGL:16-cs
   :END:
 
 /Sri Chinmoy:/ V této chvíli nebudou žádná slova. Spojení s Bohem nemůžete vyjádřit slovy; můžete to jen cítit.
@@ -285,7 +285,7 @@ Když jen něco vidíme, nemůžeme to považovat za své zcela vlastní a tato 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:17
+  :CITE-KEY: SGL:17-cs
   :END:
 
 
@@ -297,7 +297,7 @@ Když jen něco vidíme, nemůžeme to považovat za své zcela vlastní a tato 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:18
+  :CITE-KEY: SGL:18-cs
   :END:
 
 /Sri Chinmoy:/ Když používáme výraz ,realizace‘, lidé jsou velice často zmateni. Cítí, že realizovaný člověk se naprosto liší od běžného člověka a chová se velmi nenormálně. Přeji si ale říci, že realizovaný člověk se nemusí a ani by se neměl chovat nenormálně. Co realizoval? Realizoval nejvyšší Pravdu v Bohu. A kdo je Bůh? Bůh je někdo nebo něco úplně normálního. 
@@ -311,7 +311,7 @@ Neduchovní lidé si často myslí, že je-li Mistr opravdu realizovaný, musí 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:19
+  :CITE-KEY: SGL:19-cs
   :END:
 
 
@@ -334,7 +334,7 @@ Když budete stát před duchovním Mistrem, budete cítit, že ho nikdy nemůž
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:20
+  :CITE-KEY: SGL:20-cs
   :END:
 
 /Sri Chinmoy:/ Když jsme osvobozeni, fyzické tělo, vitálno a mysl vstoupí do psychického vědomí. Neodkládáme je, fyzické, vitálno a mysl aspirují společně s duší. Před osvobozením je fyzické temné a nečisté. Aby mohlo dojít k osvobození, fyzické musí být pročištěno. Vitálno bývá agresivní; před osvobozením se musí stát dynamické. Mysl je obvykle podezřívavá; před osvobozením se musí stát rozlehlá a milující. Když nastane osvobození, tyto produševnělé části člověka vstoupí do srdce a trvale tam zůstanou. Vzhled fyzického těla bude v podstatě stejný, ale bude mít nekonečnou čistotu a záři, kterou předtím nemělo. 
@@ -347,7 +347,7 @@ Když budete stát před duchovním Mistrem, budete cítit, že ho nikdy nemůž
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:21
+  :CITE-KEY: SGL:21-cs
   :END:
 
 
@@ -376,7 +376,7 @@ Na druhou stranu dosáhnout osvobození není snadné. Osvobodit se od nevědomo
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SGL:22e3
+  :CITE-KEY: SGL:22e3-cs
   :END:
   
   
@@ -395,7 +395,7 @@ Na druhou stranu dosáhnout osvobození není snadné. Osvobodit se od nevědomo
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:22
+  :CITE-KEY: SGL:22-cs
   :END:
 
 
@@ -408,7 +408,7 @@ Na druhou stranu dosáhnout osvobození není snadné. Osvobodit se od nevědomo
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:23
+  :CITE-KEY: SGL:23-cs
   :END:
 
 
@@ -422,7 +422,7 @@ Na druhou stranu dosáhnout osvobození není snadné. Osvobodit se od nevědomo
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:24
+  :CITE-KEY: SGL:24-cs
   :END:
 
 /Sri Chinmoy:/ Na jedné straně je planeta Země temná, nevědomá, nevnímavá. Nestojí o nic božského. Na druhou stranu má obrovskou vnitřní potřebu se rozšiřovat a překonávat. Bůh aspiruje prostřednictvím pozemského vědomí. Země je jediným místem pro lidi, kteří chtějí být bohatí, ať už na fyzické úrovni, nebo na duchovní úrovni. Život touhy a život aspirace -- oba dva jsou na Zemi možné. Ostatní světy jsou určeny pro nehybné potěšení. V ostatních světech jsou bytosti spokojeny s tím, čeho už dosáhly, zatímco zde není nikdo skutečně spokojený s tím, čeho dosáhl. Nespokojenost neznamená, že se na někoho zlobíme nebo že se zlobíme na svět. Ne! Nespokojenost znamená, že máme neustálou aspiraci jít dál a dál. Máme-li trochu světla, chceme mít více světla, ohromné světlo, nekonečné Světlo. 
@@ -438,7 +438,7 @@ Když začalo stvoření, duše, které chtěly dělat pokrok, se vydaly jinou c
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:25
+  :CITE-KEY: SGL:25-cs
   :END:
 
 
@@ -451,7 +451,7 @@ Když začalo stvoření, duše, které chtěly dělat pokrok, se vydaly jinou c
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:26
+  :CITE-KEY: SGL:26-cs
   :END:
 
 
@@ -469,7 +469,7 @@ Pravý materiální život není jenom jídlo, pití a spánek. Materiální ži
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:27
+  :CITE-KEY: SGL:27-cs
   :END:
 
 /Sri Chinmoy:/ Odpověď zní ano i ne. Pokud moderní technika slouží k vyjádření vnitřní duše, pokud cítí, že má spojení s vnitřním životem, v tu chvíli technika pomáhá k realizaci Boha. Velice často ale vidíme, že technika a vnitřní život spolu nedokážou vyjít. Vnější svět běží se svým úspěchem k jinému cíli. Na to si musíme dát velký pozor, protože nehledě na to, kolik úspěchu nám technika přinese, k nekonečnému naplnění nemůže dojít, jestliže v tom není duše. Na druhou stranu nedrží-li vnější život pomocí technického a vědeckého vývoje krok s duší, duše je chromá. 
@@ -483,7 +483,7 @@ Pro úplné naplnění Boží Vize a Skutečnosti zde na zemi musí jít věda 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:28
+  :CITE-KEY: SGL:28-cs
   :END:
 
 
@@ -502,7 +502,7 @@ Pak je tu samozřejmě další možnost. Pokud hledající meditoval řadu inkar
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:29
+  :CITE-KEY: SGL:29-cs
   :END:
 
 /Sri Chinmoy:/ Pokud hledající v tomto životě nedosáhne duchovní dokonalosti, neznamená to, že všechno ztratí. Když v tomto životě svou cestu nedokončí, ve své další inkarnaci začne tam, kde skončil. Nic není ztraceno. Během dvanácti nebo třinácti let svého dětství bude ale bohužel zajat nevědomostí. Nevědomost se před něj postaví a pozře ho jako vlk. Bude muset sebrat sílu z vnitřního světa a potom bojovat na bojišti života jako válečník, aby znovu nevědomost porazil. Ten, kdo ve své minulé inkarnaci realizoval Boha a dosáhl dokonalé dokonalosti, však celé tyto roky čekat nemusí. Je tedy lepší porazit vše v tomto životě, abychom se v další inkarnaci mohli pohybovat kupředu hned od začátku.
@@ -513,7 +513,7 @@ Pak je tu samozřejmě další možnost. Pokud hledající meditoval řadu inkar
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:30
+  :CITE-KEY: SGL:30-cs
   :END:
 
 /Sri Chinmoy:/ Určitě je to správná motivace. Existují dva rozdílné přístupy k realizaci Boha. Jeden přístup je úplně se odevzdat Boží Vůli. Toto odevzdání musí být dynamické. Jinak budete jako miliony netečných lidí na zemi, kteří si libují v potěšeních nevědomosti a čekají na realizaci Boha v Boží Hodinu. Těmto lidem bude trvat miliony let, než Boha realizují, protože když nepoužívají schopnosti, které jim Bůh dal, proč by potom Bůh měl hrát svou roli? V dynamickém odevzdání hrajeme svou úlohu a používáme schopnosti, které nám Bůh dal, a potom necháváme na Bohu, aby nám dal to, co chce a kdy chce. V dynamickém odevzdání vyvíjíme co největší vnitřní úsilí a pak se modlíme pro božskou Milost. Obyčejný člověk chce dosáhnout svého cíle pomocí jakýchkoliv prostředků, za každou cenu. Ale v duchovním životě to tak neděláme. Používáme trpělivost. 
@@ -528,7 +528,7 @@ Velký duchovní Mistr Sri Rámakrišna se modlil: „Ó Božská Matko, udělej
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:31
+  :CITE-KEY: SGL:31-cs
   :END:
 
 /Sri Chinmoy:/ Ano, existuje zvláštní způsob, kterému se říká vědomá aspirace. Bůh musí být na prvním místě. Nesmí existovat žádná matka, žádný otec, žádná sestra, žádný bratr -- nic jiného než Bůh, jenom Bůh. Pravda, chceme spatřit Boha v lidstvu, ale nejdříve Ho musíme spatřit tváří v tvář. Většina z nás pláče po penězích, jménu, slávě, hmotném úspěchu a blahobytu, ale nepláčeme ani po trošce vnitřní moudrosti. Pláčeme-li upřímně, oddaně a oduševněle po bezpodmínečné jednotě s naším Vnitřním kormidelníkem, potom bude dnešní nedokonalý člověk přeměněn v zítřejšího Boha, ztělesnění dokonalé Dokonalosti.
@@ -545,7 +545,7 @@ Vědomá aspirace je první věcí, kterou potřebujeme. Aspirace je všechno, c
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:32
+  :CITE-KEY: SGL:32-cs
   :END:
 
 /Sri Chinmoy:/ Pokaždé, když aspirujete, se vaše dokonalost zvětšuje. Uvnitř vaší aspirace roste a září dokonalost. Upřímná aspirace znamená rozevření lotosu dokonalosti. Lotos, jak víte, má mnoho okvětních lístků. Pokaždé, když aspirujete nanejvýš oduševněle, se rozvine jeden okvětní lístek. A když se rozvine jeden lístek, znamená to, že se zvětší dokonalost v celém lotosu. 
@@ -558,7 +558,7 @@ Právě teď je realizace vaší představou dokonalosti. To je váš vrchol dok
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:33
+  :CITE-KEY: SGL:33-cs
   :END:
 
 /Sri Chinmoy:/ Ze svých každodenních zkušeností máme často pocit, že touha je jedna věc a Bůh je něco jiného. Říkáme, že touha je v duchovním životě špatná, protože když po něčem toužíme, cítíme, že je to samotný objekt, po kterém toužíme. Je pravda, že pouze pomocí aspirace můžeme realizovat Boha, ale musíme si uvědomit, že Bůh přebývá jak v naší touze, tak v naší aspiraci. Když si uvědomíme, že i touha existuje v Bohu, zažijeme své první osvícení. 
@@ -581,7 +581,7 @@ Někteří nevyrovnaní lidé cítí, že realizují Boha tím, že budou chodit
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:34
+  :CITE-KEY: SGL:34-cs
   :END:
 
 /Sri Chinmoy:/ Konečným cílem žáka v mateřské školce je získat vysokoškolský titul. Pokud si ale bude ve školce neustále říkat: „Ó, musím získat vysokoškolský titul, musím získat vysokoškolský titul,“ je to z jeho strany pošetilé. Může znát svůj cíl, ale pokud na něj bude neustále myslet, nenaučí se dobře současné lekce. Někteří hledající přemýšlí o realizaci Boha, ačkoliv nejsou připraveni ani na základní vnitřní probuzení. Někteří přemýšlí a mluví o realizaci Boha, ačkoliv ještě nejsou připraveni se naučit ani abecedu duchovního života.
@@ -599,7 +599,7 @@ Právě teď je Cíl daleko, ale nesmíte se nechat odradit. Krok za krokem, pom
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:35
+  :CITE-KEY: SGL:35-cs
   :END:
 
 /Sri Chinmoy:/ Dokud nedosáhnete Cíle, neexistuje jistota. Můžete být od Cíle jen jeden jediný krok, a přesto můžete upadnout. Až do poslední chvíle nevíte, zda závod vyhrajete, nebo ne. Poslední zkouška před realizací Boha je nesmírně obtížná. Mnoho opravdu upřímných hledajících je na pokraji realizace Boha -- věřte mi, ve vnitřním světě chybí jen pár centimetrů -- nemilosrdně je ale napadnou nepřátelské síly a oni upadnou. Pak jim trvá velmi dlouho, než znovu vstanou. Někomu to trvá šest měsíců nebo dva roky nebo čtyři roky, jiní možná musí počkat na další inkarnaci. A tak se mějte vždy na pozoru a běžte ke svému Cíli tak rychle, jak jen dokážete. Nezastavujte se, dokud závod nevyhrajete; jinak vás síla nevědomosti vrátí zpět na startovní čáru.
@@ -610,7 +610,7 @@ Právě teď je Cíl daleko, ale nesmíte se nechat odradit. Krok za krokem, pom
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:36
+  :CITE-KEY: SGL:36-cs
   :END:
 
 /Sri Chinmoy:/ Když je někdo skutečně osvícen, nevidí ostatní jako nedokonalé nebo beznadějné lidské bytosti. Ve chvíli kdy je osvícen, ucítí svou skutečnou jednotu s ostatními a takzvané nedokonalosti ostatních uvidí jako zkušenost, kterou Bůh zažívá uvnitř nich a skrze ně. 
@@ -627,7 +627,7 @@ Když je někdo skutečně osvícený, neuvidí ostatní jako nedokonalé nebo b
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:37
+  :CITE-KEY: SGL:37-cs
   :END:
 
 /Sri Chinmoy:/ Skutečná realizace nemůže nastat neočekávaně. Postupně, postupně se dostáváme do bodu, kde realizujeme Boha. Bude-li člověk na pokraji realizace, bude vědět, že je to otázka dní nebo měsíců či let. Realizace je úplná vědomá jednota s Bohem. Pokud člověk nemá /omezenou/ vědomou jednotu s Bohem, jak by mohl najednou dosáhnout /neomezené/ vědomé jednoty s Bohem? Je pravda, že Bůh může učinit vše, může dát hledajícímu realizaci, aniž by ho o něco žádal. Kdyby vám ale Bůh dal realizaci, aniž byste meditovali a cvičili duchovní život, pak by ji očekával každý.
@@ -643,7 +643,7 @@ Od své neustálé, celoživotní meditace můžete čekat realizaci, ale pouze 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:38
+  :CITE-KEY: SGL:38-cs
   :END:
 
 
@@ -657,7 +657,7 @@ Když sníte mango, víte, že jste ho snědli. Snědli jste mango a tato znalos
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:39
+  :CITE-KEY: SGL:39-cs
   :END:
 
 
@@ -673,7 +673,7 @@ Až realizujete Boha, tehdy mě budete opravdu znát. Teď mě neznáte. Mezi m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:40
+  :CITE-KEY: SGL:40-cs
   :END:
 
 /Sri Chinmoy:/ Nemá to nic společného s realizací. Je to pouze zkušenost, kterou zažíváte na své cestě. Točivý pohyb nenaznačuje realizaci, přichází jako zkušenost, jako dobrá zkušenost. To, co vidíte, je vesmírný pohyb. Pomocí vesmírného pohybu můžeme nakonec realizovat Boha. Zkušenost razí cestu realizaci, ale není to začátek realizace, není to podoba realizace. 
@@ -684,7 +684,7 @@ Až realizujete Boha, tehdy mě budete opravdu znát. Teď mě neznáte. Mezi m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:41
+  :CITE-KEY: SGL:41-cs
   :END:
 
 
@@ -697,7 +697,7 @@ Je dobré mít zážitek, ale musíme vědět, že zážitek není trvalý. Je l
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:42
+  :CITE-KEY: SGL:42-cs
   :END:
 
 
@@ -709,7 +709,7 @@ Je dobré mít zážitek, ale musíme vědět, že zážitek není trvalý. Je l
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:43
+  :CITE-KEY: SGL:43-cs
   :END: 
  
 /Sri Chinmoy:/ Má-li vnitřní zážitek obyčejný hledající, vědomě si jej neudrží, ačkoliv jeho esence zůstává v jeho vnitřním životě. I když je to vysoký zážitek, po zhruba čtyřech letech jej úplně zapomene. Zážitek je ztracený, protože jej pohltí nevědomost v jeho životě. Řekne si: „Jak bych mohl mít takový zážitek? Pokud bych měl takový zážitek, jak to, že jsem potom udělal tolik nesprávných věcí? Jak to, že jsem nemeditoval, nemodlil se? To znamená, že to nebyl tak významný zážitek.“ Jeho pochybnost zážitek pohltí. Ale realizovaný člověk bude vědět, že cokoliv uviděl nebo pocítil, bylo naprosto opravdové. Také si díky své vnitřní vizi dokáže vzpomenout na vnitřní zážitky, které měl ve věku sedmi nebo osmi let nebo ve své předešlé inkarnaci. Ale zeptejte se obyčejného hledajícího. Dokonce i když měl ve svém životě jen dva důležité zážitky, může mu trvat hodinu, než si vzpomene, nebo si na ně nevzpomene vůbec.
@@ -721,7 +721,7 @@ Ve vnějším světě si nepamatujeme podrobně všechny naše zážitky. Někol
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:44
+  :CITE-KEY: SGL:44-cs
   :END:
 
 /Sri Chinmoy:/ Když člověk realizuje Boha, neznamená to, že si bude pamatovat všechny miliony a miliardy vnějších zážitků, které v životě měl. Když však chce, může své vnitřní zážitky, důležité vyšší zážitky, které měl ve vnitřním světě, vynést na povrch. Chce-li spatřit celý svůj vnitřní život, může.
@@ -732,7 +732,7 @@ Ve vnějším světě si nepamatujeme podrobně všechny naše zážitky. Někol
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:45
+  :CITE-KEY: SGL:45-cs
   :END:
 
 /Sri Chinmoy:/ Zážitek světa Za je klidný, není však nehybný. Dynamika a klid v něm existují zároveň. V jedné z Upanišad nacházíme takovýto popis světa Za: „To, co se hýbe i nehýbe. To, co je daleko i blízko.“ Jak se může něco hýbat, a přece nehýbat? Zdá se to nemožné. Když však budete ve světě Za, uvidíte, že se vesmír pohybuje a zároveň je v klidu. Existuje také jiný popis světa Za: zážitek Nekonečného. „Nekonečnost je toto. Nekonečnost je tamto. Z Nekonečnosti Nekonečnost vznikla. Když je z Nekonečnosti Nekonečnost odebrána, Nekonečnost zůstane.“ 
@@ -743,7 +743,7 @@ Ve vnějším světě si nepamatujeme podrobně všechny naše zážitky. Někol
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:46
+  :CITE-KEY: SGL:46-cs
   :END:
 
 /Sri Chinmoy:/ Vy sám jste Neprojevený. To znamená, že vaše nejvyšší Já je ještě neprojevené. Vy, který představujete Boha na zemi, a vy, který jste ve svém nejvyšším vědomí zcela sjednocen s Bohem, jste ještě neprojevený. Vaše nejvyšší není právě teď projevené, ale to neznamená, že zůstane navždy neprojevené. Ne, vaše nejvyšší musí být na zemi projevené, protože jen tehdy může nastat dokonalá dokonalost Nejvyššího.
@@ -754,7 +754,7 @@ Ve vnějším světě si nepamatujeme podrobně všechny naše zážitky. Někol
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:47
+  :CITE-KEY: SGL:47-cs
   :END:
 
 /Sri Chinmoy:/ Hledající může mít široké rozpětí mysli na několik minut, když je ve velmi vysoké, hluboké meditaci. Pouze realizovaná duše dokáže vstoupit do tohoto širokého rozpětí mysli a zůstat tam neomezeně. Ve skutečnosti ale děláme chybu, když užíváme výraz „rozpětí mysli“. Ve stavu, o kterém hovořím, není žádná mysl, mysl je překonána. Cítíme, že to, co prožíváme, je rozpětí mysli, ale ve skutečnosti je to překonání mysli. V mysli existuje tvar, omezení, ale když mluvíme o širokém rozpětí, je to něco za hranicí mysli. Je to široké rozpětí světla, vědomí, míru a blaženosti.
@@ -767,7 +767,7 @@ Když meditujeme, vždy se snažíme jít za mysl. Když chceme rozšířit své
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:48
+  :CITE-KEY: SGL:48-cs
   :END:
 
 /Sri Chinmoy:/ Sri Aurobindo jednou řekl, že životopis duchovního Mistra je celý napsaný uvnitř. Napíšete-li životopis obyčejného člověka, může mít tisíce stránek. Ale chcete-li psát o jeho vnitřním životě, nebudete schopni popsat ani jednu stránku. V případě duchovního Mistra mohou být o jeho vnitřním životě napsány stovky a stovky stran, napsány ale nejsou. Duchovní Mistr, který se zabývá vnitřním světem, každý den dává a zakouší stovky významných zážitků. Vnitřní zážitky Mistra jsou hlavními zážitky jeho života, zatímco pro obyčejného člověka jsou vnitřní zážitky velmi vzácným úkazem. 
@@ -779,7 +779,7 @@ Když meditujeme, vždy se snažíme jít za mysl. Když chceme rozšířit své
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SGL:49e4
+  :CITE-KEY: SGL:49e4-cs
   :END:
 
 
@@ -798,7 +798,7 @@ Vysoká, vyšší a nejvyšší je úroveň Blaženosti. S naším osvíceným v
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:49
+  :CITE-KEY: SGL:49-cs
   :END:
 
 /Sri Chinmoy:/ Na nejvyšší úrovni je Existence-Vědomí-Blaženost. Říkáme tomu /Sat-Čit-Ánanda./ /Sat/ je Existence,/Čit/ je Vědomí, /Ánanda/ je Blaženost. Vědomí je zdrojem všeho, ale nemůže vydržet bez Blaženosti a Existence. Není-li Existence, nemůže být Vědomí. Je-li Existence a Vědomí, je k sebenaplnění zapotřebí Blaženost.
@@ -816,7 +816,7 @@ Všude kolem nás je Kosmická Hra. Vesmír je plný radosti, vnitřní radosti 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:50
+  :CITE-KEY: SGL:50-cs
   :END:
 
 /Sri Chinmoy:/ Ne. Děti nemají nejvyšší blaženost. Dostávají psychickou blaženost. Dostanou jistou blaženost z psychické bytosti, z vnitřní bytosti či z duše, kterou pak spontánně vyjádří. Děti velmi často vyjadřují svou radost prostřednictvím svého čistého, nezkaženého vitálna. Ale nejvyšší blaženost, která přichází z úrovně Sat-Čit-Ánandy, děti nemají. Člověk ji může cítit jen ve své nejhlubší, nejvyšší meditaci. I děti musí projít meditací, koncentrací a kontemplací, aby tuto kvalitu zažily.
@@ -836,7 +836,7 @@ Potom v naprostém tichu opakujte sedmkrát Ánanda.
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:51
+  :CITE-KEY: SGL:51-cs
   :END:
 
 
@@ -859,7 +859,7 @@ Sri Rámakrišna mluvíval o džívakóti a íšvarakóti. Džívakóti je ten, 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:52
+  :CITE-KEY: SGL:52-cs
   :END:
 
 /Sri Chinmoy:/ Existují různá nižší /samádhi/. Mezi těmito nižšími /samádhi/ je nejvyšší /savikalpa samádhi./ Hned po /savikalpa samádhi/ následuje /nirvikalpa samádhi,/ ale mezi nimi je obrovský rozdíl. Přestože je ale /savikalpa samádhi/ jeden stupeň pod /nirvikalpa/, nepoužíváme termín „nižší.“ Neříkáme, že /savikalpa samádhi/ je nižší než /nirvikalpa,/ jsou to dvě zcela odlišná /samádhi./ Existuje dokonce něco za /nirvikalpa samádhi,/ a tomu se říká /sahadža samádhi./ Ale /savikalpa/ a /nirvikalpa samádhi/ jsou nejznámější.
@@ -880,7 +880,7 @@ Po dosažení nejvyššího typu realizace je velmi zřídka někdo požehnaný 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:53
+  :CITE-KEY: SGL:53-cs
   :END:
 
 /Sri Chinmoy:/ Vědomí /turíja/ je transcendentální skutečnost. Není to forma /samádhi/ v pravém slova smyslu. Dosáhne-li individuální duše trvalé a neustálé jednoty s Nejvyšší Bytostí, říkáme, že prožívá vědomí /turíja/. Ten, kdo má /turíja/ vědomí, obvykle nesestupuje dolů, aby projevoval, protože se mu líbí, když zůstává ponořený do /Sat-Čit-Ánanda/ -- Existence-Vědomí-Blaženosti. Hledající zde dosahuje nejvyšší výšky vývoje. Toto nejvznešenější uvědomění nemá přímou spojitost se /sahadža samádhi/.
@@ -894,7 +894,7 @@ Po dosažení nejvyššího typu realizace je velmi zřídka někdo požehnaný 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:54
+  :CITE-KEY: SGL:54-cs
   :END:
 
 /Sri Chinmoy:/  Žádný člověk, nehledě na to, jak je velký, nedokáže vysvětlit /nirvikalpa samádhi/. Je to zážitek, kterému lze porozumět, pouze když se snažíme ztotožnit a sjednotit s někým, kdo tohoto zážitku dosáhl. Musíme se snažit do tohoto prožitku spíše vstoupit než žádat, aby prožitek přišel na naši úroveň. Když vstoupíme do /nirvikalpa samádhi,/ samotný zážitek je skutečností. Když to ale chceme říci ostatním, popsat to slovy, musíme sejít velmi hluboko a použít mysl, musíme formulovat zážitek lidskými pojmy. Proto nemůže být vědomí /nirvikalpa samádhi/ nikdy odpovídajícím způsobem vysvětleno nebo vyjádřeno. Odhalení prožitku nemůže být nikdy stejné jako původní zkušenost.
@@ -920,7 +920,7 @@ Realizace Boha trvá mnoho, mnoho inkarnací. Ale když máte plně realizované
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:55
+  :CITE-KEY: SGL:55-cs
   :END:
 
 
@@ -939,7 +939,7 @@ Existují tři stupně samádhi: /savikalpa/ samádhi, /nirvikalpa/ samádhi a /
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:56
+  :CITE-KEY: SGL:56-cs
   :END:
 
 /Sri Chinmoy:/ Když je někdo v nejvyšším transcendentálním samádhi, fyzická osobnost ostatních zmizí. Nevidíte ostatní jako lidské bytosti. Cítíte pouze proud vědomí, jako řeka, která vstupuje do oceánu. Ten, kdo je v nejvyšším transu, se stává oceánem, a ten, kdo je v nižším stavu vědomí, je řeka. Řeka se vlévá do moře a stává se mořem. Ten, kdo prožívá nejvyšší samádhi, nevnímá v ostatních žádnou individualitu nebo osobnost. Lidská bytost, která není v tomto stavu samádhi, je proudící řeka vědomí, zatímco ten, kdo je v samádhi, se stal mořem, mořem Míru a Světla.
@@ -950,7 +950,7 @@ Existují tři stupně samádhi: /savikalpa/ samádhi, /nirvikalpa/ samádhi a /
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:57
+  :CITE-KEY: SGL:57-cs
   :END:
 
 /Sri Chinmoy:/ Člověk nemusí být realizovaná duše, aby vstoupil do /savikalpa samádhi/. Pokud je někdo velký hledající a meditoval mnoho let, může vstoupit do /savikalpa samádhi/. Není to tak těžké. /Savikalpa samádhi/ může trvat několik hodin. Když se Sri Rámakrišna dotýkal hledajících a dával jim určitý druh transu a /samádhi/, trvalo to několik hodin. V /savikalpa samádhi/ člověk nezůstane déle než den nebo dva, protože to není nutné a nedoporučuje se to. Pouze /nirvikalpa samádhi /trvá sedm, osm, devět, deset dní, protože /nirvikalpa samádhi/ je v našem vnitřním životě důležitější.
@@ -963,7 +963,7 @@ Pro duchovně realizovaného člověka není dána hranice jeho /savikalpa samá
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:58
+  :CITE-KEY: SGL:58-cs
   :END:
 
 /Sri Chinmoy:/ Osvobozená duše může bezpečně zůstat v /nirvikalpa samádhi/ jednadvacet nebo dvaadvacet dní, pokud Bůh chce, aby tato duše pokračovala na cestě dynamického projevení. Pokud Bůh chce, aby ten člověk zůstal v /Brahman/, ve statické realizaci, potom se jeho duše po dosažení /nirvikalpa samádhi/ nebude vracet do pozemského vědomí a bude muset opustit tělo. Jinak po jedenácti, dvanácti nebo třinácti dnech Bůh řekne: „Chci, abys pro Mě pracoval ve světě. Musíš se vrátit.“
@@ -979,7 +979,7 @@ V našich indických písmech se říká, že člověk je větší než kosmičt
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:59
+  :CITE-KEY: SGL:59-cs
   :END:
 
 /Sri Chinmoy:/ Ano, bude to vědět. Dokonce i obyčejný člověk často ví, kdy opustí tělo. Někdy se objeví jeho zesnulí příbuzní a řeknou: „Pojď, náš příteli, nyní je čas, abys šel za námi. Tak dlouho jsme na tebe čekali! Je čas, aby ses narodil zde, aby sis užil Nebe.“ Chtějí oslavit jeho příchod. Zde na zemi umíráme, ale v Nebi se rodíme všem našim drahým, kteří odešli.
@@ -991,7 +991,7 @@ V našich indických písmech se říká, že člověk je větší než kosmičt
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:60
+  :CITE-KEY: SGL:60-cs
   :END:
 
 /Sri Chinmoy:/ Jsou to dvě odlišné věci. V srdečním centru nezískáte /nirvikalpa samádhi. Nirvikalpa samádhi/ získáte, pouze když jdete za oblast mysli -- velmi daleko, k nejvyššímu stupni vědomí. Jdete-li do hloubky srdce, hluboko, hlouběji, nejhlouběji, získáte tam pocit neoddělitelné jednoty se svým Vnitřním kormidelníkem, Nejvyšším. Jsou to tedy dvě rozdílné věci.
@@ -1003,7 +1003,7 @@ V našich indických písmech se říká, že člověk je větší než kosmičt
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:61
+  :CITE-KEY: SGL:61-cs
   :END:
 
 
@@ -1016,7 +1016,7 @@ V našich indických písmech se říká, že člověk je větší než kosmičt
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:62
+  :CITE-KEY: SGL:62-cs
   :END:
 
 /Sri Chinmoy:/ Tak to není. /Sahadža samádhi/ zahrnuje ostatní /samádhi – savikalpa/ a /nirvikalpa/ -- a pokračuje dál a dál. /Samádhi/ je jako velká budova s mnoha patry. Když je někdo v /sahadža samádhi,/ je vlastníkem celé budovy. Má výšku /nirvikalpa/ i výšky, které jsou daleko nad ním, a zároveň dosáhl dokonalosti, bohatství a schopnosti všech ostatních pater. Na jedné straně v sobě zahrnuje všechna patra a na druhé straně je nad nimi. /Nirvikalpa/ je jako jedna úroveň, řekněme třicáté patro, je velmi vysoko, ale má pouze svou vlastní omezenou schopnost. Nemůže přinést nic ze své schopnosti do sklepa. Pokud má někdo /nirvikalpa/, bojí se sestoupit do sklepa, protože by možná nedokázal vystoupit opět nahoru.
@@ -1031,7 +1031,7 @@ Například teď s vámi hovořím. Můžete říci, že jsem na nejnižším po
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:63
+  :CITE-KEY: SGL:63-cs
   :END:
 
 /Sri Chinmoy:/ Pokud je někdo v /sahadža samádhi/, v určitém smyslu ho nic nedokáže uspokojit, protože je již ve svém vnitřním životě naplněn. Jako člověk překročil naplnění. Když je někdo v /sahadža samádhi,/ neexistuje pro něj nic, čeho by ještě mohl dosáhnout nebo co se naučit. Duchovní Mistr nemusí být tesař, ale má takovou jednotu s vesmírem, že se s tesařem dokáže ztotožnit a ve svém živoucím vědomí dokáže pocítit, že /je/ tesař. V tu chvíli jsou bytost Mistra a celá bytost tesaře zcela sjednocené.
@@ -1044,7 +1044,7 @@ Ale jedná-li se o naplnění každého člověka uvnitř Mistra -- naplnění v
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:64
+  :CITE-KEY: SGL:64-cs
   :END:
 
 
@@ -1058,7 +1058,7 @@ Ale jedná-li se o naplnění každého člověka uvnitř Mistra -- naplnění v
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:65
+  :CITE-KEY: SGL:65-cs
   :END:
 
 /Sri Chinmoy:/ Ne. /Samádhi/ je velmi vysoký stav vědomí. Přijde-li začátečník do mateřské školky a zeptá se učitele, jak vystudovat vysokou školu, učitel se jednoduše zasměje. Řekne: „Jak ti to mám říct?“ Předtím, než jsme připraveni zkusit vstoupit do /samádhi/, musíme projít mnoha, mnoha, mnoha vnitřními duchovními zkušenostmi. Potom přijde čas, kdy Mistr vidí, že je student připravený vstoupit do /savikalpa samádhi/. Právě teď /nirvikalpa samádhi/ nepřipadá pro hledající v úvahu. Člověk musí být nanejvýš pokročilý hledající, než může pomýšlet na dosažení /nirvikalpa samádhi/. Ale před tím je /savikalpa samádhi/ dostatečné. Pokud někdo získá /savikalpa samádhi/, stačí to na mnoho let, dokonce na celý život.
@@ -1072,7 +1072,7 @@ Ale jedná-li se o naplnění každého člověka uvnitř Mistra -- naplnění v
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:66
+  :CITE-KEY: SGL:66-cs
   :END:
 
 /Sri Chinmoy:/ Člověk, který je duchovně vysoce pokročilý, bude přirozeně schopen meditovat déle než ten, kdo je relativním začátečníkem. Meditace ale není otázkou času, nýbrž otázkou aspirace. Má-li někdo skutečnou aspiraci, hlubokou aspiraci, bude schopen meditovat déle, protože pro něj bude meditace snadná. Bude cítit, že realizace Boha je v jeho životě jediným úkolem. Někdo s malou aspirací bude meditovat pět nebo deset minut jen jako cvičení či jako povinnost, avšak s malou radostí či inspirací.
@@ -1089,7 +1089,7 @@ Poté, co člověk dosáhl realizace, nepotřebuje meditovat tak, jako medituje 
   :PROPERTIES:f
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:67
+  :CITE-KEY: SGL:67-cs
   :END:
 
 /Sri Chinmoy:/ Co udělá člověk, který celou řadu let studoval a získal profesorský titul? Začne učit. V mém případě mi můj věčný Otec dal velké srdce. Vím, jak jsem zakoušel, abych Jej realizoval. Vím, jakými bolestmi a utrpením jsem procházel, abych realizoval to Nejvyšší. Teď vidím tyto bolesti u svých bratrů a sester. Trpí, jako jsem trpěl já. I já jsem si kdysi hověl v potěšeních nevědomosti. Teď vidím, že se to stejné děje s nimi. Jelikož mi Bůh ze své nekonečné Štědrosti dal lásku, světlo a další božské kvality, nabídnu je té části trpícího lidstva, která po nich volá. Jsem pro ty, kteří ode mě opravdu chtějí světlo. Pokud po mně Bůh chce, abych sloužil svým bratrům a sestrám, kteří opravdu potřebují světlo, tehdy službou lidstvu těším Boha.
@@ -1117,7 +1117,7 @@ jsou v dokonalém souladu.
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SGL:68e5
+  :CITE-KEY: SGL:68e5-cs
   :END:
 
 
@@ -1126,7 +1126,7 @@ jsou v dokonalém souladu.
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:68
+  :CITE-KEY: SGL:68-cs
   :END:
 
 /Sri Chinmoy:/ Svět viděl tisíce a tisíce osvobozených duší, ne všechny osvobozené duše ale působí ve světě nevědomosti. Mnozí z nich se obávají, že jim nevědomost bude vyhrožovat a pokusí se je pohltit. Ten, kdo je pouze osvobozený, vyšel z místnosti plné temnoty, to však nutně neznamená, že je opravdu schopný být duchovním průvodcem. Aby byl člověk duchovním průvodcem v nejvyšším smyslu tohoto slova, musí k tomu být zmocněn Nejvyšším. Může mít duchovní poznání, duchovní sílu a tak dále, není-li ale Nejvyšším pověřen, aby vedl lidstvo, nemůže být pravým duchovním Mistrem.
@@ -1137,7 +1137,7 @@ jsou v dokonalém souladu.
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:69
+  :CITE-KEY: SGL:69-cs
   :END:
 
 /Sri Chinmoy:/ Každý rok dostanou na univerzitě titul absolventa stovky studentů. Někteří z nich začnou pracovat v kanceláři či v obchodě, zatímco jiní začnou učit. Podobně někteří z těch, kdo realizovali Boha, učí druhé, jak Boha realizovat, a jiní ne. Ti, kteří neučí ve světě, nicméně Boha realizovali. To nemůžeme popřít. Trvalo jim však mnoho inkarnací, než překročili hranice nevědomosti, a teď jsou opravdu unavení. Není snadné realizovat Boha a oni cítí, že se na bojišti života zachovali jako skuteční božští hrdinové. Bojovali se strachem, pochybností, úzkostmi, starostmi, nedokonalostmi, omezeními a spoutáním a porazili tyto síly. Teď mají pocit, že mají právo odtáhnout z bojiště a odpočinout si. Tyto duše si promluví s Bohem a když Bůh řekne, že se dál nemusí vědomě účastnit Kosmické Hry a mohou jen pozorovat, stáhnou se. Mají-li Boží svolení, přirozeně mohou zůstat nečinní.
@@ -1152,7 +1152,7 @@ Nemůžeme říci, že ten, kdo pro lidstvo pracuje navenek, je větší než te
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:70
+  :CITE-KEY: SGL:70-cs
   :END:
 
 
@@ -1172,7 +1172,7 @@ Na druhou stranu otec vždy vidí, zda syn dokáže peníze přijmout a správn�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:71
+  :CITE-KEY: SGL:71-cs
   :END:
 
 
@@ -1184,7 +1184,7 @@ Na druhou stranu otec vždy vidí, zda syn dokáže peníze přijmout a správn�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:72
+  :CITE-KEY: SGL:72-cs
   :END:
 
 
@@ -1202,7 +1202,7 @@ Obyčejní hledající nebo falešní Mistři mají omezenou schopnost. Pokud n�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:73
+  :CITE-KEY: SGL:73-cs
   :END:
 
 
@@ -1214,7 +1214,7 @@ Obyčejní hledající nebo falešní Mistři mají omezenou schopnost. Pokud n�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:74
+  :CITE-KEY: SGL:74-cs
   :END:
 
 
@@ -1228,7 +1228,7 @@ Poté, co Mistr na zemi pracuje několik inkarnací, může chtít pokračovat v
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:75
+  :CITE-KEY: SGL:75-cs
   :END:
 
 /Sri Chinmoy:/ Svět není na duchovní Mistry připraven. Mistři přichází do světa ze svého nekonečného soucitu. Když odchází, někteří slibují, že se budou vracet, dokud budou na zemi nerealizovaní lidé. Když to říkají, myslí to upřímně, jakmile však odejdou do vyšších světů a vidí nevděk země, rozmyslí si to. Ptají se sami sebe, proč by měli plýtvat svým drahocenným časem, pokud lidstvo spí, a proč by se měli vracet, aby je nevděčné lidstvo prostě odkoplo.
@@ -1245,7 +1245,7 @@ Realizovat Boha je obtížné. A žít po realizaci v nevědomém světě a zůs
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:76
+  :CITE-KEY: SGL:76-cs
   :END:
 
 /Sri Chinmoy:/ Někdy rozhoduje Nejvyšší, svou Vůli ale nikomu nenutí. Existují Mistři, kterých se Nejvyšší po jejich významnější realizaci zeptá: „Jaká je tvá vůle? Co chceš dělat?“ Řekne-li Mistr: „Chci pracovat pro tolik a tolik lidí, chci udělat takovéto množství práce,“ Nejvyšší řekne: „Dobrá, máš Mé Požehnání a svolení.“ Pak jsou tací, kteří neřeknou přesně, jak daleko chtějí dojít. Říkají: „Budu se snažit co nejvíc až do konce. Potřebuji Tvé Požehnání. Potřebuji Tvou Milost. Pokusím se projevit tolik, kolik bude možné. Nekladu si žádná omezení.“
@@ -1262,7 +1262,7 @@ Praví duchovní Mistři přijmou jen ty žáky, kteří jsou jim určeni. Jestl
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:77
+  :CITE-KEY: SGL:77-cs
   :END:
 
 /Sri Chinmoy:/ Pravého Mistra nezajímá počet jeho žáků, neboť z Boží Milosti se hledající s Mistrem musí najít. Ale Sri Rámakrišna chodíval do nejvyššího patra svého domu a plakal pro duchovní žáky. Ptával se Matky Kálí, proč k němu nepřichází žáci, kteří jsou mu předurčeni. Lidé se mohou ptát, proč nemohl počkat na Boží Hodinu. Ve skutečnosti však pro Sri Rámakrišnu Boží Hodina nadešla, nevědomost světa ji však zdržovala. Bůh mu řekl, aby něco učinil, a také mu k tomu dal schopnost, ale nevědomost stála přímo před ním a bránila a bránila jeho projevení. Sri Rámakrišna neplakal po žácích, kteří by přišli a dotýkali se jeho nohou. Plakal po žácích, kteří by byli jeho skutečnýma rukama, kteří by s ním vzlétli do Univerzálního Vědomí, kteří by pro něj -- a tím tedy pro Boha -- pracovali.
@@ -1289,7 +1289,7 @@ Bůh si hraje různými způsoby. Dá-li Bůh Mistrovi schopnost psát, předná
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:78
+  :CITE-KEY: SGL:78-cs
   :END:
 
 /Sri Chinmoy:/ Když člověk získá realizaci a zůstane ve světě, automaticky začne projevení. Co se stane, když stojíte před osvobozenou, plně realizovanou duší? Okamžitě spatříte obrovský rozdíl mezi sebou a tím člověkem. První věc, kterou u něj uvidíte, je mír -- v jeho očích spatříte nekonečný mír. Z jeho těla získáte pocit čistoty, takové čistoty, jakou jste ve svém životě ani v životě druhých nikdy předtím necítili. Jak je možné, že vyzařuje čistotu, světlo a božskou sílu, zatímco někdo jiný ne? Je to právě proto, že je plně realizovaný. Nemusí vám nic říkat, ze samotné jeho přítomnosti se vám ale dostane nekonečného míru, nekonečné blaženosti, nekonečného světla. Realizace automaticky ukazuje svou vlastní schopnost, kterou je projevení. Vnitřní realizace Mistra se projevuje prostřednictvím jeho vnější podoby, kterou je tělo.
@@ -1310,7 +1310,7 @@ Když je tu realizace, uvnitř realizace uvidíte projevení. Projevení je vně
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:79
+  :CITE-KEY: SGL:79-cs
   :END:
 
 
@@ -1324,7 +1324,7 @@ Když odhalíte světu Boha nebo Pravdu nebo Světlo, znamená to, že jste vyne
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:80
+  :CITE-KEY: SGL:80-cs
   :END:
 
 /Sri Chinmoy:/ Obyčejný básník může zahlédnout pravdu, ale duchovní Mistři dostanou samotný oceán Pravdy. Duchovní Mistři vidí mnohem vyšší pravdu, než vidí obyčejní básníci. Dále, pro obyčejné básníky je jejich poezie vším. Pro pokročilé duše či duchovní Mistry poezie není všechno. Bůh je vším.
@@ -1338,7 +1338,7 @@ Básník, který přináší vyšší poselství, cítí, že to je vše, co mů
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:81
+  :CITE-KEY: SGL:81-cs
   :END:
 
 /Sri Chinmoy:/ Je pravda, že realizovaní Guruové, velcí Guruové, mají svou vlastní pravdu. Nic však nepopírají. Určují nový směr. Řekněme, že velký duchovní člověk něco řekne. V době, kdy žil, byla právě tato pravda zapotřebí. Svět se ale vyvíjí a teď musí být projeveny některé vyšší pravdy. Pokud tedy řekneme něco jiného, nepopíráme velké Mistry minulosti. Přinášíme do pozemského vědomí vyšší pravdu a vyšší poznání, protože je připravené je teď přijmout. Zvětšujeme Pravdu a osvěcujeme ji.
@@ -1354,7 +1354,7 @@ V duchovním životě nepopíráme, jdeme jen výš a výš, abychom dosáhli ne
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:82
+  :CITE-KEY: SGL:82-cs
   :END:
 
 
@@ -1370,7 +1370,7 @@ Mnoho indických duchovních Mistrů bralo arzenik, a někdy v takovém množst
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:83
+  :CITE-KEY: SGL:83-cs
   :END:
 
 
@@ -1383,7 +1383,7 @@ Většina skutečných duchovních Mistrů vstoupila do velmi vyspělých duchov
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:84
+  :CITE-KEY: SGL:84-cs
   :END:
 
 
@@ -1409,7 +1409,7 @@ Když je Avatár na zemi, ztělesňuje vědomí všech Avatárů, kteří přiš
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:85
+  :CITE-KEY: SGL:85-cs
   :END:
 
 /Sri Chinmoy:/ Svámí Vivékánanda nebyl /Avatár/. Získal jen několik záblesků pravdy, kterou Sri Rámakrišna žil. Vivékánanda byl velký /vibhuti/ -- ten, kdo je obdarován zvláštní silou Boha, ten, kdo velmi dynamicky působí ve světové atmosféře. /Vibhuti/ vede lidstvo a probouzí jeho dřímající vědomí. 
@@ -1428,7 +1428,7 @@ Obyčejný člověk nemůže posuzovat výšku /Avatára/. Je to, jako by se trp
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:86
+  :CITE-KEY: SGL:86-cs
   :END:
 
 
@@ -1440,7 +1440,7 @@ Obyčejný člověk nemůže posuzovat výšku /Avatára/. Je to, jako by se trp
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:87
+  :CITE-KEY: SGL:87-cs
   :END:
 
 
@@ -1458,7 +1458,7 @@ Není to tak, že když vstoupíte do nirvány, jste tam polapeni. Ne, když vst
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:88
+  :CITE-KEY: SGL:88-cs
   :END:
 
 /Sri Chinmoy:/
@@ -1488,7 +1488,7 @@ Nemá-li člověk zážitek /nirvány/, obvykle neví, co je iluze. Podle někte
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SGL:89
+  :CITE-KEY: SGL:89-cs
   :END:
 
 

@@ -22,7 +22,7 @@
   :PROPERTIES:
   :GENRE: introduction
   :KEYWORDS:
-  :CITE-KEY: GWSS:1
+  :CITE-KEY: GWSS:1-cs
   :END:
 
 
@@ -38,7 +38,7 @@ Vezme-li kdokoli tato srdcervoucí a duši podněcující poselství vážně a 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:2
+  :CITE-KEY: GWSS:2-cs
   :END:
 
 
@@ -62,7 +62,7 @@ a právem si zaslouží.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:3
+  :CITE-KEY: GWSS:3-cs
   :END:
 
 
@@ -80,7 +80,7 @@ Jeho překrásné stvoření.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:4
+  :CITE-KEY: GWSS:4-cs
   :END:
 
 
@@ -100,7 +100,7 @@ o svůj duchovní život.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:5
+  :CITE-KEY: GWSS:5-cs
   :END:
 
 
@@ -119,7 +119,7 @@ povážlivě vytratil.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:6
+  :CITE-KEY: GWSS:6-cs
   :END:
 
 
@@ -138,7 +138,7 @@ naprosto chybí.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:7
+  :CITE-KEY: GWSS:7-cs
   :END:
 
 
@@ -157,7 +157,7 @@ sebepochybnostmi.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:8
+  :CITE-KEY: GWSS:8-cs
   :END:
 
 
@@ -175,7 +175,7 @@ velmi věrně své pochybující mysli.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:9
+  :CITE-KEY: GWSS:9-cs
   :END:
 
 
@@ -195,7 +195,7 @@ mé aspirující srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:10
+  :CITE-KEY: GWSS:10-cs
   :END:
 
 
@@ -216,7 +216,7 @@ ani nejmenší zásluhu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:11
+  :CITE-KEY: GWSS:11-cs
   :END:
 
 
@@ -234,7 +234,7 @@ bez jediné květiny vděčnosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:12
+  :CITE-KEY: GWSS:12-cs
   :END:
 
 
@@ -252,7 +252,7 @@ o Jeho Oku bezpodmínečného Soucitu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:13
+  :CITE-KEY: GWSS:13-cs
   :END:
 
 
@@ -271,7 +271,7 @@ v doručování Jeho expresních Zpráv.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:14
+  :CITE-KEY: GWSS:14-cs
   :END:
 
 
@@ -291,7 +291,7 @@ proti mému aspirujícímu srdci.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:15
+  :CITE-KEY: GWSS:15-cs
   :END:
 
 
@@ -310,7 +310,7 @@ svou pochybující mysl.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:16
+  :CITE-KEY: GWSS:16-cs
   :END:
 
 
@@ -329,7 +329,7 @@ nanejvýš pozorně.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:17
+  :CITE-KEY: GWSS:17-cs
   :END:
 
 
@@ -348,7 +348,7 @@ není ani špetka upřímnosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:18
+  :CITE-KEY: GWSS:18-cs
   :END:
 
 
@@ -367,7 +367,7 @@ ve svém oddaném srdci.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:19
+  :CITE-KEY: GWSS:19-cs
   :END:
 
 
@@ -387,7 +387,7 @@ prostotu a trpělivost.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:20
+  :CITE-KEY: GWSS:20-cs
   :END:
 
 
@@ -407,7 +407,7 @@ Boží Vůli.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:21
+  :CITE-KEY: GWSS:21-cs
   :END:
 
 
@@ -427,7 +427,7 @@ dech upřímnosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:22
+  :CITE-KEY: GWSS:22-cs
   :END:
 
 
@@ -447,7 +447,7 @@ a samolibého života.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:23
+  :CITE-KEY: GWSS:23-cs
   :END:
 
 
@@ -467,7 +467,7 @@ ve svém duchovním životě.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:24
+  :CITE-KEY: GWSS:24-cs
   :END:
 
 
@@ -486,7 +486,7 @@ co je skutečné odevzdání.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:25
+  :CITE-KEY: GWSS:25-cs
   :END:
 
 
@@ -505,7 +505,7 @@ věž své sebeshovívavosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:26
+  :CITE-KEY: GWSS:26-cs
   :END:
 
 
@@ -525,7 +525,7 @@ svého stoupání k Nebi.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:27
+  :CITE-KEY: GWSS:27-cs
   :END:
 
 
@@ -545,7 +545,7 @@ a podezřívavostí.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:28
+  :CITE-KEY: GWSS:28-cs
   :END:
 
 
@@ -564,7 +564,7 @@ můj život duchovní disciplíny.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:29
+  :CITE-KEY: GWSS:29-cs
   :END:
 
 
@@ -584,7 +584,7 @@ aby vyhladovělo k smrti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:30
+  :CITE-KEY: GWSS:30-cs
   :END:
 
 
@@ -606,7 +606,7 @@ na život naplnění mých tužeb.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:31
+  :CITE-KEY: GWSS:31-cs
   :END:
 
 
@@ -626,7 +626,7 @@ od Něj pryč.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:32
+  :CITE-KEY: GWSS:32-cs
   :END:
 
 
@@ -646,7 +646,7 @@ k Jeho Nohám.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:33
+  :CITE-KEY: GWSS:33-cs
   :END:
 
 
@@ -666,7 +666,7 @@ svého aspirujícího srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:34
+  :CITE-KEY: GWSS:34-cs
   :END:
 
 
@@ -685,7 +685,7 @@ nadměrné zahálčivosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:35
+  :CITE-KEY: GWSS:35-cs
   :END:
 
 
@@ -703,7 +703,7 @@ když objevil drastický úpadek
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:36
+  :CITE-KEY: GWSS:36-cs
   :END:
 
 
@@ -724,7 +724,7 @@ a dychtivosti mého srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:37
+  :CITE-KEY: GWSS:37-cs
   :END:
 
 
@@ -743,7 +743,7 @@ rychlosti mé aspirace a zasvěcení.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:38
+  :CITE-KEY: GWSS:38-cs
   :END:
 
 
@@ -767,7 +767,7 @@ můj život aspirace.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:39
+  :CITE-KEY: GWSS:39-cs
   :END:
 
 
@@ -788,7 +788,7 @@ frustrace očekávání pozornosti od Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:40
+  :CITE-KEY: GWSS:40-cs
   :END:
 
 
@@ -811,7 +811,7 @@ v mém vnějším životě zasvěcení.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:41
+  :CITE-KEY: GWSS:41-cs
   :END:
 
 
@@ -833,7 +833,7 @@ byť na jeden prchavý den.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:42
+  :CITE-KEY: GWSS:42-cs
   :END:
 
 
@@ -853,7 +853,7 @@ po velmi dlouhou dobu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:43
+  :CITE-KEY: GWSS:43-cs
   :END:
 
 
@@ -876,7 +876,7 @@ noci nevědomosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:44
+  :CITE-KEY: GWSS:44-cs
   :END:
 
 
@@ -900,7 +900,7 @@ oddaností a odevzdáním.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:45
+  :CITE-KEY: GWSS:45-cs
   :END:
 
 
@@ -924,7 +924,7 @@ a život přijetí Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:46
+  :CITE-KEY: GWSS:46-cs
   :END:
 
 
@@ -945,7 +945,7 @@ těla, vitálna, mysli, srdce a života.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:47
+  :CITE-KEY: GWSS:47-cs
   :END:
 
 
@@ -968,7 +968,7 @@ v Životě Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: GWSS:48
+  :CITE-KEY: GWSS:48-cs
   :END:
 
 

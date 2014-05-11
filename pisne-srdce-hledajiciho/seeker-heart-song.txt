@@ -29,7 +29,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: SHS:1
+  :CITE-KEY: SHS:1-cs
   :END:
 
 
@@ -73,7 +73,7 @@ Bůh nám říká: „Mé dítě, mám pro tebe nesčetně způsobů, jak Mě re
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SHS:2e1
+  :CITE-KEY: SHS:2e1-cs
   :END:
 
 
@@ -86,7 +86,7 @@ Bůh nám říká: „Mé dítě, mám pro tebe nesčetně způsobů, jak Mě re
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SHS:2
+  :CITE-KEY: SHS:2-cs
   :END:
 
 
@@ -108,7 +108,7 @@ Když se přibližujeme ke Skutečnosti prostřednictvím srdce a ztotožňujeme
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SHS:3
+  :CITE-KEY: SHS:3-cs
   :END:
 
 
@@ -126,7 +126,7 @@ Mysl vždy pochybuje a podezřívá. V této chvíli mě mysl přesvědčí, že
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SHS:4
+  :CITE-KEY: SHS:4-cs
   :END:
 
 
@@ -145,7 +145,7 @@ Takže abych se vrátil k vaší otázce, druhé poznání -- mám -- je v kone�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SHS:5
+  :CITE-KEY: SHS:5-cs
   :END:
 
 
@@ -166,7 +166,7 @@ Božské v nás se cítí špatně, když se ve světě odehraje nějaká katast
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SHS:6
+  :CITE-KEY: SHS:6-cs
   :END:
 
 
@@ -185,7 +185,7 @@ Je to jako dítě, jehož otec je soudcem Nejvyššího soudu. Když dítě vid�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SHS:7
+  :CITE-KEY: SHS:7-cs
   :END:
 
 
@@ -203,7 +203,7 @@ Nejvyšší tedy přijde v různých formách v závislosti na tom, co kdo potř
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SHS:8
+  :CITE-KEY: SHS:8-cs
   :END:
 
 
@@ -221,7 +221,7 @@ Neexistuje přesné pravidlo určující, zda je žádoucí nebo nežádoucí, a
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SHS:9
+  :CITE-KEY: SHS:9-cs
   :END:
 
 
@@ -237,7 +237,7 @@ Musíme proto vědět, jakou schopnost člověk má. Někteří mohou sedět u p
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SHS:10
+  :CITE-KEY: SHS:10-cs
   :END:
 
 
@@ -253,7 +253,7 @@ Buddha, Kristus a všichni duchovní Mistři poznali Boha zde na zemi. Musíme d
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SHS:11
+  :CITE-KEY: SHS:11-cs
   :END:
 
 

@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: YSL:1e1
+  :CITE-KEY: YSL:1e1-cs
   :END:
 
 
@@ -34,7 +34,7 @@
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:1
+  :CITE-KEY: YSL:1-cs
   :END:
 
 
@@ -95,7 +95,7 @@ Během meditace musíme být velice opatrní. Občas se mysl bude chtít oddáva
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:2
+  :CITE-KEY: YSL:2-cs
   :END:
 
 
@@ -134,7 +134,7 @@ Náš Cíl je uvnitř nás. Abychom tohoto Cíle dosáhli, musíme se obrátit k
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:3
+  :CITE-KEY: YSL:3-cs
   :END:
 
 
@@ -183,7 +183,7 @@ Náš mír je uvnitř a tento mír je základem našeho života. A tak se ode dn
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:4
+  :CITE-KEY: YSL:4-cs
   :END:
 
 
@@ -222,7 +222,7 @@ Jóga je naše sjednocení s Pravdou. Existují tři postupné stupně tohoto s
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:5
+  :CITE-KEY: YSL:5-cs
   :END:
 
 
@@ -259,7 +259,7 @@ V úplném a naprostém odevzdání člověka je jeho realizace: jeho realizace
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:6
+  :CITE-KEY: YSL:6-cs
   :END:
 
 
@@ -295,7 +295,7 @@ Nakonec každý člověk musí mít ducha božského hrdiny. Ocitne-li se sám v
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:7
+  :CITE-KEY: YSL:7-cs
   :END:
 
 
@@ -326,7 +326,7 @@ Stejně tak je to s vámi. Vaše zvláštní poslání -- kterým je naplnění
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:8
+  :CITE-KEY: YSL:8-cs
   :END:
 
 
@@ -363,7 +363,7 @@ Realizace může být dosažena Boží Milostí, milostí Gurua a aspirací hled
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:9
+  :CITE-KEY: YSL:9-cs
   :END:
 
 
@@ -400,7 +400,7 @@ Matka drží dítě za ruku. Ale je to dítě, kdo musí kráčet, a ono kráč�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:10
+  :CITE-KEY: YSL:10-cs
   :END:
 
 
@@ -432,7 +432,7 @@ Evoluce je spojnice mezi tím, co bylo, a tím, co bude. Jsem člověk. Musím v
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:11
+  :CITE-KEY: YSL:11-cs
   :END:
 
 
@@ -466,7 +466,7 @@ Buďme všichni skutečně duchovní. Realizujme Boha pomocí svého neustáléh
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:12
+  :CITE-KEY: YSL:12-cs
   :END:
 
 
@@ -503,7 +503,7 @@ Nakonec mám otevřené tajemství pro ty, kteří se chtějí pustit do duchovn
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:13
+  :CITE-KEY: YSL:13-cs
   :END:
 
 
@@ -527,7 +527,7 @@ Jedna věc je jistá. Tyto tři cesty nás vedou k Seberealizaci v realizaci Boh
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:14
+  :CITE-KEY: YSL:14-cs
   :END:
 
 
@@ -555,7 +555,7 @@ Pták zpívá. Člověk zpívá. Bůh také zpívá. Prostřednictvím srdce sv�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:15
+  :CITE-KEY: YSL:15-cs
   :END:
 
 
@@ -578,7 +578,7 @@ Pro /bhaktu/ je snadné zapomenout na svět a pro /džňánu/ si světa nevším
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:16
+  :CITE-KEY: YSL:16-cs
   :END:
 
 
@@ -601,7 +601,7 @@ Džňána jogín prohlašuje: /“Neti, neti“/. „Ne toto, ne toto.“ Co tí
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:17
+  :CITE-KEY: YSL:17-cs
   :END:
 
 
@@ -633,7 +633,7 @@ Lidské nevědomé, polovědomé, vědomé a duchovně vědomé plány a Boží 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: YSL:18e2
+  :CITE-KEY: YSL:18e2-cs
   :END:
 
 
@@ -642,7 +642,7 @@ Lidské nevědomé, polovědomé, vědomé a duchovně vědomé plány a Boží 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:18
+  :CITE-KEY: YSL:18-cs
   :END:
 
 
@@ -663,7 +663,7 @@ Kromě toho, Amerika je mladý národ. Nechce kráčet; chce běžet co nejrychl
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:19
+  :CITE-KEY: YSL:19-cs
   :END:
 
 
@@ -678,7 +678,7 @@ Je jen otázkou času, kdy čas sám vytvoří vhodnou příležitost pro to, ab
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:20
+  :CITE-KEY: YSL:20-cs
   :END:
 
 
@@ -697,7 +697,7 @@ Indie je dnes možná chudá, ale díky svému novému uvědomění a své nové
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:21
+  :CITE-KEY: YSL:21-cs
   :END:
 
 
@@ -712,7 +712,7 @@ Tito bohové a bohyně jsou ve skutečnosti jen rozličná projevení Jediného 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:22
+  :CITE-KEY: YSL:22-cs
   :END:
 
 
@@ -727,7 +727,7 @@ K vašemu komentáři mám námitky a musím říci, že v tomto světě není
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:23
+  :CITE-KEY: YSL:23-cs
   :END:
 
 
@@ -740,7 +740,7 @@ To zcela záleží na rodičích. Jsou-li ortodoxní a konzervativní, nemusí j
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:24
+  :CITE-KEY: YSL:24-cs
   :END:
 
 
@@ -754,7 +754,7 @@ Dvakrát jsem měl možnost být svědkem takového představení. Neobával jse
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:25
+  :CITE-KEY: YSL:25-cs
   :END:
 
 
@@ -767,7 +767,7 @@ Doufám, že znáte význam odevzdání. Ve skutečném odevzdání svou osobnos
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:26
+  :CITE-KEY: YSL:26-cs
   :END:
 
 
@@ -781,7 +781,7 @@ Můj mladý příteli, mám velkou radost, že slyším vaši otázku. Nejvyšš
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:27
+  :CITE-KEY: YSL:27-cs
   :END:
 
 
@@ -798,7 +798,7 @@ Bůh je dokonalá Dokonalost. Tuto Dokonalost můžeme dosáhnout, jen když bud
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:28
+  :CITE-KEY: YSL:28-cs
   :END:
 
 
@@ -821,7 +821,7 @@ Podobně ti, kteří plně realizovali Boha, mají právo nám říkat, že Bůh
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:29
+  :CITE-KEY: YSL:29-cs
   :END:
 
 
@@ -834,7 +834,7 @@ Ne, můj mladý příteli, lidská láska a božská láska jsou dvě naprosto o
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:30
+  :CITE-KEY: YSL:30-cs
   :END:
 
 
@@ -847,7 +847,7 @@ Pokusím se. Ze všeho nejdříve, víra není důvěřivost nebo slepá víra. 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:31
+  :CITE-KEY: YSL:31-cs
   :END:
 
 
@@ -862,7 +862,7 @@ Když se trápíme nebo se něčeho obáváme, okamžitě si snažíme násilně
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:32
+  :CITE-KEY: YSL:32-cs
   :END:
 
 
@@ -887,7 +887,7 @@ Podobně může řečník, i přes svou vlastní chabou víru, ve svých posluch
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:33
+  :CITE-KEY: YSL:33-cs
   :END:
 
 
@@ -900,7 +900,7 @@ Ve vašem případě cítím, že byste měl zůstat se svou ženou a dítětem.
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:34
+  :CITE-KEY: YSL:34-cs
   :END:
 
 
@@ -917,7 +917,7 @@ Ale plnou a úplnou Realizaci můžete dosáhnout i bez takzvaných „zážitk�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:35
+  :CITE-KEY: YSL:35-cs
   :END:
 
 
@@ -930,7 +930,7 @@ Můj příteli, tak jako vy půjdete k Bohu, až opustíte tělo, půjdu i já.
  :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
- :CITE-KEY: YSL:36
+ :CITE-KEY: YSL:36-cs
   :END:
 
 Ano, protože se vědomě či nevědomě vyvíjí.
@@ -942,7 +942,7 @@ Ano, protože se vědomě či nevědomě vyvíjí.
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:37
+  :CITE-KEY: YSL:37-cs
   :END:
 
 
@@ -955,7 +955,7 @@ Zákon /karmy/ platí pro každého, ale člověk ho může překonat pomocí sv
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:38
+  :CITE-KEY: YSL:38-cs
   :END:
 
 
@@ -968,7 +968,7 @@ Jsem šťastný, že mohu odpovědět na tuto otázku otázek. Odpověď je doce
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:39
+  :CITE-KEY: YSL:39-cs
   :END:
 
 
@@ -981,7 +981,7 @@ Zajisté to pomůže. Pokud vezmeme postoj služby, postoj oddanosti a postoj po
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:40
+  :CITE-KEY: YSL:40-cs
   :END:
 
 
@@ -996,7 +996,7 @@ Je-li vaše meditace správná, ucítíte v celém těle určitý druh radosti. 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:41
+  :CITE-KEY: YSL:41-cs
   :END:
 
 
@@ -1009,7 +1009,7 @@ Ano, meditací a koncentrací. Obojí pomůže. Chcete-li poznat své vnitřní 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:42
+  :CITE-KEY: YSL:42-cs
   :END:
 
 
@@ -1024,7 +1024,7 @@ Když máte učitele, máte obrovské štěstí, obzvlášť je-li ten učitel p
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:43
+  :CITE-KEY: YSL:43-cs
   :END:
 
 
@@ -1037,7 +1037,7 @@ Zcela vám rozumím. Avšak získáte-li učitele, který je realizovanou duší
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:44
+  :CITE-KEY: YSL:44-cs
   :END:
 
 
@@ -1052,7 +1052,7 @@ Ale Jóga zahrnuje vše, je to celá oblast. V józe získáte Ticho; získáte
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:45
+  :CITE-KEY: YSL:45-cs
   :END:
 
 
@@ -1067,7 +1067,7 @@ Nezaměřujte svou pozornost na povrch oceánu, ale jděte prosím tiše a vědo
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:46
+  :CITE-KEY: YSL:46-cs
   :END:
 
 
@@ -1086,7 +1086,7 @@ A tak podobně jako každý den zaléváte květinu, syťte v sobě svou vnitř
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:47
+  :CITE-KEY: YSL:47-cs
   :END:
 
 
@@ -1103,7 +1103,7 @@ Dejme tomu, že ve vašem případě chcete jednat z intuitivní mysli. Jakmile
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:48
+  :CITE-KEY: YSL:48-cs
   :END:
 
 
@@ -1118,7 +1118,7 @@ Vědomí je jiskra, která nás nechává vstoupit do Světla. Je to naše vědo
    :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-   :CITE-KEY: YSL:49
+   :CITE-KEY: YSL:49-cs
   :END:
 
 
@@ -1131,7 +1131,7 @@ Obyčejný člověk své vědomí neovládá. Ale duchovní člověk ho dokáže
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:50
+  :CITE-KEY: YSL:50-cs
   :END:
 
 
@@ -1144,7 +1144,7 @@ Nemyslete na to, že byste měl něco dělat. Prostě nechte dveře svého vědo
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:51
+  :CITE-KEY: YSL:51-cs
   :END:
 
 
@@ -1161,7 +1161,7 @@ Když opakujete AUM, zkuste prosím pozorovat, co se ve skutečnosti děje. Bude
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:52
+  :CITE-KEY: YSL:52-cs
   :END:
 
 
@@ -1175,7 +1175,7 @@ V Indii opakujeme AUM nebo jméno nějakého boha či bohyně, jako je Šiva, K
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:53
+  :CITE-KEY: YSL:53-cs
   :END:
 
 
@@ -1190,7 +1190,7 @@ Lidská bytost obvykle přemýšlí, než něco udělá. U Boha tomu tak není. 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:54
+  :CITE-KEY: YSL:54-cs
   :END:
 
 
@@ -1206,7 +1206,7 @@ V každém okamžiku se přímo před námi zhmotní možnost úplného projeven
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:55
+  :CITE-KEY: YSL:55-cs
   :END:
 
 
@@ -1219,7 +1219,7 @@ Máte na mysli sebe, nebo mluvíte všeobecně? Jestliže se to vztahuje na vás
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:56
+  :CITE-KEY: YSL:56-cs
   :END:
 
 
@@ -1232,7 +1232,7 @@ Můžete tomu říkat intuice nebo přímé vnímání Pravdy, které nepotřebu
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:57
+  :CITE-KEY: YSL:57-cs
   :END:
 
 
@@ -1245,7 +1245,7 @@ Můžete tomu říkat intuice nebo přímé vnímání Pravdy, které nepotřebu
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:58
+  :CITE-KEY: YSL:58-cs
   :END:
 
 
@@ -1260,7 +1260,7 @@ Duchovní přístup k problému slov je ten, že musíme jít od tvaru k Beztvar
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:59
+  :CITE-KEY: YSL:59-cs
   :END:
 
 
@@ -1275,7 +1275,7 @@ Tato vyjádření jsou stejná. Když Kristus řekl: „Já a můj Otec jsme jed
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:60
+  :CITE-KEY: YSL:60-cs
   :END:
 
 
@@ -1294,7 +1294,7 @@ Abyste věděli, Království nebeské je více než pouhá úroveň jako ostatn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:61
+  :CITE-KEY: YSL:61-cs
   :END:
 
 
@@ -1309,7 +1309,7 @@ Obyčejné lidské ego nám dává pocit oddělené identity, odděleného vědo
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:62
+  :CITE-KEY: YSL:62-cs
   :END:
 
 
@@ -1324,7 +1324,7 @@ Ego dostává den za dnem příležitost, aby působilo nezávisle, a den za dne
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:63
+  :CITE-KEY: YSL:63-cs
   :END:
 
 
@@ -1337,7 +1337,7 @@ Soustředěním se na Boží všeprostupující Vědomí. Toto Vědomí není n�
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: YSL:64e3
+  :CITE-KEY: YSL:64e3-cs
   :END:
 
 
@@ -1348,7 +1348,7 @@ Soustředěním se na Boží všeprostupující Vědomí. Toto Vědomí není n�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:64
+  :CITE-KEY: YSL:64-cs
   :END:
 
 Samozřejmě že může. Bůh může udělat všechno, co chce.
@@ -1360,7 +1360,7 @@ Samozřejmě že může. Bůh může udělat všechno, co chce.
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:65
+  :CITE-KEY: YSL:65-cs
   :END:
 
 
@@ -1373,7 +1373,7 @@ Ne. Promiň, Shannon, tvůj Guru to nedokáže udělat. Ale pokud mi Bůh dá tu
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:66
+  :CITE-KEY: YSL:66-cs
   :END:
 
 
@@ -1386,7 +1386,7 @@ Proč ne? V okamžiku, kdy ti Bůh dá sílu, dokážeš dát rozbité vejce sn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:67
+  :CITE-KEY: YSL:67-cs
   :END:
 
 
@@ -1403,7 +1403,7 @@ A teď, jak se máš modlit? Modlíš-li se dnes k Bohu pro bonbón, zítra Ho 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:68
+  :CITE-KEY: YSL:68-cs
   :END:
 
 
@@ -1420,7 +1420,7 @@ Protože Bůh je v tobě, vypadá přesně jako ty. Právě teď jsi Bůh zahal
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:69
+  :CITE-KEY: YSL:69-cs
   :END:
 
 
@@ -1437,7 +1437,7 @@ Když se budeš modlit k Bohu každý den, jednoho dne se toto vnitřní oko ot
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: YSL:70e4
+  :CITE-KEY: YSL:70e4-cs
   :END:
 
 
@@ -1447,7 +1447,7 @@ Když se budeš modlit k Bohu každý den, jednoho dne se toto vnitřní oko ot
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:70
+  :CITE-KEY: YSL:70-cs
   :END:
 
 
@@ -1460,7 +1460,7 @@ Duše zpravidla v průběhu života člověka zůstává po celou dobu s ním, a
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:71
+  :CITE-KEY: YSL:71-cs
   :END:
 
 
@@ -1473,7 +1473,7 @@ Ano. Duše se vydává na cesty do různých úrovní vědomí. Je sedm vyšší
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:72
+  :CITE-KEY: YSL:72-cs
   :END:
 
 
@@ -1486,7 +1486,7 @@ Vybranější duše do něj nevstoupí. Avšak když se tělo a vědomí člově
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:73
+  :CITE-KEY: YSL:73-cs
   :END:
 
 
@@ -1499,7 +1499,7 @@ Je to stále ta samá duše. Předtím přijala nevědomost, ale teď odhazuje z
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:74
+  :CITE-KEY: YSL:74-cs
   :END:
 
 
@@ -1512,7 +1512,7 @@ Nejprve si ujasněme použití slova „psychický“. Tak jak toto slovo použ�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:75
+  :CITE-KEY: YSL:75-cs
   :END:
 
 
@@ -1525,7 +1525,7 @@ Nejprve ze všeho musí vědět a cítit, kde duše přebývá, kde se v těle 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:76
+  :CITE-KEY: YSL:76-cs
   :END:
 
 
@@ -1538,7 +1538,7 @@ Ne. Skutečná duše, která je částí Kosmického Já, je vší Blažeností.
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:77
+  :CITE-KEY: YSL:77-cs
   :END:
 
 
@@ -1551,7 +1551,7 @@ Ano. V člověku existují dva druhy pokynů. Dobrota a soucit pochází z nap
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:78
+  :CITE-KEY: YSL:78-cs
   :END:
 
 
@@ -1564,7 +1564,7 @@ Ano. Duše může ve snu vypadat jako stará žena i jako malé dítě. Duše si
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:79
+  :CITE-KEY: YSL:79-cs
   :END:
 
 
@@ -1577,7 +1577,7 @@ Duše jako taková není ani mužská, ani ženská. Pokud však přijme na poč
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:80
+  :CITE-KEY: YSL:80-cs
   :END:
 
 
@@ -1590,7 +1590,7 @@ Ano. Duše rozhoduje o výběru těla, ale s přímým souhlasem Nejvyššího n
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:81
+  :CITE-KEY: YSL:81-cs
   :END:
 
 
@@ -1603,7 +1603,7 @@ Ano. Každá lidská bytost má individuální duši. Tato duše se musí odevzd
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:82
+  :CITE-KEY: YSL:82-cs
   :END:
 
 
@@ -1617,7 +1617,7 @@ Duše odhaluje to, co vždy znala. Zároveň však roste a obohacuje se tím, ž
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:83
+  :CITE-KEY: YSL:83-cs
   :END:
 
 
@@ -1630,7 +1630,7 @@ Duše cítí osamělost, jen když tělo, vitálno, mysl a srdce, které s ní 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:84
+  :CITE-KEY: YSL:84-cs
   :END:
 
 
@@ -1643,7 +1643,7 @@ Duše neklade požadavky jako takové. Není jako matka, která po svém dítět
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:85
+  :CITE-KEY: YSL:85-cs
   :END:
 
 
@@ -1656,7 +1656,7 @@ Nyní víme, že duše si neklade žádné požadavky. Když si ego klade nějak
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:86
+  :CITE-KEY: YSL:86-cs
   :END:
 
 
@@ -1669,7 +1669,7 @@ V takových případech zůstává duše obvykle tichá. Pokud však mysl a vit�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:87
+  :CITE-KEY: YSL:87-cs
   :END:
 
 
@@ -1682,7 +1682,7 @@ Každá věc a každé místo má duši. Tak jako ostatní města, má duši i m
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:88
+  :CITE-KEY: YSL:88-cs
   :END:
 
 
@@ -1695,7 +1695,7 @@ Jistě. Země představuje mateřský aspekt Božského. Na Zemi naleznou Hmota 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:89
+  :CITE-KEY: YSL:89-cs
   :END:
 
 
@@ -1708,7 +1708,7 @@ Zajisté. Hrubé může a musí pomáhat jemnému. Tělo je hrubé, ale ve svém
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:90
+  :CITE-KEY: YSL:90-cs
   :END:
 
 
@@ -1721,7 +1721,7 @@ Zážitky, které bude mít člověk ve svém životě, určuje zpravidla duše.
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:91
+  :CITE-KEY: YSL:91-cs
   :END:
 
 
@@ -1735,7 +1735,7 @@ Pravé duchovní srdce, široké na čtyři prsty, je umístěno asi dvanáct pr
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:92
+  :CITE-KEY: YSL:92-cs
   :END:
 
 
@@ -1749,7 +1749,7 @@ Vy jste paní domácí v domě, kde máme naše Centrum. Vlastníte tento dům. 
  :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
- :CITE-KEY: YSL:93
+ :CITE-KEY: YSL:93-cs
   :END:
 
 
@@ -1762,7 +1762,7 @@ Z duchovního pohledu je starou duší nazýván ten, kdo ve svých dřívějš�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:94
+  :CITE-KEY: YSL:94-cs
   :END:
 
 
@@ -1776,7 +1776,7 @@ Tady si znovu musíme uvědomit jednu věc: není to počet inkarnací, co zdrž
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:95
+  :CITE-KEY: YSL:95-cs
   :END:
 
 
@@ -1789,7 +1789,7 @@ Síla charakteru je pýcha morálky a lidskosti. Síla duše je pýcha Duchovnos
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:96
+  :CITE-KEY: YSL:96-cs
   :END:
 
 
@@ -1804,7 +1804,7 @@ Celkový proces evoluce na zemi zahrnuje duši stejně tak jako fyzickou formu. 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:97
+  :CITE-KEY: YSL:97-cs
   :END:
 
 
@@ -1820,7 +1820,7 @@ Některé duše se projevením svých skrytých schopností v procesu reinkarnac
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:98
+  :CITE-KEY: YSL:98-cs
   :END:
 
 
@@ -1834,7 +1834,7 @@ Zároveň je duše daleko za dosahem smyčky příčiny a následku. Je spojují
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: YSL:99
+  :CITE-KEY: YSL:99-cs
   :END:
 
 
@@ -1849,7 +1849,7 @@ Duše si s sebou do vyšších světů nebere žádná pozemská omezení. Když
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: YSL:100e5
+  :CITE-KEY: YSL:100e5-cs
   :END:
 
 
@@ -1858,7 +1858,7 @@ Duše si s sebou do vyšších světů nebere žádná pozemská omezení. Když
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:100
+  :CITE-KEY: YSL:100-cs
   :END:
 
 
@@ -1895,7 +1895,7 @@ Božským cílem náboženství je otevřít uzavřenou nádobu lidské energie.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:101
+  :CITE-KEY: YSL:101-cs
   :END:
 
 
@@ -1937,7 +1937,7 @@ Jsem hinduista. Jsem hrdý na svůj hinduismus. Můj hinduismus, /Sanatana dharm
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:102
+  :CITE-KEY: YSL:102-cs
   :END:
 
 
@@ -1994,7 +1994,7 @@ Mí bratři a sestry, nevidím žádný důvod, proč bych ve vás nemohl naléz
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:103
+  :CITE-KEY: YSL:103-cs
   :END:
 
 
@@ -2032,7 +2032,7 @@ A tak se naše loď plaví a tančí, naladěná na věčný, mystický rytmus B
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:104
+  :CITE-KEY: YSL:104-cs
   :END:
 
 
@@ -2109,7 +2109,7 @@ Současný svět vědomě touží po jednotě. Hinduismus učí, že jednota Ind
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:105
+  :CITE-KEY: YSL:105-cs
   :END:
 
 
@@ -2148,7 +2148,7 @@ Vizí hinduismu je jednota v rozmanitosti. Hinduismus nejprve s láskou použí
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:106
+  :CITE-KEY: YSL:106-cs
   :END:
 
 
@@ -2221,7 +2221,7 @@ Poznat hinduismus znamená objevit Indii. Objevit Indii znamená cítit Dech du�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:107
+  :CITE-KEY: YSL:107-cs
   :END:
 
 
@@ -2273,7 +2273,7 @@ Indie je pokladnicí starodávné věčné moudrosti, která má univerzální p
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: YSL:108
+  :CITE-KEY: YSL:108-cs
   :END:
 
 
