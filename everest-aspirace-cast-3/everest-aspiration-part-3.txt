@@ -23,8 +23,8 @@
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:51-cs
   :END:
 
 
@@ -51,8 +51,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:52-cs
   :END:
 
 
@@ -71,8 +71,8 @@ do Washingtonu, D.C.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:53-cs
   :END:
 
 
@@ -94,8 +94,8 @@ do Washingtonu, D.C.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:54-cs
   :END:
 
 
@@ -113,8 +113,8 @@ Na cestě z Jamaica, New York do Washingtonu, D.C.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:55-cs
   :END:
 
 
@@ -136,8 +136,8 @@ Na cestě z Jamaica, New York do Washingtonu, D.C.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:56-cs
   :END:
 
 
@@ -155,8 +155,8 @@ Na cestě z Jamaica, New York do Washingtonu, D.C.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:57-cs
   :END:
 
 
@@ -182,8 +182,8 @@ Na cestě z Jamaica, New York do Washingtonu, D.C.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:58-cs
   :END:
 
 
@@ -205,8 +205,8 @@ Washington, D.C.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:59-cs
   :END:
 
 Jste z cesty. Co to znamená? Znamená to, že od této chvíle budete bezmocní, beznadějní a zbyteční? Ne, daleko od toho. Od této chvíle se stane jen jedna věc a to je naplnění vaší jednoty s vaším vitálem a vaším vitálním životem. Váš vitál vám naznačil cestu a vy po té cestě chcete jít. Dříve jste šli podél cesty duše. Tam byla duše vaším přítelem-vůdcem. Nyní je vaším přítelem-vůdcem váš vitál.
@@ -230,8 +230,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:60-cs
   :END:
 
 Neposlušnost je na denním pořádku. Bez ohledu na to, co dělám, bez ohledu na to, kolikrát jsem psal o neposlušnosti, bez ohledu na to, kolikrát jsem mluvit o neposlušnosti, zdá se, že neposlušnost žáků nikdy neskončí. Ještě včera jsem mluvil o neposlušnosti, o tom, co se stalo, když Adam a Eva neuposlechli Boha. Později, když jsme byli v autobuse, jsem vás požádal zpívat. Nebyl tam ani jeden nadšený zpěvák. Dávám vinu na sto procent vedoucímu vaší skupiny. Nemá-li vedoucí potřebnou poslušnost a nadšení, pak je to opravdu bolestivý šok. Nebudu obviňovat nikoho jiného, jdete-li spát nebo nemáte-li zájem. Ale u vedoucího, pokud nemá žádné nadšení nebo povzbuzení ke zbytku členů, se pak cítím velmi smutně. A z členů by také měli být dva nebo tři, aby přišli a inspirovali vedoucího zpívat. Teď jsem nejvyšší vedoucí. Když říkám, "udělejte něco," v případě, že žáci nesouhlasí nebo jdou spát, pak se o ně postarám svým vlastním způsobem. Ale vedoucí, kterého jsem jmenoval, musí být také zodpovědný.
@@ -264,8 +264,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:61-cs
   :END:
 
 
@@ -292,8 +292,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:62-cs
   :END:
 
 
@@ -312,8 +312,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:63-cs
   :END:
 
 
@@ -334,8 +334,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:64-cs
   :END:
 
 
@@ -357,8 +357,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:65-cs
   :END:
 
 
@@ -381,8 +381,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:66-cs
   :END:
 
 
@@ -402,8 +402,8 @@ Na cestě do Connecticut Sri Chinmoy Centre
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: EA:67
   :KEYWORDS:
+  :CITE-KEY: EA:67-cs
   :END:
 
 
@@ -427,8 +427,8 @@ Na cestě do Connecticut Sri Chinmoy Centre
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: EA:68
   :KEYWORDS:
+  :CITE-KEY: EA:68-cs
   :END:
 
 
@@ -450,8 +450,8 @@ Na cestě do Connecticut Sri Chinmoy Centre
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:69-cs
   :END:
 
 
@@ -476,8 +476,8 @@ Na cestě do Connecticut Sri Chinmoy Centre
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:70-cs
   :END:
 
 Byl jsem studentem modlitby, ale nemohu říci, že jsem se těšil ze svého studia. Když jsem byl student modlitby, úzkosti a obavy mě zabíjely. Občas mě zabíjel dokonce i strach a pochybnost.
@@ -498,8 +498,8 @@ Na cestě do Connecticut Sri Chinmoy Centre
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:71-cs
   :END:
 
 
@@ -523,8 +523,8 @@ Na cestě do Connecticut Sri Chinmoy Centre
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:72-cs
   :END:
 
 
@@ -548,8 +548,8 @@ Na cestě do Connecticut Sri Chinmoy Centre
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:73-cs
   :END:
 
 
@@ -577,8 +577,8 @@ Na cestě do Connecticut Sri Chinmoy Centre
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:74-cs
   :END:
 
 
@@ -598,8 +598,8 @@ Na cestě do Connecticut Sri Chinmoy Centre
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:75-cs
   :END:
 
 „Můj Pane Nejvyšší, co víc Ti mohu dát? Dal jsem Ti svůj den touhy. Dal jsem Ti svou noc zklamání. Můj Pane Nejvyšší, co víc Ti mohu dát? Dal jsem Ti svůj řetěz úzkosti. Dal jsem Ti svůj vlak nejistoty. Co víc Ti mohu dát, můj Pane Nejvyšší?
