@@ -24,8 +24,8 @@
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:1e1-cs
   :END:
 
 
@@ -34,8 +34,8 @@
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:1-cs
   :END:
 
 
@@ -51,8 +51,8 @@ Obyčejný člověk, jenž na svých bedrech nesl dvacet, třicet nebo čtyřice
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:2-cs
   :END:
 
 
@@ -66,8 +66,8 @@ Někdy dokonce můžeme následovat duši, když opouští tělo, a tehdy můž
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: 
   :KEYWORDS:
+  :CITE-KEY: DR:3-cs
   :END:
 
 
@@ -79,8 +79,8 @@ Někdy dokonce můžeme následovat duši, když opouští tělo, a tehdy můž
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:4-cs
   :END:
 
 
@@ -98,8 +98,8 @@ Pokud jsme spoutáni pouty nevědomosti, budeme mít v okamžiku fyzické smrti
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:5-cs
   :END:
 
 
@@ -115,8 +115,8 @@ Zemře-li naproti tomu někdo na náhlé selhání srdce, nemusí to nezbytně z
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:6-cs
   :END:
 
 
@@ -130,8 +130,8 @@ Zemře-li naproti tomu někdo na náhlé selhání srdce, nemusí to nezbytně z
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:7-cs
   :END:
 
 
@@ -153,8 +153,8 @@ S výjimkou dětských let většinou není nic ztraceno. Je však lepší real
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:8-cs
   :END:
 
 
@@ -170,8 +170,8 @@ Pokud však mluvíš o ostatních lidech, pak jestliže chceš vědět, co je p
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:9-cs
   :END:
 
 
@@ -185,8 +185,8 @@ Nejprve si zkus představit v jeho srdci kruh a potom se pokus cítit, že ten
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:10-cs
   :END:
 
 
@@ -203,8 +203,8 @@ Nevíme, co smrt doopravdy je -- proto chceme zůstat na zemi tak dlouho, jak je
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:11-cs
   :END:
 
 
@@ -216,8 +216,8 @@ Nevíme, co smrt doopravdy je -- proto chceme zůstat na zemi tak dlouho, jak je
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:12-cs
   :END:
 
 
@@ -231,8 +231,8 @@ Je-li to však velmi duchovní člověk a upřímný hledající, potom on sám
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:13-cs
   :END:
 
 
@@ -244,8 +244,8 @@ Je-li to však velmi duchovní člověk a upřímný hledající, potom on sám
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:14-cs
   :END:
 
 
@@ -259,8 +259,8 @@ Vlastnit tuto sílu nemá žádný smysl, pokud chcete být na zemi dvě stě ne
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:15-cs
   :END:
 
 
@@ -273,8 +273,8 @@ Právě minulou neděli jsem přišel velmi pozdě ranní meditaci. Tehdy si vě
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:16-cs
   :END:
 
 /Sri Chinmoy:/ Když jsem spojen s Univerzálním Vědomím, jsem v každém. Existuje na světě mnoho lidí, kteří nejsou moji žáci, ale jsou upřímní hledající. A realizované duše první třídy uvidí, když se upřímní hledající ve chvíli své smrti, nebo když jsou jejich dny sečteny, modlí k Bohu. Říkám vám, že pokud se modlí k Bohu nebo Kristu nebo komukoliv, pokud skutečně upřímně klepou na Boží dveře, mohou vyzařovat moji tvář, Buddhovu tvář, Kršnovu tvář -- kvůli našemu Univerzálnímu Vědomí.
@@ -288,8 +288,8 @@ Jsou chvíle, kdy na mne moji žáci meditují nejvíce oduševněle a identifik
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:17-cs
   :END:
 
 
@@ -305,8 +305,8 @@ Svět zůstane nevědomý, dokud a pokud Nejvyšší neosvítí pozemské vědo
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:18-cs
   :END:
 
 /Sri Chinmoy:/ Po spáchání sebevraždy nebo po násilné smrti /je/ možné realizovat Boha. Ale Bůh ví, kolik inkarnací to bude trvat. Pouze v případě duchovních mistrů je to přípustné. Duchovní mistři někdy spáchají sebevraždu; jsou tak znechuceni zemí, že vědomě a úmyslně opustí tělo před tím, než by se tak stalo v běžném sledu života. Ale v jejich případě to Nejvyšší dovoluje, protože Ho již realizovali a pracovali pro Něj velmi tvrdě.
@@ -316,8 +316,8 @@ Svět zůstane nevědomý, dokud a pokud Nejvyšší neosvítí pozemské vědo
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:19-cs
   :END:
 
 
@@ -335,8 +335,8 @@ Nemůžete říci kosmickým silám: „Udělal jsem něco špatného, ale to ne
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:20-cs
   :END:
 
 
@@ -351,8 +351,8 @@ Lidé, kteří tady na Západě dávají přednost pohřbu, mají také svůj du
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:21-cs
   :END:
 
 
@@ -368,8 +368,8 @@ Jedno z tajemství duchovního života je, že v každém okamžiku umíráme 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:22-cs
   :END:
 
 
@@ -383,8 +383,8 @@ Každý, kdo vstoupil do duchovního života, musí nevyhnutelně ještě v tom
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:23-cs
   :END:
 
 
@@ -400,8 +400,8 @@ Během svého pozemského života se můžeme přenést do říše Věčného ž
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:24e2-cs
   :END:
 
 
@@ -410,8 +410,8 @@ Během svého pozemského života se můžeme přenést do říše Věčného ž
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:24-cs
   :END:
 
 
@@ -446,8 +446,8 @@ Právě teď je duše Buddyho v měsíčním světě, který je považován za j
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:25e3-cs
   :END:
 
 
@@ -456,8 +456,8 @@ Právě teď je duše Buddyho v měsíčním světě, který je považován za j
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:25-cs
   :END:
 
 
@@ -473,8 +473,8 @@ Naproti tomu byly jiné vdovy, které byly k tomuto činu přinuceny zákonem. 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:26-cs
   :END:
 
 
@@ -492,8 +492,8 @@ Jistě, žáci mohou být na chvíli smutní, protože ztratili svého Mistra, p
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:27-cs
   :END:
 
 
@@ -505,8 +505,8 @@ Jistě, žáci mohou být na chvíli smutní, protože ztratili svého Mistra, p
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:28-cs
   :END:
 
 
@@ -520,8 +520,8 @@ Duše, která vidí Boha a mluví s Ním, nám připadá jako cosi zvláštní
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:29-cs
   :END:
 
 
@@ -532,8 +532,8 @@ Duše, která vidí Boha a mluví s Ním, nám připadá jako cosi zvláštní
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:30-cs
   :END:
 
 
@@ -545,8 +545,8 @@ Duše, která vidí Boha a mluví s Ním, nám připadá jako cosi zvláštní
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:31-cs
   :END:
 
 
@@ -558,8 +558,8 @@ Duše, která vidí Boha a mluví s Ním, nám připadá jako cosi zvláštní
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:32-cs
   :END:
 
 
@@ -575,8 +575,8 @@ Když otec jiné žákyně zemřel, šel na velmi vysoké místo, ale nebyl tam 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:33-cs
   :END:
 
 
@@ -592,8 +592,8 @@ Do světa duší odcházíme pro odpočinek. Pokud však bude naše duše ve spo
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: DR:34
   :KEYWORDS:
+  :CITE-KEY: DR:34-cs
   :END:
 
 
@@ -607,8 +607,8 @@ Vitálno, které jsme přijali v tomto fyzickém těle, je cosi pevného. Svým
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:35-cs
   :END:
 
 
@@ -620,8 +620,8 @@ Vitálno, které jsme přijali v tomto fyzickém těle, je cosi pevného. Svým
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:36-cs
   :END:
 
 
@@ -635,8 +635,8 @@ Pokud tedy žijeme v hrubém fyzickém vědomí nebo ve vědomí těla, je pekl
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:37e4-cs
   :END:
 
 
@@ -645,8 +645,8 @@ Pokud tedy žijeme v hrubém fyzickém vědomí nebo ve vědomí těla, je pekl
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: DR:37
   :KEYWORDS:
+  :CITE-KEY: DR:37-cs
   :END:
 
 
@@ -668,8 +668,8 @@ Přijde den, kdy bude duše moci použít své božské vlastnosti a dát mysli
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:38-cs
   :END:
 
 
@@ -681,8 +681,8 @@ Přijde den, kdy bude duše moci použít své božské vlastnosti a dát mysli
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:39-cs
   :END:
 
 
@@ -698,8 +698,8 @@ Jednou se mě zeptal jeden mladý chlapec, který nebyl mým žákem, na svou mi
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:40-cs
   :END:
 
 
@@ -715,8 +715,8 @@ Jsou však takové duše, které se chtějí Boží Lily, božské Hry, vědomě
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:41-cs
   :END:
 
 
@@ -730,8 +730,8 @@ Existuje sedm vyšších a sedm nižších světů a duše každého člověka
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:42-cs
   :END:
 
 
@@ -744,8 +744,8 @@ Existuje sedm vyšších a sedm nižších světů a duše každého člověka
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:43-cs
   :END:
 
 
@@ -757,8 +757,8 @@ Existuje sedm vyšších a sedm nižších světů a duše každého člověka
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:44-cs
   :END:
 
 
@@ -770,8 +770,8 @@ Existuje sedm vyšších a sedm nižších světů a duše každého člověka
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:45-cs
   :END:
 
 
@@ -783,8 +783,8 @@ Existuje sedm vyšších a sedm nižších světů a duše každého člověka
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:46-cs
   :END:
 
 
@@ -797,8 +797,8 @@ Můžeš mi pomoci opustit tělo co nejdříve, a pomoct mi reinkarnovat se v m�
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:47-cs
   :END:
 
 
@@ -814,8 +814,8 @@ Pokud vás trápí vaše předchozí jednání v této inkarnaci, chci vám ří
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:48-cs
   :END:
 
 
@@ -831,8 +831,8 @@ Pokud neustále vedeme duchovní život, stojíme v poli božské Síly, která
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:49-cs
   :END:
 
 
@@ -848,8 +848,8 @@ Když se v příští inkarnaci vrátíme, přirozeně musíme začít svou ces
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:50-cs
   :END:
 
 
@@ -869,8 +869,8 @@ Když se velcí Mistři přicházejí na zem, výrazně urychlují pokrok svých
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:51-cs
   :END:
 
 
@@ -892,8 +892,8 @@ Když zemřel jeden z mých žáků, řekl jsem jeho malému synovci, že bychom
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:52-cs
   :END:
 
 
@@ -907,8 +907,8 @@ Pokud však jde o opravdu velkého aspiranta, který se blíží k realizaci B
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:53-cs
   :END:
 
 
@@ -920,8 +920,8 @@ Pokud však jde o opravdu velkého aspiranta, který se blíží k realizaci B
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:54-cs
   :END:
 
 
@@ -938,8 +938,8 @@ Až se však duše vrátí zpět do vyšších světů, už nebude mít žádné
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:55-cs
   :END:
 
 
@@ -954,8 +954,8 @@ Většina obyčejných duší se vrací po šesti, sedmi nebo nanejvýš dvaceti
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:56-cs
   :END:
 
 
@@ -969,8 +969,8 @@ Není to tedy tak, že by byl někomu od samého začátku dán určitý předpo
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:57-cs
   :END:
 
 
@@ -984,8 +984,8 @@ Je velmi riskantní, aby se dva žáci vzájemně koncentrovali na své oči a 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:58-cs
   :END:
 
 
@@ -1011,8 +1011,8 @@ Rád bych řekl ještě jednu věc mým žákům. Nyní mi dovolte trochu se poc
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:59-cs
   :END:
 
 
@@ -1024,8 +1024,8 @@ Rád bych řekl ještě jednu věc mým žákům. Nyní mi dovolte trochu se poc
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:60-cs
   :END:
 
 
@@ -1039,8 +1039,8 @@ Dáme-li tedy najevo soucit k někomu, neznamená to, že se staneme tímto čl
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: DR:61-cs
   :END:
 
 

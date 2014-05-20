@@ -22,8 +22,8 @@
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:76-cs
   :END:
 
 
@@ -50,8 +50,8 @@ Norwalk, Connecticut
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:77-cs
   :END:
 
 Můj Milovaný Nejvyšší, mám pro Tebe nějaké dárky. Můj první dárek je můj oduševnělý pláč. Můj druhý dárek je můj plodný úsměv. Můj třetí a speciální dárek je má jednota srdce. Můj čtvrtý a můj extra speciální dárek je můj plamen vděčnosti. 
@@ -67,8 +67,8 @@ Na cestě z Jamaica, New York do Washington, D.C.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:78-cs
   :END:
 
 
@@ -111,8 +111,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:79-cs
   :END:
 
 
@@ -133,8 +133,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:80-cs
   :END:
 
 
@@ -152,8 +152,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:81-cs
   :END:
 
 
@@ -180,8 +180,8 @@ Bronx, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:82-cs
   :END:
 
 
@@ -205,8 +205,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:83-cs
   :END:
 
 
@@ -225,8 +225,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:84-cs
   :END:
 
 
@@ -249,8 +249,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:85-cs
   :END:
 
 "Můj Pane Nejvyšší, je to můj osud, že nebudu mít žádnou zkratku k mému cíli-uspokojení? Každý ví, že vede zkratka k cíli, ale v mém případě jsem tuto zkratku ještě nenašel. Chceš, abych milovat svět, chceš, abych světu sloužit, protože uvnitř světa je Tvá vlastní skutečnost Bytí. Ale tento Tvůj svět nebyl připraven, není připraven a možná nikdy nebude připraven na vybrané nástroje, svrchovaně vybrané nástroje k probuzení spícího lidského života. Ne! Žádná duchovní postava nikdy neuspěla podle Tvého vnitřního Přání.
@@ -270,8 +270,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:86-cs
   :END:
 
 
@@ -296,8 +296,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:87-cs
   :END:
 
 Mohu udělat něco bez člověka? Ano, mohu. Bez člověka mohu udělat mnoho, mnoho věcí, ne-li úplně všechno. Když se budu modlit k Bohu, aby mi dal schopnost udělat všechno bez pomoci lidstva, jsem si jistý, že mi vyhoví.
@@ -318,8 +318,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:88-cs
   :END:
 
 
@@ -344,8 +344,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:89-cs
   :END:
 
 Můj bratr Chitta mi říkával: "Nikdy, nikdy nedávej vnější slib. Slibuj jen vnitřně sám, co chceš dělat ve svém životě a s životy druhých. V okamžiku, kdy navenek sdělíš světu, co budeš dělat, nebo co očekáváš, že ostatní udělají pro tebe, pro ostatní nebo pro sebe, nepřátelské síly na tebe vždy přímo zaútočí. Pak se do tebe pokusí vstoupit další nebožské síly: lidská žárlivost, lidská nejistota, lidské pochyby a mnoho špatných sil.
@@ -365,8 +365,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:90-cs
   :END:
 
 "Můj Pane Nejvyšší, to schvaluješ můj život-boje? Souhlasíš s pokrokem, který dělám skrze bojování? Mám pocit, že dělám pokrok, jen když bojuji; cítím, že dělám pokrok, jen když musím překonat překážky."
@@ -392,8 +392,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:91-cs
   :END:
 
 
@@ -425,8 +425,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:92-cs
   :END:
 
 
@@ -457,8 +457,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:93-cs
   :END:
 
 
@@ -485,8 +485,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:94-cs
   :END:
 
 
@@ -511,8 +511,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:95-cs
   :END:
 
 
@@ -533,8 +533,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:96-cs
   :END:
 
 
@@ -563,8 +563,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:97-cs
   :END:
 
 Včera jsem tě potkal. Dnes tě vidím podruhé. To znamená, že už pro mne nejsi nový, už pro mne nejsi cizí. Stal ses mým přítelem; ty a já jsme se stali starými přáteli. Ty jsi zestárl a já také.
@@ -589,8 +589,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:98-cs
   :END:
 
 
@@ -614,8 +614,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:99-cs
   :END:
 
 Spíš? Pak spi. Sníš? Pak se probuď. Plánuješ? Pak vzhlédni, rozhlédni se kolem.
@@ -651,8 +651,8 @@ Jamaica, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:100-cs
   :END:
 
 
@@ -693,8 +693,8 @@ Greenwich, Connecticut
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: EA:101-cs
   :END:
 
 Ó sladký Milovaný Pane mého života, ó veliký a dobrý Příteli mého srdce, já vím, já vím, milovat Tě znamená něco pro Tebe dělat. Protože pro Tebe nic nedělám, znamená to, že Tě nemiluji doopravdy. 
