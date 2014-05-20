@@ -17,6 +17,14 @@
   :KEYWORDS:
   :END:
 
+* Poznámka editora
+
+  :PROPERTIES:
+  :GENRE: note
+  :KEYWORDS:
+  :CITE-KEY: APR:2107e1-cs
+  :END:
+
 
 / Následující modlitby nabídl Sri ­Chinmoy během své návštěvy v Solo a Yogyakartě v Indonésii v prosinci roku 2003./
 
@@ -30,7 +38,7 @@
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2107-cs
   :KEYWORDS:
   :END:
 
@@ -48,7 +56,7 @@ Božím vlastním Způsobem.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2108-cs
   :KEYWORDS:
   :END:
 
@@ -67,7 +75,7 @@ Věčného Nyní.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2109-cs
   :KEYWORDS:
   :END:
 
@@ -86,7 +94,7 @@ zcela jistě objeví.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2110-cs
   :KEYWORDS:
   :END:
 
@@ -104,7 +112,7 @@ a Jeho Srdcem Odpuštění.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2111-cs
   :KEYWORDS:
   :END:
 
@@ -123,7 +131,7 @@ v sebedávajícím životě.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2112-cs
   :KEYWORDS:
   :END:
 
@@ -142,7 +150,7 @@ schopnost mysli.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2113-cs
   :KEYWORDS:
   :END:
 
@@ -160,7 +168,7 @@ a bezpodmínečné Odpuštění.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2114-cs
   :KEYWORDS:
   :END:
 
@@ -179,7 +187,7 @@ na svých křídlech aspirace.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2115-cs
   :KEYWORDS:
   :END:
 
@@ -199,7 +207,7 @@ je zklamáním.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2116-cs
   :KEYWORDS:
   :END:
 
@@ -216,7 +224,7 @@ je velmi vzácnou skutečností.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2117-cs
   :KEYWORDS:
   :END:
 
@@ -234,7 +242,7 @@ našeho úsměvu.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2118-cs
   :KEYWORDS:
   :END:
 
@@ -253,7 +261,7 @@ pro naplnění Božího Snu na zemi.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2119-cs
   :KEYWORDS:
   :END:
 
@@ -273,7 +281,7 @@ pouze o Bohu.
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: APR:2120e2-cs
   :KEYWORDS:
   :END:
 
@@ -288,7 +296,7 @@ Solo, Indonesia
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2120-cs
   :KEYWORDS:
   :END:
 
@@ -305,7 +313,7 @@ vedly můj vnější život.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2121-cs
   :KEYWORDS:
   :END:
 
@@ -324,7 +332,7 @@ ohromně zlepšuje.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2122-cs
   :KEYWORDS:
   :END:
 
@@ -343,7 +351,7 @@ s celým světem.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2123-cs
   :KEYWORDS:
   :END:
 
@@ -362,7 +370,7 @@ a pohltí tě.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2124-cs
   :KEYWORDS:
   :END:
 
@@ -381,7 +389,7 @@ tě volají.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2125-cs
   :KEYWORDS:
   :END:
 
@@ -403,7 +411,7 @@ Jej milovat.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2126-cs
   :KEYWORDS:
   :END:
 
@@ -421,7 +429,7 @@ vždy uvažuje odlišně.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2127-cs
   :KEYWORDS:
   :END:
 
@@ -440,7 +448,7 @@ abychom uvažovali.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2128-cs
   :KEYWORDS:
   :END:
 
@@ -459,7 +467,7 @@ kousek po kousku.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2129-cs
   :KEYWORDS:
   :END:
 
@@ -479,7 +487,7 @@ nepředstavitelným pokrokem.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2130-cs
   :KEYWORDS:
   :END:
 
@@ -498,7 +506,7 @@ roní slzy zármutku.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2131-cs
   :KEYWORDS:
   :END:
 
@@ -517,7 +525,7 @@ v Jeho Nekonečném Oceánu Blaženosti.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2132-cs
   :KEYWORDS:
   :END:
 
@@ -536,7 +544,7 @@ Svět se mě ptá:
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2133-cs
   :KEYWORDS:
   :END:
 
@@ -558,7 +566,7 @@ než milovat.“
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: APR:2134e3-cs
   :KEYWORDS:
   :END:
 
@@ -573,7 +581,7 @@ Yogyakarta, Indonésie
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2134-cs
   :KEYWORDS:
   :END:
 
@@ -592,7 +600,7 @@ ode mě chce.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2135-cs
   :KEYWORDS:
   :END:
 
@@ -610,7 +618,7 @@ má přitažlivou sílu.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2136-cs
   :KEYWORDS:
   :END:
 
@@ -629,7 +637,7 @@ květům srdce mého života.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2137-cs
   :KEYWORDS:
   :END:
 
@@ -649,7 +657,7 @@ nořit se dovnitř a letět vzhůru.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2138-cs
   :KEYWORDS:
   :END:
 
@@ -668,7 +676,7 @@ své modlitby odevzdání Bohu.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2139-cs
   :KEYWORDS:
   :END:
 
@@ -685,7 +693,7 @@ je nepopsatelná.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2140-cs
   :KEYWORDS:
   :END:
 
@@ -705,7 +713,7 @@ těšit svého Pána.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2141-cs
   :KEYWORDS:
   :END:
 
@@ -725,7 +733,7 @@ aby ti nabídla ponaučení od Boha.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2142-cs
   :KEYWORDS:
   :END:
 
@@ -744,7 +752,7 @@ noci temnoty zmatené mysli.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2143-cs
   :KEYWORDS:
   :END:
 
@@ -763,7 +771,7 @@ bezesně potřebujeme.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2144-cs
   :KEYWORDS:
   :END:
 
@@ -782,7 +790,7 @@ svého ega.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2145-cs
   :KEYWORDS:
   :END:
 
@@ -801,7 +809,7 @@ také jsem.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2146-s
   :KEYWORDS:
   :END:
 
@@ -820,7 +828,7 @@ než se staneš milovníkem Boha.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2147-cs
   :KEYWORDS:
   :END:
 
@@ -838,7 +846,7 @@ Bohem Samotným.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2148-cs
   :KEYWORDS:
   :END:
 
@@ -856,7 +864,7 @@ než věřit v Boha.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2149-cs
   :KEYWORDS:
   :END:
 
@@ -874,7 +882,7 @@ než přemýšlet o Bohu.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2150-cs
   :KEYWORDS:
   :END:
 
@@ -892,7 +900,7 @@ než se modlit k Bohu.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2151-cs
   :KEYWORDS:
   :END:
 
@@ -910,7 +918,7 @@ než milovat Boha.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2152-cs
   :KEYWORDS:
   :END:
 
@@ -929,7 +937,7 @@ než poslouchat Boha.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2153-cs
   :KEYWORDS:
   :END:
 
@@ -948,7 +956,7 @@ bezesné jednoty s Bohem.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2154-cs
   :KEYWORDS:
   :END:
 
@@ -967,7 +975,7 @@ těšit a naplňovat.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2155-cs
   :KEYWORDS:
   :END:
 
@@ -986,7 +994,7 @@ na zemi.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2156-cs
   :KEYWORDS:
   :END:
 
@@ -1005,7 +1013,7 @@ po celé délce a šířce světa.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2157-cs
   :KEYWORDS:
   :END:
 
@@ -1023,7 +1031,7 @@ Kosmickou Hru srovnávání.
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: APR:2158e4-cs
   :KEYWORDS:
   :END:
 
@@ -1038,7 +1046,7 @@ Yogyakarta, Indonésie
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2158-cs
   :KEYWORDS:
   :END:
 
@@ -1055,7 +1063,7 @@ jsem byl.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2159-cs
   :KEYWORDS:
   :END:
 
@@ -1072,7 +1080,7 @@ nyní jsem.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2160-cs
   :KEYWORDS:
   :END:
 
@@ -1089,7 +1097,7 @@ se stanu.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2161-cs
   :KEYWORDS:
   :END:
 
@@ -1106,7 +1114,7 @@ je mým Konečným Cílem.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2162-cs
   :KEYWORDS:
   :END:
 
@@ -1125,7 +1133,7 @@ mohu opravdu milovat Boha.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2163-cs
   :KEYWORDS:
   :END:
 
@@ -1144,7 +1152,7 @@ a zničí svůj cíl.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2164-cs
   :KEYWORDS:
   :END:
 
@@ -1162,7 +1170,7 @@ noci nevědomosti.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2165-cs
   :KEYWORDS:
   :END:
 
@@ -1180,7 +1188,7 @@ neužitečnou přehlídku věcí.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2166-cs
   :KEYWORDS:
   :END:
 
@@ -1198,7 +1206,7 @@ Projevení Boha.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2167-cs
   :KEYWORDS:
   :END:
 
@@ -1217,7 +1225,7 @@ se nemůže odvážit mě odvést pryč.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2168-cs
   :KEYWORDS:
   :END:
 
@@ -1235,7 +1243,7 @@ cesta blaženého pokroku.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2169-cs
   :KEYWORDS:
   :END:
 
@@ -1253,7 +1261,7 @@ zpívající o Bohu.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2170-cs
   :KEYWORDS:
   :END:
 
@@ -1272,7 +1280,7 @@ když jsem neposlušný.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2171-cs
   :KEYWORDS:
   :END:
 
@@ -1291,7 +1299,7 @@ ve svých vlastních výtvorech.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2172-cs
   :KEYWORDS:
   :END:
 
@@ -1310,7 +1318,7 @@ svého Milovaného Nejvyššího.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2173-cs
   :KEYWORDS:
   :END:
 
@@ -1328,7 +1336,7 @@ mého projevení Boha.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2174-cs
   :KEYWORDS:
   :END:
 
@@ -1346,7 +1354,7 @@ nasytit fyzický hlad.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2175-cs
   :KEYWORDS:
   :END:
 
@@ -1364,7 +1372,7 @@ nasytit duchovní hlad.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2176-cs
   :KEYWORDS:
   :END:
 
@@ -1383,7 +1391,7 @@ si tě nenajme.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2177-cs
   :KEYWORDS:
   :END:
 
@@ -1401,7 +1409,7 @@ z továrny na události.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY:
+  :CITE-KEY: APR:2178-cs
   :KEYWORDS:
   :END:
 
@@ -1425,4 +1433,5 @@ daleko za hranice událostí.
 # mode: org
 # coding: unix
 # End:
+
 
