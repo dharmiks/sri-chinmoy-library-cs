@@ -12,7 +12,7 @@
   :ORIGINAL-EDITION: nil
   :YEAR: 2010
   :PUBLISHER: Madal Bal
-  :CITE-KEY:
+  :CITE-KEY: UPA-cs
   :GENRE: poem
   :KEYWORDS:
   :END:
@@ -41,7 +41,7 @@ Zřeci Upanišad jsou hrdí na Sri Chinmoye, protože on /je/. Sri Chinmoy je na
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: None:1-cs
+  :CITE-KEY: UPA:1-cs
   :END:
 
 
@@ -162,7 +162,7 @@ Takové je vnější slunce. Každý z nás má však vnitřní slunce. Toto vn
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: None:2-cs
+  :CITE-KEY: UPA:2-cs
   :END:
 
 
@@ -244,7 +244,7 @@ Neskutečné je zachmuřením smrti; Skutečné je písní Nesmrtelnosti. Temnot
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: None:3-cs
+  :CITE-KEY: UPA:3-cs
   :END:
 
 
@@ -326,7 +326,7 @@ Na zemi je nemálo duchovních Mistrů, kteří nabízejí své světlo hledají
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: None:4-cs
+  :CITE-KEY: UPA:4-cs
   :END:
 
 
@@ -386,7 +386,7 @@ Dostanete-li od duchovního Mistra takovou pomoc, potom může mít váš život
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: None:5-cs
+  :CITE-KEY: UPA:5-cs
   :END:
 
 
@@ -488,7 +488,7 @@ Síla mysli, síla srdce a síla duše upanišadského vědomí neznají hranic
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: None:6-cs
+  :CITE-KEY: UPA:6-cs
   :END:
 
 
@@ -602,7 +602,7 @@ Vpřed, vpřed!
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: None:7-cs
+  :CITE-KEY: UPA:7-cs
   :END:
   
   
@@ -673,7 +673,7 @@ Gájatrí mantra je božská střelka kompasu. Střelka ukazuje na sever a loď 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: None:8-cs
+  :CITE-KEY: UPA:8-cs
   :END:
 
 
@@ -737,7 +737,7 @@ V lidském poznání je Bůh v našem nitru aspirací a realizací spoutanou 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: None:9-cs
+  :CITE-KEY: UPA:9-cs
   :END:
 
 
@@ -788,7 +788,7 @@ Mysl, s pomocí těla, vytváří otroctví. Srdce, s pomocí duše, nabízí 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: None:10-cs
+  :CITE-KEY: UPA:10-cs
   :END:
 
 
@@ -830,7 +830,7 @@ Upanišadští zřeci přebývají uvnitř nás. Nepotřebují uznání ani obdi
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: None:11e1-cs
+  :CITE-KEY: UPA:11e1-cs
   :END:
   
 
@@ -840,7 +840,7 @@ Upanišadští zřeci přebývají uvnitř nás. Nepotřebují uznání ani obdi
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:11-cs
+  :CITE-KEY: UPA:11-cs
   :END:
 
 #+BEGIN_VERSE
@@ -869,7 +869,7 @@ Potřebujeme osvícení -- zde je odpověď. Transcendentální osvícení pře
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:12-cs
+  :CITE-KEY: UPA:12-cs
   :END:
 
 #+BEGIN_VERSE
@@ -899,7 +899,7 @@ Nekonečno je naplněné Tělo Nejvyššího Cíle.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:13-cs
+  :CITE-KEY: UPA:13-cs
   :END:
   
 #+BEGIN_VERSE
@@ -934,7 +934,7 @@ Nesmrtelnost -- kde je ten lev? Jeho řev je slyšet všude vůkol.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:14-cs
+  :CITE-KEY: UPA:14-cs
   :END:
 
 
@@ -965,7 +965,7 @@ Jako pradědeček člověka se duše ustavičně těší z odpočinku.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:15-cs
+  :CITE-KEY: UPA:15-cs
   :END:
 
 
@@ -994,7 +994,7 @@ Po naší realizaci sytíme hlad duše této Velké Bytosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:16-cs
+  :CITE-KEY: UPA:16-cs
   :END:
 
 
@@ -1021,7 +1021,7 @@ Realizujeme-li Pravdu, obejmeme Boha navždy.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:17-cs
+  :CITE-KEY: UPA:17-cs
   :END:
 
 
@@ -1049,7 +1049,7 @@ Brhaspati obsahuje proudící život bohů a uchovává zářící lásku člov
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:18-cs
+  :CITE-KEY: UPA:18-cs
   :END:
 
 
@@ -1081,7 +1081,7 @@ Boží Láska je svobodou pro náš život.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:19-cs
+  :CITE-KEY: UPA:19-cs
   :END:
 
 
@@ -1114,7 +1114,7 @@ Světlo je naplněný Bůh.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:20-cs
+  :CITE-KEY: UPA:20-cs
   :END:
 
 
@@ -1144,7 +1144,7 @@ Bůh napsal svým lidským dětem otevřený dopis. V dopisu stálo:
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:21-cs
+  :CITE-KEY: UPA:21-cs
   :END:
 
 
@@ -1172,7 +1172,7 @@ Srdce Pravdy nás utváří.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:22-cs
+  :CITE-KEY: UPA:22-cs
   :END:
 
 
@@ -1209,7 +1209,7 @@ a bude zářit po celou Věčnost.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:23-cs
+  :CITE-KEY: UPA:23-cs
   :END:
 
 
@@ -1236,7 +1236,7 @@ Bůh je věčně hrdý na člověka, protože ztělesňuje Boží Nesmrtelnost.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:24-cs
+  :CITE-KEY: UPA:24-cs
   :END:
 
 
@@ -1270,7 +1270,7 @@ Můj sladký návrat do mého věčného domova mi dá pocítit, jaké mám št�
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: None:25e2-cs
+  :CITE-KEY: UPA:25e2-cs
   :END:
 
 
@@ -1284,7 +1284,7 @@ Můj sladký návrat do mého věčného domova mi dá pocítit, jaké mám št�
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:25-cs
+  :CITE-KEY: UPA:25-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1318,7 +1318,7 @@ V našich modlitbách a poklonách přebývá Bůh -- osvěcující Spasitel.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:26-cs
+  :CITE-KEY: UPA:26-cs
   :END:
 
 
@@ -1346,7 +1346,7 @@ Komentář:
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:27-cs
+  :CITE-KEY: UPA:27-cs
   :END:
 
 
@@ -1379,7 +1379,7 @@ Blaženost bez Nekonečna je jako Stvořitel bez stvoření. Vskutku, i to je ne
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:28-cs
+  :CITE-KEY: UPA:28-cs
   :END:
 
 
@@ -1409,7 +1409,7 @@ Vnitřní slunce nám umožňuje spatřit to, čím věčně jsme: Nekonečným 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:29-cs
+  :CITE-KEY: UPA:29-cs
   :END:
 
 
@@ -1438,7 +1438,7 @@ Silný aspirant je Bůh ve své projevující realizaci.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:30-cs
+  :CITE-KEY: UPA:30-cs
   :END:
 
 
@@ -1470,7 +1470,7 @@ a odhalený Život vesmíru.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:31-cs
+  :CITE-KEY: UPA:31-cs
   :END:
 
 
@@ -1497,7 +1497,7 @@ Nevědomost je poznání fyzické mysli. Poznání je tajemstvím duše. Když f
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: None:32-cs
+  :CITE-KEY: UPA:32-cs
   :END:
 
 
@@ -1533,7 +1533,7 @@ Slyšet příznivé věci znamená vzývat Boha-Inspiraci a Boha--Aspiraci. Vid
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: None:33-cs
+  :CITE-KEY: UPA:33-cs
   :END:
 
 
