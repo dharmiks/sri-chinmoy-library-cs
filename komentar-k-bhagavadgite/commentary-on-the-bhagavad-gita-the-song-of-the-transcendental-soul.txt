@@ -1,0 +1,2011 @@
+#+TITLE: Komentář k Bhagavadgítě
+#+AUTHOR: Sri Chinmoy
+#+LANGUAGE: cs
+
+
+
+* Index
+
+  :PROPERTIES:
+  :BOOK-NUMBER: 
+  :AUTHOR: Sri Chinmoy
+  :ORIGINAL-EDITION: Nil
+  :YEAR: 2010
+  :PUBLISHER: Madal Bal
+  :CITE-KEY: CBG-cs
+  :GENRE: discourse
+  :KEYWORDS:
+  :END:
+
+
+
+* Část I
+
+  :PROPERTIES:
+  :GENRE: section
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+
+* Úvod
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Čtu Gítu, protože je Okem Boha. Zpívám Gítu, protože je Životem Boha. Žiji Gítu, protože je Duší Boha.
+
+Gíta je bezprostřední Boží Vizí. Gíta je přímou Boží Skutečností. 
+Říká se, že Gíta je hinduistická kniha, nanejvýš významný duchovní spis. Já říkám, že je to Světlo Božskosti v lidstvu. Říká se, že Gíta potřebuje představení. Já říkám, že Bůh chce být vskutku představen Gítou. 
+Ardžuna je stoupající lidská duše. Kršna je sestupující božská Duše. Nakonec se setkají. Lidská duše říká božské Duši: „Potřebuji Tě.“ Božská Duše říká lidské duši: „I já tě potřebuji. Potřebuji tě pro své sebeprojevení. Ty potřebuješ Mě pro své sebeuvědomění.“ Ardžuna říká: „Ó Kršno, jsi můj, jsi zcela můj.“ Kršna říká Ardžunovi: „Ó Ardžuno, ne můj, ne tvůj. Jsme naprostou jednotou, uvnitř i navenek.“
+Gíta je epizoda šesté knihy Mahábháraty. Mahábhárata znamená „Velká Indie“, „Vznešená Indie“. Tento jedinečný epos je šestkrát větší než Ilias a Odyssea dohromady. Mahábhárata je udivující ve své velikosti a ohromující ve svých myšlenkách. Hlavní příběh se točí kolem obrovského soupeření mezi dvěma stranami královských bratranců. Jablkem sváru je království zděděné po předcích. Toto soupeření nakonec končí velkou bitvou nazvanou bitva u Kurukšétry. 
+
+
+
+* Rodový strom
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Šántanu měl dvě manželky: Gangu a Satjavatí. Ze spojení Šántany a Gangy se narodil Bhíšma; ze spojení Šántany a Satjavatí zase Čitrangada a Vičitravírja. Manželky Vičitravírji se jmenovaly Ambika a Ambálika. Syn Ambiky a Vičitravírji se jmenoval Dhrtaráštra; syn Ambáliky a Vičitravírji se jmenoval Pándu. Sto synů Dhrtaráštry tvořilo stranu Kuruovců. Pět synů Pándua tvořilo stranu Pánduovců.
+
+Legitimním dědicem trůnu byl Judhišthira. Jeho otec, Pándu, panoval k nejvyšší spokojenosti svých poddaných řadu let. Nakonec se Pándu odebral na odpočinek do lesů. Na jeho místo měl nastoupit jeho nejstarší syn Judhišthira a ten tak obětavě a úspěšně učinil. Dhrtaráštra byl nevlastní starší bratr Pándua. Bůh mu odepřel zrak. Jeho náklonnost k jeho sto synům však kupodivu zaslepila také jeho srdce. Protože byl slepý, přirozeně nemohl trůn zdědit. Nejstarší syn Dhrtaráštry se jmenoval Durjódhana. Za ním stálo devadesát devět jeho bratrů. Za Judhišthirou, synem Pándua, stáli jen čtyři bratři.
+
+Judhišthira byl pýchou Pravdy. Durjódhana byl pýchou lži. Osvíceným srdcem pěti synů Pándua se usmíval Bůh. Neosvícenou myslí sta synů Dhrtaráštry se usmíval ďábel. Ďáblovi se také často podařilo obejmout jejich slepého otce.
+
+Slepý otec opakovaně žádal -- důrazně i mírně -- svého morálně, psychicky i duchovně slepého syna Durjódhanu, aby se nepouštěl do války. Ani Vidura, čisté srdce, Durjódhanův strýc, nedokázal osvítit jeho zatvrzelou hlavu. Nepodařilo se to ani rozvážnému otcovu vozatajovi Saňdžajovi. Ani nejstarší a nejmoudřejší Bhíšma neuspěl. Durjódhana měl pocit, že jeho vlastní chápání je lepší. Nakonec se nelítostné válce pokusil s nejvyšším nasazením zabránit Pán vesmíru, Sri Kršna. Avšak noc nevědomosti v Durjódhanovi se za žádnou cenu nechtěla poddat slunci poznání ve Sri Kršnovi.
+
+V Gítě je sedm set veršů. Přibližně šest set duši uchvacujících veršů pochází z božských rtů Pána Kršny, zbývající jsou od plačícího, aspirujícího Ardžuny, jasnozřivého a jasnovidného Saňdžaji a zvídavého Dhrtaráštry.
+
+Mudrc Vjása se zeptal Dhrtaráštry, zda si přeje vidět události bitvy, zda si přeje mít přímý obraz bitvy od jejího počátku až do konce. Mudrc byl více než ochotný dát slepému muži zrak. Dhrtaráštra však nechtěl, aby mu oči -- ty oči, které mu celý život nesloužily -- začaly sloužit právě v této hodině, tak hrozivě osudové pro jeho svědomí a život jeho království, zejména když se jeho vlastní synové řítili do záhuby. Mudrcovu štědrou a laskavou nabídku odmítl. Jeho srdce zoufale trpělo nebezpečím, které bezprostředně hrozilo jeho blízkým. Požádal však mudrce, aby tento dar poskytl někomu jinému, od nějž by potom o bitvě dostával věrné zprávy. Vjása souhlasil. Propůjčil zázračnou psychickou sílu vize Saňdžajovi, aby mohl pozorovat události odehrávající se v pozoruhodně velké vzdálenosti.
+
+Je Gíta pouhé slovo? Nikoli. Řeč? Ne. Pojetí? Ne. Druh koncentrace? Ne. Podoba meditace? Ne. Co je tedy? Je to Poznání. Gíta je Srdce Boha a dech člověka, Ujištění Boha a slib člověka.
+
+Zájem duše Gíty je inspirací hinduismu. Úsvit požehnání Gíty je aspirací hinduismu. Světlo soucitu Gíty je osvobozením hinduismu. Avšak prohlásit, že Gíta je výhradním monopolem hinduismu, je absurdní. Gíta je společným vlastnictvím lidstva.
+
+Západ říká, že může Východu nabídnout něco mimořádného: Nový Zákon. Východ tuto nabídku přijímá s nejhlubší vděčností a na oplátku nabízí svou největší pýchu, Bhagavadgítu.
+
+Gíta je jedinečná. Je to Písmo všech písem. Proč? Protože říká světu, že čistý cit a pravá oddanost mohou snadno běžet bok po boku s pevnou filozofií a dynamickým odpoutáním. 
+
+V Gítě je osmnáct kapitol. Každá kapitola odhaluje učení určitého druhu Jógy. Jóga je tajný jazyk člověka a Boha. Jóga znamená „jednota“ -- jednota konečného s Nekonečným, jednota tvaru s Beztvarým. Jóga odhaluje nejvyšší tajemství: člověk je zítřejší Bůh a Bůh je dnešní člověk. Jógu je nutné praktikovat pro dosažení Pravdy. Pokud tomu tak není, bude hledající velice zklamán. Stejně tak o realizaci Boha musí člověk usilovat kvůli Bohu. Jinak bude jeho nevyhnutelnou odměnou nevýslovné zklamání.
+
+Gíta vznikla v roce 600 před naším letopočtem. Autorství se připisuje mudrci Vedavjásovi. Gíta začíná svou pouť významnou otázkou Dhrtaráštry. Celý příběh Bhagavadgíty tvoří odpověď Saňdžaji na tuto jedinou Dhrtaráštrovu otázku. Sri Kršna hovořil mnoho -- vše božsky oduševněle. Ardžuna hovořil málo -- vše lidsky upřímně. Dhrtaráštra naslouchal. Saňdžaja byl božsky a lidsky jasnozřivý zpravodaj. Ve vzácných případech také přispěl svými vlastními hloubavými poznámkami.
+
+Sri Kršna byl pro Ardžunu příbuzenstvím těla, jednotou srdce a osvobozením duše. Jako Bůh osvítil Ardžunu absolutní Pravdou, jako laskavý člověk osvítil svého pozemského přítele relativními pravdami.
+Filozofové se pouští do žalostných sporů. Někteří se ptají, jak by se mohly takové filozofické rozpravy odehrávat těsně před vypuknutím války? Jak by to bylo možné? Jiní zase pevně zastávají názor, že tato významná rozmluva byla v té chvíli nejenom možná, ale také nevyhnutelná, protože to byla božsky vhodná příležitost k tomu, aby tento aspirující hinduista odhalil vnitřní význam války a žil podle příkazů své duše, namísto aby se držel chabého a neosvíceného poznání morálky.
+
+Gíta je ztělesněním véd. Je spontánní. Má zároveň zbožštělou i polidštěnou podobu. Je také nejčistším mlékem, nadojeným z vemen nanejvýš osvěcujících upanišad, aby nasytilo a nakrmilo lidskou duši. Gíta vyžaduje od člověka přijetí života a odhaluje způsob, jak dosáhnout vítězství vyššího Já nad nižším já duchovním uměním přeměny: fyzické, vitální, mentální, psychické a duchovní.
+
+Gíta ztělesňuje moudrost duše, lásku srdce, poznání mysli, dynamiku vitálna a čin těla.
+
+
+
+* Kapitola I: Smutek Ardžuny
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Gíta začíná slovy /Dharmakṣetre Kurukṣetre/ (Bhagavadgíta 1.1). „Na posvátném poli Kurukšétry“ -- tak zní doslovný překlad. /Kšétra/ znamená „pole“. /Dharma/ je duchovní slovo, mimořádně plodné co do významu. Znamená vnitřní zákon života, morální, náboženský a duchovní zákon; živoucí víru v Boží existenci a ve svou vlastní existenci; oduševnělou povinnost -- tento význam se používá zejména v duchovních spisech; posvátné rituály jakékoliv kasty nebo sekty; ochotu řídit se příkazy vlastní duše.
+
+Sanskrtský základ slova /dharma/ je /dhr/, „držet“. Kdo nás drží? Bůh. Co nás drží? Pravda. Dharma vítězí. A ne-li pokaždé, nakonec nutně musí, protože v dharmě je samotný Dech Boha.
+
+V předvečer války si šel Durjódhana pro požehnání ke své matce Gándhárí. Jaká matka, takový syn. Tato však byla skutečnou výjimkou. Požehnala Durjódhanu a řekla: „Vítězství bude tam, kde je dharma.“ To znamenalo, že válku by měl vyhrát Judhišthira, syn dharmy. Tak nesobecké srdce měla. A co víc: současný svět si všímá její jedinečné dharmy v nesrovnatelném přijetí osudu svého manžela. Bůh nedal Dhrtaráštrovi zrak. Gándhárí dokázala naprostou jednotu se svým slepým manželem tím, že si zavázala oči. Přijala slepotu -- taková oběť si zasluhuje, aby si ji lidstvo zapamatovalo a obdivovalo. Neviděla vnější svět. Vnitřní svět ji skrápěl vybranými požehnáními.
+
+/Dharmou/ našeho těla je služba, /dharmou/ naší mysli je osvícení, /dharmou/ našeho srdce je jednota a /dharmou/ naší duše je osvobození.
+Lidé mají sklon tvrdit, že /dharma/ znamená náboženství. Je-li tomu tak, potom kolik existuje náboženství? Jen jedno. Jistě ne dvě, nemluvě o třech. A co náboženství znamená? Znamená objevení člověka a objevení Boha, což je jedno a totéž.
+
+Věnujme nyní pozornost slovu /dharmakšétra/, „pole /dharmy/“. Proč je Kurukšétra nazývána „/dharmakšétrou/“? Bitevní pole může být všechno, jen ne /dharmakšétra/, tato bitva se však odehrála na Kurukšétře, kde bylo vykonáno velké množství náboženských obětí. A ještě něco. Kurukšétra se nachází mezi dvěma posvátnými řekami na severozápadě Indie -- mezi Jamunou a Saraswati. Řeka je věčně posvátná. Řeka v sobě nese vodu. Voda v duchovní oblasti znamená vědomí, a toto vědomí je neustále čisté, nezkalené, posvěcující a energizující. Nyní tedy chápeme, proč je Kurukšétra nazývána „/dharmakšétrou/“, a ne jinak.
+
+Považovat první kapitolu za úvod a věnovat jí jen malou pozornost, jak to dělají někteří učenci, překladatelé a čtenáři, nemusí být právě moudré. První kapitola má svůj vlastní zvláštní význam. Pojednává o Ardžunově smutku, o jeho vnitřním rozporu. Ubohý Ardžuna byl rozpolcen žalem mezi dvěma stejně závažnými myšlenkami: musí jít do války, či naopak do války jít nesmí? Ardžunova matka, Kuntí Déví, se překvapivě modlila ke Kršnovi, aby ji požehnal neustálým zármutkem. Proč? Kuntí Déví cítila, že kdyby ji zármutek zcela opustil, neměla by potřebu vzývat Sri Kršnu. Její svět chtěl neustále smutek, utrpení a trýzeň, aby její srdce mohlo stále opatrovat se vším soucítící Přítomnost Pána. Do jisté míry nám to může připomenout Keatsův „Endymion“:
+
+#+BEGIN_QUOTE
+
+Však vesele, vesele 
+[smutek] mě miluje vroucně;
+tak věrný mi je, tak laskavý.
+
+--. John Keats
+
+#+END_QUOTE
+
+Z nejvyššího duchovního pohledu ve skutečnosti nemůžeme moudrost Kuntí Déví přijmout. Přesto jí ale velmi účinně posloužila. Duchovní člověk nesmí přijímat smutek s nadějí, že dosáhne Božích Darů. Musí aspirovat. Jeho aspirace musí odhalit Boží Přítomnost uvnitř něj -- Boží Lásku, Mír, Blaženost a Sílu. Smutek bere ve svém životě jako zkušenost. Ví také, že je to Bůh, kdo v něm a jeho prostřednictvím získává tuto zkušenost.
+Je pravda, že smutek očišťuje naše emocionálně založené srdce. Božské Světlo však vykonává tento úkol nekonečně úspěšněji. Přesto se člověk nesmí obávat příchodu smutku do svého života. Vůbec ne. Smutek musí být přeměněn na trvalou radost. Jak? Spojením stoupající aspirace našeho srdce a Božího neustále plynoucího Soucitu. Proč? Protože Bůh je veškerou Radostí a my lidé chceme Boha vidět, cítit, realizovat a nakonec se stát Bohem, samotnou Blažeností.
+
+Na obou stranách lze nyní vidět hlavní bojovníky. Někteří dychtí po boji, aby mohli předvést svou ohromnou udatnost, kdežto jiní nedostižní bojovníci jako Bhíšma, Dróna a Kripa budou bojovat z morální povinnosti. Na samotném bitevním poli, těsně před vypuknutím bitvy, přešel Judhišthira bos k armádě protivníka jen proto, aby se mu dostalo požehnání od Bhíšmy, Dróny a dalších dobrých přátel. Bhíšma požehnal Judhišthiru z nejhlubších zákoutí svého srdce a řekl: „Synu, mé tělo bude bojovat, avšak mé srdce bude s tebou a s tvými bratry. Tobě je souzeno vítězství.“ Dróna požehnal Judhišthiru a zvolal: „Jsem obětí povinnosti. Budu bojovat za Kuruovce, to je pravda. Ale vítězství bude vaše. Tak zní ujištění mého bráhmanského srdce.“
+
+Po požehnání se Judhišthira vrátil. Naplno zaznělo bezpočet trumpet, mušlí, válečných bubnů a trubek. Sloni troubili, koně ržáli. Rozpoutala se divoká vřava.
+
+Šípy létaly vzduchem jako meteory. Sladká, stará náklonnost byla zapomenuta. Pokrevní pouta byla rozbita. Smrt zpívala svou píseň. Zde si můžeme připomenout Tennysonův „Útok lehké kavalerie“:
+
+
+#+BEGIN_QUOTE
+
+Dělo napravo,
+dělo nalevo,
+dělo před nimi
+	pálilo a hřmělo.
+Bouřily granáty a střely.
+Statečně a udatně
+do chřtánu Smrti,
+do tlamy pekla
+	jelo těch šest set.
+
+--.Alfred Tennyson
+
+#+END_QUOTE
+
+Děla v době Mahábháraty ještě nebyla vynalezena, ale scéna smrti byla stejná -- se šípy, meči, palicemi a oštěpy. Je zbytečné připomínat, že se musíme ztotožnit se šípy, palicemi a řvoucími lvy hrdinů Kurukšétry, a ne s dnešními ohromnými válečnými vymoženostmi. Radost z poznání hrdinských činů daleké minulosti je neodolatelná a nezměrná.
+
+Ardžuna zvolal: „Prosím, ó Kršno, zajeď s mým vozem mezi obě vojska, abych spatřil ty, kteří prahnou po válce.“ (1.21-22) Prohlédl si bitevní scénu. Běda, mezi smrtelnými protivníky spatřil právě ty lidské duše, které mu vždy byly drahé a blízké. Zdrcený chmurným žalem, Ardžuna dal poprvé ve svém životě jedinečného hrdinství průchod nemyslitelné malomyslnosti. „Mé tělo se třese, má ústa jsou vyprahlá, mé končetiny umdlévají, celého mě mučí strach, vlasy se mi ježí, luk mi klouže z ruky a moje mysl vrávorá. I stát je pro mě těžké. Neusiluji o vítězství nad nimi, nad svými současnými nepřáteli, Kršno. Byli to moji blízcí. A stále jsou. Neusiluji ani o království, ani o pohodlí. Ať zaútočí; chtějí to a také to udělají. Ale já proti nim nepozvednu zbraň, ani pro nejvyšší vládu nad třemi světy, natož pak kvůli vládě nad zemí!“ (1.29-35)
+
+Ardžuna útočil na Sri Kršnu jednou morální zbraní za druhou. Byl odhodlán úplně složit své válečné zbraně. Postavil svou filozofii na správném tušení masakru svých příbuzných, na strašném neštěstí rodinné zkázy. Zdůraznil, že se ztrátou ctnosti by jeho rodina upadla do sevření neřesti. To všechno by se stalo díky bezpráví. Když převládne bezpráví, ženy se v rodinách zkazí a se zkaženými ženami začíná mísení kast.
+Pár slov o mísení kast. Indie je stále nemilosrdně zesměšňována kvůli svému lpění na kastovním systému. Kasty jsou ve skutečnosti jednotou v rozmanitosti. Každá kasta je jako úd jednoho těla. Kasty jsou čtyři: bráhmani (kněží), kšatrijové (bojovníci), vaišjové (rolníci) a šúdrové (dělníci). Původ kast nalezneme ve védách. Bráhman představuje ústa Puruši, zosobněného Nejvyššího; kšatrija představuje Jeho dvě paže; vaišja Jeho dvě stehna a šúdra Jeho dvě nohy.
+
+Ardžuna také v souvislosti se zkázou kast řekl Pánu Kršnovi, že to vše vede k nebezpečnému hříchu. Bohužel se zdá, že slovo „hřích“ se v západním světě objevuje na každém kroku. Je to něco horšího než zatracení. Prosím za prominutí, ale pro západního člověka je hřích nedílnou součástí života. Na Východě, a zejména v Indii, nabízí slovo „hřích“ jiný význam. Znamená nedokonalost, nic víc a nic míň. Lidské vědomí postupuje od nedokonalosti k dokonalosti. Upanišadští zřeci nepovažovali hřích za důležitý. Učili svět klidu, posvátnosti, čestnosti a božskosti člověka.
+
+Vraťme se k nebohému Ardžunovi, který řekl: „Nechť ozbrojení synové Dhrtaráštry ukončí můj život, já nebudu ozbrojen a nebudu klást odpor. Dávám ve vší upřímnosti přednost smrti před vítězstvím!“ (1.46)
+
+Hle, Ardžuna, největší hrdina! Odhodil luk a šípy a smutně, sklíčeně a oduševněle klesl na sedadlo svého vozu.
+
+„Boj není pro Ardžunu. Kršno, nebudu bojovat.“ (srov. 2.9)
+
+
+
+* Kapitola II: Poznání
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Tato kapitola má název „Sánkhja Jóga -- Jóga Poznání. Ardžunovy důvody proti válce jsou pro naše lidské chápání zcela přijatelné. Sri Kršna viděl do Ardžunova srdce. Ardžunovu mysl ovládl divoký zmatek. Nemužný sentiment ve své kšatrijské krvi považoval za lásku k lidstvu. Ardžuna nikdy netrpěl nedostatkem upřímnosti. Jeho ústa říkala to, co cítilo jeho srdce. Jeho upřímnost však naneštěstí obsahovala nevědomost. Kršna chtěl Ardžunu osvítit. „Ach Ardžuno, ve své řeči jsi filozofem, v činech však nikoli. Skutečný filozof se nermoutí ani pro živé, ani pro mrtvé. Ty jsi však, Ardžuno, ponořen do zármutku a žalu. Řekni mi, proč truchlíš nad budoucí smrtí těchto mužů? Ty jsi existoval, já jsem existoval, oni také. Nikdy existovat nepřestaneme.“ (2.11-12)
+
+Právě jsme se zmínili o Ardžunově filozofii. Po pravdě řečeno, v takové situaci bychom si počínali stejně. Je opravdu obtížné studovat skutečnou filozofii, ještě obtížnější je naučit se ji a nejobtížnější je ji žít.
+
+Sanskrtské slovo pro filozofii zní daršana, což znamená „vidět, předvídat“. Sri RámaKršna významně poznamenává: „V minulosti lidé mívali vize (daršana), nyní lidé daršana (filozofii) studují!“
+
+Stejně významné je poselství Starého zákona: „Vaši starci budou snít sny; vaši mladí spatří vize.“
+
+Ardžuna se poprvé od Sri Kršny dozvěděl, že jeho lidské přesvědčení o životě a smrti nebylo založeno na pravdě. Pocítil, že se zneklidňoval iluzemi. Modlil se ke Sri Kršnovi pro osvícení: „Jsem tvůj pokorný žák. Vyučuj mě. Řekni mi, co je pro mě nejlepší.“ (2.7) Tehdy Ardžuna poprvé vyslovil slovo „žák“.
+
+Do té doby byl Sri Kršna pro Ardžunu přítelem a druhem. Žák se naučil: „Skutečnost, která prostupuje vesmírem, je nesmrtelný Život. Tělo je pomíjivé; duše, to skutečné v člověku či skutečný člověk, je věčná, nesmrtelná. Duše ani nezabíjí, ani ji nelze zabít. Duše je stálá a věčná, stojí mimo zrození a smrt. Člověk, který poznal tuto pravdu, nezabije ani nezpůsobí krveprolití.“ (2.17-21)
+
+Ardžuna musel bojovat v bitvě života, a ne v takzvané bitvě u Kurukšétry. Sílu měl. Potřeboval moudrost. Měl šero vědomí fyzické mysli. Potřeboval vědomí božskosti duše, jasné jako slunce. 
+
+Sri Kršna používal slova „zrození“, „život“ a „smrt“.
+* Zrození
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Zrození je evoluční přechod duše z nižšího těla do vyššího; je to putování duše po cestě reinkarnace. Systém sánkhja ujišťuje o naprosté totožnosti příčiny a následku. Příčina je tiše a tajně existující následek a následek je aktivně a otevřeně rozvinutá příčina. Evoluce podle filozofie sánkhja nikdy nemůže vzniknout z ničeho, nemůže vzniknout z nuly. Objevení se něčeho v přítomnosti může být způsobeno jedině existencí něčeho v minulosti. Nechme do své mysli vstoupit nesmrtelný výrok Wordswortha z jeho „Předtuchy nesmrtelnosti“:
+
+
+#+BEGIN_QUOTE
+
+Náš zrod není než spánek a zapomnění.
+Duše, která s námi povstává, 
+Hvězda našeho života,
+někde jinde již zapadla
+a přichází zdaleka:
+ne v úplném zapomnění
+a ne zcela nazí,
+ale s vlečkou oblak slávy 
+pocházíme od Boha, 
+jenž je naším domovem.
+
+-- William Wordsworth
+
+#+END_QUOTE
+
+Zde nás básník uvádí do tajemství věčné pouti duše a připomíná nám věčný Zdroj.
+
+
+
+* Život
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Zde nás básník uvádí do tajemství věčné pouti duše a připomíná nám věčný Zdroj.
+
+Co je to život? Je to jediná příležitost duše projevit a naplnit to Božské zde na zemi. Když život začíná svou pouť, potřásá si s ním rukou Nekonečnost. V polovině cesty si s ním potřásá rukou Věčnost. Na konci cesty si s ním potřásá rukou Nesmrtelnost. Když život žije v duchovnosti, žije životem dokonalosti. Pokud žije v duchovnosti, v Dechu Boha, stojí vysoko nad příkazy morálky a požadavky povinnosti. 
+
+Bůh říká lidskému životu: „Povstaň, probuď se, aspiruj! Cíl je tvůj.“ Lidský život odpovídá Bohu: „Počkej, já odpočívám. Spím. Sním.“ Náhle se život zastydí za svoje chování. S pláčem říká: „Otče, já kráčím.“ S rozechvěním říká: „Už přicházím.“ S úsměvem říká: „Otče, přišel jsem.“
+
+Život, neboli problém, dokáže vyřešit duše, neboli řešení; k tomu ale musí být člověk nejprve probuzen zevnitř.
+
+
+
+* Smrt
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Ten, kdo žije vnitřním životem, ví, že smrt je vskutku jen místem jeho odpočinku. Smrt pro něj není vyhasnutím. Je to důležitý odchod. Až bude naše vědomí božsky přeměněno, nebude smrt vůbec zapotřebí. K přeměně života potřebujeme mír, světlo, blaženost a sílu. Pláčeme pro tyto božské vlastnosti. Ony pláčí po naší aspiraci. Zároveň nám touží dát věčný život. Avšak dokud naše tělo, vitálno, mysl, srdce a duše nebudou aspirovat společně, božská síla, světlo, blaženost a mír nás nebudou moci vlastnit. 
+Tělo umírá, ne však duše. Tělo spí, duše létá. Připomeňme si slova o smrti a duši z této kapitoly Gíty, slova, která rozechvívají duši: „Tak jako člověk odkládá staré šaty a bere si nové, tak také obyvatel těla, duše, opouští obnošené tělo a vstupuje do nového. Duše se stěhuje z těla do těla. Zbraně ji nemohou probodnout, oheň ji nemůže strávit, voda ji nemůže zmáčet a vítr ji nemůže vysušit.“ (2.22-23) Taková je duše a to je myšleno existencí duše.
+Nyní nám významnými slovy poradí Sri Aurobindo, zakladatel Integrální jógy, jak máme vnímat existenci smrti, je-li vůbec nějaká. „Smrt,“ prohlašuje, „neexistuje sama o sobě. Je to jen výsledek principu rozkladu v těle a tento princip už tady je -- je to součást fyzické přírody. Smrt však zároveň není nevyhnutelná; kdyby člověk dokázal mít nezbytné vědomí a sílu, rozklad a smrt by nebyly nevyhnutelné.“ 
+To, co nazýváme smrtí, není nic jiného než nevědomost. Problém smrti můžeme vyřešit jedině tehdy, když víme, co je život. Život je věčný. Existoval před narozením a bude existovat po smrti. Život také existuje mezi zrozením a smrtí. Přesahuje zrození i smrt. Život je nekonečný. Život je nesmrtelný. Hledající nekonečné Pravdy se nemůže podepsat pod Schopenhauerův výrok:
+
+
+#+BEGIN_QUOTE
+
+Toužit po nesmrtelnosti znamená toužit po věčném opakování velkého omylu.
+
+-- Arthur Schopenhauer
+
+#+END_QUOTE
+
+
+Není ani stín pochyby o tom, že je to ustavičný hledající v člověku, jenž je životem Nesmrtelnosti, neboť už jeho samotná existence naznačuje Vizi Nejvyššího, která osvěcuje vesmír, a Skutečnost Nejvyššího, která naplňuje stvoření. 
+Žák Ardžuna se dále naučil: „Konej svou povinnost. Neváhej. Nebuď bázlivý. Jsi kšatrija. Pro kšatriju nemůže být větší výzva než spravedlivá válka.“ (2.31)
+Povinnost kšatriji (bojovníka) nemůže být nikdy stejná jako povinnost askety. Stejně tak by asketa neměl plnit povinnost kšatriji. kšatrija rovněž nesmí jít cestou zříkání se světa. Napodobování není pro hledajícího. „Napodobování je sebevražda,“ učí nás Emerson.
+Povinností bojovníka je bojovat, bojovat za nastolení Pravdy. „V jeho vítězství mu bude patřit celá země. V jeho smrti ho přivítají brány Ráje.“ (2.37)
+Sri Kršna vyjevil Ardžunovi cestu sánkhja (poznání): „Ardžuno, považuj vítězství a porážku, radost a smutek, zisk a ztrátu za totéž. Nestarej se o ně. Bojuj! Takovým bojem se nijak neprohřešíš.“ (2.38)
+Učitel odhalil cestu poznání (sánkhja). Nyní chtěl žáka naučit cestě činu (karma józe). Ardžuna s překvapením zjistil, že tato cesta, cesta činu, druhá cesta, je plodná a že i ona mu přinese vysvobození. Vznešená pravda zní: „Tvým rodným právem je čin, nikoli jeho výsledek, jeho plody. Tvým cílem nechť nejsou plody činu a nebuď připoután ani k nečinnosti. Buď aktivní a dynamický; neusiluj o žádnou odměnu.“ (2.47) Zároveň můžeme zažehnout plamen svého vědomí naukou Íša upanišady: „Čin nelpí na člověku.“ (Íšopanišad 2)
+Použili jsme slovo „jóga“. Co je jóga? „Jóga,“ říká Sri Kršna, „je vyrovnanost.“ (2.48) Říká také: „Jóga je pohotová moudrost v činu.“ (2.50)
+Ardžunův vnitřní pokrok je překvapující. Nyní cítí potřebu vysvobodit se ze života touhy. Sri Kršna jej učí, jak se může naprosto odpoutat od života spoutaného smysly, tak jako to dělá želva, která dovede vtáhnout své končetiny do krunýře. Odpoutání od smyslů nebo odpoutání od smyslových objektů nijak nenaznačuje konec cesty. „Pouhé odpoutání nemůže ukončit zrod touhy. Touha zmizí jedině tehdy, objeví-li se Nejvyšší. Teprve v Jeho Přítomnosti zmizí život touhy, ne dříve.“ (2.59)
+Druhá kapitola vrhá zásadní světlo na sánkhja (poznání) a jógu (čin). Sánkhja a jóga se nikdy nedostanou do sporu. První znamená odpoutané meditativní poznání a druhé znamená zasvěcenou a obětavou činnost. Mají stejný cíl. K dosažení cíle jen používají různých cest. 
+Vraťme se však ke smyslovému životu. Život smyslů se nemá ukončovat. Je potřeba ho žít v Božském, pro Božské. Nezbytné je vnitřní odpoutání, nikoli vnější odpoutání. To zvířecí v člověku se musí pro svou naprostou přeměnu podřídit Božskému v člověku. Život zvířecího potěšení musí ztratit svůj živý a palčivý dech ve všenaplňujícím životě božské blaženosti. 
+Katha upanišada nám ukazuje příčky neustále stoupajícího žebříku:
+
+#+BEGIN_QUOTE
+
+Výše než smysly jsou objekty smyslů,
+výše než objekty smyslů je mysl,
+výše než mysl je rozum,
+výše než rozum je Já,
+výše než Já je Neprojevené,
+výše než Neprojevené je 
+zosobněný Nejvyšší,
+nejvýše je tento Nejvyšší,
+Nejzazší Cíl.
+
+-- Kathópanišad 1.3.10-11
+
+#+END_QUOTE
+
+Viděli jsme, co se stane, když stoupáme vzhůru. Podívejme se, co se stane, když uvažujeme o objektech smyslů. Gíta nám říká: „Zaobírat se objekty smyslů plodí připoutání; připoutání plodí touhu. Z touhy (nenaplněné) vzniká život hněvu. Z hněvu pochází klam, z klamu ztráta paměti. Při ztrátě paměti mizí uvažující moudrost. Kde není moudrost, je zkáza uvnitř, navenek, dole i nahoře.“ (2.62-63)
+
+Tanec zkázy skončil. Prahněme po spáse. Jen ukázněný, ovládající se aspirant bude požehnán záplavou míru. Nakonec jej obejme spása, vnitřní osvícení.
+
+
+* Kapitola III: Čin
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Díky našemu ztotožnění s Ardžunovým srdcem máme na začátku třetí kapitoly pocit, že jsme vhozeni do světa nelítostného zmatku a nezměrné pochybnosti. Ardžuna chce okamžitou úlevu od svého duševního napětí; chce slyšet přesvědčivou pravdu. Netrpělivost mu brání, aby viděl úplnou Pravdu ve všech jejích aspektech. V předchozí kapitole Sri Kršna, jeho božský Učitel, vyjádřil svůj hluboký obdiv k cestě poznání, ale zároveň mu řekl o velké nezbytnosti činu. Není třeba říkat, že Učitel nechtěl ani v nejmenším vrhnout svého žáka do moře zmatku. Vůbec ne. To, co Ardžuna potřeboval, bylo širší vidění Pravdy a hlubší smysl Skutečnosti. Díváme-li se Ardžunovýma očima, vidíme, že jeho svět je svět rozporných představ. Když se ale díváme očima Sri Kršny, vidíme svět vzájemně se doplňujících aspektů všeudržující a všeprostupující Pravdy.
+
+Jak Ardžuna věřil, poznání a čin ho měly dovést ke stejnému cíli. Proč je mu potom souzeno či se od něj očekává, aby se z nutnosti činu brodil krveprolitím války?
+
+Je pravda, že obloha Ardžunovy mysli byla zahalena těžkými mraky, jeho duševní obloha však prahla po pravém osvícení. Vyslovuje zásadní otázku: „Jestliže stavíš poznání nad čin, proč mě nutíš k tak hroznému skutku?“ (3.1)
+
+Sri Kršna na to odpovídá: „Jak už jsem ti řekl, existují dvě cesty, Ardžuno -- cesta poznání a cesta činu. Pomocí božského umění kontemplace kráčí aspirant po cestě poznání. Pomocí dynamického nabízení nezištné práce kráčí hledající po cestě činu.“ (3.3)
+
+Poznání cítí, že skutečný je svět uvnitř. Čin cítí, že skutečný je svět vně. Cesta poznání vstupuje zvnějšku do nitra, kdežto cesta činu vychází z nitra ven. V tom spočívá rozdíl. Tato zdánlivá dualita ale nemůže být nikdy celou pravdou, nejvyšší Pravdou.
+
+Jedno arabské přísloví praví:
+
+
+#+BEGIN_VERSE
+
+Ten, kdo nic neví a neví, že nic neví: 
+	to je hlupák -- tomu se vyhýbej.
+Ten, kdo nic neví a ví, že nic neví: 
+	to je prostý člověk -- toho vyučuj.
+Ten, kdo ví a neví, že ví: 
+	to je spící člověk -- toho probuď.
+Ten, kdo ví a ví, že ví: 
+	to je moudrý člověk -- toho následuj.
+
+#+END_VERSE
+
+
+Také Ardžuna musel projít těmito čtyřmi stupni vývoje. Na konci první kapitoly zvolal: „Ó Kršno, nebudu bojovat.“ (2.9) Nevěděl, co je to Pravda, a ještě si této skutečnosti nebyl vědom. ­Kršna, zosobnění veškerého Soucitu, se nemohl od svého nejdražšího Ardžuny odvrátit.
+„Snažně prosím, řekni mi, co je pro mě nejlepší.“ (2.7) Ardžunova prostá upřímnost se dotkla hloubek srdce Sri Kršny a Učitel začal aspiranta učit.
+
+Ardžuna věděl celý svůj život, že hrdinství je samotným dechem kšatriji, jako je on, ale jeho mysl dočasně zastínila toto vnitřní poznání. Ocitl se ve světě klamného spánku. Sri Kršna jej tedy musel probudit slovy: „Ardžuno, bojuj! Zvítězíš-li, budeš se těšit z vlády nad zemí. Zemřeš-li, zeširoka jsou ti otevřeny brány Ráje.“ (2.37)
+
+Nakonec si Ardžuna uvědomil, že Sri Kršna nejenom zná Pravdu, ale že také je Pravdou. Chtěl tedy Sri Kršnu následovat. Zvolal: „Śaraṇāgataḥ -- Ty jsi mé útočiště. Čekám na Tvé Rozkazy.“
+
+Kršna říká, že ten, kdo kráčí po cestě činu, je od přírody prostý. Je prostý, jeho jednání je přímé, výsledek je bezprostřední. Ardžuna se však chtěl osvobodit od činu, což je zhola nemožné. Čin nevykonává jenom tělo, ale také mysl prostřednictvím těla. Čin hraje svou roli i na vědomých a podvědomých úrovních. Čin nemůže zemřít. Nikdy nemůže snít o úniku, dokud jsou naživu podněty přirozenosti. Čin nás svazuje pouze tehdy, když my svazujeme čin tím, zda se nám líbí, nebo nelíbí. Strom činu roste uvnitř nás a má buď jedovaté plody, nebo rajské plody. 
+
+Podle Šankary může člověk zpochybňovat Boží existenci, ale nemůže zpochybnit svou vlastní existenci. Lidská bytost se zdravým rozumem věří ve svou současnou existenci. Má-li zájem pokročit o krok dál, musí přijmout nepopiratelnou existenci osudu. A co je osud? Osud je vyvíjející se zkušenost lidského vědomí. Tato zkušenost není ani temná, ani pochybná. Je to nezbytná nevyhnutelnost kosmického zákona usilující o vlastní projevení v dokonalé Dokonalosti.
+
+Akce a reakce tvoří rub a líc téže mince. Občas budí dojem, že jsou to dva strašliví nepřátelé. Přesto však nelze popřít jejich stejné schopnosti. Syn Boží pronesl vznešená slova: „Všichni, kdo se chápou meče, mečem sejdou.“ (Matouš 26:52)
+
+Čin sám o sobě nemá sílu svazovat; ani takovou sílu nepotřebuje. Je to touha uvnitř činu, která má sílu nás spoutat a která nám říká, že svoboda není pro smrtelníky. Je-li však v činu skryta oběť nebo je-li vykonán v duchu oběti či je-li čin jiným jménem pro oběť, potom tento čin představuje dokonalost, osvícení a osvobození.
+
+Pro vtěleného člověka je čin nutností, nezbytností. Člověk je výsledkem božské oběti. Právě oběť může zřít pravdu a naplnit lidské bytí. Jedině v oběti vidíme spojovací a naplňující článek mezi dvěma jednotlivci. Není pochyb o tom, že svět se vyvíjí a dělá pokrok. Přesto je oběť na Západě často považována za synonymum hlouposti a nevědomosti. Citujme Williama Q. Judge, jednoho z předních raných teozofů:
+
+#+BEGIN_QUOTE
+
+Přestože Mojžíš pro Židy zavedl oběti, křesťanští nástupci s podivnou vrtošivostí zrušili jak jejich princip, tak i oběti samotné, což jim dovolilo ignorovat Ježíšova slova: „Ani tečka či název tohoto zákona neprojde, dokud nebudou naplněny všechny tyto věci.“ 
+
+-- William Q. Judge 
+
+#+END_QUOTE
+
+Můžete si být jisti, že ani dnešní Východ netvoří výjimku.
+Co je oběť? Je to objevení univerzální jednoty. V Rgvédě jsme svědky vrcholné oběti mudrce Brihaspatiho:
+
+Devebhyaḥ kam āvṛṇīta mṛtyuṃ…
+
+(Rgvéda X.13.4)
+
+Aby potěšil bohy, zvolil si smrt. Nezvolil si nesmrtelnost pro potěchu člověka. 
+
+Oběť je tajemstvím sebedávající služby. U některých lidí naivní mysli to byl ale strach nebo nějaká jiná pochybná pohnutka, která je přiměla činit oběti. Domnívali se, že pokud neobětují zvířata, z očí kosmických bohů vyšlehne oheň. Byli alespoň natolik moudří, že neobětovali děti, své nejbližší a nejdražší. Nejvyšší chtěl, chce a vždy bude chtít oběti jak od lidských bytostí, tak i od bohů, pro jejich oboustranný prospěch. Právě vzájemná oběť dělá z obou stran jedinou a nedělitelnou součást. Lidé budou nabízet svou aspiraci a bohové budou nabízet své osvícení. Člověk pravého uspokojení je člověk zasvěceného nabízení. Hřích nedokáže být nikde poblíž něj. Nejprve je nutné věnovat pozornost existenci lidstva jako celku, a teprve potom existenci jednotlivce. Práce vykonaná v duchu nejčistšího nabízení vede aspiranta k příbytku dokonalé blaženosti.
+
+Dokud v nás dýchá ego, nedává nám vlastnictví uspokojení. Velký král Džanaka to věděl. Žádný div, že jej měl mudrc Jádžňavalkja nejraději. Jeho bráhmanští žáci měli pocit, že Guru má Džanaku nejraději jen proto, že je králem. Bůh samozřejmě ­mudrci Jádžňavalkjovi nedovolil, aby strpěl tak hloupou kritiku. Co se stalo? Hlavní město Džanakova království, Mithila, vzplálo vysokými, nenasytnými plameny. Žáci utekli od učitele do svých domků. Proč? Aby zachránili své bederní roušky. Všichni kromě Džanaky utekli. Ten nedbal o své bohatství a poklady hořící ve městě. Džanaka zůstal s Guruem Jádžňavalkjou a naslouchal jeho rajské promluvě.
+
+Mithilāyām pradagdhāyāṃ na me kiñcit praṇaśyati… 
+
+I když může být Mithila sežehnuta na popel, nic neztrácím.
+
+Tehdy žáci pochopili, proč si jejich Guru Džanaku oblíbil nejvíce. Takový je rozdíl mezi člověkem moudrosti a člověkem nevědomosti. Nevědomý člověk ví, že to, co má, je tělo. Moudrý člověk ví, že to, čím je, a to, co má, je duše. Proto jsou pro něho potřeby duše nejdůležitější.
+
+Sri Kršna odhalil Ardžunovi tajemství Džanakova dosažení seberealizace a spásy. Džanaka jednal odpoutaně. Zaplaven světlem a moudrostí Božskosti jednal ve prospěch lidstva. To je vskutku cesta vznešených. Kršna chtěl, aby Ardžuna kráčel po této cestě, tak aby ho svět mohl následovat. Ardžuna o tom patrně nebyl zcela přesvědčen. Aby jej zcela a bezvýhradně přesvědčil, dal mu Kršna za příklad sebe sama: „Není nic, co bych musel v těchto třech světech vykonat, neexistuje nic, co by stálo za dosažení a čeho bych již nedosáhl, a přesto neustále pracuji, mé bytí neustále koná. Nebudu-li konat, svět zahyne.“ (3.22-24)
+
+Sri Kršna chtěl, aby se Ardžuna vysvobodil z pout nevědomosti. Jediným způsobem, jak to mohl Ardžuna dokázat, bylo jednat bez připoutání. Sri Kršna prozradil Ardžunovi nejvyšší tajemství: „Zasvěť Mi veškeré své skutky, s myslí upřenou na Mě, na Mé Já ve všem.“ (3.30)
+
+Všechny bytosti se musí chovat podle své přirozenosti. Není a ani nemůže být úniku. Co dokáže sebeovládání? Povinnost člověka je jedinečným požehnáním Nebe. Člověk musí vědět, co je jeho povinností. Jakmile ji zná, má ji také vykonávat až do posledního dechu. 
+
+
+#+BEGIN_QUOTE
+
+Spala jsem a snila, že život je Krása.
+Procitla jsem a poznala, že život je Služba.
+
+ -- Ellen S. Hooper: „Služba“
+
+#+END_QUOTE
+
+
+Jedině životní služba, vykonaná spontánním proudem sebenabízení lidstvu pod zvláštním vedením vnitřní bytosti, může přeměnit život na krásu, na nebeskou Krásu vnitřního světa a pozemskou krásu vnějšího světa.
+
+Ardžunovou úlohou bylo bojovat, protože byl kšatrija, bojovník. Nebyl to boj o moc, ale boj o vítězství pravdy nad nepravdou. Nesmírně povzbuzující a inspirující slova Sri Kršny o individuální úloze člověka vyvolávají náš vrcholný obdiv: „Lepší je naše vlastní úloha, třebaže skromná, než úloha někoho jiného, jakkoliv svůdná. I smrt přináší při vykonávání vlastní úlohy samotnou blaženost; odsouzen k zániku bude ten, jenž vykonává úlohu danou někomu jinému.“ (3.35)
+
+Ardžuna má teď ještě jednu velmi příhodnou otázku, která tuto kapitolu uzavírá: „Ó Kršno, co pobízí člověka ke spáchání hříchu, aniž sám chce?“ (3.36) Kršna odpovídá: „Káma, kródha,“ „Touha a hněv -- to jsou dva nepřátelé člověka.“ (3.37)
+
+Touha je neukojitelná. Jakmile se zrodí, neví, jak zemřít. Plně osvětlit nás může zkušenost, kterou měl s touhou král Jajati. Připomeňme si jeho pozoruhodný zážitek. Král Jajati byl slavný předek Pánduovců. Porážka pro něj byla něčím zcela neznámým. Znal dobře šástry (písma). Jeho láska k poddaným v jeho říši byla nezměrná. Jeho oddanost Bohu byla hluboká. Přesto však měl krutý osud. Šukračárja, jeho tchán, učitel asurů (démonů), nad ním vyslovil osudovou kletbu a on byl přinucen vzít si za ženu kromě dcery Šukračárji, Devajání, ještě Šarmišthá. Šukračárja proklel Jajatiho předčasným stářím. Netřeba dodávat, že kletba měla okamžitý účinek. Nenapodobitelná pýcha mužnosti krále Jajatiho byla nemilosrdně postižena stářím. Zbytečně volal král po odpuštění. Šukračárja se tím však trochu uklidnil. „Králi,“ řekl Šukračárja, „zmenším sílu své kletby. Pokud se najde nějaká lidská bytost, která bude souhlasit s tím, že vymění krásu a chloubu svého mládí za žalostný stav tvého těla, získáš zpět své původní mládí.“ 
+
+Jajati měl pět synů. Prosil je, nabízel jim svůj trůn, přesvědčoval je všemi možnými způsoby, aby si s ním vyměnili život. První čtyři synové jemně a opatrně odmítli. Nejmladší, nejoddanější Puru rád přijal otcovo stáří. A hle, Jajati okamžitě získal své dřívější mládí. Do jeho těla ihned vstoupila touha a přiměla jej, aby si užíval života do poslední kapky. Zoufale se zamiloval do apsáry (nymfy) a strávil s ní mnoho let. Avšak běda, jeho nevázanost nemohla uhasit neukojitelnou touhu. Nikdy.
+
+Konečně si uvědomil pravdu. Zjihle řekl Puruovi, svému nejdražšímu synovi: „Synu, ó můj synu, uhasit touhu smyslů je nemožné. Rozkoš ji nikdy nemůže uhasit, stejně jako oheň nelze uhasit pomocí ghí (přepuštěného másla). Vracím ti tvé mládí. Dávám ti i své království, jak jsem slíbil. Panuj oddaně a moudře.“ Jajati znovu zestárl. Puru opět omládl a vládl království. Jajati strávil zbytek svého života v lese, kde vedl asketický život. Zde také v pravý čas vydechl naposledy. Pták duše odletěl zpátky do svého příbytku Blaženosti.
+
+Ke slávě této zkušenosti krále Jajatiho můžeme ještě přidat citaci příhodné poznámky Bernarda Shawa o touze: 
+
+#+BEGIN_QUOTE
+
+V životě existují dvě tragédie. Jednou je nenaplnění touhy našeho srdce. Tou druhou je její naplnění.
+
+-- George Bernard Shaw „Člověk a Nadčlověk“
+
+#+END_QUOTE
+
+Role touhy skončila. Ponořme se nyní do zběsilosti hněvu. Z nenaplněné touhy se rodí hněv. Hněv je splašený slon uvnitř člověka. Většina slavných indických mudrců dávné minulosti považovala  k našemu velkému údivu -- za téměř nemožné hněv porazit. Neustále proklínali lidské bytosti, občas dokonce bez důvodu. Seznam mudrců úspěšně zničených hněvem završuje Durvása z Mahábháraty. Ztělesňoval zároveň prostotu i hněv.
+
+Je-li touha uspokojena, ze života se stává lůžko z trní. Je-li touha poražena, ze života se stává lůžko z růží. Je-li touha přeměněna na aspiraci, život létá v nejvyšším osvobození a hoduje s nejvyšší spásou.
+
+
+
+* Kapitola IV: Poznání, čin a oběť 
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Ve druhé a třetí kapitole Gíty požehnal Sri Kršna Ardžunu několika záblesky jógického světla. V této kapitole mu žehná záplavou duchovního světla. Zeširoka a otevřeně odhaluje tajemství Jógy. Pro Ardžunu je těžké uvěřit, že Sri Kršna učil tuto věčnou Jógu Vivasvana (Boha Slunce). Vivasvan ji nabídl svému synovi Manuovi, ten se o ni podělil se svým synem Ikšvákuem a ten ji předal královským zřecům. Vivasvan spatřil světlo světa dlouho před tím, než se Sri Kršna narodil. Ardžunu proto přirozeně Sri Kršnovo prohlášení uvrhlo do moře zmatku.
+
+Nyní se tedy odhaluje věčné mystérium reinkarnace. Kršna říká: „Ardžuno, ty i já jsme prošli bezpočtem zrození. Já všechna svá znám, tvá paměť však selhává. Třebaže jsem bez počátku a bez konce a jsem Nejvyšším Pánem všech bytostí, projevuji sám sebe ve fyzickém vesmíru pomocí své vlastní máji a udržuji tak svou Prakriti (přírodu) pod kontrolou.“ (4.5-6)
+
+
+
+* Májá
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Májá znamená „iluze“. Znamená i neskutečnost pomíjivých věcí. Neskutečnost je zosobňována ženou, jejíž jméno je také Májá. Slova „dharma“ a „májá“ tvoří neměnné a spontánní vyjádření indické duše. Podle významného védántského filozofa Šankary existuje jen jedna Absolutní Skutečnost, Brahman, Jedinečný. Jeho hlavní filozofie spočívá v advaitě nebo též monismu, který je odvozen z védánty. Existuje pouze Brahman. Vně Brahman nic neexistuje. Svět, jak ho vidíme svým mentálním okem, je kosmickou iluzí, klamným vězením. Ze sítě nevědomosti a pasti zrodu a smrti se dokážeme vysvobodit jedině tehdy, až nad námi zasvitne pravé poznání. 
+
+Věc, která je, je skutečná. Věc, která se jeví, je neskutečná. Věčný Život je skutečný. Nevědomost a smrt jsou neskutečné. Májá je druh síly, naplněné mystériem. My víme, že elektřina je energie, ale nevíme, co to vlastně elektřina je. Totéž platí o máje. Bůh používá svou Sílu -- Máju, aby vstoupil na pole projevení. Je to proces, ve kterém se Jediný stává mnohým a naopak mnohé se vrací do původního Jediného.
+
+
+
+* Prakriti
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Prakriti znamená „příroda“. Je to hmotná podstata a zároveň prvotní příčina všeho v projeveném stvoření. Puruša je tichá Tvář. Prakriti je probouzející Úsměv. Puruša je čisté, pozorující vědomí, kdežto Prakriti je vědomí, které se vyvíjí a přeměňuje. Uvnitř Prakriti a prostřednictvím Prakriti je naplňována Kosmická Hra.
+
+Ardžuna znal Sri Kršnu jako svého drahého bratrance, později jako důvěrného přítele a ještě později jako svého milovaného Gurua či duchovního Učitele. V této kapitole jej poznává jako Nejvyššího Pána světa. Kršna říká: „Kdykoliv je na vzestupu nespravedlnost a spravedlnost upadá, tehdy se rodím. Od věků se zjevuji, abych ochránil a uchoval mravnost, ukončil zlořády a upevnil dharmu.“ Z těchto duši uchvacujících výroků Sri Kršny ihned poznáváme, že On je současně vrcholným Poznáním i nejvyšší Silou. S úsměvem a jistotou nabíjí Ardžunu mocným duchovním proudem ze své velké Elektrárny. 
+
+
+* Saṃbhavāmi yuge yuge -- Věk od věku se rodím
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Sri Kršna se nyní prohlašuje za Avatára. Avatár je přímé sestoupení Boha. Ve světě projevení ztělesňuje Nekonečno.
+
+V Indii byl jeden duchovní Mistr, který se prohlásil za Avatára. Naneštěstí se stal terčem nemilosrdného výsměchu jak na Východě, tak i na Západě. Protože se nedokázal postavit tomuto ­sžíravému sarkasmu, musel nakonec změnit svou neúspěšnou taktiku. Jeho hrdé prohlášení pokročilo ještě dále: „Nejen já, ale každý je Avatár.“ Jelikož je každý Avatár, kdo koho může vlastně kritizovat? A hle, samozvaný Avatár vydechl hlubokou úlevou.
+
+Může to znít směšně, ale je pravda, že v Indii skoro každý žák považuje svého Gurua za Avatára, za přímé sestoupení Boha. Když mluví o svém Guruovi, zaplaví ho vlna nadšení. Duchovní obr Svámí Vivékánanda si neodpustil poznámku, že v Indii, ve východním Bengálsku, rostou Avatáři jako houby po dešti. Naproti tomu je stejně směšné prohlašovat, že existoval a může existovat jen jediný Avatár, Syn Boží.
+
+Pokaždé, když přijde Avatár, hraje v postupu evoluce určitou roli podle potřeb dané epochy. Jeden Avatár se od druhého v podstatě neliší. Jiný opravdový Avatár, Sri RámaKršna, vyjevil tuto pravdu: „Ten, kdo byl Ráma, ten, kdo byl Kršna, je nyní v podobě RámaKršny.“ 
+
+Existují dva věčné protiklady: dobro a zlo. Když zlo dosahuje nejvyšší míry, Bůh si podle Sri Kršny musí obléci lidský plášť ve formě Avatára. Sri Kršna se musel po svém příchodu vypořádat s tou nejtemnější zlou silou, Kamsou. Potřebu příchodu Ježíše Krista zase vyvolal Herodes, tyran, kterému nebylo rovno. Zrození Krista si žádalo zánik života nevědomosti. Džanmastamí, zrození Kršny, je oslavováno po celé Indii s nadějí na opuštění moře nevědomosti a vstup do oceánu poznání.
+Nejsnazší a nejúčinnější způsob, jak pochopit myšlenku osobního Boha, je setkat se s Avatárem a zůstat pod jeho vedením. Mít Avatára za svého Gurua znamená najít bezpečný přístav pro loď našeho života. V této souvislosti můžeme citovat smělé Vivékánandovo tvrzení: „Žádný člověk nemůže spatřit Boha bez pomoci těchto lidských projevení… Mluvte, jak se vám zlíbí, snažte se, jak chcete, nemůžete myslet na Boha jinak než jako na člověka.“ 
+
+Podle názoru mnohých, tak jako je Buddha nejdokonalejším člověkem, tak je Kršna největším Avatárem, jakého kdy svět spatřil. 
+
+Existují také Amsavatáři (částeční Avatáři). Sri Kršna je však Púrnavatár (úplný Avatár), ve kterém a prostřednictvím kterého se Nejvyšší projevil plně, bezvýhradně a ve všech aspektech. Když lidská aspirace stoupá vzhůru, božský Soucit sestupuje dolů v podobě Avatára.
+
+„Jak ke Mně lidé přistupují, tak je také přijímám.“ (4.11) Pro krvácející srdce lidstva nemůže být větší útěchy, než je tato. Přijmeme-li Kršnu s vírou, osvítí naši pochybovačnou mysl. Přijmeme-li Jej s láskou, očistí naše mučivé vitálno. Přijmeme-li Jej s oddaností, přemění noc nevědomosti našeho života na slunce poznání svého věčného Života.
+
+Sri Kršna si nyní přeje, abychom upřeli pozornost ke kastám. Říká nám, že to byl on, kdo stvořil čtyřnásobný kastovní systém podle nadání a činů každé kasty. Jsou lidé, kteří přikládají veškerý význam zrození a dědičnosti a záměrně přehlížejí ty, kteří jsou hojně požehnáni schopnostmi a úspěchy. Důsledkem toho musí společnost trpět nemilosrdnými údery pustého zmatku. Je pravda, že dědičnost a prostředí, do kterého se narodíme, mají svůj význam. Ale tento takzvaný význam nám nemůže nabídnout ani špetku světla a pravdy. Jedině díky svým vyrovnaným a vznešeným skutkům vrůstáme do toho Nejvyššího a projevujeme na zemi to Nejhlubší. 
+
+
+
+* Čin, nečinnost a špatný čin 
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Od verše šestnáct až po verš dvacet dva pozorujeme Kršnu, jak vysvětluje čin, nečinnost a špatný čin. Čin -- totiž pravý čin -- neznamená jen pohyb našeho těla. Čin je sebedávání. Čin znamená vzdát se připoutání. Čin znamená ovládnout smysly. Špatný čin je tanec s touhou. Špatný čin znamená neposlechnout svou vnitřní bytost. Špatný čin znamená sejít z cesty Pravdy, esoterické i exoterické.
+
+Obecně se věří, že nečinnost je totéž co lhostejnost, lenost a tak podobně. Pravá nečinnost však znamená vrhnout se do ­neustávajících činností, vědomou mysl přitom ale udržovat ve stavu povzneseného klidu nebo transu.
+
+
+
+* Víra a pochybnost
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Čtvrtou kapitolu uzavírá víra a pochybnost. Víra není pouhým citovým lpěním na svém vyznání. Je to živoucí vnitřní dech, toužící po objevení a realizaci Pravdy a po životě v Pravdě. Víra je cvičení, jež hledající provádí z vlastní vůle, aby se přiměl zůstat ve vševidoucí a všenaplňující Vůli Boha. Jadžurvéda nám říká, že zasvěcení rozkvétá v sebevěnování, v zasvěcení rozkvétá Milost, v Milosti rozkvétá víra a ve víře rozkvétá Pravda. Co ještě je víra? Citujme Charlese Hansona Townea:
+
+
+#+BEGIN_QUOTE
+
+Nepotřebuji svou víru vykřikovat. Třikráte výmluvnější
+jsou tiché stromy a naslouchající zelený trávník; 
+zmlklé jsou hvězdy, jejichž síla se nikdy nevyčerpá;
+kopce jsou němé -- a přece, jak ty mluví o Bohu!
+
+-- Charles Hanson Towne 
+
+#+END_QUOTE
+
+
+Pochybnost je obnažená hloupost. Pochybnost je naprostá marnost. Pochybnost je vnější požár. Pochybnost je vnitřní zkáza.
+
+/Saṁśayātmā vinaśyati/ -- „Ten, kdo má pochybnosti, hyne.“ (4.40) Je ztracen, naprosto ztracen. Cesta Ducha je mu odepřena. Právě tak je mu odepřeno tajemství osvícení života. Kršna říká: „Pro pochybujícího člověka není ani tento svět, ani onen svět -- ne, dokonce ani štěstí.“ (4.40)
+
+V jednom ze šesti indických filozofických systémů -- v Njáje ­- (logice) -- si všimneme, že pochybnost není nic jiného než protichůdný názor na povahu nějakého předmětu. Pochybnost vzniká ze samotného poznávání vlastností společných mnoha předmětům nebo naopak vlastností, které společné vůbec nejsou. Pochybnost je právě ta věc, které se nedostává soustavnost vnímání. Pochybnost také, sama neexistující, existuje pouze v nevnímání. 
+
+Pochybnost je všepožírající tygr. Víra je řvoucí lev, který inspiruje aspiranta, aby vrostl do všeosvěcujícího a všenaplňujícího Nejvyššího. Ubohá, slepá pochybnost, která zapomněla ryzí pravdu, že víra je nanejvýš energické a přesvědčivé ujištění života, chce otřást lodí lidského života.
+
+Básníkova uchvacující slova pravdy do hlubin rozechvívají naše srdce:
+
+
+#+BEGIN_VERSE
+
+Lepší jeden den víry
+	než tisíc let pochybností!
+Lepší jedna smrtelná hodina s Tebou
+	než nekonečný život bez Tebe.
+
+#+END_VERSE
+
+
+* Kapitola V: Zřeknutí se
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Na pořadu dne bylo srovnávání. A stále je. Možná, že také navždy zůstane, zvláště na poli projevení. Nyní je srovnáván nezištný čin a zřeknutí se. Taková byla Ardžunova žádost.
+
+„Ó Kršno, vychvaluješ obojí, zřeknutí se i nezištný čin. Řekni mi, prosím, jasně a jednou provždy, co z toho je lepší?“ (5.1)
+
+Sri Kršna ihned odpověděl: „Obojí vede k nejvyšší Blaženosti, ale čin je snazší, čin je výše.“ (5.2)
+
+Božský Učitel nicméně vysvětluje, že zřeknutí se nelze docílit okamžitě a získat plody odříkání bez nezištného činu je téměř nemožné.
+
+Jóga je čin osvobozený od oddělování. Uvědomování si pocitu oddělenosti znamená smrt odříkání. Naopak čin vykonaný s pocitem univerzální jednoty je skvělým zrodem odříkání.
+
+Existují dvě školy. Jedna nás učí, abychom se zřekli jakékoliv práce. Druhá nás učí, abychom konali skutky, správné skutky. Jedna škola říká: „Přestaňte dělat všechno.“ Druhá říká: „Začněte dělat všechno.“ Bohužel, jelikož toto poselství Gíty nebylo v Indii správně pochopeno, tato země se hemží jak suchými askety, tak i neosvícenými lidmi činu.
+
+Čin plodí další čin. Čin sám o sobě nemůže činnost nikdy ukončit. Činnost je nepřetržitá. Činnost je neustálá. Samotný čin nám nikdy nemůže ukázat Tvář Nejvyššího, bez ohledu na to, jak dlouho a jak tvrdě pracujeme. Ten, kdo koná jen a jen pro Nejvyššího, je pravý karma jogín. Karma jogín je také vskutku tím největším odříkajícím, protože nic nehledá, nic neodmítá. Záliby a věci, ­které se mu protiví, jsou pro něj stejně důležité. Je svrchovaným velitelem všech protikladů. Protiklady existují proto, aby ho ujistily, naplnily a korunovaly ho vnitřním i vnějším vítězstvím.
+Kršnovo učení míří k jedinému Cíli, k nejvyšší Blaženosti. Lidské povahy se nutně liší. Lidské bytosti mají různé tendence a sklony. Proto bylo pro Ardžunu těžké najít nejbezprostřednější a nejpřímější cestu. 
+
+Čin a zřeknutí se jsou totéž. Čin je strom. Zřeknutí se je plodem tohoto stromu. Jedno nemůže být lepší než druhé. Strom i jeho plody rostou z nitra Nekonečna, aby byly milovány Věčností a obejmuty Nesmrtelností.
+
+
+
+* Svoboda
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Existuje svoboda? A pokud ano, kde se nachází? Svoboda existuje. Žije v našem vědomém odevzdání se Vůli Nejvyššího. Naše bezvýhradné odevzdání, to je naše spolehlivá jednota s Nejvyšším. Jelikož je Nejvyšší nekonečná Svoboda, my ve své podstatě nemůžeme být jiní.
+
+Byl to Marlowe, kdo řekl: 
+
+
+#+BEGIN_QUOTE
+
+Není v naší moci milovat nebo nenávidět,
+protože vůle v nás je vedena osudem.
+
+-- Christopher Marlowe 
+
+#+END_QUOTE
+
+To je pravda jedině tehdy, je-li náš osud určován mimořádně omezenými příkazy našeho ega. Pokud se svým neustále rostoucím plamenem aspirace žijeme v neomezené a všemocné vůli duše, prodělává tento náš žalostný osud zásadní přeměnu -- naprosté připoutání se mění na nezměrnou svobodu. To, co máme uvnitř, a to, co vidíme navenek, je vědomí svobody, která se vyvíjí, roste a září. Bez ohledu na to, jaký druh svobody -- fyzické nebo duchovní -- nám to přináší, tato svoboda nejen že vystřídá či dokonce nahradí naši spoutanost, ale také přemění samotný dech připoutání na Nesmrtelnost svobody. A to je, jak poznamenala jedna světově známá osobnost, svoboda bez uvozovek.
+
+
+
+* Služba
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Služba pro nás může udělat mnoho věcí. Ze všeho nejdříve bychom si měli uvědomit, že služba vykonaná v božském duchu je největší příležitostí k poražení naší pýchy a ješitnosti a vymazání otisku našeho ega. Právě v zasvěcené službě vidíme univerzální harmonii a vrůstáme do univerzálního vědomí. Naše vůle se stává Boží Vůlí. To, čemu říkáme služba, není nic jiného než naplnění božské Vůle. Tady na zemi má jeden člověk určitou schopnost. Jiný člověk má potřebu. Schopnost a potřeba se musí sejít. Nabídnutá schopnost znamená nejen naplněnou potřebu, ale také rozpoznání schopnosti a její ocenění. Samotná schopnost získává jenom částečné uspokojení. Když ale schopnost běží bok po boku s potřebou, zasvitne naprosté uspokojení. 
+
+„Od každého podle jeho schopností, každému podle jeho potřeb.“ Tato pravda je v našem každodenním životě naprosto použitelná.
+Člověk musí mít mysl naplněnou Bohem, a v tomto stavu božské koncentrace by měl sloužit lidstvu. Právě v tom okamžiku se služba sama o sobě stává nejvyšší odměnou. Třebaže meditace a služba tvoří na poli duchovnosti naprosto odlišné přístupy, práce a zasvěcená služba nejsou nic jiného než čistá meditace. 
+
+Kršna nám teď říká o požitku a bolesti. „Smyslový požitek končí bolestí. Moudrý se proto straní smyslového požitku. Neustálá sebekázeň je skutečným a trvalým štěstím.“ (5.22-23)
+
+Nepřetržitá sebekázeň dává zasvitnout sebeovládání. Existence světa a činnost světa jsou dány k službám sebeovládání. Nejsnazší způsob, jak dosáhnout sebekázně, je vydat se cestou sebezasvěcení. Zasvěcení svého života je vždy požehnáno osvícením duše. Nepokojné síly našich smyslů se musí poklonit osvícení duše. Ten, kdo má vnitřní osvícení, ví, že jeho existence na zemi je ztělesněním Boha a jeho činy jsou vyjádřením Boha. Cítí, že on nikdy není tím, kdo koná; je pouhým nástrojem.
+
+Z Gíty se dozvídáme, co je to tělo. „Tělo je město za devíti branami.“ (5.13)
+Citujme Wesleye La Violetta v „Nesmrtelné písni“ (Bhagavadgítě):
+
+
+#+BEGIN_QUOTE
+
+Tělo je město s mnoha branami,
+ve kterém panující mysl může klidně odpočívat.
+V tomto městě je posvátný Chrám Ducha, Mysli, 
+kde není žádné touhy konat,
+ani žádné pohnutky,
+však přesto je zde vždy radostná ochota
+uposlechnout Povinnost, když zavolá.
+
+-- Bhagavadgíta (5.13-14)
+
+#+END_QUOTE
+
+Je pravda, že tělo má posvátný chrám. Stejně tak je pravda, že tělo samo o sobě je posvátné. Vděčně přivítejme přesvědčivé tvrzení Walta Whitmana: 
+
+#+BEGIN_QUOTE
+
+Je-li něco posvátného, pak je to lidské tělo.
+
+-- Walt Whitman
+
+#+END_QUOTE
+
+
+Dnes je tělo nepřekonatelnou překážkou. Avšak zítra toto tělo může být a také bude pýchou Božskosti, protože v něm a s jeho pomocí ukazuje Bůh světu, jak vypadá, co dělá a čím je.
+
+Na konci této kapitoly Kršna odhodlaně tvrdí, že k tomu, aby člověk žil a vlastnil Božskost, se musí zcela zříci smyslnosti. Tygr--chtíč musí být poražen. Aspirant se musí neustále zaměřovat na svého Osvoboditele. Vskutku, jedině pro takového člověka je Cíl, jedinečná spása.
+
+
+
+* Kapitola VI: Sebeovládání
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Už žádné váhání! Už žádný strach! Už žádný zmatek! První verš šesté kapitoly říká Ardžunovi, že sannjásin a jogín jsou totéž. „Ten, kdo vykonává svou povinnost bez očekávání plodů svých činů, je zároveň sannjásin (sánkhja jogín) i jogín (karmajogín).“ (6.1) Zdrženlivost a nezištný dynamismus jsou totéž.
+
+Je zbytečné dodávat, že právě zřeknutí se sjednocuje Sannjásu a Jógu. Toto zřeknutí se znamená vzdát se touhy a očekávání. Je nutno vykonat čin, správný čin. Čin není připoutání. Čin je aspirace. Čin je realizace. Gíta žádá, abychom se osvobodili od naprostého připoutání k činu, a ne abychom se osvobodili od činu. Špatné připoutání, náš nepřítel, je uvnitř nás, a ne okolo nás. Stejně tak i náš božský přítel, svoboda. Zdá se, že jsme vydáni napospas své mysli. O mysli hovoří Milton ve svém „Ztraceném ráji“: „[Mysl] dovede vytvořit peklo z Nebe nebo Nebe z pekla.“ Pravý oddaný však může snadno překonat takový žalostný osud. Jeho aspirace a odmítnutí ho sjednocují s Boží Vůlí. Oduševněle zpívá: 
+
+
+#+BEGIN_VERSE
+
+Vystoupím-li do Nebe, jsi tam Ty;
+uložím-li se k spánku v pekle, jsi tam také.
+
+#+END_VERSE
+
+
+V této kapitole používá Sri Kršna slovo „Jóga“ a “jogín“ nejméně třicetkrát. Říká Ardžunovi, pro koho je Jóga určena. „Ardžuno, Jóga není ani pro labužníka, ani pro toho, kdo vůbec nejí, není pro toho, kdo spí příliš mnoho, ani pro toho, kdo je neustále vzhůru.“
+
+Nestřídmost a sebeumrtvování jsou stejnou měrou nevhodné. Pro nestřídmého člověka zůstane Cíl navždy daleko. Ten, kdo se drží filozofie Čárváky, žije ve světě požitku, což není nic jiného než zklamání. A zklamání je písní zkázy. Filozof Čárváka prohlašuje: 
+
+#+BEGIN_QUOTE
+
+Bolest pekel spočívá v potížích, které přichází od nepřátel, zbraní a nemocí, kdežto osvobození (mókša) je smrt, což je zastavení dechu života.
+
+-- Cārvāka
+
+#+END_QUOTE
+
+Naopak, osvobození je životním dechem lidské duše. A tento životní dech existoval před zrozením stvoření, existuje v současnosti uvnitř stvoření a je také daleko nad stvořením. 
+
+Už jsme se zabývali nestřídmostí. Zaměřme nyní pozornost na sebeumrtvování. Sebeumrtvování zkoušel Buddha. A co se stalo? Poznal skutečnou pravdu, že sebeumrtvování mu nikdy nemůže dát to, co chtěl -- osvícení. S radostí proto přijal střední cestu, to jest zlatou střední cestu. Nepřijal ani hladovění, ani požitkářství. S touto jedinečnou moudrostí dosáhl Buddha svého Cíle.
+
+Ardžunova čistá upřímnost se nepřimlouvá jenom za něj, ale také za nás. Jóga znamená rovnováhu. Jak lze ovládnout nepokojnou mysl lidské bytosti? Mysl je nestálá. Neukázněná jako vítr. Kršna se ztotožňuje s úrovní ubohého Ardžuny. Samotná Kršnova útěcha je jen jiným jménem pro osvícení.
+„Ó Ardžuno, mysl je nestálá, to je pravda! Zkrotit mysl není snadné. Lze ji však ovládnout stálým cvičením a odříkáním.“ (6.35)
+
+Co cvičit? Meditaci. Čeho se zřeknout? Nevědomosti.
+
+Kršnovo pevné přesvědčení, že „Jógy lze dosáhnout cvičením“ (6.36), mění náš zlatý sen na všenaplňující Skutečnost.
+
+Cvičení znamená trpělivost. Neexistuje zkratka. „Trpělivost je ctností osla,“ slýcháme od různých vševědů. Netrpělivý kůň či hladový tygr v nás se okamžitě chytí tohoto velkolepého objevu. Avšak odhalující se mír a naplňující síla v aspirantovi mu jasně a přesvědčivě ukážou, že trpělivost je světlem Pravdy. Světlo Pravdy je vskutku Cílem.
+
+Když se jednou žáci jedné velké indické duchovní osobnosti zeptali, kolik let vysilujícího cvičení ji přivedlo k realizaci, rozesmála se: „Cvičení! Mé děti, to, čemu vy říkáte cvičení, není nic jiného než vaše osobní úsilí. Když jsem byla na vaší úrovni, nerealizovaná, myslela jsem si a cítila jsem, že mé osobní úsilí tvořilo devadesát devět procent a Boží Milost jedno procento, ne více. Avšak má nebetyčná hloupost zemřela v okamžiku, kdy se ve mně zrodilo sebepoznání. Potom jsem ke svému úžasu uviděla, ucítila a pochopila, že Milost mého milosrdného Pána tvořila devadesát devět procent a mé ubohé osobní úsilí jediné procento. Tím můj příběh nekončí, mé děti. Nakonec jsem pochopila, že i to mé jedno procento byl bezpodmínečný a oduševnělý Zájem mého Nejvyššího Otce. Mé děti, vy cítíte, že realizace Boha je vysilující závod. To není pravda. Realizace Boha je stále sestupující Milost.“
+
+To, co opravdu potřebujeme, je trpělivost. Nicméně pokud nás přepadne netrpělivost, můžeme zpívat s básníkem: 
+
+#+BEGIN_VERSE
+
+Po Tobě, jenž jsi tak daleko, tápeme, abychom Tě uchopili.
+
+#+END_VERSE
+
+
+Je-li ovšem naše vědomí zaplaveno trpělivostí, můžeme jedním dechem zpívat se stejným básníkem:
+
+#+BEGIN_VERSE
+
+Ačkoliv jsi tak blízko, nedokážeme Tě obejmout.
+
+#+END_VERSE
+
+
+Není neobvyklé, když z duchovní cesty občas sejde dokonce i upřímný hledající. Přestože měl víru i oddanost v hojné míře, nepodařilo se mu cestu dokončit. Tento problém znepokojuje Ardžunovo srdce. Říká Kršnovi: „Jaký osud potká člověka, který nedokázal -- třebaže měl víru -- ovládnout svou vášeň, jehož mysl se v okamžiku smrti vzdálila od Jógy a nepodařilo se mu dosáhnout dokonalosti, to jest realizace Boha? Nedojde zkázy jako rozervaný mrak? Je připraven o realizaci Boha i o potěšení světa. Osud jej na cestě Jógy oklamal. Nemá kam jít. Nikde pro něj není místo.“ (6.37-38)
+Běda, vnitřní svět ho nepřijme, vnější svět ho odmítne a zavrhne. Je ztracen, naprosto ztracen. Když bude úspěšný, oba světy ho obejmou a budou ho oslavovat. Když selže, stane se předmětem nemilosrdného posměchu.
+Ještě než Sri Kršna osvítí Ardžunovu mysl, uveďme na scénu Einsteina. Nesmrtelný vědec prohlásil: 
+
+
+#+BEGIN_QUOTE
+
+Pokud se prokáže, že má teorie relativity je správná, Německo bude tvrdit, že jsem Němec, a Francie prohlásí, že jsem světoobčan. Pokud by se ale prokázalo, že moje teorie je nesprávná, Francie řekne, že jsem Němec, a Německo prohlásí, že jsem Žid.
+
+-- Albert Einstein
+
+#+END_QUOTE
+
+
+Vraťme se teď k Učiteli a žákovi. Učitel osvěcuje žákovu mysl paprsky útěchy, naděje, inspirace a aspirace: „Ach Ardžuno, pro tohoto člověka neexistuje pád ani v tomto světě, ani ve světě Za. Pro toho, kdo koná dobro a usiluje o seberealizaci, není určen beznadějně špatný osud.“ (6.40)
+
+Učitel také říká, že ten, kdo v tomto životě sejde z cesty Jógy, vstoupí v příštím životě do požehnaného a blahoslaveného domu, aby mohl pokračovat ve svém duchovním putování.
+
+Každá lidská inkarnace je jen krátké období a nikdy nemůže rozhodnout o ukončení věčné cesty duše. Nikdo nemůže dosáhnout dokonalosti v jediném životě. Každý musí projít stovkami či tisíci inkarnací, než dosáhne duchovní dokonalosti.
+
+Oddaný člověk zůstává vždy v dechu svého sladkého Pána. Pro něj neexistuje opravdový pád, neexistuje zkáza a smrt. To, jak zdánlivě selhal nebo proč selhal, může být jen povrchním příběhem. Jeho skutečný příběh lze nalézt v jeho neustále radostné vytrvalosti, v jeho konečném vítězství nad nevědomostí, v jeho naprosté jednotě s Nejvyšším. Připomeňme si významný výrok Ježíše:
+
+#+BEGIN_QUOTE
+
+„Marto, já jsem Vzkříšení a Život. Kdo věří ve mě, i kdyby zemřel, bude žít. A každý, kdo žije a věří ve mě, nezemře navěky. Věříš tomu?“ Marta odpověděla Ježíšovi: „Ano, Pane, věřím.“ (Jan 11:25-27)
+
+#+END_QUOTE
+
+
+My můžeme s Ardžunou ve vší upřímnosti a oddanosti říci podobnou věc Pánu Kršnovi: „Ó Kršno, věčný Kormidelníku lodi našeho života, věříme v Tebe.“ Můžeme jít ještě o krok dále: „Kršno, Ty jsi naše věčná cesta. Ty jsi náš transcendentální Cíl.“ (srov. 10.12) 
+
+
+
+* Kapitola VII: Osvícené poznání
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Sri Kršna ze své nekonečné Štědrosti říká milovanému žákovi, že mu dá vše, co má, a vše, čím je: Nekonečnost a Věčnost. Na oplátku od svého žáka očekává jen dvě věci: Jógu a důvěru. Této důvěře můžeme říkat oddané odevzdání, což je neoddělitelná jednota konečného s Nekonečným. Poznat Sri Kršnu znamená poznat nejvyšší Poznání. Realizovat Sri Kršnu znamená realizovat podstatu veškerého života.
+
+/Manuṣyānām sahasreṣu…/
+
+Z tisíců lidí sotva jeden usiluje o duchovní dokonalost, a z těch, kteří se snaží a uspějí, stěží jeden zná Mou podstatu. (7.3)
+
+Zdá se, že tento třetí verš odrazuje hledajícího. To však rozhodně nebylo Kršnovým úmyslem. Kršna je nejen veškerou Moudrostí, ale také veškerým Soucitem. Chce Ardžunovi říci, co se při duchovním maratonu ve skutečnosti odehrává.
+
+Nejvyšší Poznání není pro toho, kdo má dětinskou zvědavost, povrchní nadšení, slabé odhodlání, nestálou oddanost či podmíněné odevzdání. Kterákoliv z těchto nebožských vlastností neomylně způsobí selhání vnitřního běžce.
+
+Šestý a sedmý verš popisuje vztah, který panuje mezi Sri Kršnou a vesmírem. „Já jsem počátek a konec vesmíru. Já jsem Zdroj stvoření i místo zániku. Neexistuje nic mimo Mne. Toto všechno Mnou prostupuje jako nit navlečenými perlami.“ (7.6-7)
+
+Když se budeme koncentrovat na větu: „Toto všechno je ve Mně spleteno, jako jsou drahokamy spleteny v náhrdelník,“ okamžitě spatříme jedinečného básníka Kršnu.
+
+Tři vlastnosti přírody: sattva, radžas a tamas -- harmonie, činnost a nečinnost. Sri Kršna říká, že tyto tři vlastnosti pocházejí z Něj a jsou v Něm, avšak On není v nich.
+
+* Sattva
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Sattva je nejvyšší vlastnost přírody. Ztělesňuje harmonii. Poznejme nyní existenci harmonie ve vztahu k vesmíru. Drydenův citát říká: 
+
+
+#+BEGIN_QUOTE
+
+Z harmonie, z Nebeské harmonie
+tato vesmírná Stavba začala:
+od harmonie k harmonii,
+celým rozsahem tónů,
+v Člověku se plně uzavřela.
+
+-- John Dryden
+
+#+END_QUOTE
+
+
+Vlastník sattvické kvality má bezpochyby srdce ze zlata. Ví, že jeho život má svůj vlastní význam. Jeho dech je čistý. Jeho trpělivost jasně září. Nesrovnatelná je jeho statečnost. Neomylná je jeho jistota.
+
+
+
+* Radžas 
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Radžas je druhá vlastnost. Člověk radžasu je vždy plný dynamického zanícení. Chce vlastnit svět. Chce vládnout světu. Takřka nemá čas na to, aby vstoupil do světa vnitřního osvícení. Jeho život má rád jen dvě věci: boj a dobývání. Má možnost být buď božským bojovníkem, nebo bojovníkem pusté lži. Má sílu na to, aby postavil chrám Pravdy. Má také sílu na to, aby jej rozbil a zničil. Naneštěstí, kvůli své neosvícené vizi a zdivočelému slonu, který je v něm, chrám často ničí a rozbíjí.
+
+
+* Tamas
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Tamas je třetí vlastnost. Je to lenost, temnota, nevědomost, hřích a smrt. Je to také světský přelud a klamná iluze.
+
+
+#+BEGIN_VERSE
+
+Sattva je duše s jasnou vizí.
+Radžas je buď plodný, nebo neplodný život.
+Tamas je tanec smrti.
+
+Sattva se projevuje aspirujícím světlem.
+Radžas se projevuje toužící mocí.
+Tamas se projevuje zatemňující nocí.
+
+Člověk ctnosti chce žít pravdu.
+Člověk činnosti si chce užít světa.
+Člověk nečinnosti si neužívá ničeho. Naopak, jeho si neustále užívá temnota, nevědomost a smrt.
+
+Člověk ctnosti má přítele: aspiraci.
+Člověk činnosti má přítele: inspiraci.
+Člověk nečinnosti má přítele: klam.
+
+Člověk ctnosti se pokouší žít v pravdě přítomnosti, minulosti i budoucnosti.
+Člověk činnosti chce žít ve skvělé přítomnosti. Nestará se příliš o budoucnost.
+Člověk nečinnosti v pravém slova smyslu nežije. Spí. Jeho dny a noci jsou tvořeny spánkem beze světla.
+
+Ten první se chce oduševněle překonávat.
+Ten druhý se chce mocně rozšiřovat.
+Ten třetí se nevědomě ničí.
+
+
+#+END_VERSE
+
+
+Those who follow the inner path have four distinct roles to play:
+
+Pro ty, kdo kráčí po vnitřní cestě, je připravena jedna ze čtyř rolí: 
+/Árta/, sklíčený, trpící. Život je ložem z trní. Uvědomil si tuto pravdu a pláče po přeměně života. Chce vlastnit lože z růží. Bolest je jeho strastiplným majetkem. Zdárně může zpívat s Francisem Thomsonem:
+
+
+#+BEGIN_QUOTE
+
+Nic nezačíná a nic nekončí,
+	co nebylo zaplaceno nářkem;
+neboť v bolesti jiných jsme se zrodili
+	a ve vlastní zemřeme.
+
+-- Francis Thomson 
+
+#+END_QUOTE
+
+
+/Džidžňásu/, hledající; ten, kdo se táže. To, co chce, je poznání. Poznání nám říká, proč člověk trpí. A protože poznání také ztělesňuje sílu, přeměňuje dech utrpení na dech vidoucího a rozněcujícího poznání.
+
+/Arthárthí/, hledající skutečného bohatství, absolutní Pravdy. Nezná zármutek. Nemá žádnou pozemskou touhu. Chce žít ve věčné svobodě, osvobození. 
+
+/Džňání/, moudrý. Ten, kdo je moudrý, ví, že Nejvyšší je všude a Království Nebeské je uvnitř něj. Žije v Nejvyšším. Jeho život je životem jednoty s Nejvyšším. Jeho svět je světem pravého naplnění. Jeho blízkost s Nejvyšším je velmi důvěrná. (7.16-17)
+
+Sri Kršna pokračuje: „Ti všichni jsou ušlechtilí a dobří, já však považuji moudrého, osvíceného, za svou vybranou duši, za své vlastní Já. Jsme zcela spojeni, naprosto ztotožněni. Až jeho život sehraje svou roli, až hodina ticha zaklepe na jeho dveře, vložím jej do svého Srdce, kde roste Dech Věčného Života.“ (7.18-19)
+
+
+* Kapitola VIII: Nepomíjivé Nekonečno
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Brahman je Nepomíjivé Nekonečno. Jiné jméno pro Brahman je Aum. Aum je Stvořitel. Aum je stvoření. Aum je ve stvoření. Aum přesahuje stvoření.
+Tato kapitola začíná přívalem velmi důležitých otázek. /Brahman, adhjátma, karma, adhibhúta, adhidaiva, adhijadžňa/ -- co tato slova znamenají? Pán odpovídá: „Nepomíjivé Absolutno je /Brahman. Adhjátma/ je sebeodhalující Poznání prastaré podstaty Brahman. Karma je zrod přirozené a běžné činnosti. /Adhibhúta/ je pomíjivé hmotné projevení. /Adhidaiva/ je poznání Zářících. /Adhijadžňa/ je oběť, kterou vykonávám Já, abych sjednotil projevení konečného se svým nekonečným Životem.“ (8.3-4)
+
+Kršna potvrzuje, že seberealizace neboli realizace Nesmrtelnosti musíme dosáhnout během života v těle, a nikde jinde. Tak jako každá lidská bytost vytváří omezení, nedokonalost a připoutání, tak je rovněž schopna je překonat. Nakonec vstoupí na úrovně plnosti, dokonalosti a svobody. 
+Naše bytí je výsledkem předchozího bytí. Naše země je důsledkem existence dřívější země. Všechno se vyvíjí. Základem evoluce je vnitřní a vnější pohyb. Tento pohyb či změna se odehrává i ve světě Brahmy. Dokonce i když člověk dosáhne světa Brahmy, nemůže uniknout z pasti znovuzrození. Není pochyb o tom, že naše pozemské dny a noci nejsou ničím ve srovnání s dny a nocemi Brahmy. Tisíce věků dýchají v jediném dni Brahmy a tisíce věků dýchají v jediné noci Brahmy. 
+
+Nemá smysl hledat útočiště v našich pozemských dnech a nocích, protože jsou pomíjivé. Nemá smysl hledat je ani ve dnech a nocích Brahmy, protože ani ty nejsou věčné. Můžeme, měli bychom a musíme si najít úkryt ve věčném Srdci Pána Kršny, jež je naším nejbezpečnějším útočištěm, kde není potřeba ani dne, ani noci, protože Jeho Srdce je Světlem Nekonečnosti a Životem Věčnosti.
+
+Nepotřebujeme nic kromě oddanosti. Oddanost je naše nejvyšší volba. Naše srdce oddanosti naslouchá Jeho Srdci Lásky. On říká: „Jedině neochvějná oddanost má přímý a volný přístup k Mému Životu nesmrtelnému, k Mé Pravdě absolutní.“ (8.22)
+
+To, co je uvnitř, se dříve či později projeví navenek. Ten, kdo má božské myšlenky, bude také konat božské činy. Jedině oddaný a aspirující člověk bude schopen vědomě myslet na Boha v okamžiku, kdy bude opouštět pozemskou scénu.
+
+Kršna nám říká, jak poté, co jogín opustí svou smrtelnou schránku, vstupuje do Nejvyššího: „Smysly má pod kontrolou. Jeho mysl spočívá v srdci. Medituje na Mě. Oduševněle zpívá Aum. Vzdává se prány, životního dechu, a vstupuje do nejvyšší realizace ve Mně.“ (8.12-13)
+
+
+
+* Aum
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Jestliže jste četli můj článek, "Význam /AUM/",[fn:1] budete o /AUM/ znát bližší podrobnosti. Madam H. P. Blavatská, zakladatelka teosofie, nahlížela na Aum velice prostým a významným způsobem. Řekla: 
+
+
+#+BEGIN_QUOTE
+
+„Aum znamená dobré skutky, nikoli jen pouhý zvuk vycházející ze rtů. Musíte to říci pomocí skutků.“ 
+
+-- Helena Petrovna Blavatská
+
+#+END_QUOTE
+
+Abychom poznali, co Aum je a co představuje, pomůže nám, prostudujeme-li upanišady, které o něm hovoří. Význam Aum nám jasně vysvětluje Mándúkja upanišada.
+
+O významu Aum se lze dozvědět z knih, ale poznání Aum se nedá získat jejich studiem. Musíme ho dosáhnout vnitřním životem, životem aspirace, který přenese aspiranta do vyšších úrovní vědomí. Nejsnazším a nejúčinnějším způsobem, jak jít vysoko, výše a nejvýše, je zaplavit sebe samého čistou láskou a ryzí oddaností. Pochybnost, strach, zklamání, omezení a nedokonalost se musí odevzdat oddané lásce a odevzdané oddanosti. Láska a oddanost mají nesrovnatelnou sílu vlastnit svět a být vlastněny světem. Milujte Boží projevení -- zjistíte, že kosmické stvoření je vaše. Oddejte se kosmickému projevení -- uvidíte, že vás miluje a považuje za své zcela vlastní.
+
+[fn:1] Sri Chinmoy, /Prayer-World, Mantra-World And Japa-World/, Agni Press, New York, 1974
+
+
+Je pravda, že poznání vám může dát totéž, co dává láska a oddanost, ale velmi často poznání rozvíjíme ne kvůli Pravdě, ale pro naplnění tužeb. Honba za poznáním je marná, skrývá-li se v ní touha. Je-li aspirant samou láskou a oddaností, vznáší se.
+
+Při svém letu zpívá:
+
+
+#+BEGIN_VERSE
+
+Mé srdce už nebude více lkát a truchlit.
+Mé dny a noci rozpouští se v Božím vlastním Světle.
+Nad lopocením života je má duše
+ptákem ohně, letícím Nekonečnem.
+
+#+END_VERSE
+
+Na konci svého letu zpívá:
+
+#+BEGIN_VERSE
+
+Poznal jsem Toho Jediného a Jeho tajnou Hru
+a dostal se za moře snu nevědomosti.
+V souzvuku s Ním hraji si a zpívám.
+Patří mi zlaté Oko Nejvyššího.
+
+#+END_VERSE
+
+Nyní vrostl do svého vlastního Cíle. Pln lásky k božskosti v sobě samém zpívá:
+
+#+BEGIN_VERSE
+
+Hluboce opilý Nesmrtelností,
+jsem kořenem a větvemi překypující nesmírnosti.
+Svou Podobu jsem poznal a realizoval.
+Nejvyšší a já jedno jsme -- vše přetrváme.
+
+ -- Sri Chinmoy, /Projevení/
+
+#+END_VERSE
+
+
+* Kapitola IX: Nejvyšší tajemství
+
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Nejvyšším tajemstvím je nejvyšší Poznání. Nelze jej povědět. Musí se realizovat. Toto nejvyšší tajemství je napsáno zlatým písmem v nejvnitřnějších zákoutích každého božsky lidského srdce. Nikoho neodmítá -- ne, dokonce ani toho, kdo je veskrze hříšný. Ten, kdo nemá víru v Kršnova slova, neunikne z okovů nevědomosti. Mít víru znamená mít neobyčejné štěstí. Tak jako příkladná oddanost, i víra potřebuje osobního Boha, a ona jej má. Víra není slepé přesvědčení. Víra není slepé, bezpodmínečné odevzdání se svatým knihám. Víra znamená vědomé uvědomění si vlastní neomezené svobody.
+
+Kršna říká: „Ach Ardžuno, spása není pro toho, kdo nemá víru. Ten, kdo nemá víru, je navždy svázaný smutkem života a bolestí smrti.“ (9.3) Ten, kdo kráčí po cestě víry, spatří tady na zemi na vlastní oči nejvyšší Pravdu. Odhodlání aspirujícího srdce hledajícího je jeho mystickou vírou. Přesvědčení odhalující duše hledajícího je jeho triumfující vírou. Obyčejného, neaspirujícího člověka udržují nad vodou světy falešných nadějí. Avšak člověk víry žije neustále ve světech mocného ujištění. Radostně a bezvýhradně vrší k oltáři Boha větší a větší zásoby ryzí víry. Není nutno dodávat, že jeho duše velmi rychle rozkvétá.
+
+Kršna s úsměvem říká: „Pošetilci Mě přehlížejí, znevažují Mé lidské inkarnace, neboť nevědí, že Já jsem všech bytostí Pán Nejvyšší.“(9.11)
+Poznat Avatára není snadné. Buď člověk potřebuje požehnání samotného Avatára, nebo musí mít dar vnitřní vize. Aby ­aspirující člověk poznal Avatára, musí se připravit. Musí se stranit smyslových požitků. Nesmí být ovládán vášní. To on musí ovládat vášeň. Neustále musí vdechovat dech čistoty. Musí odbourat strach. Musí rozbít pochybnost. Musí vzývat mír. Musí vstřebávat radost.
+
+Není zapotřebí nesrozumitelných rituálů a obřadů. Jediné, co je potřeba, je sebedávání. On přijme všechno s nejvyšší radostí. Svou vnitřní cestu můžeme začít tím, že Mu budeme nabízet listy, květy a ovoce. I sebemenší skutek nabízení Bohu znamená nejopravdovější krok na cestě sebeobjevení a objevení Boha. Přemýšlíme. Nabídneme-li Bohu své „přemýšlení“, už samotná skutečnost, že jsme nabídli svou myšlenku, nás nakonec ztotožní s Bohem-Myšlenkou. Obyčejný člověk má pocit, že myslí právě proto, že žije. Descartes se na tuto věc dívá zcela jinak:
+
+#+BEGIN_QUOTE
+
+ „Myslím, tedy jsem.“
+
+-- René Descartes
+
+#+END_QUOTE
+
+ Toto „jsem“, „já jsem“, není jen plodem stvoření, ale také dechem stvoření. Bertrand Russel pronesl významná slova:
+
+
+#+BEGIN_QUOTE
+
+ Lidé se bojí myšlenky více než všeho ostatního na světě -- více než zkázy, dokonce i více než smrti.“
+
+-- Bertrand Russel
+
+#+END_QUOTE
+
+Dokážeme-li objevit pravou, božskou myšlenku, Bůh ihned požádá či přiměje čas, aby byl na naší straně. Jedině čas nám pomůže cítit dech Pravdy a dotknout se Božích Nohou. Pokud to opravdu chceme, můžeme vlastnit Čas Věčnosti. Slova Austina Dobsona jsou sladká a plná významu: 
+
+#+BEGIN_QUOTE
+
+Čas běží, říkáte! Ach ne! Běda, Čas stojí, my běžíme.
+
+-- Austin Dobson
+
+#+END_QUOTE
+
+Sloužíme. Sloužíme-li v lidstvu Jemu, Jemu samotnému, ztotožňujeme se s Jeho absolutní Skutečností a Jeho univerzální Jednotou. Nesmíme zapomínat, že svou zasvěcenou službu musíme poskytovat s přílivem nejčistšího nadšení.
+Verš dvacet devět je všeobecně známý a oblíbený: „Pro Mě jsou všichni stejní, Mně nikdo není milý ani nemilý. Moji milující oddaní, kteří Mě uctívají, jsou ve Mně. A Já jsem také v nich.“ (9.29) To je zkušenost, která životu pravého hledajícího dodává značnou útěchu. Neexistuje žádná zvláštní výsada. Každý dostal stejnou příležitost. Není nutné připomínat, že pravý oddaný již prošel náročnými duchovními disciplínami. Když teď vyrůstá v opravdového oddaného a stává se Kršnovi drahým a blízkým, měli bychom si uvědomit, že sklízí plody své předchozí železné disciplíny a přísného odříkání. Bez práce nejsou koláče. Bez upřímnosti není úspěchu. Mějte aspiraci. Urychlí váš pokrok, vnitřní i vnější.
+Oddaný aspiruje. V jeho aspiraci přebývá Sri Kršna. Oddaný realizuje. Ve své realizaci odhaluje, že Kršna je jeho věčným dechem. Oddaný není nikdy sám. Objevil neomylnou pravdu, že jeho sebeobětování jej sjednocuje s jeho Pánem. Čím více se vědomě nabízí Pánu, tím pevnější se stává jejich božské pouto sblížení, ba co více, jednoty.
+Anitjam (pomíjivý, prchavý) a asukham (neradostný, smutný). Vnější svět přebývá v našem pozemsky spoutaném vědomí. Toto pozemsky spoutané vědomí lze pomocí aspirace, oddanosti a odevzdání přeměnit na Věčné Vědomí. Věčné Vědomí je domovem trvalé radosti. Osvobození musíme dosáhnout v tomto světě. Každý člověk se s nadějí rád podepíše pod nebojácné Emersonovo prohlášení:
+
+
+#+BEGIN_QUOTE
+
+Jiný svět! Neexistuje žádný jiný svět. Tady, nebo nikde, toť vše.
+
+-- Ralph Waldo Emerson 
+
+#+END_QUOTE
+
+Díváme-li se na svět svým vnitřním zrakem, je krásný. Tato krása je odrazem naší vlastní božskosti. Bůh-Krása považuje naše aspirující srdce za svůj věčný Trůn. My, hledající Nejvyššího, nemůžeme nikdy souhlasit s Nietzscheho pyšnou filozofií. Pronesl:
+
+#+BEGIN_QUOTE
+
+Svět je krásný, má však nemoc jménem člověk.
+
+-- Friedrich Wilhelm Nietzsche
+
+#+END_QUOTE
+
+Naopak, my můžeme jednoznačně říci, že svět je krásný, protože jej osvěcuje nebeská krása jménem člověk.
+
+/Anitjam/ a /asukham/ nemohou zničit srdce pravého hledajícího. Jeho víra je provdána za jeho zlatý osud. Takový hledající zpívá a zpívá:
+
+
+#+BEGIN_VERSE
+
+Mé věčné dny pádí časem;
+hraji na Jeho Flétnu rapsodie.
+Nemožné skutky se již nemožnými nezdají;
+v poutech zrození nyní září Nesmrtelnost.
+
+#+END_VERSE
+
+
+* Kapitola X: Božská a univerzální dokonalost
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+To, co je uvnitř nás, je dokonalost. To, co je okolo nás, je nedokonalost. Vnější svět může dosáhnout dokonalosti, jedině když je inspirován, veden a utvářen vnitřním světem.
+
+Včerejšek snil o dnešku jako o dokonalosti. Dnešek sní o zítřku jako o dokonalosti. Již dosažená dokonalost vybledá do bezvýznamné nedokonalosti před zrodem rychle se blížící budoucnosti.
+
+Dokonalost roste. Tak si počíná od začátku stvoření. Bůh má, na rozdíl od nás, jeden Sen: dokonalou Dokonalost. Aby mohla být absolutní Skutečnost úplným projevením Kosmické Vize, musí tato dokonalá Dokonalost zazářit v aspirujícím srdci každého jednotlivce i ve všech dohromady.
+
+Bohu je milý každý. Avšak ten nejsladší a nejdůvěrnější vztah existuje jenom mezi oddaným a Pánem. Pravý oddaný uctívá Pána bez řady tužeb. Pán mu žehná nejenom bezvýhradně, ale i bezpodmínečně. To, co oddaný potřebuje, je odhodlaná síla srdce. Jakmile ji získá, seberealizace už pro něj nebude daleko.
+
+Pochopit Pravdu je jedna věc. Uvěřit v ni je věc druhá. Nerozumět Pravdě není žádný zločin, to rozhodně ne. Ale pochybovat o Pravdě není nic než neomluvitelný hřích. Dítě nechápe otcovu ohromnou moudrost. Přesto v ni spontánně a upřímně věří.
+
+Sri Kršna je absolutní moudrostí. Je nejvyšší dokonalostí. Jeho dokonalost nikdo nechápe. Ne, dokonce ani bohové. Ardžuna možná Kršnu nechápe, ale jeho bezvýhradná víra, kterou v Něj má, mluví za něj: „Ó Kršno, Ty jsi Pán Pánů. Ty jsi Nejvyšší. Věřím tomu. Ani bohové, ani démoni nechápou tvá tajemná projevení. Ty jsi zdrojem všech bytostí. Jedině Ty znáš sám Sebe.“ (10.12-15)
+
+
+#+BEGIN_QUOTE
+
+Je-li to, v co věříme, neuvěřitelné, pak je právě tak neuvěřitelné, že v neuvěřitelné dokážeme věřit.
+
+--  Sv. Augustin
+
+#+END_QUOTE
+
+
+Víra je naprostá svoboda mysli. Víra je úplná nezávislost srdce.
+Kršna nyní Ardžunovi vysvětluje, že Jeho božskou dokonalost lze objasnit a ukázat, nikdy ji však nelze vyčerpat. Vesmír v celé své úplnosti není nic než drobná jiskra Jeho nekonečné velikosti.
+
+Kršna říká: Pāṇḍavānām Dhanañjayaḥ -- „Mezi Pánduovci jsem Dhanandžaja.“ (10.37) Dhanandžaja je Ardžunův přídomek. Každý člověk má jedno tělo, jednu mysl, jedno srdce a jednu duši. Jak někdo může před někým jiným říci, že ve skutečnosti on sám je tím druhým člověkem! Nezní to absurdně? Tak nám to ovšem připadá jen tehdy, když žijeme ve fyzickém, ne však tehdy, žijeme-li v jednotě Ducha.
+
+Pokud prohlásíme, že všechny lidské bytosti jsou totožné, vyslovujeme pouze skutečnost, které uvnitř věříme nebo se pokoušíme věřit. Ztotožňuje nás naše vnímání jednoty. Kršna říká: „Já jsem toto, Já jsem tamto, Já jsem všechno.“ Říká také, že On je tím nejlepším, nejvyšším a nejmocnějším ve všem. Znamená to, že Jeho Vědomí je zabarveno upřednostňováním? Dělá rozdíly? Ne, On neupřednostňuje, nedělá rozdíly. „Ardžuno, já jsem Já, které dlí v srdci všech bytostí. Jsem počátek a střed a také konec všech bytostí.“ (10.20)
+
+Kršna chce osvítit Ardžunovu mysl a říká, že On v procesu kosmického vývoje odhaluje a projevuje svou vlastní Dokonalost. Má nekonečné množství božských projevení. Zmínil se pro příklad jen o několika z nich. Z Něj pramení stálost, laskavost a síla. Říká Ardžunovi, že se nemá učit Jeho božská projevení do nejmenších podrobností. Jen by to zmátlo jeho mysl. „Celý vesmír jsem stvořil z části sebe Samého.“ (10.42) Tímto poznáním může hledající v Ardžunovi snadno nasytit svůj hlad.
+
+„Jsem zárodkem všech věcí, živých či neživých.“ (10.39) Ardžuna teď chápe, že Kršna není jenom tělo. Je všeprostupující Já. Ardžuna si přeje vědět, jakou konkrétní podobu tohoto Já by lidé měli uctívat. „Všechny podoby,“ zní okamžitá Kršnova odpověď. „Nic neexistuje bez onoho Já. Toto Já je ve všem a vše je v tomto Já. To je moudrost, kterou musí hledající poznat.“
+
+Gíta nás učí nejčistší jednotě. Tato jednota je jednotou vnitřní. Je zároveň spontánní i jedinečná. Mysl tuto jednotu nemůže nikdy osekat ani zmenšit. Říše jednoty leží daleko za dosahem fyzické mysli.
+
+Sebepoznání je poznání univerzální jednoty. Jedině na úrodné půdě univerzální jednoty lze vybudovat božskou dokonalost. Služte lidstvu jen proto, že se z něj vynořuje Božskost. Poznejte Božskost a okamžitě si uvědomíte Boží Nesmrtelnost v sobě a svou Nesmrtelnost v Bohu. Jedině Bůh v člověku a člověk v Bohu mohou oznámit nejskutečnější ztělesnění dokonalé Dokonalosti.
+
+
+
+* Kapitola XI Vize univerzální podoby a kosmické projevení Pána
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Sri Kršna ze své nekonečné Štědrosti, neomezené Lásky a nejhlubšího, oduševnělého Zájmu odhaluje nejvyšší tajemství: že On je ve všem a ztělesňuje vše. Ardžunovy klamné představy jsou odstraněny a rozptýleny. Nyní se raduje z průzračného míru své duše.
+
+Sri Kršna hovoří ze své veliké Lásky. Ardžuna Mu naslouchá s nejvznešenější oddaností svého srdce a bezvýhradně a oduševněle Mu věří. Ardžunova ojedinělá víra volá po své přeměně; jeho aspirace volá po zážitku. Jeho mysl chápe Pravdu. Jeho srdce však chřadne touhou Pravdu spatřit a Pravdu žít. Proto potřebuje tento zážitek, nevyhnutelný a nezbytný. Sri Kršna mu laskavě a okamžitě tento nesrovnatelný zážitek daruje.
+
+„Ó Ardžuno, pohleď na celý vesmír v Mém Těle.“ (11.7) Ardžunovy fyzické oči přirozeně takové vize nebyly schopny. Pán mu dal oko nadpozemské vize, oko, které vidí Neviděné -- jógické oko.
+
+Tělo, o kterém Pán hovoří, je duchovní tělo. Proto musí být Ardžuna obdařen duchovním okem. Tělo představuje podobu. V této podobě přebývá beztvaré. Uvnitř a prostřednictvím této kosmické podoby jednohlasně hraje Transcendentální Vize a Absolutní Skutečnost. Tělo z masa a kostí podstupuje bezpočet proměn, tělo neomezené, božské podoby a nesmrtelné hmoty však nikoli. Božské tělo je ztělesněním a odhalením Božskosti, Nekonečnosti, Věčnosti a Nesmrtelnosti Pravdy.
+
+Saňdžaja říká Dhrtaráštrovi: „Ó králi, Kršna, nejvyšší Mistr Jógy, Všemocný Pán, odhaluje Ardžunovi svou božskou, nejvyšší Podobu. Ardžuna teď vidí Kršnu jako Nejvyššího Boha, Paramešvaru.“ (11.9)
+
+Ardžuna vidí mnohost v Jediném Nejvyšším, který má nesčetná ústa, bezpočet očí, vládne neomezenými zázraky, třímá božské zbraně, je oblečen v božské oděvy a ozdoben šperky a nese nebeské věnce s nadpozemskou vůní. Náhle vytrysklá záře tisíce sluncí se stěží vyrovná nejvyšší nádheře  Pána. Ardžuna spatřuje v božské osobě Kršny Nekonečnost v mnohosti. Přemožen, extáze zaplavujíc jeho nejvnitřnější bytost, se sepnutýma rukama a skloněnou hlavou zvolá: „Ó Pane, v Tobě, ve Tvém těle, vidím všechny bohy a všechny stupně bytostí s jejich charakteristickými rysy. Vidím dokonce Brahmu, jak v plném lesku sedí na svém lotosovém trůnu, obklopen zřeci a mudrci, a také symbolickými hady -- vše je božské.“ (11.15)
+
+Stoupáme-li s veškerou sněhobíle planoucí aspirací svého srdce vzhůru, vstupujeme do Kosmického Vědomí zřeců. Tato cesta je cestou směřující vzhůru. Je to cesta ztělesnění a poznání. Existuje ještě další cesta, známá jako cesta odhalení a projevení. To je cesta směřující dolů. Na ní naše vědomí plyne dolů prostřednictvím kosmické energie, vinoucích se symbolických hadů.
+
+Verše patnáct až třicet jedna výmluvně a oduševněle popisují, co Ardžuna v Kršnovi svým nově nabytým jógickým zrakem viděl.
+
+Bitva dosud nezačala. Mocní válečníci jsou připraveni a nemohou se dočkat boje. Ke svému největšímu překvapení Ardžuna vidí, jak v Kršnovi nadobro zhasínají životy válečníků. Dokonce ještě před vypuknutím bitvy vidí jejich smrt. Jsou zničeni. Při pohledu na žár planoucích a všepohlcujících Kršnových úst se jeho vlastní životní dech zachvěje. Žák zvolá: „Úpěnlivě prosím o Tvůj Soucit, můj Pane Nejvyšší. Nepoznávám Tě. Kdo jsi?“ (11.31)
+
+„Jsem Čas. Jsem Čas, mocný ničitel. Jsou odsouzeni k záhubě. Ať budeš bojovat, nebo ne, jsou již mrtví. Tví nepřátelé neuniknou smrti dokonce i bez tebe. Povstaň, ó Ardžuno, povstaň! Získáš ­slávu vítězství a jména. Poraz své nepřátele. Raduj se z velikého království, raduj se. To já jsem předurčil odevzdané umlknutí jejich životů. Ty buď vnější příčinou. Buď jen Mým nástrojem, nic víc.“ (11.32-33) Nimittamātraṃ bhava. „Buď pouhým nástrojem.“ (11.33b)
+
+Nemůže být větší hrdosti, nemůže být lepšího úspěchu než být Božím vlastním nástrojem, protože být Božím nástrojem znamená být bezpečně přijat Bohem za Jeho vlastního. Mistr-Guru uvnitř a prostřednictvím žáka-nástroje vidí a naplňuje božský Záměr Boha. 
+Kršna je všepohlcující Čas. Tato vize je pro naše oči a naše chápání děsivá. Avšak pro naši vnitřní vizi a vnitřní chápání je přirozená a nevyhnutelná. Sri Aurobindo říká: 
+
+Čas představuje pro lidské úsilí nepřítele nebo přítele, protivníka, prostředek nebo nástroj. Ve skutečnosti je to však vždy nástroj duše. Čas je pole okolností a sil, které se setkávají a dohromady vytvářejí výsledný pokrok, jehož průběh měří. Pro ego je čas tyranem nebo protivníkem, pro Božské je nástrojem. Jelikož je naše úsilí osobní, čas se nám jeví jako protivník, protože pro nás představuje všechny překážky sil, které jsou ve střetu s našimi vlastními silami. Když se v našem vědomí spojí božské a osobní působení, jeví se jako prostředek a předpoklad. Jakmile se tyto dvě síly spojí v jedno, jeví se jako služebník a nástroj. 
+
+Kršna Prem, velký hledající, říká: 
+
+
+#+BEGIN_QUOTE
+
+Je nemožné slovy vyjádřit tento úžasný vhled. Všechny věci zůstávají stejné, a přesto se mění. Čas jako celek probleskuje do Věčnosti; plynoucí Proud je sám o sobě Věčný, a třebaže se neustále pohybuje, vůbec se nehýbe.
+
+--   Kršna Prem
+
+#+END_QUOTE
+
+V našem aspirujícím srdci se ozývá ozvěna upanišadské nauky: „Pohybuje se, a přesto se nepohybuje. Je daleko, a přece blízko.“ (Íšópanišad 5) 
+Čas je domovem Pravdy. Sri Kršna o sobě říká Pravdu, věčnou Pravdu. Tady si můžeme vybavit významná slova Virginie Woolfové: „Pokud neříkáte pravdu o sobě samých, nedokážete ji říci ani o jiných lidech.“ Naopak, pokud znáte duchovní pravdu o sobě samém, nutně znáte také pravdu o ostatních. Sri Kršna ukázal božskou Pravdu, kterou byl On Sám.
+Rádi také můžeme následovat Marka Aurelia:
+
+#+BEGIN_QUOTE
+
+Nemohu pochopit, jak někdo může chtít něco jiného než Pravdu.
+
+--   Marcus Aurelius
+
+#+END_QUOTE
+
+V duchovní historii světa není neobvyklé, když člověk ještě před tím, než dospěje k osvícení, pochybuje o svém duchovním Mistrovi. Takto si počínali dokonce i někteří nejbližší žáci velkých duchovních Mistrů. Opustí-li však hledající svého Mistra jenom proto, že jej sužují pochybnosti, jde o čin naprosté hlouposti. Vydržte, vydržte až do konce. Zničené pochybnosti zmizí jako pára nad hrncem. Vznešenost Nekonečnosti a Věčnosti rozkvete v náruči času. Tento úkol naplní vaše stoupající aspirace.
+
+Ardžunovo bušící srdce prohlašuje: „Ty jsi prvotní Duše.“ (11.38a) Ardžuna pláče po Kršnově odpuštění. Ve své nevědomosti nepoznal dříve Kršnu v Jeho božské podstatě. Jeho minulost byla plná špatných skutků, nevědomosti a lehkovážnosti. S tlukoucím srdcem prosí o odpuštění za činy, které opomněl vykonat, a za činy, které spáchal proti Sri Kršnovi.
+„Buď ke mně shovívavý jako otec k synovi, přítel k příteli, milující k milované.“ (11.44a) Sri Kršna bezpochyby Ardžunovi odpouští. Bere na sebe svou obyčejnou, přirozenou a důvěrně známou podobu.
+
+Ardžuna si uvědomuje, že jedině díky božské Milosti byl obdarován jógickým okem, aby spatřil Neviditelné, nejvyšší Slávu Pána, přítomnost, minulost a budoucnost.
+
+Od svého Pána se také dozvídá, že „Kosmickou vizi nelze získat ani studiem véd, ani obětí, ani almužnou, ani odříkáním.“ (11.53) Dokonce i bohové touží zahlédnout tuto Univerzální Podobu, kterou ze svého nezměrného soucitu právě ukázal Ardžunovi.
+
+Víra, oddanost, odevzdání. Hle! Kršna je váš. Není jiné cesty, jak Jej realizovat, jak Jej vlastnit.
+
+
+
+* Hmota a Duch 
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Hmota a Duch (Prakriti a Puruša) nemají počátek. Hmota je prapůvodní látka. Neustále se mění. Duch je věčně neměnný. Hmota má nekonečně mnoho vlastností. Duch pozoruje a schvaluje. Hmota vykonává, roste a stává se. Duch je vědomí. Duch je svědek. Hmota představuje nekonečnou tvořivost. Duch je Skutečnost v člověku. Duch je ten, kdo si hmotu uvědomuje. Ten, kdo si plně uvědomil věčné ticho Ducha a kosmický tanec hmoty, může mít libovolné povolání, může být lékařem nebo filozofem, básníkem nebo zpěvákem. Dosáhl již dokonalosti vrcholné realizace. Jsou lidé, kteří realizují Nejvyššího Ducha v meditaci; jiní toho dosáhnou prostřednictvím poznání (filozofie sánkhja). Jsou také lidé, kteří realizují Nejvyššího Ducha jógou činu a obětavou službou. Dále existují tací, kteří si toho sice nejsou vědomi, ale slyšeli o Nejvyšším Duchu od ostatních, začali jej oddaně uctívat a těsně se přimkli k Pravdě. Také ti překračují smrtelnost a překonávají nástrahy smrti.
+
+Duch se nachází uvnitř hmoty. Ochutnává vlastnosti, které se z ní zrodily. Zakouší fyzické bytí. Nabyté vlastnosti určují jeho znovuzrození. Duch je Sám Nejvyšší. Třebaže je Pánem těla, zakouší smrtelný život.
+
+Cesta k Bohu znamená vidět Věčný Život v pomíjivém životě, vědět, že s činem je spjata Prakriti, nikoli Puruša. Gíta říká, že všechny činnosti, božské či nebožské, vznikají v Prakriti. Puruša je nečinný. Uvnitř něj není možný žádný čin, protože překonává jak čas, tak prostor. A přesto bez Puruši nemůže existovat vesmír ani projevení.
+
+Duch existuje nezávisle a prostupuje vším, ať už uvnitř těla, nebo bez něj; Duch zůstává vždy nedotčený.
+
+Vědět, že Prakriti a Puruša jsou totožní a neoddělitelní, znamená znát Pravdu, Pravdu jednoty a božskosti v lidstvu, která se nakonec projeví jako božskost lidstva.
+
+Gíta neobsahuje nezáživnou, logickou metafyziku. Její učení nepotřebuje podporu intelektuálních argumentů. Lidský rozum neumí klepat na dveře Transcendentální Skutečnosti. V žádném případě. A co je Gíta, ne-li vrcholně a božsky ztělesněná Transcendentální Skutečnost?
+
+Každá lidská bytost se musí z Gíty naučit pět nejvyšších tajemství:
+
+
+
+#+BEGIN_VERSE
+
+Spatři Pravdu.
+Ciť Pravdu.
+Buď Pravdou.
+Odhal Pravdu.
+Projev Pravdu.
+
+#+END_VERSE
+
+
+V této kapitole si povšimneme, že Gíta je zároveň významem života i jeho božským výkladem. Právě tato kapitola se však bohužel stala obětí krajních nedorozumění, přestože se v Gítě od začátku do konce žádná nedorozumění nenacházejí. Gíta nevidí a neodhaluje nic než tvář jednoty uvnitř rozmanitosti Pravdy. Učenci a ti, kteří ke Gítě připojují své komentáře, mezi sebou bojují svými teoriemi. Ani filozofové se této bitvě nijak nevyhýbají. Každý má potřebu vnucovat ostatním své vznešené teorie. Opravdový hledající nejvyšší Pravdy je však skutečně moudrý. Modlí se k Pánu Kršnovi, aby získal Gítu jako svou osobní zkušenost. Sri Kršna se usmívá. Oddaný zvolá:
+
+
+#+BEGIN_QUOTE
+
+Ty, jenž dal jsi mi tolik,
+daruj mi ještě jedno: vděčné srdce.
+Ne vděčné tehdy, když se mi zachce --
+jako by Tvá Požehnání měla volné dny;
+ale takové srdce, jehož tep může být
+Tvou oslavou.
+
+-- George Herbert
+
+#+END_QUOTE
+
+
+Hle, oddaný vyhrál závod! Oddaný potřebuje Gurua, Mistra. Sri Kršna je Guru a Ardžuna je žák. Významný indický učenec, Hari Prasad Shastri, napsal: 
+
+
+#+BEGIN_QUOTE
+
+Je pro realizaci Pravdy Guru či Mistr naprosto nezbytný? Odpověď podle Gíty zní: „Ano.“ Právě Guru je tím člověkem, který učí jednotě duše s Absolutním a který žije životem sattvy. Může to být muž i žena a podle Gíty to nemusí být poustevník, který přebývá v zasněžených Himálajích, odříznutý od světa, promlouvající pouze prostřednictvím vybraných apoštolů a posílající neuvěřitelné dopisy „astrální poštou.“ Guru je podle Gíty jako kterýkoliv jiný dobrý člověk, kterého může každý ve vhodný okamžik vidět, který žije v lidské společnosti a nepovažuje se za nadřazeného ostatním.
+
+-- Hari Prasad Shastri 
+
+#+END_QUOTE
+
+Gíta nám nakonec sděluje, že opravdovým Guruem, Guruem všech Guruů, je Bůh.
+
+
+
+* Kapitola XIV: Tři Guny 
+
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Sattva je čistota. Sattva je světlo. Sattva je moudrost. Sattva a štěstí přebývají společně. Sattva a harmonie dýchají společně. Smysly v sattvě jsou přeplněny světlem poznání. Opustí-li člověk tělo, když v něm převládá sattva, odebere se do čistého příbytku světců. 
+
+Radžas je vášeň. Radžas je touha. Radžas je neosvícená činnost. Radžas poutá tělo k činu. Radžas pobývá buď s tvrdou dynamikou, nebo se slepou agresivitou. Neklid a radžas dýchají společně. Radžas prakticky nelze oddělit od úmorné námahy. Radžas je jiným jménem pro vášnivé chování. Zemře-li člověk, když v něm převládá radžas, narodí se mezi těmi, kdož jsou připoutáni k činu.
+
+Tamas je dřímota. Tamas je temnota. Tamas je nevědomost. Tamas a temné ustrnutí přebývají společně. Marnost a tamas dýchají společně. Tamas nelze oddělit od obnažené bolesti. Tamas je jiným jménem pro pomalou smrt. Smrt v tamas je následována zrozením mezi nanicovatými hlupáky.
+
+#+BEGIN_VERSE
+
+Strom sattva plodí ovoce jménem harmonie.
+Strom radžas plodí ovoce jménem bolest.
+Strom tamas plodí ovoce jménem nevědomost.
+
+#+END_VERSE
+
+
+tamas nejhorší mámení. Ten, jehož život je zaplaven sattvou, vzhlíží k nebesům. Proto stoupá do vyšších světů. Ten, jehož život je poháněn radžasem, shlíží povýšeně na svět kolem sebe. Proto žije zde. Ten, jehož život je zakryt ponurým tamasem, je slepý. Zcela slepý. Proto se potápí do hlubiny.
+
+Pán říká, že ten, kdo rozumí pohnutkám činů v této trojici vlastností Prakriti a zároveň chápe Purušu, který stojí nad těmito vlastnostmi, přichází k Němu a vstupuje do Jeho Podstaty. Když nakonec dojde za oblast působení těchto tří vlastností -- sattvy, radžas a tamas -- zhluboka se napije Nektaru Nesmrtelnosti. (14.19-20)
+
+
+#+BEGIN_QUOTE
+
+Konej veškeré dobro, které můžeš,
+všemi prostředky, kterými můžeš,
+všemi způsoby, jakými můžeš,
+na všech místech, kde můžeš,
+ve všech dobách, kdy můžeš,
+všem lidem, kterým můžeš,
+tak dlouho, jak můžeš.
+
+ -- John Wesley
+
+#+END_QUOTE
+
+
+Přesně toto se očekává od sattvického člověka. Můžete se nyní zeptat, jak je možné, že i tento člověk musí překročit svou přirozenost. Není snad ve své službě lidstvu jedinečný? Může být jedinečný ve velké lidské rodině, ale dokonalou svobodu musí teprve získat. Nebohý sattvický člověk je tiše, tajně, a občas bohužel dokonce i nevědomě připoután k plodům své štědré služby, k výsledkům svého vznešeného poznání. Pro dosažení naprosté svobody a dokonalé dokonalosti tak musí sattvický člověk přeměnit a překročit svou přirozenost.
+
+Člověk si musí po překonání těchto tří gun vybrat, jestli chce zůstat v Transcendentálním, vysoko nad polem projevení, nebo jestli chce sloužit věčnému Dechu Nekonečna v lidstvu a inspirovat lidstvo k realizaci nejvyšší blaženosti, míru a síly. 
+
+Ardžuna pokládá ne jednu či dvě, ale tři významné otázky. Čím se vyznačuje ten, kdo se povznesl nad tyto tři vlastnosti? Jak se chová? Jak tyto tři vlastnosti překonává? (14.21)
+
+Kršna odpovídá:
+
+Jogín, který ve svém vlastním životě překonal tyto tři vlastnosti, nebude k plodům sattvy, radžas či tamas cítit odpor, ani se jich nebude dožadovat. Uvnitř i navenek je zaplaven vyrovnaností své duše. Je naprosto nezávislý. Realizoval naprostou nezávislost božskosti ve svém nitru. A co víc -- slouží Bohu svou ryzí oddaností. Slouží oduševněle. Slouží lidstvu s veškerou svou láskou. Slouží bezvýhradně. Ve všech lidských duších vidí jen a jen Boha. Takový jogín se nakonec bezpochyby stává Nejvyšším Já. (14.22-26)
+
+
+
+* Kapitola XV: Nejvyšší Bytost
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Kapitola XIII nás poučila o skutečnosti, že existuje pole a Znalec pole. Kapitola XIV vrhla záplavu světla na pole, Kosmickou Hru Prakriti. V následující kapitole se dozvíme o Znalci, o Univerzálním Já a o Nejvyšším Já.
+
+Tato kapitola začíná stromem. Tento strom se nazývá strom světa. Na rozdíl od pozemského či botanického stromu má tento strom kořeny nahoře v Nejvyšším. Nejvyšší je jeho jediným Zdrojem. Jeho větve rostou směrem dolů. Jeho listy jsou védy. Tomu, kdo pronikl do hloubek neustále se měnícího a vyvíjejícího se světa, jsou všechna poznání véd k dispozici.
+
+Zde na zemi není tento strom svobodný. Je polapen v tomto našem světě svou vlastní akcí a reakcí. Výživu mu láskyplně poskytují tři vlastnosti Prakriti. Chce-li člověk objevit počátek, konec a samotné bytí tohoto stromu, musí se zcela osvobodit od stromu pokušení. 
+
+Strom symbolizuje aspiraci. Tato aspirace nakonec stoupá k tomu Nejvyššímu. Je bezpočet indických sádhuů (mnichů), kteří sedí pod stromem a vstupují do světa hluboké meditace. Aspirace stromů je povzbuzuje a probouzí jejich dřímající aspiraci. Pán Buddha dosáhl svého osvícení u paty stromu Bódhi. To ví celý svět.
+
+Gíta je oceánem duchovnosti. Nejlaskavější dcerou duchovnosti je poezie. Duchovnost, jež naplňuje život energií, si vždy hraje s jemným dechem poezie. Pokusme se ztotožnit s vědomím básníka, když mluví o stromu:
+
+
+
+#+BEGIN_Quote
+
+Básně tvoří hlupáci jako já,
+ale jenom Bůh dokáže stvořit strom.
+
+ -- Joyce Kilmer
+
+#+END_QUOTE
+
+
+Jelikož se poezii hodně věnuji, rád si dovolím souhlasit s tímto požehnaným básníkem.
+
+Vraťme se však k našemu filozofickému stromu pokušení -- moudrý člověk přesekne jeho kořen sekerou odpoutání. To je cesta k osvobození. To je cesta k nejvyššímu dobru.
+
+Moudrý člověk žije v dokonalém sebeovládání. Je bezvýhradně a nepodmíněně oddán Pravdě. Chce jen a jen Boha, jenž je pramenem světa vnitřního, vnějšího i světa Za. Jeho mysl -- nemluvě o jeho vnitřním bytí -- nerozruší ani povzbuzující, ani odrazující, ani příjemné, ani nepříjemné události. Plave v moři plodného ticha a vyrovnanosti. Ovládá své smysly, protože je jejich pánem. Přichází ke Kršnovi, svému jedinému útočišti. V Jeho Příbytku není zapotřebí slunce, měsíce či ohně. Tento Příbytek je Zdrojem celého vesmíru. Je veškerým osvícením. Z Jeho věčného Příbytku není návratu. 
+
+Poznat či pochopit Jeho, Pána Nejvyššího, který vstupuje do těla, přebývá v těle, zakouší povahu přirozenosti a opouští tělo ve svou vlastní zvolenou Hodinu, není dáno pošetilým, nýbrž zřecům obdarovaným božskou vizí.
+
+Můžeme si být jisti, že veškeré upřímné snahy nejsou nic platné, dokud člověk nedosáhne vyrovnanosti mysli, dokud neovládne svou povahu, dokud jeho srdce nebude přetékat láskou a oddaností k jeho duchovnímu Učiteli (Guruovi) a dokud nebude sloužit živoucímu Dechu Pána uvnitř lidstva.
+
+Stvoření má dva aspekty -- pomíjivý a nepomíjivý. Nad těmito dvěma aspekty stojí Neosobní Nejvyšší. Toto Neosobní Nejvyšší je zároveň všeprostupující i všeudržující.
+
+Pán říká: „Já, Purušottama, Nejvyšší Bytost, překonávám jak pomíjivé, tak nepomíjivé.“ (15.18)
+
+Existují čtyři védy. Všechny čtyři příznačně hovoří o této Nejvyšší Bytosti.
+
+#+BEGIN_QUOTE
+
+Bytost Nejvyšší, s tisíci hlavami,
+s tisíci páry očí, s tisíci páry nohou,
+křížem krážem prostupuje zemi.
+Je za všemi deseti kouty.
+
+-- (Rgvéda X.90.1-2)
+
+#+END_QUOTE
+
+„Tisíc“ zde nepochybně znamená nekonečný počet. Nekonečno se na poli projevení vyjadřuje prostřednictvím konečného.
+
+Purušottama leží za beztvarým i tvarem, za neosobním i osobním. V Něm společně dlí nejmocnější dynamické nutkání i nejhlubší ticho. Pro Něj jsou tímtéž. Pro Něj jsou Nebeská svoboda a pozemská nezbytnost totožné, pro Něj jsou neustále se měnící podoba země a neměnná, nekonečná Skutečnost totožné.
+
+
+
+* Kapitola XVI: Síly božské a síly nebožské
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Svět, strach a spoutání jsou velmi důvěrně spojeny. Toho, kdo myslí na Boha, svět nakonec miluje. Ten, kdo miluje Boha, nemá strach. Překonává spoutání.
+Jestliže někdo cítí, že smyslový požitek a nejvyšší radost jsou jedno a totéž, je zcela na omylu. Požitkářství a Cíl života se spolu nemohou sejít, a také se nikdy nesejdou.
+Aby člověk spatřil Boha, musí být praktický, nanejvýš praktický, jak ve světě realizace, tak i ve světě projevení. Nikdo nemůže být praktičtější než ten, kdo je obdařen duchovními vlastnostmi. Jeho život vedou, ochraňují a osvěcují božské síly.
+Strach se bojí zůstat s člověkem, který má naprostou víru v Boha. Jeho srdce je čistotou. Jeho mysl je svobodou. Neupřímnost? Neví, co to je. Svou lásku používá k tomu, aby miloval lidstvo. Na oplátku očekává lásku jen tehdy, je-li to Vůle Boha. Ostrou sekerou světla moudrosti zcela zničil kořen očekávání, ba dokonce i strom pokušení, a nabízí svou službu Nejvyššímu v lidstvu. Neustále v něm dýchá blaženost oddanosti a ticho meditace. Násilí je příliš slabé na to, aby proniklo do pevnosti jeho myšlenky, slova a činu. Má nejčistší upřímnost. Je nejmocnější sebeobětavostí. Nenosí na své hlavě korunu vyrobenou člověkem, ale korunu stvořenou Bohem a Bohem opatrovanou. Jméno této božské koruny je pokora.
+Ten, koho pohltily nebožské síly, je nejenom neduchovní, ale také v nejčistším slova smyslu nepraktický. Nikdy nemůže zůstat sám, dokonce i když si to přeje. Ješitnost, hněv, okázalost a ego jej burcují z dřímoty a nutí ho, aby s nimi tancoval. Nevědomost přichází tajně, avšak rychle, a připojuje se k jejich tanci. A pak je radostně a triumfálně učí tanec zkázy.
+Své ego používá k tomu, aby koupil svět. Svůj hněv používá k tomu, aby oslabil a potrestal svět. Ješitnost a okázalost používá k tomu, aby získal svět. Vědomě nabízí sám sebe k oslavě smyslového požitku. Běda, jemu samotnému se nedaří spočítat své neskutečné plány, protože je jich nespočet. To, co je mu zcela vlastní, je jeho sebechvála. A ve skutečnosti sebechválou také neomylně je. 
+Dobročinnosti a lidumilství říká: „Podívejte, vás dva posílám do světa. Pamatujte si, že vás světu nedávám. Vraťte se se slávou. Vraťte se brzy!“ Dobročinnost a lidumilství pokorně poslechnou jeho rozkaz. Běží vstříc světu. Dotknou se světa. Nakrmí svět. Nezapomenou svému pánovi přinést ze světa slávu. Jejich pán získá kýženou odměnu: slávu. Avšak běda, k jeho naprostému překvapení slávu vystřídá marnost.
+Jeho život tvoří spojnici mezi hříchem a peklem. Co je hřích? Hřích je chuť nedokonalé nevědomosti. Co je peklo? Peklo je nemilosrdné mučení neuspokojených tužeb a radostné objetí naplněné nevědomosti.
+Hledající musí nejdříve přijmout nevědomost a poznání odděleně. Později si uvědomí, že „To“ existuje jak v nevědomosti, tak i v poznání. Zažehněme plamen své aspirace oduševnělou naukou Íša upanišady:
+
+#+BEGIN_QUOTE
+
+Avidyayā mṛtyuṃ tīrtvā… 
+
+-- (Íšópanišad 11)
+
+#+END_QUOTE
+
+Nevědomostí překračuje smrt;
+poznáním se raduje z Nesmrtelnosti.
+
+Kapitola končí slovem šástry (písma). Šástrám se nelze vysmívat. Šástry jsou vnějším dosažením vnitřních zážitků a uvědomění zřeců Pravdy. Nejvyšší cíl není pro ty, kteří shlíží na duchovní zážitky a realizace zřeců dávné minulosti. Dělají himálajskou chybu, jestliže na základě svých vitálních pohnutek cítí, že mohou cvičit meditaci a naučit se tajům vnitřní disciplíny bez cizí pomoci. Osobní vedení je zcela nezbytné.
+
+Je snadné říci: „Kráčím po své vlastní cestě.“ Je snazší oklamat sám sebe. A nejsnazší je nechat hladovět vlastní vnitřní božskost, která se chce projevit a odhalit.
+
+Učitel ukládá žákovi: „Ach, můj Ardžuno, drž se šáster.“ (16.24)
+
+
+
+* Kapitola XVII: Trojí víra
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Člověk je navenek tím, čím je jeho vnitřní víra. Všechny naše činnosti -- fyzické, vitální a mentální -- mají společný zdroj. Tomuto zdroji se říká víra. Pomocí víry můžeme vytvářet, ovládat, překonávat a měnit svůj osud. Můžete si být jisti, že to, čemu nevědomě říkáme lidská víra, není ničím jiným než božskou Vůlí, která je v nás a pro nás.
+
+Co dělá sattvický člověk pomocí své zářivé víry? Vzývá a uctívá Nejvyššího. Co dělá radžasický člověk pomocí své náruživé víry? Uctívá a uspokojuje božstva. Co dělá tamasický člověk pomocí své temné víry? Uctívá neuspokojené, nespokojené, hladové, temné, nečisté a pozemsky spoutané duchy.
+
+Říká se, že na Západě má jídlo jen málo společného s vírou. V Indii je spojení mezi jídlem a vírou takřka neoddělitelné. Naši upanišadští zřeci volali: Annaṃ brahma -- „Jídlo je Brahman.“ (­Taittiríja upanišada III.2)
+
+Sattvický člověk jí čerstvou, čistou a zklidňující stravu, aby získal energii, zdraví, spokojenost a dlouhý život. Radžasickému člověku zase chutná kyselé, slané a nadměrně ostré jídlo. Zmocňuje se ho nemoc. Mučí ho bolest. Také tamasický člověk musí koneckonců něco jíst. Lačně pojídá okoralé, nečisté a ošklivé jídlo bez chuti. Následky jeho stravy se dají lépe pocítit než popsat.
+
+
+
+* Zdrženlivost a odříkání
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Odříkání vůbec neznamená fyzické trápení. Umrtvování těla se může líbit jen člověku s ďábelskými sklony. Milosrdný Bůh nevyžaduje, abychom se fyzicky týrali. Chce, abychom měli oduševnělé světlo moudrosti -- nic více a nic méně. Odříkání znamená zasvěcené tělo, čistou mysl, milující srdce a probuzenou duši. Vnější odříkání roste na plodné půdě prostoty, upřímnosti a čistoty. Vnitřní odříkání roste na úrodné půdě vyrovnanosti, klidu a rovnováhy. Sattvické odříkání si nepřeje odměnu. Radžasické odříkání očekává a vyžaduje zisk, poctu a slávu. Tamasické odříkání chce a podporuje sebeoběť nebo zkázu ostatních.
+
+Hledající transcendentální Pravdy a sexuální síly nikdy nemohou běžet bok po boku. Hledající, který kráčí po cestě sebeobjevování a objevování Boha, musí vědět, co je to skutečný celibát. Kršna Prem říká:
+
+#+BEGIN_QUOTE
+
+„Pro člověka, který hledá vnitřní život, je neurotický celibát s takzvaně nevědomou myslí, zaplněnou potlačovaným sexem, vybíjejícím se ve změti více či méně zamaskovaných fantazií, opravdu tím nejhorším stavem. Takový stav může -- stejně jako mimořádné zeslábnutí těla -- způsobit podivné zážitky a vize, ale také účinně zabránit jakémukoliv skutečnému postupu na Cestě. Sex musí být překonán, nemůže být potlačen … beztrestně.“ 
+
+-- Kršna Prem
+
+#+END_QUOTE
+
+Kapitola končí velmi oduševněle u Brahman. Brahman je božsky označován třemi slovy, která rozechvívají duši: Aum tat sat. (17.23)
+Aum je nejvyšší mystický symbol. Aum je skutečné jméno Boha. Aum je v kosmickém projevení. Aum se nachází za projevením, velmi daleko za projevením.
+
+Tat znamená „To“, Bezejmennou Věčnost. Majestátní „To“ stojí nad všemi vlastnostmi.
+
+Sat znamená Skutečnost, nekonečnou Pravdu. 
+
+Musíme zpívat Aum a poté začít vykonávat božské povinnosti svého života.
+
+Musíme zpívat Tat a poté nabízet lidstvu všechny své energizující a naplňující úspěchy.
+
+Musíme zpívat Sat a poté nabídnout Bohu to, co jsme uvnitř i navenek, samotné své bytí.
+
+
+
+* Kapitola XVIII: Zdrženlivost a odříkání
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Pomalu, vytrvale a úspěšně nyní stoupáme k poslední příčce žebříku Gíty. Tady téměř získáme podstatu celé Písně.
+
+Ardžuna chce znát podstatu zdržení se činu, podstatu zřeknutí se výsledků činu a chce také vědět, jaký je mezi nimi rozdíl.
+
+Pán mu říká, že sannjása je zdržení se činu, který je podnícen touhou. Tjága je zřeknutí se plodů činu.
+
+Sannjása a sánkhja jóga jsou totožné, stejně tak i tjága a karma jóga jsou totožné. 
+
+K našemu největšímu překvapení panuje v Indii dokonce i v současnosti slepá víra, že realizovaná duše nepracuje, nemůže pracovat, nebo dokonce ani nemá pracovat na fyzické úrovni. Běda, ubohá realizovaná duše musí izolovat svou existenci od činností světa! Kdyby tomu tak bylo, potom bych věřil, že seberealizace není nic jiného než přísný trest, nežádoucí dosažení, zatížené těžkým závažím marného zklamání. 
+
+Je nadevší pochybnost, že realizovaný člověk se osvobodil od nástrah naprostého spoutání. Kdyby se svým tělem, myslí, srdcem a duší nepracoval ve světě a pro svět, kdyby nepomáhal hledajícím na Cestě, kdo jiný by byl schopen vést snažící se, plačící a aspirující lidstvo k jeho určenému Cíli?
+
+Odříkání je nezbytné pro osvobození. Odříkání neznamená vyhasnutí fyzického těla, smyslů a lidského vědomí. Odříkání neznamená, že se člověk vzdálí na milióny kilometrů od činností světa. Odříkání neříká, že svět se oddává iluzím. Skutečné odříkání nejenže dýchá v tomto světě, ale také život světa božsky naplňuje.
+
+Íša upanišada nás učí: „Radujte se z odříkání.“ (Íša upanišada 1) Pokusme se o to. Určitě se nám to podaří.
+
+Správný čin je dobrý. Čin osvobozený od touhy je vpravdě nejlepší. Takovému zasvěcení se říká pravá tjága.
+
+Někteří duchovní učitelé se domnívají, že čin je zbytečné zlo, které vede člověka k věčnému spoutání. Ostře a hrdě prohlašují, že každému činu bez výjimky je nutno se nemilosrdně vyhnout. Sri Kršna vlídně osvěcuje jejich pošetilost. Říká, že jadžňa (oběti), dána (sebedávání) a tapas (sebedisciplíně) se nesmíme vyhýbat, protože nás skutečně očišťují. Je zbytečné dodávat, že i takové činy musíme vykonávat bez sebemenšího připoutání.
+
+Zřeknutí se povinností vůči lidstvu není projevem duchovní realizace, ba ani duchovního probuzení. Blaženost svobody není pro člověka, který opustil povinnost ze strachu před fyzickým nepohodlím nebo duševním trápením. Jeho nesprávné a nesmyslné očekávání ho neomylně zavede do světa nevědomosti, kde bude přinucen hodovat se strachem, úzkostí a zoufalstvím.
+
+Člověk skutečného odříkání nechová nenávist k nepříjemným skutkům, je-li potřeba je vykonat, ani neprahne po konání skutků výhradně dobrých a příjemných.
+
+Pán říká: „Zříci se veškeré činnosti není pro duši, která přijala tělo, možné. Člověk skutečného odříkání je ten, kdo se zříká plodů svých činů.“ (18.11)
+
+Dokonalá svoboda zazáří v hledajícím a okolo něj jedině tehdy, až zcela odmítne touhu a upřímně nebude usilovat o osobní prospěch. 
+
+Gíta je odhalením duchovnosti. K duchovnosti se dříve nebo později musí obrátit všichni. Nesmí a nemůže v tom však být žádný nátlak. Nutit ostatní, aby přijali duchovní život, je vrcholem nevědomosti. Skutečný Guru ví, že jeho úloha není úlohou vrchního velitele. Nikdy nenařizuje ani svým nejdražším žákům. Pouze probouzí a osvěcuje jejich vědomí, aby mohli vidět Pravdu, cítit Pravdu, držet se Pravdy a nakonec se stali Pravdou.
+
+Sri Kršna předal Ardžunovi veškerou nanejvýš inspirující moudrost nespočetnými způsoby. Nakonec říká: „Ardžuno, poté, co jsem ti plně vyjevil moudrost, konej, jak usoudíš.“ (18.63)
+
+Ještě něco musí Sri Kršna říci: „Ardžuno, říkám ti své nejvyšší Slovo, své tajemství ze všeho nejniternější. Tobě odhaluji tajemství svého Srdce, protože jsi Mi byl vždy drahý. Nabídni Mi svou lásku. Zasvěť se Mi. Klaň se Mi. Dej Mi své srdce. Bezpochyby ke Mně přijdeš. To ti slibuji. Ardžuno, jsi Mi drahý. Odevzdej Mi všechny pozemské povinnosti. Ve Mně hledej své jediné útočiště. Neboj se, nebuď smutný, osvobodím tě od všech hříchů.“ (18.64-66) 
+
+Pravda se má nabízet jen upřímným hledajícím. Sri Kršna Ardžunu jemně upozorňuje, že Pravdu, kterou se od Něj naučil, nemá nabízet člověku bez víry, oddanosti a sebekázně. Ne, nejvyšší Pravda Sri Kršny není pro toho, jenž svůj život poznamenal posměchem a rouháním.
+
+Nyní chce Sri Kršna zjistit, zda Mu Ardžuna porozuměl, zda porozuměl Jeho odhalení. Chce také zjistit, zda se Ardžuna osvobodil ze sevření klamu a nástrah nevědomosti.
+
+„Kršno, můj jediný Spasiteli, pryč je mé mámení. Můj klam je zničen. Získal jsem moudrost. To díky Tvé Milosti, Tvé nejvyšší Milosti. Pevně stojím, oproštěn od pochybností. Mé pochybnosti již neexistují. Jsem Ti k službám. Snažně prosím o Tvůj příkaz. Jsem připraven. Budu jednat.“ (18.73)
+
+Lidské duši se skvěle podařilo vyprázdnit veškerou noc nevědomosti do Transcendentální Duše věčného Světla. Transcendentální Duše vítězně zpívá píseň Nekonečnosti, Věčnosti a Nesmrtelnosti v aspirujícím srdci lidského vědomí.
+
+Vítězství, vítězství plačícímu a krvácejícímu srdci konečného. Vítězství, vítězství Záplavě Soucitu a Obloze Osvícení Nekonečného.
+
+Září vítězství vnitřního světa! Roste vítězství vnějšího světa!
+
+Vítězství dosaženo. Vítězství uskutečněno. Vítězství odhaleno. Vítězství projeveno.
+
+
+
+* Část II: Král, Princ, Syn
+
+  :PROPERTIES:
+  :GENRE: section
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+
+* Král
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Bůh je hrdý na Své Božství ve Sri Kršnovi. Člověk je hrdý na své lidství ve Sri Kršnovi.
+
+Srí Kršna je milovaný Převozník, který neúnavně pendluje se svou Lodí vědomí mezi jedinečnou historií Indie a její nesrovnatelnou duchovností.
+
+Rostoucí božství člověka pláče po lidské dokonalosti v Sri Kršnovi-člověku. V lidskosti Sri Kršny leží lidský slib stát se božským.
+
+Sri Kršna ukradl srdce gopiím bezpodmínečně. Gopie ukradly jeho Extázi bez výhrad.
+
+Sladkost a milost nepopsatelná, pouto nerozbitné, oběť nepochopitelná -- to je vskutku Radha, Mateřské Srdce Sri Kršny.
+
+Radha nese lidskou duši do Sri Kršnova Srdce. Sri Kršna transformuje lidskou duši do Božské Duše a přikazuje jí, aby hrála svou roli v Božské Hře.
+
+Vliv Mahábháraty kvete staletí. Vliv Srí Kršny je Požehnáním pro Věčnost.
+
+Pánduovci měli lásku ke Sri Kršnovi. Sri Kršna měl nejen lásku, ale také štědrý zájem o Pánduovce.
+
+Ardžuna se nakonec stal duchovním dítětem Sri Kršny. Sri Kršna se nakonec se stal milujícím otrokem Ardžunovy kapitulace. 
+
+Gíta je Sri Kršnovým Srdcem, jeho Vizí v Naplnění. Gíta je lidským Dechem, jeho Cestou k Nesmrtelnosti. 
+
+Sri Kršnova flétna vzrušuje Univerzální Vědomí. Sri Kršnova Gíta okouzluje Transcendentální Vědomí. 
+
+Sri Kršna hraje na flétnu. My posloucháme. Děláme něco víc. Vyměňujeme prach našeho těla za plnost Jeho Duše. 
+
+Pokud je Avatár Sri Kršna nejsložitějším vchodem, pak je Gíta, jeho píseň, nejúčinnějším klíčem. 
+
+Pro duše spoutané se zemí může Gíta plodně urovnat tmavé problémy lidského života. Pro Nebe hledající duše může Gíta probudit nové vědomí stále rostoucí Blaženosti.
+
+Já konám. Odmítám přijmout pozvání Touhy. Sri Kršna koná. Přichází do mne osvítit mé vědomí. 
+
+Můj ideál je smontovat vyšší a vyšší žebřík božského vývoje. Sri Kršnův ideál udělat Sám Sebe božskou Obětí, která posílí příčky žebříku.
+
+Sri Kršna je sladký, když si Ho uvědomím jako dokonalost svého "já". Sri Kršna je sladší, když si Ho uvědomím jako někoho, kdo koná. Sri Kršna je nejsladší, když si uvědomím Jeho jako pilota veškerého mého jednání a sebe jako Jeho oddaného nástroje. 
+
+Aspirant to je pláčem, který nutí Sri Kršnu, aby se ho zmocnil s šílenou láskou.
+
+A Vaišnavův život je opojnou láskou. On je částí osobnosti Sri Kršny, prostupující všemi božskými vlastnostmi věčného Života.
+
+Když žiji v Duši Sri Kršny, vidím Pravdu shora. Když žiji v Srdci Sri Kršny, vidím Pravdu zevnitř. Když žiji v Těle Sri Kršny, vidím Pravdu zvenčí. 
+
+Sri Kršna je bezbřehým oceánem Blaženosti. Ale jakmile se Mu upřímně oddám, On mi daruje Svou vlastní Loď a vezme mě k bezmeznému Pobřeží, Zlatému Všemu.
+
+Sri Kršna chodil po zemi, aby zničil filozofii duchovnosti, která se vyhýbá světu a materialismu svírajícího svět. Založil na zemi "Dharmarádžu", království Vnitřního Zákona. Obnovil pravého ducha hrdinství kšatrijů, motivované nikoliv lidským já, ale Boží Vůlí, která vytvoří člověka oddaným a aktivním nástrojem Nejvyššího. Přinesl dolů do pozemského vědomí Nejvyšší Pravdu, že země a pozemský život jsou ve své podstatě božské, musí být navenek božské, plně a zcela, v každé oblasti, v každém aspektu.
+
+
+
+* Princ
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+#+BEGIN_QUOTE
+
+Buddham saranam gachhami
+Dhammam saranam gachhami
+Sangham saranam gachhami
+
+-- tradiční buddhistická píseň
+
+#+END_QUOTE
+
+
+Když "hledám útočiště u Buddhy", On mi žehná.
+
+Když "hledám útočiště u Dharmy", On mě osvěcuje.
+
+Když "hledám útočiště u Řádu [společenství]", On mě využívá.
+
+Siddhártha to udělal. Odešel ze svého rodinného života do stavu bezdomoví. Nejvyšší to udělal. Uložil Buddhu ve zbožňujícím srdci lidstva, v klíně Univerzální Lásky.
+
+Pokušení viděl a vyhnul se mu. Odříkání cítil a žil. Střední cestu si uvědomil si a nabídl.
+
+Všemohoucí udělal dvě věci. Prostřednictvím Siddhártha Gautama zjevil ideál dokonalosti v člověku. Prostřednictvím Buddhy odhalil Své Osvícení a Soucit v Božské Bytosti.
+
+Buddha zavrhnul kasty. Učil. Upadlý se od něho naučil hodnotu sebeúcty. Neochvějný se od něho naučil nutnost pokory.
+
+Nirvána je zázračná síla. Negativně potěší duše, které chtějí "vyhasnutí". Pozitivně potěší duše, které touží po Konečné a Transcendentální Blaženosti.
+
+Buddha nestál proti hinduistickému náboženství. Stál proti hinduistické zvrácenosti a korupci. Nikdy se nestyděl za hinduistického náboženství. Ale naprosto se styděl za některé jeho způsoby a metody.
+
+Buddha neměl žádného Boha. Ale měl Božství v jeho nejplnější míře. 
+
+Neuchopitelné přišlo k Buddhovi se Svým Srdcem. 
+
+Nepoznatelné přišlo k Buddhovi se Svou Myslí. 
+
+Transcendentální přišlo k Buddhovi se Svou Blažeností. 
+
+Hinduismus je strom. Buddhismus je jeho největší větví. Syn zjistil, že jeho matka nebyla dokonalá. A tak se rozhodl žít sám. 
+
+Buddhismus vytvořil dvě školy myšlení: Hínayánu a Maháyánu. Hínayána nebo Théraváda závisí na soběstačnosti. Maháyána závisí na milosti.
+
+Hínayána touží po individuální spáse. Maháyána touží po kolektivním spasení.
+
+Hínayána se domnívá, že jedině mniši jsou oprávněni modlit se za Konečnou Pravdu. Maháyána cítí, že nejen mniši, ale i laici jsou oprávnění modlit se za Konečnou Pravdu.
+
+Meditace dává Osvícení, cítí Hínayánista. Meditace, modlitba a vzývání, to vše dává osvícení, cítí Maháyánista .
+
+Hínayánista sedí u nohou Buddhova Učení a následuje doporučení, že člověk musí pracovat na své vlastní spáse.
+
+Maháyánista sedí u nohou Buddhovy pozemské Osobnosti a následuje radu, že člověk by neměl překročit bránu Transcendentální Blaženosti, dokud úplně každá duše nebude osvobozena.
+
+Je pravda, že buddhismus již nežije v zemi svého narození. Ale Matka Indie je nezměrně hrdá na svého duchovního Prince a stále v lásce chová svého svět-osvěcujícího Učitele. Její nejlaskavější pocit je: Můj Buddha je dítě rebel. Můj Buddha je velký Přispěvatel. Můj Buddha je velký Reformátor.
+
+
+
+* Syn
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+
+Ježíš přišel. Svět slyšel. Ježíš odešel. Svět viděl. Ježíš se usmívá. Svět se stává. 
+
+Ježíš chtěl. Svět nedal. Svět chce. Ježíš dal. Kromě toho se stal. 
+
+Ježíš měl možnost sdělit světu nesrovnatelnou ctnost odpuštění. Ježíš neměl možnost sdělit světu nevyhnutelnou nutnost meče. 
+
+Ježíšovo lidské zrození byla Otázka. Jeho Božská Smrt byla nejen odpověď, ale Odpověď.
+
+Bůh byl více než úspěšný při seslání Svého Syna na zem. Lidstvo utrpělo víc než porážku v nepřijetí Syna. 
+
+Ježíš měl. Svět potřeboval. Svět měl. Ježíš přijal. 
+
+Ježíš konal. Odhalil sám Sebe. Svět konal. Zahalil sám Sebe. 
+
+Bůh se usmíval skrze Ježíšovy oči. Lidstvo plakalo skrze Ježíšovy Oči. 
+
+Ježíš byl Mariiným pozemským stvořením. Marie byla Jeho duchovním stvořením. Chránila Rostlinu. Strom chránil ji. A ona v sobě chrání celé stvoření Svého Otce.
+
+Smyslnost nemůže žít v Čistotě. Ale Čistota může žít ve smyslnosti. Mariina Čistota se dotýká nejen nepřetržitého toku lidské nečistoty, ale také jejího pramene: Nevědomosti. 
+
+Lidská nečistota ví jenom jak křičet. Mariina božská Čistota určitě poslouchá její pláč. Ale její dynamický kouzelný proutek musí čekat na Hodinu Boha. Kromě toho je nesmírně důležitá vnímavost každého jedince. 
+
+Ježíšovo tělo ukázalo na zemi, jak ho používat. Ježíšova duše ukázal na nebi, jak sestupovat.
+
+Hrubé chyby země jsou obrovské. Boží Soucit je větší. Ježíš to věděl. Modlil se za toto požehnání: "Otče, odpusť jim, neboť nevědí, co činí." 
+
+Bůh je Rozum i Víra. Protestantismus chce vidět Boha skrze Jeho neposkvrněnou Příčinu. Katolicismus chce vidět Boha skrze Jeho implicitní Víru.
+
+Katolicismus cítí, že Kristus věčně Byl. Protestantismus cítí, že Kristus se postupně Stal. 
+
+Kdo je náš s ničím nesrovnatelný kamarád? Ten, kdo nám vědomě či nevědomě pomáhá plnit Boží Vůli uvnitř i vně. Ježíš to věděl. "Příteli," oslovil Jidáše. Význam Jidášova doteku Nebe znalo, ale země se to musí ještě dozvědět.
+
+
+
+* Část III: Příběhy z Gíty
+
+  :PROPERTIES:
+  :GENRE: section
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+
+* Zdroj
+
+  :PROPERTIES:
+  :GENRE: story
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Všichni víme, že Gíta pochází z Mahábháraty, největšího indického eposu. Tehdy tam žil velký mudrc, který se jmenoval Vjása. Jeho otec byl Parášara. Jednou byl mudrc Vjása hluboce inspirován k napsání epické básně, ale myslel si, že by bylo pro něj nemožné napsat celý epos. Tak se modlil k Brahmovi, Stvořiteli.
+
+Brahma, Višnu, Šiva, naše trojice: Brahma stvořitel, Višnu ochránce, Šiva transformátor. Vjása se modlil k Brahmovi a Brahma sestoupil v lidské podobě. Mudrc řekl Brahmovi, "Pošli mi prosím někoho, kdo může zapsat to, co řeknu." Brahma řekl, "No, na zemi existuje pouze jedna osoba, která to může udělat, a tou je Ganapati. Můžeš ho vzývat, on může zaznamenat tvé diktování." A tak vzýval Ganapatiho, syna Pána Šivy.
+
+Když Ganapati přišel, dohodli se, že bude zapisovat pod jednou podmínkou. Podmínkou bylo, že Vjása musí diktovat bez přestání; musí diktovat plynule, bez přerušení. Pokud by zaváhal nebo pokud by se odmlčel, pak by toho Ganapati mohl nechat. Vjása souhlasil a řekl: "Teď já chci také jednu podmínku pro diktování, a touto podmínkou je, že pokud nebudeš chápat význam toho, co diktuji, nebudeš psát. Budeš muset počkat a zeptat se mě na to, co nemůžeš pochopit." Vjása byl velmi chytrý. Myslel si, že by mohl používat složité věty, a to by mohlo Ganapatimu chvíli trvat, než jim porozumí, a v té době bude moci získat více inspirace a připravit se na diktování. Tak byla složena Mahábhárata.
+
+
+
+* Kršno, potřebuji jenom tebe
+
+  :PROPERTIES:
+  :GENRE: story
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Když měl Sri Kršna svou polední siestu, přišli za ním Durjódhana a Ardžuna. Durjódhana přišel o několik minut dříve, a protože byl plný pýchy, postavil se vedle Sri Kršnovy hlavy. Ardžuna, protože byl plný pokory a skromnosti, se postavil u Sri Kršnových nohou.
+
+Po chvíli se Sri Kršna probudil a jeho oči spočinuly na Ardžunovi. Když se otočil, uviděl Durjódhanu. Chtěl vědět, proč v tuto hodinu přišli. Ardžuna řekl, "Teď už víš, že se bitva bude konat. Potřebuji tě."
+
+Durjódhana řekl, "Také jsem sem přišel, abych od tebe dostal pomoc, ale já jsem přišel před ním, takže budeš muset nejprve splnit moje přání." A tak Sri Kršna řekl, "Je pravda, že jsi přišel před Ardžunou, ale viděl jsem ho prvního a bude mu dána šance jako prvnímu. Kromě toho je mladší než ty. Takže on bude mít první možnost.
+
+Ardžuna řekl Kršnovi s obrovskou radostí, "Chci tebe!"
+
+Durjódhana si myslel: Jaký je to Ardžuna hlupák. Chce jen samotného Kršnu.
+
+Sri Kršna řekl, "Chceš mě? Ale já nebudu bojovat. Budu jen tvůj vozataj. Jeden z vás bude mít mne samotného a druhý bude mít mou obrovskou armádu."
+
+Durjódhana přemýšlel, co by mohl Kršna dělat sám a beze zbraně? To nejlepší pro něj bude mít Kršnovu armádu.
+
+Ale Ardžuna, jenž byl osvíceným člověkem, si pro sebe řekl, "Co budu dělat s jeho armádou? Nejlepší pro mne bude mít Pána se mnou. Pán bude schopen mě chránit a Pán mi přinese vítězství." Ardžuna chtěl Sri Kršnu a Durjódhana chtěl celou armádu Sri Kršny.
+
+Nyní ale existoval slib, že Sri Kršna nebude nikdy, nikdy bojovat. Bohužel, on musel svůj slib porušit; nemohl ho splnit. Dvakrát vyběhl z vozu. Zabít koho? Bhíšmu. Ve třetím a devátém dnu Sri Kršna zjistil, že Ardžuna nebojuje správně proti svému praotci. Pro Ardžunu bylo mimořádně obtížné používat zbraně proti svému praotci.
+
+Sri Kršna řekl, "Ardžuno, ty nebojuješ. Proč? " A tak vyšel z vozu se svým diskem. Chtěl Bhíšmu zabít. A jaká byla Bhíšmova reakce? Bhíšmova radost neznala mezí. Řekl: "Pojď, Ó můj Pane, pojď! Zemřu-li tvýma rukama, pak hned půjdu do nebe! Já jsem ten nejpožehnanější člověk, protože ty přicházíš, abys mě zabil!"
+
+Ale v obou případech Ardžuna následoval Sri Kršnu a řekl: "Ne, musíš splnit svůj slib. Nenechám tě bojovat, já budu bojovat. Nedovolím, abys porušil svá slova. Pojď, posaď se do vozu a řiď. Budu bojovat.“
+
+Zde se dozvídáme, že Guru, Mistr, může kdykoli zrušit svůj vlastní slib, aby pomohl, aby ochránil, aby vybojoval vítězství pro žáka. Sri Kršna byl Vševědoucí, Všemohoucí, Všudypřítomný a také Spravedlivý. Ale když je to otázka zájmu nejintimnějšího žáka, Guru jde proti obvyklému pohledu na morálku. Takové bylo Sri Kršnovo srdce pro Ardžunu.
+
+
+
+* Vítězství je tam, kde je Dharma
+
+  :PROPERTIES:
+  :GENRE: story
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Gándhárí nejstarší syn, Durjódhana, si k ní přišel pro požehnání. Neřekla, "Modlím se za tvoje vítězství!" ani "Vítězství bude tvoje!" Ona řekla: "Tam, kde je Dharma, bude vítězství." Moc dobře věděla, že na druhé straně, u protivníků, byl Judhišthira, syn Dharmy, inkarnace Dharmy, kdo by měl zvítězit. Nemohla požehnat svému synovi říct: "Tvé bude vítězství." Takže řekla: "Tam, kde je Dharma, bude vítězství."
+
+
+
+* Četl Gítu, ale nenásledoval Gítu 
+
+  :PROPERTIES:
+  :GENRE: story
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Gíta se skládá ze sedmi set veršů. Měl jsem to štěstí v Indii vidět muže, který za hodinu a půl odrecitoval celou Gítu, od začátku do konce. Také mi řekl, že dříve to mohl udělat za hodinu. Nicméně, recitace je jedna věc, opakování je jedna věc, ale následování učení Gíty je něco jiného. Muž, který celou Gítu recitoval zpaměti, se snad neřídil žádným učením Gíty. Ve třetí kapitole Gíty se dozvídáme, že jíst příliš mnoho jídla není dobré. Je lepší mít čerstvé a ne prošlé jídlo. Ale tento muž byl nenasytný jedlík a jedl shnilé, zkažené jídlo. Takže četl Gítu, ale nenásledoval Gítu.
+
+
+
+* Kršna, věčná záhada
+
+  :PROPERTIES:
+  :GENRE: story
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Sri Kršna byl učitel od samého počátku svého života. Dokonce ještě předtím, než vstoupil do fyzického světa, působil jako učitel. Předtím, než vstoupil do lůna své matky, přišel ke svému otci, který byl vězněn králem, a řekl: "Chystám se teď vstoupit do fyzického světa. Hned jak se narodím, vezmeš mě z této vězeňské cely a zaneseš mne k Nandovi." (Nanda byl jeden z jejich příbuzných). Jeho otec viděl Sri Kršnu živě ještě před tím, než Kršna vstoupil do světa projevení. A k překvapení každého se při narození zcela náhle otevřely dokořán všechny dveře a brány vězení a jeho otec ho vzal na místo, kde Nanda přebýval. Zde začalo jeho učení.
+
+Podobný incident se stal před narozením matce Pána Buddhy. Také křesťanství říká prakticky totéž, že Ježíš vstoupil do lůna své matky vědomě.
+
+Abychom se vrátili ke Sri Kršnovi; když byl ještě dítě, otevřel svá ústa a ukázal své matce celý vesmír. Naučil svou matku, že vesmír není nikde jinde, než v jeho nitru.
+
+Potom, když mu bylo jedenáct let, jednoho dne pozoroval, jak jeho rodiče, jeho příbuzní a sousedé, všichni provádí obřad na počest Pána Indry, boha deště, krále bohů. Sri Kršna řekl, "Proč uctíváte Indru? Je lepší, abyste uctívali tento kopec. Proč neuctíváte Giri Góvardhanu? Náš dobytek je krmen tímto kopcem a každému tento kopec tak nebo tak pomáhá. Měli bychom uctívat tento kopec a ne Indru. Indra nám žádným způsobem nepomáhá. Pokud chcete poznat pravdu, pak uctívejte tento kopec." Při této příležitosti ho poslechli. Neuctívali Indru, ale kopec a Indra se rozzuřil. Celou oblast zaplavil vodou. Spustil se nepřetržitý liják, který trval sedm dní. Ale Sri Kršna nepřijmul porážku. Jediným svým prstem zvedl celý kopec a tento kopec posloužil jako deštník. Celá oblast byla pod ochranou kopce a také stále zůstala. Říká se, že Sri Kršna ho držel sedm dní a poté si Pán Indra uvědomil, že je to zbytečné. Sri Kršna chránil celý svůj rod a všechny své příbuzné. Potom Pán Indra přijal svou porážku.
+
+Kršna byl pasáček a měl mnoho, mnoho přátel. Byl velmi dobrý flétnista. Chlapci a dívky, zejména dívky, chodívaly poslouchat jeho hraní. Ale láska, kterou je miloval, byla vždy ta nejčistší. Měl mnoho takzvaných přítelkyň. My si toto okamžitě spojujeme se špatnými emocemi, ale v případě Sri Kršny byl jeho vztah naprosto čistý. Mezi těmito dívkami byla jedna, která se jmenovala Radha. Radha se nakonec stala jeho družkou a jeho šakti, a byla to právě ona, která si plně uvědomila, kdo Sri Kršna byl. Takto Sri Kršna vyjádřil svou Božskou Lásku k lidským bytostem. Byla to Blaženost, kterou chtěl vyjádřit, čistá Blaženost v tomto fyzickém světě. 
+
+Ale kritika v té době existovala také. Lidé začali Sri Kršnu kvůli jeho vztahu k Radze otevřeně kritizovat. Radha mu byla velmi blízká. Jednoho dne mu Radha v rozmrzelé náladě řekla: “Podívej se, ty jsi tak čistý, tak božský a já jsem přišla poslouchat tvou hudbu a ty mi vyprávíš věčné, božské pravdy. Jak je možné, že lidé tvoří takové pomluvy, zejména moje kamarádky? Jen proto, že mi věnuješ zvláštní pozornost, nás kritizují." Sri Kršna jí dal široký úsměv a řekl: "Tak dobře." A tak jednoho dne Sri Kršna pozval všechny své přítelkyně a řekl jim: "Dnes bych chtěl hrát zvláštní hru. Vím, že všechny z vás jsou čisté a všechny z vás jsou cudné. Většina z vás má manžely." Pak Sri Kršna vzal síto a kbelík s vodou. Řekl jim, že každá má nalít vodu do síta a zůstane-li voda v sítu, pak to znamená, že je tato dívka čistá a cudná. Jedna po druhé začaly nalévat vodu, a samozřejmě té prvním voda unikla. Všechny se smály a říkaly, že nebyla počestná a čistá, ona zčervenala a schovávala hlavu do dlaní. Pak přišla další dívka a stalo se totéž a totéž s další a další dívkou.
+
+Radha tuto scénu pozorovala. Sri Kršna jí řekl, "Radho, proč mlčíš, proč to nezkusíš?" Řekla, "Ony mě stále kritizují, a když to zkusím, pravděpodobně se připojím k jejich selhání." Sri Kršna řekl, "Proč nepřijdeš a nezkusíš to, je to jen hra." Tak přišla a nalila vodu, kbelík po kbelíku, ale ze síta voda neunikala. Všechny byly ohromeny a Sri Kršna řekl, "Hle, teď můžete vidět, kdo je cudný, kdo je čistý. Teď vás poučím o Věčné Pravdě. Já jsem Pán Vesmíru. Radha za Mnou přichází pro duchovní pomoc a Věčnou Pravdu, a Má láska k ní a ke všem z vás je duchovní a božská.
+
+Některé z vás mají manžely, ale vaše mysl se stále potuluje někde jinde. Staráte se o jiné muže a dáváte hodně pozornosti jménu, slávě a povinnostem. Ale v případě Radhy v její mysli jsem vždycky Já. Radha je vdaná žena, Radha má svého manžela, ale bez ohledu na to, kam chodí a s kým mluví, její mysl je vždy se Mnou. Já jsem Pán Vesmíru, a ten, kdo myslí na Mne, je nejčistší na světě. Ti, kteří myslí na jiné věci nejsou čistí."
+
+Když Sri Kršna vyrůstal, velmi často si ve společnosti přál, aby dával co nejvíce osvěcující rady. Všichni k němu přicházeli pro vedení a on byl jejich hlavní rádce. Když se stali Pánduovci jeho nejdůvěrnějšími přáteli, vždy jim radil v jejich problémech; ve všech jejich strastech a radostech byl Sri Kršna a radil jim. Pak přišel na bitevní pole pomoci Ardžunovi. My už z Gíty víme, že radil Ardžunovi jak bojovat, a učil Ardžunu vše o vnitřním životě, o duchovním životě, vnitřní dokonalosti a vnější dokonalosti, realizaci a projevení. Sri Kršna řekl, "Kdykoli ctnost upadá a nepravost nabývá vrchu, tu vždy se rodím na zem, abych chránil ctnostné a ničil ty, kteří tvoří zlo; abych nastolil Dharmu, rodím se od věku k věkům.“ Toto je jeden z nejdůležitějších veršů v Gítě.
+
+
+
+* Ardžuna a asketa
+
+  :PROPERTIES:
+  :GENRE: story
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+
+Ardžuna byl radžasický bojovník. Přál si bojovat a zabíjet lidi. V Mahábháratě jsme viděli, jak bojoval proti nepříteli. Kršna chtěl zničit Ardžunovu radžasickou pýchu, protože mu byl Ardžuna z jeho přátel a žáků velmi drahý. Jednou vstoupila do Ardžuny pýcha a Sri Kršna řekl, "Pojďme se projít." Oba vyšli ven na procházku a na cestě spatřili asketu, který jedl malé stéblo suché trávy. Zelená tráva byla k dispozici všude kolem něj, ale on sbíral suchou trávu. Současně mu na boku visel obnažený meč. Ardžuna to nemohl pochopit. Na jedné straně nejedl ani živou zelenou trávu, protože nechtěl ublížit nebo zranit žádnou živou věc. Jeho soucit pro živé věci byl takový, že byl připraven k jídlu jíst jen suchou trávu, ale nikoliv zelenou trávu. Přesto měl ve stejné chvíli na svém boku svůj meč. A tak se Ardžuna zeptal Sri Kršny:
+
+"Prosím, řekni mi, co je s tímto člověkem špatně. Proč je jeho život životem rozporu mezi stéblem trávy a zároveň obnaženým mečem?" Sri Kršna řekl, "Jdi a zeptej se ho." Tak šel a zeptal se askety, "Prosím, vysvětli mi to. Já nechápu, proč se takhle chováš." Ten muž odpověděl: "Máš pravdu, že chci vést zbožný život, nechci zraňovat. Ale ve stejnou chvíli chci zabít na zemi čtyři osoby a proto mám stále tento meč. Čtyři osoby, v okamžiku, kdy je uvidím, zabiju je." Ardžuna řekl, "Prosím, řekni mi, kdo to je."
+
+"První z nich je Narada." 
+
+"Co ti Narada udělal?" 
+
+"Oh, Narada! Po celou dobu zpívá o slávě mého Pána Kršny. A pro mého Pána není chvilka, aby si odpočinul. Po celou dobu musí zpívat, a já poslouchám písně -- zpěv, zpěv, zpěv. Neustále narušuje spánek mého Pána. Chci mizerného Naradu zabít, jestli ho uvidím."
+
+"Tak a kdo je druhá osoba?" 
+
+"Druhá je Draupadi, Ardžunova manželka. Najednou řekla, ‚Pane, zachraň mě, zachraň mě!‘ Můj pán musel jít a použít svou sílu, aby zachránil její čest. Co to bylo za odvahu, co měla!"
+
+Příběh Draupadi je, že když Judhišthira prohrával ve hře v kostky s Duhšásanou, Durjódhanovým mladším bratrem, jeho poslední sázka byla, že Draupadi bude patřit vítězi. Takže když znovu prohrál, Draupadi, manželka, musela jít na druhou stranu a zůstat s Kuruovci. Chtěli Draupadi svléknout, ale něco takového bylo před králi a mocnáři nemyslitelné. Draupadi na začátku zkoušela svůj šat pevně držet, ale nakonec se odevzdala a řekla: "Ó Kršno, zachraň mě!" Kršna jí okamžitě dal nekonečný pás sárí. Začali z ní sárí odmotávat, ale bylo nekonečné, takže pro ně bylo zbytečné pokračovat.
+
+Když byla rodina Pánduovců v lese, stalo se, že na jejich místo přišel se všemi svými následovníky a žáky mudrc Durvasa. Nepřátelé Pánduovců poslali Durvasu, aby Pánduovce proklel. Durvasa jednou šel ke Kuruovcům a byl velmi pěkně přivítán s knížecí poctou nejstarším z Kuruovců, Durjódhanou. Vzhledem k tomu, že byl Durjódhanou velmi potěšen, Durvasa řekl: "Teď mě požádej o jakýkoliv dar." V té chvíli jej Durjódhana požádal, aby šel do lesa na místo, kde byli Pánduovci. Sri Kršna dal Pánduovcům hrnec, ze kterého se mohlo najíst libovolné množství lidí. Nicméně se toto mohlo stát jen do chvíle, kdy si Draupadi vzala své poslední jídlo dne. Poté, co se Draupadi nají, už nebude možné nakrmit jediného člověka na zemi. Durjódhana požádal Durvasu, aby tam přišel na konci dne až po tom, co se Draupadi nají, poté, až dojí své jídlo.
+
+Durvasa poslechl Durjódhanovu prosbu. Přišel poté, co Draupadi dojedla, jen aby ji trýznil. V té době, když někam přišel duchovní mistr, bylo první věcí nabídnout mu jídlo. Pokud byste neměli Durvasovi co dát, proklel by vás a spálil na popel. Když Durvasa a jeho následovníci přišli, ubohá Draupadi pro ně neměla žádné jídlo. Durvasa přišel a řekl: "Jsem velmi hladový.“
+
+Věděla, že kdyby mu nedala najíst, proklel by ji i její manžele. A tak vzývala Sri Kršnu. Sri Kršna v té době seděl na svém trůnu. Nebyl nikde v blízkosti lesa, ale svou okultní vizí hned viděl co se děje a fyzicky přišel, aby ji zachránil. Sri Kršna řekl, "Prosím, dej mi něco k jídlu. Mám velký hlad." Draupadi odpověděla, "Jsi tak hladový, a já jsem tady v rozpacích. Vzývala jsem tě, abys mi pomohl, a ty sem přicházíš, abys mě mučil. Jak ti mohu dát jídlo?" On řekl: "Ne, musíš mi dát jídlo. Vyzkoušej svůj hrnec."
+
+Odpověděla, "Nic tam nezbylo. Já jsem ti nelhala. Umyla jsem ho. Já jsem už jedla. Všichni jsme jedli. Nezbylo nic. Můžu ti ho ukázat." A tak přinesla hrnec a zjistila, že tam zbylo jedno zrnko rýže. Snědl ho a řekl: "A teď jsem spokojen. Požádej mne o cokoliv. Potěšila jsi mě." Řekla: "Zachraň mě! Mudrc Durvasa je nyní pryč i s jeho tisíci učedníky, koupou se v Ganze. Když se vrátí, budou chtít jídlo." A tak Kršna s jeho duchovní mocí okamžitě připravil jídlo pro tisíce lidí. Nyní Durvasa se svou jogínskou vizí uviděl, že se tam je Sri Kršna. Řekl: "Už tam nemusím chodit, protože mi nyní budou moci nabídnout jídlo. Nechci tam jít. Jsem spokojen."
+
+Abychom se vrátili k příběhu Ardžuny a askety, asketa řekl: "Chci zabít Draupadi. Ať už ve vhodnou nebo nevhodnou dobu, ona žádá o pomoc mého sladkého Pána. Zabiji ji. Neměla by kdykoliv vzývat mého Pána.
+
+"Třetí osoba je Prahlád. Byl jedním z největších žáků Sri Kršny. Ale jeho otec Sri Kršnu nenáviděl. Samotné jméno Sri Kršny ho dráždilo. Jeho syn byl pravým opakem, stále následoval Kršnu. Takže co jeho otec udělal? Hodil Prahláda do vroucí vany s olejem. Pak ho hodil na zem a strčil ho, svého vlastního syna, pod šíleného slona. Nechal slona, aby rozdrtil jeho syna, protože syn neposlouchal svého otce. Ale syn nebyl rozdrcen a vařící olej chlapce nezabil. Byl tam Sri Kršna. A tak zatímco otec chtěl chlapce zabít, přítomnost Sri Kršny ho zachránila."
+
+To je důvod, proč asketa řekl: "Kdykoliv je nějaké nebezpečí, Prahlád okamžitě vysloví jméno mého Pána Kršny, který ho přijde zachránit. Prahlád nemá právo vzývat mého Pána. Musí být potrestán. 
+
+"Čtvrtý z nich je ubohý Ardžuna," pokračoval asketa. "Chci ho teď a tady zabít." 
+
+Ardžuna řekl, "Ardžuna! Co udělal?"
+
+Asketa odpověděl: "Podívejte se na jeho troufalost. Požádal mého Pána Kršnu, aby mu dělal vozataje na bitevním poli. Sri Kršna je Pánem Vesmíru a Ardžuna ho požádal, aby byl jeho vozataj. Podívejte se na jeho troufalost! Chci ho zabít."
+
+Ardžuna si uvědomil, že asketa byl skutečně oddán Sri Kršnovi, a že je pro něj samou láskou a samým zájmem.
+
+
+
+* Velký hrdina a výsledek jeho jedné lži
+
+  :PROPERTIES:
+  :GENRE: story
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Chtěl bych vám vyprávět smutný příběh. Durvasa si myslel, že si podmanil vše. Řekl: "Já jsem přemohl hněv, já jsem přemohl vášeň, já jsem přemohl všechno. Není pro mě nic, co mi zbývá dobýt. 
+
+Pak jednoho dne, když meditoval, přiletěla moucha a posadila se na jeho rameno. Durvasa vyletěl vztekem. Ten, který byl tak silný, se stal plný vzteku na mouchu a řekl: "Mám moc zničit svět. Jak se opovažuješ sedět na mém rameni!"
+
+Moucha uletěla a on šel pro pomoc k Pánovi Šivovi. Pán Šiva k němu přišel a řekl: "Durvaso, podmanil sis vše, a přesto si moucha může sednout na tvé rameno a ty se rozlobíš!"
+
+Durvasa byl velmi mocný. Měl duchovní síly i okultní síly, ale nikdy si nepodmanil svou prchlivost. V Mahábháratě existuje mnoho autentických příběhů, kdy zničeho nic proklel lidi. Jeho požehnání byly také velmi nerozumné. Občas požehnal lidem, ale velmi často to bylo spíše prokletí. Jeho samotné požehnání bylo prokletím. 
+
+Kuntí byla matka velkého hrdiny Gíty, Ardžuny. Kuntí pocházela z královské rodiny, a když byla mladá a svobodná, panna, tak se stalo, že Durvasa přišel do otcova paláce a ona ho obsluhovala. Durvasa byl s ní tak spokojen, že jí okamžitě řekl: "Dám ti požehnání."
+
+Řekla: "Děkuji vám. Budu tak šťastná."
+
+"Tak dobře. Požehnání je, že budeš brzy matkou velkého hrdiny." To bylo požehnání! Kuntí byla svobodná a dostala takové požehnání! 
+
+Ona řekla: "Teď jsem svobodná, jak se mohu stát někoho matkou?" 
+
+A chudák Kuntí měla dítě. Protože bylo nelegitimní, položila dítě do truhlice a hodila ho do řeky. Proud řeky přinesl dítě do rukou obyčejného, prostého člověka, vozataje, jež se jmenoval Adhirat. Adhirat dítě (Karnu) vychoval. Když vyrostl, stal se velkým Karnou, stejně silným jako Ardžuna. Nakonec museli na bitevním poli Kurukšetra Ardžuna a Karna proti sobě bojovat.
+
+Karna byl v těch dnech jeden z největších hrdinů, ale nevěděl, kdo je jeho matka. Když probíhala bitva u Kurukšetry, Kuntí k němu na poslední chvíli přišla s pláčem: "Můj synu, budeš bojovat proti ostatním mým synům. Chci, abys ty i Ardžuna, stejně jako mí další synové, zůstali spolu."
+
+Karna řekl, "Teď už je příliš pozdě. Nemůžu to udělat. Máš pět synů a považuješ-li mne za šestého syna, pak ti říkám, že až bitva skončí, budeš mít svých pět synů."
+
+"Jak?" Vykřikla.
+
+"Buď Ardžuna zabije mne, nebo já zabiji Ardžunu. Nedotknu se dalších svých bratrů. Svět ví, že máš pět synů a pět synů ti zůstane."
+
+Víme, že ve válce u Kurukšetry byl Karna zabit Ardžunou. Byl zabit, protože jednou lhal o své kastě. Adhirat, který ho vychoval, nebyl kšatrija (bojovník), a tak Karna nebyl považován, že je kšatrijského původu. Z tohoto důvodu ho velcí lukostřelci a další nechtěli učit. Řekli: "Nepocházíš z kšatrijské rodiny. Nemůžeme tě učit. Pocházíš z nízké kasty."
+
+Nakonec šel k Parašuramovi, jednomu z největší lučištníků Indie, a když se ho Parašuram zeptal na jeho kastu, řekl: "Pocházím z kšatrijské rodiny." 
+
+Parašuram mu uvěřil a učil ho lukostřelbu, a tak se z Karny stal velký bojovník. Jednou odpoledne se stalo, že zatímco si Parašuram vzal siestu s hlavou položenou na klíně Karny, Karnu kousl škorpion. Karnova celá stehna začala hojně krvácet, ale on si myslel, že kdyby dělal hluk, mohl by svého pána probudit. Takže mlčel a škorpióna nezabil. Po chvíli se jeho pán probudil a viděl, co se stalo.
+
+Řekl: "Ty jsi nezabil škorpiona. Ty jsi mi lhal! Kšatrija nemůže takové věci tolerovat. Tvoje stehna silně krvácela, a pokud bys byl kšatrija, okamžitě bys škorpiona zabil. Ale ty nejsi kšatrija. Ty pocházíš z kasty šůdrů. Jsi služebník. Nemůžeš být nikdy kšatrija, nemůžeš být nikdy bojovník. Ty jsi mi lhal. Až budeš potřebovat, ve chvíli své nejhlubší potřeby, zapomeneš na tajemství, jak se používá tvá největší zbraň."
+
+Nyní vidíme, co se to stalo v bitvě u Kurukšetry, když Karna bojoval proti Ardžunovi. Karna měl nejsilnější zbraň, kterou by nemohl nikdo na světě překonat. Myslel si, že ji na bojišti použije pouze proti Ardžunovi a ne proti nikomu jinému. Prohlásil: "Tuto zbraň použiji pouze proti Ardžunovi."
+
+Ale na bojišti byl Ghatothkač, syn Bhímy, Ardžunova bratra, který zabil stovky bojovníků na straně Karny. Začal se blížit ke Karnovi, a když se chystal Karnu zabít, Karna řekl: "Teď mám ještě tu mocnou zbraň, kterou jsem dostal od Parašurama. S touto mohu zabít kohokoliv na Zemi. Proč bych ji nepoužil?" A tak ji použil a zabil syna Bhímy. Když pak došlo k boji s Ardžunou, byl již bezmocný a Ardžuna ho zabil. Vidíte, jak se naplnilo Parašuramovo proroctví. Také můžete vidět, jak se naplnilo proroctví Karny. Pět synů Kuntí zůstalo naživu.
+
+
+
+* Učenec si vše uvědomil 
+
+  :PROPERTIES:
+  :GENRE: story
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Jednou na ulici bráhman potkal učence. Bráhman držel kopii Gíty a jeho oči se koupaly v moři slz. Učenec si myslel, že bráhman nemůže pochopit některé učení z Gíty. Přišel k bráhmanovi a řekl: "Neplač, přišel jsem sem, abych ti pomohl. Řekni mi, co považuješ za obtížné pochopit, kterému verši nerozumíš? Vysvětlím ti to."
+
+Bráhman odpověděl: "Já pláču, protože vidím Pána Kršnu přímo přede mnou. Bez ohledu na to, jakou stránku otevřu, vidím Ardžunův vůz. Vidím Ardžunova vozataje, Kršnu. To jsou mé psychické slzy. Vidím svého Pána na všech stranách, vidím Sri Kršnu v jeho voze. To je důvod, proč mi tečou slzy. To neznamená, že nerozumím učení Gíty."
+Učenec si vše uvědomil.
+
+
+
+* Síla koncentrace a síla oddanosti
+
+  :PROPERTIES:
+  :GENRE: story
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Jsou někteří oddaní, kteří se chtějí předvádět. Celé hodiny meditují, hodiny zpívají, hodiny opakují jméno Pána Kršny. Na ostatní, kteří netráví tolik času při meditaci a zpívání se dívají spatra. Stalo se, že Ardžuna byl jeden z nich. Pokud si pamatujete, jeden z Ardžunových bratrů, jehož jméno bylo Bhíma, byl v nejsilnější v rodině. Bhíma se nikdy, nikdy nemodlil k jakémukoliv bohu. Trávil čas jezením a bojováním. Byl nenasytný jedlík a zároveň velký bojovník. 
+
+Ale Ardžuna se modlíval k tomuto bohu a k tamtomu bohu; musel potěšit všechny bohy na zemi. Pán Šiva musel být uctíván každý den. Dvě hodiny denně Ardžuna trávil sbíráním stovek květin a jednu po druhé pak nabízel Pánovi Šivovi. Pokaždé, když nabídl květinu, vyslovil jméno Pána Šivy. Pak vstoupila pýcha.
+
+Co dělal Bhíma, bylo velmi jednoduché. Položil si prsty na své čelo a na pár minut se před každým jídlem soustředil. Pak začal hltavě jíst. To byla jeho meditace! Chudák Ardžuna mohl strávit hodiny sbíráním květin, ale Ardžunova pýcha nemohla uniknout Sri Kršnovi. 
+
+Sri Kršna řekl Ardžunovi: "Pojď, půjdeme se projít." Když šli, uviděli muže, jak táhne vozík. Vozík byl naložen květinami. Všemi druhy květin. Ardžuna řekl tomu člověku: "Co děláš s těmito květinami? A kam jdeš?" Člověk neměl čas reagovat na Ardžunu. Sri Kršna řekl, "Ardžuno, pojďme za ním."
+
+Když ten muž došel ke svému cíli, bylo tam mnoho dalších vozíků květin. "Co budeš dělat se všemi těmi tisíci a miliony květin?" Zeptal se Ardžuna. "Nemám čas s vámi mluvit. Teď jsem ve vážné koncentraci. Mohu mluvit jen k jediné osobě na zemi, a tou je Bhíma, druhý Panduovec. On je největší duchovní hledající. Když medituje před svým jídlem jen jednu nebo dvě minuty, říká: "Ó mocný Pane Šivo," a tisíce květin jsou tak nabídnuty Pánovi Šivovi. Jeho koncentrace je nejintenzivnější. Jeho meditace je nejupřímnější. Ardžuna jen háže květiny na Pána Šivu. Jen se ukazuje."
+
+Chudák Ardžuna se vrátil s Pánem Kršnou a byl velmi rozzlobený, že ho podrobil takovému ponížení. Pán Kršna řekl Ardžunovi: "Chtěl jsem, aby ses naučil, že to není počet hodin, že to není počet květů, ale je to síla koncentrace, je to síla oddanosti, která se počítá.
+
+
+
+* Kršna, vdova a její kráva
+
+  :PROPERTIES:
+  :GENRE: story
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Někdy, když jsme v těžké situaci, působí Boží Milost velmi zvláštním způsobem. Cítíme, že když jsme v nesnázích a utrpení, tak je Bůh krutější. Dovolte mi, abych vám to ilustroval příběhem. Sri Kršna a Ardžuna byli jednou hosty u jedné vdovy. Vdova neměla žádné děti, nikoho. Byla úplně sama, ale měla krávu. Tato kráva byla jejím jediným prostředkem k obživě. Prodávala její mléko a z tohoto prodeje byla živa. Byla velkým oddaným Sri Kršny. Když ji Sri Kršna a Ardžuna navštívili v přestrojení, inkognito, byla tak ráda, že má dva božské hosty. Nabídla jim jídlo ze všeho, co měla ve svém domě. Sri Kršna byl velmi spokojen s jejím odevzdaným postojem a její oddaností. Na zpáteční cestě řekl Ardžuna Kršnovi: "Byl jsi jí tak potěšen. Proč jsi jí nedal požehnání? Proč jsi jí neřekl, že se jí bude brzy dařit dobře, teď, když si s ní tak spokojen?"
+
+"Už jsem jí udělil požehnání, že její kráva zítra musí zemřít."
+
+"Cože? Její jediný prostředek obživy? Ona má jen krávu a nic jiného. Jak může bez krávy přežít?"
+
+Kršna odpověděl: "Ty mi nerozumíš. Ona stále myslí na krávu. Kráva se musí nakrmit, musí se podojit, musí se umýt a tak dále. Chci, aby myslela jen na mě, a když bude kráva pryč, bude celou dobu, dvacet čtyři hodiny, myslet na mě. Pak brzy nastane správný čas, abych ji vzal pryč z tohoto světa, a po několika letech jí dám lepší a naplňující inkarnaci. Když nebude mít na zemi nikoho, ani krávu, bude se snažit trávit veškerý svůj čas, den a noc, jen se svou oddaností ke mně. Jinak bude zde na zemi stále myslet na krávu a ne na mne." A takto jsou cesty Sri Kršny nevyzpytatelné.
+
+
+* Nezařazené komentáře 
+
+  :PROPERTIES:
+  :GENRE: discourse
+  :CITE-KEY:
+  :KEYWORDS:
+  :END:
+
+Ardžuna je nesmírně spokojen a neobyčejně šťastný, že měl velmi vzácnou Vizi kosmické Formy. Jak je možné, že je stále zatížen dalšími filozofickými a duchovními otázkami? Důvodem je to, že jeho vize kosmické Formy ještě neznamená, že dosáhl Cíle cílů. Vize musí být transformována do žijící, stálé Skutečnosti v Ardžunově životě, a pak musí žít ve Skutečnosti samotné. Zkušenost vize je dobrá. Realizace vize je lepší. Ztělesnění vize je nejlepší. Lepší než i nejlepší je zjevení vize. A poslední v řadě je to projevení vize, které je božsky a nanejvýš nesrovnatelné.
+
+Nyní srovnáváme cestu meditace a cestu oddanosti. Ardžuna se chce naučit od Sri Kršny o obou cestách, o cestě meditace, která vede k Neprojevenému a o cestě oddanosti, která vede k osobnímu Bohu -- která je z těchto dvou lepší? Kršnova odpověď je, že každá cesta oddaně a věrně následovaná vede do cíle. Ale cesta meditace je složitější a náročnější. Fyzické tělo nás váže k hmotnému světu. Proto je pro nás obtížné meditovat na Nemyslitelné, Nepředstavitelné a Transcendentální. Ale pokud budeme přistupovat k Pánu, který přijal lidskou podobu a který hraje Svou božskou hru na poli Svého Projevení, náš úspěch bude nepochybně snadnější, rychlejší a přesvědčivější až do stupně, kterému by naše fyzická mysl nevěřila, že je možný.
+
+Skutečný hledající musí rozpustit všechno, co má -- nevědomost i znalosti -- a všechno, čím je -- egem i aspirací -- v Bohu. Je to vskutku velmi obtížné, ale ne nemožné. Hle! Je mu dána jedinečná příležitost přijmout nejjednodušší a nejefektivnější cestu. Na této jedinečné cestě musí jen nabídnout plody jednání Pánu a musí věnovat sám sebe -- tělo, mysl, srdce a duši -- Pánu.
+
+Cesta meditace a cesta oddanosti povede nakonec ke stejnému Cíli. Co tedy vytváří v aspirantovi pocit, že je velmi obtížné následovat cestu meditace? Odpověď je velmi jednoduchá. Aspirant nemůže zaostřit pozornost své mysli na Neprojevené Za; kdežto pokud je aspirant oddaný Pánu v Jeho projeveném stvoření, a pokud chce vidět a uctívat svého Milovaného v každé bytosti, jeho cesta se stává nepochybně jednodušší. Miluj nejprve tvar; pak od tvaru přejdi k Beztvarému Za. Žák se musí na začátku obrátit na božsky fyzický aspekt Gurua a pak musí jít za, daleko za Guruovu fyzickou formu a fyzickou podstatu, aby rozmlouval s a zůstal v Nepopsatelném a stále se Vzdalujícím Za.
+
+Žák chce tu nejjednodušší cestu. Sri Kršna laskavě souhlasí. Říká, že cesta meditace je obtížná, cesta nesobecké služby je obtížná a cesta inspirovaná Láskou a Oddaností je obtížná. Ale pořád je tu ještě jedna cesta, kterou je velmi snadné následovat. Na této cestě se je třeba jen zříci ovoce jednání. Pokud nemůžeme dělat svou práci jako oddanou službu Bohu, neměli bychom podlehnout temnému zklamání. Můžeme jen pracovat, pracovat pro sebe. Potřebujeme jen nabídnout naše ovoce Pánu. Nicméně budeme dělat dobře, jen pokud budeme dělat takovou práci, u které uvnitř cítíme, že je správná. Samozřejmě budeme dělat práci, kterou po nás požaduje naše oduševnělá služba. Pokud budeme dělat svou oduševnělou službu a nabízet ovoce Pánu, v každém okamžiku náš vnitřní Pilot vyhrává.
+
+Oddanost je více než dostatečná, abychom si uvědomili Pána Kršnu, Věčnou Pravdu. Nicméně, v této kapitole chce Sri Kršna rozšířit Ardžunovy znalosti, filozoficky a intelektuálně. Ti, kteří v sobě mají filozofické a intelektuální otázky týkající se Pravdy, budou nyní opravdu spokojeni. 
+
+Snažíme se vyhnout tomu a ignorovat to, co způsobuje problémy v našem životě. Podle Kršny, tato naše takzvaná moudrost není nic menšího než nevědomost. Je pravda, že si nebudeme sami vytvářet problémy. Ale když se objeví problémy, pak jim musíme čelit, vstoupit do nich a nakonec nad nimi neohroženě a úplně zvítězit.
+
+Ardžunovi již Pán požehnal vnitřní výškou. Nyní ho Pán chce osvítit poznáním Vesmíru, kde má hrát vědomou roli. Hmota a duch. Prakriti a Puruša. Pole a Znalec Pole. Tělo je pole. Duše je jeho Znalec. Pravá moudrost spočívá v uvědomění si Znalce Nejvyššího a Vesmíru, poznaného a odhaleného.
+
+Existuje dvacet čtyři Tattev, principů, které tvoří Pole. První skupina velkých prvků nebo základen je: země, voda, oheň, vzduch a éter. Pole také zahrnuje ego a pozemskou mysl, intelekt; pět orgánů činnosti -- ruce, nohy, jazyk a dva orgány vylučování; také smyslové orgány, jako jsou nos, ústa, oči, uši, a tak dále. Pět sfér smyslů jsou: zrak, čich, chuť, sluch a hmat. 
+
+Jen jedna věc má být poznaná. Vědět, že Pán je uvnitř Vesmíru, vně Vesmíru a Za Vesmírem, znamená vědět všechno.
+
+
+
+
+
+
+
+
+#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+
+# Local Variables:
+# mode: org
+# coding: unix
+# End:
+
