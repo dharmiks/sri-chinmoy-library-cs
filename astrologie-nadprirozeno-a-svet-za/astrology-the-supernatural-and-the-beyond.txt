@@ -12,7 +12,7 @@
  :ORIGINAL-EDITION: nil
  :YEAR: 1995
  :PUBLISHER: Madal Bal
- :CITE-KEY: ASB
+ :CITE-KEY: ASB-cs
  :GENRE: qa
  :KEYWORDS:
  :END:
