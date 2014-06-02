@@ -36,7 +36,7 @@
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:763­cs
+  :CITE-KEY: SCA:763-cs
   :KEYWORDS:
   :END:
 
@@ -107,7 +107,7 @@ Nevědomost se nás snaží chytit, ale my běžíme pryč tou nejvyšší rychl
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: SCA:764e2­cs
+  :CITE-KEY: SCA:764e2-cs
   :KEYWORDS:
   :END:
 
@@ -181,7 +181,7 @@ Vždy používejte srdce. Srdce vždy přináší novost, zatímco mysl nese sta
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:765­cs
+  :CITE-KEY: SCA:765-cs
   :KEYWORDS:
   :END:
 
