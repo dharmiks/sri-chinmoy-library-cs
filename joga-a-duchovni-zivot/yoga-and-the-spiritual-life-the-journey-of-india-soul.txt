@@ -19,7 +19,7 @@
 
 
 
-* Část první: DUCHOVNÍ A FILOSOFICKÉ POJEDNÁNÍ
+* Část I: DUCHOVNÍ A FILOSOFICKÉ POJEDNÁNÍ
 
   :PROPERTIES:
   :GENRE: section
@@ -629,7 +629,7 @@ Lidské nevědomé, polovědomé, vědomé a duchovně vědomé plány a Boží 
 
 
 
-* Část druhá: OTÁZKY A ODPOVĚDI O VNITŘNÍM ŽIVOTĚ
+* Část II: OTÁZKY A ODPOVĚDI O VNITŘNÍM ŽIVOTĚ
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
@@ -1332,7 +1332,7 @@ Soustředěním se na Boží všeprostupující Vědomí. Toto Vědomí není n�
 
 
 
-* Část druhá: ODPOVĚDI, NA KTERÉ SE PTALY DĚTI 
+* Část III: ODPOVĚDI, NA KTERÉ SE PTALY DĚTI 
 
   :PROPERTIES:
   :GENRE: section
@@ -1432,7 +1432,7 @@ Když se budeš modlit k Bohu každý den, jednoho dne se toto vnitřní oko ot
 
 
 
-* Část druhá: OTÁZKY A ODPOVĚDI O DUŠI
+* Část IV: OTÁZKY A ODPOVĚDI O DUŠI
 
   :PROPERTIES:
   :GENRE: section
@@ -1843,7 +1843,7 @@ Duše si s sebou do vyšších světů nebere žádná pozemská omezení. Když
 
 
 
-* Část třetí: NÁBOŽENSTVÍ (PŘEVÁŽNĚ HINDUISMUS)
+* Část V: NÁBOŽENSTVÍ (PŘEVÁŽNĚ HINDUISMUS)
 
 
   :PROPERTIES:
