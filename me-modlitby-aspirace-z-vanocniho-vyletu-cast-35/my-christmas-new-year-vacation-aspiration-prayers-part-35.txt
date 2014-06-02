@@ -15,9 +15,19 @@
   :CITE-KEY: APR-35-cs
   :GENRE: prayer
   :KEYWORDS:
+  :END: 
+
+
+
+* Poznámka editora 
+
+  :PROPERTIES:
+  :GENRE: note
+  :CITE-KEY: APR:2868e1-cs
+  :KEYWORDS:
   :END:
 
-/ Následující modlitby nabídl Sri Chinmoy během své návštěvy v Qingdao v Číně v prosinci roku 2004/
+/Následující modlitby nabídl Sri Chinmoy během své návštěvy v Qingdao v Číně v prosinci roku 2004/
 
 /21. prosince 2004/
 
