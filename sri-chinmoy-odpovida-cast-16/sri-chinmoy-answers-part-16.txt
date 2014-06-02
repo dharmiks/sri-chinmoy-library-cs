@@ -23,7 +23,7 @@
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: SCA:562e1-cs
   :KEYWORDS:
   :END:
 
@@ -36,7 +36,7 @@
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: SCA:562-cs
   :KEYWORDS:
   :END:
 
@@ -51,7 +51,7 @@ Ještě jednou každému z vás nabízím své srdce lásky a život vděčnost
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: SCA:563e2-cs 
   :KEYWORDS:
   :END:
 
@@ -64,7 +64,7 @@ Ještě jednou každému z vás nabízím své srdce lásky a život vděčnost
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:563-cs 
   :KEYWORDS:
   :END:
 
@@ -79,7 +79,7 @@ Jak můžete světu dokázat, že jste velmi moudří, pokud neustále kritizuje
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:564-cs 
   :KEYWORDS:
   :END:
 
@@ -95,7 +95,7 @@ Když vidíte, že někdo není dokonalý, vaše srdce musí vyjít do popředí
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:565-cs 
   :KEYWORDS:
   :END:
 
@@ -112,7 +112,7 @@ Tito lidé, kteří používají mysl, o sobě říkají, že nevěří v Boha.
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:566-cs 
   :KEYWORDS:
   :END:
 
@@ -123,7 +123,7 @@ Tito lidé, kteří používají mysl, o sobě říkají, že nevěří v Boha.
 * Je správné opustit syna a rodinu a odejít meditovat jinam, když nemůžu meditovat doma?
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:567-cs 
   :KEYWORDS:
   :END:
 
@@ -137,11 +137,11 @@ Měl byste žít v srdci. Když se na svého syna díváte nebo s ním či se 
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: SCA:568e3-cs 
   :KEYWORDS:
   :END:
 
-/ Sri Chinmoy poté svým jugoslávským žákům na rozloučenou řekl:/
+/Sri Chinmoy poté svým jugoslávským žákům na rozloučenou řekl:/
 
 
 
@@ -149,7 +149,7 @@ Měl byste žít v srdci. Když se na svého syna díváte nebo s ním či se 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: SCA:568-cs 
   :KEYWORDS:
   :END:
 
@@ -167,11 +167,11 @@ Protože jsme všichni hledající, věříme v existenci duše. Duše létá p
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: SCA:569e4-cs 
   :KEYWORDS:
   :END:
 
-/ Sri Chinmoy odpověděl na následující otázky 31. ledna 1990 v PS 86 v New Yorku./
+/Sri Chinmoy odpověděl na následující otázky 31. ledna 1990 v PS 86 v New Yorku./
 
 
 
@@ -179,7 +179,7 @@ Protože jsme všichni hledající, věříme v existenci duše. Duše létá p
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:569-cs 
   :KEYWORDS:
   :END:
 
@@ -193,7 +193,7 @@ Nesmíme Bohu přidělávat problémy. Nevědomě děláme mnoho špatných věc
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:570-cs 
   :KEYWORDS:
   :END:
 
@@ -209,7 +209,7 @@ Bůh je potěšen dokonce i naším kratičkým životem odevzdání a nekonečn
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:571-cs 
   :KEYWORDS:
   :END:
 
@@ -223,7 +223,7 @@ Jiný způsob je chovat se jako hrdina. Musíte mít odvahu cítit, že jste nan
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:572-cs 
   :KEYWORDS:
   :END:
 
@@ -239,7 +239,7 @@ Na konci vašeho života, i když se pohybujete jen rychlostí indického býč�
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:573-cs 
   :KEYWORDS:
   :END:
 
@@ -253,7 +253,7 @@ Transcendentál naplní vaši aspiraci. Ale kdyby Transcendentál začal také p
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:574-cs 
   :KEYWORDS:
   :END:
 
@@ -267,7 +267,7 @@ Vyzkoušel jsem několik indických rág. Ale bohužel nesouhlasím s tím, že
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:575-cs 
   :KEYWORDS:
   :END:
 
@@ -279,7 +279,7 @@ Vyzkoušel jsem několik indických rág. Ale bohužel nesouhlasím s tím, že
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:576-cs 
   :KEYWORDS:
   :END:
 
@@ -295,7 +295,7 @@ Stejně tak můžeme vzít práci. Když máte za den stihnout pět nebo šest v
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:577-cs 
   :KEYWORDS:
   :END:
 
@@ -317,7 +317,7 @@ Jsem velmi šťastný z vaší otázky. Takový by měl být postoj úplně ka�
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:578-cs 
   :KEYWORDS:
   :END:
 
@@ -335,7 +335,7 @@ Nejlepší modlitbou ze všech je ta, kterou nás naučil Ježíš Kristus: „S
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:579-cs 
   :KEYWORDS:
   :END:
 
@@ -349,11 +349,11 @@ Někteří lidé si libují ve frustraci. Vzývají ji. Potom chtějí ve frust
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: SCA:580e5-cs 
   :KEYWORDS:
   :END:
 
-/ Sri Chinmoy odpověděl na následující otázky 4. února 1990 v Progress-Promise v New Yorku./
+/Sri Chinmoy odpověděl na následující otázky 4. února 1990 v Progress-Promise v New Yorku./
 
 
 
@@ -361,7 +361,7 @@ Někteří lidé si libují ve frustraci. Vzývají ji. Potom chtějí ve frust
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:580-cs 
   :KEYWORDS:
   :END:
 
@@ -373,7 +373,7 @@ Někteří lidé si libují ve frustraci. Vzývají ji. Potom chtějí ve frust
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:581-cs 
   :KEYWORDS:
   :END:
 
@@ -385,7 +385,7 @@ Někteří lidé si libují ve frustraci. Vzývají ji. Potom chtějí ve frust
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:582-cs 
   :KEYWORDS:
   :END:
 
@@ -400,7 +400,7 @@ Naší cestou je život přijetí. Máte naprosté právo modlit se k Bohu pro 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:583-cs 
   :KEYWORDS:
   :END:
 
@@ -414,7 +414,7 @@ Bůh je jako farmář. Kope a kope. Na jednom místě kopal mnohokrát, ale nič
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:584-cs 
   :KEYWORDS:
   :END:
 
@@ -448,7 +448,7 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:585-cs 
   :KEYWORDS:
   :END:
 
@@ -460,7 +460,7 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:586-cs 
   :KEYWORDS:
   :END:
 
@@ -472,7 +472,7 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:587-cs 
   :KEYWORDS:
   :END:
 
@@ -484,7 +484,7 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:588-cs 
   :KEYWORDS:
   :END:
 
@@ -496,7 +496,7 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:589-cs 
   :KEYWORDS:
   :END:
 
@@ -508,7 +508,7 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:590-cs 
   :KEYWORDS:
   :END:
 
@@ -522,11 +522,11 @@ Samozřejmě, v závodě běžíte po stejné trati s dalšími běžci. Zde, 
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: SCA:591e6-cs 
   :KEYWORDS:
   :END:
 
-/ Sri Chinmoy odpověděl na následující otázky 14. února 1990 ve svém domě v New Yorku./
+/Sri Chinmoy odpověděl na následující otázky 14. února 1990 ve svém domě v New Yorku./
 
 
 
@@ -534,7 +534,7 @@ Samozřejmě, v závodě běžíte po stejné trati s dalšími běžci. Zde, 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:591-cs 
   :KEYWORDS:
   :END:
 
@@ -558,7 +558,7 @@ Vždy posloucháme, pozitivně, nebo negativně. Vždy se proto snažte jít poz
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: SCA:592-cs 
   :KEYWORDS:
   :END:
 
