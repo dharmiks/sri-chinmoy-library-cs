@@ -15,6 +15,16 @@
   :CITE-KEY: APR-45-cs
   :GENRE: prayer
   :KEYWORDS:
+  :END: 
+
+
+
+* Poznámka editora
+
+  :PROPERTIES:
+  :GENRE: note
+  :KEYWORDS:
+  :CITE-KEY: APR:3591e1-cs
   :END:
 
 
@@ -31,7 +41,7 @@
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3352-cs
+  :CITE-KEY: APR:3591-cs
   :END:
 
 
@@ -50,7 +60,7 @@ mému Pánu Nejvyššímu.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3353-cs
+  :CITE-KEY: APR:3592-cs
   :END:
 
 
@@ -68,7 +78,7 @@ kdo naplňují projevení Boha.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3354-cs
+  :CITE-KEY: APR:3593-cs
   :END:
 
 
@@ -87,7 +97,7 @@ navenek.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3355-cs
+  :CITE-KEY: APR:3594-cs
   :END:
 
 
@@ -105,7 +115,7 @@ přeměnitelem života.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3356-cs
+  :CITE-KEY: APR:3595-cs
   :END:
 
 
@@ -124,7 +134,7 @@ stále více.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3357-cs
+  :CITE-KEY: APR:3596-cs
   :END:
 
 
@@ -143,7 +153,7 @@ Matka Země.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3358-cs
+  :CITE-KEY: APR:3597-cs
   :END:
 
 
@@ -162,7 +172,7 @@ mé vnitřní slunce.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3359-cs
+  :CITE-KEY: APR:3598-cs
   :END:
 
 
@@ -181,7 +191,7 @@ odhodlání mé mysli.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3360-cs
+  :CITE-KEY: APR:3599-cs
   :END:
 
 
@@ -200,7 +210,7 @@ můj život odevzdaný Bohu.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3361-cs
+  :CITE-KEY: APR:3600-cs
   :END:
 
 
@@ -219,7 +229,7 @@ nové semínko přeměny.
   :PROPERTIES:
   :GENRE: note
   :KEYWORDS:
-  :CITE-KEY: APR:3362e1-cs
+  :CITE-KEY: APR:3601e2-cs
   :END:
 
 
@@ -235,7 +245,7 @@ Kuantan, Malaysia
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3362-cs
+  :CITE-KEY: APR:3601-cs
   :END:
 
 
@@ -254,7 +264,7 @@ ale mysl není spokojena.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3363-cs
+  :CITE-KEY: APR:3602-cs
   :END:
 
 
@@ -272,7 +282,7 @@ nesmírnou radost.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3364-cs
+  :CITE-KEY: APR:3603-cs
   :END:
 
 
@@ -291,7 +301,7 @@ nebudu mít nic společného!
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3365-cs
+  :CITE-KEY: APR:3604-cs
   :END:
 
 
@@ -310,7 +320,7 @@ co máme.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3366-cs
+  :CITE-KEY: APR:3605-cs
   :END:
 
 
@@ -331,7 +341,7 @@ je pouze mocný.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3367-cs
+  :CITE-KEY: APR:3606-cs
   :END:
 
 
@@ -351,7 +361,7 @@ Je obejmout.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3368-cs
+  :CITE-KEY: APR:3607-cs
   :END:
 
 
@@ -368,7 +378,7 @@ jsou mí praví přátelé.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3369-cs
+  :CITE-KEY: APR:3608-cs
   :END:
 
 
@@ -387,7 +397,7 @@ neúplná.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3370-cs
+  :CITE-KEY: APR:3609-cs
   :END:
 
 
@@ -405,7 +415,7 @@ i ty, kteří oddaně slouží.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3371-cs
+  :CITE-KEY: APR:3610-cs
   :END:
 
 
@@ -423,7 +433,7 @@ ale nemiluje je.
   :PROPERTIES:
   :GENRE: note
   :KEYWORDS:
-  :CITE-KEY: APR:3372e1-cs
+  :CITE-KEY: APR:3611e3-cs
   :END:
 
 
@@ -438,7 +448,7 @@ Kuantan, Malaysia
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3372-cs
+  :CITE-KEY: APR:3611-cs
   :END:
 
 
@@ -456,7 +466,7 @@ se okamžitě stává Nekonečným.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3373-cs
+  :CITE-KEY: APR:3612-cs
   :END:
 
 
@@ -474,7 +484,7 @@ se okamžitě stává konečným.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3374-cs
+  :CITE-KEY: APR:3613-cs
   :END:
 
 
@@ -493,7 +503,7 @@ svého Pána Nejvyššího.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3375-cs
+  :CITE-KEY: APR:3614-cs
   :END:
 
 
@@ -512,7 +522,7 @@ v každém okamžiku.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3376-cs
+  :CITE-KEY: APR:3615-cs
   :END:
 
 
@@ -530,7 +540,7 @@ a zvěčni můj vnitřní hlas.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3377-cs
+  :CITE-KEY: APR:3616-cs
   :END:
 
 
@@ -550,7 +560,7 @@ aby si Mě tvá mysl uvědomila.“
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3378-cs
+  :CITE-KEY: APR:3617-cs
   :END:
 
 
@@ -568,7 +578,7 @@ na svůj zvon srdce vděčnosti Bohu.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3379-cs
+  :CITE-KEY: APR:3618-cs
   :END:
 
 
@@ -587,7 +597,7 @@ do Nebe.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3380-cs
+  :CITE-KEY: APR:3619-cs
   :END:
 
 
@@ -605,7 +615,7 @@ nynější zarážející skutečností.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3381-cs
+  :CITE-KEY: APR:3620-cs
   :END:
 
 
@@ -624,7 +634,7 @@ nejsladší hlas.
   :PROPERTIES:
   :GENRE: note
   :KEYWORDS:
-  :CITE-KEY: APR:3382e1-cs
+  :CITE-KEY: APR:3621e4-cs
   :END:
 
 
@@ -639,7 +649,7 @@ Kuantan, Malaysia
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3382-cs
+  :CITE-KEY: APR:3621-cs
   :END:
 
 
@@ -663,7 +673,7 @@ v Rajskou Zahradu.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3383-cs
+  :CITE-KEY: APR:3622-cs
   :END:
 
 
@@ -681,7 +691,7 @@ v blátě a hlíně
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3384-cs
+  :CITE-KEY: APR:3623-cs
   :END:
 
 
@@ -700,7 +710,7 @@ do Paláce Božího Srdce.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3385-cs
+  :CITE-KEY: APR:3624-cs
   :END:
 
 
@@ -719,7 +729,7 @@ kdy se daří
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3386-cs
+  :CITE-KEY: APR:3625-cs
   :END:
 
 
@@ -736,7 +746,7 @@ se životem světce.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3387-cs
+  :CITE-KEY: APR:3626-cs
   :END:
 
 
@@ -754,7 +764,7 @@ mého vnitřního pokroku.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3388-cs
+  :CITE-KEY: APR:3627-cs
   :END:
 
 
@@ -772,7 +782,7 @@ před nocí nevědomosti.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3389-cs
+  :CITE-KEY: APR:3628-cs
   :END:
 
 
@@ -790,7 +800,7 @@ osvícením noci nevědomosti.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3390-cs
+  :CITE-KEY: APR:3629-cs
   :END:
 
 
@@ -809,7 +819,7 @@ dychtivě čeká.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3391-cs
+  :CITE-KEY: APR:3630-cs
   :END:
 
 
@@ -829,7 +839,7 @@ s vírou.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3392-cs
+  :CITE-KEY: APR:3631-cs
   :END:
 
 
@@ -849,7 +859,7 @@ letící do Nebe.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3393-cs
+  :CITE-KEY: APR:3632-cs
   :END:
 
 
@@ -866,7 +876,7 @@ mysl cestuje.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3394-cs
+  :CITE-KEY: APR:3633-cs
   :END:
 
 
@@ -883,7 +893,7 @@ srdce létá.
   :PROPERTIES:
   :GENRE: note
   :KEYWORDS:
-  :CITE-KEY: APR:3395e1-cs
+  :CITE-KEY: APR:3634e5-cs
   :END:
 
 3. ledna 2006
@@ -897,7 +907,7 @@ Kuantan, Malaysia
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3395-cs
+  :CITE-KEY: APR:3634-cs
   :END:
 
 
@@ -916,7 +926,7 @@ nerozlučnými přáteli.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3396-cs
+  :CITE-KEY: APR:3635-cs
   :END:
 
 
@@ -934,7 +944,7 @@ ale nikdy na něj nezapomene.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3397-cs
+  :CITE-KEY: APR:3636-cs
   :END:
 
 
@@ -952,7 +962,7 @@ o dovolenou.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3398-cs
+  :CITE-KEY: APR:3637-cs
   :END:
 
 
@@ -970,7 +980,7 @@ nechopí příležitosti,
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3399-cs
+  :CITE-KEY: APR:3638-cs
   :END:
 
 
@@ -990,7 +1000,7 @@ zaplaví mé srdce.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3400-cs
+  :CITE-KEY: APR:3639-cs
   :END:
 
 
@@ -1010,7 +1020,7 @@ Božím vlastním Způsobem.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3401-cs
+  :CITE-KEY: APR:3640-cs
   :END:
 
 
@@ -1028,7 +1038,7 @@ zdobí zahradu mého srdce.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3402-cs
+  :CITE-KEY: APR:3641-cs
   :END:
 
 
@@ -1046,7 +1056,7 @@ dokud nevydechneme naposled.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3403-cs
+  :CITE-KEY: APR:3642-cs
   :END:
 
 
@@ -1065,7 +1075,7 @@ v životě hledajícího.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3404-cs
+  :CITE-KEY: APR:3643-cs
   :END:
 
 
@@ -1087,7 +1097,7 @@ nehledě na to, co děláme?
   :PROPERTIES:
   :GENRE: note
   :KEYWORDS:
-  :CITE-KEY: APR:3405e1-cs
+  :CITE-KEY: APR:3644e6-cs
   :END:
 
 
@@ -1102,7 +1112,7 @@ Kijal, Malaysia
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3405-cs
+  :CITE-KEY: APR:3644-cs
   :END:
 
 
@@ -1121,7 +1131,7 @@ nanejvýš dokonalými nástroji.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3406-cs
+  :CITE-KEY: APR:3645-cs
   :END:
 
 
@@ -1141,7 +1151,7 @@ a s největším požehnáním.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3407-cs
+  :CITE-KEY: APR:3646-cs
   :END:
 
 
@@ -1160,7 +1170,7 @@ tento způsob objevit.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3408-cs
+  :CITE-KEY: APR:3647-cs
   :END:
 
 
@@ -1178,7 +1188,7 @@ mého srdce.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3409-cs
+  :CITE-KEY: APR:3648-cs
   :END:
 
 
@@ -1196,7 +1206,7 @@ Tancem Extáze.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3410-cs
+  :CITE-KEY: APR:3649-cs
   :END:
 
 
@@ -1215,7 +1225,7 @@ na vnější svět.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3411-cs
+  :CITE-KEY: APR:3650-cs
   :END:
 
 
@@ -1234,7 +1244,7 @@ planetě Zemi.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3412-cs
+  :CITE-KEY: APR:3651-cs
   :END:
 
 
@@ -1252,7 +1262,7 @@ potřebuji.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3413-cs
+  :CITE-KEY: APR:3652-cs
   :END:
 
 
@@ -1273,7 +1283,7 @@ nepředstavitelná.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3414-cs
+  :CITE-KEY: APR:3653-cs
   :END:
 
 
@@ -1291,7 +1301,7 @@ zpívají v dokonalém souzvuku.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3415-cs
+  :CITE-KEY: APR:3654-cs
   :END:
 
 
@@ -1310,7 +1320,7 @@ bez zastávek.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3416-cs
+  :CITE-KEY: APR:3655-cs
   :END:
 
 
@@ -1328,7 +1338,7 @@ na své dobré mínění.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3417-cs
+  :CITE-KEY: APR:3656-cs
   :END:
 
 
@@ -1347,7 +1357,7 @@ k Nohám Boha.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3418-cs
+  :CITE-KEY: APR:3657-cs
   :END:
 
 
@@ -1367,7 +1377,7 @@ Soucitem a Zájmem Nebe.
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: APR:3419-cs
+  :CITE-KEY: APR:3658-cs
   :END:
 
 
@@ -1379,6 +1389,8 @@ abychom zvětšili
 jednotu světa. 
 
 #+END_VERSE
+
+
 
 
 #+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
