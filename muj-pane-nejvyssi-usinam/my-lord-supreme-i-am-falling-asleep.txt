@@ -1,0 +1,486 @@
+#+TITLE: Můj Pane Nejvyšší, usínám
+#+AUTHOR: Sri Chinmoy
+#+LANGUAGE: cs
+
+
+
+* Index
+
+  :PROPERTIES:
+  :BOOK-NUMBER: 
+  :AUTHOR: Sri Chinmoy
+  :ORIGINAL-EDITION: Nil
+  :YEAR: 2007
+  :PUBLISHER: Madal Bal
+  :CITE-KEY: MLSA-cs
+  :GENRE: poem
+  :KEYWORDS:
+  :END:
+
+
+
+* 1 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:1-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+jaký je rozdíl 
+mezi velikostí a dobrotou?
+„Mé dítě, velikost znamená ,já jsem‘. 
+Dobrota znamená ,Ty jsi‘.“
+
+#+END_VERSE
+
+
+* 2 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:2-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+co potřebuji, 
+výjimečnost, nebo překonání?
+„Mé dítě, potřebuješ obojí. 
+To lidské v tobě potřebuje výjimečnost. 
+To božské v tobě potřebuje překonání.“
+
+#+END_VERSE
+
+
+* 3 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:3-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+jak může být má mysl, mé srdce 
+a můj život skutečně šťastný?
+„Mé dítě, 
+tvá mysl může být skutečně šťastná tak, 
+že se vzdá své chamtivosti po vlastnictví,
+tvé srdce tak, 
+že znásobí svůj hlad po Bohu, 
+a tvůj život tak, 
+že se bude těšit ze své hostiny 
+odevzdání Bohu.“
+
+#+END_VERSE
+
+
+* 4 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:4-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+kdo jsem podle Tvého laskavého názoru dnes 
+a kým budu zítra?
+„Mé dítě, 
+podle Mého názoru jsi dnes 
+svým snem fantazie 
+a zítra budeš 
+svou skutečností extáze.“
+
+#+END_VERSE
+
+
+* 5 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:5-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+prosím, řekni mi, 
+co je uvnitř mě 
+a co je okolo mě?
+„Mé dítě, 
+uvnitř tebe jsou 
+jemné šepoty tvého srdce 
+a okolo tebe
+je hlasité hučení tvé mysli.“
+
+#+END_VERSE
+
+
+* 6 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:6-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+můžu vědět, co uděláš 
+s mou myslí tužeb 
+a mým srdcem aspirace?
+„Mé dítě, 
+s tvou myslí tužeb 
+jsem se rozhodl vykopat si svůj vlastní hrob 
+a s tvým srdcem aspirace 
+jsem se rozhodl stvořit nový ráj.“
+
+#+END_VERSE
+
+
+* 7 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:7-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+co uděláš 
+s mou tváří tužeb 
+a s mýma očima aspirace?
+„Mé dítě, 
+rozhodl jsem se váhavě dotknout 
+tvé tváře tužeb 
+a rozhodl jsem se s náklonností opatrovat 
+tvé oči aspirace.“
+
+#+END_VERSE
+
+
+* 8 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:8-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+co uděláš 
+s mou myslí touhy 
+a s mým srdcem uspokojení?
+„Mé dítě, rozhodl jsem se, 
+že vezmu tvou mysl touhy 
+a společně se potopíme 
+do moře nevědomosti.
+Rozhodl jsem se, 
+že vezmu tvé srdce uspokojení 
+do své Zlaté Lodi 
+a společně poplujeme 
+k Břehům 
+vždy přesahujícího Za.“
+
+#+END_VERSE
+
+
+* 9 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:9-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+co děláš, 
+když od Tebe něco požaduji 
+a něco od Tebe očekávám 
+a něco od Tebe potřebuji?
+„Mé dítě, 
+když požaduješ, okamžitě usnu 
+a začnu chrápat. 
+Když očekáváš, rychle se vzbudím 
+a začnu zpívat. 
+Když potřebuješ, sprintuji k tobě 
+jako tvůj Sudhahota Carl Lewis, 
+nejrychlejší sprinter na světě, 
+s úsměvem tě dohoním 
+a s láskou ti dám, co potřebuješ.“
+
+#+END_VERSE
+
+
+* 10 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:10-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+co uděláš 
+s mojí složitou  myslí?
+„Mé dítě, velmi starostlivě 
+přivedu tvoji složitou mysl 
+do své nové školy, 
+kde ji naučím, jak se odnaučit.“
+
+#+END_VERSE
+
+
+* 11 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:11-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+co uděláš 
+s mým srdcem jednoduchosti?
+„Mé dítě, velmi pyšně přivedu 
+tvé srdce jednoduchosti 
+do své školy plnosti, 
+kde ho naučím, jak získat více, 
+nekonečně více 
+světla moudrosti.“
+
+#+END_VERSE
+
+
+* 12 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:12-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+když oddělím svou mysl od ostatních, 
+ovlivní Tě to?
+„Mé dítě, 
+ovlivní. 
+Rozhodně ovlivní. 
+Něco uvnitř 
+Mě donutí plakat nanejvýš žalostně.“
+
+#+END_VERSE
+
+
+* 13 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:13-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+když oddělím své srdce od ostatních, 
+ovlivní Tě to?
+„Mé dítě, 
+ovlivní. 
+Rozhodně ovlivní. 
+Něco uvnitř 
+Mě donutí okamžitě zemřít.“
+
+#+END_VERSE
+
+
+* 14 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:14-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+mám něco, co Tě učiní šťastným?
+„Mé dítě, máš. 
+Život existence tvého srdce založený na víře 
+Mě činí šťastným, nesmírně šťastným, 
+mnohem víc, než si dovedeš představit.“
+
+#+END_VERSE
+
+
+* 15 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:15-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+je mi Tě moc líto, 
+opravdu moc.
+„Mé dítě, 
+proč ti je Mě líto?“
+Jsem tak chytrý, že Tě snadno dokážu přesvědčit, 
+že Tě miluji, ale pro Tebe je tak těžké 
+mě přesvědčit, že mě miluješ. 
+Proto je mi Tě líto.
+„Mé dítě, 
+jsem ti tak vděčný, 
+že máš pro Mě takové pochopení. 
+Kde jinde můžu najít 
+tak soucitné srdce jako to tvoje?“
+
+#+END_VERSE
+
+
+* 16 Můj Pane Nejvyšší, ...
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: MLSA:16-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Můj Pane Nejvyšší, 
+když se s oddaností modlím 
+a oduševněle medituji, 
+je mi úplně jasné, 
+že můj život je pro Tebe otevřenou knihou.
+Ale běda, nehledě na to, 
+jak těžce se snažím 
+poznat Tvůj pozemský život a Nebeský život, 
+nedaří se mi to. 
+Proto Tě žádám, abys byl tak laskavý 
+a podělil se se mnou o některá svá Tajemství.
+„Mé dítě, vyhovím tvé prosbě. 
+Ale nejsem si zcela jist, 
+jestli tě Má tajemství 
+učiní šťastným, nebo nešťastným. 
+Nicméně to nechávám na tobě.
+
+
+
+Mé tajemství číslo jedna:
+Pokaždé, kdy tvá toužící mysl 
+porazí tvé aspirující srdce, 
+pláči a pláči.
+
+Mé tajemství číslo dvě:
+Když jíš s pochybnostmi své mysli 
+a necháváš hladovět víru svého srdce, 
+pláči a pláči.
+
+Mé tajemství číslo tři:
+Pokaždé, kdy nedovolíš svému srdci, 
+aby naplnilo své do Nebe šplhající sliby, 
+pláči a pláči.
+
+Mé tajemství číslo čtyři:
+Pokaždé, kdy nedovolíš své duši,
+aby na zemi naplnila své Nebe projevující sliby, 
+pláči a pláči.
+
+Mé tajemství číslo pět:
+Když se loď tvého života plaví 
+mezi tvým břehem vitálna deprese 
+a tvým břehem mysli zklamání, 
+pláči a pláči.
+
+Mé tajemství číslo šest:
+Když se staneš tím nejbližším přítelem 
+lenosti svého těla 
+a neochoty své mysli, 
+pláči a pláči.“
+
+Můj Pane Nejvyšší, 
+nevím, proč se najednou cítím 
+tak unavený a ospalý. 
+Zdá se, že máš doslova 
+nekonečné množství tajemství.
+„Ano, mé dítě, mám.“
+Pak, můj Pane, 
+někdy jindy si určitě poslechnu 
+více Tvých tajemství.
+
+„Mé dítě, Mé dítě, počkej, počkej. 
+Ještě o jedno tajemství 
+bych se s tebou rád podělil,
+než usneš.
+Tentokrát tě požehnám 
+svým největším tajemstvím:
+Ty jsi mým dnešním Snem Sebepřekonání 
+a Mou zítřejší Skutečností 
+Uspokojení Sebedokonalosti.“
+Můj Pane Nejvyšší, 
+už spím. 
+Už Tě neslyším.
+„Mé dítě, já jsem stále úplně vzhůru.
+Udělám pro tebe vše.
+Ty si užívej svůj sladký spánek.“
+
+#+END_VERSE
+
+
+
+
+
+
+#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+
+# Local Variables:
+# mode: org
+# coding: unix
+# End:
+
