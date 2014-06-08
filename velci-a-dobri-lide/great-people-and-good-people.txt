@@ -1,0 +1,2233 @@
+#+TITLE: Velcí lidé a dobří lidé
+#+AUTHOR: Sri Chinmoy
+#+LANGUAGE: cs
+
+
+
+
+* Index
+
+  :PROPERTIES:
+  :BOOK-NUMBER: 
+  :AUTHOR: Sri Chinmoy
+  :ORIGINAL-EDITION: Nil
+  :YEAR: 2001
+  :PUBLISHER: Madal Bal
+  :CITE-KEY: GPGP-cs
+  :GENRE: poem
+  :KEYWORDS:
+  :END:
+
+
+
+* 1.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:1-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+jsou
+žongléři se slibem.
+
+#+END_VERSE
+
+
+
+* 2.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:2-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé 
+jsou
+ochránci slibu.
+
+#+END_VERSE
+
+
+
+* 3.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:3-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+se vyhýbají práci.
+
+#+END_VERSE
+
+
+
+* 4.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:4-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+se namáhají.
+
+#+END_VERSE
+
+
+
+* 5.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:5-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+mluví.
+
+#+END_VERSE
+
+
+
+* 6.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:6-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+konají.
+
+#+END_VERSE
+
+
+
+* 7.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:7-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+mají mnoho úst.
+
+#+END_VERSE
+
+
+
+* 8.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:8-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+mají pouze jedny ústa
+a jedno srdce.
+
+#+END_VERSE
+
+
+
+* 9.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:9-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+oceňují
+svět utrpení.
+
+#+END_VERSE
+
+
+
+* 10.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:10-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+nesou
+svět utrpení.
+
+#+END_VERSE
+
+
+
+* 11.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:11-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+používají velká slova.
+
+#+END_VERSE
+
+
+
+* 12.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:12-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jdou s Božím Požehnáním.
+
+#+END_VERSE
+
+
+
+* 13.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:13-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+se
+opírají o svět.
+
+#+END_VERSE
+
+
+
+* 14.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:14-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou ti,
+co zvedají svět.
+
+#+END_VERSE
+
+
+
+* 15.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:15-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+mají silný hlas.
+
+#+END_VERSE
+
+
+
+* 16.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:16-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+mají správné volby.
+
+#+END_VERSE
+
+
+
+* 17.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:17-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+si myslí, že mají.
+
+#+END_VERSE
+
+
+
+* 18.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:18-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+vědí, že jsou.
+
+#+END_VERSE
+
+
+
+* 19.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:19-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+si myslí, že dobré myšlenky
+jsou na zkoušení. 
+
+#+END_VERSE
+
+
+
+* 20.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:20-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+vědí, že dobré myšlenky
+jsou podstatou.
+
+#+END_VERSE
+
+
+
+* 21.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:21-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+jsou
+srdcem v úpadku.
+
+#+END_VERSE
+
+
+
+* 22.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:22-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou
+srdcem extáze.
+
+#+END_VERSE
+
+
+
+* 23.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:23-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+nahání strach.
+
+#+END_VERSE
+
+
+
+* 24.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:24-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou kamarádští.
+
+#+END_VERSE
+
+
+
+* 25.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:25-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé říkají
+„Ó světe,
+pojď za mnou.“
+
+#+END_VERSE
+
+
+
+* 26
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:26-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé říkají
+„Ó světe,
+projdi se uvnitř zahrady mého srdce.“
+
+#+END_VERSE
+
+
+
+* 27.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:27-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+transformují temnotu,
+a tím skončí!
+
+#+END_VERSE
+
+
+
+* 28.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:28-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+plně osvítí temnotu,
+kompletně osvítí.
+
+#+END_VERSE
+
+
+
+* 29.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:29-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+jsou
+zuřící velikostí.
+
+#+END_VERSE
+
+
+
+* 30.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:30-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou
+jednotou sladkosti.
+
+#+END_VERSE
+
+
+
+* 31.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:31-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+si myslí
+že jsou bezchybní,
+prostě se nikdy nespletou.
+
+#+END_VERSE
+
+
+
+* 32.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:32-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+cítí,
+že jsou k chybám náchylní.
+
+#+END_VERSE
+
+
+
+* 33.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:33-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+si nepamatují
+své chyby.
+
+#+END_VERSE
+
+
+
+* 34.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:34-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+si nepamatují
+své dobré skutky.
+
+#+END_VERSE
+
+
+
+* 35.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:35-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velkým lidem
+je z času na čas
+skutečnost cizí.
+
+#+END_VERSE
+
+
+
+* 36.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:36-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou vždy
+součástí skutečnosti.
+
+#+END_VERSE
+
+
+
+* 37.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:37-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+jsou vlastníci sebeposuzování.
+
+#+END_VERSE
+
+
+
+* 38.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:38-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+se zřekli sebeposuzování.
+
+#+END_VERSE
+
+
+
+* 39.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:39-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+si nepřejí postavit se pravdě.
+
+#+END_VERSE
+
+
+
+* 40.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:40-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+si přejí být chráněni pravdou.
+
+#+END_VERSE
+
+
+
+* 41.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:41-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+ignorují fakta.
+
+#+END_VERSE
+
+
+
+* 42.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:42-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+uctívají fakta.
+
+#+END_VERSE
+
+
+
+* 43.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:43-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+mají hrůzu z
+výtečné cesty upřímnosti.
+
+#+END_VERSE
+
+
+
+* 44.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:44-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+kráčejí po
+výtečné cestě upřímnosti.
+
+#+END_VERSE
+
+
+
+* 45.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:45-cs
+  :END:
+
+#+BEGIN_VERSE
+
+
+Velcí lidé
+pravdu pohlcují.
+
+#+END_VERSE
+
+
+
+* 46.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:46-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+pravdu objevují.
+
+#+END_VERSE
+
+
+
+* 47.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:47-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+zkouší prodloužit
+svoji slávu.
+
+#+END_VERSE
+
+
+
+* 48.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:48-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+zkouší posílit
+Boží Jméno.
+
+#+END_VERSE
+
+
+
+* 49.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:49-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+ničí své nepřátele.
+
+#+END_VERSE
+
+
+
+* 50.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:50-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+se modlí za své nepřátele.
+
+#+END_VERSE
+
+
+
+* 51.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:51-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+rádi ovládají
+svět.
+
+#+END_VERSE
+
+
+
+* 52.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:52-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+milují vyzdvihování 
+světa.
+
+#+END_VERSE
+
+
+
+* 53.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:53-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+chtějí být posuzovaní
+podle jejich slov.
+
+#+END_VERSE
+
+
+
+* 54.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:54-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+chtějí být posuzovaní
+podle jejich skutků.
+
+#+END_VERSE
+
+
+
+* 55.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:55-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé považují
+akcent upřímnosti
+za nevlastní.
+
+#+END_VERSE
+
+
+
+* 56.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:56-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé považují
+akcent upřímnosti
+za dokonalý.
+
+#+END_VERSE
+
+
+
+* 57.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:57-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+jsou vývozcem 
+nadutosti.
+
+#+END_VERSE
+
+
+
+* 58.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:58-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou dovozcem
+lásky.
+
+#+END_VERSE
+
+
+
+* 59.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:59-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+milují hru
+sebeobrany.
+
+#+END_VERSE
+
+
+
+* 60.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:60-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+milují hru
+na obhajování pravdy.
+
+#+END_VERSE
+
+
+
+* 61.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:61-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+mají 
+komplikovanou mysl.
+
+#+END_VERSE
+
+
+
+* 62.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:62-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+mají
+srdce jednoduchosti.
+
+#+END_VERSE
+
+
+
+* 63.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:63-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+milují
+rozhlašování úspěchu.
+
+#+END_VERSE
+
+
+
+* 64.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:64-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+milují
+stožár pokroku.
+
+#+END_VERSE
+
+
+
+* 65.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:65-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+nemají čas
+naslouchat.
+
+#+END_VERSE
+
+
+
+* 66.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:66-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+mají celou Věčnost
+pro naslouchání.
+
+#+END_VERSE
+
+
+
+* 67.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:67-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+jsou
+rozporuplní.
+
+#+END_VERSE
+
+
+
+* 68.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:68-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou
+neustále se zdokonalující.
+
+#+END_VERSE
+
+
+
+* 69.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:69-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+vědí,
+jak sami sebe ohodnotit.
+
+#+END_VERSE
+
+
+
+* 70.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:70-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+vědí,
+jak sebe nepovažovat za důležité.
+
+#+END_VERSE
+
+
+
+* 71.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:71-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+se honí za štěstím.
+
+#+END_VERSE
+
+
+
+* 72.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:72-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jdou po stopách štěstí.
+
+#+END_VERSE
+
+
+
+* 73.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:73-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+se odcizují rovnosti.
+
+#+END_VERSE
+
+
+
+* 74.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:74-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+zbožňují rovnost.
+
+#+END_VERSE
+
+
+
+* 75.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:75-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Kdo je schopen potěšit
+velkého člověka?
+Nikdo!
+
+#+END_VERSE
+
+
+
+* 76.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:76-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Kdo je schopen potěšit
+dobrého člověka?
+Každý!
+
+#+END_VERSE
+
+
+
+* 77.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:77-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+berou slib
+jako slovo ze slovníku.
+
+#+END_VERSE
+
+
+
+* 78.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:78-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+berou slib
+jako plně rozkvétající strom srdce. 
+
+#+END_VERSE
+
+
+
+* 79.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:79-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Když velcí lidé 
+řeknou, že nemohou,
+znamená to, že nechtějí. 
+
+#+END_VERSE
+
+
+
+* 80.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:80-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Když dobří lidé 
+řeknou, že mohou,
+znamená to, že již dávno začali.
+
+#+END_VERSE
+
+
+
+* 81.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:81-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé přijmou,
+pochybují a kontrolují
+své přátele.
+
+#+END_VERSE
+
+
+
+* 82.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:82-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé přijmou,
+vítají a cení si
+svých přátel. 
+
+#+END_VERSE
+
+
+
+* 83.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:83-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+dělají vše
+mocně.
+
+#+END_VERSE
+
+
+
+* 84.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:84-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+dělají vše
+s vděčností.
+
+#+END_VERSE
+
+
+
+* 85.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:85-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+mluví dobře 
+jen o mrtvých.
+
+#+END_VERSE
+
+
+
+* 86.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:86-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+mluví dobře
+jak o živých tak o mrtvých.
+
+#+END_VERSE
+
+
+
+* 87.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:87-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+jsou vystrašení z publika.
+
+#+END_VERSE
+
+
+
+* 88.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:88-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+si plně cení publika.
+
+#+END_VERSE
+
+
+
+* 89.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:89-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+žijí ve světě dojmů a pojmů.
+
+#+END_VERSE
+
+
+
+* 90.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:90-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou vyjádřením lásky.
+
+#+END_VERSE
+
+
+
+* 91.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:91-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+nemění 
+svůj názor.
+
+#+END_VERSE
+
+
+
+* 92.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:92-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+si cení
+názoru světa.
+
+#+END_VERSE
+
+
+
+* 93.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:93-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+neustále zpochybňují
+svět.
+
+#+END_VERSE
+
+
+
+* 94.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:94-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+neustále dávají
+světu.
+
+#+END_VERSE
+
+
+
+* 95.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:95-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+jsou naklonění
+ke zneužití své síly.
+
+#+END_VERSE
+
+
+
+* 96.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:96-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou naklonění
+k šíření své lásky.
+
+#+END_VERSE
+
+
+
+* 97.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:97-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé si myslí, 
+že použití síly
+je nádherné.
+
+#+END_VERSE
+
+
+
+* 98.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:98-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé si myslí,
+že použití lásky
+není jenom nádherné, 
+ale také plodné.
+
+#+END_VERSE
+
+
+
+* 99.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:99-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+chtějí být nominováni.
+
+#+END_VERSE
+
+
+
+* 100.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:100-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+si přejí být sdílní.
+
+#+END_VERSE
+
+
+
+* 101.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:101-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+povznášejí sami sebe.
+
+#+END_VERSE
+
+
+
+* 102.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:102-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+obětují sami sebe.
+
+#+END_VERSE
+
+
+
+* 103.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:103-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+jsou hlasité bubny.
+
+#+END_VERSE
+
+
+
+* 104.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:104-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou sladké flétny.
+
+#+END_VERSE
+
+
+
+* 105.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:105-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+jsou
+hladoví po vítězství mysli.
+
+#+END_VERSE
+
+
+
+* 106.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:106-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou hladoví po žití v harmonii
+ve světě.
+
+#+END_VERSE
+
+
+
+* 107.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:107-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Zvuk pýchy vábí
+velké lidi.
+
+#+END_VERSE
+
+
+
+* 108.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:108-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Ticho blaženosti vábí
+dobré lidi.
+
+#+END_VERSE
+
+
+
+* 109.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:109-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+přikazují svým nepřátelům,
+aby se okamžitě vzdali.
+
+#+END_VERSE
+
+
+
+* 110.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:110-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+nechávají dveře svého srdce 
+dokořán otevřeny, 
+aby přivítali své nepřátele.
+
+#+END_VERSE
+
+
+
+* 111.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:111-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velkým lidem
+trvá roky
+vystavět si důvěru ve svět.
+
+#+END_VERSE
+
+
+
+* 112.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:112-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+žijí
+v důvěře světu.
+
+#+END_VERSE
+
+
+
+* 113.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:113-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Pro velkého člověka
+život je vskutku
+bojištěm.
+
+#+END_VERSE
+
+
+
+* 114.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:114-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Pro dobrého člověka
+život je vskutku
+zahradou.
+
+#+END_VERSE
+
+
+
+* 115.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:115-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+jsou Životem Boha.
+
+#+END_VERSE
+
+
+
+* 116.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:116-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou Srdcem Boha.
+
+#+END_VERSE
+
+
+
+* 117.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:117-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+všechno znají.
+
+#+END_VERSE
+
+
+
+* 118.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:118-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+znají pouze jednu věc:
+dobrotu srdce.
+
+#+END_VERSE
+
+
+
+* 119.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:119-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velcí lidé
+mají mučící podezřívavou
+a překrucující mysl.
+
+#+END_VERSE
+
+
+
+* 120.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:120-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Dobří lidé
+jsou naplněni bohatstvím víry
+a srdcem pokladu víry.
+
+
+#+END_VERSE
+
+
+
+* 121.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:121-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Mělký 
+je dech vděčnosti
+velkých lidí.
+
+#+END_VERSE
+
+
+
+* 122.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:122-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Věčný
+je dech vděčnosti
+dobrých lidí.
+
+#+END_VERSE
+
+
+
+* 123.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:123-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velkým lidem říkám
+„Probuďte se!“
+a dobrým lidem
+„Rozšiřte se!“
+
+#+END_VERSE
+
+
+
+* 124.
+
+  :PROPERTIES:
+  :GENRE: poem
+  :KEYWORDS:
+  :CITE-KEY: GPGP:124-cs
+  :END:
+
+#+BEGIN_VERSE
+
+Velký člověk
+se může jednoduše a nepochybně stát 
+dobrým člověkem,
+když se nadřazenost naplňující jeho mysl
+odevzdá
+extázi jednoty jeho srdce. 
+
+#+END_VERSE
+
+
+
+
+
+
+
+#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+
+# Local Variables:
+# mode: org
+# coding: unix
+# End:
+
+
