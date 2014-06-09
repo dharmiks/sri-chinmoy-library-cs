@@ -2104,7 +2104,7 @@ Svým slovníkem Srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MIPG:95-cs
+  :CITE-KEY: MIPG:96-cs
   :END:
 
 #+BEGIN_VERSE
