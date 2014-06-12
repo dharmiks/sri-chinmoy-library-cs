@@ -23,7 +23,7 @@
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY:
+  :CITE-KEY: CBG:1e1-cs
   :KEYWORDS:
   :END:
 
@@ -33,7 +33,7 @@
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:1-cs
   :KEYWORDS:
   :END:
 
@@ -51,7 +51,7 @@ Gíta je epizoda šesté knihy Mahábháraty. Mahábhárata znamená „Velká I
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:2-cs
   :KEYWORDS:
   :END:
 
@@ -93,7 +93,7 @@ Gíta ztělesňuje moudrost duše, lásku srdce, poznání mysli, dynamiku vitá
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:3-cs
   :KEYWORDS:
   :END:
 
@@ -168,7 +168,7 @@ Hle, Ardžuna, největší hrdina! Odhodil luk a šípy a smutně, sklíčeně
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:4-cs
   :KEYWORDS:
   :END:
 
@@ -177,7 +177,7 @@ Tato kapitola má název „Sánkhja Jóga -- Jóga Poznání. Ardžunovy důvod
 
 Právě jsme se zmínili o Ardžunově filozofii. Po pravdě řečeno, v takové situaci bychom si počínali stejně. Je opravdu obtížné studovat skutečnou filozofii, ještě obtížnější je naučit se ji a nejobtížnější je ji žít.
 
-Sanskrtské slovo pro filozofii zní daršana, což znamená „vidět, předvídat“. Sri RámaKršna významně poznamenává: „V minulosti lidé mívali vize (daršana), nyní lidé daršana (filozofii) studují!“
+Sanskrtské slovo pro filozofii zní daršana, což znamená „vidět, předvídat“. Sri Rámakršna významně poznamenává: „V minulosti lidé mívali vize (daršana), nyní lidé daršana (filozofii) studují!“
 
 Stejně významné je poselství Starého zákona: „Vaši starci budou snít sny; vaši mladí spatří vize.“
 
@@ -192,8 +192,8 @@ Sri Kršna používal slova „zrození“, „život“ a „smrt“.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
-  :KEYWORDS:
+  :CITE-KEY: CBG:5-cs 
+  :KEYWORDS: 
   :END:
 
 
@@ -225,7 +225,7 @@ Zde nás básník uvádí do tajemství věčné pouti duše a připomíná ná
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:6-cs
   :KEYWORDS:
   :END:
 
@@ -244,7 +244,7 @@ Bůh říká lidskému životu: „Povstaň, probuď se, aspiruj! Cíl je tvůj.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:7-cs
   :KEYWORDS:
   :END:
 
@@ -301,7 +301,7 @@ Tanec zkázy skončil. Prahněme po spáse. Jen ukázněný, ovládající se as
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:8-cs
   :KEYWORDS:
   :END:
 
@@ -379,7 +379,7 @@ Tehdy žáci pochopili, proč si jejich Guru Džanaku oblíbil nejvíce. Takový
 
 Sri Kršna odhalil Ardžunovi tajemství Džanakova dosažení seberealizace a spásy. Džanaka jednal odpoutaně. Zaplaven světlem a moudrostí Božskosti jednal ve prospěch lidstva. To je vskutku cesta vznešených. Kršna chtěl, aby Ardžuna kráčel po této cestě, tak aby ho svět mohl následovat. Ardžuna o tom patrně nebyl zcela přesvědčen. Aby jej zcela a bezvýhradně přesvědčil, dal mu Kršna za příklad sebe sama: „Není nic, co bych musel v těchto třech světech vykonat, neexistuje nic, co by stálo za dosažení a čeho bych již nedosáhl, a přesto neustále pracuji, mé bytí neustále koná. Nebudu-li konat, svět zahyne.“ (3.22-24)
 
-Sri Kršna chtěl, aby se Ardžuna vysvobodil z pout nevědomosti. Jediným způsobem, jak to mohl Ardžuna dokázat, bylo jednat bez připoutání. Sri Kršna prozradil Ardžunovi nejvyšší tajemství: „Zasvěť Mi veškeré své skutky, s myslí upřenou na Mě, na Mé Já ve všem.“ (3.30)
+Sri Kršna chtěl, aby se Ardžuna vysvobodil z pout nevědomosti. Jediným způsobem, jak to mohl Ardžuna dokázat, bylo jednat bez připoutání. Sri Kršna prozradil Ardžunovi nejvyšší tajemství: „Zasvěť Mi veškeré své skutky, s myslí upřenou na Mne, na Mé Já ve všem.“ (3.30)
 
 Všechny bytosti se musí chovat podle své přirozenosti. Není a ani nemůže být úniku. Co dokáže sebeovládání? Povinnost člověka je jedinečným požehnáním Nebe. Člověk musí vědět, co je jeho povinností. Jakmile ji zná, má ji také vykonávat až do posledního dechu. 
 
@@ -426,7 +426,7 @@ Je-li touha uspokojena, ze života se stává lůžko z trní. Je-li touha pora
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:9-cs
   :KEYWORDS:
   :END:
 
@@ -441,7 +441,7 @@ Nyní se tedy odhaluje věčné mystérium reinkarnace. Kršna říká: „Ardž
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:10-cs
   :KEYWORDS:
   :END:
 
@@ -456,7 +456,7 @@ Věc, která je, je skutečná. Věc, která se jeví, je neskutečná. Věčný
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:11-cs
   :KEYWORDS:
   :END:
 
@@ -470,7 +470,7 @@ Ardžuna znal Sri Kršnu jako svého drahého bratrance, později jako důvěrn�
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:12-cs
   :KEYWORDS:
   :END:
 
@@ -481,7 +481,7 @@ V Indii byl jeden duchovní Mistr, který se prohlásil za Avatára. Naneštěs
 
 Může to znít směšně, ale je pravda, že v Indii skoro každý žák považuje svého Gurua za Avatára, za přímé sestoupení Boha. Když mluví o svém Guruovi, zaplaví ho vlna nadšení. Duchovní obr Svámí Vivékánanda si neodpustil poznámku, že v Indii, ve východním Bengálsku, rostou Avatáři jako houby po dešti. Naproti tomu je stejně směšné prohlašovat, že existoval a může existovat jen jediný Avatár, Syn Boží.
 
-Pokaždé, když přijde Avatár, hraje v postupu evoluce určitou roli podle potřeb dané epochy. Jeden Avatár se od druhého v podstatě neliší. Jiný opravdový Avatár, Sri RámaKršna, vyjevil tuto pravdu: „Ten, kdo byl Ráma, ten, kdo byl Kršna, je nyní v podobě RámaKršny.“ 
+Pokaždé, když přijde Avatár, hraje v postupu evoluce určitou roli podle potřeb dané epochy. Jeden Avatár se od druhého v podstatě neliší. Jiný opravdový Avatár, Sri Rámakršna, vyjevil tuto pravdu: „Ten, kdo byl Ráma, ten, kdo byl Kršna, je nyní v podobě Rámakršny.“ 
 
 Existují dva věčné protiklady: dobro a zlo. Když zlo dosahuje nejvyšší míry, Bůh si podle Sri Kršny musí obléci lidský plášť ve formě Avatára. Sri Kršna se musel po svém příchodu vypořádat s tou nejtemnější zlou silou, Kamsou. Potřebu příchodu Ježíše Krista zase vyvolal Herodes, tyran, kterému nebylo rovno. Zrození Krista si žádalo zánik života nevědomosti. Džanmastamí, zrození Kršny, je oslavováno po celé Indii s nadějí na opuštění moře nevědomosti a vstup do oceánu poznání.
 Nejsnazší a nejúčinnější způsob, jak pochopit myšlenku osobního Boha, je setkat se s Avatárem a zůstat pod jeho vedením. Mít Avatára za svého Gurua znamená najít bezpečný přístav pro loď našeho života. V této souvislosti můžeme citovat smělé Vivékánandovo tvrzení: „Žádný člověk nemůže spatřit Boha bez pomoci těchto lidských projevení… Mluvte, jak se vám zlíbí, snažte se, jak chcete, nemůžete myslet na Boha jinak než jako na člověka.“ 
@@ -500,7 +500,7 @@ Sri Kršna si nyní přeje, abychom upřeli pozornost ke kastám. Říká nám, 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:13-cs
   :KEYWORDS:
   :END:
 
@@ -515,7 +515,7 @@ Obecně se věří, že nečinnost je totéž co lhostejnost, lenost a tak podo
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:14-cs
   :KEYWORDS:
   :END:
 
@@ -560,7 +560,7 @@ Lepší jedna smrtelná hodina s Tebou
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:15-cs
   :KEYWORDS:
   :END:
 
@@ -588,7 +588,7 @@ Kršnovo učení míří k jedinému Cíli, k nejvyšší Blaženosti. Lidské
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:16-cs
   :KEYWORDS:
   :END:
 
@@ -615,7 +615,7 @@ To je pravda jedině tehdy, je-li náš osud určován mimořádně omezenými p
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:17-cs
   :KEYWORDS:
   :END:
 
@@ -668,7 +668,7 @@ Na konci této kapitoly Kršna odhodlaně tvrdí, že k tomu, aby člověk žil
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:18-cs
   :KEYWORDS:
   :END:
 
@@ -768,7 +768,7 @@ My můžeme s Ardžunou ve vší upřímnosti a oddanosti říci podobnou věc
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:19-cs
   :KEYWORDS:
   :END:
 
@@ -793,7 +793,7 @@ Tři vlastnosti přírody: sattva, radžas a tamas -- harmonie, činnost a ne�
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:20-cs
   :KEYWORDS:
   :END:
 
@@ -822,7 +822,7 @@ Vlastník sattvické kvality má bezpochyby srdce ze zlata. Ví, že jeho život
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:21-cs
   :KEYWORDS:
   :END:
 
@@ -830,11 +830,12 @@ Vlastník sattvické kvality má bezpochyby srdce ze zlata. Ví, že jeho život
 Radžas je druhá vlastnost. Člověk radžasu je vždy plný dynamického zanícení. Chce vlastnit svět. Chce vládnout světu. Takřka nemá čas na to, aby vstoupil do světa vnitřního osvícení. Jeho život má rád jen dvě věci: boj a dobývání. Má možnost být buď božským bojovníkem, nebo bojovníkem pusté lži. Má sílu na to, aby postavil chrám Pravdy. Má také sílu na to, aby jej rozbil a zničil. Naneštěstí, kvůli své neosvícené vizi a zdivočelému slonu, který je v něm, chrám často ničí a rozbíjí.
 
 
+
 * Tamas
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:22-cs
   :KEYWORDS:
   :END:
 
@@ -903,7 +904,7 @@ Sri Kršna pokračuje: „Ti všichni jsou ušlechtilí a dobří, já však po
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:23-cs
   :KEYWORDS:
   :END:
 
@@ -928,7 +929,7 @@ Kršna nám říká, jak poté, co jogín opustí svou smrtelnou schránku, vstu
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:24-cs
   :KEYWORDS:
   :END:
 
@@ -995,7 +996,7 @@ Nejvyšší a já jedno jsme -- vše přetrváme.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:25-cs
   :KEYWORDS:
   :END:
 
@@ -1081,7 +1082,7 @@ v poutech zrození nyní září Nesmrtelnost.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:26-cs
   :KEYWORDS:
   :END:
 
@@ -1129,7 +1130,7 @@ Sebepoznání je poznání univerzální jednoty. Jedině na úrodné půdě uni
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:27-cs
   :KEYWORDS:
   :END:
 
@@ -1198,7 +1199,7 @@ Víra, oddanost, odevzdání. Hle! Kršna je váš. Není jiné cesty, jak Jej r
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:28-cs
   :KEYWORDS:
   :END:
 
@@ -1267,7 +1268,7 @@ Gíta nám nakonec sděluje, že opravdovým Guruem, Guruem všech Guruů, je B�
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:29-cs
   :KEYWORDS:
   :END:
 
@@ -1323,7 +1324,7 @@ Jogín, který ve svém vlastním životě překonal tyto tři vlastnosti, nebud
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:30-cs
   :KEYWORDS:
   :END:
 
@@ -1387,7 +1388,7 @@ Purušottama leží za beztvarým i tvarem, za neosobním i osobním. V Něm 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:31-cs
   :KEYWORDS:
   :END:
 
@@ -1425,7 +1426,7 @@ Učitel ukládá žákovi: „Ach, můj Ardžuno, drž se šáster.“ (16.24)
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:32-cs
   :KEYWORDS:
   :END:
 
@@ -1444,7 +1445,7 @@ Sattvický člověk jí čerstvou, čistou a zklidňující stravu, aby získal
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:33-cs
   :KEYWORDS:
   :END:
 
@@ -1479,7 +1480,7 @@ Musíme zpívat Sat a poté nabídnout Bohu to, co jsme uvnitř i navenek, sam
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:34-cs
   :KEYWORDS:
   :END:
 
@@ -1537,7 +1538,7 @@ Vítězství dosaženo. Vítězství uskutečněno. Vítězství odhaleno. Vít�
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY:
+  :CITE-KEY: CBG:35e1-cs
   :KEYWORDS:
   :END:
 
@@ -1547,7 +1548,7 @@ Vítězství dosaženo. Vítězství uskutečněno. Vítězství odhaleno. Vít�
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:35-cs
   :KEYWORDS:
   :END:
 
@@ -1601,7 +1602,7 @@ Sri Kršna chodil po zemi, aby zničil filozofii duchovnosti, která se vyhýbá
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:36-cs
   :KEYWORDS:
   :END:
 
@@ -1664,7 +1665,7 @@ Je pravda, že buddhismus již nežije v zemi svého narození. Ale Matka Indie 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:37-cs
   :KEYWORDS:
   :END:
 
@@ -1708,7 +1709,7 @@ Kdo je náš s ničím nesrovnatelný kamarád? Ten, kdo nám vědomě či nev�
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY:
+  :CITE-KEY: CBG:38e1-cs
   :KEYWORDS:
   :END:
 
@@ -1718,7 +1719,7 @@ Kdo je náš s ničím nesrovnatelný kamarád? Ten, kdo nám vědomě či nev�
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY:
+  :CITE-KEY: CBG:38-cs
   :KEYWORDS:
   :END:
 
@@ -1734,7 +1735,7 @@ Když Ganapati přišel, dohodli se, že bude zapisovat pod jednou podmínkou. P
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY:
+  :CITE-KEY: CBG:39-cs
   :KEYWORDS:
   :END:
 
@@ -1768,7 +1769,7 @@ Zde se dozvídáme, že Guru, Mistr, může kdykoli zrušit svůj vlastní slib,
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY:
+  :CITE-KEY: CBG:40-cs
   :KEYWORDS:
   :END:
 
@@ -1780,7 +1781,7 @@ Gándhárí nejstarší syn, Durjódhana, si k ní přišel pro požehnání. Ne
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY:
+  :CITE-KEY: CBG:41-cs
   :KEYWORDS:
   :END:
 
@@ -1792,7 +1793,7 @@ Gíta se skládá ze sedmi set veršů. Měl jsem to štěstí v Indii vidět mu
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY:
+  :CITE-KEY: CBG:42-cs
   :KEYWORDS:
   :END:
 
@@ -1820,7 +1821,7 @@ Když Sri Kršna vyrůstal, velmi často si ve společnosti přál, aby dával c
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY:
+  :CITE-KEY: CBG:43-cs
   :KEYWORDS:
   :END:
 
@@ -1869,7 +1870,7 @@ Ardžuna si uvědomil, že asketa byl skutečně oddán Sri Kršnovi, a že je p
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY:
+  :CITE-KEY: CBG:44-cs
   :KEYWORDS:
   :END:
 
@@ -1917,7 +1918,7 @@ Ale na bojišti byl Ghatothkač, syn Bhímy, Ardžunova bratra, který zabil sto
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY:
+  :CITE-KEY: CBG:45-cs
   :KEYWORDS:
   :END:
 
@@ -1932,7 +1933,7 @@ Učenec si vše uvědomil.
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY:
+  :CITE-KEY: CBG:46-cs
   :KEYWORDS:
   :END:
 
@@ -1954,7 +1955,7 @@ Chudák Ardžuna se vrátil s Pánem Kršnou a byl velmi rozzlobený, že ho pod
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY:
+  :CITE-KEY: CBG:47-cs
   :KEYWORDS:
   :END:
 
@@ -1971,7 +1972,7 @@ Kršna odpověděl: "Ty mi nerozumíš. Ona stále myslí na krávu. Kráva se m
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: CBG:48-cs
   :KEYWORDS:
   :END:
 
