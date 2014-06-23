@@ -1,4 +1,4 @@
-#+TITLE: Sri Chinmoy odpovídá, část 5
+#+TITLE: Sri Chinmoy odpovídá, část 05
 #+AUTHOR: Sri Chinmoy
 #+LANGUAGE: cs
 
@@ -470,7 +470,7 @@ Můj otec a strýc z matčiny strany si byli velice blízcí. Když byl tento st
 
 
 
-Proč duše přichází do popředí nejmocněji jen na naše narozeniny?
+* Proč duše přichází do popředí nejmocněji jen na naše narozeniny?
 
   :PROPERTIES:
   :GENRE: qa
