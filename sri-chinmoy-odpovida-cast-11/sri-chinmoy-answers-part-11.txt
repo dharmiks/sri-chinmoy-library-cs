@@ -210,7 +210,7 @@ Naší potíží je, že tvrdě pracujeme, pořádáme přednášky a snažíme 
   :END:
 
 
-/Sri Chinmoy Řekněme, že někdo začal svůj duchovní život s nejvyšší upřímností, ale potom jeho upřímnost postupně mizela. Pokud vidí, že pět či šest let nebyl schopen znovu získat svou upřímnost, musí si najít svůj vlastní člun. Znamená to, že se musí vrátit do obyčejného života, protože není přínosem pro duchovní život. Užívá si zde pouze radostí a pohodlí. Jeho duchovní disciplína je nulová, přestože se, jak říkáš, snaží udělat na ostatní velmi oddaný dojem. Ale pokud si bude opravdově chtít vyvinout svou upřímnost, něco uvnitř jej bude hryzat a dá mu pocítit, že není upřímný. 
+/Sri Chinmoy:/ Řekněme, že někdo začal svůj duchovní život s nejvyšší upřímností, ale potom jeho upřímnost postupně mizela. Pokud vidí, že pět či šest let nebyl schopen znovu získat svou upřímnost, musí si najít svůj vlastní člun. Znamená to, že se musí vrátit do obyčejného života, protože není přínosem pro duchovní život. Užívá si zde pouze radostí a pohodlí. Jeho duchovní disciplína je nulová, přestože se, jak říkáš, snaží udělat na ostatní velmi oddaný dojem. Ale pokud si bude opravdově chtít vyvinout svou upřímnost, něco uvnitř jej bude hryzat a dá mu pocítit, že není upřímný. 
 
 Pokud nějaký člověk nedokáže po pěti či šesti letech znovu získat svou planoucí upřímnost, je zbytečné, aby nadále setrvával na cestě s nadějí, že jednoho dne se upřímnost najednou z ničeho nic zjeví. Někteří lidé si myslí, že se vše jednoho dne vrátí zpět, přestože ztratili svou upřímnost, ztratili čistotu, ztratili jistotu, ztratili důvěru. 
 
@@ -475,7 +475,7 @@ Kdokoliv má víru v Boha, prochází v určitou chvíli skrze temný tunel. Kdy
 
 
 
-* /Reportér:/ Sri Chinmoyi, sledoval jsem videonahrávku, kde jste hovořil o jednotě a o svých kresbách. Co znamená sedm miliónů ptáčků, když hovoříte o jednotě?
+* Reportér: Sri Chinmoyi, sledoval jsem videonahrávku, kde jste hovořil o jednotě a o svých kresbách. Co znamená sedm miliónů ptáčků, když hovoříte o jednotě?
 
   :PROPERTIES:
   :GENRE: interview
@@ -492,7 +492,7 @@ Jsem studentem míru a snažím se studovat tento předmět tím, že jej nabíz
 
 
 
-* /Reportér:/ Jak jste se dostal do Queensu?
+* Reportér: Jak jste se dostal do Queensu?
 
   :PROPERTIES:
   :GENRE: interview
@@ -505,7 +505,7 @@ Jsem studentem míru a snažím se studovat tento předmět tím, že jej nabíz
 
 
 
-* /Reportér:/ Kdy v budově OSN meditujete?
+* Reportér: Kdy v budově OSN meditujete?
 
   :PROPERTIES:
   :GENRE: interview
@@ -520,7 +520,7 @@ Prvním generálním tajemníkem byl Trygve Lie, potom Dag Hammarskjöld a po n�
 
 
 
-* /Reportér:/ Jsou vaše aktivity určeny pro zaměstnance a delegáty?
+* Reportér: Jsou vaše aktivity určeny pro zaměstnance a delegáty?
 
   :PROPERTIES:
   :GENRE: interview
@@ -533,7 +533,7 @@ Prvním generálním tajemníkem byl Trygve Lie, potom Dag Hammarskjöld a po n�
 
 
 
-* /Reportér:/ Vypadá to, že děláte spoustu věcí!
+* Reportér: Vypadá to, že děláte spoustu věcí!
 
   :PROPERTIES:
   :GENRE: interview
@@ -550,7 +550,7 @@ Ve všech sférách života je tomu stejně. Vloni se zdálo, že Carl Lewis ve 
 
 
 
-* /Reportér:/ Hrajete basketbal?
+* Reportér: Hrajete basketbal?
 
   :PROPERTIES:
   :GENRE: interview
@@ -571,7 +571,7 @@ Ve všech sférách života je tomu stejně. Vloni se zdálo, že Carl Lewis ve 
 
 
 
-* /Reportér:/ Mohu se vás zeptat na vaše kresby ptáčků? Tento nápad jste dostal asi před šesti lety, nemýlím-li se.
+* Reportér: Mohu se vás zeptat na vaše kresby ptáčků? Tento nápad jste dostal asi před šesti lety, nemýlím-li se.
 
   :PROPERTIES:
   :GENRE: interview
@@ -595,7 +595,7 @@ Pocházíte z Japonska?
 
 
 
-* /Reportér:/ Sri Chinmoyi, které postavy, ať už žijící nebo historické, nejvíce obdivujete?
+* Reportér: Sri Chinmoyi, které postavy, ať už žijící nebo historické, nejvíce obdivujete?
 
   :PROPERTIES:
   :GENRE: interview
@@ -623,7 +623,7 @@ Další vzácnou vlastností Gorbačova je, že je natolik upřímný a odvážn
 
 
 
-* /Reportér:/ Dovolte mi, abych se vás zeptal na něco ohledně duchovnosti. Moc toho o Gorbačovovi nevím, ale mohu z toho vyvodit, že jej obdivujete z duchovního hlediska, způsobem, kterým obdivujete Matku Terezu a Svatého Otce?
+* Reportér: Dovolte mi, abych se vás zeptal na něco ohledně duchovnosti. Moc toho o Gorbačovovi nevím, ale mohu z toho vyvodit, že jej obdivujete z duchovního hlediska, způsobem, kterým obdivujete Matku Terezu a Svatého Otce?
 
 
   :PROPERTIES:
@@ -635,7 +635,7 @@ Další vzácnou vlastností Gorbačova je, že je natolik upřímný a odvážn
 
 /Sri Chinmoy Duchovnost má dvě křídla. Jednomu říkáme aspirace a tomu druhému zasvěcení. Se svou aspirací se modlíme k Bohu, se svým zasvěcením mu sloužíme. V případě Svatého Otce a Matky Terezy vidíme, že aspirují. Každý den se modlí k Bohu. Rovněž však zasvěcují svůj život lidstvu. V případě Gorbačova může celý svět vidět a cítit, kolik udělal věcí, aby posloužil lidstvu. Možná, že se brzy ráno nemodlí k Bohu jako Matka Tereza či Svatý Otec, ale celý svůj život zasvětil nejen Rusku, respektive Sovětskému svazu, ale celému světu. Nyní je v Turecku, minulý týden byl v Argentině. Jezdí po mnoha místech. Proč? Zvou ho, protože v něm vidí něco velmi zvláštního. Vidí, že má světlo. Proto jej každá země zbožňuje. Prorok nebývá oceněn ve své vlastní zemi, takže prohrál volby na celé čáře. Kamkoli ale jde, lidé jej oceňují. Vidí, že to, co říká, míní upřímně. Pro něj je světový mír jeho životní skutečností. Jeho aspekt zasvěcení bereme jako součást duchovního života. Možná že se nemodlí tak, jak to dělají křesťané, jako papež nebo Matka Tereza. Získává ale poselství zevnitř a snaží se jej vyjádřit a odhalit celému světu. Proto je pro mě skutečně duchovní.
 
-/Reportér:/ Řekl jste: „Ten, kdo slouží, se modlí“?
+Reportér: Řekl jste: „Ten, kdo slouží, se modlí“?
 
 /Sri Chinmoy:/ Zajisté! Sloužíme druhým, protože je vidíme jako ztělesnění Boha. Bůh se projevuje skrze každou lidskou bytost určitým způsobem. V rodině může mít každý jiné povolání. Jeden bude lékařem, druhý hudebníkem a tak dále. Jsou ale jedna rodina. Večer se sejdou a jedí společně. Každý člověk je jedinečný svým vlastním způsobem, a tato jedinečnost musí být použita pro zlepšení tohoto světa. 
 
