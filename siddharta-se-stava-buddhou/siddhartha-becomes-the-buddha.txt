@@ -53,13 +53,13 @@ Kdo je vlastník, ten, kdo život zachraňuje, nebo ten, kdo život bere? /(akt 
   :END:
 
 
-/(Princ Siddhárta se v rozjímavé náladě prochází zahradou. Znenadání před něj spadne pták.)/
+/(Princ Siddhártha se v rozjímavé náladě prochází zahradou. Znenadání před něj spadne pták.)/
 
 Siddhártha: Ach, ubohý ptáčku! Mé srdce pro tebe krvácí. Kdo to udělal? Kdo tě zranil? Kdo na tebe namířil ten šíp? Ubohý, nevinný ptáku! Počkej, vytáhnu ti ten šíp. /(Vyjme šíp.)/ A teď se tě pokusím vyléčit.
 
 /(Vstoupí Devadatta.)/
 
-Devadatta: Siddhárto, to je můj pták. Jakým právem si bereš mého ptáka? Dej mi ho!
+Devadatta: Siddhártho, to je můj pták. Jakým právem si bereš mého ptáka? Dej mi ho!
 
 Siddhártha: Ne, je to můj pták, Devadatto.
 
@@ -71,7 +71,7 @@ Devadatta: Nejde o to, zda by byl mrtvý nebo živý. Pták je živý a je mým 
 
 Siddhártha: Ó Devadatto, ty máš sílu zabíjet a já mám sílu milovat. Ale protože tohoto ptáka, toho ubohého ptáka, mám já, nedostaneš ho zpět.
 
-Devadatta: Siddhárto, mohou být chvíle pro tvou filozofii a jsou lidé, kteří tvé filozofii budou naslouchat. Ale teď není ta chvíle a já nejsem ten, kdo bude naslouchat. Obhajuj si svou filozofii před těmi, kdo chtějí být jako ty. Před těmi, kdo chtějí žít ve světě snů a nemají smysl pro praktičnost. Život musí být praktický. Život potřebuje sílu, život potřebuje energii. Tvůj život je ale životem lenosti a falešné laskavosti. Měl bys být silný. Jsi princ a brzy budeš vládnout svému království. Takový falešný postoj ti v žádném případě nepomůže. To, co jsem dnes udělal já, uděláš miliónkrát. Já chtěl zabít ptáka. Ty budeš jednoho dne zabíjet lidi. Tehdy tvá filozofie dozná změny. 
+Devadatta: Siddhártho, mohou být chvíle pro tvou filozofii a jsou lidé, kteří tvé filozofii budou naslouchat. Ale teď není ta chvíle a já nejsem ten, kdo bude naslouchat. Obhajuj si svou filozofii před těmi, kdo chtějí být jako ty. Před těmi, kdo chtějí žít ve světě snů a nemají smysl pro praktičnost. Život musí být praktický. Život potřebuje sílu, život potřebuje energii. Tvůj život je ale životem lenosti a falešné laskavosti. Měl bys být silný. Jsi princ a brzy budeš vládnout svému království. Takový falešný postoj ti v žádném případě nepomůže. To, co jsem dnes udělal já, uděláš miliónkrát. Já chtěl zabít ptáka. Ty budeš jednoho dne zabíjet lidi. Tehdy tvá filozofie dozná změny. 
 
 Siddhártha: Ne, Devadatto, má filozofie zůstane vždy stejná. Má filozofie je filozofií soucitu, a ne filozofií ničení. 
 
@@ -99,7 +99,7 @@ Soudce: Princi, proč si ponecháváš ptáka, který patří někomu jinému? J
 
 Siddhártha: Ó ctihodný soudce, nevím nic o spravedlnosti, ale mé srdce mi říká, že ten, kdo život zachraňuje, je vlastník. Ne ten, kdo život bere. Mé srdce pro toho ptáka krvácelo, a proto jsem ho zachránil. Jsem připraven za toho ptáka dát svůj život. 
 
-Devadatta: Siddhárto, ty ale umíš mluvit. Moc dobře víš, že tě nikdo namísto toho ptáka nezabije. Nepředváděj svůj falešný soucit.
+Devadatta: Siddhártho, ty ale umíš mluvit. Moc dobře víš, že tě nikdo namísto toho ptáka nezabije. Nepředváděj svůj falešný soucit.
 
 SOUDCE: Devadatto, soudcem jsem tu já. Dovol, abych ho vyslechl.
 
@@ -107,7 +107,7 @@ Siddhártha: Ó pane, cítím, že tento pták patří mně, protože jsem mu za
 
 Soudce: Souhlasím s tebou, princi. Ten, kdo život zachraňuje, je nekonečně důležitější než ten, kdo život bere. Zachránil jsi život toho ptáka. Proto jsi to ty, kdo má na něj nárok. Pták je tvůj. Ten, kdo zachraňuje život nebo dává nový život, je skutečný vlastník. A ne ten, kdo život bere nebo ho ničí. Dnes jsi pro ptáka nabídl svůj život. Jasně vidím, že přijde den, kdy nabídneš svůj život celému lidstvu. Tvé srdce bude plakat pro záchranu krvácejícího srdce lidstva. Tvé srdce bude plakat pro osvícení neosvícené mysli lidstva. Tvá duše bude plakat pro pozvednutí vědomí lidstva. 
 
-Devadatta: Siddhárto, dnes zvítězila tvá síla lásky. Ale přijde den, kdy tě porazím svou sílou zničení. Uvidíš, jak síla porazí lásku.
+Devadatta: Siddhártho, dnes zvítězila tvá síla lásky. Ale přijde den, kdy tě porazím svou sílou zničení. Uvidíš, jak síla porazí lásku.
 
 Siddhártha: Devadatto, mýlíš se. Láska vždy vítězí, protože Láska je Všemocnou Silou.
 
@@ -186,7 +186,7 @@ Siddhártha: Samotné pomyšlení na to, že bych měl jednou zestárnout, mě n
   :END:
 
 
-/(Druhý den. Čanna veze Siddhártu v kočáře jinou cestou.)/
+/(Druhý den. Čanna veze Siddhárthu v kočáře jinou cestou.)/
 
 Siddhártha: Život za zdmi paláce je opravdu krásný, Čanno. Všechno je tady svěží, okouzlující a oduševnělé.
 
@@ -333,7 +333,7 @@ Pátý asketa
 
 /(Siddhárta sedí pod stromem ve vysoké meditaci. Vstoupí pět asketů.)/
 
-První asketa: Ó, Siddhárta! Siddhárta! Podívejte na Siddhártu!
+První asketa: Ó, Siddhárta! Siddhárta! Podívejte na Siddhárthu!
 
 Druhý asketa: Jsem si jistý, že brzy dosáhne poznání té nejvyšší Pravdy.
 
@@ -343,7 +343,7 @@ Třetí asketa: Určitě.
 
 Pátý asketa: Alespoň Siddhárta dosáhne nejvyšší Pravdy. Nezáleží na tom, kdo dosáhne Pravdy jako první. Chci jen, aby se lidé vysvobodili z nevědomosti.
 
-První asketa: Nerušme ho. Je v hluboké meditaci, v transu. Nerušme ubohého Siddhártu. Ať mu Bůh požehná. Vůbec nic nejí. Pije jen vodu. Je tak slabý, tak zesláblý. Ubožák! Takový tvrdý, odříkavý život! Jsem si jist, že mu Bůh dá brzy osvícení.
+První asketa: Nerušme ho. Je v hluboké meditaci, v transu. Nerušme ubohého Siddhárthu. Ať mu Bůh požehná. Vůbec nic nejí. Pije jen vodu. Je tak slabý, tak zesláblý. Ubožák! Takový tvrdý, odříkavý život! Jsem si jist, že mu Bůh dá brzy osvícení.
 
 Druhý asketa: Mohl si užívat všech radovánek světa. Byl princem a ve všech ohledech mohl žít život potěšení.
 
@@ -351,15 +351,15 @@ Třetí asketa: On ví, že život potěšení mu nemůže přinést trvalé usp
 
 Čtvrtý asketa: Nicméně překonat vitální pohnutky, vitální potěšení, je velmi obtížné.
 
-Pátý asketa: Bůh má se Siddhártovým životem v plánu něco zvláštního. Vidím to úplně zřetelně.
+Pátý asketa: Bůh má se Siddhárthovým životem v plánu něco zvláštního. Vidím to úplně zřetelně.
 
-/(Vchází Sudžata, uklání se před Siddhártou a pokládá před něj misku sladkostí. Siddhárta otevře oči a přijímá její jídlo.)/
+/(Vchází Sudžata, uklání se před Siddhárthou a pokládá před něj misku sladkostí. Siddhárta otevře oči a přijímá její jídlo.)/
 
 Sudžata: Ó Mudrci, jsem ti tak vděčná, že sis vzal mé jídlo. Celé dny jsi nic nejedl. Tvé tělo tolik zesláblo, je tak hubené. Budu ti teď nosit jídlo pravidelně. Ty se modli k Bohu. Já ti budu sloužit. Jsem tak ráda, tak vděčná, že budeš přijímat mou oddanou službu.
 
 Siddhárta: Pochopil jsem, že hladovění není správné. Cesta krajnosti není tou správnou cestou. Střední cesta je zdaleka nejlepší. Aby člověk dosáhl nejvyšší Pravdy, nemusí přestat jíst. Musí jíst rozumné množství jídla. Musí jíst tolik, kolik je zapotřebí pro zdraví, pro udržení zdravého těla. Zároveň však nesmí být nenasytný. Až realizuji nejvyšší Pravdu, mou cestou bude střední cesta.
 
-První asketa: Hanba, hanba! Podívejte se na Siddhártu! On jí!
+První asketa: Hanba, hanba! Podívejte se na Siddhárthu! On jí!
 
 Druhý asketa: Podívejte se, kdo mu dává jídlo! Taková krásná dívka!
 
@@ -369,11 +369,11 @@ Třetí asketa: No, co můžete čekat? Jak dlouho dokáže člověk ovládat sv
 
 Pátý asketa: Nezaslouží si náš obdiv a uznání. Vzal si sladkosti od takové krásné dívky. Slouží svým smyslům a sytí své tělo. Vidíte, život potěšení je tady. Žena stačí k tomu, aby zničila aspiraci muže bez ohledu na to, jak je upřímný, jak je oddaný. Jedna krásná žena stačí k tomu, aby svedla z cesty Pravdy dokonce i takového velkého aspiranta. Pojďme.
 
-První asketa: Koho vinit? Dívku, nebo Siddhártu?
+První asketa: Koho vinit? Dívku, nebo Siddhárthu?
 
-Druhý asketa: Já dávám vinu té dívce. Zničila Siddhártovu aspiraci.
+Druhý asketa: Já dávám vinu té dívce. Zničila Siddhárthovu aspiraci.
 
-Třetí asketa: Já viním Siddhártu. Kdo po něm chtěl, aby byl tak slabý? Kdyby měl pevnou vůli, mohl ji odmítnout.
+Třetí asketa: Já viním Siddhárthu. Kdo po něm chtěl, aby byl tak slabý? Kdyby měl pevnou vůli, mohl ji odmítnout.
 
 Čtvrtý asketa: Popravdě... Musíme pamatovat na to, že porazit špatné sklony vitálna je obtížný úkol.
 
@@ -387,7 +387,7 @@ Třetí asketa: Myslel jsem si totéž. Teď je to ale nemožné. Odejděme, ode
 
 /(Asketové odcházejí.)/
 
-/(Sudžata zatím celou dobu krmí Siddhártu a projevuje mu svou láskyplnou, oduševnělou vděčnost. Z očí jí tečou slzy vděčnosti.)/
+/(Sudžata zatím celou dobu krmí Siddhárthu a projevuje mu svou láskyplnou, oduševnělou vděčnost. Z očí jí tečou slzy vděčnosti.)/
 
 Siddhárta: Sudžato, nevšímej si jich. Jsou to nevědomí lidé. Od nevědomých lidí můžeme čekat jen nevědomost. Přišla jsi mě nasytit a já jsem ti vděčný. Navždy ciť mou radost a mé požehnání. 
 
@@ -395,7 +395,7 @@ Sudžata: Ó Mudrci, nevšímám si těch asketů. Jsou to hlupáci. Nevidí tvo
 
 Siddhárta: Přišli a odešli. Něco uvnitř mě viděli, a proto chtěli zůstat. Když ale uviděli, jak si od tebe beru jídlo, odešli. Odešli jen proto, že jejich mysl je stále ještě nečistá; jen proto, že jejich vitálno potřebuje větší pročištění; jen proto, že nedokázali sjednotit svůj život s mým aspirujícím a tvým oddaným vědomím. Tvá oddanost poznala a cítila hloubku mé aspirace. A má aspirace cítila hloubku tvé oddanosti. Sudžato, žehnám ti celým svým srdcem a duší. Usednu tady, tady u paty stromu Bódhi. Tady dosáhnu poznání Pravdy. Už se z tohoto místa nepohnu. I když budu trpět zimou nebo hladem nebo žízní nebo čímkoli jiným, nepohnu se odtud. Tady na tomto místě musí dojít k mému osvícení a zde ukončím utrpení.
 
-/(Sudžata se Siddhártovi ukloní a odejde. Siddhárta zpívá:)/
+/(Sudžata se Siddhárthovi ukloní a odejde. Siddhárta zpívá:)/
 
 /Hihāsane shushyatu me sharirām
 Twagasthi māngsam pralayancha jātu
@@ -435,7 +435,7 @@ a ve skutečnost proměnil:
 Nejvyšší a já jedno jsme 
 – vše přetrváme. 
 
-/(Siddhártovo tělo znenadání začne vyzařovat zlaté světlo a stává se z něj Osvícený, Buddha.)/
+/(Siddhárthovo tělo znenadání začne vyzařovat zlaté světlo a stává se z něj Osvícený, Buddha.)/
 
 Buddha: Prohlédl jsem. Konečně znám Pravdu! Znám cestu. Znám cestu, jak ukončit smutek, jak vykořenit strom utrpení. Ode dneška budu lidstvu sloužit svým vnitřním světlem. Viděl jsem Pravdu, a této pravdy dosáhne každá lidská bytost na zemi. Moje pravda je pro všechny. Má láska je pro všechny. Má realizace je pro všechny. Já jsem pro všechny. Tento můj život, tento můj oddaný život, je k službám lidstvu. Teď, když mám v sobě Transcendentální Světlo, půjdu do světa učit ostatní.
 
@@ -469,7 +469,7 @@ Pátý asketa: Je osvícen, zcela osvícen!
 
 /(Buddha se k nim přiblíží. Jeden po druhém se dotknou Buddhových nohou. Buddha jim žehná se svým soucitným úsměvem.)/
 
-Druhý asketa: Siddhárto, ty už nejsi Siddhártou.
+Druhý asketa: Siddhártho, ty už nejsi Siddhárthou.
 
 Třetí asketa: Jsi Osvícený.
 
@@ -1122,7 +1122,7 @@ Buddha: Ty nejsi můj otrok, jsi můj syn, můj vyvolený syn. Slunce mého souc
 
 /(Vchází Devadatta. Padá Buddhovi k nohám.)/
 
-Devadatta: Siddhárto, když jsme byli mladí, hádal jsem se s tebou o vlastnictví ptáka. Síla mého neovládnutého, nebožského vitálna se musela poddat síle tvého všemilujícího srdce. Ptáka jsi vyhrál ty. Řekl jsem tehdy, že jednoho dne má vitální láska k síle zvítězí nad silou lásky tvého srdce. Od té doby jsem se tě stovkami způsobů pokoušel pokořit, zničit tvé poslání a zabít tě, ale marně. Ty jsi mi pak odpustil. Ó Buddho, můj hanebný život tě nyní zoufale prosí o odpuštění.
+Devadatta: Siddhártho, když jsme byli mladí, hádal jsem se s tebou o vlastnictví ptáka. Síla mého neovládnutého, nebožského vitálna se musela poddat síle tvého všemilujícího srdce. Ptáka jsi vyhrál ty. Řekl jsem tehdy, že jednoho dne má vitální láska k síle zvítězí nad silou lásky tvého srdce. Od té doby jsem se tě stovkami způsobů pokoušel pokořit, zničit tvé poslání a zabít tě, ale marně. Ty jsi mi pak odpustil. Ó Buddho, můj hanebný život tě nyní zoufale prosí o odpuštění.
 
 Buddha: Devadatto, budiž ti odpuštěno.
 
