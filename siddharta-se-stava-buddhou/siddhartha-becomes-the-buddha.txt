@@ -1,4 +1,4 @@
-#+TITLE: Siddhartha se stává Buddhou
+#+TITLE: Siddhártha se stává Buddhou
 #+AUTHOR: Sri Chinmoy
 #+LANGUAGE: cs
 
@@ -29,7 +29,7 @@
 
 
 
-* Kdo je vlastník, ten, kdo život zachraňuje, nebo ten, kdo život bere? /(obsazení)/
+* Kdo je vlastník, ten, kdo život zachraňuje, nebo ten, kdo život bere? (obsazení)
 
   :PROPERTIES:
   :GENRE: play
@@ -38,7 +38,7 @@
   :END:
 
 
-PRINC SIDDHÁRTA
+PRINC SIDDHÁRTHA
 DEVADATTA, BRATRANEC SIDDHÁRTY
 SOUDCE
 
@@ -55,34 +55,36 @@ Kdo je vlastník, ten, kdo život zachraňuje, nebo ten, kdo život bere? /(akt 
 
 /(Princ Siddhárta se v rozjímavé náladě prochází zahradou. Znenadání před něj spadne pták.)/
 
-SIDDHÁRTA: Ach, ubohý ptáčku! Mé srdce pro tebe krvácí. Kdo to udělal? Kdo tě zranil? Kdo na tebe namířil ten šíp? Ubohý, nevinný ptáku! Počkej, vytáhnu ti ten šíp. /(Vyjme šíp.)/ A teď se tě pokusím vyléčit.
+Siddhártha: Ach, ubohý ptáčku! Mé srdce pro tebe krvácí. Kdo to udělal? Kdo tě zranil? Kdo na tebe namířil ten šíp? Ubohý, nevinný ptáku! Počkej, vytáhnu ti ten šíp. /(Vyjme šíp.)/ A teď se tě pokusím vyléčit.
+
 /(Vstoupí Devadatta.)/
 
 Devadatta: Siddhárto, to je můj pták. Jakým právem si bereš mého ptáka? Dej mi ho!
 
-SIDDHÁRTA: Ne, je to můj pták, Devadatto.
+Siddhártha: Ne, je to můj pták, Devadatto.
 
-Devadatta: Tvůj pták! Toho ptáka jsem se­střelil já. Patří mně. Toto je můj šíp. Namířil jsem na toho ptáka a on spadl sem. Je můj, můj. Je to můj majetek. Moje vlastnictví.
+Devadatta: Tvůj pták! Toho ptáka jsem sestřelil já. Patří mně. Toto je můj šíp. Namířil jsem na toho ptáka a on spadl sem. Je můj, můj. Je to můj majetek. Moje vlastnictví.
 
-SIDDHÁRTA: Devadatto, kdybych tomu ptákovi šíp nevytáhl, už by byl mrtvý.
+Siddhártha: Devadatto, kdybych tomu ptákovi šíp nevytáhl, už by byl mrtvý.
 
 Devadatta: Nejde o to, zda by byl mrtvý nebo živý. Pták je živý a je mým vlastnictvím. Byla to má síla, má zručnost, má schopnost, která stáhla toho ptáka na zem. Ty ho nemůžeš mít. Všichni si tě cení, obdivují tě pro tvé srdce, pro tvou laskavost. Ale teď nech svět, aby ocenil mou schopnost, mou dovednost. Buď spokojený s tím, co máš: lásku. A já budu spokojený s tím, co mám já: sílu. Má síla, mé lučištnické umění si zasluhuje toho ptáka, ne tvá láska.
 
-SIDDHÁRTA: Ó Devadatto, ty máš sílu zabíjet a já mám sílu milovat. Ale protože tohoto ptáka, toho ubohého ptáka, mám já, nedostaneš ho zpět.
+Siddhártha: Ó Devadatto, ty máš sílu zabíjet a já mám sílu milovat. Ale protože tohoto ptáka, toho ubohého ptáka, mám já, nedostaneš ho zpět.
+
 Devadatta: Siddhárto, mohou být chvíle pro tvou filozofii a jsou lidé, kteří tvé filozofii budou naslouchat. Ale teď není ta chvíle a já nejsem ten, kdo bude naslouchat. Obhajuj si svou filozofii před těmi, kdo chtějí být jako ty. Před těmi, kdo chtějí žít ve světě snů a nemají smysl pro praktičnost. Život musí být praktický. Život potřebuje sílu, život potřebuje energii. Tvůj život je ale životem lenosti a falešné laskavosti. Měl bys být silný. Jsi princ a brzy budeš vládnout svému království. Takový falešný postoj ti v žádném případě nepomůže. To, co jsem dnes udělal já, uděláš miliónkrát. Já chtěl zabít ptáka. Ty budeš jednoho dne zabíjet lidi. Tehdy tvá filozofie dozná změny. 
 
-SIDDHÁRTA: Ne, Devadatto, má filozofie zůstane vždy stejná. Má filozofie je filozofií soucitu, a ne filozofií ničení. 
+Siddhártha: Ne, Devadatto, má filozofie zůstane vždy stejná. Má filozofie je filozofií soucitu, a ne filozofií ničení. 
 
 Devadatta: Ty si měj svou filozofii a mě nech, abych se řídil svou. Mou filozofií je síla. Tvou filozofií je soucit. Budiž. A teď mi dej mého ptáka.
 
-SIDDHÁRTA: Promiň, nedám ti ho.
+Siddhártha: Promiň, nedám ti ho.
 
-Devadatta: Jsi připraven jít kvůli tomu ­ptáku k soudu?
+Devadatta: Jsi připraven jít kvůli tomu ptáku k soudu?
 
-SIDDHÁRTA: Ano. Plně připraven.
+Siddhártha: Ano. Plně připraven.
 
 
-* Kdo je vlastník, ten, kdo život zachraňuje, nebo ten, kdo život bere? /(akt I, scéna II)/
+* Kdo je vlastník, ten, kdo život zachraňuje, nebo ten, kdo život bere? (akt I, scéna II)
 
   :PROPERTIES:
   :GENRE: play
@@ -93,21 +95,21 @@ SIDDHÁRTA: Ano. Plně připraven.
 
 /(U soudu.)/
 
-SOUDCE: Princi, proč si ponecháváš ptáka, který patří někomu jinému? Je pravda, že máš soucit a k tomu ptáku cítíš lásku. Cítíš lásku ke všemu. Ale spravedlnost říká, že ten pták patří Devadattovi. To on ptáka sestřelil. Patří jemu.
+Soudce: Princi, proč si ponecháváš ptáka, který patří někomu jinému? Je pravda, že máš soucit a k tomu ptáku cítíš lásku. Cítíš lásku ke všemu. Ale spravedlnost říká, že ten pták patří Devadattovi. To on ptáka sestřelil. Patří jemu.
 
-SIDDHÁRTA: Ó ctihodný soudce, nevím nic o spravedlnosti, ale mé srdce mi říká, že ten, kdo život zachraňuje, je vlastník. Ne ten, kdo život bere. Mé srdce pro toho ptáka krvácelo, a proto jsem ho zachránil. Jsem připraven za toho ptáka dát svůj život. 
+Siddhártha: Ó ctihodný soudce, nevím nic o spravedlnosti, ale mé srdce mi říká, že ten, kdo život zachraňuje, je vlastník. Ne ten, kdo život bere. Mé srdce pro toho ptáka krvácelo, a proto jsem ho zachránil. Jsem připraven za toho ptáka dát svůj život. 
 
 Devadatta: Siddhárto, ty ale umíš mluvit. Moc dobře víš, že tě nikdo namísto toho ptáka nezabije. Nepředváděj svůj falešný soucit.
 
 SOUDCE: Devadatto, soudcem jsem tu já. Dovol, abych ho vyslechl.
 
-SIDDHÁRTA: Ó pane, cítím, že tento pták patří mně, protože jsem mu zachránil život. Devadatta ho téměř zabil. Prosím řekněte mi, kdo je důležitější. Ten, kdo život zachraňuje, nebo ten, kdo život ničí?
+Siddhártha: Ó pane, cítím, že tento pták patří mně, protože jsem mu zachránil život. Devadatta ho téměř zabil. Prosím řekněte mi, kdo je důležitější. Ten, kdo život zachraňuje, nebo ten, kdo život ničí?
 
-SOUDCE: Souhlasím s tebou, princi. Ten, kdo život zachraňuje, je nekonečně důležitější než ten, kdo život bere. Zachránil jsi život toho ptáka. Proto jsi to ty, kdo má na něj nárok. Pták je tvůj. Ten, kdo zachraňuje život nebo dává nový život, je skutečný vlastník. A ne ten, kdo život bere nebo ho ničí. Dnes jsi pro ptáka nabídl svůj život. Jasně vidím, že přijde den, kdy nabídneš svůj život celému lidstvu. Tvé srdce bude plakat pro záchranu krvácejícího srdce lidstva. Tvé srdce bude plakat pro osvícení neosvícené mysli lidstva. Tvá duše bude plakat pro pozvednutí vědomí lidstva. 
+Soudce: Souhlasím s tebou, princi. Ten, kdo život zachraňuje, je nekonečně důležitější než ten, kdo život bere. Zachránil jsi život toho ptáka. Proto jsi to ty, kdo má na něj nárok. Pták je tvůj. Ten, kdo zachraňuje život nebo dává nový život, je skutečný vlastník. A ne ten, kdo život bere nebo ho ničí. Dnes jsi pro ptáka nabídl svůj život. Jasně vidím, že přijde den, kdy nabídneš svůj život celému lidstvu. Tvé srdce bude plakat pro záchranu krvácejícího srdce lidstva. Tvé srdce bude plakat pro osvícení neosvícené mysli lidstva. Tvá duše bude plakat pro pozvednutí vědomí lidstva. 
 
 Devadatta: Siddhárto, dnes zvítězila tvá síla lásky. Ale přijde den, kdy tě porazím svou sílou zničení. Uvidíš, jak síla porazí lásku.
 
-SIDDHÁRTA: Devadatto, mýlíš se. Láska vždy vítězí, protože Láska je Všemocnou Silou.
+Siddhártha: Devadatto, mýlíš se. Láska vždy vítězí, protože Láska je Všemocnou Silou.
 
 
 
@@ -122,7 +124,7 @@ SIDDHÁRTA: Devadatto, mýlíš se. Láska vždy vítězí, protože Láska je V
 
 
 
-* Princ Siddhárta opouští palác /(obsazení)/
+* Princ Siddhárta opouští palác (obsazení)
 
   :PROPERTIES:
   :GENRE: play
@@ -131,7 +133,7 @@ SIDDHÁRTA: Devadatto, mýlíš se. Láska vždy vítězí, protože Láska je V
   :END:
 
 
-princ siddhárta
+princ Siddhárta
 Čanna, jeho vozataj
 starý člověk
 nemocný člověk
@@ -140,7 +142,7 @@ duchovní člověk
 
 
 
-* Princ Siddhárta opouští palác /(akt II, scéna I)/
+* Princ Siddhárta opouští palác (akt II, scéna I)
 
   :PROPERTIES:
   :GENRE: play
@@ -151,31 +153,31 @@ duchovní člověk
 
 /(Čanna, Siddhártův vozataj, veze prince ulicemi města.)/
 
-SIDDHÁRTA: Čanno, jsem tak šťastný! Dnes jsem poprvé vyšel z paláce. Konečně cítím opravdovou vůni života. Podívej na to panoráma! Celá moje bytost je v hluboké extázi.
+Siddhártha: Čanno, jsem tak šťastný! Dnes jsem poprvé vyšel z paláce. Konečně cítím opravdovou vůni života. Podívej na to panoráma! Celá moje bytost je v hluboké extázi.
 
-ČANNA: Ó princi, ve tvém štěstí je i mé štěstí. Budu ti vždy k službám.
+Čanna: Ó princi, ve tvém štěstí je i mé štěstí. Budu ti vždy k službám.
 
 /(Náhle před sebou Siddhárta spatří starého člověka.)/
 
-SIDDHÁRTA: Čanno, co je to za člověka? Nemůže ani chodit. Je tak zvláštní -- jeho vlasy jsou bílé. Moje vlasy jsou černé, a tvé taky. Všichni v paláci mají černé vlasy. Co se stalo s vlasy toho muže?
+Siddhártha: Čanno, co je to za člověka? Nemůže ani chodit. Je tak zvláštní -- jeho vlasy jsou bílé. Moje vlasy jsou černé, a tvé taky. Všichni v paláci mají černé vlasy. Co se stalo s vlasy toho muže?
 
-ČANNA: Princi, to je starý člověk. Proto je tak slabý. Proto nemůže dobře chodit. Staří lidé mají bílé vlasy. Jednoho dne i ty a já zestárneme.
+Čanna: Princi, to je starý člověk. Proto je tak slabý. Proto nemůže dobře chodit. Staří lidé mají bílé vlasy. Jednoho dne i ty a já zestárneme.
 
-SIDDHÁRTA: Já? Já zestárnu? To není možné! Cítím se tak bídně, když vidím toho starého člověka. Čanno, nemyslím, že já budu muset zestárnout.
+Siddhártha: Já? Já zestárnu? To není možné! Cítím se tak bídně, když vidím toho starého člověka. Čanno, nemyslím, že já budu muset zestárnout.
 
-ČANNA: Princi, jak já si přeji, abys nikdy nezestárnul! Ale, bohužel, stáří nemůže nikdo uniknout.
+Čanna: Princi, jak já si přeji, abys nikdy nezestárnul! Ale, bohužel, stáří nemůže nikdo uniknout.
 
-SIDDHÁRTA: Čanno, cítím opravdu tolik lítosti, když vidím toho starce -- tak vyhublého a slabého. Pojeďme zpátky do paláce. Doufám, že zítra nebudeme muset žádného starce potkat.
+Siddhártha: Čanno, cítím opravdu tolik lítosti, když vidím toho starce -- tak vyhublého a slabého. Pojeďme zpátky do paláce. Doufám, že zítra nebudeme muset žádného starce potkat.
 
-ČANNA: Ach ne, princi. Zítra tě povezu jinudy.
+Čanna: Ach ne, princi. Zítra tě povezu jinudy.
 
-SIDDHÁRTA: Samotné pomyšlení na to, že bych měl jednou zestárnout, mě naplňuje smutkem.
+Siddhártha: Samotné pomyšlení na to, že bych měl jednou zestárnout, mě naplňuje smutkem.
 
-ČANNA: Mě také, princi.
+Čanna: Mě také, princi.
 
 
 
-* Princ Siddhárta opouští palác /(akt II, scéna II)/
+* Princ Siddhárta opouští palác (akt II, scéna II)
 
   :PROPERTIES:
   :GENRE: play
@@ -186,29 +188,29 @@ SIDDHÁRTA: Samotné pomyšlení na to, že bych měl jednou zestárnout, mě na
 
 /(Druhý den. Čanna veze Siddhártu v kočáře jinou cestou.)/
 
-SIDDHÁRTA: Život za zdmi paláce je opravdu krásný, Čanno. Všechno je tady svěží, okouzlující a oduševnělé.
+Siddhártha: Život za zdmi paláce je opravdu krásný, Čanno. Všechno je tady svěží, okouzlující a oduševnělé.
 
-ČANNA: Jsem šťastný, že ti projížďka dává radost.
+Čanna: Jsem šťastný, že ti projížďka dává radost.
 
-SIDDHÁRTA: Uvnitř paláce je samý přepych. Tady venku je samá krása -- krása přírody, krása života.
+Siddhártha: Uvnitř paláce je samý přepych. Tady venku je samá krása -- krása přírody, krása života.
 
 /(Znenadání uvidí Siddhárta muže, ležícího na ulici.)/
 
-SIDDHÁRTA: Čanno, kdo je ten člověk? Nedokáže ani sedět, jen leží na ulici. Jednou rukou si tiskne hlavu a druhou se drží za břicho. A jeho oči -- jsou docela vyhaslé… Sténá a roní hořké slzy. Co se s ním děje? Vypadá to, že se sotva může nadechnout!
+Siddhártha: Čanno, kdo je ten člověk? Nedokáže ani sedět, jen leží na ulici. Jednou rukou si tiskne hlavu a druhou se drží za břicho. A jeho oči -- jsou docela vyhaslé… Sténá a roní hořké slzy. Co se s ním děje? Vypadá to, že se sotva může nadechnout!
 
-ČANNA: Princi, ten člověk je nemocný. Trpí hroznou bolestí v hlavě a v břiše. Možná ho trápí i jiné věci. Princi, každý čas od času onemocní.
+Čanna: Princi, ten člověk je nemocný. Trpí hroznou bolestí v hlavě a v břiše. Možná ho trápí i jiné věci. Princi, každý čas od času onemocní.
 
-SIDDHÁRTA: Ne! Já jsem nikdy nebyl nemocný. Pohled na toho muže mě tak rmoutí. Nemůžu mu nějak pomoct?
+Siddhártha: Ne! Já jsem nikdy nebyl nemocný. Pohled na toho muže mě tak rmoutí. Nemůžu mu nějak pomoct?
 
-ČANNA: Ne, princi, nemůžeš mu nijak pomoct. Jen lékař mu dokáže pomoct. Jsem si jistý, že ho nějací jeho přátelé brzy vezmou k lékaři. Princi, měli bychom odsud odjet. Stejně jako včera, i dnes je tvá radost ta tam. Svět je plný utrpení.
+Čanna: Ne, princi, nemůžeš mu nijak pomoct. Jen lékař mu dokáže pomoct. Jsem si jistý, že ho nějací jeho přátelé brzy vezmou k lékaři. Princi, měli bychom odsud odjet. Stejně jako včera, i dnes je tvá radost ta tam. Svět je plný utrpení.
 
-SIDDHÁRTA: Tak je to tedy… Vůbec jsem o tom nevěděl… Zítra musíme jet jinudy a objet celé království.
+Siddhártha: Tak je to tedy… Vůbec jsem o tom nevěděl… Zítra musíme jet jinudy a objet celé království.
 
-ČANNA: Jistě. Zítra pojedeme jinými ulicemi.
+Čanna: Jistě. Zítra pojedeme jinými ulicemi.
 
 
 
-* Princ Siddhárta opouští palác /(akt II, scéna III)/
+* Princ Siddhárta opouští palác (akt II, scéna III)
 
   :PROPERTIES:
   :GENRE: play
@@ -218,37 +220,37 @@ SIDDHÁRTA: Tak je to tedy… Vůbec jsem o tom nevěděl… Zítra musíme jet 
 
 /(Příštího dne. Siddhárta a Čanna jedou v kočáře. Čanna vybral jinou cestu.)/
 
-SIDDHÁRTA: Nádhera, nádhera! Dnes vidím a cítím skutečnou krásu na zemi. Ujeli jsme pořádný kus cesty. A projíždíme tolika krásnými místy!
+Siddhártha: Nádhera, nádhera! Dnes vidím a cítím skutečnou krásu na zemi. Ujeli jsme pořádný kus cesty. A projíždíme tolika krásnými místy!
 
 /(Náhle Siddhárta uvidí několik lidí, kteří nesou na ramenou jakéhosi muže. Po tvářích jim tečou slzy.)/
 
-SIDDHÁRTA: Čanno, co je s tím mužem? Proč ho musí ostatní nést? A proč přitom pláčou?
+Siddhártha: Čanno, co je s tím mužem? Proč ho musí ostatní nést? A proč přitom pláčou?
 
-ČANNA: Ach… ten člověk je mrtvý.
+Čanna: Ach… ten člověk je mrtvý.
 
-SIDDHÁRTA: Mrtvý? Co tím myslíš?
+Siddhártha: Mrtvý? Co tím myslíš?
 
-ČANNA: Není v něm žádný život, princi. Jeho hra na zemi skončila. Každý musí jednoho dne umřít. Každý jednou odejde z tohoto světa. Každý musí vytrpět smrt.
+Čanna: Není v něm žádný život, princi. Jeho hra na zemi skončila. Každý musí jednoho dne umřít. Každý jednou odejde z tohoto světa. Každý musí vytrpět smrt.
 
-SIDDHÁRTA: Ale já ne! Já nechci umřít. A má milovaná žena, i ona musí umřít? A můj syn, můj nejdražší Ráhul, on také musí umřít? Ne, to není možné. Nedokázal bych unést takovou ztrátu.
+Siddhártha: Ale já ne! Já nechci umřít. A má milovaná žena, i ona musí umřít? A můj syn, můj nejdražší Ráhul, on také musí umřít? Ne, to není možné. Nedokázal bych unést takovou ztrátu.
 
-ČANNA: Princi, každý, kdo žije na zemi, musí nakonec zemřít. Nikdo nemůže žít věčně.
+Čanna: Princi, každý, kdo žije na zemi, musí nakonec zemřít. Nikdo nemůže žít věčně.
 
-SIDDHÁRTA: Čanno, tomu nemůžu věřit. Nechci tomu věřit… Musím překonat smrt, nejen sám pro sebe -- pro každého. Čanno, řekni mi prosím, je něco silnějšího, ničivějšího než smrt?
+Siddhártha: Čanno, tomu nemůžu věřit. Nechci tomu věřit… Musím překonat smrt, nejen sám pro sebe -- pro každého. Čanno, řekni mi prosím, je něco silnějšího, ničivějšího než smrt?
 
-ČANNA: Ne, princi. Není nic mocnějšího a ničivějšího než smrt. Smrt přemůže každého. My všichni jsme otroky smrti.
+Čanna: Ne, princi. Není nic mocnějšího a ničivějšího než smrt. Smrt přemůže každého. My všichni jsme otroky smrti.
 
-SIDDHÁRTA: Já ne!
+Siddhártha: Já ne!
 
-ČANNA: Všichni jsme smrti vydáni na milost.
+Čanna: Všichni jsme smrti vydáni na milost.
 
-SIDDHÁRTA: Já ne! Čanno, teď, když jsem viděl starého člověka, nemocného člověka a mrtvého člověka, myslím, že jsem viděl všechno špatné, co mi svět může ukázat. Ale něco ve mně mi říká, že je ještě něco, co jsem neviděl. Chci jet zítra znovu.
+Siddhártha: Já ne! Čanno, teď, když jsem viděl starého člověka, nemocného člověka a mrtvého člověka, myslím, že jsem viděl všechno špatné, co mi svět může ukázat. Ale něco ve mně mi říká, že je ještě něco, co jsem neviděl. Chci jet zítra znovu.
 
-ČANNA: Chceš-li zítra znovu vyjet z paláce, velmi rád tě povezu, ó princi.
+Čanna: Chceš-li zítra znovu vyjet z paláce, velmi rád tě povezu, ó princi.
 
 
 
-* Princ Siddhárta opouští palác /(akt II, scéna IV)/
+* Princ Siddhárta opouští palác (akt II, scéna IV)
 
   :PROPERTIES:
   :GENRE: play
@@ -259,32 +261,35 @@ SIDDHÁRTA: Já ne! Čanno, teď, když jsem viděl starého člověka, nemocné
 
 /(Příští den. Siddhárta a Čanna jsou v kočáře a projíždějí ulicemi.)/
 
-SIDDHÁRTA: Čanno, dojeli jsme daleko. Dnes je všechno v pořádku. Nemusel jsem potkat ani starého člověka, ani nemocného, ani mrtvého. Dnes se budu jenom radovat z krásy přírody, skvostů přírody, její lásky, jejího srdce a její duše.
+Siddhártha: Čanno, dojeli jsme daleko. Dnes je všechno v pořádku. Nemusel jsem potkat ani starého člověka, ani nemocného, ani mrtvého. Dnes se budu jenom radovat z krásy přírody, skvostů přírody, její lásky, jejího srdce a její duše.
 
 /(Vtom spatří Siddhárta někoho, jak medituje pod stromem.)/
 
-SIDDHÁRTA: Kdo je ten člověk, Čanno? Co to dělá pod tím stromem? Proč má zavřené oči? A co dělá s tou šňůrou korálů?
+Siddhártha: Kdo je ten člověk, Čanno? Co to dělá pod tím stromem? Proč má zavřené oči? A co dělá s tou šňůrou korálů?
 
-ČANNA: Princi, zodpovím ti tvé otázky jednu po druhé. Kdo je to? To je duchovní člověk. Co dělá u paty toho stromu? Modlí se a medituje. Proč má zavřené oči? Myslí si, že jeho modlitby budou upřímnější a jeho meditace hlubší, když bude mít oči zavřené. A co dělá se šňůrou korálů? Opakuje Boží jméno a počítá si přitom na korálích.
+Čanna: Princi, zodpovím ti tvé otázky jednu po druhé. Kdo je to? To je duchovní člověk. Co dělá u paty toho stromu? Modlí se a medituje. Proč má zavřené oči? Myslí si, že jeho modlitby budou upřímnější a jeho meditace hlubší, když bude mít oči zavřené. A co dělá se šňůrou korálů? Opakuje Boží jméno a počítá si přitom na korálích.
 
-SIDDHÁRTA: Věřím všemu, co říkáš -- ale co tím získá, když vede takový život?
+Siddhártha: Věřím všemu, co říkáš -- ale co tím získá, když vede takový život?
 
-ČANNA: Získá nekonečný mír a nekonečnou radost.
+Čanna: Získá nekonečný mír a nekonečnou radost.
 
-SIDDHÁRTA: Nekonečný mír? Nekonečnou radost? Musím jít a promluvit s ním. Čanno, pojď se mnou. Musíme si s tím zvláštním člověkem promluvit.
+Siddhártha: Nekonečný mír? Nekonečnou radost? Musím jít a promluvit s ním. Čanno, pojď se mnou. Musíme si s tím zvláštním člověkem promluvit.
 
-ČANNA: To je dobrý nápad, princi.
+Čanna: To je dobrý nápad, princi.
 
 /(Vystoupí z kočáru a přiblíží se k meditujícímu muži.)/
 
-SIDDHÁRTA: Můžu vědět, jak se jmenuješ? A jaké je tvé povolání? /(Meditující muž neodpovídá.)/ Víš, že já jsem princ Siddhárta? Mému otci patří tohle království; on je jeho Pánem. A ty přehlížíš jeho syna! Můžu s tebou udělat, co chci. Proboha, neplýtvej mým vzácným časem!
+Siddhártha: Můžu vědět, jak se jmenuješ? A jaké je tvé povolání? /(Meditující muž neodpovídá.)/ Víš, že já jsem princ Siddhárta? Mému otci patří tohle království; on je jeho Pánem. A ty přehlížíš jeho syna! Můžu s tebou udělat, co chci. Proboha, neplýtvej mým vzácným časem!
+
 /(Meditující muž neodpovídá.)/
 
-ČANNA: Princi, odpusť mi. Musím ti něco říct. To je duchovní člověk. On se modlí k Bohu, medituje na Boha. Neměli bychom ho rušit. Kdo ví, co se děje uvnitř něj? Možná právě vnitřně rozmlouvá s Bohem. Možná mu Bůh právě říká, jak může dosáhnout nekonečného míru a blaženosti.
-SIDDHÁRTA: Právě to potřebuji! Potřebuji nekonečný mír a nekonečnou blaženost, Čanno. Myslíš, že někdy můžu získat takový mír a blaženost?
-ČANNA: Proč ne? Proč ne, princi? Jsem si jist, že když se budeš modlit a meditovat jako tento duchovní člověk, najdeš nekonečný mír a nekonečnou blaženost.
+Čanna: Princi, odpusť mi. Musím ti něco říct. To je duchovní člověk. On se modlí k Bohu, medituje na Boha. Neměli bychom ho rušit. Kdo ví, co se děje uvnitř něj? Možná právě vnitřně rozmlouvá s Bohem. Možná mu Bůh právě říká, jak může dosáhnout nekonečného míru a blaženosti.
 
-SIDDHÁRTA: Čanno, od zítřka pro mě tedy začíná nový život. Budu se modlit a meditovat, ve dne v noci. Můj nynější život přepychu pro mě skončil. Přijmu život chudoby. Obejmu život odříkání. A učiním konec utrpení v tomto světě. Vím, že kořenem všeho utrpení je nevědomost. Já vyvrátím ten obrovský strom nevědomosti, Čanno -- naprosto jej zničím. První den jsem viděl starého člověka; druhý den nemocného; třetí den jsem uviděl mrtvého. Dnes, čtvrtého dne, vidím člověka duchovního. Buď zítra, nebo v blízké budoucnosti, anebo ve vzdálené budoucnosti uvidím jiného člověka -- člověka, který má nekonečné světlo, nekonečný mír a nekonečnou blaženost. Můj život je bezvýznamný a zbytečný bez světla Věčnosti, míru Nekonečnosti a blaženosti Nesmrtelnosti. To lidské ve mně dnes dohrálo svou roli, Čanno. Tento život potěšení už není pro mě. Zítra zač­ne hrát svou roli to božské ve mně. Od této chvíle je pro mě jen život univerzálního míru a všepřesahující blaženosti.
+Siddhártha: Právě to potřebuji! Potřebuji nekonečný mír a nekonečnou blaženost, Čanno. Myslíš, že někdy můžu získat takový mír a blaženost?
+
+Čanna: Proč ne? Proč ne, princi? Jsem si jist, že když se budeš modlit a meditovat jako tento duchovní člověk, najdeš nekonečný mír a nekonečnou blaženost.
+
+Siddhártha: Čanno, od zítřka pro mě tedy začíná nový život. Budu se modlit a meditovat, ve dne v noci. Můj nynější život přepychu pro mě skončil. Přijmu život chudoby. Obejmu život odříkání. A učiním konec utrpení v tomto světě. Vím, že kořenem všeho utrpení je nevědomost. Já vyvrátím ten obrovský strom nevědomosti, Čanno -- naprosto jej zničím. První den jsem viděl starého člověka; druhý den nemocného; třetí den jsem uviděl mrtvého. Dnes, čtvrtého dne, vidím člověka duchovního. Buď zítra, nebo v blízké budoucnosti, anebo ve vzdálené budoucnosti uvidím jiného člověka -- člověka, který má nekonečné světlo, nekonečný mír a nekonečnou blaženost. Můj život je bezvýznamný a zbytečný bez světla Věčnosti, míru Nekonečnosti a blaženosti Nesmrtelnosti. To lidské ve mně dnes dohrálo svou roli, Čanno. Tento život potěšení už není pro mě. Zítra začne hrát svou roli to božské ve mně. Od této chvíle je pro mě jen život univerzálního míru a všepřesahující blaženosti.
 
 
 
@@ -298,7 +303,7 @@ SIDDHÁRTA: Čanno, od zítřka pro mě tedy začíná nový život. Budu se mod
 
 
 
-* Siddhárta se stává Buddhou /(obsazení)/
+* Siddhárta se stává Buddhou (obsazení)
 
   :PROPERTIES:
   :GENRE: play
@@ -317,7 +322,7 @@ Pátý asketa
 
 
 
-* Siddhárta se stává Buddhou /(akt III, scéna I)/
+* Siddhárta se stává Buddhou (akt III, scéna I)
 
   :PROPERTIES:
   :GENRE: play
@@ -406,6 +411,7 @@ za nesčíslné věky,
 z tohoto místa se nepohnu.]
 
 /(Siddhárta medituje. Má vize života. Život potěšení, vitální pohnutky, sexuální síly -- to vše se do něj snaží vstoupit.)/
+
 Siddhárta: Ach, snaží se do mě vstoupit tyto nižší vitální pohnutky. Ne, to nedovolím. Mám svou vnitřní sílu, nezdolnou sílu. Budu proti nim bojovat.
 
 /(Siddhárta medituje s nesmírným odhodláním. Náhle celou jeho bytost zaplaví světlo. Začíná zpívat:)/
@@ -433,7 +439,7 @@ Nejvyšší a já jedno jsme
 
 Buddha: Prohlédl jsem. Konečně znám Pravdu! Znám cestu. Znám cestu, jak ukončit smutek, jak vykořenit strom utrpení. Ode dneška budu lidstvu sloužit svým vnitřním světlem. Viděl jsem Pravdu, a této pravdy dosáhne každá lidská bytost na zemi. Moje pravda je pro všechny. Má láska je pro všechny. Má realizace je pro všechny. Já jsem pro všechny. Tento můj život, tento můj oddaný život, je k službám lidstvu. Teď, když mám v sobě Transcendentální Světlo, půjdu do světa učit ostatní.
 
-* Siddhárta se stává Buddhou /(akt III, scéna II)/
+* Siddhárta se stává Buddhou (akt III, scéna II)
 
   :PROPERTIES:
   :GENRE: play
@@ -460,6 +466,7 @@ Třetí asketa: Celá jeho tvář září.
 Čtvrtý asketa: Jeho tvář? Celé jeho tělo září!
 
 Pátý asketa: Je osvícen, zcela osvícen!
+
 /(Buddha se k nim přiblíží. Jeden po druhém se dotknou Buddhových nohou. Buddha jim žehná se svým soucitným úsměvem.)/
 
 Druhý asketa: Siddhárto, ty už nejsi Siddhártou.
@@ -488,7 +495,7 @@ Buddha: Máte můj soucit. Máte mé světlo. Máte mou blaženost, mé děti, m
 
 
 
-* Otče, dej mi prosím /(obsazení)/
+* Otče, dej mi prosím (obsazení)
 
   :PROPERTIES:
   :GENRE: play
@@ -503,7 +510,7 @@ Ráhul, Buddhův syn
 
 
 
-* Otče, dej mi prosím /(akt IV, scéna I)/
+* Otče, dej mi prosím (akt IV, scéna I)
 
   :PROPERTIES:
   :GENRE: play
@@ -562,7 +569,7 @@ Buddha: Můj synu, jsem na tebe opravdu hrdý. Jsi ještě dítě, neviděl jsi 
 
 
 
-* Buddha žádá pár hořčičných semínek /(obsazení)/
+* Buddha žádá pár hořčičných semínek (obsazení)
 
   :PROPERTIES:
   :GENRE: play
@@ -579,7 +586,7 @@ dívka
 
 
 
-* Buddha žádá pár hořčičných semínek /(akt V, scéna I)/
+* Buddha žádá pár hořčičných semínek (akt V, scéna I)
 
   :PROPERTIES:
   :GENRE: play
@@ -603,7 +610,7 @@ Buddha: Ano, Gautamí, přineseš-li mi hořčičná semínka z domu, kam dosud
 
 
 
-* Buddha žádá pár hořčičných semínek /(akt V, scéna II)/
+* Buddha žádá pár hořčičných semínek (akt V, scéna II)
 
   :PROPERTIES:
   :GENRE: play
@@ -652,7 +659,7 @@ Gautamí: Mé dítě, nemůžu si tvá semínka vzít.
 
 
 
-* Buddha žádá pár hořčičných semínek /(akt V, scéna III)/
+* Buddha žádá pár hořčičných semínek (akt V, scéna III)
 
   :PROPERTIES:
   :GENRE: play
@@ -692,7 +699,7 @@ Buddha: Gautamí, máš pravdu, naprostou pravdu. Mé dítě, tvému životu je 
 
 
 
-* Místo setkání bytí a nebytí /(obsazení)/
+* Místo setkání bytí a nebytí (obsazení)
 
   :PROPERTIES:
   :GENRE: play
@@ -706,7 +713,7 @@ Buddha
 
 
 
-* Místo setkání bytí a nebytí /(akt VI, scéna I)/
+* Místo setkání bytí a nebytí (akt VI, scéna I)
 
   :PROPERTIES:
   :GENRE: play
@@ -765,7 +772,7 @@ Kšema: Máte pravdu. Nikdo nedokáže spočítat zrnka písku na břehu Gangy a
 
 
 
-* Tady a nikde jinde /(obsazení)/
+* Tady a nikde jinde (obsazení)
 
   :PROPERTIES:
   :GENRE: play
@@ -785,7 +792,7 @@ komorník
 
 
 
-* Tady a nikde jinde /(akt VII, scéna I)/
+* Tady a nikde jinde (akt VII, scéna I)
 
   :PROPERTIES:
   :GENRE: play
@@ -819,7 +826,7 @@ Buddha: Tvé odpovědi mě velmi potěšily. Můžeš šířit mou filozofii. M�
 
 
 
-* Tady a nikde jinde /(akt VII, scéna II)/
+* Tady a nikde jinde (akt VII, scéna II)
 
   :PROPERTIES:
   :GENRE: play
@@ -829,19 +836,28 @@ Buddha: Tvé odpovědi mě velmi potěšily. Můžeš šířit mou filozofii. M�
 
 
 /(Buddha a jeho žáci jsou v lese. Znenadání se objeví loupežník Angulimal.)/
+
 Angulimal: Stát! Stát!
-Buddha: Já už stojím. To ty ses ještě nezastavil. Zabil jsi stovky lidí. Na krku nosíš věnec z uřezaných palců. Já jsem se už zastavil. Stojím navždy pevně v nekonečném Vědomí. Ty však stále bloudíš ve světě vitálních tužeb a snažíš se zničit svět. To ty ses ještě nezasta­vil. Pokud jde o mě, já jsem již ponořen do nehybného ticha Nepostižitelného.
+
+Buddha: Já už stojím. To ty ses ještě nezastavil. Zabil jsi stovky lidí. Na krku nosíš věnec z uřezaných palců. Já jsem se už zastavil. Stojím navždy pevně v nekonečném Vědomí. Ty však stále bloudíš ve světě vitálních tužeb a snažíš se zničit svět. To ty ses ještě nezastavil. Pokud jde o mě, já jsem již ponořen do nehybného ticha Nepostižitelného.
+
 /(Angulimal vytáhne nůž a chce Buddhu bodnout, přemůže jej však Buddhovo Světlo. Padne k Buddhovým nohám.)/
+
 Angulimal: Ó Buddho, odpusť mi. Odpusť mi mou nevědomost. Odpusť mi to, co jsem udělal světu a co jsem teď chtěl udělat tobě.
+
 Buddha: Odpustil jsem ti. Odpustil jsem ti tvou minulost, odpustil jsem ti tvou přítomnost.
+
 Angulimal: Je-li pravda, že jsi mi odpustil mou minulost i mou přítomnost, pak si přeji, abys to dokázal.
+
 Buddha: Jak chceš, abych to dokázal?
+
 Angulimal: Přijmi mě za svého žáka. Jestli mě přijmeš za svého žáka, pak uvěřím, že jsi mi doopravdy odpustil, ó Pane.
+
 Buddha: Jsi mým žákem, Angulimale. Přijímám tě.
 
 
 
-* Tady a nikde jinde /(akt VII, scéna III)/
+* Tady a nikde jinde (akt VII, scéna III)
 
   :PROPERTIES:
   :GENRE: play
@@ -863,6 +879,7 @@ Buddha: Určitě pro něj něco udělám.
 Prašendžit: Jsem si jistý, Mistře, že jednoho dne tvé Světlo a Soucit promění i takového vraha, jako je Angulimal.
 
 /(Angulimal je nyní žákem. Sedí mezi ostatními a poslouchá tento rozhovor. Je hladce oholený a má na sobě obyčejné, prosté šaty.)/
+
 Buddha: Prašendžite, Angulimal se již změnil.
 
 Prašendžit: Jak? Kdy? Kde?
@@ -875,7 +892,7 @@ Buddha: Již došlo k jeho proměně.
 
 
 
-* Tady a nikde jinde /(akt VII, scéna IV)/
+* Tady a nikde jinde (akt VII, scéna IV)
 
   :PROPERTIES:
   :GENRE: play
@@ -949,7 +966,7 @@ Buddha: Ach Ánando, nanejvýš milující dítě, budeme-li chodit z jednoho m�
 
 
 
-* Buddham Šaranam Gačchami
+* Buddham šaranam gačhámí 
 
   :PROPERTIES:
   :GENRE: play
@@ -959,7 +976,7 @@ Buddha: Ach Ánando, nanejvýš milující dítě, budeme-li chodit z jednoho m�
 
 
 
-* Buddham Šaranam Gačchami /(obsazení)/
+* Buddham šaranam gačhámí (obsazení)
 
   :PROPERTIES:
   :GENRE: play
@@ -978,7 +995,7 @@ Buddhovi žáci
 Buddha
 
 
-* Buddham Šaranam Gačchami /(akt VIII, scéna I)/
+* Buddham šaranam gačhámí (akt VIII, scéna I) 
 
   :PROPERTIES:
   :GENRE: play
@@ -1005,7 +1022,7 @@ Adžatašatru: Ano, pojď do mé komnaty, do mého pokoje. Nikdo tam není.
 
 
 
-* Buddham Šaranam Gačchami /(akt VIII, scéna II)/
+* Buddham šaranam gačhámí (akt VIII, scéna II)
 
   :PROPERTIES:
   :GENRE: play
@@ -1042,7 +1059,7 @@ Adžatašatru: Nejsem žádný nevděčník. Budu si tvou pomoc pamatovat. Chci 
 
 
 
-* Buddham Šaranam Gačchami /(akt VIII, scéna III)/
+* Buddham šaranam gačhámí (akt VIII, scéna III)
 
   :PROPERTIES:
   :GENRE: play
@@ -1060,6 +1077,7 @@ Džaivaka: Ne, králi, to není příčina vašeho trápení.
 Adžatašatru: Proč tedy tak trpím?
 
 Džaivaka: Vaše nemoc, králi, má duševní povahu. Máte vnitřní nemoc.
+
 Adžatašatru: Jakou vnitřní nemoc? Co tím myslíte, vnitřní nemoc, doktore Džaivako? Jak mě vyléčíte?
 
 Džaivaka: Ó králi, já vás vyléčit nedokážu, protože vaše nemoc není v těle. Vaše nemoc je mentální, duševní, duchovní. Jen Buddha vás dokáže vyléčit.
@@ -1067,6 +1085,7 @@ Džaivaka: Ó králi, já vás vyléčit nedokážu, protože vaše nemoc není 
 Adžatašatru: Buddha? Pán Buddha? Víte, že já a Devadatta jsme blízcí přátelé, nejbližší přátelé?
 
 Džaivaka: Ano, vím. Vím také, že vám Devadatta pomohl stát se králem.
+
 Adžatašatru: Ovšemže pomohl. A já jsem mu slíbil, že mu pomůžu zbavit se Buddhy.
 
 Džaivaka: I to jsem slyšel. Jsem si toho plně vědom.
@@ -1082,7 +1101,7 @@ Džaivaka: Vaše duše je víc než připravená přijmout Buddhovo Světlo. Bud
 
 
 
-* Buddham Šaranam Gačchami /(akt VIII, scéna IV)/
+* Buddham šaranam gačhámí (akt VIII, scéna IV)
 
   :PROPERTIES:
   :GENRE: play
@@ -1111,9 +1130,9 @@ Devadatta: Ó Buddho, pokud jsi skutečně odpustil tomuto nelidskému stvořen�
 
 /(Devadatta 3x zpívá.)/
 
-/Buddham šaranam gačchami.
-Dharmam šaranam gačchami.
-Šangham šaranam gačchami./
+/ Buddham šaranam gačhámí.
+Dharmam šaranam gačhámí.
+Šangham šaranam gačhámí./
 
 Uchyluji se k Buddhovi pro útočiště.
 Uchyluji se k Dharmě pro útočiště.
@@ -1131,7 +1150,7 @@ Uchyluji se k Řádu pro útočiště.
 
 
 
-* Šariputro, jsi bláhový /(obsazení)/
+* Šariputro, jsi bláhový (obsazení)
 
   :PROPERTIES:
   :GENRE: play
@@ -1145,7 +1164,7 @@ Buddha
 
 
 
-* Šariputro, jsi bláhový /(akt IX, scéna I)/
+* Šariputro, jsi bláhový (akt IX, scéna I)
 
   :PROPERTIES:
   :GENRE: play
@@ -1181,7 +1200,7 @@ Buddha: Šariputro, nemysli na minulost, nemysli na budoucnost. Mysli jen na př
 
 
 
-* Buddha a Ánanda /(obsazení)/
+* Buddha a Ánanda (obsazení)
 
   :PROPERTIES:
   :GENRE: play
@@ -1197,7 +1216,7 @@ A GROUP OF A FEW INTIMATE DISCIPLES
 
 
 
-* Buddha a Ánanda /(akt X, scéna I)/
+* Buddha a Ánanda (akt X, scéna I)
 
   :PROPERTIES:
   :GENRE: play
@@ -1210,9 +1229,9 @@ A GROUP OF A FEW INTIMATE DISCIPLES
 
 Buddha: Ánando, jsem už starý. Je mi osmdesát. Padesát let, Ánando, už učím a kážu. Nadešel čas, abych tento svět opustil. Jsem slabý, nemůžu se hýbat. Celé mé tělo je vyčerpané, Ánando. Tohle tělo už na zemi není k ničemu.
 
-Ánanda /(pláče): Ne, Mistře, ne. Musíš tu s námi být ještě řadu let. Samotná tvá přítomnost je pro lidstvo požehnáním. Tahle šangha ještě není úplně pevná. Potřebuje tvou fyzickou přítomnost.
+Ánanda /(pláče)/: Ne, Mistře, ne. Musíš tu s námi být ještě řadu let. Samotná tvá přítomnost je pro lidstvo požehnáním. Tahle /šangha/ [společenství] ještě není úplně pevná. Potřebuje tvou fyzickou přítomnost.
 
-Buddha: Ánando, chceš říct, že šangha ode mě čeká ještě něco nového? Chceš říct, že jsem neřekl docela jasně, co jsem mohl říct o Dharmě? Nic jsem před vámi nezatajil. Nikdy jsem vám neukázal ani náznak nesdílnosti nebo nezájmu. Kromě toho, nikdy jsem si nemyslel, že budu muset řídit šanghu a starat se o ni, ani že by na mně měla být navždy závislá. Proč bych měl tedy ještě zůstávat? Proč bych se měl nadále zapojovat do činností šanghy? ­Ánando, od této chvíle buď samostatný. Měj v sebe víru a veď duchovní život. Realizuješ nejvyšší Pravdu. Jen ten, kdo následuje Dharmu, kdo nachází útočiště v Dharmě, vstoupí do světa Blaženosti, a nikdo jiný.
+Buddha: Ánando, chceš říct, že /šangha/ ode mě čeká ještě něco nového? Chceš říct, že jsem neřekl docela jasně, co jsem mohl říct o Dharmě? Nic jsem před vámi nezatajil. Nikdy jsem vám neukázal ani náznak nesdílnosti nebo nezájmu. Kromě toho, nikdy jsem si nemyslel, že budu muset řídit /šanghu/ a starat se o ni, ani že by na mně měla být navždy závislá. Proč bych měl tedy ještě zůstávat? Proč bych se měl nadále zapojovat do činností /šanghy/? Ánando, od této chvíle buď samostatný. Měj v sebe víru a veď duchovní život. Realizuješ nejvyšší Pravdu. Jen ten, kdo následuje Dharmu, kdo nachází útočiště v Dharmě, vstoupí do světa Blaženosti, a nikdo jiný.
 
 Ánanda: Ó, Pane Buddho, to, co říkáš, je naprostá pravda, ale naše srdce bez tebe nedokážou žít. Potřebujeme tě, věčně tě budeme potřebovat.
 
