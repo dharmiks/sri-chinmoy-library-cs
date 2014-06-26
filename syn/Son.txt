@@ -477,7 +477,7 @@ Ježíš: Půjdu zpátky stejně, jako jsem přišel sem. Přišel jsem do Indie
 Učitel: Drahý synu, mýma rukama prošly tisíce studentů, ale žádný se ti nevyrovná. Jsi skutečný génius. Není ti rovného. Dnes velmi trpíš ztrátou svého drahého otce. Jak bych si přál, abych tě dokázal trochu potěšit. Ach, bleskla mi hlavou skvělá myšlenka. Přečtu ti několik veršů z Gíty.
 
 /Vasamsi jirnani yatha vihaya
-Navani grhnati naro ‘parani
+Navani grhnati naro parani
 Tatha sarirani vihaya jirnany
 Anyani samyati navani dehi/
 
@@ -893,10 +893,10 @@ Magdalena: Pane, už jsem v tobě Boha uviděla. A nejen to -- vidím tě pouze 
 
 Ježíš: Mýlíš se, drahá Magdaleno. Můj nebeský Otec je jediným vykonavatelem. Já jsem Jeho pouhým nástrojem.
 
-/Nimitta matram
-Nimitta matram
-Nimitta matram
-Nimitta matram/
+/Nimitta matram/
+/nimitta matram/
+/nimitta matram/
+/nimitta matram…/
 
 Jsem pouhým nástrojem.
 
