@@ -41,16 +41,16 @@ Aspirant takto necítí. Když je aspirant zraněn, sám sebe proklíná a obvi�
 10. května 1996
 
 
-* Editor's note
+* Část I
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:360e1-cs
   :END:
 
+[FN:part-1]
 
-/18. ledna 1996, během série mírových koncertů v Jižní Africe, uspořádal Sri Chinmoy tiskovou konferenci v South Beach Holiday Inn v Durbanu. Následuje její přepis./
 
 
 
@@ -198,16 +198,16 @@ Tito lidé bohužel světlo nehledají. Nemodlí se, aby toto světlo osvítilo 
 
 
 
-* Poznámka editora
+* Část II
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section 
   :KEYWORDS:
   :CITE-KEY: SCA:369e1-cs
   :END:
 
+[FN:part-2]
 
-/25. května 1996 odpověděl Sri Chinmoy na  několik otázek televizního producenta a spisovatele Joela Martina./
 
 
 
@@ -242,16 +242,16 @@ Vědcům dělá ohromnou radost dokazovat své teorie, ale duchovnímu Mistrovi 
 
 
 
-* Poznámka editora
+* Část III
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section 
   :KEYWORDS:
   :CITE-KEY: SCA:371e1-cs
   :END:
 
+[FN:part-3]
 
-/19. února 1996 se setkali Sri Chinmoy a japonský skladatel a koncertní klavírista Masanobu Ikemiya v Annam Brahma restauraci v newyorském Qeensu. Pan Ikemiya a jeho přátelé položili následující otázky./
 
 
 
@@ -420,16 +420,16 @@ Když žijeme duchovním životem, zjišťujeme, že nikdy nic nedáváme třet�
 Pro dítě je trpělivost přirozená, protože je stále v srdci. Protože ale dospělí žijí v mysli, musí se tak tvrdě snažit, aby tyto kvality srdce získali zpět. Když jsme v mysli, je všechno pokroucené a zkreslené. Musíme tedy přivést nepoddajnou mysl pod kontrolu srdce.
 
 
-* Poznámka editora
+* Část IV
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section 
   :KEYWORDS:
   :CITE-KEY: SCA:382e1-cs
   :END:
 
+[FN:part-4]
 
-/Následující otázky byly zodpovězeny 26. května 1996./
 
 
 * Guru, měl jsi hodně vysokých prožitků před tím, než jsi realizoval Boha?
@@ -545,16 +545,17 @@ Když hrál Pán Kršna na flétnu, gópie (pozn. překl.: indické ženy z rodi
 
 
 
-* Poznámka editora
+* Část V
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:388e1-cs
   :END:
 
+[FN:part-5]
 
-/Následující otázky položili Sri Chinmoyovi jeho žáci dne 6. ledna 1995 během jeho návštěvy v Myanmar./
+
 
 
 
@@ -631,16 +632,15 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
 
 
 
-* Poznámka editora
+* Část VI
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:393e1-cs
   :END:
 
-
-/Následující otázky byly zodpovězeny 28. prosince 1994./
+[FN:part-6]
 
 
 
@@ -669,16 +669,17 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
 
 
 
-* Poznámka editora
+* Část VII
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:395e1-cs
   :END:
 
 
-/9. ledna 1995 se Sri Chinmoy jako čestný host zúčastnil oběda a kulturního programu sponzorovaného Ministerstvem náboženství a organizací Tipitaka Nykarya Upahsaka Sasana -- buddhistickou kulturní skupinou -- v Kaba Aye Pagodě v barmském hlavním městě Yangonu. Během programu pronesl Sri Chinmoy následující modlitbu k Pánu Buddhovi./
+[FN:note-7]
+
 
 
 
@@ -686,7 +687,7 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
 
   :PROPERTIES:
   :GENRE: discourse
-  :KEYWORDS:
+  :KEYWORDS: prayer
   :CITE-KEY: SCA:395-cs
   :END:
   
@@ -704,6 +705,45 @@ Pane Buddho, tvému životu v podobě lidské bytosti se klaním. Tvému nejvyš
 Ticho Absolutního Nejvyššího a nikdy nepoznatelné Skutečnosti ti požehnalo a prohlásilo tě za svého vlastního, abys osvobodil lidstvo z utrpení nevědomosti. Pane Buddho, lidskému v tobě se klaníme. Božskému v tobě se klaníme. Vždy přesahující Skutečnosti v tobě se klaníme a klaníme a klaníme. 
 
 
+
+
+* Poznámky 
++
++  :PROPERTIES:
++  :GENRE: note
++  :KEYWORDS:
++  :CITE-KEY: SCA:
++  :END:
+
+
+[FN:part-1] SCA 362-370.
+
+18. ledna 1996, během série mírových koncertů v Jižní Africe, uspořádal Sri Chinmoy tiskovou konferenci v South Beach Holiday Inn v Durbanu. Následuje její přepis.
+
+[FN:part-2] SCA 371-372.
+
+25. května 1996 odpověděl Sri Chinmoy na  několik otázek televizního producenta a spisovatele Joela Martina.
+
+[FN:part-3] SCA 373-383.
+
+19. února 1996 se setkali Sri Chinmoy a japonský skladatel a koncertní klavírista Masanobu Ikemiya v Annam Brahma restauraci v newyorském Qeensu. Pan Ikemiya a jeho přátelé položili následující otázky.
+
+
+[FN:part-4] SCA 384-389.
+
+Následující otázky byly zodpovězeny 26. května 1996.
+
+[FN:part-5] SCA 390-394.
+
+Následující otázky položili Sri Chinmoyovi jeho žáci dne 6. ledna 1995 během jeho návštěvy v Myanmar.
+
+[FN:part-6] SCA 395-396.
+
+Následující otázky byly zodpovězeny 28. prosince 1994.
+
+[FN:note-7] SCA 397.
+
+9. ledna 1995 se Sri Chinmoy jako čestný host zúčastnil oběda a kulturního programu sponzorovaného Ministerstvem náboženství a organizací Tipitaka Nykarya Upahsaka Sasana -- buddhistickou kulturní skupinou -- v Kaba Aye Pagodě v barmském hlavním městě Yangonu. Během programu pronesl Sri Chinmoy následující modlitbu k Pánu Buddhovi.
 
 
 
