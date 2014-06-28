@@ -1,4 +1,4 @@
-﻿#+TITLE: Stoupám vzhůru, padám dolů
+#+TITLE: Stoupám vzhůru, padám dolů
 #+AUTHOR: Sri Chinmoy
 #+LANGUAGE: cs
 
