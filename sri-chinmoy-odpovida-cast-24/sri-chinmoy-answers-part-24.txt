@@ -390,7 +390,7 @@ Takže ti, kdo Joy Days nevěnují pozornost, by měli začít. Jste-li neochotn
 
 
 
-* Part V
+* Část V
 
   :PROPERTIES:
   :genre: section
@@ -409,7 +409,7 @@ Takže ti, kdo Joy Days nevěnují pozornost, by měli začít. Jste-li neochotn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:813-cs
+  :CITE-KEY: SCA:830-cs
   :END:
 
 
