@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :book-number: 
-  :author: Sri Chinmoy
-  :original-edition: Nil
-  :year: 2007
-  :publisher: Sri Chinmoy Centrum
-  :cite-key: DSLP-cs
-  :genre: story
-  :keywords:
+  :BOOK-NUMBER: 
+  :AUTHOR: Sri Chinmoy
+  :ORIGINAL-EDITION: Nil
+  :YEAR: 2007
+  :PUBLISHER: Sri Chinmoy Centrum
+  :CITE-KEY: DSLP-cs
+  :GENRE: story
+  :KEYWORDS:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Bílá lež
 
   :PROPERTIES:
-  :genre: story
-  :keywords:
-  :cite-key: DSLP:1-cs
+  :GENRE: story
+  :KEYWORDS:
+  :CITE-KEY: DSLP:1-cs
   :END:
 
 
@@ -77,9 +77,9 @@ Mistr položil svou ruku na její hlavu a řekl: “Mé dítě, vždy budeš mý
 * Žáci fotografové
 
   :PROPERTIES:
-  :genre: story
-  :keywords:
-  :cite-key: DSLP:2-cs
+  :GENRE: story
+  :KEYWORDS:
+  :CITE-KEY: DSLP:2-cs
   :END:
 
 
@@ -122,9 +122,9 @@ Na té fotce jsi vypadal tak divně,” řekl mladý žák. “ Celé tvé tělo
 * Tři tygři
 
   :PROPERTIES:
-  :genre: story
-  :keywords:
-  :cite-key: DSLP:3-cs
+  :GENRE: story
+  :KEYWORDS:
+  :CITE-KEY: DSLP:3-cs
   :END:
 
 
@@ -179,9 +179,9 @@ Samozřejmě, že od ašrámu budu očekávat pouze tolik, kolik mají schopnost
 * Dary žáků
 
   :PROPERTIES:
-  :genre: story
-  :keywords:
-  :cite-key: DSLP:4-cs
+  :GENRE: story
+  :KEYWORDS:
+  :CITE-KEY: DSLP:4-cs
   :END:
 
 
@@ -205,19 +205,19 @@ Nyní se tvůj Guru trochu pochlubí. Právě teď jsem jako umělec neznámý. 
 
 “Mistr se na žáka široce usmál: “Co nejvíce způsoby se prosím snaž sloužit poslání. Žák možná má pocit, že když dobře meditoval, stačí to. Možná má pocit, že stačí aspirace, a tak zasvěcení nepotřebuje. Ale to je špatný postoj. Nebo nám někdo pomůže svým vlastním způsobem a koupí nám věc, o kterých si myslíme, že potřebujeme. Pak má pocit, že udělal dost a že už není třeba, aby dělal nějakou nesobeckou službu. Ale to je také špatný přístup.”
 
-“Mistře, rozumím tvé filosofii. Jsem velmi inspirován zasvěceně sloužit, ale bohužel nemám moc schopnosti, když se jedná o love-offering.”
+“Mistře, rozumím tvé filosofii. Jsem velmi inspirován zasvěceně sloužit, ale bohužel nemám moc schopnosti, když se jedná o /love-offering/.”
 
 “Synu, neboj se. Jen dej, jakkoli dokážeš. Když mi žáci něco dají, vím, že někteří dají podle své schopnosti a někteří dají dle své ochoty. V tvém případě vím, že dáváš podle své schopnosti. Ale někdy tvá ochota překračuje tvou schopnost. Na druhou stranu ochota někoho jiného je daleko od jeho schopnosti.”
 
 “Co tím myslíš, Mistře?” zeptal se mladík. 
 
-“Povím ti příhodu, která se stala velmi dávno v jednom našem Centru,” odpověděl Mistr. “Jeden náš božský žák, kterého každý považoval za blázna, měl čtyřicet tři dolarů a nějaké drobné. Podívej na něj! Po setkání se chystal dát čtyřicet tři dolarů na love-offering a nechat si pouze drobné, aby zaplatil mýtné, až pojede domů. Odmítl jsem, ale on řekl: ´Nepotřebuji peníze. Velmi brzy dostanu svůj plat a jím zadarmo, protože pracuji v jednom božském podniku.´ Zeptal jsem se ho, kdy dostane plat a on řekl: ´Za den nebo za dva.´ Nato jsem řekl: ´Můžeš dát třicet tři dolary, ale nedovolím čtyřicet tři.´
+“Povím ti příhodu, která se stala velmi dávno v jednom našem Centru,” odpověděl Mistr. “Jeden náš božský žák, kterého každý považoval za blázna, měl čtyřicet tři dolarů a nějaké drobné. Podívej na něj! Po setkání se chystal dát čtyřicet tři dolarů na /love-offering/ a nechat si pouze drobné, aby zaplatil mýtné, až pojede domů. Odmítl jsem, ale on řekl: ´Nepotřebuji peníze. Velmi brzy dostanu svůj plat a jím zadarmo, protože pracuji v jednom božském podniku.´ Zeptal jsem se ho, kdy dostane plat a on řekl: ´Za den nebo za dva.´ Nato jsem řekl: ´Můžeš dát třicet tři dolary, ale nedovolím čtyřicet tři.´
 
-Podívej na jeho srdce! Měl čtyřicet tři dolarů a nějaké drobné a chtěl mi dát čtyřicet tři. Neříkám, abys dělal takové věci. Vůbec ne! Jen ti vyprávím tuto příhodu, abych ti ukázal, jak daleko dokáže zajít srdce. Na druhou stranu když má někdo jiný čtyřicet tři dolarů a nějaké drobné, může se stát, že čtyřicet tři dolarů jde s ním domů v kapse a drobné vhodí na love-offering. Není-li ochota, žáci dávají jen tolik, aby se neztrapnili.”
+Podívej na jeho srdce! Měl čtyřicet tři dolarů a nějaké drobné a chtěl mi dát čtyřicet tři. Neříkám, abys dělal takové věci. Vůbec ne! Jen ti vyprávím tuto příhodu, abych ti ukázal, jak daleko dokáže zajít srdce. Na druhou stranu když má někdo jiný čtyřicet tři dolarů a nějaké drobné, může se stát, že čtyřicet tři dolarů jde s ním domů v kapse a drobné vhodí na /love-offering/. Není-li ochota, žáci dávají jen tolik, aby se neztrapnili.”
 
-“Vzroste kdy má schopnost nabídnout ti love-offering?” zeptal se mladík. 
+“Vzroste kdy má schopnost nabídnout ti /love-offering/?” zeptal se mladík. 
 
-“Schopnost přichází z nutnosti -- tvé nutnosti a mé nutnosti,” odpověděl Mistr. “Pokud je tvou životní nutností sloužit Nejvyššímu ve mně -- jako je mou nutností přijímat tvou službu -- pak schopnost přijde na základě tvé lásky ke mně a zájmu o mně. Mé dítě, víš, že nehodlám použít tvůj love-offering, abych si koupil helikoptéru nebo abych otevřel ocelárnu. Ale peníze jsou třeba, aby se rozšířilo naše světlo, jež je Světlem Nejvyššího. Musím-li jet do jiného města, abych udělal přednášku, myslíš si, že mě aerolinky nechají letět zadarmo? Dokonce i když vedoucím aerolinek nabídnu, že jim dám Mír, Světlo a Blaženost, oni řeknou: ´Ne, musíte nám dát to, co chceme, a to jsou peníze.´
+“Schopnost přichází z nutnosti -- tvé nutnosti a mé nutnosti,” odpověděl Mistr. “Pokud je tvou životní nutností sloužit Nejvyššímu ve mně -- jako je mou nutností přijímat tvou službu -- pak schopnost přijde na základě tvé lásky ke mně a zájmu o mně. Mé dítě, víš, že nehodlám použít tvůj /love-offering/, abych si koupil helikoptéru nebo abych otevřel ocelárnu. Ale peníze jsou třeba, aby se rozšířilo naše světlo, jež je Světlem Nejvyššího. Musím-li jet do jiného města, abych udělal přednášku, myslíš si, že mě aerolinky nechají letět zadarmo? Dokonce i když vedoucím aerolinek nabídnu, že jim dám Mír, Světlo a Blaženost, oni řeknou: ´Ne, musíte nám dát to, co chceme, a to jsou peníze.´
 
 Ovšem někteří vedoucí Center jsou nesmírně oddaní a zasvěcení. Tak intenzivně se snaží rozšířit mé světlo. Ale na fyzické úrovni ode mě nezískávají žádnou pozornost, protože žijí velmi daleko odtud v jiných zemích. V takových případech cítím, že je pro ně nezbytné, aby přijeli a setkali se se mnou nejméně jedenkrát do roka. A jsou-li velmi chudí a nemohou si dovolit mě navštívit, není to moje povinnost přivést je sem? Proto potřebuji peníze, abych pomohl některým z vedoucích Center. 
 
@@ -254,9 +254,9 @@ Mladík se uklonil svému Mistru. “Jsi mým vždy soucitným přítelem a Mist
 * Těžký náklad
 
   :PROPERTIES:
-  :genre: story
-  :keywords:
-  :cite-key: DSLP:5-cs
+  :GENRE: story
+  :KEYWORDS:
+  :CITE-KEY: DSLP:5-cs
   :END:
 
 
@@ -301,9 +301,9 @@ A tak se vždy snažte být šťastní. Jste-li v duchovním životě šťastní
 * Žákovská síla lásky
 
   :PROPERTIES:
-  :genre: story
-  :keywords:
-  :cite-key: DSLP:6-cs
+  :GENRE: story
+  :KEYWORDS:
+  :CITE-KEY: DSLP:6-cs
   :END:
 
 
@@ -344,9 +344,9 @@ Mistr pak k sobě zavolal každého ze svých žáků -- mužů, jednoho po druh
 * Manželský život žáků
 
   :PROPERTIES:
-  :genre: story
-  :keywords:
-  :cite-key: DSLP:7-cs
+  :GENRE: story
+  :KEYWORDS:
+  :CITE-KEY: DSLP:7-cs
   :END:
 
 
