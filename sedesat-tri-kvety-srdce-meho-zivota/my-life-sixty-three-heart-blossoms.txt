@@ -441,7 +441,7 @@ do proudu žárlivosti.
 #+END_VERSE
 
 
-*  Dvacet-dva
+*  Dvacet dva
 
   :PROPERTIES:
   :GENRE: poem
