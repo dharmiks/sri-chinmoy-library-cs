@@ -19,16 +19,16 @@
 
 
 
-* Poznámka editora
+* Část I
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:910e1-cs
+  :CITE-KEY: SCA:926e1-cs
   :END:
 
+  [fn:part-1]
 
-/26. května 1990 se v restauraci Annam Brahma v newyorské Jamaice setkal Sri Chinmoy s dr. Felixem Kuzněcovem z moskevského Gorkého Institutu. Následují výňatky z jejich rozhovoru./
 
 
 
@@ -37,7 +37,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:910-cs
+  :CITE-KEY: SCA:926-cs
   :END:
 
 
@@ -58,7 +58,7 @@ Lidé v Rusku, kteří se modlili k Bohu, se obvykle o tyto síly nezajímali, t
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:911-cs
+  :CITE-KEY: SCA:927-cs
   :END:
 
 
@@ -81,7 +81,7 @@ Veďme normální život a nechoďme do extrémů. Nebudeme hltavě a nenasytně
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:912-cs
+  :CITE-KEY: SCA:928-cs
   :END:
 
 
@@ -93,12 +93,12 @@ Vraťme se však k vaší otázce -- jakákoli vnitřní nebo vnější síla, k
 
 
 
-* /Dr.Kuzněcov:/ Jeden skvělý člověk  -- pan Roerich -- cestoval kdysi po Indii a Tibetu. Když jsem navštívil jeho dům, visela na zdi fotografie jeho manželky. Byla to dcera jednoho slavného ruského generála. Žena, která se hluboce věnovala meditaci a měla velkou vnitřní sílu. Velice mne překvapilo, že na té fotografii měla kolem hlavy jakési světlo.
+* /Dr.Kuzněcov:/ Jeden skvělý člověk  - pan Roerich - cestoval kdysi po Indii a Tibetu. Když jsem navštívil jeho dům, visela na zdi fotografie jeho manželky. Byla to dcera jednoho slavného ruského generála. Žena, která se hluboce věnovala meditaci a měla velkou vnitřní sílu. Velice mne překvapilo, že na té fotografii měla kolem hlavy jakési světlo.
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:913-cs
+  :CITE-KEY: SCA:929-cs
   :END:
 
 
@@ -111,7 +111,7 @@ Vraťme se však k vaší otázce -- jakákoli vnitřní nebo vnější síla, k
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:914-cs
+  :CITE-KEY: SCA:930-cs
   :END:
 
 
@@ -125,7 +125,7 @@ Podobně má každý z nás i vnitřní slunce. Sri Rámakršna viděl v bengál
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:915-cs
+  :CITE-KEY: SCA:931-cs
   :END:
 
 
@@ -143,7 +143,7 @@ Moji studenti mě nazývají Guru a mí přátelé a blízcí, kteří si mě op
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:916-cs
+  :CITE-KEY: SCA:932-cs
   :END:
 
 
@@ -157,7 +157,7 @@ Moji studenti mě nazývají Guru a mí přátelé a blízcí, kteří si mě op
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:917-cs
+  :CITE-KEY: SCA:933-cs
   :END:
 
 
@@ -173,7 +173,7 @@ Moji studenti mě nazývají Guru a mí přátelé a blízcí, kteří si mě op
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:918-cs
+  :CITE-KEY: SCA:934-cs
   :END:
 
 
@@ -190,7 +190,7 @@ Teď síla srdce opět vyšla na povrch a síla mysli, která je plná pochybnos
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:919-cs
+  :CITE-KEY: SCA:935-cs
   :END:
 
 
@@ -210,7 +210,7 @@ Dobré vlastnosti jsou jako vůně květiny. Květina nabízí svou vůni, kter�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:920-cs
+  :CITE-KEY: SCA:936-cs
   :END:
 
 
@@ -227,7 +227,7 @@ Narodil jsem se jako hinduista. Někdo jiný se narodil do jiného náboženstv�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:921-cs
+  :CITE-KEY: SCA:937-cs
   :END:
 
 
@@ -242,7 +242,7 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:922-cs
+  :CITE-KEY: SCA:938-cs
   :END:
 
 
@@ -255,7 +255,7 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:923-cs
+  :CITE-KEY: SCA:939-cs
   :END:
 
 
@@ -263,25 +263,23 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
 
 
 
-* Poznámka editora
-
+* Část II
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:924e1-cs
+  :CITE-KEY: SCA:940e1-cs
   :END:
 
-
-/Následují výňatky z rozhovoru uveřejněném v listu Pravda, který se odehrál 10. června 1990 na Aspiration-Ground. Přítomni byli také dr. Felix Kuzněcov a jeho manželka./
-
+  [fn:part-2]
 
 
-* 1.
+
+* Zvedání světa Srdcem Jednoty
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:924-cs
+  :CITE-KEY: SCA:940-cs
   :END:
 
 
@@ -294,7 +292,14 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
 
 /Reportérka (poté, co sestoupí z plošiny):/ Děkuji vám! Bylo to skvělé!
 
-Jaké je vaše poselství světu a možná i mladým lidem naší země? Co je podstatou vašeho kréda?
+* Jaké je vaše poselství světu a možná i mladým lidem naší země? Co je podstatou vašeho kréda?
+
+  :PROPERTIES:
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:941-cs
+  :END:
+
 
 /Sri Chinmoy:/ Mé poselství je velice prosté. My všichni se musíme pokusit stát se lepšími občany světa. Řekněme, že v této chvíli jsme dobří -- vy jste dobrá, on je dobrý, ona je dobrá. Přestože jsme však dobří, cítíme, že můžeme být lepší a nejlepší. Jak děláme pokrok, získáváme ve svém životě více radosti a uspokojení. 
 
@@ -310,7 +315,7 @@ Mé poselství tedy zní, že každá země musí vynést na povrch své vnitřn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:925-cs
+  :CITE-KEY: SCA:942-cs
   :END:
 
 
@@ -323,7 +328,7 @@ Mé poselství tedy zní, že každá země musí vynést na povrch své vnitřn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:926-cs
+  :CITE-KEY: SCA:943-cs
   :END:
 
 
@@ -338,7 +343,7 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:927-cs
+  :CITE-KEY: SCA:944-cs
   :END:
 
 
@@ -348,16 +353,16 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
 
 
 
-* Poznámka editora
+* Část III
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:928e1-cs
+  :CITE-KEY: SCA:945e1-cs
   :END:
 
+  [fn:part-3]
 
-/Následující otázky zodpověděl Sri Chinmoy 20. července 1999 v newyorském Huntingtonu./
 
 
 
@@ -366,7 +371,7 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:928-cs
+  :CITE-KEY: SCA:945-cs
   :END:
 
 
@@ -379,7 +384,7 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:929-cs
+  :CITE-KEY: SCA:946-cs
   :END:
 
 
@@ -387,44 +392,48 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
 
 
 
-* Poznámka editora
+* Část IV
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:930e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:947e1-cs
   :END:
 
-
-/Následující komentář Sri Chinmoye o olympijských hrách je z 29. září 1999./
-
+  [fn:part-4]
 
 
-* 2.
+
+
+
+* Na Olympiádě
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: SCA:930-cs
+  :CITE-KEY: SCA:947-cs
   :END:
 
-Už samotné slovo „olympiáda“ ve mně vzbuzuje nádherné rozechvění, naprosto univerzální rozechvění, které ve vnitřním světě pozvedá vědomí lidstva. Je pravda, že ve vnějším světě si můžeme povšimnout některých špatných sil, ale ve vnitřním světě představuje olympiáda skvělou příležitost k pozvednutí lidského vědomí.
+Už samotné slovo „Olympiáda“ ve mně vzbuzuje nádherné rozechvění, naprosto univerzální rozechvění, které ve vnitřním světě pozvedá vědomí lidstva. Je pravda, že ve vnějším světě si můžeme povšimnout některých špatných sil, ale ve vnitřním světě představuje olympiáda skvělou příležitost k pozvednutí lidského vědomí.
 
 Tento svět je plný smutku, trápení, zklamání a deprese, děje se mnoho nepřátelských, agresivních věcí. Avšak při olympijských hrách dostaneme příležitost alespoň na pár týdnů se společně setkat a vytvořit světovou rodinu jednoty. Avšak běda, poté se vracíme do našeho zvířecího života.
 
 
 
 
-* Poznámka editora
+
+* Část V
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:931e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:948e1-cs
   :END:
 
+  [fn:part-5]
 
-/Následující otázky zodpověděl Sri Chinmoy 25. listopadu 1999 v New Yorku./
+
+
 
 
 
@@ -433,7 +442,7 @@ Tento svět je plný smutku, trápení, zklamání a deprese, děje se mnoho nep
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:931-cs
+  :CITE-KEY: SCA:948-cs
   :END:
 
 
@@ -446,7 +455,7 @@ Tento svět je plný smutku, trápení, zklamání a deprese, děje se mnoho nep
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:932-cs
+  :CITE-KEY: SCA:949-cs
   :END:
 
 
@@ -478,7 +487,7 @@ Dříve jsem křesťanským zpovědím nepřikládal žádný význam, ale teď 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:933-cs
+  :CITE-KEY: SCA:950-cs
   :END:
 
 
@@ -495,7 +504,7 @@ Musíš svůj strach vyzvat na souboj. V opačném případě je velká pravdě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:934-cs
+  :CITE-KEY: SCA:951-cs
   :END:
 
 
@@ -508,7 +517,7 @@ Musíš svůj strach vyzvat na souboj. V opačném případě je velká pravdě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:935-cs
+  :CITE-KEY: SCA:952-cs
   :END:
 
 
@@ -521,7 +530,7 @@ Musíš svůj strach vyzvat na souboj. V opačném případě je velká pravdě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:936-cs
+  :CITE-KEY: SCA:953-cs
   :END:
 
 
@@ -535,16 +544,15 @@ Když trpíš, neměl by sis říkat: „Bůh nechce, abych pro Něj pracoval. T
 
 
 
-* Poznámka editora
+* Část VI
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:937e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:954e1-cs
   :END:
 
-
-/Následující otázky zodpověděl Sri Chinmoy 27. prosince 1999 v Curitibě v Brazílii./
+  [fn:part-6]
 
 
 
@@ -553,7 +561,7 @@ Když trpíš, neměl by sis říkat: „Bůh nechce, abych pro Něj pracoval. T
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:937-cs
+  :CITE-KEY: SCA:954-cs
   :END:
 
 
@@ -572,7 +580,7 @@ Mohu vám povědět jeden svůj osobní zážitek. V tomto životě mám velice 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:938-cs
+  :CITE-KEY: SCA:955-cs
   :END:
 
 
@@ -580,12 +588,12 @@ Mohu vám povědět jeden svůj osobní zážitek. V tomto životě mám velice 
 
 
 
-Znamená nové tisíciletí něco pro každého člověka na zemi, nebo to platí jenom pro ty, kteří používají stejný kalendář?
+* Znamená nové tisíciletí něco pro každého člověka na zemi, nebo to platí jenom pro ty, kteří používají stejný kalendář?
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:939-cs
+  :CITE-KEY: SCA:956-cs
   :END:
 
 
@@ -603,7 +611,7 @@ Kalendář nám ovšem říká, že nové tisíciletí není v roce 2000, ale v 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:940-cs
+  :CITE-KEY: SCA:957-cs
   :END:
 
 
@@ -637,7 +645,7 @@ Dnes uděláme něco špatného, zítra se nic nestane a my si proto myslíme, �
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:941-cs
+  :CITE-KEY: SCA:958-cs
   :END:
 
 
@@ -656,7 +664,7 @@ Když spatříte nějakého kosmického boha, ihned byste se měli dotknout jeho
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:942-cs
+  :CITE-KEY: SCA:959-cs
   :END:
 
 
@@ -677,7 +685,7 @@ To je Pán Šiva. Na jednu stranu je laskavější než nejlaskavější. Žádn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:943-cs
+  :CITE-KEY: SCA:960-cs
   :END:
 
 
@@ -700,7 +708,7 @@ Jsme-li moudří, řekneme si: „Zapomeň na to, co ti starý svět udělal.“
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:944-cs
+  :CITE-KEY: SCA:961-cs
   :END:
 
 
@@ -728,7 +736,26 @@ Poselství Ježíše Krista znělo: „Nechť se stane Tvá Vůle.“ Snadno moh
 
 Když vás Mistr popíchne, řeknete: „Ach, já jsem si myslel, že jsi velice laskavý člověk. Jak jsi to mohl udělat?“ Soudíme Mistra pomocí své velmi omezené mysli. Zapomeňte na Mistra. Soudíte svou vlastní nejvyšší božskost pomocí své nižší než nejnižší inteligence nebo poznání. Poznání nemůže jít za určitou úroveň. Můžeme přečíst tisíce knih. Kniha nás může pouze trochu připravit k cestě k Nejvyššímu. Kniha nás do Nejvyššího nikdy nevezme. Kniha nás může inspirovat, jako průvodce. Průvodce nám ukazuje cestu, ale on sám není cílem. Knižní vědomosti nám ukazují cestu, ale poznání není cílem. Jen moudrost může jít výše než nejvýše, dále než nejdále, hlouběji než nejhlouběji. Naše moudrost nám řekne, že naše nejvyšší božskost má vždycky pravdu.
 
+* Poznámky
 
+  :PROPERTIES:
+  :genre: note
+  :keywords:
+  :cite-key: SCA:962e1
+  :END:
+  
+
+[fn:part-1] SCA 926-939. 26. května 1990 se v restauraci Annam Brahma v newyorské Jamaice setkal Sri Chinmoy s dr. Felixem Kuzněcovem z moskevského Gorkého Institutu. Následují výňatky z jejich rozhovoru.
+
+[fn:part-2] SCA 940-944. Následují výňatky z rozhovoru uveřejněném v listu Pravda, který se odehrál 10. června 1990 na Aspiration-Ground. Přítomni byli také dr. Felix Kuzněcov a jeho manželka.
+
+[fn:part-3] SCA 945-946. Následující otázky zodpověděl Sri Chinmoy 20. července 1999 v newyorském Huntingtonu.
+
+[fn:part-4] SCA 947. Následující komentář Sri Chinmoye o olympijských hrách je z 29. září 1999. 
+
+[fn:part-5] SCA 948-953. Následující otázky zodpověděl Sri Chinmoy 25. listopadu 1999 v New Yorku.
+
+[fn:part-6] SCA 954-961. Následující otázky zodpověděl Sri Chinmoy 27. prosince 1999 v Curitibě v Brazílii.
 
 
 
