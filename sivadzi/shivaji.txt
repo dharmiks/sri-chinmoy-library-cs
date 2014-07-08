@@ -492,10 +492,10 @@ Tím, že mi můj učitel bengálštiny, který mě měl tak rád, dal osm ze č
   :END:
 
 
- /Shibaji Shibaji Shibaji
-Taba prane savita maji
-Dekhayeche naba sharani
-Tumi ajanar swapani/
+/Shibaji Shibaji Shibaji/
+/Taba prane savita mají/
+/Dekhayeche naba sharani/
+/Tumi ajanar swapani/
 
 
 
