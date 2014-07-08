@@ -25,21 +25,12 @@
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:802e1-cs
+  :CITE-KEY: SCA:818e1-cs
   :END:
   
-  
-
-* Poznámka editora
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:802e2-cs
-  :END:
+   [fn:part-1]
 
 
-/Sri Chinmoy odpovídal na následující otázky 24. ledna 1996 v Durbanu v Jižní Africe./
 
 
 
@@ -48,7 +39,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:802-cs
+  :CITE-KEY: SCA:818-cs
   :END:
 
 
@@ -65,7 +56,7 @@ Jeden člověk by měl přijít s postojem obětování a říci: „Odevzdává
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:803-cs
+  :CITE-KEY: SCA:819-cs
   :END:
 
 
@@ -83,7 +74,7 @@ I když vás v obyčejném životě šéf urazí a vyhubuje vám, stále vám d
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:804-cs
+  :CITE-KEY: SCA:820-cs
   :END:
 
 
@@ -97,16 +88,16 @@ V duchovním životě nám vždy jde o sebepřekonání. Sebepřekonání není 
 
 
 
-* Poznámka editora
+* Část II
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:805e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:821e1-cs
   :END:
 
+  [fn:part-2]
 
-/Na následující otázky Sri Chinmoy odpovídal v New Yorku 21. února 1996./
 
 
 
@@ -115,7 +106,7 @@ V duchovním životě nám vždy jde o sebepřekonání. Sebepřekonání není 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:805-cs
+  :CITE-KEY: SCA:821-cs
   :END:
 
 
@@ -144,7 +135,7 @@ Na druhou stranu, když máte nějakou dobrou zprávu, v tu chvíli je to jako r
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:806-cs
+  :CITE-KEY: SCA:822-cs
   :END:
 
 
@@ -165,7 +156,7 @@ Proč lidé procházejí suchými obdobími? Protože ztrácí svou oddanost. Od
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:807-cs
+  :CITE-KEY: SCA:823-cs
   :END:
 
 
@@ -199,26 +190,17 @@ Kdybych pro tyto tři otázky použil svou mysl, nebyl bych schopný mluvit o ka
 
 
 
-* Část II – Setkání s Robertem Změlíkem
+* Část III – Setkání s Robertem Změlíkem
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:808e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:824e1
   :END:
 
+  [fn:part-3]
 
 
-* Poznámka editora
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:808e2-cs
-  :END:
-
-
-/ Následují výňatky z rozhovoru Sri Chinmoye s Robertem Změlíkem, českým zlatým olympionikem v desetiboji. Rozhovor se odehrál 19. června 1996 v restauraci Annam Brahma./
 
 
 
@@ -227,7 +209,7 @@ Kdybych pro tyto tři otázky použil svou mysl, nebyl bych schopný mluvit o ka
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:808-cs
+  :CITE-KEY: SCA:824-cs
   :END:
 
 
@@ -250,7 +232,7 @@ Kolik času trávíte tréninkem, jako je posilování? Kolikrát týdně posilu
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:809-cs
+  :CITE-KEY: SCA:825-cs
   :END:
 
 
@@ -275,7 +257,7 @@ Bude s vámi váš trenér?
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:810-cs
+  :CITE-KEY: SCA:826-cs
   :END:
 
 
@@ -309,7 +291,6 @@ Kolik hodin odpočinku máte v noci?
 
 /Sri Chinmoy:/ To je velmi dobré. Týden před začátkem Olympiády udělejte prosím pro každou disciplínu jednu věc. Předpokládejme, že první disciplínou bude běh na 100 metrů. Představte si, že 100 metrů běžíte co nejrychleji. Nejprve si představte, že jste běžel určitou rychlostí. Podruhé si představte, že 100 metrů běžíte ještě rychleji. Představivost má svou vlastní rychlost. Navenek mohu 100 metrů běžet 17 vteřin. Představivost má však mnohem větší rychlost. A nová představivost může být ještě rychlejší. Ve své dnešní představě si představujete, že běžíte velmi rychle. Až si zítra budete představovat, pokusíte se cítit, že běžíte ještě rychleji, a pozítří ciťte, že běžíte rychleji než nejrychleji. Také když házíte, představujte si, že házíte dál. Tato představivost není halucinací. 
 
-
 /Robert Změlík:/ Používám představivost každý den.
 
 
@@ -319,7 +300,7 @@ Kolik hodin odpočinku máte v noci?
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:811-cs
+  :CITE-KEY: SCA:827-cs
   :END:
 
 
@@ -337,34 +318,24 @@ Přeji vám hodně, víc, nejvíc štěstí v každé disciplíně!
 
 
 
-* Část III – Otázky a odpovědi
+* Část IV – Otázky a odpovědi
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:812e1-cs
+  :CITE-KEY: SCA:828e1-cs
   :END:
 
+   [fn:part-4]
 
-* Poznámka editora
 
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:812e2-cs
-  :END:
-  
-  
-/Sri Chinmoy odpovídal na následující otázky 21. října 1996 v San Francisku./
-  
-  
 
 * Co bys považoval za ideální meditaci v Centru?
 
   :PROPERTIES:
   :GENRE: note
   :KEYWORDS:
-  :CITE-KEY: SCA:812e3-cs
+  :CITE-KEY: SCA:828-cs
   :END:
 
 
@@ -382,7 +353,7 @@ Ještě o něčem bych se chtěl zmínit, a to jsou Joy Days. Nemáte nejmenší
 
 Když jsem bydlel v Brooklynu, dojet na indický konzulát mi trvalo téměř dvě hodiny. Musel jsem v metru třikrát přestupovat. Měl jsem vždy ohromnou radost, protože jsem takto získal dvě hodiny na meditaci. Říkával jsem si: „Jaká příležitost -- zlatá příležitost!“ Stejný postoj můžete mít k Joy Days.
 
-Máme-li radost, můžeme dělat nejrychlejší pokrok. Vzýváme-li smutek a depresi, abychom se udělali bezmocnými, beznadějnými a zbytečnými, nebudeme nikdy schopni přimět Boha, aby k nám přišel. Bůh řekne: „Zůstaňte si bezmocnými a beznadějnými. Nepotřebuji vás.“ Včera jste se naučili jednu píseň: /“To be cheerful is to be on God‘s side“/ (Být veselý znamená být na Boží straně). Jestliže já jsem na vaší straně, nebudete i vy na mé straně? Mohu-li být k vašim službám, nebudete i vy k mým službám? Je to vzájemné, oboustranné. Štěstí není jen vaší silou. Je také silou Boha. Jste-li upřímně šťastní, posilujete Boha. Zvětšujete Boží víru ve vás. Bůh vám pak bude svěřovat stále více odpovědnosti. V duchovním životě existuje jen jedno tajemství a tím je radost. Jakmile jste jednou veselí, přikrývky, které jste používali, abyste se chránili před svým mentálním chladem, zmizí. Nebudete je potřebovat. 
+Máme-li radost, můžeme dělat nejrychlejší pokrok. Vzýváme-li smutek a depresi, abychom se udělali bezmocnými, beznadějnými a zbytečnými, nebudeme nikdy schopni přimět Boha, aby k nám přišel. Bůh řekne: „Zůstaňte si bezmocnými a beznadějnými. Nepotřebuji vás.“ Včera jste se naučili jednu píseň: /To be cheerful is to be on God‘s side/ (Být veselý znamená být na Boží straně). Jestliže já jsem na vaší straně, nebudete i vy na mé straně? Mohu-li být k vašim službám, nebudete i vy k mým službám? Je to vzájemné, oboustranné. Štěstí není jen vaší silou. Je také silou Boha. Jste-li upřímně šťastní, posilujete Boha. Zvětšujete Boží víru ve vás. Bůh vám pak bude svěřovat stále více odpovědnosti. V duchovním životě existuje jen jedno tajemství a tím je radost. Jakmile jste jednou veselí, přikrývky, které jste používali, abyste se chránili před svým mentálním chladem, zmizí. Nebudete je potřebovat. 
 
 Opravdu bych si přál, aby se všichni žáci účastnili Joy Days. Je-li to možné, pokuste se mít Joy Days alespoň dvakrát ročně. Mohou se sejít tři nebo čtyři Centra, nebo i jen dvě Centra. Na druhou stranu, pokud se nemohou sejít ani dvě Centra, pak prostě jen jděte ven a buďte společně v parku. Udělejte si piknik. Před dvaceti pěti lety jsem si mnohokrát užíval pikniků. Dokonce i minulý rok jsem šel do domu jednoho žáka na piknik. Kdybych měl čas, jel bych na více míst, abych byl s žáky během jejich Joy Days. Když jste spolu, budete schopni chytit svého zloděje-depresi. Má-li v ten den někdo špatnou náladu, může vás Bůh použít, aby toho člověka inspiroval. Zítra můžete být vy obětí těchto špatných sil a třetí osoba vás může zachránit.
 
@@ -393,11 +364,11 @@ Opravdu bych si přál, aby se všichni žáci účastnili Joy Days. Je-li to mo
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:812-cs
+  :CITE-KEY: SCA:829-cs
   :END:
 
 
-/Sri Chinmoy:/ Především musíte hrát aspoň dvě hry. Každý se jich musí zúčastnit. Nehledě na to, kolik vám je let, ať už dvacet nebo osmdesát, musíte se určitě zúčastnit, abyste cítili, že jste mladí. Také bych chtěl, abyste zpívali písně /“I am a seven-year-old girl“/ a /“I am a seven-year-old boy“/ (Jsem sedmiletá dívka/Jsem sedmiletý chlapec). Zapomeňte na svůj věk -- ať už je vám čtyřicet šest nebo padesát šest -- myslete jen na sedm let. Jedním z účelů Joy Days je přesvědčit mysl, že jste mladí. Opičí mysl musí být zkrocena. Prostě opakujte: „Jsem mladý, jsem mladý, jsem mladý.“ Pak budete mít radost. Sri Rámakrišna říkával, že opakováním „Jsem Pán Šiva, jsem Pán Šiva“ se stanete božskými. Tím, že budete říkat: „Jsem hříšník, jsem hříšník,“ budete odsouzeni k tomu, abyste zůstali hříšníkem. Opakujete-li: „Jsem mladý, jsem mladý,“ zůstanete mladí.
+/Sri Chinmoy:/ Především musíte hrát aspoň dvě hry. Každý se jich musí zúčastnit. Nehledě na to, kolik vám je let, ať už dvacet nebo osmdesát, musíte se určitě zúčastnit, abyste cítili, že jste mladí. Také bych chtěl, abyste zpívali písně /I am a seven-year-old girl/ a /I am a seven-year-old boy/ (Jsem sedmiletá dívka/Jsem sedmiletý chlapec). Zapomeňte na svůj věk -- ať už je vám čtyřicet šest nebo padesát šest -- myslete jen na sedm let. Jedním z účelů Joy Days je přesvědčit mysl, že jste mladí. Opičí mysl musí být zkrocena. Prostě opakujte: „Jsem mladý, jsem mladý, jsem mladý.“ Pak budete mít radost. Sri Rámakrišna říkával, že opakováním „Jsem Pán Šiva, jsem Pán Šiva“ se stanete božskými. Tím, že budete říkat: „Jsem hříšník, jsem hříšník,“ budete odsouzeni k tomu, abyste zůstali hříšníkem. Opakujete-li: „Jsem mladý, jsem mladý,“ zůstanete mladí.
 
 Z radosti získáte vše. Vpravo od mého domu bydlí dvě malé holčičky. Je jim asi čtyři a šest let. Jednoho dne mě viděly s mým „nejlepším žákem“. Oběma nám řekly, že můj „nejlepší žák“ vypadá starší než já. Řekl jim, že je mnohem mladší, ale ony mu nevěřily. Viděly moji radost. Cítily moje dětské srdce. Cítily ve svém vlastním srdci, že jsem jako ony. Můj „nejlepší žák“ se s nimi nedokáže bavit na jejich vlastní úrovni. To je důvod, proč říkaly, že jsem mladší.
 
@@ -419,16 +390,17 @@ Takže ti, kdo Joy Days nevěnují pozornost, by měli začít. Jste-li neochotn
 
 
 
-* Poznámka editora
+* Part V
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:813e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:830e1
   :END:
 
+  [fn:part-5]
 
-/Na následující otázku Sri Chinmoy odpověděl v New Yorku 25. února 1999./
+
 
 
 
@@ -468,7 +440,24 @@ Nyní jsem něco předpověděl a Bůh sám ví, kdy se má předpověď vyplní
 Vezmou-li mě moji žáci vážně, řeknou: „Jestliže to můj Guru řekl, pak se to dá udělat, musí se to udělat!“ Někteří žáci mají takovýto přístup v jiných oblastech. Říkají: „Pokud Guru něco řekne, pak to jde udělat!“ Tito žáci se pokouší udělat něco nemožného, protože jsem jim řekl, že je to možné, a jsou úspěšní. Ale co se týká maratonu, má vize ještě projevena nebyla. Tolik záleží na vašem vnitřním štěstí. Víte, jak rychle něco dosáhnete v ty dny, kdy jste šťastní, ve srovnání s jinými dny. A v ty dny, kdy máte sebepochybnosti, strach, žárlivost a nejistotu, jste připraveni čekat do nekonečna, abyste něčeho dosáhli nebo abyste se dostali na svůj uspokojivý standard.
 
 
+* Poznámka editora
 
+  :PROPERTIES:
+  :GENRE: note
+  :KEYWORDS:
+  :CITE-KEY: SCA:831e1-cs
+  :END:
+
+
+[fn:part-1] SCA 818-820. Sri Chinmoy odpovídal na následující otázky 24. ledna 1996 v Durbanu v Jižní Africe.
+
+[fn:part-2] SCA 821-823.Na následující otázky Sri Chinmoy odpovídal v New Yorku 21. února 1996.
+
+[fn:part-3] SCA 824-827. Následují výňatky z rozhovoru Sri Chinmoye s Robertem Změlíkem, českým zlatým olympionikem v desetiboji. Rozhovor se odehrál 19. června 1996 v restauraci Annam Brahma.
+
+[fn:part-4] SCA 828-829. Sri Chinmoy odpovídal na následující otázky 21. října 1996 v San Francisku.
+
+[fn:part-5] SCA 830. Na následující otázku Sri Chinmoy odpověděl v New Yorku 25. února 1999.
 
 
 
