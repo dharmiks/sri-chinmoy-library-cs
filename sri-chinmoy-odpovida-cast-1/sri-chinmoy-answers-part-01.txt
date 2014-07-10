@@ -19,7 +19,7 @@
 
 
 
-* Část I – Otázky a odpovědi
+* Část I [fn:SCA-1-8]
 
   :PROPERTIES:
   :GENRE: section
@@ -210,6 +210,15 @@ Toto světlo obvykle pochází ze života ticha, z míru. A mír přichází po
 
 
 
+* Část II [fn:SCA-9-19]
+
+  :PROPERTIES:
+  :GENRE: section
+  :CITE-KEY: SCA-9e1-cs
+  :KEYWORDS:
+  :END:
+
+
 * Je pro žáka lepší vědět o tvé lásce, nebo cítit tvoji lásku?
 
   :PROPERTIES:
@@ -283,7 +292,7 @@ Když říkám, abyste mě přijali za svého vlastního, zcela vlastního, mů�
 Jediným  způsobem je přijímání a stávání se. Prostě si řekněte: „Stal jsem se čistým. Stal jsem se vybraným nástrojem.“ Neobelháváte sami sebe, vlastně vrůstáte v tuto skutečnost. Pokud řeknete: „Jsem čistý, jsem čistý,“ a pokud to někdo uslyší, může se vám vysmát. Může říci: „Ó, jsi tak špatný člověk!“ Když ale budete dále opakovat: „Jsem čistý, jsem dobrý, jsem božský,“ pak se dobré vědomí, Boží vědomí, stane vaším vlastním, protože se stanete tím, co opakujete.
 
 
-* /Jael/ (šest let): Kde je Bůh a proč Jej nemohu spatřit? 
+* J. (šest let): Kde je Bůh a proč Jej nemohu spatřit? 
 
   :PROPERTIES:
   :GENRE: qa
@@ -393,6 +402,25 @@ Musíš se ptát sama sebe, co chceš od duchovního života. Jestliže chceš �
 Vedeš duchovní život, protože chceš štěstí. Pokud by duchovní život nepřinášel štěstí, kdo by byl takovým hlupákem a žil duchovně? Sladíš-li se s Božím živoucím dechem, vstoupíš-li do Božího Dechu a staneš se jeho neoddělitelnou součástí, štěstí se stane tvým vnitřním a vnějším jménem a získáš nekonečnou extázi a nekonečnou blaženost.
 
 
+
+* Část III [fn:SCA-20-27]
+
+  :PROPERTIES:
+  :GENRE: section
+  :CITE-KEY: SCA-20e1-cs
+  :KEYWORDS:
+  :END:
+
+
+
+* Skutečnou meditací je učinit tvého Vnitřního kormidelníka šťastným prostřednictvím poslušnosti.
+
+:PROPERTIES:
+  :genre: remark
+  :keywords:
+  :cite-key: SCA:20
+  :END:
+
 /Sri Chinmoy:/ Skutečnou meditací je učinit tvého Vnitřního kormidelníka šťastným prostřednictvím poslušnosti. Toto je meditace, která je nanejvýš účinná: poslouchat svého Vnitřního kormidelníka. Pokud posloucháš svého Vnitřního kormidelníka radostně každou vteřinu, pak zde nemůže být žádná vnitřní horečka -- žádný strach, pochyby nebo žárlivost -- protože nemáš čas přemýšlet o těchto věcech.
 
 
@@ -401,7 +429,7 @@ Vedeš duchovní život, protože chceš štěstí. Pokud by duchovní život ne
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:20-cs
+  :CITE-KEY: SCA:21-cs
   :KEYWORDS:
   :END:
 
@@ -419,7 +447,7 @@ Můžeme se na to dívat dvěma způsoby. Jeden způsob je považovat vránu za 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:21-cs
+  :CITE-KEY: SCA:22-cs
   :KEYWORDS:
   :END:
 
@@ -436,7 +464,7 @@ V každém případě ty máš vrány ráda. Jednou jsi měla inkarnaci vrány, 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:22-cs
+  :CITE-KEY: SCA:23-cs
   :KEYWORDS:
   :END:
 
@@ -451,7 +479,7 @@ Nezáleží na tom, kolikrát tě nevědomost napadne, tvá mantra je vždy: „
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:23-cs
+  :CITE-KEY: SCA:24-cs
   :KEYWORDS:
   :END:
 
@@ -466,7 +494,7 @@ Ty už sis vybrala mezi nevědomostí a moudrostí, ale někdo tě nutí cítit,
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:24-cs
+  :CITE-KEY: SCA:25-cs
   :KEYWORDS:
   :END:
 
@@ -480,7 +508,7 @@ Akuli: Nejvyššímu z toho není špatně?
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:25-cs
+  :CITE-KEY: SCA:26-cs
   :KEYWORDS:
   :END:
 
@@ -495,7 +523,7 @@ Při fotbalovém zápasu hráč ví, zda vyhrává nebo prohrává, a v určité
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:26-cs
+  :CITE-KEY: SCA:27-cs
   :KEYWORDS:
   :END:
 
@@ -530,11 +558,20 @@ Akuli, když máš tak ráda vrány, kolik jich je v Queensu?
 Akuli, znáš ten hloupý indický vtip o tom, kolik existuje vran? Někdo řekne číslo, druhý další. Jeden vyzve druhého a řekne: „Já vím, kolik jich je, ale ty je spočítej. Když napočítáš víc, než jsem řekl, znamená to, že přiletěli někteří z jejich příbuzných. A když jich napočítáš méně, než jsem řekl, znamená to, že některé odletěly za příbuznými. A tak pokud řekneš 3000 a bude jich více, znamená to, že někteří příbuzní těchto vran do Queensu přiletěli. Pokud jich ale je méně než 3000, znamená to, že některé vrány z Queensu letěly navštívit své příbuzné v Bronxu.
 
 
+
+* Část IV [fn:SCA-28]
+
+  :PROPERTIES:
+  :GENRE: section
+  :CITE-KEY: SCA-28e1-cs
+  :KEYWORDS:
+  :END:
+
 * Jsem tak špatný zpěvák a vím toho o hudbě velmi málo. Zajímalo by mě, zda jsem někdy měl hudební inkarnaci.
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:27-cs
+  :CITE-KEY: SCA:28-cs
   :KEYWORDS:
   :END:
 
@@ -555,11 +592,11 @@ Naopak jsou tací, kteří znají hudbu velmi dobře a také mají schopnost oce
 
 
 
-* Část II. Soběstačnost, nebo závislost na Bohu
+* Část V [fn:SCA-29]
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: SCA-e1-cs
+  :CITE-KEY: SCA-29e1-cs
   :KEYWORDS:
   :END:
 
@@ -569,7 +606,7 @@ Naopak jsou tací, kteří znají hudbu velmi dobře a také mají schopnost oce
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: SCA:28-cs
+  :CITE-KEY: SCA:29-cs
   :KEYWORDS:
   :END:
 
@@ -594,11 +631,21 @@ A proto, milá dívko, chceš-li být šťastná a zabezpečená, pokus se prost
 
 
 
+* Část VI [fn:SCA-30]
+
+  :PROPERTIES:
+  :GENRE: section
+  :CITE-KEY: SCA-29e1-cs
+  :KEYWORDS:
+  :END:
+
+
+
 * Má pro mne moje mysl určité poselství?
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:29-cs
+  :CITE-KEY: SCA:30-cs
   :KEYWORDS:
   :END:
 
@@ -625,11 +672,12 @@ Přistihl jsem tvou mysl; udělal jsi chyby. Musíš vědět, že když udeří 
 
 
 
-* Vděčnost
+
+* Vděčnost [fn:SCA-31]
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: SCA:30-cs
+  :CITE-KEY: SCA:31-cs
   :KEYWORDS:
   :END:
 
@@ -649,17 +697,17 @@ Vděčnost, vděčnost a vděčnost. Duši neznáte; Nejvyššího neznáte. V t
 
 * Notes
 
-/25. června 1994 vyzval Sri Chinmoy žáky, kteří jsou na cestě více než dvacet pět let, k otázkám./
+[fn:SCA-1-8] SCA 1-8. /25. června 1994 vyzval Sri Chinmoy žáky, kteří jsou na cestě více než dvacet pět let, k otázkám./
 
-/4. července 1994, po speciální meditaci na americký den nezávislosti, vyzval Sri Chinmoy své žáky k otázkám./
+[fn:SCA-20-27] SCA 20-27. /4. července 1994, po speciální meditaci na americký den nezávislosti, vyzval Sri Chinmoy své žáky k otázkám./
 
-/ V den Akuliných narozenin, 10. května 1994, hovořil Sri Chinmoy o poslušnosti a poté ji požádal, aby mu položila několik otázek./
+[fn:SCA-28] SCA 28. /V den Akuliných narozenin, 10. května 1994, hovořil Sri Chinmoy o poslušnosti a poté ji požádal, aby mu položila několik otázek./
 
-/C. se zeptal na své narozeniny Sri Chinmoye na následující otázky 9. února 1990:/
+[fn:SCA-29] SCA 29. /C. se zeptal na své narozeniny Sri Chinmoye na následující otázky 9. února 1990:/
 
-/31. prosince 1986, se N. zeptala Sri Chinmoye na následující otázky:/
+[fn:SCA-30] SCA 30. /31. prosince 1986, se N. zeptala Sri Chinmoye na následující otázky:/
 
-/Gratitude:/ Sri Chinmoy předal tuto promluvu o vděčnosti 16. ledna 1994.
+[fn:SCA-31] /Gratitude:/ Sri Chinmoy předal tuto promluvu o vděčnosti 16. ledna 1994.
 
 
 
