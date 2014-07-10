@@ -19,12 +19,13 @@
 
 
 
-* Část I. Interview v časopisu Art Speaks
+* Část I [fn:SCA-55-56]
+
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:53e1-cs
+  :CITE-KEY: SCA:55e1-cs
   :END:
 
 
@@ -35,7 +36,7 @@
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:53-cs
+  :CITE-KEY: SCA:55-cs
   :END:
 
 
@@ -52,7 +53,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:54-cs
+  :CITE-KEY: SCA:56-cs
   :END:
 
 
@@ -65,12 +66,12 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 
 
 
-* Část II. Otázky a odpovědi na výstavě Jharna-Kala
+* Část II [fn:SCA-57-64]
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:55e1-cs
+  :CITE-KEY: SCA:57e1-cs
   :END:
 
 
@@ -80,7 +81,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:55-cs
+  :CITE-KEY: SCA:57-cs
   :END:
 
 
@@ -92,7 +93,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:56-cs
+  :CITE-KEY: SCA:58-cs
   :END:
 
 
@@ -105,7 +106,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:57-cs
+  :CITE-KEY: SCA:59-cs
   :END:
 
 
@@ -117,7 +118,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:58-cs
+  :CITE-KEY: SCA:60-cs
   :END:
 
 
@@ -130,7 +131,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:59-cs
+  :CITE-KEY: SCA:61-cs
   :END:
 
 
@@ -143,7 +144,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:60-cs
+  :CITE-KEY: SCA:62-cs
   :END:
 
 
@@ -156,7 +157,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:61-cs
+  :CITE-KEY: SCA:63-cs
   :END:
 
 
@@ -168,23 +169,21 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:62-cs
+  :CITE-KEY: SCA:64-cs
   :END:
 
 
 /Sri Chinmoy:/ Přeji si nabídnout pouze jedno poselství: Modlete se k Nejvyššímu, meditujte na Pána Nejvyššího, našeho Nebeského Otce, abyste byli k jeho službám, co nejoduševněleji, nejodevzdaněji a bezpodmínečně. Každý člověk se modlí k Bohu svým vlastním způsobem, ale obvykle je tam nějaká podmínka: „Bože, když pro mě uděláš tohle, potom se k Tobě budu modlit.“ Někdo se modlí k Bohu, jen aby naplnil své vlastní cíle -- aby se stal nejlepším zpěvákem či nejlepším umělcem. Takže většinu času se modlíme s podmínkami. Ale my se musíme modlit k Bohu bezpodmínečně a zrovna tak na něj meditovat, abychom naplnili Boha Jeho Vlastním Způsobem. Potom je na Bohu, zda chce či nechce naplnit naše modlitby. Neměli bychom se modlit k Bohu, aby nás učinil skvělými a jedinečnými. Ale naším cílem musí být potěšit Boha Jeho vlastním Způsobem. Tohle je moje nejvyšší poselství. Bylo stejné včera, je stejné dnes a bude stejné zítra: potěšit Boha a naplnit Jej Jeho vlastním Způsobem. 
 
 
-* Část III. Interview v časopise The New Yorker
+* Část III [fn:SCA-65-72]
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:63e1-cs
+  :CITE-KEY: SCA:65e1-cs
   :END:
   
-  /6. srpna 1993 na výstavě 70 000 Dream-Freedom-Peace-Birds
-   Soho, New York/
   
   
 
@@ -193,7 +192,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:63-cs
+  :CITE-KEY: SCA:65-cs
   :END:
 
 
@@ -206,7 +205,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:64-cs
+  :CITE-KEY: SCA:66-cs
   :END:
 
 
@@ -221,7 +220,7 @@ Když si koupíme klec a dáme dovnitř ptáka, tento pták je omezován. Ale kd
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:65-cs
+  :CITE-KEY: SCA:67-cs
   :END:
 
 
@@ -240,7 +239,7 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:66-cs
+  :CITE-KEY: SCA:68-cs
   :END:
 
 
@@ -253,7 +252,7 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:67-cs
+  :CITE-KEY: SCA:69-cs
   :END:
 
 
@@ -266,7 +265,7 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:68-cs
+  :CITE-KEY: SCA:70-cs
   :END:
 
 /Sri Chinmoy:/ Ano, jen vsedě. Obvykle když kreslím, snažím se být v kontemplativní náladě -- v oduševnělém vědomí plném modlitby -- a nemluvím. Obvykle kreslím brzy ráno, když jsem jen sám se sebou, nebo když jsem v autě. Ale někdy kreslím, i když jsou okolo lidé a já jsem uprostřed shonu každodenního života.
@@ -278,7 +277,7 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:69-cs
+  :CITE-KEY: SCA:71-cs
   :END:
 
 
@@ -302,7 +301,7 @@ Tito ptáci zrcadlí jednotu srdce. Představují jednotu v mnohosti. Každý pt
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:70-cs
+  :CITE-KEY: SCA:72-cs
   :END:
 
 
@@ -314,12 +313,12 @@ Tito ptáci zrcadlí jednotu srdce. Představují jednotu v mnohosti. Každý pt
 
 
 
-* Část IV. Rozhovor ve vysílání CBC
+* Část IV [fn:SCA-73-77]
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:71e1-cs
+  :CITE-KEY: SCA:73e1-cs
   :END:
   
   
@@ -330,7 +329,7 @@ Pane Sri Chinmoyi, musíte být velmi potěšen, že jste úspěšně nakreslil 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:71-cs
+  :CITE-KEY: SCA:73-cs
   :END:
 
 
@@ -343,7 +342,7 @@ Pane Sri Chinmoyi, musíte být velmi potěšen, že jste úspěšně nakreslil 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:72-cs
+  :CITE-KEY: SCA:74-cs
   :END:
 
 
@@ -352,7 +351,15 @@ Pane Sri Chinmoyi, musíte být velmi potěšen, že jste úspěšně nakreslil 
 Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní místo. Asi před 19 lety jsem začal svůj umělecký život na Západě několika kresbami a malbami v hotelu Sheraton v Ottawě. Rovněž mé kresby 100 000 ptáčků z minulého roku byly vystaveny v Ottawě. Naše filozofie je filozofií pokroku, takže od 100 000 jsem došel k jednomu milionu.
 
 
-/Reportér/: Jste si jist, že to je právě milion ptáčků? Jak jste to počítal?
+
+* Reportér: Jste si jist, že to je právě milion ptáčků? Jak jste to počítal?
+
+  :PROPERTIES:
+  :GENRE: interview
+  :KEYWORDS:
+  :CITE-KEY: SCA:75-cs
+  :END:
+
 
 
 /Sri Chinmoy:/ Sedm nebo osm mých studentů je věrně a oddaně dvakrát přepočítalo. Došli k číslu 1 001 819.
@@ -363,13 +370,29 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 
 /Sri Chinmoy:/ Ne, jsou to ptáci mé představivosti všech tvarů a velikostí. Nakreslil jsem je kuličkovými pery, fixy, křídami, malířskými štětci a řadou dalších nástrojů.
 
-/Reportér/: Věnoval jste všechny ptáčky Raise Gorbačovové?
+
+
+* Reportér: Věnoval jste všechny ptáčky Raise Gorbačovové?
+
+  :PROPERTIES:
+  :GENRE: interview
+  :KEYWORDS:
+  :CITE-KEY: SCA:76-cs
+  :END:
+
 
 
 /Sri Chinmoy:/ Výstavu 100 000 ptáčků v Ottawě jsem věnoval paní Gorbačovové a včera, na její narozeniny, jsem dokončil jeden milion ptáčků. Také tento milion bude koncem března vystavován v Ottawě. Tuto novou výstavu věnuji své matce, která je nyní v Nebi. Rád bych tím oslavil stoleté výročí jejího narození.
 
 
-/Reportér/: Proč jste prvních 100 000 ptáčků věnoval paní Gorbačovové?
+
+* Reportér: : Proč jste prvních 100 000 ptáčků věnoval paní Gorbačovové?
+
+  :PROPERTIES:
+  :GENRE: interview
+  :KEYWORDS:
+  :CITE-KEY: SCA:77-cs
+  :END:
 
 /Sri Chinmoy:/ Ona a prezident Gorbačov jsou mí blízcí přátelé. Politice vůbec nerozumím, jsem pouze hledajícím pravdy a milovníkem Boha. Ale cítím, že prezident Gorbačov je rovněž upřímným hledajícím a opravdovým člověkem míru. Proto jej nanejvýš obdivuji a miluji. Setkal jsem se s ním pětkrát nebo šestkrát. Mé první setkání s ním se odehrálo shodou okolností před čtyřmi lety v Ottawě.
 
@@ -382,12 +405,12 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 
 
 
-* Část V. Otázky a odpovědi ke kresbám „Dream-Freedom-Peace-Birds“
+* Část V [fn:SCA-78-88]
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:73e1-cs
+  :CITE-KEY: SCA:78e1-cs
   :END:
 
 
@@ -397,7 +420,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:73-cs
+  :CITE-KEY: SCA:78-cs
   :END:
 
 
@@ -410,7 +433,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:74-cs
+  :CITE-KEY: SCA:79-cs
   :END:
 
 
@@ -423,7 +446,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:75-cs
+  :CITE-KEY: SCA:80-cs
   :END:
 
 
@@ -436,7 +459,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:76-cs
+  :CITE-KEY: SCA:81-cs
   :END:
 
 
@@ -449,7 +472,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:77-cs
+  :CITE-KEY: SCA:82-cs
   :END:
 
 
@@ -461,7 +484,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:78-cs
+  :CITE-KEY: SCA:83-cs
   :END:
 
 
@@ -474,7 +497,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:79-cs
+  :CITE-KEY: SCA:84-cs
   :END:
 
 
@@ -487,7 +510,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:80-cs
+  :CITE-KEY: SCA:85-cs
   :END:
 
 
@@ -500,7 +523,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:81-cs
+  :CITE-KEY: SCA:86-cs
   :END:
 
 
@@ -512,7 +535,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:82-cs
+  :CITE-KEY: SCA:87-cs
   :END:
 
 
@@ -525,7 +548,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:83-cs
+  :CITE-KEY: SCA:88-cs
   :END:
   
 
@@ -537,12 +560,12 @@ Z pohledu lidí je milion ptáčků víc než dost. Ale v čemkoliv, co je dobr�
 
 
 
-* Část VI. Setkání s Lindsayem Clennellem
+* Část VI [fn:SCA-89-91]
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:84e1-cs
+  :CITE-KEY: SCA:89e1-cs
   :END:
 
 
@@ -552,7 +575,7 @@ Z pohledu lidí je milion ptáčků víc než dost. Ale v čemkoliv, co je dobr�
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:84-cs
+  :CITE-KEY: SCA:89-cs
   :END:
 
 
@@ -574,7 +597,7 @@ Proto říkám Bohu: „Kopej mě tak silně, jak je to jen možné. Jen potom T
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:85-cs
+  :CITE-KEY: SCA:90-cs
   :END:
 
 
@@ -590,7 +613,7 @@ Mysl nám říká, že můžeme dosáhnout jen určité výšky, ale jak víme, 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:86-cs
+  :CITE-KEY: SCA:91-cs
   :END:
 
 
@@ -610,12 +633,12 @@ Mé tělo má ruce, nohy, oči a tak dále. Mám upřednostňovat pouze své ruc
 
 
 
-* Část VII. Moje umění
+* Část VII [fn:SCA-92-112]
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:87e1-cs
+  :CITE-KEY: SCA:92e1-cs
   :END:
 
 
@@ -625,7 +648,7 @@ Mé tělo má ruce, nohy, oči a tak dále. Mám upřednostňovat pouze své ruc
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:87-cs
+  :CITE-KEY: SCA:92-cs
   :END:
 
 
@@ -642,7 +665,7 @@ bez světla v mé duši.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:88-cs
+  :CITE-KEY: SCA:93-cs
   :END:
 
 
@@ -660,7 +683,7 @@ bez čistoty v mém srdci.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:89-cs
+  :CITE-KEY: SCA:94-cs
   :END:
 
 
@@ -677,7 +700,7 @@ bez prostoty mé mysli.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:90-cs
+  :CITE-KEY: SCA:95-cs
   :END:
 
 
@@ -695,7 +718,7 @@ a proudícími slzami mého srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:91-cs
+  :CITE-KEY: SCA:96-cs
   :END:
 
 
@@ -715,7 +738,7 @@ a život plnosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:92-cs
+  :CITE-KEY: SCA:97-cs
   :END:
 
 
@@ -736,7 +759,7 @@ závislá na sobě bezesně.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:93-cs
+  :CITE-KEY: SCA:98-cs
   :END:
 
 
@@ -764,7 +787,7 @@ Netřeba říkat,
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:94-cs
+  :CITE-KEY: SCA:99-cs
   :END:
 
 
@@ -783,7 +806,7 @@ vládne světu.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:95-cs
+  :CITE-KEY: SCA:100-cs
   :END:
 
 
@@ -802,7 +825,7 @@ pro snem zaplavené Pobřeží Skutečnosti.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:96-cs
+  :CITE-KEY: SCA:101-cs
   :END:
 
 
@@ -820,7 +843,7 @@ udržuji zahradu své mysli
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:97-cs
+  :CITE-KEY: SCA:102-cs
   :END:
 
 
@@ -839,7 +862,7 @@ a rozpuků mé meditace.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:98-cs
+  :CITE-KEY: SCA:103-cs
   :END:
 
 
@@ -858,7 +881,7 @@ plameny mého aspirujícího srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:99-cs
+  :CITE-KEY: SCA:104-cs
   :END:
 
 
@@ -878,7 +901,7 @@ do rychlíku aspirace svého srdce.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:100-cs
+  :CITE-KEY: SCA:105-cs
   :END:
 
 
@@ -898,7 +921,7 @@ víc, nekonečně víc.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:101-cs
+  :CITE-KEY: SCA:106-cs
   :END:
 
 
@@ -929,7 +952,7 @@ mého umění.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:102-cs
+  :CITE-KEY: SCA:107-cs
   :END:
 
 
@@ -962,7 +985,7 @@ ve všech mých činnostech.“
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:103-cs
+  :CITE-KEY: SCA:108-cs
   :END:
 
 
@@ -986,7 +1009,7 @@ jeho cíle sebepřekonávání.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:104-cs
+  :CITE-KEY: SCA:109-cs
   :END:
 
 
@@ -1008,7 +1031,7 @@ prohlíží mé umělecké výtvory.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:105-cs
+  :CITE-KEY: SCA:110-cs
   :END:
 
 
@@ -1036,7 +1059,7 @@ v mém životě umění.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:106-cs
+  :CITE-KEY: SCA:111-cs
   :END:
 
 
@@ -1054,7 +1077,7 @@ mírových květů.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: SCA:107-cs
+  :CITE-KEY: SCA:112-cs
   :END:
 
 
@@ -1070,12 +1093,23 @@ po nekonečné Obloze Svobody.
 #+END_VERSE
 
 
-* 22. Nejvyšší, můj Nejvyšší, můj Pane Nejvyšší…
+
+* Part VIII [fn:SCA-113]
+
+
+  :PROPERTIES:
+  :genre: section
+  :keywords:
+  :cite-key: SCA:113e1
+  :END: 
+
+
+* Nejvyšší, můj Nejvyšší, můj Pane Nejvyšší…
 
   :PROPERTIES:
   :GENRE: prayer
   :KEYWORDS:
-  :CITE-KEY: SCA:108-cs
+  :CITE-KEY: SCA:113-cs
   :END:
 
 
@@ -1103,34 +1137,35 @@ ve Věčném Míru, Míru, Míru.
 
 #+END_VERSE
 
-/ Modlitba nabídnutá k příležitosti dokončení jednoho milionu „Dream-Freedom-Peace-Birds“/
-
-/5. ledna 1994, 5:15/
-
 
 * Poznámky
 
   :PROPERTIES:
   :GENRE: note
   :KEYWORDS:
-  :CITE-KEY: SCA:109e1-cs
+  :CITE-KEY: SCA:114e1-cs
   :END:
 
 
 
-/3. srpna 1993 na výstavě 70 000 kreseb Dream-Freedom-Peace-Birds
-Soho, New York/
+[fn:SCA-55-56] SCA 55-56. /3. srpna 1993 na výstavě 70 000 kreseb „Dream-Freedom-Peace-Birds“, Soho, New York/
 
-/6. srpna 1993 na výstavě 70 000 Dream-Freedom-Peace-Birds
-Soho, New York/
+[fn:SCA-57-64] SCA 57-64. /Otázky a odpovědi na výstavě „Jharna Kala“ 3. srpna 1993, Soho, New York/
 
-/6. ledna 1994 proběhl se Sri Chinmoyem živý rozhovor po telefonu v rozhlasovém pořadu „As It Happens“ kanadské rozhlasové stanice CBC. Následující pasáž je přepisem tohoto rozhovoru./
+[fn:SCA-65-72] SCA 65-72. /Rozhovor pro časopis „New Yorker“ na výstavě „70 000 Dream-Freedom-Peace-Birds“
+ Soho, New York/
 
-/16. června 1994 se Sri Chinmoy setkal s Lindsayem Clennellem, filmovým scénáristou a producentem, v restauraci Annam Brahma v Queensu. Následují výňatky z jejich rozhovoru./
 
-/ Následující básně napsal Sri Chinmoy 
-1. a 2. listopadu na oslavu otevření výstavy 100 000 Dream-Freedom-Peace-Birds v kanadské Ottawě.
-./
+[fn:SCA-73-77] SCA 73-77. /6. ledna 1994 proběhl se Sri Chinmoyem živý rozhovor po telefonu v rozhlasovém pořadu „As It Happens“ kanadské rozhlasové stanice CBC. Následující pasáž je přepisem tohoto rozhovoru./
+
+[fn:SCA-78-88] SCA 78-88. /Otázky a odpovědi z výstavy kreseb „Dream-Freedom-Peace-Bird“./
+
+[fn:SCA-89-91] SCA 89-91. /16. června 1994 se Sri Chinmoy setkal s Lindsayem Clennellem, filmovým scénáristou a producentem, v restauraci Annam Brahma v Queensu. Následují výňatky z jejich rozhovoru./
+
+[fn:SCA-92-112] SCA 92-112. /Následující básně nazvané „Mé Umění“ napsal Sri Chinmoy 1. a 2. listopadu na oslavu otevření výstavy „100 000 Dream-Freedom-Peace-Birds“ v kanadské Ottawě./
+
+[fn:SCA-113] SCA 113. /Modlitba věnovaná dokončení jednoho milionu „Dream-Freedom-Peace-Birds“ 5. ledna 1994, 5:15 ráno./
+
 
 
 
