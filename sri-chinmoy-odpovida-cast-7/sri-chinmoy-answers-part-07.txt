@@ -19,12 +19,12 @@
 
 
 
-* Část I.
+* Část I
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:235e1-cs
+  :CITE-KEY: SCA:242e1-cs
   :END:
   
   
@@ -34,7 +34,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:235-cs
+  :CITE-KEY: SCA:242-cs
   :END:
 
 
@@ -47,7 +47,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:236-cs
+  :CITE-KEY: SCA:243-cs
   :END:
 
 
@@ -60,7 +60,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:237-cs
+  :CITE-KEY: SCA:244-cs
   :END:
 
 
@@ -73,7 +73,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:238-cs
+  :CITE-KEY: SCA:245-cs
   :END:
 
 
@@ -90,7 +90,7 @@ Ale věci jako přemisťování mysli se dějí velmi, velmi zřídka, protože 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:239-cs
+  :CITE-KEY: SCA:246-cs
   :END:
 
 
@@ -103,7 +103,7 @@ Ale věci jako přemisťování mysli se dějí velmi, velmi zřídka, protože 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:240-cs
+  :CITE-KEY: SCA:247-cs
   :END:
 
 
@@ -116,7 +116,7 @@ Ale věci jako přemisťování mysli se dějí velmi, velmi zřídka, protože 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:241-cs
+  :CITE-KEY: SCA:248-cs
   :END:
 
 
@@ -131,7 +131,7 @@ Vnějšně mohly cítit nejistotu nebo žárlivost jedna k druhé a mít všechn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:242-cs
+  :CITE-KEY: SCA:249-cs
   :END:
 
 
@@ -144,7 +144,7 @@ Vnějšně mohly cítit nejistotu nebo žárlivost jedna k druhé a mít všechn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:243-cs
+  :CITE-KEY: SCA:250-cs
   :END:
 
 
@@ -162,7 +162,7 @@ Když duše sestupuje, nezve lidi, aby ji pozorovali a psali knihu. Podle planet
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:244-cs
+  :CITE-KEY: SCA:251-cs
   :END:
 
 
@@ -175,7 +175,7 @@ Když duše sestupuje, nezve lidi, aby ji pozorovali a psali knihu. Podle planet
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:245-cs
+  :CITE-KEY: SCA:252-cs
   :END:
 
 
@@ -189,7 +189,7 @@ Když duše sestupuje, nezve lidi, aby ji pozorovali a psali knihu. Podle planet
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:246-cs
+  :CITE-KEY: SCA:253-cs
   :END:
 
 
@@ -202,7 +202,7 @@ Když duše sestupuje, nezve lidi, aby ji pozorovali a psali knihu. Podle planet
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:247-cs
+  :CITE-KEY: SCA:254-cs
   :END:
 
 
@@ -217,7 +217,7 @@ Protože jsem se narodil v malé vesnici, kde jsou náboženství a duchovní ž
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:248-cs
+  :CITE-KEY: SCA:255-cs
   :END:
 
 
@@ -232,7 +232,7 @@ V některých případech vedoucí řekne, „Udělejte to hned!“ V tomto př�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:249-cs
+  :CITE-KEY: SCA:256-cs
   :END:
 
 
@@ -245,7 +245,7 @@ V některých případech vedoucí řekne, „Udělejte to hned!“ V tomto př�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:250-cs
+  :CITE-KEY: SCA:257-cs
   :END:
 
 
@@ -260,7 +260,7 @@ Když srdce neposlouchá duši, nebo když se mysl nebo vitálno nebo tělo vzbo
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:251-cs
+  :CITE-KEY: SCA:258-cs
   :END:
 
 
@@ -274,7 +274,7 @@ Jednotlivec zná svou vlastní mysl. Jaký druh mysli měl před dvěma lety neb
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:252-cs
+  :CITE-KEY: SCA:259-cs
   :END:
 
 
@@ -287,7 +287,7 @@ Jednotlivec zná svou vlastní mysl. Jaký druh mysli měl před dvěma lety neb
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:253-cs
+  :CITE-KEY: SCA:260-cs
   :END:
 
 
@@ -300,7 +300,7 @@ Jednotlivec zná svou vlastní mysl. Jaký druh mysli měl před dvěma lety neb
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:254-cs
+  :CITE-KEY: SCA:261-cs
   :END:
 
 
@@ -314,7 +314,7 @@ Potom si představte určitou barvu. Pokud chcete cítit Boží nekonečnou Lás
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:255-cs
+  :CITE-KEY: SCA:262-cs
   :END:
 
 
@@ -333,7 +333,7 @@ Ale pokud ti, co jsou na zemi, jsou hledající, nemusí čekat rok předtím, n
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:256-cs
+  :CITE-KEY: SCA:263-cs
   :END:
 
 
@@ -346,7 +346,7 @@ Ale pokud ti, co jsou na zemi, jsou hledající, nemusí čekat rok předtím, n
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:257-cs
+  :CITE-KEY: SCA:264-cs
   :END:
 
 
@@ -359,7 +359,7 @@ Ale pokud ti, co jsou na zemi, jsou hledající, nemusí čekat rok předtím, n
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:258-cs
+  :CITE-KEY: SCA:265-cs
   :END:
 
 
@@ -374,7 +374,7 @@ Takže mysl většinu času trpí. Pouze pokud člověk zemřel náhodnou smrtí
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:259-cs
+  :CITE-KEY: SCA:266-cs
   :END:
 
 
@@ -389,7 +389,7 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:260-cs
+  :CITE-KEY: SCA:267-cs
   :END:
 
 
@@ -402,7 +402,7 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:261-cs
+  :CITE-KEY: SCA:268-cs
   :END:
 
 
@@ -415,7 +415,7 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:262-cs
+  :CITE-KEY: SCA:269-cs
   :END:
 
 
@@ -428,7 +428,7 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:263-cs
+  :CITE-KEY: SCA:270-cs
   :END:
 
 
@@ -441,7 +441,7 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:264-cs
+  :CITE-KEY: SCA:271-cs
   :END:
 
 
@@ -449,25 +449,13 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
 
 
 
-* Část II.
+* Část II [fn:SCA-272-278] 
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:265e1-cs
+  :CITE-KEY: SCA:272e1-cs
   :END:
-
-
-
-* Poznámky editora:
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:265e2-cs
-  :END:
-
-/ Následující otázky byly položeny 21. března 1996/
 
 
 
@@ -476,7 +464,7 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:265-cs
+  :CITE-KEY: SCA:272-cs
   :END:
 
 
@@ -491,7 +479,7 @@ Pokud jste nejvyšší činitel v jednání s někým a uděláte chybu, protož
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:266-cs
+  :CITE-KEY: SCA:273-cs
   :END:
 
 
@@ -518,7 +506,7 @@ Toto tělo odejde, toto vitálno odejde, tato mysl odejde; všechno nás opustí
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:267-cs
+  :CITE-KEY: SCA:274-cs
   :END:
 
 
@@ -532,7 +520,7 @@ Ve vašem případě, co jste cítila, nebyla duše vašeho manžela, ale dobré
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:268-cs
+  :CITE-KEY: SCA:275-cs
   :END:
 
 
@@ -545,7 +533,7 @@ Ve vašem případě, co jste cítila, nebyla duše vašeho manžela, ale dobré
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:269-cs
+  :CITE-KEY: SCA:276-cs
   :END:
 
 
@@ -562,7 +550,7 @@ Duchovní Mistři, kteří realizovali Nejvyšší, pokud chtějí, mohou přika
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:270-cs
+  :CITE-KEY: SCA:277-cs
   :END:
 
 
@@ -581,7 +569,7 @@ Den za dnem pokračujeme v dělání špatných věcí a myslíme si, že Bůh s
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:271-cs
+  :CITE-KEY: SCA:278-cs
   :END:
 
 
@@ -595,25 +583,16 @@ Zatímco meditujeme, pokud se můžeme ponořit hluboko dovnitř na několik vte
 
 
 
-* Část III.
+* Část III [fn:SCA-279-282] 
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:272e1-cs
+  :CITE-KEY: SCA:279e1-cs
   :END:
   
   
 
-* Poznámky editora:
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:272e2-cs
-  :END:
-
-/ Následující dvě otázky byly položeny v Myanmar v lednu 1995/
 
 
 
@@ -622,7 +601,7 @@ Zatímco meditujeme, pokud se můžeme ponořit hluboko dovnitř na několik vte
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:272-cs
+  :CITE-KEY: SCA:279-cs
   :END:
 
 
@@ -641,7 +620,7 @@ Bůh si s námi hraje přesně stejným způsobem. Když se pokoušíme použít
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:273-cs
+  :CITE-KEY: SCA:280-cs
   :END:
 
 
@@ -654,7 +633,7 @@ Bůh si s námi hraje přesně stejným způsobem. Když se pokoušíme použít
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:274-cs
+  :CITE-KEY: SCA:281-cs
   :END:
 
 
@@ -669,7 +648,7 @@ Mnoho lidí chodí do kostela, ale jejich mysl a srdce jsou někde jinde. Může
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:275-cs
+  :CITE-KEY: SCA:282-cs
   :END:
 
 
@@ -680,26 +659,18 @@ Protože my lidské bytosti vidíme nepřátele kolem nás, protože se bojíme,
 
 
 
-* Část IV.
+* Část IV [fn:SCA-283-284] 
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:276e1-cs
+  :CITE-KEY: SCA:283e1-cs
   :END:
   
   
 
-* Poznámky editora:
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:276e2-cs
-  :END:
 
 
-/Následující otázky byly položeny pí.Hanne Strongovou, manželkou  Maurice Stronga, generálního sekretáře Shromáždění Životního prostředí a Rozvoje Organizace Spojených národů./
 
 
 
@@ -708,7 +679,7 @@ Protože my lidské bytosti vidíme nepřátele kolem nás, protože se bojíme,
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:276-cs
+  :CITE-KEY: SCA:283-cs
   :END:
 
 
@@ -725,7 +696,7 @@ Protože my lidské bytosti vidíme nepřátele kolem nás, protože se bojíme,
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:277-cs
+  :CITE-KEY: SCA:284-cs
   :END:
 
 
@@ -738,25 +709,17 @@ Vědci mohou sestoupit na měsíc a vidět několik kamenů, ale nezískají vě
 
 
 
-* Část V.
+* Část V [fn:SCA-285-295] 
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:278e1-cs
+  :CITE-KEY: SCA:285e1-cs
   :END:
   
   
   
-* Poznámky editora: 
 
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:278e2-cs
-  :END:
-
-/Následující otázky byly položeny na Maui 25-26 ledna 1995/
 
 
 * Je duchovní život snazší nebo méně přísný dnes než byl v dávných časech?
@@ -764,7 +727,7 @@ Vědci mohou sestoupit na měsíc a vidět několik kamenů, ale nezískají vě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:278-cs
+  :CITE-KEY: SCA:285-cs
   :END:
 
 
@@ -778,7 +741,7 @@ Dnes je všechno levné -- tak levné jako voda. Znovu, voda je život. Pokud ne
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:279-cs
+  :CITE-KEY: SCA:286-cs
   :END:
 
 
@@ -795,7 +758,7 @@ Takže dnes jsou tu výhody i nevýhody; ale celkově je to mnohem snazší dnes
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:280-cs
+  :CITE-KEY: SCA:287-cs
   :END:
 
 
@@ -811,7 +774,7 @@ Když nás vnější svět pokouší nebo nás láká, musíme si pamatovat tyto
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:281-cs
+  :CITE-KEY: SCA:288-cs
   :END:
 
 
@@ -829,7 +792,7 @@ Znovu, je možné mít pomíjivou realizaci. Když měl Ardžuna vizi Krišnova 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:282-cs
+  :CITE-KEY: SCA:289-cs
   :END:
 
 
@@ -844,7 +807,7 @@ Vše se musí dít krok po kroku. Na začátku nevědomě nebo vědomě chováme
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:283-cs
+  :CITE-KEY: SCA:290-cs
   :END:
 
 
@@ -859,7 +822,7 @@ Poezie je intuitivní, takže bychom se neměli pokoušet porozumět jí. Není 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:284-cs
+  :CITE-KEY: SCA:291-cs
   :END:
 
 
@@ -876,7 +839,7 @@ Mnoho lidí je dychtivých, ale po dvou dnech jejich dychtivost zmizí. Dva dny 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:285-cs
+  :CITE-KEY: SCA:292-cs
   :END:
 
 
@@ -897,7 +860,7 @@ Existuje ještě jedna cesta. Pokaždé, když někoho kritizujete, ciťte, že 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:286-cs
+  :CITE-KEY: SCA:293-cs
   :END:
 
 
@@ -912,7 +875,7 @@ Ale pokud během meditace myslíme na zítřejší snídani nebo na toho, kdo n�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:287-cs
+  :CITE-KEY: SCA:294-cs
   :END:
 
 
@@ -930,32 +893,23 @@ Co to znamená? Předpokládejme, že jste očekával, že se něco stane vašim
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:288-cs
+  :CITE-KEY: SCA:295-cs
   :END:
 
 
 /Sri Chinmoy:/ Zdravý rozum je moudrost. Předpokládejte, že vidíte plamen. Je tak krásný, že se ho chcete dotknout. Ale zdravý rozum mi říká, že když se ho dotknu, potom si určitě spálím ruku. Takže začínáme se zdravým rozumem, ale poté musíme jít za zdravý rozum, používajíc jakoukoliv moudrost, kterou máme z našich minulých životů nebo z dřívějška našeho současného života. Potom přijdeme na určitý stupeň nebo úroveň, kde vidíme, že zdravý rozum již více nefunguje. Takže odtud musíme jít vpřed a nahoru dokud nebudeme daleko, daleko za říší zdravého rozumu.
 
 
-* Část VI.
+* Část VI [fn:SCA-296-304] 
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:289e1-cs
+  :CITE-KEY: SCA:296e1-cs
   :END:
   
   
 
-* Poznámka editora:
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:289e2-cs
-  :END:
-
-/Následující otázky byly položeny v dubnu a květnu 1995/
 
 
 
@@ -964,7 +918,7 @@ Co to znamená? Předpokládejme, že jste očekával, že se něco stane vašim
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:289-cs
+  :CITE-KEY: SCA:296-cs
   :END:
 
 
@@ -989,7 +943,7 @@ Problém je, že naprosto každý si vytvořil určité představy na mentální
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:290-cs
+  :CITE-KEY: SCA:297-cs
   :END:
 
 
@@ -1018,7 +972,7 @@ Mahábhárata je sladší než nejsladší a zároveň hlubší než nejhlubší
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:291-cs
+  :CITE-KEY: SCA:298-cs
   :END:
 
 
@@ -1032,7 +986,7 @@ Slyšíc tato slova, jeden z Durjodhanových vlastních bratrů přiběhl a řek
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:292-cs
+  :CITE-KEY: SCA:299-cs
   :END:
 
 
@@ -1049,7 +1003,7 @@ Stejně tak, pokud má někdo duchovního Mistra, kosmičtí bohové se neúčas
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:293-cs
+  :CITE-KEY: SCA:300-cs
   :END:
 
 
@@ -1062,7 +1016,7 @@ Stejně tak, pokud má někdo duchovního Mistra, kosmičtí bohové se neúčas
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:294-cs
+  :CITE-KEY: SCA:301-cs
   :END:
 
 
@@ -1079,7 +1033,7 @@ Ve srovnání s kosmickými bohy, jsou nyní lidské bytosti jako malé děti. D
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:295-cs
+  :CITE-KEY: SCA:302-cs
   :END:
 
 
@@ -1097,7 +1051,7 @@ Mnoho věcí bylo vloženo do Purán, jen aby příběhy měli více šťávy. P
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:296-cs
+  :CITE-KEY: SCA:303-cs
   :END:
 
 
@@ -1114,11 +1068,34 @@ Jiný způsob, jak mít vděčnost je myslet si, čím bychom se stali, kdyby n�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:297-cs
+  :CITE-KEY: SCA:304-cs
   :END:
 
 
 /Sri Chinmoy:/ Jednoduchost je přímý způsob, jak přinést sladkost do svého života. Čistí lidé mohou být někdy velmi pěkně arogantní. Indičtí svatí jsou čistí, ale když se pokusíte utrhnout květinu z jejich zahrady, přijdou a rozbijí vám hlavu, protože se starají pouze o spravedlnost! Ale pokud chcete jen žít jednoduchý život, potom když vám zloděj přijde ukrást přikrývku, poběžíte za ním, abyste mu dali také polštář. Řeknete zloději, „Máš tyto věci raději než já, tak si je nech. Jsem spokojený pouze, když se dívám v noci na měsíc.“ Tímto způsobem svůj život zjednodušujete a zjednodušujete a závisíte pouze na Matce Přírodě. Tímto způsobem jednoduchého života sladkost roste.
+
+
+
+
+* Poznámky
+
+  :PROPERTIES:
+  :genre: note
+  :keywords:
+  :cite-key: SCA:305e1-cs
+  :END:
+  
+
+
+[fn:SCA-272-278] /Následující otázky byly položeny 21. března 1996/
+
+[fn:SCA-279-282] /Následující dvě otázky byly položeny v Myanmar v lednu 1995/
+
+[fn:SCA-283-284] /Následující otázky byly položeny pí.Hanne Strongovou, manželkou  Maurice Stronga, generálního sekretáře Shromáždění Životního prostředí a Rozvoje Organizace Spojených národů./
+
+[fn:SCA-285-295] /Následující otázky byly položeny na Maui 25-26 ledna 1995/
+
+[fn:SCA-296-304] /Následující otázky byly položeny v dubnu a květnu 1995/
 
 
 
