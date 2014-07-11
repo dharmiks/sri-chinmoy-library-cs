@@ -18,13 +18,22 @@
   :END:
 
 
+* Část I [fn:SCA-366]
+
+  :PROPERTIES:
+  :genre: section
+  :keywords:
+  :cite-key: SCA:366e1
+  :END:
+
+  
 
 * Hledající, aspirant a milovník Boha
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: SCA:359-cs
+  :CITE-KEY: SCA:366-cs
   :END:
 
 
@@ -41,16 +50,14 @@ Aspirant takto necítí. Když je aspirant zraněn, sám sebe proklíná a obvi�
 10. května 1996
 
 
-* Část I
+* Část II [fn:SCA-367-375]
+
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:360e1-cs
+  :CITE-KEY: SCA:367e1-cs
   :END:
-
-[FN:part-1]
-
 
 
 
@@ -59,7 +66,7 @@ Aspirant takto necítí. Když je aspirant zraněn, sám sebe proklíná a obvi�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:360-cs
+  :CITE-KEY: SCA:367-cs
   :END:
 
 
@@ -76,7 +83,7 @@ Na naší cestě přikládáme patřičnou důležitost fyzickému životu. Uvni
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:361-cs
+  :CITE-KEY: SCA:368-cs
   :END:
 
 
@@ -90,7 +97,7 @@ Pokud nasloucháme své mysli, když nám říká, abychom někoho uhodili, pak 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:362-cs
+  :CITE-KEY: SCA:369-cs
   :END:
 
 
@@ -105,7 +112,7 @@ Věnuji se duchovnímu životu od svého dětství. Jsem člověkem modlitby. Js
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:363-cs
+  :CITE-KEY: SCA:370-cs
   :END:
 
 
@@ -128,7 +135,7 @@ Když jsme ve světě aspirace, modlíme se k Bohu, aby nám dal schopnost těš
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:364-cs
+  :CITE-KEY: SCA:371-cs
   :END:
 
 
@@ -143,7 +150,7 @@ Nebudu mít odvahu pokoušet se řešit problémy v Bosně a na jiných místech
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:365-cs
+  :CITE-KEY: SCA:372-cs
   :END:
 
 
@@ -158,7 +165,7 @@ Takže svět se vyvíjí směrem k přijetí míru a světla. Někteří jedinci
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:366-cs
+  :CITE-KEY: SCA:373-cs
   :END:
 
 
@@ -174,7 +181,7 @@ Zde jsme všichni studenty míru. Mír je společným předmětem, který všich
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:367-cs
+  :CITE-KEY: SCA:374-cs
   :END:
 
 
@@ -185,12 +192,13 @@ Je však otázka, zdali je někdo opravdu hladový po míru, anebo zdali jednodu
 Tito lidé bohužel světlo nehledají. Nemodlí se, aby toto světlo osvítilo ty nebožské lidské bytosti, které napadly jejich drahé. Kdyby to dělali, Bůh by zajisté změnil vnitřní přístup těchto nebožských lidí. Upřímný pláč obětí po osvícení viníků by pronikl do Srdce Boha. A tak když se modlíme k Bohu správným způsobem, ti, kteří udělali něco špatného, nebo ti, kteří by mohli něco špatného udělat v blízké budoucnosti, budou osvíceni.
 
 
+
 * Zjistil jsem, že hudba může změnit lidi, i když nemluvím o politické změně. Rád bych slyšel váš názor na hudbu.
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:368-cs
+  :CITE-KEY: SCA:375-cs
   :END:
 
 
@@ -198,16 +206,13 @@ Tito lidé bohužel světlo nehledají. Nemodlí se, aby toto světlo osvítilo 
 
 
 
-* Část II
+* Část III [fn:SCA-376-377]
 
   :PROPERTIES:
   :GENRE: section 
   :KEYWORDS:
-  :CITE-KEY: SCA:369e1-cs
+  :CITE-KEY: SCA:376e1-cs
   :END:
-
-[FN:part-2]
-
 
 
 
@@ -216,7 +221,7 @@ Tito lidé bohužel světlo nehledají. Nemodlí se, aby toto světlo osvítilo 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:369-cs
+  :CITE-KEY: SCA:376-cs
   :END:
 
 
@@ -232,7 +237,7 @@ Můj drahý bratře a příteli Joeli, na vnější úrovni nejsem milionář a 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:370-cs
+  :CITE-KEY: SCA:377-cs
   :END:
 
 
@@ -242,16 +247,14 @@ Vědcům dělá ohromnou radost dokazovat své teorie, ale duchovnímu Mistrovi 
 
 
 
-* Část III
+* Část IV [fn:SCA-378-388]
+
 
   :PROPERTIES:
   :GENRE: section 
   :KEYWORDS:
-  :CITE-KEY: SCA:371e1-cs
+  :CITE-KEY: SCA:378e1-cs
   :END:
-
-[FN:part-3]
-
 
 
 
@@ -260,7 +263,7 @@ Vědcům dělá ohromnou radost dokazovat své teorie, ale duchovnímu Mistrovi 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:371-cs
+  :CITE-KEY: SCA:378-cs
   :END:
 
 
@@ -275,7 +278,7 @@ Ve chvíli, kdy hrajete, květina vaší duše vydává oduševnělou nebo zbož
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:372-cs
+  :CITE-KEY: SCA:379-cs
   :END:
 
 
@@ -288,7 +291,7 @@ Ve chvíli, kdy hrajete, květina vaší duše vydává oduševnělou nebo zbož
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:373-cs
+  :CITE-KEY: SCA:380-cs
   :END:
 
 
@@ -311,7 +314,7 @@ Je to jako hostitel, který se snaží potěšit své hosty hned, jak přijdou. 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:374-cs
+  :CITE-KEY: SCA:381-cs
   :END:
 
 
@@ -325,7 +328,7 @@ Je to jako hostitel, který se snaží potěšit své hosty hned, jak přijdou. 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:375-cs
+  :CITE-KEY: SCA:382-cs
   :END:
 
 
@@ -344,7 +347,7 @@ Mám jednu zvláštní píseň, která je zdrojem všech mých hudebních sklade
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:376-cs
+  :CITE-KEY: SCA:383-cs
   :END:
 
 
@@ -357,7 +360,7 @@ Mám jednu zvláštní píseň, která je zdrojem všech mých hudebních sklade
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:377-cs
+  :CITE-KEY: SCA:384-cs
   :END:
 
 
@@ -370,7 +373,7 @@ Mám jednu zvláštní píseň, která je zdrojem všech mých hudebních sklade
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:378-cs
+  :CITE-KEY: SCA:385-cs
   :END:
 
 
@@ -385,7 +388,7 @@ Když žijeme duchovním životem, zjišťujeme, že nikdy nic nedáváme třet�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:379-cs
+  :CITE-KEY: SCA:386-cs
   :END:
 
 
@@ -398,7 +401,7 @@ Když žijeme duchovním životem, zjišťujeme, že nikdy nic nedáváme třet�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:380-cs
+  :CITE-KEY: SCA:387-cs
   :END:
 
 
@@ -411,7 +414,7 @@ Když žijeme duchovním životem, zjišťujeme, že nikdy nic nedáváme třet�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:381-cs
+  :CITE-KEY: SCA:388-cs
   :END:
 
 
@@ -420,15 +423,13 @@ Když žijeme duchovním životem, zjišťujeme, že nikdy nic nedáváme třet�
 Pro dítě je trpělivost přirozená, protože je stále v srdci. Protože ale dospělí žijí v mysli, musí se tak tvrdě snažit, aby tyto kvality srdce získali zpět. Když jsme v mysli, je všechno pokroucené a zkreslené. Musíme tedy přivést nepoddajnou mysl pod kontrolu srdce.
 
 
-* Část IV
+* Část V [fn:SCA-389-394]
 
   :PROPERTIES:
   :GENRE: section 
   :KEYWORDS:
-  :CITE-KEY: SCA:382e1-cs
+  :CITE-KEY: SCA:389e1-cs
   :END:
-
-[FN:part-4]
 
 
 
@@ -437,7 +438,7 @@ Pro dítě je trpělivost přirozená, protože je stále v srdci. Protože ale 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:382-cs
+  :CITE-KEY: SCA:389-cs
   :END:
 
 
@@ -459,7 +460,7 @@ Tyto vnitřní prožitky mi značně pomohly. Jakmile jednou získáte tento dru
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:383-cs
+  :CITE-KEY: SCA:390-cs
   :END:
 
 
@@ -479,7 +480,7 @@ Vnitřní prožitky nám pomáhají; dávají nám určité ovoce. Když se nám
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:384-cs
+  :CITE-KEY: SCA:391-cs
   :END:
 
 
@@ -493,7 +494,7 @@ Vnitřní prožitky nám pomáhají; dávají nám určité ovoce. Když se nám
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:385-cs
+  :CITE-KEY: SCA:392-cs
   :END:
 
 
@@ -518,7 +519,7 @@ Až když uděláme všechno, co z nitra cítíme, že udělat můžeme, a až k
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:386-cs
+  :CITE-KEY: SCA:393-cs
   :END:
 
 
@@ -537,7 +538,7 @@ Když hrál Pán Kršna na flétnu, gópie (pozn. překl.: indické ženy z rodi
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:387-cs
+  :CITE-KEY: SCA:394-cs
   :END:
 
 
@@ -545,16 +546,13 @@ Když hrál Pán Kršna na flétnu, gópie (pozn. překl.: indické ženy z rodi
 
 
 
-* Část V
+* Část VI [fn:SCA-395-399]
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:388e1-cs
+  :CITE-KEY: SCA:395e1-cs
   :END:
-
-[FN:part-5]
-
 
 
 
@@ -564,7 +562,7 @@ Když hrál Pán Kršna na flétnu, gópie (pozn. překl.: indické ženy z rodi
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:388-cs
+  :CITE-KEY: SCA:395-cs
   :END:
 
 
@@ -572,7 +570,7 @@ Když hrál Pán Kršna na flétnu, gópie (pozn. překl.: indické ženy z rodi
 
 Pevně věřím, že až budou lidé provádět náboženské obřady v budoucnosti, budou si více uvědomovat skutečnost, že patříme k jedné duchovní rodině. Byla doba, kdy pouhá tato myšlenka byla pro svět příliš. Nyní jsme přinejmenším schopni o ní mluvit. Je to jako myšlenka míru. Před padesáti lety se slovo „mír“ nepoužívalo tak jako dnes; používala se jiná slova. Posledních devět nebo deset let všichni mluví o míru. I když jedna země může na jinou zemi házet bombu, „mír“ je přesto naší mantrou! Přijde den, kdy nejenom že se této zemi bude smát celý zbytek světa, ale dokonce se tato země začne smát sama sobě. Všimne si, že o míru jenom mluví, ale dělá pravý opak. V tu chvíli se bude sama snažit napravit.
 
-Hrozba jaderného ničení nebude pokračovat, protože už během třiceti nebo čtyřiceti nebo padesáti let bude síla srdce mnohem, mnohem mocnější. Je velká naděje, že se politika nakonec poddá duchovnosti. Jednotlivé případy už jsme v historii viděli -- například indického krále Shivaji. Nejprve dělal věci podle sebe, ale později se podřídil božskosti. Vnitřní svět se tedy probouzí. V některých případech dnešního světa začíná být vnitřní síla více zjevná a jasná navenek. Vidíte, jak nyní Rusko trpí v politickém světě, ale ve vnitřním světě je Rusko probuzené. Vnitřní síla a vnitřní probuzení Ruska budou dosti překvapivé.
+Hrozba jaderného ničení nebude pokračovat, protože už během třiceti nebo čtyřiceti nebo padesáti let bude síla srdce mnohem, mnohem mocnější. Je velká naděje, že se politika nakonec poddá duchovnosti. Jednotlivé případy už jsme v historii viděli -- například indického krále Šivadži. Nejprve dělal věci podle sebe, ale později se podřídil božskosti. Vnitřní svět se tedy probouzí. V některých případech dnešního světa začíná být vnitřní síla více zjevná a jasná navenek. Vidíte, jak nyní Rusko trpí v politickém světě, ale ve vnitřním světě je Rusko probuzené. Vnitřní síla a vnitřní probuzení Ruska budou dosti překvapivé.
 
 
 
@@ -581,7 +579,7 @@ Hrozba jaderného ničení nebude pokračovat, protože už během třiceti nebo
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:389-cs
+  :CITE-KEY: SCA:396-cs
   :END:
 
 
@@ -596,7 +594,7 @@ Když máte srdce oceňování, pak je všechno krásné; každý plátek květi
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:390-cs
+  :CITE-KEY: SCA:397-cs
   :END:
 
 
@@ -609,7 +607,7 @@ Když máte srdce oceňování, pak je všechno krásné; každý plátek květi
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:391-cs
+  :CITE-KEY: SCA:398-cs
   :END:
 
 
@@ -622,7 +620,7 @@ Když máte srdce oceňování, pak je všechno krásné; každý plátek květi
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:392-cs
+  :CITE-KEY: SCA:399-cs
   :END:
 
 
@@ -632,15 +630,14 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
 
 
 
-* Část VI
+* Část VII [fn:SCA-400-401]
+
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:393e1-cs
+  :CITE-KEY: SCA:400e1-cs
   :END:
-
-[FN:part-6]
 
 
 
@@ -649,11 +646,12 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:393-cs
+  :CITE-KEY: SCA:400-cs
   :END:
 
 
 /Sri Chinmoy:/ Byl jsem v mnoha, mnoha zemích a duše každé země mě zahrnula ohromnou náklonností, láskou, oceněním, obdivem a rovněž úctou. Duše Barmy mi však dala novou zkušenost. Asi ve 4:30 dnes ráno ke mně duše přišla s takovou náklonností a začala mě kárat. Řekla: „Proč jsi mě nepřijel navštívit alespoň před patnácti lety? Co s tebou bylo?“ Bylo to tak mocné, emocionální pokárání, ale bylo plné náklonnosti! Mluvila se mnou jako teta: „Kolikrát jsi byl v Indii, ale ani jednou jsi nenavštívil svou tetu!“ Žádná jiná země mě nikdy nekárala, ale tato mě opravdu požehnala svými láskou rozrušenými pocity.
+
 
 
 * Cítíte v Barmě Buddhovo vědomí?
@@ -661,7 +659,7 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:394-cs
+  :CITE-KEY: SCA:401-cs
   :END:
 
 
@@ -669,26 +667,22 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
 
 
 
-* Část VII
+* Část VIII [fn:SCA-402]
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:395e1-cs
+  :CITE-KEY: SCA:402e1-cs
   :END:
 
 
-[FN:note-7]
 
-
-
-
-* 1.
+* Modlitba k Pánu Buddhovi
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS: prayer
-  :CITE-KEY: SCA:395-cs
+  :CITE-KEY: SCA:402-cs
   :END:
   
   
@@ -712,38 +706,26 @@ Ticho Absolutního Nejvyššího a nikdy nepoznatelné Skutečnosti ti požehnal
 +  :PROPERTIES:
 +  :GENRE: note
 +  :KEYWORDS:
-+  :CITE-KEY: SCA:
++  :CITE-KEY: SCA:403e1-cs
 +  :END:
 
+Čás
 
-[FN:part-1] SCA 362-370.
+[fn:SCA-366] SCA 366.
 
-18. ledna 1996, během série mírových koncertů v Jižní Africe, uspořádal Sri Chinmoy tiskovou konferenci v South Beach Holiday Inn v Durbanu. Následuje její přepis.
+[fn:SCA-367-375] SCA 367-375 /18. ledna 1996, během série mírových koncertů v Jižní Africe, uspořádal Sri Chinmoy tiskovou konferenci v South Beach Holiday Inn v Durbanu. Následuje její přepis./
 
-[FN:part-2] SCA 371-372.
+[fn:SCA-376-377] SCA 376-377 /25. května 1996 odpověděl Sri Chinmoy na  několik otázek televizního producenta a spisovatele Joela Martina./
 
-25. května 1996 odpověděl Sri Chinmoy na  několik otázek televizního producenta a spisovatele Joela Martina.
+[fn:SCA-378-388] SCA 378-388 /19. února 1996 se setkali Sri Chinmoy a japonský skladatel a koncertní klavírista Masanobu Ikemiya v Annam Brahma restauraci v newyorském Qeensu. Pan Ikemiya a jeho přátelé položili následující otázky./
 
-[FN:part-3] SCA 373-383.
+[fn:SCA-389-394] SCA 389-394 /Následující otázky byly zodpovězeny 26. května 1996./
 
-19. února 1996 se setkali Sri Chinmoy a japonský skladatel a koncertní klavírista Masanobu Ikemiya v Annam Brahma restauraci v newyorském Qeensu. Pan Ikemiya a jeho přátelé položili následující otázky.
+[fn:SCA-395-399] SCA 395-399 /Následující otázky položili Sri Chinmoyovi jeho žáci dne 6. ledna 1995 během jeho návštěvy v Myanmar./
 
+[fn:SCA-400-401] SCA 400-401 /Následující otázky byly zodpovězeny 28. prosince 1994./
 
-[FN:part-4] SCA 384-389.
-
-Následující otázky byly zodpovězeny 26. května 1996.
-
-[FN:part-5] SCA 390-394.
-
-Následující otázky položili Sri Chinmoyovi jeho žáci dne 6. ledna 1995 během jeho návštěvy v Myanmar.
-
-[FN:part-6] SCA 395-396.
-
-Následující otázky byly zodpovězeny 28. prosince 1994.
-
-[FN:note-7] SCA 397.
-
-9. ledna 1995 se Sri Chinmoy jako čestný host zúčastnil oběda a kulturního programu sponzorovaného Ministerstvem náboženství a organizací Tipitaka Nykarya Upahsaka Sasana -- buddhistickou kulturní skupinou -- v Kaba Aye Pagodě v barmském hlavním městě Yangonu. Během programu pronesl Sri Chinmoy následující modlitbu k Pánu Buddhovi.
+[fn:SCA-402] SCA 402 /9. ledna 1995 se Sri Chinmoy jako čestný host zúčastnil oběda a kulturního programu sponzorovaného Ministerstvem náboženství a organizací Tipitaka Nykarya Upahsaka Sasana -- buddhistickou kulturní skupinou -- v Kaba Aye Pagodě v barmském hlavním městě Yangonu. Během programu pronesl Sri Chinmoy následující modlitbu k Pánu Buddhovi./
 
 
 
