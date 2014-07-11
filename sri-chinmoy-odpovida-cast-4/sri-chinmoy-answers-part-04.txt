@@ -19,15 +19,16 @@
 
 
 
-* Část I.
+* Část I
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:109e1-cs
+  :CITE-KEY: SCA:114e1-cs
   :END:
 
-/2. dubna 1988 byl Sri Chinmoy pozván, aby meditoval se sestrami a matkou představenou benediktýnského kláštera Heiligenkreuz v Churu nedaleko města Zug ve Švýcarsku. Potom odpovídal na jejich otázky. Přepis tohoto setkání následuje./
+
+[fn:part-1]
 
 
 * Meditace v klášteře Heiligenkreuz
@@ -35,7 +36,7 @@
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:109-cs
+  :CITE-KEY: SCA:114-cs
   :END:
 
 
@@ -50,7 +51,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:110-cs
+  :CITE-KEY: SCA:115-cs
   :END:
 
 
@@ -62,7 +63,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:111-cs
+  :CITE-KEY: SCA:116-cs
   :END:
 
 
@@ -78,7 +79,7 @@ Je to jako jít do zahrady a trhat krásné květiny. Položíme tyto květiny n
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:112-cs
+  :CITE-KEY: SCA:117-cs
   :END:
 
 
@@ -95,7 +96,7 @@ Záleží na mém vlastním vědomí, jak k němu přistupuji: jako k někomu, k
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:113-cs
+  :CITE-KEY: SCA:118-cs
   :END:
 
 
@@ -107,7 +108,7 @@ Záleží na mém vlastním vědomí, jak k němu přistupuji: jako k někomu, k
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:114-cs
+  :CITE-KEY: SCA:119-cs
   :END:
 
 
@@ -124,7 +125,7 @@ Modlím se a medituji od svého dětství. Bůh mě tedy ze svého nekonečného
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:115-cs
+  :CITE-KEY: SCA:120-cs
   :END:
 
 
@@ -139,7 +140,7 @@ Hinduismus, křesťanství, judaismus, islám a všechny ostatní náboženství
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:116-cs
+  :CITE-KEY: SCA:121-cs
   :END:
 
 
@@ -154,7 +155,7 @@ Krišna, Buddha, Kristus a několik dalších jsou pro mě jedním, mají jen ro
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:117-cs
+  :CITE-KEY: SCA:122-cs
   :END:
 
 
@@ -167,7 +168,7 @@ Krišna, Buddha, Kristus a několik dalších jsou pro mě jedním, mají jen ro
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:118-cs
+  :CITE-KEY: SCA:123-cs
   :END:
 
 
@@ -182,7 +183,7 @@ Když hovoříte o tom, že Bůh nám nabídl spásu, mluvíme o spasení od hř
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:119-cs
+  :CITE-KEY: SCA:124-cs
   :END:
 
 
@@ -193,15 +194,15 @@ Jsem vám velmi vděčný, Matko představená, že jsem zde mohl být. Před dv
 Podívejte se na nesmírnost vašeho srdce. Vy jste se narodila jako křesťanka, já zase jako hinduista, a přesto jste pro mne nalezla ve svém srdci místo. Pozvala jste mě, abych zde nabídnul bohoslužbu. Podívejte se, jak se svět vyvíjí! Jedna Matka představená mě pokárala a napadla, a vy jste mě požádala, abych zde nabídl své oduševnělé modlitby. Tohle je způsob, jak děláme pokrok a těšíme našeho Nebeského Otce.
 
 
-* Část II.
+* Část II
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:120e1-cs
+  :CITE-KEY: SCA:125e1-cs
   :END:
 
-/11. července 1994 se Dr. Josephine Davisová, prezidentka York College -- části Neworské městské univerzity sídlící v Queensu -- setkala se Sri Chinmoyem v restauraci Annam Brahma. Následují výňatky z jejich rozhovoru./
+[fn:part-2]
 
 
 
@@ -210,7 +211,7 @@ Podívejte se na nesmírnost vašeho srdce. Vy jste se narodila jako křesťanka
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:120-cs
+  :CITE-KEY: SCA:125-cs
   :END:
 
 
@@ -218,19 +219,17 @@ Podívejte se na nesmírnost vašeho srdce. Vy jste se narodila jako křesťanka
 
 Poté co jsem navštívila Nagasaki, Hirošimu, Berlín a tábor Dachau v Německu, kde pronásledovali Židy, jsem se skutečně musela oddat práci pro míruplný život. Když vidíme brutalitu a hrůzy těchto míst, není možné dále podporovat zlé pocity mezi lidmi. Často se snažím hovořit se svými studenty o zážitcích, které jsem měla na těchto čtyřech místech, protože si myslím, že to byly ty nejotřesnější ze všech, které jsem v životě měla.
 
-
 /Sri Chinmoy:/ V Dachau jsem nikdy nebyl, ale byl jsem mnohokrát v Nagasaki, Hirošimě a Berlíně. Byla jste někdy v Kamakuře v Japonsku? Pro mě je to jedno z nejmíruplnějších míst na zemi. Existují tisíce soch pána Buddhy, ale ta veliká socha v Kamakuře v sobě nese bezmezný mír. Když tam přijdete, bez ohledu na to, jak jste neklidná, nakolik vás vaše mysl toho dne obtěžuje a nakolik jste vtažena do každodenního shonu, jakmile stojíte před touto sochou, váš veškerý vnitřní zmatek je rázem odplaven. Tato socha ztělesňuje ten nejmocnější mír, jaký si kdy můžeme představit či cítit.
 
 
-* /Dr. Davisová:/ V této fázi mého života cítím, že potřebuji více meditovat. Během posledního měsíce jsem opakovala mantry a meditovala na srdce.
 
+* Dr. Davisová: V této fázi mého života cítím, že potřebuji více meditovat. Během posledního měsíce jsem opakovala mantry a meditovala na srdce.
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:121-cs
+  :CITE-KEY: SCA:126-cs
   :END:
-
 
 /Sri Chinmoy:/ Když meditujete na srdce, jestli vám nevadí má připomínka, můžete dělat ještě několik věcí. Bez ohledu na to, ve kterou denní dobu meditujete, dokonce i když je to večer, představte si na několik málo vteřin vycházející slunce. Představte si, že slunce vychází a vyzařuje světlo uvnitř vašeho srdce. Anebo si můžete představit tu nejkrásnější a nejčistší květinu, jak rozkvétá lístek po lístku ve vašem srdci.
 
@@ -240,21 +239,18 @@ Z vycházejícího slunce či nejkrásnější květiny, jíž jste se stala, bu
 
 
 
-* /Dr. Davisová:/ Je v pořádku, když se s vámi podělím o to, co jsem používala jako mantru? Nevadí, že Vám to říkám?
+* Dr. Davisová: Je v pořádku, když se s vámi podělím o to, co jsem používala jako mantru? Nevadí, že Vám to říkám?
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:122-cs
+  :CITE-KEY: SCA:127-cs
   :END:
 
 
 /Sri Chinmoy:/ Vadilo by to, kdybyste mi to říkala před ostatními. Mantru, kterou používáte, by ostatní neměli slyšet. Je to v pořádku, když to řeknete soukromě duchovnímu Mistrovi, jako jsem třeba já, protože se s vámi vždy dokážu sladit, ale ostatní nemohou. V Indii se říká, že pokud se podělíme o svou mantru s ostatními, její vnitřní síla zmizí. Mantra, kterou opakujete, je jako váš životní dech. Zopakujete ji milionkrát, bilionkrát. Je součástí vaší božské skutečnosti. Toto vaše nejposvátnější vlastnictví představuje vaši samotnou existenci na zemi; proto nemá být sdílena. Pouze vy, Bůh a ten, kdo vás požehnal touto mantrou, by to měli vědět.
 
-
-
 /Dr. Davisová:/ Ale pokud si vezmu mantru z nějaké knihy, platí to stále?
-
 
 /Sri Chinmoy:/ Je to stejné. I když si ji vezmete z knihy, tato mantra je pro vás posvátná. 
 
@@ -262,7 +258,8 @@ Berete ji ve svém životě velmi vážně a to ji automaticky učiní velmi pos
 
 Jakmile se o ní zmíníte někomu jinému, bez ohledu na to, jak přátelská dotyčná osoba je, může vstoupit žárlivost a jiné negativní síly. Pokud si to osoba, které se o tom zmíníte, nezasluhuje, zničí vám ji. Je to jako s opicí. Řekněte, že máte nějakou velmi krásnou květinu a máte radost z její krásy a vůně. Pokud ukážete tuhle květinu opici, jenom otrhá okvětní lístky, protože to je v její přirozenosti. Podobně, pokud odhalíme svou mantru lidem, kteří se nemodlí a nemeditují, lidem, kteří jsou neklidní a plní sebepochybností, zničí vám její posvátnost. Jakmile se jí dotknou, její krása, čistota a božskost zmizí.
 
-* /Dr. Davisová:/ To jsem si neuvědomila. Člověk by si myslel, že je to právě naopak, že když se o něco podělíte, můžete tím růst.
+
+/Dr. Davisová:/ To jsem si neuvědomila. Člověk by si myslel, že je to právě naopak, že když se o něco podělíte, můžete tím růst.
 
 /Sri Chinmoy:/ Existuje několik věcí, o které se můžete podělit, a zároveň je několik věcí, o které se podělit nemůžete. Pokud jste zevnitř získala trvalý přísun Boží Lásky, Božího Zájmu, Božího Soucitu a Boží Milosti, pokud máte volný přístup k božskému bohatství, potom se o něj můžete a měla byste se podělit se svými blízkými podle jejich potřeby. Můžete jim vnitřně nabídnout svou nejčistší lásku a radost. Ale neměla byste se s nimi navenek dělit o tajný způsob, jak tyto věci získáváte. Tohle musí být velmi tajné a posvátné. Není to jejich záležitost. To, co jim dáváte, potřebují. Ale jak jste se ve vnitřním světě stala multimilionářem, to není nezbytné, aby věděli. 
 
@@ -274,12 +271,12 @@ Znovu, musíte vědět, kolik vnímavosti kdo má. Pětileté dítě dokáže sp
 
 
 
-* /Dr. Davisová:/ To je velmi zajímavé. Cesta k duchovnosti je velmi spletitá.
+* Dr. Davisová: To je velmi zajímavé. Cesta k duchovnosti je velmi spletitá.
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:123-cs
+  :CITE-KEY: SCA:128-cs
   :END:
 
 
@@ -296,7 +293,7 @@ V duchovním životě existují dvě hlavní cesty, které nás zavedou k našem
 
 Pokud si vyberete cestu mysli, budete často obtěžována sebepochybnostmi: „Dělám správnou věc?“ Nebo přijmete do své bytosti pochyby druhých. Budete se ptát sama sebe: „Co si myslí? Říkají, že mám správný směr?“ Ale pokud následujete srdce, potom to tak vůbec není. Zde existuje magnetická přitažlivost mezi /Bohem a vámi/. On je váš nejdražší Otec a vy jste jeho nejdražší dítě, takže oba dva používáte váš vlastní zvláštní magnetismus, abyste se navzájem přitáhli blíže.“
 
-/Dr. Davis:/ Takže jsem na správné dráze! Je dobře, že jsem vás navštívila. Potřebovala jsem tohle ujištění. Je to opravdu úžasné. Je to neuvěřitelné. Začala jsem meditovat na srdce, protože cítím, že abych se chránila, musím udržovat své srdce čisté. Ráda vyzařuji mír, lásku a radost a mám ráda, když z mého obličeje vychází úsměv a záře. Aby mohl můj obličej tohle ukázat, musím to cítit uvnitř. Snažím se udržovat své srdce jako otevřenou nádobu. Je ve mně určitá mladistvost. Snažím se uvnitř cítit mladistvá, živá a energická a doufám, že to vyzařuje.
+/Dr. Davisová:/ Takže jsem na správné dráze! Je dobře, že jsem vás navštívila. Potřebovala jsem tohle ujištění. Je to opravdu úžasné. Je to neuvěřitelné. Začala jsem meditovat na srdce, protože cítím, že abych se chránila, musím udržovat své srdce čisté. Ráda vyzařuji mír, lásku a radost a mám ráda, když z mého obličeje vychází úsměv a záře. Aby mohl můj obličej tohle ukázat, musím to cítit uvnitř. Snažím se udržovat své srdce jako otevřenou nádobu. Je ve mně určitá mladistvost. Snažím se uvnitř cítit mladistvá, živá a energická a doufám, že to vyzařuje.
 
 /Sri Chinmoy:/ Když na sebe budete každý den myslet jako na dítě, jemuž jsou čtyři nebo pět let, potom bude váš život oplývat dětskou prostotou, upřímností a čistotou.
 
@@ -308,12 +305,12 @@ Každé dítě je novým Božím snem přinášejícím lásku, nic než lásku.
 
 
 
-* /Dr. Davisová:/ To je krásné. Můj manžel a já jsme si užili váš koncert, když jsme tam byli. Bylo úžasné vidět vás hrát na tolik rozličných nástrojů. Ani jsem neznala názvy některých z nich.
+* Dr. Davisová: To je krásné. Můj manžel a já jsme si užili váš koncert, když jsme tam byli. Bylo úžasné vidět vás hrát na tolik rozličných nástrojů. Ani jsem neznala názvy některých z nich.
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:124-cs
+  :CITE-KEY: SCA:129-cs
   :END:
 
 
@@ -327,12 +324,12 @@ Před meditací je lepší dvě hodiny nejíst. Můžete si dát šálek čaje n
 
 
 
-* /Dr. Davisová:/ Všimla jsem si, že všichni nosí pohodlné, volné oblečení. Je to důležité?
+* Dr. Davisová: Všimla jsem si, že všichni nosí pohodlné, volné oblečení. Je to důležité?
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:125-cs
+  :CITE-KEY: SCA:130-cs
   :END:
 
 
@@ -340,12 +337,12 @@ Před meditací je lepší dvě hodiny nejíst. Můžete si dát šálek čaje n
 
 
 
-* /Dr. Davisová/: Zdá se mi, že když člověk začíná na duchovní cestě, právě tehdy k němu přicházejí zlé věci intenzivnějším tempem.
+* Dr. Davisová: Zdá se mi, že když člověk začíná na duchovní cestě, právě tehdy k němu přicházejí zlé věci intenzivnějším tempem.
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:126-cs
+  :CITE-KEY: SCA:131-cs
   :END:
 
 
@@ -354,18 +351,18 @@ Když jste nám minule řekla, že nemůžete přijít na setkání, na kterém 
 
 
 
-/ Dr. Davisová/: Objevil jste se v době, kdy jsem skutečně potřebovala přijít. Ale bylo to jako lavina krizí, se kterými jsem se musela potýkat. Takže dnes, když přišel můj asistent a řekl: „Sri Chinmoy vás zve, ale já vím, vy nemůžete jít,“ řekla jsem: „Ne, budu tam.“ Když zmínil vaše jméno, řekla jsem si, že bych zrušila všechno.
+/Dr. Davisová/: Objevil jste se v době, kdy jsem skutečně potřebovala přijít. Ale bylo to jako lavina krizí, se kterými jsem se musela potýkat. Takže dnes, když přišel můj asistent a řekl: „Sri Chinmoy vás zve, ale já vím, vy nemůžete jít,“ řekla jsem: „Ne, budu tam.“ Když zmínil vaše jméno, řekla jsem si, že bych zrušila všechno.
 Když jsem začala s meditací, chodívala jsem do knihkupectví s náboženskou literaturou a vybírala si knihy, které jste napsal vy. Znala jsem vaše jméno, když jsem byla v Georgii a Minnesotě. Aniž bych vás znala, četla jsem vaše knihy. Když jsem se dozvěděla, že žijete v New Yorku, byla jsem prostě ohromená. Říkala jsem si: „Sri Chinmoy je v Jamaice v New Yorku! Tomu nemohu uvěřit!“ Myslela jsem si, že bych musela do Himalájí, abych vás viděla.
 Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme začít dělat něco s duchem, necháme to na mysli a řekneme si: „Dělám správnou věc? Mám se vzdát, nebo pokračovat?“ Setkání jako tohle říká: „Děláš správnou věc.“ Nyní jsem se ujistila. 
 
 
 
-* Mohu se vás zeptat na význam svíček a pálení vonných tyčinek?
+* Dr. Davisová: Mohu se vás zeptat na význam svíček a pálení vonných tyčinek?
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:127-cs
+  :CITE-KEY: SCA:132-cs
   :END:
 
 
@@ -373,12 +370,12 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
 
 
 
-* /Dr. Davisová:/ Záleží na barvě?
+* Dr. Davisová: Záleží na barvě?
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:128-cs
+  :CITE-KEY: SCA:133-cs
   :END:
 
 
@@ -386,12 +383,12 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
 
 
 
-* /Dr. Davisová:/ Lotos je můj oblíbený! Používám lotos jako symbol svého života. Už jsem vám říkala dříve, že když přemýšlím o svém životě, říkám, že jsem zakořeněna ve vodě.
+* Dr. Davisová: Lotos je můj oblíbený! Používám lotos jako symbol svého života. Už jsem vám říkala dříve, že když přemýšlím o svém životě, říkám, že jsem zakořeněna ve vodě.
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:129-cs
+  :CITE-KEY: SCA:134-cs
   :END:
 
 
@@ -408,39 +405,49 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
 
 
 
-* Část III.
+* Část III
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:130e1-cs
+  :CITE-KEY: SCA:135e1-cs
   :END:
 
-/24. dubna 1993 se Sri Chinmoy setkal s Russellem Wilsonem, jenž byl tehdy personálním ředitelem Výboru pro asijské a pacifické záležitosti ve Sněmovně reprezentantů Spojených států. Následující neformální rozhovor se odehrál v resturaci Annam Brahma v Queensu v New Yorku./
+[fn:part-3]
 
 
-* Setkání s Russellem Wilsonem
+
+* Russell Wilson: Chci vám říci, že jsem cítil, že se s vámi musím setkat. Četl jsem jednu z vašich knih a některé vaše básně. Našel jsem v nich velkou inspiraci. Cítil jsem, že se s vámi potřebuji setkat, abych se od vás mohl učit.
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:130-cs
+  :CITE-KEY: SCA:135-cs
   :END:
 
-/Russell Wilson:/ Chci vám říci, že jsem cítil, že se s vámi musím setkat. Četl jsem jednu z vašich knih a některé vaše básně. Našel jsem v nich velkou inspiraci. Cítil jsem, že se s vámi potřebuji setkat, abych se od vás mohl učit.
 
 /Sri Chinmoy:/ Jsem vám velmi vděčný za váš milý dopis. Rozumím tomu tak, že již praktikujete meditaci po několik let. Jsem na vás velmi hrdý -- na upřímnost, jasnost a osvícenost vaší mysli a na opravdovou lásku vašeho srdce k Bohu. Váš život je životem čistota a sebedávající jednoty se světem aspirace. Těch několik minut, které jsem zde s vámi meditoval, jsem viděl, že jste velmi vnímavý. Obdržel jste to, co vám to božské ve mně chtělo nabídnout. Za to jsem velmi šťastný, velmi hrdý na vás a velmi vám vděčný.
 
-/Russell Wilson:/ Cítím vás uvnitř sebe, Guru.
 
-/Sri Chinmoy:/ Ve chvíli kdy jsem přišel a uviděl vás, při prvním pohledu jsem vstoupil do největších hlubin vašeho srdce, do ústředního bytosti vašeho života. Máte nějakou konkrétní otázku, na kterou byste se mě rád zeptal? Rád bych vám byl k službám.
 
-* /Russell Wilson:/ Je to pro mne taková čest, pane. Cítím vás tak silně, že je obtížné hovořit. Ale je to velmi příjemný a krásný pocit. Hledám vnitřní mír a cítil jsem s vámi velmi silné vnitřní spojení. Pokud byste mne přijal, rád bych se od vás učil.
+* Russell Wilson: Cítím vás uvnitř sebe, Guru.
+
+  :PROPERTIES:
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:136-cs
+  :END:
+
+/Sri Chinmoy:/ Ve chvíli kdy jsem přišel a uviděl vás, při prvním pohledu jsem vstoupil do největších hlubin vašeho srdce, do ústřední bytosti vašeho života. Máte nějakou konkrétní otázku, na kterou byste se mě rád zeptal? Rád bych vám byl k službám.
+
+
+
+* Russell Wilson: Je to pro mne taková čest, pane. Cítím vás tak silně, že je obtížné hovořit. Ale je to velmi příjemný a krásný pocit. Hledám vnitřní mír a cítil jsem s vámi velmi silné vnitřní spojení. Pokud byste mne přijal, rád bych se od vás učil.
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:131-cs
+  :CITE-KEY: SCA:137-cs
   :END:
 
 /Sri Chinmoy:/ Vše je vzájemné. Nemůžeme tleskat jednou rukou, potřebujeme ruce dvě. Také zde vidíme vzájemné přijetí našich dvou srdcí. Toto přijetí se může stát trvale osvětlujícím a naplňujícím, pokud dokážete zůstat za polem působnosti zemí spoutané mysli. Srdce vytváří svou jednotu na základě jeho vnitřní čistoty, krásy a božskosti. Ale protože lidská mysl ještě nebyla osvícena světlem shůry či zevnitř, má tendenci zpochybňovat čistotu, krásu a božskost, jež vidíme a cítíme uvnitř našeho srdce. Všechno, co je uvnitř nás božské, naše mysl zpochybňuje.
@@ -456,12 +463,12 @@ Pokud vezmete toto vnitřní bohatství, které máte uvnitř svého srdce, a d�
 
 
 
-* /Russell Wilson:/ Jak se dostanu ke svému srdci?
+* Russell Wilson: Jak se dostanu ke svému srdci?
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:132-cs
+  :CITE-KEY: SCA:138-cs
   :END:
 
 
@@ -475,24 +482,26 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
 
 
 
-* /Russell Wilson:/ Guru, vaše filozofie už mě inspirovala dřív. Mám jednu z vašich básní ve své kanceláři. Ukazuji tuhle báseň každému, kdo tam přijde. A kdykoliv cítím, že začínám mít vztek nebo jsem podrážděný, podívám se na ni. Kdykoliv se objeví nějaký problém, jako první věc si přečtu tuhle báseň, a teprve potom jej začnu řešit. Dostane mě to zpět k základní skutečnosti, že nemůžete nic zlepšit, dokud nezlepšíte sebe. Ukázal jsem tuhle báseň své ženě, která je fyzioterapeutkou. Pracuje s velmi nemocnými dětmi.
+* Russell Wilson: Guru, vaše filozofie už mě inspirovala dřív. Mám jednu z vašich básní ve své kanceláři. Ukazuji tuhle báseň každému, kdo tam přijde. A kdykoliv cítím, že začínám mít vztek nebo jsem podrážděný, podívám se na ni. Kdykoliv se objeví nějaký problém, jako první věc si přečtu tuhle báseň, a teprve potom jej začnu řešit. Dostane mě to zpět k základní skutečnosti, že nemůžete nic zlepšit, dokud nezlepšíte sebe. Ukázal jsem tuhle báseň své ženě, která je fyzioterapeutkou. Pracuje s velmi nemocnými dětmi.
 
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:133-cs
+  :CITE-KEY: SCA:139-cs
   :END:
 
 
 /Sri Chinmoy:/ Podívejte se na její soucit! Někteří z nás jsou nemocní fyzicky, ale spousta z nás je nemocná mentálně. Když nemilujeme Boha, jsme mentálně nemocní. Když nedokážeme milovat Boha, když nedokážeme udělat tu správnou věc a nechceme se stát správnými lidmi, potom naše vnitřní zdraví není rozhodně dobré.
 
-* /Russell Wilson:/ Když jsem viděl vaši tvář na videu, nějak jsem se cítil být k vám přitahován. Nedokážu to vysvětlit.
+
+
+* Russell Wilson: Když jsem viděl vaši tvář na videu, nějak jsem se cítil být k vám přitahován. Nedokážu to vysvětlit.
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:134-cs
+  :CITE-KEY: SCA:140-cs
   :END:
 
 /Sri Chinmoy:/ Je to magnetická přitažlivost srdce. Vnitřní pláč vašeho vlastního srdce je touto přitažlivostí. Vaše srdce mě přitahuje směrem k vám a mé srdce přitahuje vás směrem ke mně. Je to naše píseň jednoty srdce.
@@ -502,12 +511,12 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
 
 
 
-* /Russell Wilson:/ Vím z toho videa, že jste byl velmi blízký U Thantovi.
+* Russell Wilson: Vím z toho videa, že jste byl velmi blízký U Thantovi.
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:135-cs
+  :CITE-KEY: SCA:141-cs
   :END:
 
 
@@ -517,7 +526,15 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
 
 /Sri Chinmoy:/ Léta a léta jsem se vyhříval na slunci jeho náklonnosti. Je to tak dobrý přítel, takový bratr. Pokaždé, když si vzpomenu na jeho jméno, mé srdce okamžitě zaplní bezmezná láska a bezmezná vděčnost.
 
-/Russell Wilson:/ Ani jsem nevěděl, že jej znáte, když jsem se poprvé rozhodl, že vás musím vidět.
+
+
+* Russell Wilson: Ani jsem nevěděl, že jej znáte, když jsem se poprvé rozhodl, že vás musím vidět.
+
+  :PROPERTIES:
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:142-cs
+  :END:
 
 /Sri Chinmoy:/ Všechno závisí na hodině Boha. Když tato hodina udeří, vidíme realitu, cítíme realitu a realitou se stáváme. Tuhle píseň jsem složil před mnoha lety na počest Garyho Ackermana. Moji studenti ji nyní zazpívají. Přijeli z celého světa slavit výročí mého příjezdu do Ameriky před 29 lety. Jsou z Velké Británie, Francie, Rakouska, Japonska a dalších míst. 
 
@@ -527,12 +544,14 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
 
 /Russell Wilson:/ On cítí to samé k vám, Guru.
 
-* /Russell Wilson:/. To je neuvěřitelné, skutečně úžasné -- musím vám říci, že dokonce ještě před tím, než jsem se s vámi sešel, zasáhl jste do mého života svou poezií a filozofií. Věděl jsem, že jste někdo velmi zvláštní, a chtěl jsem se od vás opravdu učit. Ale cítil jsem, že to není možné bez toho, že bych vás potkal. Děkuji vám za tu čest, že jsem se s vámi mohl setkat. Chci vám jen říci, jak moc obdivuji vaši jasnost a moudrost a jak moc jste ovlivnil můj život.
+
+
+* Russell Wilson:. To je neuvěřitelné, skutečně úžasné - musím vám říci, že dokonce ještě před tím, než jsem se s vámi sešel, zasáhl jste do mého života svou poezií a filozofií. Věděl jsem, že jste někdo velmi zvláštní, a chtěl jsem se od vás opravdu učit. Ale cítil jsem, že to není možné bez toho, že bych vás potkal. Děkuji vám za tu čest, že jsem se s vámi mohl setkat. Chci vám jen říci, jak moc obdivuji vaši jasnost a moudrost a jak moc jste ovlivnil můj život.
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:136-cs
+  :CITE-KEY: SCA:143-cs
   :END:
 
 
@@ -548,13 +567,13 @@ Byly doby, kdy byli vaši rodiče celým vaším světem. Nyní se celé lidstvo
 
 
 
-* /Russell Wilson:/ Bez duchovního uspokojení je velmi těžké tuhle práci dělat.
+* Russell Wilson: Bez duchovního uspokojení je velmi těžké tuhle práci dělat.
 
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:137-cs
+  :CITE-KEY: SCA:144-cs
   :END:
 
 
@@ -572,12 +591,12 @@ Napsal jsem kdysi něco o politice a duchovnosti, co vyšlo v jednom indickém �
 
 
 
-* /Russell Wilson:/ Guru, chci se vás zeptat na jednu velmi obtížnou otázku. Proč v Indii, která je považována za centrum všech náboženství a kde duchovnost hraje tak důležitou roli, je tolik konfliktů a napětí?
+* Russell Wilson: Guru, chci se vás zeptat na jednu velmi obtížnou otázku. Proč v Indii, která je považována za centrum všech náboženství a kde duchovnost hraje tak důležitou roli, je tolik konfliktů a napětí?
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:138-cs
+  :CITE-KEY: SCA:145-cs
   :END:
 
 
@@ -593,12 +612,12 @@ Něco podobného se nyní děje v bývalém Sovětském svazu. Prezident Gorbač
 
 
 
-* /Russell Wilson:/ Mohu se vás zeptat ještě na několik otázek ohledně meditace? Kdy je nejlepší čas meditovat a jak dlouho mám meditovat?
+* Russell Wilson: Mohu se vás zeptat ještě na několik otázek ohledně meditace? Kdy je nejlepší čas meditovat a jak dlouho mám meditovat?
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:139-cs
+  :CITE-KEY: SCA:146-cs
   :END:
 
 
@@ -608,12 +627,14 @@ Když meditujete brzy ráno, je to jako vydělávat si duchovní výplatu. Medit
 
 Je rovněž dobré, když můžete přes den každou hodinu meditovat. Nemusí to být přesně na hodinu. Pouze si každou hodinu udělejte minutu nebo dvě a myslete na Boha a mluvte k Němu. Nikdo nebude vědět, co děláte. Navenek můžete hovořit se svými kolegy, ale vnitřně hovoříte k Bohu. Můžete jen opakovat Boží Jméno. Můžete říkat „Bože“ nebo „Nejvyšší“ nebo cokoli vám vyhovuje. Ti, kdo následují naši životní cestu, používají termín „Nejvyšší“. Když říkám „Nejvyšší“, cítím okamžitě větší vnitřní spojení s Bohem. Stejným způsobem získá dítě intimnější pocit, když říká svému otci „tati“ namísto „otče“. Ale když se modlíte a meditujete, můžete mu říkat, jak chcete.
 
-* /Russell Wilson:/ Jste zastánce meditace s očima otevřenýma, nebo zavřenýma?
+
+
+* Russell Wilson: Jste zastánce meditace s očima otevřenýma, nebo zavřenýma?
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:140-cs
+  :CITE-KEY: SCA:147-cs
   :END:
 
 
@@ -623,27 +644,26 @@ Není to tak, že musíte meditovat po určitou stanovenou dobu. Ne! Co je důle
 
 
 
-* Část IV.
+* Část IV
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:141e1-cs
+  :CITE-KEY: SCA:148e1-cs
   :END:
 
-/Následující otázky byly položeny Paní Noemi Kovandovou, ženou českého velvyslance v OSN, během setkání se Sri Chinmoyem v restauraci Annam Brahma dne 13. června 1994/
-./
+[fn:part-4]
 
 
-* Otázky položené paní Noemi Kovandovou
+
+* Paní Kovandová: Musím vám říci, že naše dítě je pro nás každým dnem větší a větší radostí. Ráda bych cítila to, co cítí on!
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:141-cs
+  :CITE-KEY: SCA:148-cs
   :END:
 
-/Paní Kovandová:/ Musím vám říci, že naše dítě je pro nás každým dnem větší a větší radostí. Ráda bych cítila to, co cítí on!
 
 /Sri Chinmoy:/ Každý den vám přináší novou překvapující radost. Váš syn je ta nejkrásnější květina, nejkrásnější růže s mnoha okvětními lístky, a lístek po lístku každý den rozkvétá. Každý den rozkvétá v zahradě jeho srdce nová květina; v každém okamžiku, ve dne či noci, se rozvíjí její okvětní lístky.
 
@@ -651,13 +671,13 @@ Pokud chcete cítit to, co cítí on, můžete meditovat na jeho srdce, obzvlá�
 
 
 
-* /Paní Kovandová:/Ráda bych se vás zeptala, jak mám meditovat, pokud jde o dítě.
+* Paní Kovandová: Ráda bych se vás zeptala, jak mám meditovat, pokud jde o dítě.
 
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:142-cs
+  :CITE-KEY: SCA:149-cs
   :END:
 
 
@@ -669,12 +689,12 @@ Když se modlíte za své dítě, je ještě jedna věc, kterou můžete dělat.
 
 
 
-* /Paní Kovandová:/ Co mám dělat pro svého muže?
+* Paní Kovandová: Co mám dělat pro svého muže?
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:143-cs
+  :CITE-KEY: SCA:150-cs
   :END:
 
 
@@ -684,12 +704,12 @@ Když přijde na konci dne zpět domů unavený a vyčerpaný, přinese sebou do
 
 
 
-* /Paní Kovandová:/ Je pro mě velmi obtížné modlit se pro něco jiného než pro zdraví, protože zdraví je tak důležité. Cítím se sobecká, když se modlím pro něco jiného.
+* Paní Kovandová: Je pro mě velmi obtížné modlit se pro něco jiného než pro zdraví, protože zdraví je tak důležité. Cítím se sobecká, když se modlím pro něco jiného.
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:144-cs
+  :CITE-KEY: SCA:151-cs
   :END:
 
 
@@ -697,12 +717,12 @@ Když přijde na konci dne zpět domů unavený a vyčerpaný, přinese sebou do
 
 
 
-* /Paní Kovandová:/ Mám se modlit v tichosti nebo nahlas?
+* Paní Kovandová: Mám se modlit v tichosti nebo nahlas?
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:145-cs
+  :CITE-KEY: SCA:152-cs
   :END:
 
 
@@ -719,16 +739,24 @@ Naproti tomu když meditujete, musíte cítit, že jste princezna nebo královna
 
 
 
-* Notes
+* Poznámky
 
   :PROPERTIES:
   :GENRE: note
   :KEYWORDS:
-  :CITE-KEY: SCA:146e1-cs
+  :CITE-KEY: SCA:153e1-cs
   :END:
 
 
+[fn:part-1] SCA 114-124. /2. dubna 1988 byl Sri Chinmoy pozván, aby meditoval se sestrami a matkou představenou benediktýnského kláštera Heiligenkreuz v Churu nedaleko města Zug ve Švýcarsku. Potom odpovídal na jejich otázky. Přepis tohoto setkání následuje./
 
+
+[fn:part-2] SCA 125-134. /11. července 1994 se Dr. Josephine Davisová, prezidentka York College -- části Neworské městské univerzity sídlící v Queensu -- setkala se Sri Chinmoyem v restauraci Annam Brahma. Následují výňatky z jejich rozhovoru./
+
+[fn:part-3] SCA 135-147. /24. dubna 1993 se Sri Chinmoy setkal s Russellem Wilsonem, jenž byl tehdy personálním ředitelem Výboru pro asijské a pacifické záležitosti ve Sněmovně reprezentantů Spojených států. Následující neformální rozhovor se odehrál v resturaci Annam Brahma v Queensu v New Yorku./
+
+[fn:part-4] SCA 148-152. /Následující otázky byly položeny Paní Noemi Kovandovou, ženou českého velvyslance v OSN, během setkání se Sri Chinmoyem v restauraci Annam Brahma dne 13. června 1994/
+./
 
 
 
