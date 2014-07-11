@@ -19,16 +19,14 @@
 
 
 
-* Poznámka editora
+* Část I [fn:SCA-403-410] 
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:396e1-cs
+  :CITE-KEY: SCA:403e1-cs
   :END:
 
-
-/7. srpna 1995 se Sri Chinmoy setkal s doktorkou Elenou Vladimirskou, zástupkyní ředitele Výzkumného ústavu hematologické pediatrie v Moskvě a jejím mužem, vojenským důstojníkem ve výslužbě, v restauraci Annam Brahma v Jamaice v New Yorku. V průběhu tohoto setkání se dr. Vladimirskaja a její manžel zeptali Sri Chinmoye na několik duchovních otázek. Jejich otázky a jeho odpovědi jsou spolu s dalšími poznámkami jsou zachyceny na následujících stránkách./
 
 
 
@@ -37,7 +35,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:396-cs
+  :CITE-KEY: SCA:403-cs
   :END:
 
 
@@ -49,7 +47,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:397-cs
+  :CITE-KEY: SCA:404-cs
   :END:
 
 
@@ -62,7 +60,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:398-cs
+  :CITE-KEY: SCA:405-cs
   :END:
 
 
@@ -79,7 +77,7 @@ Když vstoupíme do zahrady, okamžitě si uvědomíme její krásu, čistotu a 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:399-cs
+  :CITE-KEY: SCA:406-cs
   :END:
 
 
@@ -96,7 +94,7 @@ Pokud se dítě chová jako cyklón a začne křičet a rozbíjet všechno v dom
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:400-cs
+  :CITE-KEY: SCA:407-cs
   :END:
 
 
@@ -113,7 +111,7 @@ Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyšš
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:401-cs
+  :CITE-KEY: SCA:408-cs
   :END:
 
 
@@ -123,26 +121,41 @@ Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyšš
 
 /Sri Chinmoy:/ Protože jste ředitelkou nemocnice, víte, jak naprosto nezbytné je Boží soucit a Boží láska pro tyto děti. V této inkarnaci tolik trpí. Dáváte jim pozemskou medicínu, která je vyléčí a dovolí jim zůstat na zemi dalších padesát nebo šedesát let. Ale pokud jim můžete dát i nebeskou medicínu -- což je modlitba nebo opakování Božího jména -- budou mít v příštím životě lepší inkarnaci. Nyní jim podáváte medicínu jednou rukou. Ale pokud jim dokážete podávat medicínu oběma rukama, pomůže jim nekonečně více. Bůh je i v pozemské medicíně, kterou jim dáváte, ale děti si Jej v ní neuvědomují. Pokud je dokážete přimět, aby se ráno modlily či opakovaly Boží jméno, budou si Boha více uvědomovat.
 
-/Dr. Vladimirskaja:/ Budeme se to snažit udělat, ale je to v naší zemi velmi obtížné, protože zde bylo náboženství po mnoho a mnoho let zakázáno. Nyní už není.
+
+
+* Dr. Vladimirskaja: Budeme se to snažit udělat, ale je to v naší zemi velmi obtížné, protože zde bylo náboženství po mnoho a mnoho let zakázáno. Nyní už není.
+
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: SCA:409-cs
+  :END:
 
 /Sri Chinmoy:/ Zde v Americe věří v Boha, ale modlit se je na školách zakázáno. Na školách nejsou modlitby povoleny.
 
-/Dr. Vladimirskaja:/ Je to velmi obtížná situace. Pokusíme se něco udělat. Snažíme se rovněž změnit situaci v naší nemocnici tím způsobem, abychom povolili každému dítěti být se svými rodiči. To je velmi důležité. Předtím to bylo zakázáno, ale nyní už může dítě se svou matkou, otcem a prarodiči být.
+
+
+* Dr. Vladimirskaja: Je to velmi obtížná situace. Pokusíme se něco udělat. Snažíme se rovněž změnit situaci v naší nemocnici tím způsobem, abychom povolili každému dítěti být se svými rodiči. To je velmi důležité. Předtím to bylo zakázáno, ale nyní už může dítě se svou matkou, otcem a prarodiči být.
+
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: SCA:410-cs
+  :END:
 
 /Sri Chinmoy:/ Laskavost je stejně důležitá jako medicína. V medicíně laskavost být nemusí. Ale uvnitř laskavosti je medicína vždy. Laskavost, kterou matka, otec, sestra a bratr dávají, je velkou pomocí. Velmi nemocnému dítěti pomáhá.
 
 
 
-* Poznámka editora
+* Část II [fn:SCA-411-412]
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:402e1-cs
+  :CITE-KEY: SCA:411e1-cs
   :END:
 
 
-/Následující otázky položili Sri Chinmoyovi jeho žáci v restauraci Annam Brahma v Jamaice v New Yorku 25. května 1996./
 
 
 
@@ -151,7 +164,7 @@ Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyšš
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:402-cs
+  :CITE-KEY: SCA:411-cs
   :END:
 
 
@@ -172,7 +185,7 @@ Neodrazuji tě. Mnohokrát jsi zažil radost svého srdce. Ale někdy je tento p
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:403-cs
+  :CITE-KEY: SCA:412-cs
   :END:
 
 
@@ -188,16 +201,13 @@ Naší potíží je, že tvrdě pracujeme, pořádáme přednášky a snažíme 
 
 
 
-* Poznámka editora
+* Část III [fn:SCA-413-419] 
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:404e1-cs
+  :CITE-KEY: SCA:413e1-cs
   :END:
-
-
-/Následující otázky položili žáci Sri Chinmoye na „Aspiration-Ground“ 22. června 1996./
 
 
 
@@ -206,7 +216,7 @@ Naší potíží je, že tvrdě pracujeme, pořádáme přednášky a snažíme 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:404-cs
+  :CITE-KEY: SCA:413-cs
   :END:
 
 
@@ -237,7 +247,7 @@ Jedinou útěchou je, že jsou lidé, kteří udělali obrovský, obrovský pokr
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:405-cs
+  :CITE-KEY: SCA:414-cs
   :END:
 
 
@@ -250,7 +260,7 @@ Jedinou útěchou je, že jsou lidé, kteří udělali obrovský, obrovský pokr
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:406-cs
+  :CITE-KEY: SCA:415-cs
   :END:
 
 
@@ -271,7 +281,7 @@ Pokud sis dal nízkou známku a cítíš, že jsi byl nestranný a dal sis sprav
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:407-cs
+  :CITE-KEY: SCA:416-cs
   :END:
 
 
@@ -294,7 +304,7 @@ Tak se Bůh Spravedlnost nemusí proměňovat v Boha Soucit. I když je hledají
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:408-cs
+  :CITE-KEY: SCA:417-cs
   :END:
 
 
@@ -309,7 +319,7 @@ Existují rovněž další způsoby. Jedním z nich je velmi, velmi pomalu se p
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:409-cs
+  :CITE-KEY: SCA:418-cs
   :END:
 
 
@@ -324,7 +334,7 @@ Další věc, kterou můžete vědomě a záměrně dělat, když máte vyšš�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:410-cs
+  :CITE-KEY: SCA:419-cs
   :END:
 
 
@@ -342,25 +352,22 @@ Jestliže nadřízení nedělají správné věci, potom je pro lidi pracující
 
 
 
-* Poznámka editora
+* Část IV [fn:SCA-420-425] 
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:411e1-cs
+  :CITE-KEY: SCA:420e1-cs
   :END:
 
 
-/Následující rozhovor s panem Radhakršnou Pathakem, spoluvydavatelem jistého deníku v Dillí, se odehrálo 2. září 1996 na Aspiration Ground./
 
-
-
-* 1.
+* Taková je Matka Kálí
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:411-cs
+  :CITE-KEY: SCA:420-cs
   :END:
 
 
@@ -370,7 +377,16 @@ Teď se vrátím zpět k Matce Kálí. Jednoho dne jsme měli závod na čtyři 
 
 Ze všech kosmických bohyní je Matka Kálí mou nejdražší Matkou. Je Matkou největší rychlosti a je také Matkou Soucitu. Všechny božské Matky, božské kosmické bohyně, mají Soucit, ale Matka Kálí je ve všem nejrychlejší. Můžete stokrát dělat chyby. Můžete si dlouho, velmi dlouho hovět v potěšení nevědomosti. Jakmile ale sestoupí její Milost, všechny naše slabosti, nedostatky a takzvané hříchy mohou být smazány, osvíceny či očištěny. Taková je Matka Kálí. Jsem šťastný, že se dovídám, že je vaše žena velmi oddaná Matce Kálí, protože se mnou je to úplně stejné.
 
-/Mr. Pathak:/ Nevím, kde jsem se tu vzal. Je to pouze skrze vaši milost. Jsem skutečně užaslý, že jsem zde.
+
+
+* Mr. Pathak: Nevím, kde jsem se tu vzal. Je to pouze skrze vaši milost. Jsem skutečně užaslý, že jsem zde.
+
+  :PROPERTIES:
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:421-cs
+  :END:
+  
 
 /Sri Chinmoy:/ Máte velmi krásnou duši. Rodiče vám dali nanejvýš krásné, oduševnělé jméno, Radhakršna. Ztělesňujete jak Radhu, tak i Kršnu. Radha byla samou láskou a oddaností vůči Kršnovi. Její láska ke Kršnovi neměla obdoby. A zároveň se podívejte na Kršnovu lásku k Radze. Mateřský aspekt v Radze je aspektem soucitu. Je jako magnet. Je nekonečně snazší jít k pánu Kršnovi skrze Radhu než jinak. Také v lidském životě je snazší jít k otci přes matku. Jakmile musíme jít k otci přímo, je to obtížné. Ale matka ví, kdy je otec dosažitelný a přístupný. Matka je mostem mezi dítětem a otcem, protože dítě má důvěrnější spojení se svou matkou než se svým otcem. Matka reprezentuje Matku Zemi. Otec reprezentuje Otce Nebe. Je obtížné jít přímo do Nebe. Potřebujeme most: matku. 
 
@@ -390,15 +406,42 @@ Narodil jsem se v Čittagongu. Když mi bylo jedenáct a půl, odešel jsem do �
 
 Máte nějakou konkrétní otázku, na kterou byste se rád zeptal?
 
-/Mr. Pathak:/ Otázky vždy přijdou a zase odejdou. Požehnejte mě prosím, abych mohl šířit vaše poselství.
+
+
+* Mr. Pathak: Otázky vždy přijdou a zase odejdou. Požehnejte mě prosím, abych mohl šířit vaše poselství.
+
+  :PROPERTIES:
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:422-cs
+  :END:
+  
 
 /Sri Chinmoy:/ Vaše duše mě kontaktovala nejméně před dvěma lety. Fyzicky jste přišel za svým Guruem až nyní, ale duchovně se se mnou vaše duše spojila nejméně před dvěma lety. Nyní jste přišel, aby došlo k vnějšímu seznámení, ale k vnitřnímu seznámení došlo už dávno.
 
-/Mr. Pathak:/ Dlouhá léta jsem v žádného Gurua nevěřil.
+
+
+* Mr. Pathak:/ Dlouhá léta jsem v žádného Gurua nevěřil.
+
+  :PROPERTIES:
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:423-cs
+  :END:
+  
 
 /Sri Chinmoy:/ Proč byste musel věřit v nějakého Gurua, pokud věříte sám v sebe? Pokud máte víru v sebe, znamená to, že máte víru v něco vyššího, božského, čistého a nesmrtelného. Nemusíte věřit v žádného Gurua, pokud věříte v sebe sama.
 
-/Mr. Pathak:/ Člověk se ale nemůže poznat bez Gurua.
+
+
+* Mr. Pathak:/ Člověk se ale nemůže poznat bez Gurua.
+
+  :PROPERTIES:
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:424-cs
+  :END:
+  
 
 /Sri Chinmoy:/ Co dělá Guru? Role Gurua je velmi prostá. Říká vám: „Podívej se, nevíš, co uvnitř sebe máš. Uvnitř tebe je pokladnice. V této pokladnici je ten nejkrásnější, nejdražší diamant, ale tys někam založil klíč. Mým úkolem je pomoci ti pátrat po tomto klíči. Budu po něm pátrat a najdu jej. Potom ti tento klíč dám a ty pokladnici otevřeš. Jakmile bude otevřena, uvidíš v sobě tento diamant. To je tvá božskost.“
 
@@ -436,7 +479,16 @@ Až se vrátíte do Dillí, můžete šířit světlo svého Gurua tím, že bud
 
 Pouhá vaše přítomnost dokáže inspirovat vaše přátelé, kolegy a vaše drahé. Věci, které nyní získáváte od svého Gurua či ze své vlastní aspirace, vystoupí do popředí a vy je budete schopen projevit. Jak zasejete, tak sklidíte. Zde jste zasil božskost; tam vystoupí vaše božskost do popředí.
 
-/Mr. Pathak:/ Občas mi brání strach, abych se otevřel. Drží mě zpět.
+
+
+* Mr. Pathak: Občas mi brání strach, abych se otevřel. Drží mě zpět.
+
+  :PROPERTIES:
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:425-cs
+  :END:
+  
 
 /Sri Chinmoy:/ Strach z čeho? Když byly vašim dětem dva roky, byl jste tak vysoký a statný. Bály se vás? Ne, protože věděly, že jste jejich otec. Vaše děti byly velmi malé, ale znaly vaši láskyplnost vůči nim a nebály se vás. Je to jako oceán. Kapka se nebojí oceánu, protože ví o své jednotě s ním. Malé dítě se nebojí svého vlastního otce, protože ví, že tato osoba je jeho otcem. Proč by se mělo bát lásky svého vlastního otce?
 
@@ -462,16 +514,13 @@ Kdokoliv má víru v Boha, prochází v určitou chvíli skrze temný tunel. Kdy
 
 
 
-* Poznámka editora
+* Část V [fn:SCA-426-435] 
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:412e1-cs
+  :CITE-KEY: SCA:426e1-cs
   :END:
-
-
-/Následují úryvky z interview, které Sri Chinmoy poskytl reportérovi The New York Times 3. dubna 1997 v restauraci Annam Brahma v newyorské Jamaice /
 
 
 
@@ -480,7 +529,7 @@ Kdokoliv má víru v Boha, prochází v určitou chvíli skrze temný tunel. Kdy
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:412-cs
+  :CITE-KEY: SCA:426-cs
   :END:
 
 
@@ -497,7 +546,7 @@ Jsem studentem míru a snažím se studovat tento předmět tím, že jej nabíz
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:413-cs
+  :CITE-KEY: SCA:427-cs
   :END:
 
 
@@ -510,7 +559,7 @@ Jsem studentem míru a snažím se studovat tento předmět tím, že jej nabíz
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:414-cs
+  :CITE-KEY: SCA:428-cs
   :END:
 
 
@@ -525,7 +574,7 @@ Prvním generálním tajemníkem byl Trygve Lie, potom Dag Hammarskjöld a po n�
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:415-cs
+  :CITE-KEY: SCA:429-cs
   :END:
 
 
@@ -538,7 +587,7 @@ Prvním generálním tajemníkem byl Trygve Lie, potom Dag Hammarskjöld a po n�
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:416-cs
+  :CITE-KEY: SCA:430-cs
   :END:
 
 
@@ -555,7 +604,7 @@ Ve všech sférách života je tomu stejně. Vloni se zdálo, že Carl Lewis ve 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:417-cs
+  :CITE-KEY: SCA:431-cs
   :END:
 
 
@@ -576,7 +625,7 @@ Ve všech sférách života je tomu stejně. Vloni se zdálo, že Carl Lewis ve 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:418-cs
+  :CITE-KEY: SCA:432-cs
   :END:
 
 
@@ -600,7 +649,7 @@ Pocházíte z Japonska?
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:419-cs
+  :CITE-KEY: SCA:433-cs
   :END:
 
 
@@ -623,25 +672,57 @@ Další vzácnou vlastností Gorbačova je, že je natolik upřímný a odvážn
 
 
 
-* Reportér: Dovolte mi, abych se vás zeptal na něco ohledně duchovnosti. Moc toho o Gorbačovovi nevím, ale mohu z toho vyvodit, že jej obdivujete z duchovního hlediska, způsobem, kterým obdivujete Matku Terezu a Svatého Otce?
+* Reportér: Dovolte mi, abych se vás zeptal na něco ohledně duchovnosti. Moc toho o presidentovi Gorbačovovi nevím, ale mohu z toho vyvodit, že jej obdivujete z duchovního hlediska, způsobem, kterým obdivujete Matku Terezu a Svatého Otce?
 
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
-  :CITE-KEY: SCA:420-cs
+  :CITE-KEY: SCA:434-cs
   :END:
 
 
 /Sri Chinmoy:/ Duchovnost má dvě křídla. Jednomu říkáme aspirace a tomu druhému zasvěcení. Se svou aspirací se modlíme k Bohu, se svým zasvěcením mu sloužíme. V případě Svatého Otce a Matky Terezy vidíme, že aspirují. Každý den se modlí k Bohu. Rovněž však zasvěcují svůj život lidstvu. V případě Gorbačova může celý svět vidět a cítit, kolik udělal věcí, aby posloužil lidstvu. Možná, že se brzy ráno nemodlí k Bohu jako Matka Tereza či Svatý Otec, ale celý svůj život zasvětil nejen Rusku, respektive Sovětskému svazu, ale celému světu. Nyní je v Turecku, minulý týden byl v Argentině. Jezdí po mnoha místech. Proč? Zvou ho, protože v něm vidí něco velmi zvláštního. Vidí, že má světlo. Proto jej každá země zbožňuje. Prorok nebývá oceněn ve své vlastní zemi, takže prohrál volby na celé čáře. Kamkoli ale jde, lidé jej oceňují. Vidí, že to, co říká, míní upřímně. Pro něj je světový mír jeho životní skutečností. Jeho aspekt zasvěcení bereme jako součást duchovního života. Možná že se nemodlí tak, jak to dělají křesťané, jako papež nebo Matka Tereza. Získává ale poselství zevnitř a snaží se jej vyjádřit a odhalit celému světu. Proto je pro mě skutečně duchovní.
 
-/Reportér:/ Řekl jste: „Ten, kdo slouží, se modlí“?
+
+
+* Reportér: Řekl jste: „Ten, kdo slouží, se modlí“?
+
+  :PROPERTIES:
+  :GENRE: interview
+  :KEYWORDS:
+  :CITE-KEY: SCA:435-cs
+  :END:
 
 /Sri Chinmoy:/ Zajisté! Sloužíme druhým, protože je vidíme jako ztělesnění Boha. Bůh se projevuje skrze každou lidskou bytost určitým způsobem. V rodině může mít každý jiné povolání. Jeden bude lékařem, druhý hudebníkem a tak dále. Jsou ale jedna rodina. Večer se sejdou a jedí společně. Každý člověk je jedinečný svým vlastním způsobem, a tato jedinečnost musí být použita pro zlepšení tohoto světa. 
 
 Je naprostá pravda, že ten, kdo slouží Bohu, se rovněž modlí, a stejně tak ten, kdo se modlí, slouží také Bohu. Řekněme, že se někdo modlí v jeskyni v Himálajích. Když se stane dobrým člověkem, bude na zemi o jednoho nebožského člověka méně. Tímto způsobem člověk, který se modlí v himálajských jeskyních, slouží rovněž lidstvu.
 
 Naproti tomu ten, kdo nabízí svou službu, se také zvláštním způsobem modlí. Neaspirující člověk nezasvětí svůj život ani na jedinou vteřinu. Dobrý člověk zasvětí celý svůj život. Toto zasvěcení není nic jiného než aspirace. Člověk, který ztělesňuje světlo, nemůže být oddělen od člověka, který nabízí své světlo celému světu.
+
+
+
+* Poznámky 
+
+  :PROPERTIES:
+  :genre: note
+  :keywords:
+  :cite-key: SCA:436e1-cs
+  :END:
+  
+
+
+
+
+[fn:SCA-403-410] SCA 403-410. /7. srpna 1995 se Sri Chinmoy setkal s doktorkou Elenou Vladimirskou, zástupkyní ředitele Výzkumného ústavu hematologické pediatrie v Moskvě a jejím mužem, vojenským důstojníkem ve výslužbě, v restauraci Annam Brahma v Jamaice v New Yorku. V průběhu tohoto setkání se dr. Vladimirskaja a její manžel zeptali Sri Chinmoye na několik duchovních otázek. Jejich otázky a jeho odpovědi jsou spolu s dalšími poznámkami jsou zachyceny na následujících stránkách./
+
+[fn:SCA-411-412] SCA 411-412. /Následující otázky položili Sri Chinmoyovi jeho žáci v restauraci Annam Brahma v Jamaice v New Yorku 25. května 1996./
+
+[fn:SCA-413-419] SCA 413-419. /Následující otázky položili žáci Sri Chinmoye na „Aspiration-Ground“ 22. června 1996./
+
+[fn:SCA-420-425] SCA 420-425. /Následující rozhovor s panem Radhakršnou Pathakem, spoluvydavatelem jistého deníku v Dillí, se odehrálo 2. září 1996 na Aspiration Ground./
+
+[fn:SCA-426-435] SCA 426-435. /Následují úryvky z interview, které Sri Chinmoy poskytl reportérovi The New York Times 3. dubna 1997 v restauraci Annam Brahma v newyorské Jamaice /
 
 
 
