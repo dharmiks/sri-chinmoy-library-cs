@@ -24,7 +24,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:146-cs
+  :CITE-KEY: SCA:153-cs
   :END:
 
 
@@ -41,7 +41,7 @@ Ze všech věcí, které hledám, je ale nejdůležitější vděčnost. Je-li v
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:147-cs
+  :CITE-KEY: SCA:154-cs
   :END:
 
 
@@ -60,7 +60,7 @@ Velcí duchovní Mistři dělají bezpodmínečně pro lidstvo tolik věcí. Cho
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:148-cs
+  :CITE-KEY: SCA:155-cs
   :END:
 
 
@@ -75,7 +75,7 @@ Když chce Mistr dát mír, když chce dát lásku, když chce dát světlo, kdy
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:149-cs
+  :CITE-KEY: SCA:156-cs
   :END:
 
 
@@ -98,7 +98,7 @@ Na druhou stranu mě někdy žáci nutí udělat kompromis. Vím, že někdo dě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:150-cs
+  :CITE-KEY: SCA:157-cs
   :END:
 
 
@@ -115,7 +115,7 @@ Když dávám duchovní jméno svému žákovi, je to proto, že vidím jeho mo�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:151-cs
+  :CITE-KEY: SCA:158-cs
   :END:
 
 
@@ -144,7 +144,7 @@ Jestliže si dokážete upevnit svou jednotu s vůlí Mistra, dokud je na fyzick
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:152-cs
+  :CITE-KEY: SCA:159-cs
   :END:
 
 
@@ -161,7 +161,7 @@ Vždy dělám to, co je nejlepší pro žákův duchovní pokrok. Pravý žák b
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:153-cs
+  :CITE-KEY: SCA:160-cs
   :END:
 
 
@@ -181,7 +181,7 @@ Když někdo jednou najde své útočiště u Nohou Boha, nezáleží na tom, ko
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:154-cs
+  :CITE-KEY: SCA:161-cs
   :END:
 
 
@@ -200,7 +200,7 @@ Jindy jsou zase chvíle, kdy zpívám některé písně oduševněle ne proto, �
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:155-cs
+  :CITE-KEY: SCA:162-cs
   :END:
 
 
@@ -218,7 +218,7 @@ Některé duše nemusí být pokročilé, ale protože ke mně mají nesmírnou 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:156-cs
+  :CITE-KEY: SCA:163-cs
   :END:
 
 
@@ -230,7 +230,7 @@ Některé duše nemusí být pokročilé, ale protože ke mně mají nesmírnou 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:157-cs
+  :CITE-KEY: SCA:164-cs
   :END:
 
 
@@ -253,7 +253,7 @@ Předtím, než jste vstoupili do duchovního života, jste si po osmnáct nebo 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:158-cs
+  :CITE-KEY: SCA:165-cs
   :END:
 
 
@@ -276,7 +276,7 @@ Sri Aurobindo měl žáka, který byl na pokraji realizace. Jako já pocházel z
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:159-cs
+  :CITE-KEY: SCA:166-cs
   :END:
 
 
@@ -292,7 +292,7 @@ Na konci cesty, nehledě na to, kterou cestou jdete, si to musíte uvědomit. Ny
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:160-cs
+  :CITE-KEY: SCA:167-cs
   :END:
 
 
@@ -318,7 +318,7 @@ Duše je tak drobná věc -- drobnější než nejdrobnější. Aleje také mocn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:161-cs
+  :CITE-KEY: SCA:168-cs
   :END:
 
 
@@ -331,7 +331,7 @@ Duše je tak drobná věc -- drobnější než nejdrobnější. Aleje také mocn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:162-cs
+  :CITE-KEY: SCA:169-cs
   :END:
 
 
@@ -348,7 +348,7 @@ V mé poslední inkarnaci ke mně někteří hledající přišli na sklonku mé
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:163-cs
+  :CITE-KEY: SCA:170-cs
   :END:
 
 
@@ -361,7 +361,7 @@ V mé poslední inkarnaci ke mně někteří hledající přišli na sklonku mé
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:164-cs
+  :CITE-KEY: SCA:171-cs
   :END:
 
 
@@ -374,7 +374,7 @@ V mé poslední inkarnaci ke mně někteří hledající přišli na sklonku mé
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:165-cs
+  :CITE-KEY: SCA:172-cs
   :END:
 
 
@@ -389,7 +389,7 @@ Nejdříve si můj strýc z matčiny strany myslel, že je soucitný, když pom�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:166-cs
+  :CITE-KEY: SCA:173-cs
   :END:
 
 
@@ -410,7 +410,7 @@ Duchovní síla má jen jeden jediný úkol: pozvednout vědomí lidstva. Okultn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:167-cs
+  :CITE-KEY: SCA:174-cs
   :END:
 
 
@@ -423,7 +423,7 @@ Duchovní síla má jen jeden jediný úkol: pozvednout vědomí lidstva. Okultn
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:168-cs
+  :CITE-KEY: SCA:175-cs
   :END:
 
 
@@ -440,7 +440,7 @@ Když Mistr dostane žákovu oddanost, odpoví nejen svým soucitem a náklonnos
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:169-cs
+  :CITE-KEY: SCA:176-cs
   :END:
 
 
@@ -458,7 +458,7 @@ Pravou oddanost Mistr určitě uvidí ve vašich očích. Když máte skutečnou
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:170-cs
+  :CITE-KEY: SCA:177-cs
   :END:
 
 
@@ -475,7 +475,7 @@ Můj otec a strýc z matčiny strany si byli velice blízcí. Když byl tento st
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:171-cs
+  :CITE-KEY: SCA:178-cs
   :END:
 
 
@@ -492,7 +492,7 @@ Stupeň duchovního vývoje není tou nejdůležitější věcí, pokud jde o to
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:172-cs
+  :CITE-KEY: SCA:179-cs
   :END:
 
 
@@ -504,7 +504,7 @@ Stupeň duchovního vývoje není tou nejdůležitější věcí, pokud jde o to
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:173-cs
+  :CITE-KEY: SCA:180-cs
   :END:
 
 
@@ -521,7 +521,7 @@ Někdy přijde bytost a diktuje. Sri Aurobindo řekl, že jedna z jeho knih jím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:174-cs
+  :CITE-KEY: SCA:181-cs
   :END:
 
 
@@ -534,7 +534,7 @@ Někdy přijde bytost a diktuje. Sri Aurobindo řekl, že jedna z jeho knih jím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:175-cs
+  :CITE-KEY: SCA:182-cs
   :END:
 
 
@@ -547,7 +547,7 @@ Někdy přijde bytost a diktuje. Sri Aurobindo řekl, že jedna z jeho knih jím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:176-cs
+  :CITE-KEY: SCA:183-cs
   :END:
 
 
@@ -561,7 +561,7 @@ Někdy přijde bytost a diktuje. Sri Aurobindo řekl, že jedna z jeho knih jím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:177-cs
+  :CITE-KEY: SCA:184-cs
   :END:
 
 
@@ -574,7 +574,7 @@ Někdy přijde bytost a diktuje. Sri Aurobindo řekl, že jedna z jeho knih jím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:178-cs
+  :CITE-KEY: SCA:185-cs
   :END:
 
 
@@ -588,7 +588,7 @@ Někdy přijde bytost a diktuje. Sri Aurobindo řekl, že jedna z jeho knih jím
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:179-cs
+  :CITE-KEY: SCA:186-cs
   :END:
 
 
@@ -603,7 +603,7 @@ Psychická bytost je prostředníkem mezi duší a ostatními členy bytosti. Ta
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:180-cs
+  :CITE-KEY: SCA:187-cs
   :END:
 
 
@@ -616,7 +616,7 @@ Psychická bytost je prostředníkem mezi duší a ostatními členy bytosti. Ta
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:181-cs
+  :CITE-KEY: SCA:188-cs
   :END:
 
 
@@ -629,7 +629,7 @@ Psychická bytost je prostředníkem mezi duší a ostatními členy bytosti. Ta
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:182-cs
+  :CITE-KEY: SCA:189-cs
   :END:
 
 
@@ -642,7 +642,7 @@ Psychická bytost je prostředníkem mezi duší a ostatními členy bytosti. Ta
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:183-cs
+  :CITE-KEY: SCA:190-cs
   :END:
 
 
@@ -655,7 +655,7 @@ Psychická bytost je prostředníkem mezi duší a ostatními členy bytosti. Ta
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:184-cs
+  :CITE-KEY: SCA:191-cs
   :END:
 
 
@@ -668,7 +668,7 @@ Psychická bytost je prostředníkem mezi duší a ostatními členy bytosti. Ta
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:185-cs
+  :CITE-KEY: SCA:192-cs
   :END:
 
 
@@ -683,7 +683,7 @@ Od té doby, co jsem přišel do Ameriky, nepřátelské nebo ničivé síly se 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:186-cs
+  :CITE-KEY: SCA:193-cs
   :END:
 
 
@@ -712,7 +712,7 @@ Je to samotná jednota s Vůlí Nejvyššího, která vás může učinit skute�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:187-cs
+  :CITE-KEY: SCA:194-cs
   :END:
 
 
@@ -729,7 +729,7 @@ Ale když naše odpověď přichází ze srdce, řekneme: „Náležím jen své
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:188-cs
+  :CITE-KEY: SCA:195-cs
   :END:
 
 
@@ -753,7 +753,7 @@ Pokusme se tedy milovat Boha a buďme Mu oddaní a odevzdaní, neboť naše bož
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:189-cs
+  :CITE-KEY: SCA:196-cs
   :END:
 
 
@@ -766,7 +766,7 @@ Pokusme se tedy milovat Boha a buďme Mu oddaní a odevzdaní, neboť naše bož
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:190-cs
+  :CITE-KEY: SCA:197-cs
   :END:
 
 
@@ -780,7 +780,7 @@ Pokusme se tedy milovat Boha a buďme Mu oddaní a odevzdaní, neboť naše bož
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:191-cs
+  :CITE-KEY: SCA:198-cs
   :END:
 
 
@@ -793,7 +793,7 @@ Pokusme se tedy milovat Boha a buďme Mu oddaní a odevzdaní, neboť naše bož
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:192-cs
+  :CITE-KEY: SCA:199-cs
   :END:
 
 
@@ -812,7 +812,7 @@ Můžeme oceňovat, obdivovat a zbožňovat určité postavy světa, ale nemáme
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:193-cs
+  :CITE-KEY: SCA:200-cs
   :END:
 
 
@@ -827,7 +827,7 @@ Můžeme oceňovat, obdivovat a zbožňovat určité postavy světa, ale nemáme
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:194-cs
+  :CITE-KEY: SCA:201-cs
   :END:
 
 
@@ -850,7 +850,7 @@ Když dva týmy hrají fotbal, velmi často vítězný tým gratuluje poražené
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:195-cs
+  :CITE-KEY: SCA:202-cs
   :END:
 
 
