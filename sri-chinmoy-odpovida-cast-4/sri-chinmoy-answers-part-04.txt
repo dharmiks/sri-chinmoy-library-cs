@@ -19,7 +19,7 @@
 
 
 
-* Část I
+* Část I [fn:SCA-114-124]
 
   :PROPERTIES:
   :GENRE: section
@@ -28,7 +28,6 @@
   :END:
 
 
-[fn:part-1]
 
 
 * Meditace v klášteře Heiligenkreuz
@@ -194,7 +193,8 @@ Jsem vám velmi vděčný, Matko představená, že jsem zde mohl být. Před dv
 Podívejte se na nesmírnost vašeho srdce. Vy jste se narodila jako křesťanka, já zase jako hinduista, a přesto jste pro mne nalezla ve svém srdci místo. Pozvala jste mě, abych zde nabídnul bohoslužbu. Podívejte se, jak se svět vyvíjí! Jedna Matka představená mě pokárala a napadla, a vy jste mě požádala, abych zde nabídl své oduševnělé modlitby. Tohle je způsob, jak děláme pokrok a těšíme našeho Nebeského Otce.
 
 
-* Část II
+* Část II [fn:SCA-125-134]
+
 
   :PROPERTIES:
   :GENRE: section
@@ -202,7 +202,6 @@ Podívejte se na nesmírnost vašeho srdce. Vy jste se narodila jako křesťanka
   :CITE-KEY: SCA:125e1-cs
   :END:
 
-[fn:part-2]
 
 
 
@@ -405,7 +404,8 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
 
 
 
-* Část III
+* Část III [fn:SCA-135-147]
+
 
   :PROPERTIES:
   :GENRE: section
@@ -413,7 +413,6 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
   :CITE-KEY: SCA:135e1-cs
   :END:
 
-[fn:part-3]
 
 
 
@@ -644,7 +643,8 @@ Není to tak, že musíte meditovat po určitou stanovenou dobu. Ne! Co je důle
 
 
 
-* Část IV
+* Část IV [fn:SCA-148-152]
+
 
   :PROPERTIES:
   :GENRE: section
@@ -652,7 +652,6 @@ Není to tak, že musíte meditovat po určitou stanovenou dobu. Ne! Co je důle
   :CITE-KEY: SCA:148e1-cs
   :END:
 
-[fn:part-4]
 
 
 
@@ -748,14 +747,14 @@ Naproti tomu když meditujete, musíte cítit, že jste princezna nebo královna
   :END:
 
 
-[fn:part-1] SCA 114-124. /2. dubna 1988 byl Sri Chinmoy pozván, aby meditoval se sestrami a matkou představenou benediktýnského kláštera Heiligenkreuz v Churu nedaleko města Zug ve Švýcarsku. Potom odpovídal na jejich otázky. Přepis tohoto setkání následuje./
+[fn:SCA-114-124] SCA 114-124. /2. dubna 1988 byl Sri Chinmoy pozván, aby meditoval se sestrami a matkou představenou benediktýnského kláštera Heiligenkreuz v Churu nedaleko města Zug ve Švýcarsku. Potom odpovídal na jejich otázky. Přepis tohoto setkání následuje./
 
 
-[fn:part-2] SCA 125-134. /11. července 1994 se Dr. Josephine Davisová, prezidentka York College -- části Neworské městské univerzity sídlící v Queensu -- setkala se Sri Chinmoyem v restauraci Annam Brahma. Následují výňatky z jejich rozhovoru./
+[fn:SCA-125-134] SCA 125-134. /11. července 1994 se Dr. Josephine Davisová, prezidentka York College -- části Neworské městské univerzity sídlící v Queensu -- setkala se Sri Chinmoyem v restauraci Annam Brahma. Následují výňatky z jejich rozhovoru./
 
-[fn:part-3] SCA 135-147. /24. dubna 1993 se Sri Chinmoy setkal s Russellem Wilsonem, jenž byl tehdy personálním ředitelem Výboru pro asijské a pacifické záležitosti ve Sněmovně reprezentantů Spojených států. Následující neformální rozhovor se odehrál v resturaci Annam Brahma v Queensu v New Yorku./
+[fn:SCA-135-147] SCA 135-147. /24. dubna 1993 se Sri Chinmoy setkal s Russellem Wilsonem, jenž byl tehdy personálním ředitelem Výboru pro asijské a pacifické záležitosti ve Sněmovně reprezentantů Spojených států. Následující neformální rozhovor se odehrál v resturaci Annam Brahma v Queensu v New Yorku./
 
-[fn:part-4] SCA 148-152. /Následující otázky byly položeny Paní Noemi Kovandovou, ženou českého velvyslance v OSN, během setkání se Sri Chinmoyem v restauraci Annam Brahma dne 13. června 1994/
+[fn:SCA-148-152] SCA 148-152. /Následující otázky byly položeny Paní Noemi Kovandovou, ženou českého velvyslance v OSN, během setkání se Sri Chinmoyem v restauraci Annam Brahma dne 13. června 1994/
 ./
 
 
