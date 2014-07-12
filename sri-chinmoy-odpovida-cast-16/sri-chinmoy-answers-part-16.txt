@@ -19,24 +19,23 @@
 
 
 
-* Poznámka editora
+* Část I [fn:SCA-580]
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:562e1-cs
+  :GENRE: section
+  :CITE-KEY: SCA:580e1-cs
   :KEYWORDS:
   :END:
 
 
-/17. ledna 1990 v řeckých Aténách zvedl Sri Chinmoy jednou rukou nad hlavu řadu svých jugoslávských žáků jako součást svého programu „Lifting up the World with a Oneness-Heart“ (Zvedání Světa Srdcem Jednoty). Před zvedáním řekl:/
 
 
 
-* 1.
+* Před programem „Zvedání světa srdcem jednoty“.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: SCA:562-cs
+  :CITE-KEY: SCA:580-cs
   :KEYWORDS:
   :END:
 
@@ -47,16 +46,14 @@ Ještě jednou každému z vás nabízím své srdce lásky a život vděčnost
 
 
 
-* Poznámka editora
+* Část II [fn:SCA-581-585] 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:563e2-cs 
+  :GENRE: section
+  :CITE-KEY: SCA:581e2-cs 
   :KEYWORDS:
   :END:
 
-
-/18. ledna 1990 v Aténách Sri Chinmoy vyzval k otázkám velkou skupinu svých jugoslávských žáků, kteří přijeli do Řecka, aby poprvé spatřili svého duchovního Mistra./
 
 
 
@@ -64,7 +61,7 @@ Ještě jednou každému z vás nabízím své srdce lásky a život vděčnost
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:563-cs 
+  :CITE-KEY: SCA:581-cs 
   :KEYWORDS:
   :END:
 
@@ -79,7 +76,7 @@ Jak můžete světu dokázat, že jste velmi moudří, pokud neustále kritizuje
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:564-cs 
+  :CITE-KEY: SCA:582-cs 
   :KEYWORDS:
   :END:
 
@@ -95,7 +92,7 @@ Když vidíte, že někdo není dokonalý, vaše srdce musí vyjít do popředí
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:565-cs 
+  :CITE-KEY: SCA:583-cs 
   :KEYWORDS:
   :END:
 
@@ -112,7 +109,7 @@ Tito lidé, kteří používají mysl, o sobě říkají, že nevěří v Boha.
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:566-cs 
+  :CITE-KEY: SCA:584-cs 
   :KEYWORDS:
   :END:
 
@@ -123,7 +120,7 @@ Tito lidé, kteří používají mysl, o sobě říkají, že nevěří v Boha.
 * Je správné opustit syna a rodinu a odejít meditovat jinam, když nemůžu meditovat doma?
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:567-cs 
+  :CITE-KEY: SCA:585-cs 
   :KEYWORDS:
   :END:
 
@@ -133,23 +130,22 @@ Měl byste žít v srdci. Když se na svého syna díváte nebo s ním či se 
 
 
 
-* Poznámka editora
+* Část III [fn:SCA-586]
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:568e3-cs 
-  :KEYWORDS:
+  :genre: section
+  :keywords:
+  :cite-key: SCA:586e1-cs
   :END:
-
-/Sri Chinmoy poté svým jugoslávským žákům na rozloučenou řekl:/
-
+ 
 
 
-* 2.
+
+* Rozloučení s jugoslávskými žáky
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: SCA:568-cs 
+  :CITE-KEY: SCA:586-cs 
   :KEYWORDS:
   :END:
 
@@ -163,15 +159,13 @@ Protože jsme všichni hledající, věříme v existenci duše. Duše létá p
 
 
 
-* Poznámka editora
+* Část IV [fn:SCA-587-597]
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:569e4-cs 
-  :KEYWORDS:
+  :genre: section
+  :keywords:
+  :cite-key: SCA:587e1-cs
   :END:
-
-/Sri Chinmoy odpověděl na následující otázky 31. ledna 1990 v PS 86 v New Yorku./
 
 
 
@@ -179,7 +173,7 @@ Protože jsme všichni hledající, věříme v existenci duše. Duše létá p
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:569-cs 
+  :CITE-KEY: SCA:587-cs 
   :KEYWORDS:
   :END:
 
@@ -193,7 +187,7 @@ Nesmíme Bohu přidělávat problémy. Nevědomě děláme mnoho špatných věc
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:570-cs 
+  :CITE-KEY: SCA:588-cs 
   :KEYWORDS:
   :END:
 
@@ -209,7 +203,7 @@ Bůh je potěšen dokonce i naším kratičkým životem odevzdání a nekonečn
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:571-cs 
+  :CITE-KEY: SCA:589-cs 
   :KEYWORDS:
   :END:
 
@@ -223,7 +217,7 @@ Jiný způsob je chovat se jako hrdina. Musíte mít odvahu cítit, že jste nan
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:572-cs 
+  :CITE-KEY: SCA:590-cs 
   :KEYWORDS:
   :END:
 
@@ -239,7 +233,7 @@ Na konci vašeho života, i když se pohybujete jen rychlostí indického býč�
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:573-cs 
+  :CITE-KEY: SCA:591-cs 
   :KEYWORDS:
   :END:
 
@@ -253,7 +247,7 @@ Transcendentál naplní vaši aspiraci. Ale kdyby Transcendentál začal také p
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:574-cs 
+  :CITE-KEY: SCA:592-cs 
   :KEYWORDS:
   :END:
 
@@ -267,11 +261,11 @@ Vyzkoušel jsem několik indických rág. Ale bohužel nesouhlasím s tím, že
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:575-cs 
+  :CITE-KEY: SCA:593-cs 
   :KEYWORDS:
   :END:
 
-/Sri Chinmoy:/ Samozřejmě je jednoduše nemožné učinit duchovní pokrok, pokud zůstává v mysli. Ale když bude zůstávat v srdci, zůstane věčným dítětem. Jsem také padesátník, ale cítím, že stále dělám pokrok. Pokud dokážete zůstat v srdci, potom můžete činit pokrok bez ohledu na to, kolik vám je let, dokonce i kdyby vám bylo devedesát devět. Zůstanete-li ale v mysli, budete svázáni svým fyzickým věkem. Jsou žáci, kterým je teprve dvacet pět nebo dvacet šest let, ale kvůli letargii, neochotě a dalším neaspirujícím postojům, které opatrují, se chovají jako devadesátiletí. Zároveň jsou dvě nebo tři ženy, kterým je hodně přes padesát, ale jak tvrdě pracují, jak energicky, jak horlivě! Někdy dokonce ani nejdou v noci spát. Jak je obdivuji! Nezůstávají v mysli; zůstávají v srdci. Jsou vždy nadšené a připravené inspirovat druhé. Takže starší ženy ve vašem Centru by se měly snažit zůstávat v srdci. Pokud taková žačka zůstane v srdci, nemusí se strachovat o svůj věk. Dětské srdce jí v životě pomůže udělat všechen nezbytný pokrok.
+/Sri Chinmoy:/ Samozřejmě je jednoduše nemožné učinit duchovní pokrok, pokud zůstává v mysli. Ale když bude zůstávat v srdci, zůstane věčným dítětem. Jsem také padesátník, ale cítím, že stále dělám pokrok. Pokud dokážete zůstat v srdci, potom můžete činit pokrok bez ohledu na to, kolik vám je let, dokonce i kdyby vám bylo devadesát devět. Zůstanete-li ale v mysli, budete svázáni svým fyzickým věkem. Jsou žáci, kterým je teprve dvacet pět nebo dvacet šest let, ale kvůli letargii, neochotě a dalším neaspirujícím postojům, které opatrují, se chovají jako devadesátiletí. Zároveň jsou dvě nebo tři ženy, kterým je hodně přes padesát, ale jak tvrdě pracují, jak energicky, jak horlivě! Někdy dokonce ani nejdou v noci spát. Jak je obdivuji! Nezůstávají v mysli; zůstávají v srdci. Jsou vždy nadšené a připravené inspirovat druhé. Takže starší ženy ve vašem Centru by se měly snažit zůstávat v srdci. Pokud taková žačka zůstane v srdci, nemusí se strachovat o svůj věk. Dětské srdce jí v životě pomůže udělat všechen nezbytný pokrok.
 
 
 
@@ -279,7 +273,7 @@ Vyzkoušel jsem několik indických rág. Ale bohužel nesouhlasím s tím, že
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:576-cs 
+  :CITE-KEY: SCA:594-cs 
   :KEYWORDS:
   :END:
 
@@ -295,7 +289,7 @@ Stejně tak můžeme vzít práci. Když máte za den stihnout pět nebo šest v
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:577-cs 
+  :CITE-KEY: SCA:595-cs 
   :KEYWORDS:
   :END:
 
@@ -317,7 +311,7 @@ Jsem velmi šťastný z vaší otázky. Takový by měl být postoj úplně ka�
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:578-cs 
+  :CITE-KEY: SCA:596-cs 
   :KEYWORDS:
   :END:
 
@@ -335,7 +329,7 @@ Nejlepší modlitbou ze všech je ta, kterou nás naučil Ježíš Kristus: „S
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:579-cs 
+  :CITE-KEY: SCA:597-cs 
   :KEYWORDS:
   :END:
 
@@ -345,15 +339,14 @@ Někteří lidé si libují ve frustraci. Vzývají ji. Potom chtějí ve frust
 
 
 
-* Poznámka editora
+* Část V [fn:SCA-598-608]
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:580e5-cs 
-  :KEYWORDS:
+  :genre: section
+  :keywords:
+  :cite-key: SCA:598e1-cs
   :END:
 
-/Sri Chinmoy odpověděl na následující otázky 4. února 1990 v Progress-Promise v New Yorku./
 
 
 
@@ -361,7 +354,7 @@ Někteří lidé si libují ve frustraci. Vzývají ji. Potom chtějí ve frust
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:580-cs 
+  :CITE-KEY: SCA:598-cs 
   :KEYWORDS:
   :END:
 
@@ -373,7 +366,7 @@ Někteří lidé si libují ve frustraci. Vzývají ji. Potom chtějí ve frust
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:581-cs 
+  :CITE-KEY: SCA:599-cs 
   :KEYWORDS:
   :END:
 
@@ -385,7 +378,7 @@ Někteří lidé si libují ve frustraci. Vzývají ji. Potom chtějí ve frust
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:582-cs 
+  :CITE-KEY: SCA:600-cs 
   :KEYWORDS:
   :END:
 
@@ -397,10 +390,9 @@ Naší cestou je život přijetí. Máte naprosté právo modlit se k Bohu pro 
 
 * Musí Bůh nutně naplnit vaši touhu, pokud je založená na chamtivosti?
 
-
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:583-cs 
+  :CITE-KEY: SCA:601-cs 
   :KEYWORDS:
   :END:
 
@@ -414,7 +406,7 @@ Bůh je jako farmář. Kope a kope. Na jednom místě kopal mnohokrát, ale nič
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:584-cs 
+  :CITE-KEY: SCA:602-cs 
   :KEYWORDS:
   :END:
 
@@ -448,7 +440,7 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:585-cs 
+  :CITE-KEY: SCA:603-cs 
   :KEYWORDS:
   :END:
 
@@ -460,7 +452,7 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:586-cs 
+  :CITE-KEY: SCA:604-cs 
   :KEYWORDS:
   :END:
 
@@ -472,7 +464,7 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:587-cs 
+  :CITE-KEY: SCA:605-cs 
   :KEYWORDS:
   :END:
 
@@ -484,7 +476,7 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:588-cs 
+  :CITE-KEY: SCA:606-cs 
   :KEYWORDS:
   :END:
 
@@ -496,7 +488,7 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:589-cs 
+  :CITE-KEY: SCA:607-cs 
   :KEYWORDS:
   :END:
 
@@ -508,7 +500,7 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:590-cs 
+  :CITE-KEY: SCA:608-cs 
   :KEYWORDS:
   :END:
 
@@ -518,15 +510,14 @@ Samozřejmě, v závodě běžíte po stejné trati s dalšími běžci. Zde, 
 
 
 
-* Poznámka editora
+* Část VI [fn:SCA-609-610]
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:591e6-cs 
-  :KEYWORDS:
+  :genre: section
+  :keywords:
+  :cite-key: SCA:609e1-cs
   :END:
 
-/Sri Chinmoy odpověděl na následující otázky 14. února 1990 ve svém domě v New Yorku./
 
 
 
@@ -534,7 +525,7 @@ Samozřejmě, v závodě běžíte po stejné trati s dalšími běžci. Zde, 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:591-cs 
+  :CITE-KEY: SCA:609-cs 
   :KEYWORDS:
   :END:
 
@@ -558,7 +549,7 @@ Vždy posloucháme, pozitivně, nebo negativně. Vždy se proto snažte jít poz
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:592-cs 
+  :CITE-KEY: SCA:610-cs 
   :KEYWORDS:
   :END:
 
@@ -577,6 +568,26 @@ Když jednáte s hledajícími, nemáte tento problém. Stýkáte se s nimi na 
 Když jednáte s novými hledajícími, vždy je nechte pocítit, že jste s nimi jedním a že jste celí pro ně. Víte o něco málo víc než oni. Dokážete teď přečíst knihu, protože jste se naučili abecedu. Učíte je tu samou abecedu. Potom jednoho dne se začnou učit číst jednu stránku nebo dvě. Když přijde tento den, okamžitě je můžete přivést ke mně a já jim dám na čtení mnoho knih!
 
 
+
+* Poznámky 
+
+  :PROPERTIES:
+  :genre: note
+  :keywords:
+  :cite-key: SCA:611e1-cs
+  :END:
+
+[fn:SCA-580] SCA 580. /17. ledna 1990 v řeckých Aténách zvedl Sri Chinmoy jednou rukou nad hlavu řadu svých jugoslávských žáků jako součást svého programu „Lifting up the World with a Oneness-Heart“ (Zvedání Světa Srdcem Jednoty). Před zvedáním řekl:/
+
+[fn:SCA-581-585] SCA 581-585. /18. ledna 1990 v Aténách Sri Chinmoy vyzval k otázkám velkou skupinu svých jugoslávských žáků, kteří přijeli do Řecka, aby poprvé spatřili svého duchovního Mistra./
+
+[fn:SCA-586] SCA 586. /Sri Chinmoy poté svým jugoslávským žákům na rozloučenou řekl:/
+
+[fn:SCA-587-597] SCA 587-597. /Sri Chinmoy odpověděl na následující otázky 31. ledna 1990 v PS 86 v New Yorku./
+
+[fn:SCA-598-608] SCA 598-608. /Sri Chinmoy odpověděl na následující otázky 4. února 1990 v Progress-Promise v New Yorku./
+
+[fn:SCA-609-610] SCA 609-610. /Sri Chinmoy odpověděl na následující otázky 14. února 1990 ve svém domě v New Yorku./
 
 
 
