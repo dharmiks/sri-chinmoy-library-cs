@@ -20,17 +20,13 @@
 
 
 
-* Část I – Otázky a odpovědi
+* Část I [fn:SCA-818-820] 
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:818e1-cs
   :END:
-  
-   [fn:part-1]
-
-
 
 
 
@@ -88,16 +84,13 @@ V duchovním životě nám vždy jde o sebepřekonání. Sebepřekonání není 
 
 
 
-* Část II
+* Část II [fn:SCA-821-823] 
 
   :PROPERTIES:
   :genre: section
   :keywords:
   :cite-key: SCA:821e1-cs
   :END:
-
-  [fn:part-2]
-
 
 
 
@@ -190,17 +183,13 @@ Kdybych pro tyto tři otázky použil svou mysl, nebyl bych schopný mluvit o ka
 
 
 
-* Část III – Setkání s Robertem Změlíkem
+* Část III – Setkání s Robertem Změlíkem [fn:SCA-824-827] 
 
   :PROPERTIES:
   :genre: section
   :keywords:
   :cite-key: SCA:824e1
   :END:
-
-  [fn:part-3]
-
-
 
 
 
@@ -318,15 +307,13 @@ Přeji vám hodně, víc, nejvíc štěstí v každé disciplíně!
 
 
 
-* Část IV – Otázky a odpovědi
+* Část IV [fn:SCA-828-829] 
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:828e1-cs
   :END:
-
-   [fn:part-4]
 
 
 
@@ -390,17 +377,13 @@ Takže ti, kdo Joy Days nevěnují pozornost, by měli začít. Jste-li neochotn
 
 
 
-* Část V
+* Část V [fn:SCA-830]
 
   :PROPERTIES:
   :genre: section
   :keywords:
   :cite-key: SCA:830e1
   :END:
-
-  [fn:part-5]
-
-
 
 
 
@@ -440,7 +423,7 @@ Nyní jsem něco předpověděl a Bůh sám ví, kdy se má předpověď vyplní
 Vezmou-li mě moji žáci vážně, řeknou: „Jestliže to můj Guru řekl, pak se to dá udělat, musí se to udělat!“ Někteří žáci mají takovýto přístup v jiných oblastech. Říkají: „Pokud Guru něco řekne, pak to jde udělat!“ Tito žáci se pokouší udělat něco nemožného, protože jsem jim řekl, že je to možné, a jsou úspěšní. Ale co se týká maratonu, má vize ještě projevena nebyla. Tolik záleží na vašem vnitřním štěstí. Víte, jak rychle něco dosáhnete v ty dny, kdy jste šťastní, ve srovnání s jinými dny. A v ty dny, kdy máte sebepochybnosti, strach, žárlivost a nejistotu, jste připraveni čekat do nekonečna, abyste něčeho dosáhli nebo abyste se dostali na svůj uspokojivý standard.
 
 
-* Poznámka editora
+* Poznámka
 
   :PROPERTIES:
   :GENRE: note
@@ -449,15 +432,15 @@ Vezmou-li mě moji žáci vážně, řeknou: „Jestliže to můj Guru řekl, pa
   :END:
 
 
-[fn:part-1] SCA 818-820. Sri Chinmoy odpovídal na následující otázky 24. ledna 1996 v Durbanu v Jižní Africe.
+[fn:SCA-818-820] SCA 818-820. Sri Chinmoy odpovídal na následující otázky 24. ledna 1996 v Durbanu v Jižní Africe.
 
-[fn:part-2] SCA 821-823.Na následující otázky Sri Chinmoy odpovídal v New Yorku 21. února 1996.
+[fn:SCA-821-823] SCA 821-823.Na následující otázky Sri Chinmoy odpovídal v New Yorku 21. února 1996.
 
-[fn:part-3] SCA 824-827. Následují výňatky z rozhovoru Sri Chinmoye s Robertem Změlíkem, českým zlatým olympionikem v desetiboji. Rozhovor se odehrál 19. června 1996 v restauraci Annam Brahma.
+[fn:SCA-824-827] SCA 824-827. Následují výňatky z rozhovoru Sri Chinmoye s Robertem Změlíkem, českým zlatým olympionikem v desetiboji. Rozhovor se odehrál 19. června 1996 v restauraci Annam Brahma.
 
-[fn:part-4] SCA 828-829. Sri Chinmoy odpovídal na následující otázky 21. října 1996 v San Francisku.
+[fn:SCA-828-829] SCA 828-829. Sri Chinmoy odpovídal na následující otázky 21. října 1996 v San Francisku.
 
-[fn:part-5] SCA 830. Na následující otázku Sri Chinmoy odpověděl v New Yorku 25. února 1999.
+[fn:SCA-830] SCA 830. Na následující otázku Sri Chinmoy odpověděl v New Yorku 25. února 1999.
 
 
 
