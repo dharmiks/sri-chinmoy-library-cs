@@ -19,16 +19,13 @@
 
 
 
-* Poznámka editora
+* Část I [fn:SCA-788]
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:763e1-cs
-  :KEYWORDS:
+  :genre: section
+  :keywords:
+  :cite-key: SCA:788e1-cs
   :END:
-
-
-/Sri Chinmoy odpověděl na následující otázku 3. února 2000 v New Yorku./
 
 
 
@@ -36,7 +33,7 @@
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:763-cs
+  :CITE-KEY: SCA:788-cs
   :KEYWORDS:
   :END:
 
@@ -103,24 +100,14 @@ Nevědomost se nás snaží chytit, ale my běžíme pryč tou nejvyšší rychl
 
 
 
-* Poznámka editora
-
-  :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:764e2-cs
-  :KEYWORDS:
-  :END:
-
-
-/Sri Chinmoy odpověděl na následující otázku 14. února 2000 v New Yorku./
 
 
 
-* Jak můžeme mít ve svém životě více novosti?
+* Jak můžeme mít ve svém životě více novosti? [fn:SCA-789]
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:764-cs
+  :CITE-KEY: SCA:789-cs
   :KEYWORDS:
   :END:
 
@@ -164,16 +151,15 @@ Když vás žádám, abyste něco udělali, potom byste to měli udělat celým 
 Vždy používejte srdce. Srdce vždy přináší novost, zatímco mysl nese starobu. Pro mysl neexistuje žádná novost. Druhý den mysl ztratí veškeré nadšení, protože cítí, že všechno je příliš staré, příliš staré, příliš staré. Ale pro srdce je každý den nový, jako slunce. Jak jsem řekl dříve, když slunce vychází, mysl nemá zájem podívat se na něj, protože mysl cítí, že je to tatáž stará věc. Bez ohledu na to, zda slunce vychází nad vodou nebo z mraků, mysl to nezajímá. Ale srdce čeká na slunce. Srdce říká: „Kdy vyjde? Kdy vyjde? Kdy vyjde?“ Dychtivost srdce vidí novost vždy a ve všem. Když použijeme srdce, abychom poslechli Boha, potěšili Boha, pak je všechno nové. Každý den, dokonce i když navenek děláme a vidíme stejnou věc, srdce neustále cítí novou radost, novou radost, novou radost.
 
 
-* Poznámka editora
+* Část II [fn:SCA-790-798]
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:765e3-cs
-  :KEYWORDS:
+  :genre: section
+  :keywords:
+  :cite-key: SCA:790e1-cs
   :END:
 
 
-/25. listopadu 1999 se Sri Chinmoy setkal s paní Shashi Tripathi, generální konzulkou Indie v New Yorku. K tomuto setkání došlo v restauraci Annam Brahma na Jamaice v newyorské čtvrti Queens. Zde jsou některé výňatky z jejich rozhovoru./
 
 
 
@@ -181,7 +167,7 @@ Vždy používejte srdce. Srdce vždy přináší novost, zatímco mysl nese sta
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:765-cs
+  :CITE-KEY: SCA:790-cs
   :KEYWORDS:
   :END:
 
@@ -209,7 +195,7 @@ Toto je můj život v kostce. Pokud máte nějaké konkrétní otázky, budu nes
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:766-cs
+  :CITE-KEY: SCA:791-cs
   :KEYWORDS:
   :END:
 
@@ -230,7 +216,7 @@ Takže můžeme dělat pokrok za předpokladu, že chceme porazit svá omezení.
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:767-cs
+  :CITE-KEY: SCA:792-cs
   :KEYWORDS:
   :END:
 
@@ -250,7 +236,7 @@ Takže přijetí života je nyní naší filozofií, ne odmítnutí života. Kdy
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:768-cs
+  :CITE-KEY: SCA:793-cs
   :KEYWORDS:
   :END:
 
@@ -263,11 +249,12 @@ Ale čím více materiálního bohatství dostaneme, tím rychleji spoutáme sam
 
 
 
-* 1. 
+* „Cokoli mi Bůh dává, okamžitě Mu nabízím zpět.“ [fn:SCA-794]
+
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: SCA:769-cs
+  :CITE-KEY: SCA:794-cs
   :KEYWORDS:
   :END:
 
@@ -290,7 +277,6 @@ Svazujeme sami sebe svou myslí, když říkáme: „Nedokážu tohle, nedokáž
 
 Výsledky mohou přijít jen ve dvou podobách -- úspěch, nebo neúspěch. Jestliže dokážu šťastně nabídnout svůj úspěch Bohu, co je pak špatného na tom, když nabídnu také svůj neúspěch? Mohu mít zralé mango nebo nezralé mango. Když mi dnes Bůh dá zralé mango, pak já ho dám Jemu. Zítra, když mi dá nezralé mango, já ho opět dám Jemu. Když Mu dám obojí se stejnou radostí, potom Bůh bude potěšen tím, co mám a co Mu dávám. On mi může dát zážitek neúspěchu nebo zážitek úspěchu. Jestliže mohu k Jeho Nohám položit obojí se stejnou radostí, potom se nebudu cítit nešťastný. Pak budu tou nejšťastnější osobou. Cokoli mi Bůh dává, okamžitě Mu nabízím zpět. [fn:1] 
 
-[fn:1] /Během diskuse o umění Sri Chinmoye./
 
 
 
@@ -298,7 +284,7 @@ Výsledky mohou přijít jen ve dvou podobách -- úspěch, nebo neúspěch. Jes
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:770-cs
+  :CITE-KEY: SCA:795-cs
   :KEYWORDS:
   :END:
 
@@ -330,7 +316,7 @@ Když se mě S. K. Roy zeptal, jestli ho znám, odpověděl jsem: „Dilipa Roye
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:771-cs
+  :CITE-KEY: SCA:796-cs
   :KEYWORDS:
   :END:
 
@@ -339,11 +325,12 @@ Když se mě S. K. Roy zeptal, jestli ho znám, odpověděl jsem: „Dilipa Roye
 
 
 
-* 2.
+* „Povzbuzení má nesmírný význam.“ [fn:SCA-797]
+
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: SCA:772-cs
+  :CITE-KEY: SCA:797-cs
   :KEYWORDS:
   :END:
 
@@ -356,7 +343,6 @@ V každé oblasti mé činnosti se mi dostalo povzbuzení. Také v ášramu --
 
 Všude jsem byl povzbuzován, povzbuzován. Zde, když jsem začal skládat písně, lidé je oceňovali, a tak jsem dostal inspiraci. Všichni potřebujeme povzbuzení. Naopak je-li zde odrazování, potřebujeme obrovskou sílu vůle. Chceme-li něco udělat, bez ohledu na to, jak moc jsme odrazováni, musíme jít kupředu. [fn:2]
 
-[fn:2] / Později během rozhovoru Sri Chinmoy mluvil o povzbuzení./  
 
 
 * Paní Tripathi: Musím říct, že vaše zpěvačky zpívaly překrásné bhajany (indické duchovní písně -- pozn. překladatele) 2. října u příležitosti výročí Gándhího narozenin u jeho sochy na Manhattanu.
@@ -385,16 +371,15 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
 
 
 
-* Poznámka editora
+* Část III [fn:SCA-799-817]
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:774e4-cs
-  :KEYWORDS:
+  :genre: section
+  :keywords:
+  :cite-key: SCA:799e1
   :END:
 
 
-/Následují výňatky z rozhovoru pro deník Indian Express, který vznikl v Pondicherry v Indii v červnu 1999./
 
 
 
@@ -402,7 +387,7 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:774-cs
+  :CITE-KEY: SCA:799-cs
   :KEYWORDS:
   :END:
 
@@ -415,7 +400,7 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:775-cs
+  :CITE-KEY: SCA:800-cs
   :KEYWORDS:
   :END:
 
@@ -428,7 +413,7 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:776-cs
+  :CITE-KEY: SCA:801-cs
   :KEYWORDS:
   :END:
 
@@ -441,7 +426,7 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:777-cs
+  :CITE-KEY: SCA:802-cs
   :KEYWORDS:
   :END:
 
@@ -454,7 +439,7 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:778-cs
+  :CITE-KEY: SCA:803-cs
   :KEYWORDS:
   :END:
 
@@ -472,7 +457,7 @@ Potom jsem získal zelenou kartu, takže jsem mohl v Americe zůstat natrvalo. B
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:779-cs
+  :CITE-KEY: SCA:804-cs
   :KEYWORDS:
   :END:
 
@@ -492,7 +477,7 @@ Potom jsem získal zelenou kartu, takže jsem mohl v Americe zůstat natrvalo. B
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:780-cs
+  :CITE-KEY: SCA:805-cs
   :KEYWORDS:
   :END:
 
@@ -507,7 +492,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:781-cs
+  :CITE-KEY: SCA:806-cs
   :KEYWORDS:
   :END:
 
@@ -520,7 +505,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:782-cs
+  :CITE-KEY: SCA:807-cs
   :KEYWORDS:
   :END:
 
@@ -533,7 +518,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:783-cs
+  :CITE-KEY: SCA:808-cs
   :KEYWORDS:
   :END:
 
@@ -546,7 +531,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:784-cs
+  :CITE-KEY: SCA:809-cs
   :KEYWORDS:
   :END:
 
@@ -559,7 +544,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:785-cs
+  :CITE-KEY: SCA:810-cs
   :KEYWORDS:
   :END:
 
@@ -572,7 +557,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:786-cs
+  :CITE-KEY: SCA:811-cs
   :KEYWORDS:
   :END:
 
@@ -585,7 +570,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:787-cs
+  :CITE-KEY: SCA:812-cs
   :KEYWORDS:
   :END:
 
@@ -602,7 +587,7 @@ Mojí filozofií je přijetí života. Musíme přijmout život -- ne utéct od 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:788-cs
+  :CITE-KEY: SCA:813-cs
   :KEYWORDS:
   :END:
 
@@ -615,7 +600,7 @@ Mojí filozofií je přijetí života. Musíme přijmout život -- ne utéct od 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:789-cs
+  :CITE-KEY: SCA:814-cs
   :KEYWORDS:
   :END:
 
@@ -630,7 +615,7 @@ Jak jsem řekl dříve, naší úlohou je inspirovat jeden druhého. Hudba, umě
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:790-cs
+  :CITE-KEY: SCA:815-cs
   :KEYWORDS:
   :END:
 
@@ -655,7 +640,7 @@ Jak jsem řekl dříve, naší úlohou je inspirovat jeden druhého. Hudba, umě
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:791-cs
+  :CITE-KEY: SCA:816-cs
   :KEYWORDS:
   :END:
 
@@ -670,7 +655,7 @@ Jak už jsem řekl, mou filozofií je přijetí života v jeho nejrůznějšíc
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: SCA:792-cs
+  :CITE-KEY: SCA:817-cs
   :KEYWORDS:
   :END:
 
@@ -678,7 +663,27 @@ Jak už jsem řekl, mou filozofií je přijetí života v jeho nejrůznějšíc
 /Sri Chinmoy:/ Bohu přičítám sto procent. Vím, že já nejsem nic, ale s Milostí Boha je možné všechno.
 
 
+* Poznámky
 
+  :PROPERTIES:
+  :genre: note
+  :keywords:
+  :cite-key: SCA:818e1-cs
+  :END:
+
+
+
+[fn:SCA-788] SCA 788. /Sri Chinmoy odpověděl na následující otázku 3. února 2000 v New Yorku./
+
+[fn:SCA-789] SCA 789. /Sri Chinmoy odpověděl na následující otázku 14. února 2000 v New Yorku./
+
+[fn:SCA-790-798] SCA 790-798. /25. listopadu 1999 se Sri Chinmoy setkal s paní Shashi Tripathi, generální konzulkou Indie v New Yorku. K tomuto setkání došlo v restauraci Annam Brahma na Jamaice v newyorské čtvrti Queens. Zde jsou některé výňatky z jejich rozhovoru./
+
+[fn:SCA-794] SCA 794./Během diskuse o umění Sri Chinmoye./
+
+[fn:SCA-797] SCA 797. /Později během rozhovoru Sri Chinmoy mluvil o povzbuzení./  
+
+[fn:SCA-799-817] SCA 799-817. /Výběr z rozhovoru z června 1999 v Pondicherry, který byl uveřejněn v deníku „Indian Express“./
 
 
 
