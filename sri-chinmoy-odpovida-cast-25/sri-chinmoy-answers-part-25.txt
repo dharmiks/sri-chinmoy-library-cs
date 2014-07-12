@@ -19,16 +19,15 @@
 
 
 
-* Poznámka editora
+
+* Část I   [fn:SCA-831-878]
+
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:805-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:831e1-cs
   :END:
-
-
-/Sri Chinmoy odpověděl na následující otázky o andělech a vílách 23. dubna 1995 v New Yorku./
 
 
 
@@ -37,7 +36,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:806-cs
+  :CITE-KEY: SCA:831-cs
   :END:
 
 
@@ -60,7 +59,7 @@ Andělé mají děti také velmi rádi, ale co se týče vnímavosti, starší l
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:807-cs
+  :CITE-KEY: SCA:832-cs
   :END:
 
 
@@ -78,7 +77,7 @@ Je to jako dva kouzelníci. Jeden má velmi jednoduchou a levnou kouzelnou hůlk
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:808-cs
+  :CITE-KEY: SCA:833-cs
   :END:
 
 
@@ -91,7 +90,7 @@ Je to jako dva kouzelníci. Jeden má velmi jednoduchou a levnou kouzelnou hůlk
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:809-cs
+  :CITE-KEY: SCA:834-cs
   :END:
 
 
@@ -104,7 +103,7 @@ Je to jako dva kouzelníci. Jeden má velmi jednoduchou a levnou kouzelnou hůlk
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:810-cs
+  :CITE-KEY: SCA:835-cs
   :END:
 
 
@@ -117,7 +116,7 @@ Je to jako dva kouzelníci. Jeden má velmi jednoduchou a levnou kouzelnou hůlk
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:811-cs
+  :CITE-KEY: SCA:836-cs
   :END:
 
 
@@ -132,7 +131,7 @@ Dnes jsem na jevišti viděl dívky, které kdysi byly anděly nebo vílami. Pot
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:812-cs
+  :CITE-KEY: SCA:837-cs
   :END:
 
 
@@ -145,7 +144,7 @@ Dnes jsem na jevišti viděl dívky, které kdysi byly anděly nebo vílami. Pot
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:813-cs
+  :CITE-KEY: SCA:838-cs
   :END:
 
 
@@ -158,7 +157,7 @@ Dnes jsem na jevišti viděl dívky, které kdysi byly anděly nebo vílami. Pot
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:814-cs
+  :CITE-KEY: SCA:839-cs
   :END:
 
 
@@ -173,7 +172,7 @@ Tím nemám na mysli Kálí nebo Durgu nebo kosmické bohy a bohyně velmi vysok
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:815-cs
+  :CITE-KEY: SCA:840-cs
   :END:
 
 
@@ -187,7 +186,7 @@ Tím nemám na mysli Kálí nebo Durgu nebo kosmické bohy a bohyně velmi vysok
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:816-cs
+  :CITE-KEY: SCA:841-cs
   :END:
 
 
@@ -200,7 +199,7 @@ Tím nemám na mysli Kálí nebo Durgu nebo kosmické bohy a bohyně velmi vysok
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:817-cs
+  :CITE-KEY: SCA:842-cs
   :END:
 
 
@@ -213,7 +212,7 @@ Tím nemám na mysli Kálí nebo Durgu nebo kosmické bohy a bohyně velmi vysok
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:818-cs
+  :CITE-KEY: SCA:843-cs
   :END:
 
 
@@ -228,7 +227,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:819-cs
+  :CITE-KEY: SCA:844-cs
   :END:
 
 
@@ -241,7 +240,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:820-cs
+  :CITE-KEY: SCA:845-cs
   :END:
 
 
@@ -254,7 +253,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:821-cs
+  :CITE-KEY: SCA:846-cs
   :END:
 
 
@@ -267,7 +266,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:822-cs
+  :CITE-KEY: SCA:847-cs
   :END:
 
 
@@ -280,7 +279,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:823-cs
+  :CITE-KEY: SCA:848-cs
   :END:
 
 
@@ -293,7 +292,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:824-cs
+  :CITE-KEY: SCA:849-cs
   :END:
 
 
@@ -306,7 +305,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:825-cs
+  :CITE-KEY: SCA:850-cs
   :END:
 
 
@@ -319,7 +318,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:826-cs
+  :CITE-KEY: SCA:851-cs
   :END:
 
 
@@ -332,7 +331,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:827-cs
+  :CITE-KEY: SCA:852-cs
   :END:
 
 
@@ -349,7 +348,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:828-cs
+  :CITE-KEY: SCA:853-cs
   :END:
 
 
@@ -362,7 +361,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:829-cs
+  :CITE-KEY: SCA:854-cs
   :END:
 
 
@@ -375,7 +374,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:830-cs
+  :CITE-KEY: SCA:855-cs
   :END:
 
 
@@ -388,7 +387,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:831-cs
+  :CITE-KEY: SCA:856-cs
   :END:
 
 
@@ -413,7 +412,7 @@ V takové chvíli musíte říci: „Ach, mohlo to být horší. Měl jsem vá�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:832-cs
+  :CITE-KEY: SCA:857-cs
   :END:
 
 
@@ -434,7 +433,7 @@ Očekáváme určité věci nejenom od světa, ale také od sebe samých. Když 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:833-cs
+  :CITE-KEY: SCA:858-cs
   :END:
 
 
@@ -447,7 +446,7 @@ Očekáváme určité věci nejenom od světa, ale také od sebe samých. Když 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:834-cs
+  :CITE-KEY: SCA:859-cs
   :END:
 
 
@@ -460,7 +459,7 @@ Očekáváme určité věci nejenom od světa, ale také od sebe samých. Když 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:835-cs
+  :CITE-KEY: SCA:860-cs
   :END:
 
 
@@ -477,7 +476,7 @@ Krása a vůně zahrady vás může inspirovat k větší rychlosti. Může vá
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:836-cs
+  :CITE-KEY: SCA:861-cs
   :END:
 
 
@@ -492,7 +491,7 @@ Musíme být moudří. Je-li naším cílem získat málo, půjdeme k tomu, kdo
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:837-cs
+  :CITE-KEY: SCA:862-cs
   :END:
 
 
@@ -507,7 +506,7 @@ Lidské bytosti jsou také nepřátelské, ale mohou to skrývat. Když se na n�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:838-cs
+  :CITE-KEY: SCA:863-cs
   :END:
 
 
@@ -524,7 +523,7 @@ Pokud mají andělé některé lidské bytosti radši než jiné, půjdou bojova
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:839-cs
+  :CITE-KEY: SCA:864-cs
   :END:
 
 
@@ -537,7 +536,7 @@ Pokud mají andělé některé lidské bytosti radši než jiné, půjdou bojova
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:840-cs
+  :CITE-KEY: SCA:865-cs
   :END:
 
 
@@ -556,7 +555,7 @@ Andělé jsou jako ten člověk, který vám ukázal, kudy jít. Můžete jim b�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:841-cs
+  :CITE-KEY: SCA:866-cs
   :END:
 
 
@@ -569,7 +568,7 @@ Andělé jsou jako ten člověk, který vám ukázal, kudy jít. Můžete jim b�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:842-cs
+  :CITE-KEY: SCA:867-cs
   :END:
 
 
@@ -584,7 +583,7 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:843-cs
+  :CITE-KEY: SCA:868-cs
   :END:
 
 
@@ -598,7 +597,7 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:844-cs
+  :CITE-KEY: SCA:869-cs
   :END:
 
 
@@ -611,7 +610,7 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:845-cs
+  :CITE-KEY: SCA:870-cs
   :END:
 
 
@@ -624,7 +623,7 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:846-cs
+  :CITE-KEY: SCA:871-cs
   :END:
 
 
@@ -637,7 +636,7 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:847-cs
+  :CITE-KEY: SCA:872-cs
   :END:
 
 
@@ -650,7 +649,7 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:848-cs
+  :CITE-KEY: SCA:873-cs
   :END:
 
 
@@ -665,7 +664,7 @@ Když si Bůh na sebe vezme svoji všemohoucí, vševědoucí a všudypřítomno
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:849-cs
+  :CITE-KEY: SCA:874-cs
   :END:
 
 
@@ -678,7 +677,7 @@ Když si Bůh na sebe vezme svoji všemohoucí, vševědoucí a všudypřítomno
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:850-cs
+  :CITE-KEY: SCA:875-cs
   :END:
 
 
@@ -691,7 +690,7 @@ Když si Bůh na sebe vezme svoji všemohoucí, vševědoucí a všudypřítomno
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:851-cs
+  :CITE-KEY: SCA:876-cs
   :END:
 
 
@@ -704,7 +703,7 @@ Když si Bůh na sebe vezme svoji všemohoucí, vševědoucí a všudypřítomno
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:852-cs
+  :CITE-KEY: SCA:877-cs
   :END:
 
 
@@ -719,7 +718,7 @@ Někteří andělé chtějí jít na jiné místo. Není to jako u lidí, kteř�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:853-cs
+  :CITE-KEY: SCA:878-cs
   :END:
 
 
@@ -729,16 +728,15 @@ Dokonce i ve zlém člověku -- ve zloději, v narkomanovi -- je duše. Jedinou
 
 
 
-* Poznámka editora
+* Část II [fn:SCA-879-881] 
+
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:854e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:879e1-cs
   :END:
 
-
-/Následující otázky některých svých portorických žáků zodpověděl Sri Chinmoy v New Yorku 27. listopadu 1999./
 
 
 
@@ -747,7 +745,7 @@ Dokonce i ve zlém člověku -- ve zloději, v narkomanovi -- je duše. Jedinou
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:854-cs
+  :CITE-KEY: SCA:879-cs
   :END:
 
 
@@ -760,7 +758,7 @@ Dokonce i ve zlém člověku -- ve zloději, v narkomanovi -- je duše. Jedinou
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:855-cs
+  :CITE-KEY: SCA:880-cs
   :END:
 
 
@@ -783,7 +781,7 @@ Když jsi byl ještě dítětem a poprvé ses postavil na nohy, tvoje matka měl
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:856-cs
+  :CITE-KEY: SCA:881-cs
   :END:
 
 
@@ -793,20 +791,17 @@ Ty sám si přeješ mé naplnění, ale zároveň se díváš na tu stranu a na
 
 Mělo by Portoriko tak málo Center, kdybys opravdu miloval svého Mistra? Tvoje láska k Nejvyššímu uvnitř mě je rozšířením vědomí Portorika. Čím více budeš milovat Nejvyššího ve mně, tím více se i tvoje vlastní skutečnost a božskost dokáže rozšiřovat, a to nejenom ve tvém vlastním životě, ale i v celém vědomí Portorika. Čím více zvětšíš svou lásku k Nejvyššímu ve mně, k Nejvyššímu v sobě, tím dříve bude Portoriko silné jako stovky slonů. Řekneš: „Miluji svého Gurua.“ Podívej se ale na míru své lásky. V Německu, Rakousku, České Republice a v jiných zemích se rozšířila právě síla lásky. Portoriko jsem si vybral jako první. Vy se unavíte před tím, než začnete svou cestu, zatímco oni nejsou unaveni, ani když je jejich cesta u konce. Nesou moje poselství neustále přesahujícího Za.
 
-Mé portorické děti řeknou: „Ach, naše Centra nerostou kvůli portorickému žáru.“ Vnitřní žár je však nekonečně silnější než vnější žár v Portoriku. Když vyjde na povrch hořící pláč po Bohu, vnější žár Portorika není v porovnání s ním ničím. V Indii se narodilo mnoho zřeců, svatých, duchovních Mistrů a Avatárů. Je snad Indie nejchladnější zemí na světě? Tyto duchovní osobnosti získaly svoji velikost díky svému vnitřnímu žáru, který byl mnohem silnější než vnější žár. Inde stvořila Sri Kršnu, Pána Buddhu, Sri Rámakršnu, Sri Aurobinda a mnoho dalších významných duchovních postav díky vnitřnímu žáru. Podobně i váš vnitřní žár musí hodně zesílit.
+Mé portorické děti řeknou: „Ach, naše Centra nerostou kvůli portorickému žáru.“ Vnitřní žár je však nekonečně silnější než vnější žár v Portoriku. Když vyjde na povrch hořící pláč po Bohu, vnější žár Portorika není v porovnání s ním ničím. V Indii se narodilo mnoho zřeců, svatých, duchovních Mistrů a Avatárů. Je snad Indie nejchladnější zemí na světě? Tyto duchovní osobnosti získaly svoji velikost díky svému vnitřnímu žáru, který byl mnohem silnější než vnější žár. Indie stvořila Sri Kršnu, Pána Buddhu, Sri Rámakršnu, Sri Aurobinda a mnoho dalších významných duchovních postav díky vnitřnímu žáru. Podobně i váš vnitřní žár musí hodně zesílit.
 
 
 
-* Poznámka editora
+* Část III [fn:SCA-882]
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:857e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:882e1-cs
   :END:
-
-
-/ Následující otázky zodpověděl Sri Chinmoy v Curitibě v Brazílii 1. ledna 2000./
 
 
 
@@ -831,7 +826,20 @@ Je ještě jeden způsob, jak pomocí víry překonat strach z neznámého. Kdy
 
 
 
+* Poznámky
 
+  :PROPERTIES:
+  :genre: note
+  :keywords:
+  :cite-key: SCA:883e1-cs
+  :END:
+
+
+[fn:SCA-831-878] SCA 831-878. /Sri Chinmoy odpověděl na následující otázky o andělech a vílách 23. dubna 1995 v New Yorku./
+
+[fn:SCA-879-881] SCA 879-881. /Následující otázky některých svých portorických žáků zodpověděl Sri Chinmoy v New Yorku 27. listopadu 1999./
+
+[fn:SCA-882] SCA 882. /Následující otázku zodpověděl Sri Chinmoy v Curitibě v Brazílii 1. ledna 2000./
 
 
 
