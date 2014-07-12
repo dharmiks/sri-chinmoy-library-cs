@@ -20,16 +20,15 @@
 
 
 
-* Poznámka editora
+* Část I [fn:SCA-761-762]
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:736e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:761e1-cs
   :END:
 
 
-/Následující otázky zodpověděl Sri Chinmoy 5. dubna 1999./
 
 
 
@@ -38,7 +37,7 @@
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:736-cs
+  :CITE-KEY: SCA:761-cs
   :END:
 
 
@@ -65,7 +64,7 @@ Když někdo ztratí inspiraci -- byť by to byli třeba vaši blízcí -- musí
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:737-cs
+  :CITE-KEY: SCA:762-cs
   :END:
 
 
@@ -79,16 +78,13 @@ Proč se tyto konflikty odehrávají? Všechno je to kvůli pýše, pýše a pý
 
 
 
-* Poznámka editora
+* Část II [fn:SCA-763-765]
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:738e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:763e1-cs
   :END:
-
-
-/Následující otázky zodpověděl Sri Chinmoy 18. června 1999./
 
 
 
@@ -97,7 +93,7 @@ Proč se tyto konflikty odehrávají? Všechno je to kvůli pýše, pýše a pý
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:738-cs
+  :CITE-KEY: SCA:763-cs
   :END:
 
 
@@ -114,7 +110,7 @@ Vraťme se však k tvé otázce; narodit se do duchovní rodiny je opravdu skvě
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:739-cs
+  :CITE-KEY: SCA:764-cs
   :END:
 
 
@@ -143,7 +139,7 @@ Jde-li o světlo, potom na pozemském věku nezáleží. Světlo, blaženost, m�
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:740-cs
+  :CITE-KEY: SCA:765-cs
   :END:
 
 
@@ -195,16 +191,13 @@ Moje filozofie spočívá v tom, že když někdo udělá něco zlého, budete n
 
 
 
-* Poznámka editora
+* Část III [fn:SCA-766]
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:741e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:766e1-cs
   :END:
-
-
-/Následující otázku zodpověděl Sri Chinmoy 22. července 1999./
 
 
 
@@ -213,7 +206,7 @@ Moje filozofie spočívá v tom, že když někdo udělá něco zlého, budete n
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:741-cs
+  :CITE-KEY: SCA:766-cs
   :END:
 
 
@@ -270,16 +263,16 @@ Vraťme se však k tvé otázce; lidé, kteří oddělují duchovnost od hudby, 
 Avšak hudebník, který zůstane v duchovním životě, poroste jako lotos -- krůček za krůčkem bude nádherně rozkvétat. Potom položí sám sebe k nohám Boha a Bůh bude velmi spokojen, že dostal tak krásný lotos ke Svým Nohám. Pokud kráčíme po cestě velikosti, nakonec objevíme někoho, kdo je větší a naše touha po velikosti nám pak jenom vykope hrob. Když však nabídneme sami sebe Bohu a budeme se snažit být dobří, Bůh bude nádherně rozkvétat v nás a naším prostřednictvím, lístek po lístku, jako překrásný lotos.
 
 
-* Poznámka editora
+
+* Část IV [fn:SCA-767]
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:742e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: SCA:767e1-cs
   :END:
 
 
-/Následující otázky zodpověděl Sri Chinmoy 17. září 1999./
 
 
 
@@ -288,7 +281,7 @@ Avšak hudebník, který zůstane v duchovním životě, poroste jako lotos -- k
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:742-cs
+  :CITE-KEY: SCA:767-cs
   :END:
 
 
@@ -322,9 +315,26 @@ Duše i po vstupu do světa vždy zná svůj Zdroj. Její Zdroj je neohraničen�
 
 Ve světě duše neexistují zastávky. Není to tak, že tady máte zastávku, tam máte zastávku -- ne. Duše prostě pokračuje a pokračuje. Duši nelze zastavit. Spřátelila se s neomezenou skutečností. Když máme co dělat s neomezenou skutečností, když jsme nedílnou součástí neomezené skutečnosti, když jsme v proudu vše transcendujícího Za, máme neustále bezmezné štěstí a pocit naplnění. Jestliže se kromě toho v takovém okamžiku podíváme na svět kolem sebe, a to nejen v našem vnitřním světě, spatříme obrovskou naději pro občany světa. Tento svět není určen k tomu, aby se v něm plakalo a vzdychalo, plakalo a vzdychalo. Tento svět ztělesňuje naději a příslib, že se stane skutečným hřištěm skutečného ráje našeho Milovaného Pána Nejvyššího. Svět je jako klavír, který má miliony, miliardy a biliony kláves. Když Bůh udá tón, nebo když požádá určitou duši, aby udala tón na klavíru -- světě, už tento jediný tón stačí k pozvednutí vědomí celého světa. 
 
-Jde o velmi dobré znamení, že jsi dostal radost před svými narozeninami a že sis ji udržel. Druhý den jsem přednesl ranní vzpěračskou modlitbu, ve které se říká, že z naší nejistoty bolí Boha hlava a z naší žárlivosti má Bůh infarkt. Na naše nemoci však existují dva léky -- srdce vděčnosti a život odevzdání. Užíváme-li tyto dva léky, nejsme nikdy nešťastní, třebaže nedocilujeme uspokojení na materiální nebo pozemské úrovni. Naše srdce vděčnosti k Nejvyššímu v nás bude neustále udržovat štěstí. Náš život odevzdání Nejvyššímu v nás bude neustále udržovat štěstí. Dokážeme-li cítit, že jsme srdce vděčnosti a život odevzdání, budeme mít stále radost. Pozemský úspěch, vítězství nebo porážka, nemají na nic vliv. Na jedné straně je vítězství, na druhé porážka. Dokážeme-li neustále setrvávat ve vědomí duše, budeme jen přijímat a nabízet štěstí a štěstí a štěstí. Duše bude vždy dávat štěstí tělu, vitálnu, mysli a srdci. Jakmile začne tělo, vitálno, mysl a srdce přijímat světlo duše, které přišlo od Nejvyššího, budeme mít vždy radostné srdce a sebedávající život. A v takovém radostném srdci a sebedávajícím životě přebývá Boží Uspokojení v nezměrné míře.
+Jde o velmi dobré znamení, že jsi dostal radost před svými narozeninami a že sis ji udržel. Druhý den jsem přednesl ranní vzpěračskou modlitbu, ve které se říká, že z naší nejistoty bolí Boha hlava a z naší žárlivosti má Bůh infarkt. Na naše nemoci však existují dva léky -- srdce vděčnosti a život odevzdání. Užíváme-li tyto dva léky, nejsme nikdy nešťastní, třebaže nedocilujeme uspokojení na materiální nebo pozemské úrovni. Naše srdce vděčnosti k Nejvyššímu v nás bude neustále udržovat štěstí. Náš život odevzdání Nejvyššímu v nás bude neustále udržovat štěstí. Dokážeme-li cítit, že jsme srdce vděčnosti a život odevzdání, budeme mít stále radost. Pozemský úspěch, vítězství nebo porážka, nemají na nic vliv. Na jedné straně je vítězství, na druhé je porážka. Dokážeme-li neustále setrvávat ve vědomí duše, budeme jen přijímat a nabízet štěstí a štěstí a štěstí. Duše bude vždy dávat štěstí tělu, vitálnu, mysli a srdci. Jakmile začne tělo, vitálno, mysl a srdce přijímat světlo duše, které přišlo od Nejvyššího, budeme mít vždy radostné srdce a sebedávající život. A v takovém radostném srdci a sebedávajícím životě přebývá Boží Uspokojení v nezměrné míře.
 
 
+* Poznámky 
+
+  :PROPERTIES:
+  :genre: note
+  :keywords:
+  :cite-key: SCA:768e1-cs
+  :END:
+  
+
+
+[fn:SCA-761-762] SCA 761-762. /Následující otázky zodpověděl Sri Chinmoy 5. dubna 1999./
+
+[fn:SCA-763-765] SCA 763-765. /Následující otázky zodpověděl Sri Chinmoy 18. června 1999./
+
+[fn:SCA-766] SCA 766. /Následující otázku zodpověděl Sri Chinmoy 22. července 1999./
+
+[fn:SCA-767] SCA 767. /Následující otázku zodpověděl Sri Chinmoy 17. září 1999./
 
 
 
