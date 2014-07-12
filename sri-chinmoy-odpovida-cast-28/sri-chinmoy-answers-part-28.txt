@@ -19,16 +19,14 @@
 
 
 
-* Část I
+* Část I [fn:SCA-926-939]
+
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:926e1-cs
   :END:
-
-  [fn:part-1]
-
 
 
 
@@ -263,14 +261,12 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
 
 
 
-* Část II
+* Část II [fn:SCA-940-944] 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:940e1-cs
   :END:
-
-  [fn:part-2]
 
 
 
@@ -353,16 +349,13 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
 
 
 
-* Část III
+* Část III [fn:SCA-945-946] 
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:945e1-cs
   :END:
-
-  [fn:part-3]
-
 
 
 
@@ -392,17 +385,13 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
 
 
 
-* Část IV
+* Část IV [fn:SCA-947] 
 
   :PROPERTIES:
   :genre: section
   :keywords:
   :cite-key: SCA:947e1-cs
   :END:
-
-  [fn:part-4]
-
-
 
 
 
@@ -422,18 +411,13 @@ Tento svět je plný smutku, trápení, zklamání a deprese, děje se mnoho nep
 
 
 
-* Část V
+* Část V [fn:SCA-948-953] 
 
   :PROPERTIES:
   :genre: section
   :keywords:
   :cite-key: SCA:948e1-cs
   :END:
-
-  [fn:part-5]
-
-
-
 
 
 
@@ -544,15 +528,13 @@ Když trpíš, neměl by sis říkat: „Bůh nechce, abych pro Něj pracoval. T
 
 
 
-* Část VI
+* Část VI [fn:SCA-954-961] 
 
   :PROPERTIES:
   :genre: section
   :keywords:
   :cite-key: SCA:954e1-cs
   :END:
-
-  [fn:part-6]
 
 
 
@@ -641,13 +623,11 @@ Dnes uděláme něco špatného, zítra se nic nestane a my si proto myslíme, �
 
 * Mluvil jsi o novém tisíciletí, a jak už v divadle nemůžeme po třetím zvonění vstoupit dovnitř. Takže pro toto nové tisíciletí už Boží Hodina udeřila. Mohl bys o tom říci něco více?
 
-
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:958-cs
   :END:
-
 
 /Sri Chinmoy:/ Boží Hodina udeřila. Buď přijmete to božské v sobě, nebo to nebožské. Je tam obojí. Nebožské přichází s velkým pokušením. Je tak krásné, třpytivé a okouzlující. Tehdy řeknete: „Jak by to mohlo být nebožské?“ Božské je naproti tomu velice prosté. Obrátíte se tedy k tomu okouzlujícímu a krásnému. Potom řeknete: „Můj Bože! Takový podvod!“ Když Ravana přišel unést Sítu, měl podobu světce. Potom jí ukázal svou skutečnou podobu, ukázal jí, jak je špatný. Útočí-li špatné síly, vždy přijdou ve velice okouzlující podobě. Musíme být velmi opatrní a ponořit se hluboko dovnitř, abychom zjistili, které síly jsou dobré a které špatné. Nebožské síly si na sebe mohou vzít velice krásnou podobu.
 
@@ -660,13 +640,11 @@ Když spatříte nějakého kosmického boha, ihned byste se měli dotknout jeho
 
 * Řekl jsi, že novost přicházející s novým tisíciletím si může vzít podobu, kterou možná nebudeme schopni rozeznat.
 
-
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:959-cs
   :END:
-
 
 /Sri Chinmoy:/ Budeme-li mít čistotu, naše srdce ji rozezná. Čistota je soudcem. Je-li člověk čistý, mimořádně čistý, potom ji pozná. Čistota -- fyzická, vitální a mentální -- je jako rentgen. Proti čistotě se nic nemůže postavit. Někteří lidé si myslí, že čistota je něco hloupého, zženštilého. Někteří lidé mají pocit, že se mohou očistit prostě tím, že si vymění šaty. Naše mysl je ale také jako špinavé, zamazané oblečení. Musíme ho zahodit a vzít si na sebe něco nového. Potom budeme čistí. Čistota vždy začíná ve vědomí. 
 
@@ -736,26 +714,28 @@ Poselství Ježíše Krista znělo: „Nechť se stane Tvá Vůle.“ Snadno moh
 
 Když vás Mistr popíchne, řeknete: „Ach, já jsem si myslel, že jsi velice laskavý člověk. Jak jsi to mohl udělat?“ Soudíme Mistra pomocí své velmi omezené mysli. Zapomeňte na Mistra. Soudíte svou vlastní nejvyšší božskost pomocí své nižší než nejnižší inteligence nebo poznání. Poznání nemůže jít za určitou úroveň. Můžeme přečíst tisíce knih. Kniha nás může pouze trochu připravit k cestě k Nejvyššímu. Kniha nás do Nejvyššího nikdy nevezme. Kniha nás může inspirovat, jako průvodce. Průvodce nám ukazuje cestu, ale on sám není cílem. Knižní vědomosti nám ukazují cestu, ale poznání není cílem. Jen moudrost může jít výše než nejvýše, dále než nejdále, hlouběji než nejhlouběji. Naše moudrost nám řekne, že naše nejvyšší božskost má vždycky pravdu.
 
+
+
 * Poznámky
 
   :PROPERTIES:
   :genre: note
   :keywords:
-  :cite-key: SCA:962e1
+  :cite-key: SCA:962e1-cs
   :END:
   
 
-[fn:part-1] SCA 926-939. 26. května 1990 se v restauraci Annam Brahma v newyorské Jamaice setkal Sri Chinmoy s dr. Felixem Kuzněcovem z moskevského Gorkého Institutu. Následují výňatky z jejich rozhovoru.
+[fn:SCA-926-939] SCA 926-939. 26. května 1990 se v restauraci Annam Brahma v newyorské Jamaice setkal Sri Chinmoy s dr. Felixem Kuzněcovem z moskevského Gorkého Institutu. Následují výňatky z jejich rozhovoru.
 
-[fn:part-2] SCA 940-944. Následují výňatky z rozhovoru uveřejněném v listu Pravda, který se odehrál 10. června 1990 na Aspiration-Ground. Přítomni byli také dr. Felix Kuzněcov a jeho manželka.
+[fn:SCA-940-944] SCA 940-944. Následují výňatky z rozhovoru uveřejněném v listu Pravda, který se odehrál 10. června 1990 na Aspiration-Ground. Přítomni byli také dr. Felix Kuzněcov a jeho manželka.
 
-[fn:part-3] SCA 945-946. Následující otázky zodpověděl Sri Chinmoy 20. července 1999 v newyorském Huntingtonu.
+[fn:SCA-945-946] SCA 945-946. Následující otázky zodpověděl Sri Chinmoy 20. července 1999 v newyorském Huntingtonu.
 
-[fn:part-4] SCA 947. Následující komentář Sri Chinmoye o olympijských hrách je z 29. září 1999. 
+[fn:SCA-947] SCA 947. Následující komentář Sri Chinmoye o olympijských hrách je z 29. září 1999. 
 
-[fn:part-5] SCA 948-953. Následující otázky zodpověděl Sri Chinmoy 25. listopadu 1999 v New Yorku.
+[fn:SCA-948-953] SCA 948-953. Následující otázky zodpověděl Sri Chinmoy 25. listopadu 1999 v New Yorku.
 
-[fn:part-6] SCA 954-961. Následující otázky zodpověděl Sri Chinmoy 27. prosince 1999 v Curitibě v Brazílii.
+[fn:SCA-954-961] SCA 954-961. Následující otázky zodpověděl Sri Chinmoy 27. prosince 1999 v Curitibě v Brazílii.
 
 
 
