@@ -2046,3 +2046,15 @@ Dveří Božího Srdce.
 
 #+END_VERSE
 
+
+
+
+
+
+#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+
+# Local Variables:
+# mode: org
+# coding: unix
+# End:
+
