@@ -697,6 +697,14 @@ Vděčnost, vděčnost a vděčnost. Duši neznáte; Nejvyššího neznáte. V t
 
 * Notes
 
+  :PROPERTIES:
+  :genre: note
+  :keywords:
+  :cite-key: SCA:32e1-cs
+  :END:
+  
+
+
 [fn:SCA-1-8] SCA 1-8. /25. června 1994 vyzval Sri Chinmoy žáky, kteří jsou na cestě více než dvacet pět let, k otázkám./
 
 [fn:SCA-20-27] SCA 20-27. /4. července 1994, po speciální meditaci na americký den nezávislosti, vyzval Sri Chinmoy své žáky k otázkám./
