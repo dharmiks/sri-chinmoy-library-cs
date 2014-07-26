@@ -695,7 +695,7 @@ Vděčnost, vděčnost a vděčnost. Duši neznáte; Nejvyššího neznáte. V t
 
 
 
-* Notes
+* Poznámky
 
   :PROPERTIES:
   :genre: note
