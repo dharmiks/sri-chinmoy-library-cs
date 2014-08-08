@@ -12,7 +12,7 @@
   :ORIGINAL-EDITION: Nil
   :YEAR: 2001
   :PUBLISHER: Madal Bal
-  :CITE-KEY: RP-1-cs
+  :CITE-KEY: MRP-1-cs
   :GENRE: discourse
   :KEYWORDS:
   :END:
@@ -25,7 +25,9 @@
 Evropské turné Sri Chinmoy začal 8. listopadu 1970. Během dvaceti šesti dní absolvoval šestnáct přednášek a při této příležitosti založil Sri Chinmoy Centra v Londýně, Glasgowu ve Skotsku a v Dublinu v Irsku. Všechny tyto přednášky jsou uvedeny v tomto svazku. 
 
 	Eseje, vybrané z prvních přednášek Sri Chinmoye na univerzitách ve Spojených státech, Evropě a Východní Asii, vyšly původně ve dvou samostatných knihách s názvy “Eastern Light for the Western Mind” a “My Rose Petals, Part 1”. Sri Chinmoy v nich odhaluje svou vizi proměny lidského vědomí i Země samotné na jejich cestě ke stejnému cíli: znovuobjevení a naplnění svého Zdroje. Tato kniha však nabízí mnohem víc než pouhou vizi. Je  také praktickým a podrobným průvodcem pro hledajícího, který se na této cestě snaží zdokonalit svůj život a uvědomit si svou pravou podstatu.
+
 	Slova Sri Chinmoye v sobě ukrývají nezměřitelnou hloubku. Ponoří-li se do nich čtenář a bude na ně meditovat, může snadno zjistit, jak vstoupit do vnitřního světa, a na svou cestu k sebeobjevení získá potřebnou inspiraci. Složité otázky -- jaká je role člověka na zemi, jak překonat strach či proč pravé štěstí nespočívá v ovládání druhých, ale jen ve sjednocení se s nimi -- vysvětluje Sri Chinmoy jednoduchými, a přece bohatými slovy, jejichž mantrickou povahu se snaží zachytit i neobvyklá forma textu.
+
 	Autorovo bezprostřední poznání vnitřních světů promlouvá jasně, zvonivě a naléhavě k srdci čtenáře a nabízí mu návod k naplňujícímu duchovnímu životu. Naší západní mysli přináší povzbuzující a energizující světlo Východu.
 
 
@@ -36,7 +38,7 @@ Evropské turné Sri Chinmoy začal 8. listopadu 1970. Během dvaceti šesti dn�
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:1-cs
+  :CITE-KEY: MRP:1-cs
   :END:
 
 
@@ -75,7 +77,7 @@ Většina z nás má bohužel o smrti špatnou představu. Myslíme si, že smrt
 
 #+BEGIN_QUOTE
 
-"„Co bychom měli dělat, až přijde hodina smrti? Měli bychom se uchýlit ke třem vznešeným myšlenkám: jsme nezničitelní; nikdy nemůžeme být otřeseni; jsme samotnou podstatou života.“ 
+„Co bychom měli dělat, až přijde hodina smrti? Měli bychom se uchýlit ke třem vznešeným myšlenkám: jsme nezničitelní; nikdy nemůžeme být otřeseni; jsme samotnou podstatou života.“ 
 
 -- Čhándógja Upanišada
 
@@ -95,7 +97,7 @@ Kiplingova nesmrtelná slova zní:
 „Budou se vracet, znovu vracet,
 dokud se červená Země bude točit.
 On nikdy nepromarnil lístek ani strom.
-Myslíš, že by plýtval dušemi?“ 
+Myslíš, že by plýtval dušemi?“
 
 -- Rudyard Kipling
 
@@ -153,18 +155,18 @@ Pondělí, 9. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:2-cs
+  :CITE-KEY: MRP:2-cs
   :END:
 
 
-"/Aum. Purnam/..."
+/“Aum. Purnam“.../
 
 #+BEGIN_QUOTE
 
-Nekonečnost je tamto. Nekonečnost je toto.
+„Nekonečnost je tamto. Nekonečnost je toto.
 Z Nekonečnosti Nekonečnost vznikla.
 Z Nekonečnosti je-li Nekonečnost odebrána,
-Nekonečnost zůstává.
+Nekonečnost zůstává.“
 
 #+END_QUOTE
 
@@ -172,7 +174,7 @@ Koncem veškerého poznání je poznání Boha. Toto poznání člověku říká
 
 Syn Boha řekl na základě své nejvyšší realizace a neoddělitelné jednoty se svým Otcem: „Já a můj Otec jsme jedním.“ Poznání Boha nám říká nejenom to, že Bůh je uvnitř nás a pro nás, ale také to, že každá lidská bytost je Jeho. Nakonec nám toto poznání Boha říká, že každá lidská bytost se musí stát Bohem samotným.
 
-"/Brahmosmi/..." „Já jsem Bráhman. Já jsem Bůh.“ To jsme se naučili od védských zřeců minulosti. Védští zřeci realizovali nejvyšší Pravdu a poté tuto nejvyšší Pravdu nabídli lidstvu: dnešní nerealizovaný, nenaplněný člověk je zítřejším realizovaným a naplněným Bohem.
+/“Brahmosmi..."/ „Já jsem Bráhman. Já jsem Bůh.“ To jsme se naučili od védských zřeců minulosti. Védští zřeci realizovali nejvyšší Pravdu a poté tuto nejvyšší Pravdu nabídli lidstvu: dnešní nerealizovaný, nenaplněný člověk je zítřejším realizovaným a naplněným Bohem.
 
 Konec lidského poznání je začátkem božského poznání. Božské poznání a lidská nevědomost jsou dvě věci, které vidíme ve svém každodenním životě. Božské poznání je osvětlující, naplňující a znesmrtelňující síla.
 
@@ -197,7 +199,7 @@ Mysl není to, čemu by měl člověk chtít porozumět;
 
 Z duchovního pohledu si přeji dodat, že mír, světlo, blaženost a síla nejsou to, čemu by člověk měl chtít porozumět. Spíše by měl usilovat o to, aby poznal živoucí ztělesnění míru, světla, blaženosti a síly. Je to taková bytost, která v upřímných, aspirujících duších dokáže vynést do popředí tyto božské kvality. Je to ona, kdo má schopnost inspirovat hledající. Zároveň je to ona, kdo značně pomáhá v probuzení dřímajícího vědomí všech lidských duší. A nakonec je to ona, kdo urychluje cestu hledajících.
 
-Koncem veškerého poznání je poznání sebe sama. Átmanam viddhi -- „Poznej sám sebe.“ Jak můžeme poznat sami sebe? Můžeme poznat sami sebe tak, že přijmeme pomoc od někoho, kdo sám sebe již zná. Bude naším Učitelem, i když je spíš jako soukromý učitel než učitel ve škole. Učitel ve škole nás zkouší a my u zkoušky projdeme, nebo neprojdeme, zatímco soukromý učitel nám z celého srdce pomáhá zkouškou projít. Duchovní Učitel je tedy soukromým učitelem, a ne učitelem ve škole.
+Koncem veškerého poznání je poznání sebe sama. /Átmanam viddhi/ -- „Poznej sám sebe.“ Jak můžeme poznat sami sebe? Můžeme poznat sami sebe tak, že přijmeme pomoc od někoho, kdo sám sebe již zná. Bude naším Učitelem, i když je spíš jako soukromý učitel než učitel ve škole. Učitel ve škole nás zkouší a my u zkoušky projdeme, nebo neprojdeme, zatímco soukromý učitel nám z celého srdce pomáhá zkouškou projít. Duchovní Učitel je tedy soukromým učitelem, a ne učitelem ve škole.
 
 Poznání sebe sama je sebeobjevení. Sebeobjevení je porážka našeho nižšího, neosvíceného já. Sebeobjevení, poznání Boha a sebedobytí -- to vše je jedno a totéž.
 
@@ -205,10 +207,10 @@ Velšská Triáda říká:
 
 #+BEGIN_QUOTE
 
-Jsou tři druhy lidí:
+„Jsou tři druhy lidí:
 člověk v člověku, který dělá dobré dobrému a zlé zlému,
 člověk v Bohu, který dělá dobré zlému,
-a člověk v ďáblu, který dělá zlé dobrému. 
+a člověk v ďáblu, který dělá zlé dobrému.“ 
 
 -- Velšská Triáda
 
@@ -228,9 +230,9 @@ Nesmrtelná básnířka George Eliot zpívá:
 
 #+BEGIN_QUOTE
 
-Naše činy s námi cestují z daleka,
+„Naše činy s námi cestují z daleka,
 a to, čím jsme byli, 
-z nás dělá to, čím jsme teď.
+z nás dělá to, čím jsme teď.“
 
 -- George Eliot
 
@@ -244,9 +246,9 @@ Nesmrtelný básník Shakespeare říká v Hamletovi:
 
 #+BEGIN_QUOTE
 
-Toto nade vším: ke svému já buď pravdivý,
+„Toto nade vším: ke svému já buď pravdivý,
 a je musíš následovat, tak jako noc následuje den.
-K žádnému člověku potom nemůžeš být falešný.
+K žádnému člověku potom nemůžeš být falešný.“
 
 -- William Shakespeare
 
@@ -270,7 +272,7 @@ University of Nottingham \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:3-cs
+  :CITE-KEY: MRP:3-cs
   :END:
 
 
@@ -294,9 +296,10 @@ Poselstvím člověka je zničení.
 
 Cíl dokonalosti a duše svobody patří k sobě. Ten, kdo dosahuje stavu duše svobody, dobyl svůj vnitřní život a znesmrtelnil svůj vnější život. Je vybraným nástrojem Boha. Je přímým kanálem Boha. Je představitelem Boha zde na zemi.
 
-Cry and try.
 
-Plač a snaž se. Když pláčeme, abychom spatřili transcendentální Světlo, a když se snažíme zdokonalit svou vnější přirozenost, naše dokonalost nezůstává vzdáleným voláním. Dokonalost je naše.
+Plač a snaž se. 
+
+Když pláčeme, abychom spatřili transcendentální Světlo, a když se snažíme zdokonalit svou vnější přirozenost, naše dokonalost nezůstává vzdáleným voláním. Dokonalost je naše.
 
 Používej a ovládej.
 
@@ -368,7 +371,7 @@ Středa, 11. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:4-cs
+  :CITE-KEY: MRP:4-cs
   :END:
 
 
@@ -394,10 +397,10 @@ Bůh říká zemi:
 Bůh říká Nebi:
 „Nebuď hloupé. Propastná nevědomost země tě nemůže spoutat, nemůže tě zničit. Naopak, pozemská nevědomost se ti sama nabídne. Budeš to ty, kdo bude transformovat tvář země." 
 
-# + BEGIN_VERSE 
+#+BEGIN_VERSE 
 
 Bůh říká: 
-"Potřebuji vás oba - Nebe i zemi. 
+"Potřebuji vás oba -- Nebe i zemi. 
 Nebe! Musíš zemi předat poselství o realizaci. 
 Země! Musíš nabídnout Nebi poselství o manifestaci, Mé božské Manifestaci."
 
@@ -425,7 +428,7 @@ Pátek, 13. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:5-cs
+  :CITE-KEY: MRP:5-cs
   :END:
 
 
@@ -463,6 +466,7 @@ Třetí okultista žil blízko kostela. Když do kostela každý den přicházel
 Když tito tři okultisté opustili svá těla a zašli za oponu Věčnosti, Bůh řekl tomu prvnímu: „Nepotřebuji tě. Nechci tě. Svět chamtivosti tě chce. Jdi pryč. Jsi určen pro svět chamtivosti a pokušení.“
 
 Druhému okultistovi Bůh řekl: „Nechci tě. Nepo­třebuji tě. Svět zvědavosti tě potřebuje. Jen kupčíš se zázraky. Jdi si do světa zázraků. Já tě nepotřebuji.“
+
 Třetímu, který pomáhal upřímným hledajícím v jejich duchovním snažení, Bůh řekl: „Potřebuji tě. Nutně tě potřebuji. Sloužil jsi mi. Sloužil jsi božskosti v lidstvu. Potřebuji tě. Jsi Můj.“
 
 Žije-li okultista v duši a pracuje pro duši, je božským okultistou. Pokud však žije ve vitálnu a pracuje pro naplnění nižšího vitálna, emocionálního vitálna, nečistého vitálna, potom nežije pro duši. Žije proto, aby uspokojil své vlastní ego, které je nebožské, hrubé, temné, nečisté a špatné.
@@ -499,7 +503,7 @@ Sobota, 14. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:6-cs
+  :CITE-KEY: MRP:6-cs
   :END:
 
 
@@ -551,7 +555,7 @@ University of Essex, Colchester \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:7-cs
+  :CITE-KEY: MRP:7-cs
   :END:
 
 
@@ -619,15 +623,13 @@ Středa, 18. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:8-cs
+  :CITE-KEY: MRP:8-cs
   :END:
 
 
 
 Oxforde, klaním se ti, protože dodržuješ tradice.
-
 Oxforde, klaním se ti, protože jsi slávou Anglie
-
 Oxforde, klaním se ti, protože jsi pýchou Anglie.
 
 
@@ -639,22 +641,23 @@ Aum.
 
 #+BEGIN_QUOTE
 
-/Púrnam adah púrnam idam
-Púrnat púrnam udačjaté
-Púrnásja púrnam adaja
-Púrnam évavasisjaté/
+/Púrnam adah púrnam idam/
+/Púrnat púrnam udačjaté/
+/Púrnásja púrnam adaja/
+/Púrnam évavasisjaté/
 
-Infinity is that. Infinity is this.
-From Infinity, Infinity has come into existence.
-When Infinity is taken away, Infinity remains the same.
+„Nekonečnost je tamto. Nekonečnost je toto.
+Z Nekonečnosti Nekonečnost vznikla.
+Z Nekonečnosti je-li Nekonečnost odebrána,
+Nekonečnost zůstává.“
 
 #+END_QUOTE
 
-Marcus Aurelius said, 
+Marcus Aurelius řekl: 
 
 #+BEGIN_QUOTE
 
-Člověk, který neví, co je vesmír, neví, kde žije.
+„Člověk, který neví, co je vesmír, neví, kde žije.“
 
 -- Marcus Aurelius
 
@@ -695,10 +698,10 @@ Poselství Nekonečného musíme slyšet v konečném. Poselství věčného Za 
 
 #+BEGIN_QUOTE
 
-Abys viděl svět v zrnku písku
+„Abys viděl svět v zrnku písku
 a Nebe v divoké květině,
 drž Nekonečnost na dlani své ruky
-a Věčnost ve vteřině.
+a Věčnost ve vteřině.“
 
 -- William Blake
 
@@ -722,20 +725,20 @@ Platón řekl:
 
 #+BEGIN_QUOTE
 
-Poslušností se učíme poroučet.
+„Poslušností se učíme poroučet.“
 
 -- Platón
 
 #+END_QUOTE
 
 Posloucháme-li vesmírné zákony, můžeme poroučet nevědomosti a vládnout smrti.
-Vědec chce objevit celý vesmír. Také hledající nekonečné Pravdy chce objevit celý vesmír. Duchovní ­vědec a duchovní hledající poběží vždy spolu, neboť mají stejný cíl.
+Vědec chce objevit celý vesmír. Také hledající nekonečné Pravdy chce objevit celý vesmír. Duchovní vědec a duchovní hledající poběží vždy spolu, neboť mají stejný cíl.
 
 Vědec všech vědců, Einstein, nám nabízí nejvznešenější poselství: 
 
 #+BEGIN_QUOTE
 
-Život toho, kdo žije pro druhé, stojí za to.
+„Život toho, kdo žije pro druhé, stojí za to.“
 
 -- Albert Einstein
 
@@ -761,12 +764,12 @@ Keble College, Oxford \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:9-cs
+  :CITE-KEY: MRP:9-cs
   :END:
 
-Jsem nesmírně šťastný, pyšný a hrdý na to, že jsem tu dnes večer ve vašem středu. Strávím na britských ostrovech asi měsíc. Mám-li se vrátit do New Yorku, kde žiji, bez toho, aniž bych složil svůj uctivý hold Walesu, byl by to vrchol mé hlouposti a nevědomosti .
+Jsem nesmírně šťastný, pyšný a hrdý na to, že jsem tu dnes večer ve vašem středu. Strávím na britských ostrovech asi měsíc. Mám-li se vrátit do New Yorku, kde žiji, aniž bych složil svůj uctivý hold Walesu, byl by to vrchol mé hlouposti a nevědomosti.
 
-Rozumím, že toto je malá univerzita -- malá velikostí, ale ne výškou a ne hloubkou. Vím, že tady máte 350 studentů. Byl jsem na Yale, Princetonu , Cornellu, Harvardu a většině významných univerzit ve Spojených státech. Najdete tam tisíce a tisíce studentů. Ale to, co potřebujeme, je kvalita a ne kvantita. To, co potřebujeme, je aspirace a nic jiného. Hledání pravdy -- to je věc, kterou všichni potřebujeme. Když máme toto vnitřní volání po Pravdě, nepotřebujeme nic jiného.
+Rozumím, že toto je malá univerzita -- malá velikostí, ale ne výškou a ne hloubkou. Vím, že tady máte 350 studentů. Byl jsem na Yale, Princetonu, Cornellu, Harvardu a většině významných univerzit ve Spojených státech. Najdete tam tisíce a tisíce studentů. Ale to, co potřebujeme, je kvalita a ne kvantita. To, co potřebujeme, je aspirace a nic jiného. Hledání pravdy -- to je věc, kterou všichni potřebujeme. Když máme toto vnitřní volání po Pravdě, nepotřebujeme nic jiného.
 
 Nyní, jak víte, včera jsem byl v Oxfordu; dnes jsem tady, 23. budu v Cambridge. Pak pojedu navštívit Skotsko, Irsko, Francii a Švýcarsko. Co tam budu dělat? Dělám jen jednu věc. Jako pták létám z jednoho místa na druhé. Má křídla jsou láska a služba. Jedno křídlo je láska, druhé křídlo je služba. Snažím se milovat lidstvo. Snažím se sloužit lidstvu. To je to, co jsem dělal doposud. Tak jsem přišel sem milovat Boha uvnitř vás a sloužit božství uvnitř vás.
 
@@ -792,8 +795,8 @@ Nesmrtelný básník Shakespeare řekl:
 
 #+BEGIN_QUOTE
 
-Uč svou potřebu, aby tě takto vedla. 
-Není žádné takové ctnosti, jako je potřeba
+„Uč svou potřebu, aby tě takto vedla. 
+Není žádné takové ctnosti, jako je potřeba.“
 
 -- William Shakespeare
 
@@ -818,7 +821,7 @@ Philip Sidney řekl:
 
 #+BEGIN_QUOTE
 
-Tvá potřeba je větší než má.
+„Tvá potřeba je větší než má.“
 
 -- Philip Sidney
 
@@ -843,12 +846,12 @@ Pátek, 20. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:10-cs
+  :CITE-KEY: MRP:10-cs
   :END:
 
 Cambridge, skláním se před výškou tvojí aspirace. Skláním se před tvým světlem znalostí. Skláním se před tvou božskou pýchou. Je pravda, že jste z Anglie, jste v Anglii, ale vy patříte širokému světu. Celý svět vás považuje za svého vlastního.
 
-Existuje sedm vyšších světů a sedm nižších světů. Vyšší světy jsou /Bhur, Bhuvar, Swar, Džana, Mahar, Tapas/ a /Satja/. Jedna z upanišad vyjmenovává sedm vyšších sfér. Jsou to /Agnilóka, Vájulóka, Varunalóka, Aditjalóka, Indralóka, Pradžápatilóka/ a /Brahmalóka/. Některé duchovní osobnosti jsou toho názoru, že prvně zmiňovaná skupina světů odpovídá té druhé. Jiní, stejně způsobilí, tomu oponují. Kupodivu všichni bez výjimky souhlasí s tím, že světy /Satja/ a /Brahmalóka/ jsou jedním a tímtéž.
+Existuje sedm vyšších světů a sedm nižších světů. Vyšší světy jsou /Bhur, Bhuvar, Swar, Džana, Mahar, Tapas/ a /Satja/. Jedna z upanišad vyjmenovává sedm vyšších sfér. Jsou to /Agnilóka, Vájulóka, Varunalóka, Aditjalóka, Indralóka, Pradžápatilóka/ a /Brahmalóka/. Některé duchovní osobnosti jsou toho názoru, že prvně zmiňovaná skupina světů odpovídá té druhé. Jiní, stejně způsobilí, tomu oponují. Kupodivu všichni bez výjimky souhlasí s tím, že světy /Satja/ a  /Brahmalóka/ jsou jedním a tímtéž.
 
 Do těchto světů můžeme vstoupit na základě své aspirace a vnímavosti. Pokud máme aspiraci a vnímavost, tyto světy nezůstanou nikdy vzdáleným voláním.
 
@@ -868,7 +871,7 @@ Zde bych rád vzýval duši Marka Aurelia, který řekl:
 
 #+BEGIN_QUOTE
 
-Bohové buď mají sílu nám pomáhat, nebo nemají. Pokud ji nemají, jaký má smysl se k nim modlit? Pokud ji mají, proč se nemodlit, aby vaše touhy spíše odstranili, než aby je uspokojili, aby vás povznesli nad strach, spíše než aby vás ochraňovali před věcí, které se bojíte?
+„Bohové buď mají sílu nám pomáhat, nebo nemají. Pokud ji nemají, jaký má smysl se k nim modlit? Pokud ji mají, proč se nemodlit, aby vaše touhy spíše odstranili, než aby je uspokojili, aby vás povznesli nad strach, spíše než aby vás ochraňovali před věcí, které se bojíte?“
 
 -- Marcus Aurelius
 
@@ -878,7 +881,7 @@ Filozof Porphyry vrhá na věc další světlo:
 
 #+BEGIN_QUOTE
 
-Musíme Boha žádat jen o takové dary, které jsou Jej hodny, to jest o takové věci, které nemůžeme získat od nikoho jiného než od Boha.
+„Musíme Boha žádat jen o takové dary, které jsou Jej hodny, to jest o takové věci, které nemůžeme získat od nikoho jiného než od Boha.“
 
 -- Porphyry of Tyre
 
@@ -906,7 +909,9 @@ Upřímný hledající nejvyšší Pravdy může jít buď po cestě poznání, 
 Žijeme buď ve světě lidské myšlenky, nebo ve světě božské vůle.
 Lidská myšlenka zpomaluje a zaniká, božská vůle však neustále roste a rychle plyne. Podobně je lidská síla zrozená z prázdnoty. Božská vůle je zrozená ze skutečnosti.
 
-Nakonec si všimneme lásky: lidské lásky a božské lásky. Lidská láska je expresním vlakem: cíl -- zklamání.
+Nakonec si všimneme lásky: lidské lásky a božské lásky. 
+
+Lidská láska je expresním vlakem: cíl -- zklamání.
 Božská láska je osobním vlakem: cíl -- osvícení.
 
 Lidská fyzická láska je pomalý jed.
@@ -931,9 +936,9 @@ nahradí lásku k síle,
 
 Zlatá hodina, Hodina Boha, se rychle blíží. Nabídněme aspiraci svého srdce vznešenému uskutečnění zřeců dávné minulosti:
 
-/ánandadd hy eva khalv imani bhútani džajanté
-ánandena džátani džívantí
-ánandam prajantjabhišam višantí/
+/ánandadd hy eva khalv imani bhútani džajanté/
+/ánandena džátani džívantí/
+/ánandam prajantjabhišam višantí/
 
 „Z Blaženosti jsme vzešli.
 V Blaženosti rosteme.
@@ -951,7 +956,7 @@ Pondělí, 23. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:11-cs
+  :CITE-KEY: MRP:11-cs
   :END:
 
 Jeden velký spisovatel kdysi řekl: „Filozof je ten, kdo pochybuje.“ Dle mého nedůležitého názoru jsme všichni filozofové, protože na zemi není nikoho, kdo by alespoň jednou nezapochyboval.
@@ -968,7 +973,7 @@ Víra a pochybnost jsou jako severní a jižní pól. Člověk víry zůstává 
 
 #+BEGIN_QUOTE
 
-Největší povznesení duše mě pokaždé činí pokorným.
+„Největší povznesení duše mě pokaždé činí pokorným.“
 
 -- John Keats
 
@@ -990,7 +995,7 @@ Proč pochybujeme? Protože nám chybí správné porozumění. Byl to velký du
 
 #+BEGIN_QUOTE
 
-Poslouchejte mě, bratři. Ten, kdo miluje, rozumí.
+„Poslouchejte mě, bratři. Ten, kdo miluje, rozumí.“
 
 -- Kabīr
 
@@ -1040,7 +1045,7 @@ Středa, 25. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:12-cs
+  :CITE-KEY: MRP:12-cs
   :END:
 
 Láska je sladká. Oddanost je sladší. Odevzdání je nejsladší.
@@ -1055,7 +1060,7 @@ Láska, oddanost a odevzdání. Svatý Augustin nás požehnal hlubokým poselst
 
 #+BEGIN_QUOTE
 
-Miluj Boha a potom dělej, co chceš.
+„Miluj Boha a potom dělej, co chceš.“
 
 -- Svatý Augustin
 
@@ -1067,16 +1072,18 @@ Naše mysl si myslí, že je to naprostá pravda. Naše srdce cítí, že je to 
 Co je láska? Z duchovního pohledu je láska seberozpětím. Lidská láska je omezená, proto spoutává a je spoutaná. Ale božská láska se zvětšuje a rozšiřuje. Já zde mluvím o božské lásce. Oddanost je intenzita v lásce a odevzdání je naplnění lásky.
 
 Proč milujeme? Milujeme, protože nás neustále trápí hlad po tom, abychom realizovali to nejvyšší, cítili to nejvnitřnější, byli vědomě jedním s vesmírem, univerzální pravdou, světlem, mírem a blažeností a byli zcela naplněni.
+
 Jak milovat? Pokud milujeme proto, abychom od druhých něco dostali, potom naše láska není skutečnou láskou. Skutečná láska znamená neustálé sebe-nabízení na základě naší vlastní vnitřní aspirace.
 
 Tento náš svět potřebuje mír, radost, blaženost, harmonii a porozumění. Máme pocit, že zde na zemi není žádné světlo, žádná pravda, žádná božskost -- nic takového. Všechny božské kvality, všechny aspekty Pána Nejvyššího jsou na sytě modré obloze. Proto se pro pomoc obracíme vždy vzhůru. Cítíme, že Bůh je v Nebi, ne na zemi. Aby nás zachránil, bude muset sestoupit do tohoto světa. Zde na zemi, kde si hovíme v potěšeních nevědomosti, není Bůh k nalezení.
+
 Musíme si ale uvědomit, že jelikož je Bůh všudypřítomný, je také zde. Je uvnitř nás. Je také okolo. Jeho živoucí Přítomnost můžeme cítit v nejvnitřnějších zákoutích svého srdce a všude kolem sebe.
 
 George Bernard Shaw varoval: 
 
 #+BEGIN_QUOTE
 
-Dejte si pozor na člověka, jehož Bůh je v Nebi.
+„Dejte si pozor na člověka, jehož Bůh je v Nebi.“
 
 -- George Bernard Shaw
 
@@ -1091,14 +1098,15 @@ A nyní co se děje v podvečer našeho života? Pokud vedeme duchovní život, 
 
 #+BEGIN_QUOTE
 
-Nejšťastnější člověk je ten, který dokáže spojit podvečer svého života s jeho začátkem
+„Nejšťastnější člověk je ten, který dokáže spojit podvečer svého života s jeho začátkem“
 
 -- Dante Alighieri
 
 #+END_QUOTE
 
 Jsme-li upřímní hledající nejvyšší Pravdy, potom naše cesta začíná odevzdáním se rodičům, kteří nám přejí to nejlepší, jsou nám nejmilejší a nejbližší. Když jim odevzdáme svou existenci, získáváme nesmírnou radost. Když poté kráčíme po cestě duchovnosti, snažíme se poslouchat příkazy své vnitřní bytosti. Čím více svou vnitřní bytost posloucháme, tím větší je naše radost a tím větší je naše naplnění. Když posléze náš život končí, když musíme na krátký odpočinek vstoupit do jiného světa a vědomě se v tu chvíli odevzdáváme Boží Vůli, získáme nejvyšší radost, slávu nejvyšší.
-Těžké je milovat lidstvo. Těžké je oddat se lidstvu. Těžké je odevzdat se lidstvu. To je pravda. Stejně tak je těžké milovat Boha, oddat se Bohu a odevzdat Bohu svůj živoucí dech. Proč? Prostý důvod je ten, že chceme vlastnit a být vlastněni. Jsme neustále obětí ­nevědomosti, protože pozemské touhy, i když jsou naplněny, nám nikdy nemohou dát skutečné uspokojení.
+
+Těžké je milovat lidstvo. Těžké je oddat se lidstvu. Těžké je odevzdat se lidstvu. To je pravda. Stejně tak je těžké milovat Boha, oddat se Bohu a odevzdat Bohu svůj živoucí dech. Proč? Prostý důvod je ten, že chceme vlastnit a být vlastněni. Jsme neustále obětí nevědomosti, protože pozemské touhy, i když jsou naplněny, nám nikdy nemohou dát skutečné uspokojení.
 
 Máme nespočet tužeb, Bůh však naplní jen ty, ze kterých můžeme mít nějaký užitek. Kdyby naplnil všechny naše nespočetné touhy, byl by nespravedlivý k naší aspirující duši. To On neudělá, neboť je k nám veškerou Láskou. Ví, co je pro nás nejlepší, a již nám dal více, než máme schopnost přijímat, i když si toho většina z nás není bohužel vědoma.
 
@@ -1106,7 +1114,7 @@ Svatý František ze své vlastní zkušenosti nabídl celému světu jedinečno
 
 #+BEGIN_QUOTE
 
-Ten, kdo si myslí, že Boží Láska je nedostačující, je velice chamtivý.
+„Ten, kdo si myslí, že Boží Láska je nedostačující, je velice chamtivý.“
 
 -- František z Assisy
 
@@ -1124,7 +1132,7 @@ Největší indický básník, Rabíndranáth Thákur, řekl:
 
 #+BEGIN_QUOTE
 
-Pro toho, kdo miluje, jsou dveře vždy otevřené.
+„Pro toho, kdo miluje, jsou dveře vždy otevřené.“
 
 -- Rabíndranáth Thákur
 
@@ -1162,7 +1170,7 @@ Pátek, 27. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:13-cs
+  :CITE-KEY: MRP:13-cs
   :END:
 
 
@@ -1194,9 +1202,11 @@ Co je neduchovní? Použijme slovo ‚materiální‘. Něco materiálního je b
 Božské bohatství a materiální bohatství. Božským bohatstvím je naše vnitřní aspirace. Tato aspirace je písní Nekonečnosti, Věčnosti a Nesmrtelnosti uvnitř nás. Materiální bohatství je touha. Je to pláč po okamžitém a neustálém vlastnictví. Když se snažíme vlastnit, bohužel zjišťujeme, že jsme již vlastněni. Když se však někoho snažíme vidět světlem své duše, cítíme, že jsme již osvobozeni a on je také osvobozen. Až na zemi zasvitne božská moudrost, uvědomíme si, že cokoliv pomíjivého je zbytečné.
 
 Božskost a Nesmrtelnost jsou uvnitř nás. Nesmrtelnost nám říká, co dělat, a Božskost nám říká, jak to dělat. Nesmrtelnost nám říká, abychom poslouchali příkazy své duše, která je jiskrou Nejvyššího Světla. Říká nám, abychom si vždy uvědomovali Vnitřního kormidelníka. Božskost nám říká, že to dokážeme udělat pomocí sebeukázněného života, skrze zasvěcení se vyšší věci, skrze pročištění své vnější přirozenosti a skrze neutuchající a bezvýhradnou lásku k Bohu.
+
 Spoutání a nevědomost jsou rodiče noci. Nevědomost nám říká, co dělat, a spoutání nám říká, jak to dělat. Nevědomost nám říká, abychom zničili svět, a spoutání nám říká, abychom to udělali hrubostí, surovostí a dalšími nebožskými prostředky.
 
 Duchovní hledající se snaží vejít do nejvnitřnějších zákoutí svého srdce a odtud se pokouší vynést na povrch světlo. Pomocí tohoto světla chce vrůst do dechu toho, co je trvalé. A aby vrostl do dechu trvalého, potřebuje vnitřní moudrost.
+
 V Bhagavadgítě, Písni Nebeské, říká Pán Krišna Ardžunovi, svému božskému nástroji: „Ó Ardžuno, moudrý je člověk, který ovládá smysly.“ Když totiž porazíme své smysly, vstoupíme do říše moudrosti, kde roste skutečnost a plyne božskost.
 
 Ke vstupu do světa moudrosti potřebujeme neustálou lásku -- lásku k pravdě, lásku ke světlu. Teď však máme rádi pomíjivou pravdu, pomíjivé světlo, pomíjivé vlastnictví. Pomíjivé vlastnictví, které teď máme a které opatrujeme, se pravdy nesmírně obává. Pochybuje o pravdě a bojí se Boha. Naše božské vlastnictví, aspirace, však pravdu vzývá a Boha uctívá.
@@ -1235,7 +1245,7 @@ Pondělí, 30. listopadu 1970
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:14-cs
+  :CITE-KEY: MRP:14-cs
   :END:
 
 
@@ -1296,7 +1306,7 @@ Trinity College, Dublin \\
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: RP:15-cs
+  :CITE-KEY: MRP:15-cs
   :END:
 
 Bůh myslí na svou Povinnost. Bůh medituje na svou Povinnost.
@@ -1327,11 +1337,11 @@ Před mnoha lety se někdo zeptal významného indického vědce P. C. Raye, kol
 
 Každý člověk má schopnost sloužit druhým. Pomáhat nám může jen Bůh a to On dělá vždy. To, co můžeme dělat, je sloužit Bohu tím, že budeme zde na zemi sloužit druhým. Jako služebník Boha má každý jedinec schopnost sloužit lidstvu. Služba je naší jedinečnou povinností.
 
-Povinnost a odměna k sobě z duchovního hlediska patří jako rub a líc jedné mince. Povinnost je člověk--aspirace a odměna je Bůh-Realizace a Bůh-Osvobození. A zároveň, v odměně je věčná cesta člověka, jeho vždy se překonávající cesta, a v povinnosti je Bůh vždy se přeměňující, vždy se projevující a vždy se naplňující Skutečnost zde na zemi i tam v Nebi.
+Povinnost a odměna k sobě z duchovního hlediska patří jako rub a líc jedné mince. Povinnost je člověk-aspirace a odměna je Bůh-Realizace a Bůh-Osvobození. A zároveň, v odměně je věčná cesta člověka, jeho vždy se překonávající cesta, a v povinnosti je Bůh vždy se přeměňující, vždy se projevující a vždy se naplňující Skutečnost zde na zemi i tam v Nebi.
 
 #+BEGIN_QUOTE
 
-Aum.
+„Aum.
 Ó Pane Nejvyšší,
 Ty jsi mou Matkou.
 Ty jsi mým Otcem.
