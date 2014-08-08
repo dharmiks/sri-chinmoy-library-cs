@@ -134,11 +134,11 @@ je mým hladem aspirace.
 
 Bože, modlím se k Tobě,
 abys přede mnou schoval
-svou Velikost.
+Tvou Velikost.
 
 Bože, modlím se k Tobě,
 abys mi projevil 
-svou Dobrotu.
+Tvou Dobrotu.
 
 #+END_VERSE
 
@@ -174,11 +174,11 @@ Tvou Dobrotu.
 
 #+BEGIN_VERSE
 
-Bože, použij svou Velikost,
+Bože, použij Tvou Velikost,
 abys ovládal továrnu
 mé mysli.
 
-Bože, použij svou Dobrotu,
+Bože, použij Tvou Dobrotu,
 abys řídil loď mého srdce.
 
 #+END_VERSE
