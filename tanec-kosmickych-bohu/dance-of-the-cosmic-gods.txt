@@ -11,7 +11,7 @@
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
   :YEAR: 2000
-  :PUBLISHER: Madal Bal
+  :PUBLISHER: (knižně nevydáno)
   :CITE-KEY: DCG-cs
   :GENRE: discourse
   :KEYWORDS:

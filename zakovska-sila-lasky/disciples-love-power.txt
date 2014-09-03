@@ -11,7 +11,7 @@
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: Nil
   :YEAR: 2007
-  :PUBLISHER: Sri Chinmoy Centrum
+  :PUBLISHER: (knižně nevydáno)
   :CITE-KEY: DSLP-cs
   :GENRE: story
   :KEYWORDS:

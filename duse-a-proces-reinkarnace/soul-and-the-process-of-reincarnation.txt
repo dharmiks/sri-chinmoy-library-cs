@@ -11,7 +11,7 @@
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
   :YEAR: 1999
-  :PUBLISHER: Madal Bal
+  :PUBLISHER: (knižně nevydáno)
   :CITE-KEY: SPR-cs
   :GENRE: qa
   :KEYWORDS:

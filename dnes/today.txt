@@ -11,7 +11,7 @@
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
   :BOOK-YEAR: 2007
-  :PUBLISHER: Madal Bal
+  :PUBLISHER: (knižně nevydáno)
   :CITE-KEY: TDY-cs
   :GENRE: poem
   :KEYWORDS:

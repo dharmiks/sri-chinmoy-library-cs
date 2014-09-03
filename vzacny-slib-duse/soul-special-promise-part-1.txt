@@ -11,7 +11,7 @@
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: Nil
   :YEAR: 2000
-  :PUBLISHER: Sri Chinmoy Centrum
+  :PUBLISHER: (knižně nevydáno)
   :CITE-KEY: SSP-1-cs
   :GENRE: qa
   :KEYWORDS:
