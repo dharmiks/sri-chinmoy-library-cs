@@ -1,4 +1,5 @@
-#+TITLE: Padesát písní jednoty srdce dokonalého Boha a dokonalého dítěte#+AUTHOR: Sri Chinmoy
+#+TITLE: Padesát písní jednoty srdce dokonalého Boha a dokonalého dítěte
+#+AUTHOR: Sri Chinmoy
 #+LANGUAGE: cs
 
 
