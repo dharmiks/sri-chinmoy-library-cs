@@ -76,7 +76,7 @@ na Boha.
 
 Jen když žiješ v srdci,
 můžeš očekávat, že budeš cítit
-přítomnost své duše.
+přítomnost své duše,
 jinak nebudeš nic než
 pomatený spěch a trápení
 své mysli.
@@ -97,7 +97,7 @@ své mysli.
 #+BEGIN_VERSE
 
 Je nějaká mysl,
-která si nemyslí.
+která si nemyslí,
 že může být snadno
 odborník na Boha?
 
@@ -139,7 +139,7 @@ se plné bolesti skrývá.
 Docela často očekávání ztělesňuje
 špatné a smutné zprávy.
 Proto si musíme dát pozor
-na naše rozližná očekávání.
+na naše rozličná očekávání.
 
 #+END_VERSE
 
@@ -307,8 +307,8 @@ se zapadajícím sluncem.
 #+BEGIN_VERSE
 
 Jestliže dovolíš své mysli,
-aby nechala své dveře široce otevřené
-pochybám, 
+aby nechala své dveře 
+široce otevřené pochybám, 
 potom Bohem kvetoucí víru 
 nebudeš nikdy schopen považovat
 za svou vlastní.
@@ -462,7 +462,7 @@ uvnitř tvé tiché mysli
 je vskutku semínkem míru
 a zanedlouho se tato semínka
 budou moci těšit
-ze své zlaté sklizně..
+ze své zlaté sklizně.
 
 #+END_VERSE
 
@@ -808,7 +808,7 @@ Jestliže aspiruješ,
 potom Bůh Sám vládne tvému životu.
 Ale jestliže jsi ve světě tužeb,
 potom tvému životu rozhodně vládne
- tvá mysl.
+tvá mysl.
 
 #+END_VERSE
 
