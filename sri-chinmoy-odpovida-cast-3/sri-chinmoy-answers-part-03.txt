@@ -19,7 +19,7 @@
 
 
 
-* Část I [fn:SCA-55-56]
+* Část I[fn:: SCA 55-56. 3. srpna 1993 na výstavě 70 000 kreseb „Dream-Freedom-Peace-Birds“, Soho, New York]
 
 
   :PROPERTIES:
@@ -37,6 +37,7 @@
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:55-cs
+  :DATE-EVENT: 93-08-03
   :END:
 
 
@@ -54,6 +55,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:56-cs
+  :DATE-EVENT: 93-08-03
   :END:
 
 
@@ -66,7 +68,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 
 
 
-* Část II [fn:SCA-57-64]
+* Část II[fn:: SCA 57-64. Otázky a odpovědi na výstavě „Jharna Kala“ 3. srpna 1993, Soho, New York]
 
   :PROPERTIES:
   :GENRE: section
@@ -82,6 +84,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:57-cs
+  :DATE-EVENT: 93-08-03
   :END:
 
 
@@ -94,6 +97,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:58-cs
+  :DATE-EVENT: 93-08-03
   :END:
 
 
@@ -107,6 +111,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:59-cs
+  :DATE-EVENT: 93-08-03
   :END:
 
 
@@ -119,6 +124,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:60-cs
+  :DATE-EVENT: 93-08-03
   :END:
 
 
@@ -132,6 +138,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:61-cs
+  :DATE-EVENT: 93-08-03
   :END:
 
 
@@ -145,6 +152,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:62-cs
+  :DATE-EVENT: 93-08-03
   :END:
 
 
@@ -158,6 +166,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:63-cs
+  :DATE-EVENT: 93-08-03
   :END:
 
 
@@ -170,13 +179,14 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:64-cs
+  :DATE-EVENT: 93-08-03
   :END:
 
 
 /Sri Chinmoy:/ Přeji si nabídnout pouze jedno poselství: Modlete se k Nejvyššímu, meditujte na Pána Nejvyššího, našeho Nebeského Otce, abyste byli k jeho službám, co nejoduševněleji, nejodevzdaněji a bezpodmínečně. Každý člověk se modlí k Bohu svým vlastním způsobem, ale obvykle je tam nějaká podmínka: „Bože, když pro mě uděláš tohle, potom se k Tobě budu modlit.“ Někdo se modlí k Bohu, jen aby naplnil své vlastní cíle -- aby se stal nejlepším zpěvákem či nejlepším umělcem. Takže většinu času se modlíme s podmínkami. Ale my se musíme modlit k Bohu bezpodmínečně a zrovna tak na něj meditovat, abychom naplnili Boha Jeho Vlastním Způsobem. Potom je na Bohu, zda chce či nechce naplnit naše modlitby. Neměli bychom se modlit k Bohu, aby nás učinil skvělými a jedinečnými. Ale naším cílem musí být potěšit Boha Jeho vlastním Způsobem. Tohle je moje nejvyšší poselství. Bylo stejné včera, je stejné dnes a bude stejné zítra: potěšit Boha a naplnit Jej Jeho vlastním Způsobem. 
 
 
-* Část III [fn:SCA-65-72]
+* Část III[fn:: SCA 65-72. Rozhovor pro časopis „New Yorker“ na výstavě „70 000 Dream-Freedom-Peace-Birds“ Soho, New York]
 
   :PROPERTIES:
   :GENRE: section
@@ -193,6 +203,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:65-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -206,6 +217,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:66-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -221,6 +233,7 @@ Když si koupíme klec a dáme dovnitř ptáka, tento pták je omezován. Ale kd
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:67-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -240,6 +253,7 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:68-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -253,6 +267,7 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:69-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -266,6 +281,7 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:70-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 /Sri Chinmoy:/ Ano, jen vsedě. Obvykle když kreslím, snažím se být v kontemplativní náladě -- v oduševnělém vědomí plném modlitby -- a nemluvím. Obvykle kreslím brzy ráno, když jsem jen sám se sebou, nebo když jsem v autě. Ale někdy kreslím, i když jsou okolo lidé a já jsem uprostřed shonu každodenního života.
@@ -278,6 +294,7 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:71-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -302,6 +319,7 @@ Tito ptáci zrcadlí jednotu srdce. Představují jednotu v mnohosti. Každý pt
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:72-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -313,7 +331,7 @@ Tito ptáci zrcadlí jednotu srdce. Představují jednotu v mnohosti. Každý pt
 
 
 
-* Část IV [fn:SCA-73-77]
+* Část IV[fn:: SCA 73-77. 6. ledna 1994 proběhl se Sri Chinmoyem živý rozhovor po telefonu v rozhlasovém pořadu „As It Happens“ kanadské rozhlasové stanice CBC. Následující pasáž je přepisem tohoto rozhovoru]
 
   :PROPERTIES:
   :GENRE: section
@@ -330,6 +348,7 @@ Pane Sri Chinmoyi, musíte být velmi potěšen, že jste úspěšně nakreslil 
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:73-cs
+  :DATE-EVENT: 94-01-06
   :END:
 
 
@@ -343,6 +362,7 @@ Pane Sri Chinmoyi, musíte být velmi potěšen, že jste úspěšně nakreslil 
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:74-cs
+  :DATE-EVENT: 94-01-06
   :END:
 
 
@@ -358,6 +378,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:75-cs
+  :DATE-EVENT: 94-01-06
   :END:
 
 
@@ -378,6 +399,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:76-cs
+  :DATE-EVENT: 94-01-06
   :END:
 
 
@@ -392,6 +414,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:77-cs
+  :DATE-EVENT: 94-01-06
   :END:
 
 /Sri Chinmoy:/ Ona a prezident Gorbačov jsou mí blízcí přátelé. Politice vůbec nerozumím, jsem pouze hledajícím pravdy a milovníkem Boha. Ale cítím, že prezident Gorbačov je rovněž upřímným hledajícím a opravdovým člověkem míru. Proto jej nanejvýš obdivuji a miluji. Setkal jsem se s ním pětkrát nebo šestkrát. Mé první setkání s ním se odehrálo shodou okolností před čtyřmi lety v Ottawě.
@@ -405,7 +428,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 
 
 
-* Část V [fn:SCA-78-88]
+* Část V[fn:: SCA 78-88. Otázky a odpovědi z výstavy kreseb „Dream-Freedom-Peace-Bird“]
 
   :PROPERTIES:
   :GENRE: section
@@ -421,6 +444,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:78-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -434,6 +458,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:79-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -447,6 +472,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:80-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -460,6 +486,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:81-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -473,6 +500,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:82-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -485,6 +513,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:83-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -498,6 +527,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:84-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -511,6 +541,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:85-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -524,6 +555,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:86-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -536,6 +568,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:87-cs
+  :DATE-EVENT: 93-08-00
   :END:
 
 
@@ -549,6 +582,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:88-cs
+  :DATE-EVENT: 93-08-00
   :END:
   
 
@@ -560,7 +594,7 @@ Z pohledu lidí je milion ptáčků víc než dost. Ale v čemkoliv, co je dobr�
 
 
 
-* Část VI [fn:SCA-89-91]
+* Část VI[fn:: SCA 89-91. 16. června 1994 se Sri Chinmoy setkal s Lindsayem Clennellem, filmovým scénáristou a producentem, v restauraci Annam Brahma v Queensu. Následují výňatky z jejich rozhovoru]
 
   :PROPERTIES:
   :GENRE: section
@@ -576,6 +610,7 @@ Z pohledu lidí je milion ptáčků víc než dost. Ale v čemkoliv, co je dobr�
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:89-cs
+  :DATE-EVENT: 94-06-16
   :END:
 
 
@@ -598,6 +633,7 @@ Proto říkám Bohu: „Kopej mě tak silně, jak je to jen možné. Jen potom T
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:90-cs
+  :DATE-EVENT: 94-06-16
   :END:
 
 
@@ -614,6 +650,7 @@ Mysl nám říká, že můžeme dosáhnout jen určité výšky, ale jak víme, 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:91-cs
+  :DATE-EVENT: 94-06-16
   :END:
 
 
@@ -633,7 +670,7 @@ Mé tělo má ruce, nohy, oči a tak dále. Mám upřednostňovat pouze své ruc
 
 
 
-* Část VII [fn:SCA-92-112]
+* Část VII[fn:: SCA 92-112. Následující básně nazvané „Mé Umění“ napsal Sri Chinmoy 1. a 2. listopadu na oslavu otevření výstavy „100 000 Dream-Freedom-Peace-Birds“ v kanadské Ottawě]
 
   :PROPERTIES:
   :GENRE: section
@@ -1136,36 +1173,6 @@ Tví ptáčci zpívají
 ve Věčném Míru, Míru, Míru.
 
 #+END_VERSE
-
-
-* Poznámky
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:114e1-cs
-  :END:
-
-
-
-[fn:SCA-55-56] SCA 55-56. /3. srpna 1993 na výstavě 70 000 kreseb „Dream-Freedom-Peace-Birds“, Soho, New York/
-
-[fn:SCA-57-64] SCA 57-64. /Otázky a odpovědi na výstavě „Jharna Kala“ 3. srpna 1993, Soho, New York/
-
-[fn:SCA-65-72] SCA 65-72. /Rozhovor pro časopis „New Yorker“ na výstavě „70 000 Dream-Freedom-Peace-Birds“
- Soho, New York/
-
-
-[fn:SCA-73-77] SCA 73-77. /6. ledna 1994 proběhl se Sri Chinmoyem živý rozhovor po telefonu v rozhlasovém pořadu „As It Happens“ kanadské rozhlasové stanice CBC. Následující pasáž je přepisem tohoto rozhovoru./
-
-[fn:SCA-78-88] SCA 78-88. /Otázky a odpovědi z výstavy kreseb „Dream-Freedom-Peace-Bird“./
-
-[fn:SCA-89-91] SCA 89-91. /16. června 1994 se Sri Chinmoy setkal s Lindsayem Clennellem, filmovým scénáristou a producentem, v restauraci Annam Brahma v Queensu. Následují výňatky z jejich rozhovoru./
-
-[fn:SCA-92-112] SCA 92-112. /Následující básně nazvané „Mé Umění“ napsal Sri Chinmoy 1. a 2. listopadu na oslavu otevření výstavy „100 000 Dream-Freedom-Peace-Birds“ v kanadské Ottawě./
-
-[fn:SCA-113] SCA 113. /Modlitba věnovaná dokončení jednoho milionu „Dream-Freedom-Peace-Birds“ 5. ledna 1994, 5:15 ráno./
-
 
 
 
