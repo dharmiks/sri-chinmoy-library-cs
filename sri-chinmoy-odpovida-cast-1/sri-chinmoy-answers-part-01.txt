@@ -19,7 +19,7 @@
 
 
 
-* Část I [fn:SCA-1-8]
+* Část I[fn:: SCA 1-8. 25. června 1994 vyzval Sri Chinmoy žáky, kteří jsou na cestě více než dvacet pět let, k otázkám.]
 
   :PROPERTIES:
   :GENRE: section
@@ -35,6 +35,7 @@
   :GENRE: qa
   :CITE-KEY: SCA:1-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-06-25
   :END:
 
 
@@ -58,6 +59,7 @@ Pro žáky je nejlepším způsobem, jak posílit víru v Mistra, když si před
   :GENRE: qa
   :CITE-KEY: SCA:2-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-06-25
   :END:
 
 
@@ -78,6 +80,7 @@ Ptáš se, co je přednější. To záleží na jedinci. Bezpodmínečné odevzd
   :GENRE: qa
   :CITE-KEY: SCA:3-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-06-25
   :END:
 
 
@@ -101,6 +104,7 @@ Existuje něco, co je nanejvýš důležité a čemu žáci nevěnují žádnou 
   :GENRE: qa
   :CITE-KEY: SCA:4-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-06-25
   :END:
 
 
@@ -136,6 +140,7 @@ Jak jsem již řekl předtím, základní víru, nejvyšší víru, mám v každ
   :GENRE: qa
   :CITE-KEY: SCA:5-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-06-25
   :END:
 
 
@@ -152,6 +157,7 @@ Toto je jeden z nejúčinnějších způsobů, jak porazit letargii, zatímco kr
   :GENRE: qa
   :CITE-KEY: SCA:6-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-06-25
   :END:
 
 
@@ -175,6 +181,7 @@ Ptáš se, jak může duchovnost uniknout omezením náboženství. Únik není 
   :GENRE: qa
   :CITE-KEY: SCA:7-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-06-25
   :END:
 
 
@@ -195,6 +202,7 @@ Jakmile jednou vstoupíme do duchovního života, naším prvním a nejpředněj
   :GENRE: qa
   :CITE-KEY: SCA:8-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-06-25
   :END:
 
 
@@ -210,7 +218,7 @@ Toto světlo obvykle pochází ze života ticha, z míru. A mír přichází po
 
 
 
-* Část II [fn:SCA-9-19]
+* Část II[fn:: SCA 20-27. 4. července 1994, po speciální meditaci na americký den nezávislosti, vyzval Sri Chinmoy své žáky k otázkám.]
 
   :PROPERTIES:
   :GENRE: section
@@ -225,6 +233,7 @@ Toto světlo obvykle pochází ze života ticha, z míru. A mír přichází po
   :GENRE: qa
   :CITE-KEY: SCA:9-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-07-04
   :END:
 
 
@@ -243,6 +252,7 @@ Vraťme se zpátky k tvé otázce -- je nekonečně, nekonečně, nekonečně d�
   :GENRE: qa
   :CITE-KEY: SCA:10-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-07-04
   :END:
 
 
@@ -263,6 +273,7 @@ Právě nyní se musí duchovní lidé více modlit a meditovat, aby získali v�
   :GENRE: qa
   :CITE-KEY: SCA:11-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-07-04
   :END:
 
 
@@ -282,6 +293,7 @@ Většinou když žák-hudebník hraje moji hudbu, vidím, že jeho mysl pracuje
   :GENRE: qa
   :CITE-KEY: SCA:12-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-07-04
   :END:
 
 
@@ -298,6 +310,7 @@ Jediným  způsobem je přijímání a stávání se. Prostě si řekněte: „S
   :GENRE: qa
   :CITE-KEY: SCA:13-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-07-04
   :END:
 
 
@@ -313,6 +326,7 @@ Jak Jej můžeš vidět? Prostě se podívej do zrcadla a pokus se cítit, že o
   :GENRE: qa
   :CITE-KEY: SCA:14-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-07-04
   :END:
 
 
@@ -329,6 +343,7 @@ Pokud se budete dívat na ostatní Afroameričany jako na oddělené individuali
   :GENRE: qa
   :CITE-KEY: SCA:15-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-07-04
   :END:
 
 
@@ -346,6 +361,7 @@ Jeffersonova vize v okamžiku pozvedla vědomí světa. Světlo, jež chtěl uk�
   :GENRE: qa
   :CITE-KEY: SCA:16-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-07-04
   :END:
 
 /Sri Chinmoy:/ Pokud dáváš ze své duše, nebudeš zjišťovat, zda druhá osoba přijímá, a nebudeš od ní očekávat vděčnost nebo uznání. Dáváš-li něco ze své duše, cítíš spontánní radost ze samotného dávání. Necítíš, že něco odevzdáváš; dáváš úsměv nebo něco jiného jednoduše proto, že cítíš vnitřní spontánní potřebu. Když něco dáváš běžným způsobem, někdy ti přijde na mysl myšlenka dobročinnosti nebo určitý pocit nadřazenosti. Cítíš, že jsi nadřazený, protože ty jsi tím, kdo dává. Ale ve skutečném sebedávání nevidíš druhou osobu jako někoho jiného, ale spíše jako jakési rozšíření sebe sama. Při sebedávání vlastně znásobuješ sama sebe. Jdeš od jednoho ke dvěma. S jednotou svého srdce vytváříš další já, které je přesně stejné jako ty sám, a tomuto druhému já dáváš stejné věci, které máš sám. Se svojí vlastní božskostí vytváříš další božskost, přesně stejnou, jako jsi ty sám -- přesný prototyp vlastní existence. Je to jako vyrábět další osobu v továrně. Nejprve vyrábíš jednu osobu, pak dvě, tři, čtyři, pět osob, a pak nespočetné množství osob.
@@ -358,6 +374,7 @@ Jeffersonova vize v okamžiku pozvedla vědomí světa. Světlo, jež chtěl uk�
   :GENRE: qa
   :CITE-KEY: SCA:17-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-07-04
   :END:
 
 
@@ -375,6 +392,7 @@ Cítím, že svým žákům říkám správnou věc, ale oni mne velice často n
   :GENRE: qa
   :CITE-KEY: SCA:18-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-07-04
   :END:
 
 
@@ -392,6 +410,7 @@ Vycházím z tebe a také do tebe vstupuji. Vycházím z tvého srdce a vstupuji
   :GENRE: qa
   :CITE-KEY: SCA:19-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-07-04
   :END:
 
 
@@ -403,7 +422,7 @@ Vedeš duchovní život, protože chceš štěstí. Pokud by duchovní život ne
 
 
 
-* Část III [fn:SCA-20-27]
+* Část III[fn:: SCA 28. V den Akuliných narozenin, 10. května 1994, hovořil Sri Chinmoy o poslušnosti a poté ji požádal, aby mu položila několik otázek.]
 
   :PROPERTIES:
   :GENRE: section
@@ -415,10 +434,11 @@ Vedeš duchovní život, protože chceš štěstí. Pokud by duchovní život ne
 
 * Skutečnou meditací je učinit tvého Vnitřního kormidelníka šťastným prostřednictvím poslušnosti.
 
-:PROPERTIES:
+  :PROPERTIES:
   :genre: remark
   :keywords:
   :cite-key: SCA:20
+  :DATE-EVENT: 94-05-10
   :END:
 
 /Sri Chinmoy:/ Skutečnou meditací je učinit tvého Vnitřního kormidelníka šťastným prostřednictvím poslušnosti. Toto je meditace, která je nanejvýš účinná: poslouchat svého Vnitřního kormidelníka. Pokud posloucháš svého Vnitřního kormidelníka radostně každou vteřinu, pak zde nemůže být žádná vnitřní horečka -- žádný strach, pochyby nebo žárlivost -- protože nemáš čas přemýšlet o těchto věcech.
@@ -431,6 +451,7 @@ Vedeš duchovní život, protože chceš štěstí. Pokud by duchovní život ne
   :GENRE: qa
   :CITE-KEY: SCA:21-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-05-10
   :END:
 
 
@@ -449,6 +470,7 @@ Můžeme se na to dívat dvěma způsoby. Jeden způsob je považovat vránu za 
   :GENRE: qa
   :CITE-KEY: SCA:22-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-05-10
   :END:
 
 
@@ -466,6 +488,7 @@ V každém případě ty máš vrány ráda. Jednou jsi měla inkarnaci vrány, 
   :GENRE: qa
   :CITE-KEY: SCA:23-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-05-10
   :END:
 
 
@@ -481,6 +504,7 @@ Nezáleží na tom, kolikrát tě nevědomost napadne, tvá mantra je vždy: „
   :GENRE: qa
   :CITE-KEY: SCA:24-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-05-10
   :END:
 
 
@@ -496,6 +520,7 @@ Ty už sis vybrala mezi nevědomostí a moudrostí, ale někdo tě nutí cítit,
   :GENRE: qa
   :CITE-KEY: SCA:25-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-05-10
   :END:
 
 
@@ -510,6 +535,7 @@ Akuli: Nejvyššímu z toho není špatně?
   :GENRE: qa
   :CITE-KEY: SCA:26-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-05-10
   :END:
 
 
@@ -525,6 +551,7 @@ Při fotbalovém zápasu hráč ví, zda vyhrává nebo prohrává, a v určité
   :GENRE: qa
   :CITE-KEY: SCA:27-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-05-10
   :END:
 
 
@@ -559,7 +586,7 @@ Akuli, znáš ten hloupý indický vtip o tom, kolik existuje vran? Někdo řekn
 
 
 
-* Část IV [fn:SCA-28]
+* Část IV
 
   :PROPERTIES:
   :GENRE: section
@@ -567,12 +594,13 @@ Akuli, znáš ten hloupý indický vtip o tom, kolik existuje vran? Někdo řekn
   :KEYWORDS:
   :END:
 
-* Jsem tak špatný zpěvák a vím toho o hudbě velmi málo. Zajímalo by mě, zda jsem někdy měl hudební inkarnaci.
+* Jsem tak špatný zpěvák a vím toho o hudbě velmi málo. Zajímalo by mě, zda jsem někdy měl hudební inkarnaci.[fn:: SCA 28. C. se zeptal na své narozeniny Sri Chinmoye na následující otázku 9. února 1990]
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: SCA:28-cs
   :KEYWORDS:
+  :DATE-EVENT: 90-02-09
   :END:
 
 
@@ -592,8 +620,7 @@ Naopak jsou tací, kteří znají hudbu velmi dobře a také mají schopnost oce
 
 
 
-* Část V [fn:SCA-29]
-
+* Část V 
   :PROPERTIES:
   :GENRE: section
   :CITE-KEY: SCA-29e1-cs
@@ -602,7 +629,8 @@ Naopak jsou tací, kteří znají hudbu velmi dobře a také mají schopnost oce
 
 
 
-* Discourse
+* Postačit si sám nebo spoléhat na Boha[fn:: SCA 29. Sri Chinmoy odpovídá na dopis, který dostal od E.]
+
 
   :PROPERTIES:
   :GENRE: discourse
@@ -610,8 +638,6 @@ Naopak jsou tací, kteří znají hudbu velmi dobře a také mají schopnost oce
   :KEYWORDS:
   :END:
 
-
-/Sri Chinmoy odpovídá na dopis, který dostal od E./
 
 Četl jsem tvůj maratónsky dlouhý dopis. Jsem takový „hrdina“! Obvykle když dostanu dlouhý dopis, nečtu jej celý. Čtu první řádek a pak použiji svoji okultní sílu, abych se dozvěděl zbytek obsahu. Ale v tvém případě jsem četl úplně každý řádek. 
 
@@ -631,11 +657,11 @@ A proto, milá dívko, chceš-li být šťastná a zabezpečená, pokus se prost
 
 
 
-* Část VI [fn:SCA-30]
+* Část VI[fn:: SCA 30. 31. prosince 1986, se N. zeptala Sri Chinmoye na následující otázky]
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: SCA-29e1-cs
+  :CITE-KEY: SCA-30e1-cs
   :KEYWORDS:
   :END:
 
@@ -647,6 +673,7 @@ A proto, milá dívko, chceš-li být šťastná a zabezpečená, pokus se prost
   :GENRE: qa
   :CITE-KEY: SCA:30-cs
   :KEYWORDS:
+  :DATE-EVENT: 86-12-31
   :END:
 
 
@@ -673,12 +700,13 @@ Přistihl jsem tvou mysl; udělal jsi chyby. Musíš vědět, že když udeří 
 
 
 
-* Vděčnost [fn:SCA-31]
+* Vděčnost[fn:: SCA-31. Sri Chinmoy předal tuto promluvu o vděčnosti 16. ledna 1994]
 
   :PROPERTIES:
   :GENRE: discourse
   :CITE-KEY: SCA:31-cs
   :KEYWORDS:
+  :DATE-EVENT: 94-01-16
   :END:
 
 
@@ -693,29 +721,6 @@ Vděčnost není pouhým slovem; není to pouze pojem. Je to živoucí dech vaš
 
 Vděčnost, vděčnost a vděčnost. Duši neznáte; Nejvyššího neznáte. V tomto stadiu vašeho duchovního vývoje je nemusíte znát. Ale vděčnost musíte znát, pokud se chcete spojit se svojí nejvyšší Výškou, s Nejvyšším. Chcete-li se spojit se Skutečným v sobě, pak musíte přijmout svůj dech vděčnosti za vlastní, zcela vlastní.
 
-
-
-* Poznámky
-
-  :PROPERTIES:
-  :genre: note
-  :keywords:
-  :cite-key: SCA:32e1-cs
-  :END:
-  
-
-
-[fn:SCA-1-8] SCA 1-8. /25. června 1994 vyzval Sri Chinmoy žáky, kteří jsou na cestě více než dvacet pět let, k otázkám./
-
-[fn:SCA-20-27] SCA 20-27. /4. července 1994, po speciální meditaci na americký den nezávislosti, vyzval Sri Chinmoy své žáky k otázkám./
-
-[fn:SCA-28] SCA 28. /V den Akuliných narozenin, 10. května 1994, hovořil Sri Chinmoy o poslušnosti a poté ji požádal, aby mu položila několik otázek./
-
-[fn:SCA-29] SCA 29. /C. se zeptal na své narozeniny Sri Chinmoye na následující otázky 9. února 1990:/
-
-[fn:SCA-30] SCA 30. /31. prosince 1986, se N. zeptala Sri Chinmoye na následující otázky:/
-
-[fn:SCA-31] /Gratitude:/ Sri Chinmoy předal tuto promluvu o vděčnosti 16. ledna 1994.
 
 
 
