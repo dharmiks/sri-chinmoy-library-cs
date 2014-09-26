@@ -19,7 +19,7 @@
 
 
 
-* Část I [fn:SCA-114-124]
+* Část I[fn:: SCA 114-124. 2. dubna 1988 byl Sri Chinmoy pozván, aby meditoval se sestrami a matkou představenou benediktýnského kláštera Heiligenkreuz v Churu nedaleko města Zug ve Švýcarsku. Potom odpovídal na jejich otázky. Přepis tohoto setkání následuje]
 
   :PROPERTIES:
   :GENRE: section
@@ -36,6 +36,7 @@
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:114-cs
+  :DATE-EVENT: 88-04-02
   :END:
 
 
@@ -51,6 +52,7 @@
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:115-cs
+  :DATE-EVENT: 88-04-02
   :END:
 
 
@@ -63,6 +65,7 @@
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:116-cs
+  :DATE-EVENT: 88-04-02
   :END:
 
 
@@ -79,6 +82,7 @@ Je to jako jít do zahrady a trhat krásné květiny. Položíme tyto květiny n
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:117-cs
+  :DATE-EVENT: 88-04-02
   :END:
 
 
@@ -96,6 +100,7 @@ Záleží na mém vlastním vědomí, jak k němu přistupuji: jako k někomu, k
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:118-cs
+  :DATE-EVENT: 88-04-02
   :END:
 
 
@@ -108,6 +113,7 @@ Záleží na mém vlastním vědomí, jak k němu přistupuji: jako k někomu, k
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:119-cs
+  :DATE-EVENT: 88-04-02
   :END:
 
 
@@ -125,6 +131,7 @@ Modlím se a medituji od svého dětství. Bůh mě tedy ze svého nekonečného
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:120-cs
+  :DATE-EVENT: 88-04-02
   :END:
 
 
@@ -140,6 +147,7 @@ Hinduismus, křesťanství, judaismus, islám a všechny ostatní náboženství
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:121-cs
+  :DATE-EVENT: 88-04-02
   :END:
 
 
@@ -155,6 +163,7 @@ Krišna, Buddha, Kristus a několik dalších jsou pro mě jedním, mají jen ro
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:122-cs
+  :DATE-EVENT: 88-04-02
   :END:
 
 
@@ -168,6 +177,7 @@ Krišna, Buddha, Kristus a několik dalších jsou pro mě jedním, mají jen ro
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:123-cs
+  :DATE-EVENT: 88-04-02
   :END:
 
 
@@ -183,6 +193,7 @@ Když hovoříte o tom, že Bůh nám nabídl spásu, mluvíme o spasení od hř
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:124-cs
+  :DATE-EVENT: 88-04-02
   :END:
 
 
@@ -193,7 +204,7 @@ Jsem vám velmi vděčný, Matko představená, že jsem zde mohl být. Před dv
 Podívejte se na nesmírnost vašeho srdce. Vy jste se narodila jako křesťanka, já zase jako hinduista, a přesto jste pro mne nalezla ve svém srdci místo. Pozvala jste mě, abych zde nabídnul bohoslužbu. Podívejte se, jak se svět vyvíjí! Jedna Matka představená mě pokárala a napadla, a vy jste mě požádala, abych zde nabídl své oduševnělé modlitby. Tohle je způsob, jak děláme pokrok a těšíme našeho Nebeského Otce.
 
 
-* Část II [fn:SCA-125-134]
+* Část II[fn:: SCA 125-134. 11. července 1994 se Dr. Josephine Davisová, prezidentka York College -- části Neworské městské univerzity sídlící v Queensu -- setkala se Sri Chinmoyem v restauraci Annam Brahma. Následují výňatky z jejich rozhovoru]
 
 
   :PROPERTIES:
@@ -211,6 +222,7 @@ Podívejte se na nesmírnost vašeho srdce. Vy jste se narodila jako křesťanka
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:125-cs
+  :DATE-EVENT: 94-07-11
   :END:
 
 
@@ -228,6 +240,7 @@ Poté co jsem navštívila Nagasaki, Hirošimu, Berlín a tábor Dachau v Němec
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:126-cs
+  :DATE-EVENT: 94-07-11
   :END:
 
 /Sri Chinmoy:/ Když meditujete na srdce, jestli vám nevadí má připomínka, můžete dělat ještě několik věcí. Bez ohledu na to, ve kterou denní dobu meditujete, dokonce i když je to večer, představte si na několik málo vteřin vycházející slunce. Představte si, že slunce vychází a vyzařuje světlo uvnitř vašeho srdce. Anebo si můžete představit tu nejkrásnější a nejčistší květinu, jak rozkvétá lístek po lístku ve vašem srdci.
@@ -244,6 +257,7 @@ Z vycházejícího slunce či nejkrásnější květiny, jíž jste se stala, bu
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:127-cs
+  :DATE-EVENT: 94-07-11
   :END:
 
 
@@ -262,11 +276,7 @@ Jakmile se o ní zmíníte někomu jinému, bez ohledu na to, jak přátelská d
 
 /Sri Chinmoy:/ Existuje několik věcí, o které se můžete podělit, a zároveň je několik věcí, o které se podělit nemůžete. Pokud jste zevnitř získala trvalý přísun Boží Lásky, Božího Zájmu, Božího Soucitu a Boží Milosti, pokud máte volný přístup k božskému bohatství, potom se o něj můžete a měla byste se podělit se svými blízkými podle jejich potřeby. Můžete jim vnitřně nabídnout svou nejčistší lásku a radost. Ale neměla byste se s nimi navenek dělit o tajný způsob, jak tyto věci získáváte. Tohle musí být velmi tajné a posvátné. Není to jejich záležitost. To, co jim dáváte, potřebují. Ale jak jste se ve vnitřním světě stala multimilionářem, to není nezbytné, aby věděli. 
 
-Znovu, musíte vědět, kolik vnímavosti kdo má. Pětileté dítě dokáže správně naložit pouze s jedním dolarem. Když mu dáte padesát nebo sto dolarů, nebude vědět, jak je použít, a může je hodit na ulici. Duchovní standard vašich studentů může být nyní velmi omezen. Pokud se s nimi v tuto chvíli podělíte o své neomezené světlo moudrosti, nemusí být připraveni, nemusí být zralí. Po dítěti z mateřské školky nemůžete chtít, aby absolvovalo univerzitní přednášku. Ne, nejdříve se musí naučit abecedu. Jinak mu vůbec nepomůžete a jen je zmatete.[fn:1]
-
-
-[fn:1] /V předcházející edici zněl tento odstavec následovně:/
-"Znovu, musíte vědět, kolik vnímavosti kdo má. Pětileté dítě dokáže správně naložit pouze s jedním dolarem. Když mu dáte padesát nebo sto dolarů, nebude vědět, jak je použít, a může je hodit na ulici. Duchovní standard vašich studentů může být nyní velmi omezen. Pokud se s nimi v tuto chvíli podělíte o své neomezené světlo moudrosti, /mohou vybuchnout jako balón, protože právě teď nemusí být připraveni/. Po dítěti z mateřské školky nemůžete chtít, aby absolvovalo univerzitní přednášku. Ne, nejdříve se musí naučit abecedu. Jinak mu vůbec nepomůžete a jen je zmatete."
+Znovu, musíte vědět, kolik vnímavosti kdo má. Pětileté dítě dokáže správně naložit pouze s jedním dolarem. Když mu dáte padesát nebo sto dolarů, nebude vědět, jak je použít, a může je hodit na ulici. Duchovní standard vašich studentů může být nyní velmi omezen. Pokud se s nimi v tuto chvíli podělíte o své neomezené světlo moudrosti, mohou vybuchnout jako balón, protože právě teď nemusí být připraveni. Po dítěti z mateřské školky nemůžete chtít, aby absolvovalo univerzitní přednášku. Ne, nejdříve se musí naučit abecedu. Jinak mu vůbec nepomůžete a jen je zmatete.[fn:: SCA 127,7. V následující edici zněl tento odstavec takto: Znovu, musíte vědět, kolik vnímavosti kdo má. Pětileté dítě dokáže správně naložit pouze s jedním dolarem. Když mu dáte padesát nebo sto dolarů, nebude vědět, jak je použít, a může je hodit na ulici. Duchovní standard vašich studentů může být nyní velmi omezen. Pokud se s nimi v tuto chvíli podělíte o své neomezené světlo moudrosti, nemusí být připraveni, nemusí být zralí. Po dítěti z mateřské školky nemůžete chtít, aby absolvovalo univerzitní přednášku. Ne, nejdříve se musí naučit abecedu. Jinak mu vůbec nepomůžete a jen je zmatete."]
 
 
 
@@ -276,6 +286,7 @@ Znovu, musíte vědět, kolik vnímavosti kdo má. Pětileté dítě dokáže sp
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:128-cs
+  :DATE-EVENT: 94-07-11
   :END:
 
 
@@ -310,6 +321,7 @@ Každé dítě je novým Božím snem přinášejícím lásku, nic než lásku.
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:129-cs
+  :DATE-EVENT: 94-07-11
   :END:
 
 
@@ -329,6 +341,7 @@ Před meditací je lepší dvě hodiny nejíst. Můžete si dát šálek čaje n
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:130-cs
+  :DATE-EVENT: 94-07-11
   :END:
 
 
@@ -342,6 +355,7 @@ Před meditací je lepší dvě hodiny nejíst. Můžete si dát šálek čaje n
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:131-cs
+  :DATE-EVENT: 94-07-11
   :END:
 
 
@@ -362,6 +376,7 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:132-cs
+  :DATE-EVENT: 94-07-11
   :END:
 
 
@@ -375,6 +390,7 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:133-cs
+  :DATE-EVENT: 94-07-11
   :END:
 
 
@@ -388,6 +404,7 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:134-cs
+  :DATE-EVENT: 94-07-11
   :END:
 
 
@@ -404,13 +421,14 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
 
 
 
-* Část III [fn:SCA-135-147]
+* Část III[fn:: SCA 135-147. 24. dubna 1993 se Sri Chinmoy setkal s Russellem Wilsonem, jenž byl tehdy personálním ředitelem Výboru pro asijské a pacifické záležitosti ve Sněmovně reprezentantů Spojených států. Následující neformální rozhovor se odehrál v resturaci Annam Brahma v Queensu v New Yorku]
 
 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:135e1-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 
@@ -422,6 +440,7 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:135-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 
@@ -435,6 +454,7 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
   :genre: interview
   :keywords:
   :cite-key: SCA:136-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 /Sri Chinmoy:/ Ve chvíli kdy jsem přišel a uviděl vás, při prvním pohledu jsem vstoupil do největších hlubin vašeho srdce, do ústřední bytosti vašeho života. Máte nějakou konkrétní otázku, na kterou byste se mě rád zeptal? Rád bych vám byl k službám.
@@ -447,6 +467,7 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:137-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 /Sri Chinmoy:/ Vše je vzájemné. Nemůžeme tleskat jednou rukou, potřebujeme ruce dvě. Také zde vidíme vzájemné přijetí našich dvou srdcí. Toto přijetí se může stát trvale osvětlujícím a naplňujícím, pokud dokážete zůstat za polem působnosti zemí spoutané mysli. Srdce vytváří svou jednotu na základě jeho vnitřní čistoty, krásy a božskosti. Ale protože lidská mysl ještě nebyla osvícena světlem shůry či zevnitř, má tendenci zpochybňovat čistotu, krásu a božskost, jež vidíme a cítíme uvnitř našeho srdce. Všechno, co je uvnitř nás božské, naše mysl zpochybňuje.
@@ -468,6 +489,7 @@ Pokud vezmete toto vnitřní bohatství, které máte uvnitř svého srdce, a d�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:138-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 
@@ -488,6 +510,7 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:139-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 
@@ -501,6 +524,7 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:140-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 /Sri Chinmoy:/ Je to magnetická přitažlivost srdce. Vnitřní pláč vašeho vlastního srdce je touto přitažlivostí. Vaše srdce mě přitahuje směrem k vám a mé srdce přitahuje vás směrem ke mně. Je to naše píseň jednoty srdce.
@@ -516,6 +540,7 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:141-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 
@@ -533,6 +558,7 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
   :genre: interview
   :keywords:
   :cite-key: SCA:142-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 /Sri Chinmoy:/ Všechno závisí na hodině Boha. Když tato hodina udeří, vidíme realitu, cítíme realitu a realitou se stáváme. Tuhle píseň jsem složil před mnoha lety na počest Garyho Ackermana. Moji studenti ji nyní zazpívají. Přijeli z celého světa slavit výročí mého příjezdu do Ameriky před 29 lety. Jsou z Velké Británie, Francie, Rakouska, Japonska a dalších míst. 
@@ -551,6 +577,7 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:143-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 
@@ -573,6 +600,7 @@ Byly doby, kdy byli vaši rodiče celým vaším světem. Nyní se celé lidstvo
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:144-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 
@@ -596,6 +624,7 @@ Napsal jsem kdysi něco o politice a duchovnosti, co vyšlo v jednom indickém �
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:145-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 
@@ -617,6 +646,7 @@ Něco podobného se nyní děje v bývalém Sovětském svazu. Prezident Gorbač
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:146-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 
@@ -634,6 +664,7 @@ Je rovněž dobré, když můžete přes den každou hodinu meditovat. Nemusí t
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:147-cs
+  :DATE-EVENT: 93-04-24
   :END:
 
 
@@ -643,7 +674,7 @@ Není to tak, že musíte meditovat po určitou stanovenou dobu. Ne! Co je důle
 
 
 
-* Část IV [fn:SCA-148-152]
+* Část IV[fn:: SCA 148-152. Následující otázky byly položeny Paní Noemi Kovandovou, ženou českého velvyslance v OSN, během setkání se Sri Chinmoyem v restauraci Annam Brahma dne 13. června 1994]
 
 
   :PROPERTIES:
@@ -661,6 +692,7 @@ Není to tak, že musíte meditovat po určitou stanovenou dobu. Ne! Co je důle
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:148-cs
+  :DATE-EVENT: 94-06-13
   :END:
 
 
@@ -677,6 +709,7 @@ Pokud chcete cítit to, co cítí on, můžete meditovat na jeho srdce, obzvlá�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:149-cs
+  :DATE-EVENT: 94-06-13
   :END:
 
 
@@ -694,6 +727,7 @@ Když se modlíte za své dítě, je ještě jedna věc, kterou můžete dělat.
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:150-cs
+  :DATE-EVENT: 94-06-13
   :END:
 
 
@@ -709,6 +743,7 @@ Když přijde na konci dne zpět domů unavený a vyčerpaný, přinese sebou do
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:151-cs
+  :DATE-EVENT: 94-06-13
   :END:
 
 
@@ -722,6 +757,7 @@ Když přijde na konci dne zpět domů unavený a vyčerpaný, přinese sebou do
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:152-cs
+  :DATE-EVENT: 94-06-13
   :END:
 
 
@@ -736,25 +772,6 @@ Naproti tomu když meditujete, musíte cítit, že jste princezna nebo královna
 
 
 
-
-
-* Poznámky
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:153e1-cs
-  :END:
-
-
-[fn:SCA-114-124] SCA 114-124. /2. dubna 1988 byl Sri Chinmoy pozván, aby meditoval se sestrami a matkou představenou benediktýnského kláštera Heiligenkreuz v Churu nedaleko města Zug ve Švýcarsku. Potom odpovídal na jejich otázky. Přepis tohoto setkání následuje./
-
-
-[fn:SCA-125-134] SCA 125-134. /11. července 1994 se Dr. Josephine Davisová, prezidentka York College -- části Neworské městské univerzity sídlící v Queensu -- setkala se Sri Chinmoyem v restauraci Annam Brahma. Následují výňatky z jejich rozhovoru./
-
-[fn:SCA-135-147] SCA 135-147. /24. dubna 1993 se Sri Chinmoy setkal s Russellem Wilsonem, jenž byl tehdy personálním ředitelem Výboru pro asijské a pacifické záležitosti ve Sněmovně reprezentantů Spojených států. Následující neformální rozhovor se odehrál v resturaci Annam Brahma v Queensu v New Yorku./
-
-[fn:SCA-148-152] SCA 148-152. /Následující otázky byly položeny Paní Noemi Kovandovou, ženou českého velvyslance v OSN, během setkání se Sri Chinmoyem v restauraci Annam Brahma dne 13. června 1994./
 
 
 
