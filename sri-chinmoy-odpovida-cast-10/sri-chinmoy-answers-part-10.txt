@@ -18,7 +18,7 @@
   :END:
 
 
-* Část I [fn:SCA-366]
+* Část I[fn:: SCA 366. 10. května 1996]
 
   :PROPERTIES:
   :genre: section
@@ -34,6 +34,7 @@
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: SCA:366-cs
+  :DATE-EVENT: 1996-05-10
   :END:
 
 
@@ -47,10 +48,10 @@ Upřímný milovník Boha má také svůj nejvyšší cíl. Na rozdíl od aspira
 
 Aspirant takto necítí. Když je aspirant zraněn, sám sebe proklíná a obviňuje. Když se s jeho aspirací děje něco opravdu špatného, když svého cíle nedosáhl do určitého data, které si stanovil, začíná být nespokojený sám se sebou a zlobí se na Boha; má pocit, že Bůh k němu nebyl spravedlivý. Pak se chystá odejít z duchovního života a užít si kratší nebo delší prázdniny. Ale skutečný milovník Boha jde a jde vpřed bez ohledu na to, kolik omylů a himalájských chyb udělá, protože jeho láska k Bohu je mnohem silnější než jeho rozmanité slabosti. Ve všech možných ohledech je milovník Boha daleko nadřazený hledajícímu Boha i Božímu aspirantovi. Všichni bychom se měli pokusit stát se milovníky Boha.
 
-10. května 1996
 
 
-* Část II [fn:SCA-367-375]
+
+* Část II[fn:: SCA 367-375. 18. ledna 1996, během série mírových koncertů v Jižní Africe, uspořádal Sri Chinmoy tiskovou konferenci v South Beach Holiday Inn v Durbanu. Následuje její přepis]
 
 
   :PROPERTIES:
@@ -67,6 +68,7 @@ Aspirant takto necítí. Když je aspirant zraněn, sám sebe proklíná a obvi�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:367-cs
+  :DATE-EVENT: 1996-01-18
   :END:
 
 
@@ -84,6 +86,7 @@ Na naší cestě přikládáme patřičnou důležitost fyzickému životu. Uvni
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:368-cs
+  :DATE-EVENT: 1996-01-18
   :END:
 
 
@@ -98,6 +101,7 @@ Pokud nasloucháme své mysli, když nám říká, abychom někoho uhodili, pak 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:369-cs
+  :DATE-EVENT: 1996-01-18
   :END:
 
 
@@ -113,6 +117,7 @@ Věnuji se duchovnímu životu od svého dětství. Jsem člověkem modlitby. Js
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:370-cs
+  :DATE-EVENT: 1996-01-18
   :END:
 
 
@@ -136,6 +141,7 @@ Když jsme ve světě aspirace, modlíme se k Bohu, aby nám dal schopnost těš
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:371-cs
+  :DATE-EVENT: 1996-01-18
   :END:
 
 
@@ -151,6 +157,7 @@ Nebudu mít odvahu pokoušet se řešit problémy v Bosně a na jiných místech
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:372-cs
+  :DATE-EVENT: 1996-01-18
   :END:
 
 
@@ -166,6 +173,7 @@ Takže svět se vyvíjí směrem k přijetí míru a světla. Někteří jedinci
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:373-cs
+  :DATE-EVENT: 1996-01-18
   :END:
 
 
@@ -182,6 +190,7 @@ Zde jsme všichni studenty míru. Mír je společným předmětem, který všich
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:374-cs
+  :DATE-EVENT: 1996-01-18
   :END:
 
 
@@ -199,6 +208,7 @@ Tito lidé bohužel světlo nehledají. Nemodlí se, aby toto světlo osvítilo 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:375-cs
+  :DATE-EVENT: 1996-01-18
   :END:
 
 
@@ -206,7 +216,7 @@ Tito lidé bohužel světlo nehledají. Nemodlí se, aby toto světlo osvítilo 
 
 
 
-* Část III [fn:SCA-376-377]
+* Část III[fn:: SCA 376-377. 25. května 1996 odpověděl Sri Chinmoy na  několik otázek televizního producenta a spisovatele Joela Martina]
 
   :PROPERTIES:
   :GENRE: section 
@@ -222,6 +232,7 @@ Tito lidé bohužel světlo nehledají. Nemodlí se, aby toto světlo osvítilo 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:376-cs
+  :DATE-EVENT: 1996-05-25
   :END:
 
 
@@ -238,6 +249,7 @@ Můj drahý bratře a příteli Joeli, na vnější úrovni nejsem milionář a 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:377-cs
+  :DATE-EVENT: 1996-05-25
   :END:
 
 
@@ -247,7 +259,7 @@ Vědcům dělá ohromnou radost dokazovat své teorie, ale duchovnímu Mistrovi 
 
 
 
-* Část IV [fn:SCA-378-388]
+* Část IV[fn:: SCA 378-388. 19. února 1996 se setkali Sri Chinmoy a japonský skladatel a koncertní klavírista Masanobu Ikemiya v Annam Brahma restauraci v newyorském Qeensu. Pan Ikemiya a jeho přátelé položili následující otázky]
 
 
   :PROPERTIES:
@@ -264,6 +276,7 @@ Vědcům dělá ohromnou radost dokazovat své teorie, ale duchovnímu Mistrovi 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:378-cs
+  :DATE-EVENT: 1996-02-19
   :END:
 
 
@@ -279,6 +292,7 @@ Ve chvíli, kdy hrajete, květina vaší duše vydává oduševnělou nebo zbož
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:379-cs
+  :DATE-EVENT: 1996-02-19
   :END:
 
 
@@ -292,6 +306,7 @@ Ve chvíli, kdy hrajete, květina vaší duše vydává oduševnělou nebo zbož
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:380-cs
+  :DATE-EVENT: 1996-02-19
   :END:
 
 
@@ -315,6 +330,7 @@ Je to jako hostitel, který se snaží potěšit své hosty hned, jak přijdou. 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:381-cs
+  :DATE-EVENT: 1996-02-19
   :END:
 
 
@@ -329,6 +345,7 @@ Je to jako hostitel, který se snaží potěšit své hosty hned, jak přijdou. 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:382-cs
+  :DATE-EVENT: 1996-02-19
   :END:
 
 
@@ -348,6 +365,7 @@ Mám jednu zvláštní píseň, která je zdrojem všech mých hudebních sklade
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:383-cs
+  :DATE-EVENT: 1996-02-19
   :END:
 
 
@@ -361,6 +379,7 @@ Mám jednu zvláštní píseň, která je zdrojem všech mých hudebních sklade
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:384-cs
+  :DATE-EVENT: 1996-02-19
   :END:
 
 
@@ -374,6 +393,7 @@ Mám jednu zvláštní píseň, která je zdrojem všech mých hudebních sklade
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:385-cs
+  :DATE-EVENT: 1996-02-19
   :END:
 
 
@@ -389,6 +409,7 @@ Když žijeme duchovním životem, zjišťujeme, že nikdy nic nedáváme třet�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:386-cs
+  :DATE-EVENT: 1996-02-19
   :END:
 
 
@@ -402,6 +423,7 @@ Když žijeme duchovním životem, zjišťujeme, že nikdy nic nedáváme třet�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:387-cs
+  :DATE-EVENT: 1996-02-19
   :END:
 
 
@@ -415,6 +437,7 @@ Když žijeme duchovním životem, zjišťujeme, že nikdy nic nedáváme třet�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:388-cs
+  :DATE-EVENT: 1996-02-19
   :END:
 
 
@@ -423,7 +446,7 @@ Když žijeme duchovním životem, zjišťujeme, že nikdy nic nedáváme třet�
 Pro dítě je trpělivost přirozená, protože je stále v srdci. Protože ale dospělí žijí v mysli, musí se tak tvrdě snažit, aby tyto kvality srdce získali zpět. Když jsme v mysli, je všechno pokroucené a zkreslené. Musíme tedy přivést nepoddajnou mysl pod kontrolu srdce.
 
 
-* Část V [fn:SCA-389-394]
+* Část V[fn:: SCA 389-394. Následující otázky byly zodpovězeny 26. května 1996]
 
   :PROPERTIES:
   :GENRE: section 
@@ -439,6 +462,7 @@ Pro dítě je trpělivost přirozená, protože je stále v srdci. Protože ale 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:389-cs
+  :DATE-EVENT: 1996-05-26
   :END:
 
 
@@ -461,6 +485,7 @@ Tyto vnitřní prožitky mi značně pomohly. Jakmile jednou získáte tento dru
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:390-cs
+  :DATE-EVENT: 1996-05-26
   :END:
 
 
@@ -481,6 +506,7 @@ Vnitřní prožitky nám pomáhají; dávají nám určité ovoce. Když se nám
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:391-cs
+  :DATE-EVENT: 1996-05-26
   :END:
 
 
@@ -495,6 +521,7 @@ Vnitřní prožitky nám pomáhají; dávají nám určité ovoce. Když se nám
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:392-cs
+  :DATE-EVENT: 1996-05-26
   :END:
 
 
@@ -520,6 +547,7 @@ Až když uděláme všechno, co z nitra cítíme, že udělat můžeme, a až k
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:393-cs
+  :DATE-EVENT: 1996-05-26
   :END:
 
 
@@ -539,6 +567,7 @@ Když hrál Pán Kršna na flétnu, gópie (pozn. překl.: indické ženy z rodi
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:394-cs
+  :DATE-EVENT: 1996-05-26
   :END:
 
 
@@ -546,7 +575,7 @@ Když hrál Pán Kršna na flétnu, gópie (pozn. překl.: indické ženy z rodi
 
 
 
-* Část VI [fn:SCA-395-399]
+* Část VI[fn::  SCA 395-399. Následující otázky položili Sri Chinmoyovi jeho žáci dne 6. ledna 1995 během jeho návštěvy v Myanmar]
 
   :PROPERTIES:
   :GENRE: section
@@ -563,6 +592,7 @@ Když hrál Pán Kršna na flétnu, gópie (pozn. překl.: indické ženy z rodi
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:395-cs
+  :DATE-EVENT: 1995-01-06
   :END:
 
 
@@ -580,6 +610,7 @@ Hrozba jaderného ničení nebude pokračovat, protože už během třiceti nebo
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:396-cs
+  :DATE-EVENT: 1995-01-06
   :END:
 
 
@@ -595,6 +626,7 @@ Když máte srdce oceňování, pak je všechno krásné; každý plátek květi
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:397-cs
+  :DATE-EVENT: 1995-01-06
   :END:
 
 
@@ -608,6 +640,7 @@ Když máte srdce oceňování, pak je všechno krásné; každý plátek květi
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:398-cs
+  :DATE-EVENT: 1995-01-06
   :END:
 
 
@@ -621,6 +654,7 @@ Když máte srdce oceňování, pak je všechno krásné; každý plátek květi
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:399-cs
+  :DATE-EVENT: 1995-01-06
   :END:
 
 
@@ -630,7 +664,7 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
 
 
 
-* Část VII [fn:SCA-400-401]
+* Část VII[fn:: SCA 400-401. Následující otázky byly zodpovězeny 28. prosince 1994]
 
 
   :PROPERTIES:
@@ -647,6 +681,7 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:400-cs
+  :DATE-EVENT: 1994-12-28
   :END:
 
 
@@ -660,6 +695,7 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:401-cs
+  :DATE-EVENT: 1994-12-28
   :END:
 
 
@@ -667,7 +703,7 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
 
 
 
-* Část VIII [fn:SCA-402]
+* Část VIII[fn:: SCA 402. 9. ledna 1995 se Sri Chinmoy jako čestný host zúčastnil oběda a kulturního programu sponzorovaného Ministerstvem náboženství a organizací Tipitaka Nykarya Upahsaka Sasana -- buddhistickou kulturní skupinou -- v Kaba Aye Pagodě v barmském hlavním městě Yangonu. Během programu pronesl Sri Chinmoy následující modlitbu k Pánu Buddhovi]
 
   :PROPERTIES:
   :GENRE: section
@@ -683,6 +719,7 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
   :GENRE: discourse
   :KEYWORDS: prayer
   :CITE-KEY: SCA:402-cs
+  :DATE-EVENT: 1995-01-09
   :END:
   
   
@@ -711,7 +748,7 @@ Ticho Absolutního Nejvyššího a nikdy nepoznatelné Skutečnosti ti požehnal
 
 
 
-[fn:SCA-366] SCA 366.
+[fn:SCA-366] SCA 366 SCA 366. 10 May 1996.
 
 [fn:SCA-367-375] SCA 367-375 /18. ledna 1996, během série mírových koncertů v Jižní Africe, uspořádal Sri Chinmoy tiskovou konferenci v South Beach Holiday Inn v Durbanu. Následuje její přepis./
 

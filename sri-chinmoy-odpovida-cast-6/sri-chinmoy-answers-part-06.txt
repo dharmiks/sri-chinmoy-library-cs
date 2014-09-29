@@ -19,7 +19,7 @@
 
 
 
-* Part I [fn:SCA-203-229]
+* Část I[fn:: SCA 203-229. Otázky zodpovězené v lednu 1995]
 
   :PROPERTIES:
   :genre: section
@@ -35,6 +35,7 @@
   :genre: qa
   :keywords:
   :cite-key: SCA:203-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -102,6 +103,7 @@ Toto je jediná dokonalost v životě hledajícího. Jak už jsem řekl dříve,
   :genre: qa
   :keywords:
   :cite-key: SCA:204-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -121,6 +123,7 @@ Opět platí, že pokud se nám něco podaří, po dobu pěti sekund můžeme pr
   :genre: qa
   :keywords:
   :cite-key: SCA:205-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -142,6 +145,7 @@ Zkuste vidět božský aspekt uvnitř svého Mistra tak často, jak je to možn�
   :genre: qa
   :keywords:
   :cite-key: SCA:206-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -168,6 +172,7 @@ Takže v této chvíli je pro tebe nejlepší modlit se k Nejvyššímu, aby ti 
   :genre: qa
   :keywords:
   :cite-key: SCA:207-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -186,6 +191,7 @@ Lepší je věnovat se projevení -- bez ohledu na to, jak je nedokonalé -- ne�
   :genre: qa
   :keywords:
   :cite-key: SCA:208-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -199,6 +205,7 @@ Lepší je věnovat se projevení -- bez ohledu na to, jak je nedokonalé -- ne�
   :genre: qa
   :keywords:
   :cite-key: SCA:209-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -212,6 +219,7 @@ Lepší je věnovat se projevení -- bez ohledu na to, jak je nedokonalé -- ne�
   :genre: qa
   :keywords:
   :cite-key: SCA:210-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -229,6 +237,7 @@ Abyste inspirovali ostatní k plnohodnotnému vstupu do duchovního života, je 
   :genre: qa
   :keywords:
   :cite-key: SCA:211-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -250,6 +259,7 @@ Obyčejné a neinspirující sny byste měli prostě zahodit, zahodit, zahodit. 
   :genre: qa
   :keywords:
   :cite-key: SCA:212-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -268,6 +278,7 @@ Jakmile začneš milovat sám sebe, musíš cítit, že Bůh tě miluje nekoneč
   :genre: qa
   :keywords:
   :cite-key: SCA:213-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -289,6 +300,7 @@ My chováme lásku k Bohu. Teď musíme svoji lásku zvětšit. Vždycky říká
   :genre: qa
   :keywords:
   :cite-key: SCA:214-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -301,6 +313,7 @@ My chováme lásku k Bohu. Teď musíme svoji lásku zvětšit. Vždycky říká
   :genre: qa
   :keywords:
   :cite-key: SCA:215-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -315,6 +328,7 @@ My chováme lásku k Bohu. Teď musíme svoji lásku zvětšit. Vždycky říká
   :genre: qa
   :keywords:
   :cite-key: SCA:216-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -332,6 +346,7 @@ Ptáš se, jestli bys měla šetřit peníze pro případ, že jednou budeš mus
   :genre: qa
   :keywords:
   :cite-key: SCA:217-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -346,6 +361,7 @@ Ptáš se, jestli bys měla šetřit peníze pro případ, že jednou budeš mus
   :genre: qa
   :keywords:
   :cite-key: SCA:218-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -362,6 +378,7 @@ Ale jiné realizované duše, které mají více odvahy, vidí, že existují li
   :genre: qa
   :keywords:
   :cite-key: SCA:219-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -376,6 +393,7 @@ Ale jiné realizované duše, které mají více odvahy, vidí, že existují li
   :genre: qa
   :keywords:
   :cite-key: SCA:220-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -391,6 +409,7 @@ Dokonce i teď má pro mne duše Ameriky bezmeznou, bezmeznou, bezmeznou lásku 
   :genre: qa
   :keywords:
   :cite-key: SCA:221-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -404,6 +423,7 @@ Dokonce i teď má pro mne duše Ameriky bezmeznou, bezmeznou, bezmeznou lásku 
   :genre: qa
   :keywords:
   :cite-key: SCA:222-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -419,6 +439,7 @@ Pro mě však takové meditativní vědomí nepředstavuje nejvyšší druh sam�
   :genre: qa
   :keywords:
   :cite-key: SCA:223-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -433,6 +454,7 @@ Pro mě však takové meditativní vědomí nepředstavuje nejvyšší druh sam�
   :genre: qa
   :keywords:
   :cite-key: SCA:224-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -447,6 +469,7 @@ Pro mě však takové meditativní vědomí nepředstavuje nejvyšší druh sam�
   :genre: qa
   :keywords:
   :cite-key: SCA:225-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -464,6 +487,7 @@ V Nepálu můžete navštívit některou z jeskyň, kde Gorakšanat meditoval. V
   :genre: qa
   :keywords:
   :cite-key: SCA:226-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -484,6 +508,7 @@ Pozoruji, že do myslí mnoha mých žáků vstoupilo stáří. Neustále myslí
   :genre: qa
   :keywords:
   :cite-key: SCA:227-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -498,6 +523,7 @@ Pozoruji, že do myslí mnoha mých žáků vstoupilo stáří. Neustále myslí
   :genre: qa
   :keywords:
   :cite-key: SCA:228-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -513,6 +539,7 @@ Takže se snažte myslet na dobré vlastnosti ostatních, na jejich božské vla
   :genre: qa
   :keywords:
   :cite-key: SCA:229-cs
+  :date-event: 1995-01-00
   :END:
 
 
@@ -525,7 +552,7 @@ Je samozřejmé, že vůbec nejdůležitější je aspirace. Existuje ale pár v
 
 
 
-* Část II [fn:SCA-230-232]
+* Část II[fn:: SCA 230-232. Následující tři otázky zodpověděl Sri Chinmoy během zvláštního programu v Knihovně kongresu ve Washingtonu 21. července 1995]
 
   :PROPERTIES:
   :genre: section
@@ -541,6 +568,7 @@ Je samozřejmé, že vůbec nejdůležitější je aspirace. Existuje ale pár v
   :genre: qa
   :keywords:
   :cite-key: SCA:230-cs
+  :date-event: 1995-07-21
   :END:
 
 
@@ -556,6 +584,7 @@ Musíme se modlit a meditovat každý den, nejlépe pokaždé ve stejnou hodinu 
   :genre: qa
   :keywords:
   :cite-key: SCA:231-cs
+  :date-event: 1995-07-21
   :END:
 
 
@@ -574,6 +603,7 @@ Jak můžeme poznat Boží Vůli? Můžeme ji poznat díky naší modlitbě a me
   :genre: qa
   :keywords:
   :cite-key: SCA:232-cs
+  :date-event: 1995-07-21
   :END:
 
 
@@ -593,7 +623,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
 
 
 
-* Část III [fn:SCA-233-241]
+* Část III[fn:: SCA 233-241. Sri Chinmoy poskytl 28. srpna 1993 v Chicagu rozhovor nezávislému filmovému režiséru v souvislosti s jeho účastí na Světovém parlamentu náboženství. Následují výňatky z tohoto rozhovoru]
 
   :PROPERTIES:
   :genre: section
@@ -610,6 +640,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :genre: qa
   :keywords:
   :cite-key: SCA:233-cs
+  :date-event: 1993-08-28
   :END:
 
 
@@ -624,6 +655,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :genre: qa
   :keywords:
   :cite-key: SCA:234-cs
+  :date-event: 1993-08-28
   :END:
 
 
@@ -637,6 +669,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :genre: qa
   :keywords:
   :cite-key: SCA:235-cs
+  :date-event: 1993-08-28
   :END:
 
 
@@ -651,6 +684,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :genre: qa
   :keywords:
   :cite-key: SCA:236-cs
+  :date-event: 1993-08-28
   :END:
 
 
@@ -665,6 +699,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :genre: qa
   :keywords:
   :cite-key: SCA:237-cs
+  :date-event: 1993-08-28
   :END:
 
 
@@ -679,6 +714,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :genre: qa
   :keywords:
   :cite-key: SCA:238-cs
+  :date-event: 1993-08-28
   :END:
 
 
@@ -692,6 +728,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :genre: qa
   :keywords:
   :cite-key: SCA:239-cs
+  :date-event: 1993-08-28
   :END:
 
 
@@ -705,6 +742,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :genre: qa
   :keywords:
   :cite-key: SCA:240-cs
+  :date-event: 1993-08-28
   :END:
 
 
@@ -719,6 +757,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :genre: qa
   :keywords:
   :cite-key: SCA:241-cs
+  :date-event: 1993-08-28
   :END:
 
 
@@ -726,19 +765,6 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
 
 
 
-* Notes
-
-  :PROPERTIES:
-  :genre: note
-  :keywords:
-  :cite-key: SCA:242e1-cs
-  :END:
-
-[[fn:SCA-203-229] SCA 203-229. Otázky zodpovězené v lednu 1995.
-
-[fn:SCA-230-232] SCA 230-232. Následující tři otázky zodpověděl Sri Chinmoy během zvláštního programu v Knihovně kongresu ve Washingtonu 21. července 1995
-
-[fn:SCA-233-241] SCA 233-241. Sri Chinmoy poskytl 28. srpna 1993 v Chicagu rozhovor nezávislému filmovému režiséru v souvislosti s jeho účastí na Světovém parlamentu náboženství. Následují výňatky z tohoto rozhovoru.
 
 
 

@@ -670,7 +670,7 @@ Mé tělo má ruce, nohy, oči a tak dále. Mám upřednostňovat pouze své ruc
 
 
 
-* Část VII[fn:: SCA 92-112. Následující básně nazvané „Mé Umění“ napsal Sri Chinmoy 1. a 2. listopadu na oslavu otevření výstavy „100 000 Dream-Freedom-Peace-Birds“ v kanadské Ottawě]
+* Část VII[fn:: SCA 92-112. Následující básně nazvané „Mé umění“ napsal Sri Chinmoy 1. a 2. listopadu 1993 na oslavu otevření výstavy „100 000 Dream-Freedom-Peace-Birds“ v kanadské Ottawě]
 
   :PROPERTIES:
   :GENRE: section
@@ -686,6 +686,7 @@ Mé tělo má ruce, nohy, oči a tak dále. Mám upřednostňovat pouze své ruc
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:92-cs
+  :DATE-EVENT: 1993-11-01   
   :END:
 
 
@@ -703,6 +704,7 @@ bez světla v mé duši.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:93-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -721,6 +723,7 @@ bez čistoty v mém srdci.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:94-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -738,6 +741,7 @@ bez prostoty mé mysli.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:95-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -756,6 +760,7 @@ a proudícími slzami mého srdce.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:96-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -776,6 +781,7 @@ a život plnosti.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:97-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -797,6 +803,7 @@ závislá na sobě bezesně.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:98-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -825,6 +832,7 @@ Netřeba říkat,
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:99-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -844,6 +852,7 @@ vládne světu.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:100-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -863,6 +872,7 @@ pro snem zaplavené Pobřeží Skutečnosti.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:101-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -881,6 +891,7 @@ udržuji zahradu své mysli
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:102-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -900,6 +911,7 @@ a rozpuků mé meditace.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:103-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -919,6 +931,7 @@ plameny mého aspirujícího srdce.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:104-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -939,6 +952,7 @@ do rychlíku aspirace svého srdce.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:105-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -959,6 +973,7 @@ víc, nekonečně víc.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:106-cs
+  :DATE-EVENT: 1993-11-01  
   :END:
 
 
@@ -990,6 +1005,7 @@ mého umění.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:107-cs
+  :DATE-EVENT: 1993-11-02  
   :END:
 
 
@@ -1023,6 +1039,7 @@ ve všech mých činnostech.“
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:108-cs
+  :DATE-EVENT: 1993-11-02  
   :END:
 
 
@@ -1047,6 +1064,7 @@ jeho cíle sebepřekonávání.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:109-cs
+  :DATE-EVENT: 1993-11-02  
   :END:
 
 
@@ -1069,6 +1087,7 @@ prohlíží mé umělecké výtvory.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:110-cs
+  :DATE-EVENT: 1993-11-02  
   :END:
 
 
@@ -1097,6 +1116,7 @@ v mém životě umění.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:111-cs
+  :DATE-EVENT: 1993-11-02  
   :END:
 
 
@@ -1115,6 +1135,7 @@ mírových květů.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: SCA:112-cs
+  :DATE-EVENT: 1993-11-02  
   :END:
 
 
@@ -1131,7 +1152,7 @@ po nekonečné Obloze Svobody.
 
 
 
-* Part VIII [fn:SCA-113]
+* Part VIII[fn:: SCA 113. Báseň věnovaná při dokončení jednoho milionu ptáčků Dream-Freedom-Peace-Birds]
 
 
   :PROPERTIES:
@@ -1147,6 +1168,7 @@ po nekonečné Obloze Svobody.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: SCA:113-cs
+  :DATE-EVENT: 1994-01-05  
   :END:
 
 

@@ -11,7 +11,7 @@
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: Nil
   :YEAR: 2014
-  :PUBLISHER: Nevydáno
+  :PUBLISHER: Knižně nevydáno
   :CITE-KEY: SCA-8-cs
   :GENRE: qa
   :KEYWORDS:
@@ -19,7 +19,7 @@
 
 
 
-* Část I [fn:SCA-305-323]
+* Část I[fn:: SCA 305-323. Následující otázky byly zodpovězeny v letech 1995 a 1996]
 
   :PROPERTIES:
   :genre: section
@@ -309,7 +309,7 @@ Jestliže se někteří z mých žáků budou moci stát opravdu dobrými, skut
 
 
 
-* Část II [fn:SCA-324-328]
+* Část II[fn:: SCA 324-328. Následujících pár otázek a odpovědí vychází z poznámek Sri Chinmoye z jara roku 1996, které pronesl ke svým žákům, kteří pracují v OSN]
 
 
   :PROPERTIES:
@@ -328,6 +328,7 @@ Jestliže se někteří z mých žáků budou moci stát opravdu dobrými, skut
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:324-cs
+  :DATE-EVENT: 1996-04-00
   :END:
 
 
@@ -341,12 +342,13 @@ Jestliže se někteří z mých žáků budou moci stát opravdu dobrými, skut
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:325-cs
+  :DATE-EVENT: 1996-04-00
   :END:
 
 
 /Sri Chinmoy:/ Oba, jak duše Spojených Národů tak já, očekáváme od mých žáků, kteří pracují ve Spojených Národech, něco velmi speciálního. Nepřeji si, aby se lidé chovali jako běžní zaměstnanci v továrně, v bance či restauraci. Nechci, aby pracovali mechanicky -- jako počítače, ve kterých je všechno mechanicky a matematicky předurčeno. Přeji si, aby vynesli do popředí své božské kvality k uspokojení osvícené duše a aspirujícího srdce Spojených Národů.
 
-	Přeji si, aby moji žáci, zaměstnanci OSN, nabídli spontánní krásu květiny, která kvete a vydává denně svou vůni. Každé ráno, když přicházíte do své kanceláře, měli byste položit na oltář Spojených Národů svou vlastní květinu srdce. Jak? Během dvou minut nebo dvou vteřin můžete prostě říci: „Ó Spojené Národy, máte ten nejvyšší cíl. Chci se stát součástí a kouskem tohoto vznešeného cíle.“
+Přeji si, aby moji žáci, zaměstnanci OSN, nabídli spontánní krásu květiny, která kvete a vydává denně svou vůni. Každé ráno, když přicházíte do své kanceláře, měli byste položit na oltář Spojených Národů svou vlastní květinu srdce. Jak? Během dvou minut nebo dvou vteřin můžete prostě říci: „Ó Spojené Národy, máte ten nejvyšší cíl. Chci se stát součástí a kouskem tohoto vznešeného cíle.“
 
 Očekávám od vás, že se každý den sjednotíte s tou nejvznešenější vizí Spojených Národů, vizí, která není od generálních sekretářů nebo žádného jiného vysokého úředníka, ale která vznikla v roce 1945. Pracovat ve Spojených Národech je jako být členem nějaké výborné univerzity. Existuje mnoho univerzit, ale když se stanete členem Harvardské Univerzity, Yale, Princetonu, Cambridge nebo Oxfordu, je to zvláštní privilegium. Ideály a vize, které tyto univerzity představují, ostatní univerzity bohužel nevlastní.  Nedá se říci, že by ostatní nebyly univerzitami. Ale jejich úroveň nedosáhla úrovně těchto speciálních univerzit. Někdo může namítnout, že si tyto prestižní univerzity neudržely svou úroveň, ale přesto je svět uznává jako ty nejlepší.
 
@@ -360,6 +362,7 @@ Podobně jsou vysoce respektováni někteří duchovní Mistři. V duchovním �
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:326-cs
+  :DATE-EVENT: 1996-04-00
   :END:
 
 
@@ -377,6 +380,7 @@ Svůj vnitřní poklad musíš stále opatrovat. V každém okamžiku musíš b
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:327-cs
+  :DATE-EVENT: 1996-04-00
   :END:
 
 
@@ -396,6 +400,7 @@ Nyní jim nabízíš pouze svou chytrost, ale tvé božské kvality jim nedává
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:328-cs
+  :DATE-EVENT: 1996-04-00
   :END:
 
 
@@ -405,7 +410,7 @@ Jestliže vykonáte skutečný pokrok ve svém duchovním životě, tehdy budete
 
 
 
-* Část III [fn:SCA-329-332]
+* Část III[fn:: SCA 329-332. Následující čtyři otázky položili během své návštěvy na Aspiration Ground v New Yorku mladí žáci na začátku září 1994]
 
   :PROPERTIES:
   :GENRE: note
@@ -422,6 +427,7 @@ Jestliže vykonáte skutečný pokrok ve svém duchovním životě, tehdy budete
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:329-cs
+  :DATE-EVENT: 1994-09-00
   :END:
 
 
@@ -440,6 +446,7 @@ Výhoda přijet do New Yorku a vidět mě tkví v tom, že ti pomůže obnovit 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:330-cs
+  :DATE-EVENT: 1994-09-00
   :END:
 
 
@@ -456,6 +463,7 @@ Máš-li před odletem problémy se svým vědomím, snaž si představovat tak
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:331-cs
+  :DATE-EVENT: 1994-09-00
   :END:
 
 
@@ -472,6 +480,7 @@ Nečistota nemá svůj původ uvnitř tebe; přichází zvenčí -- z nebožsk�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:332-cs
+  :DATE-EVENT: 1994-09-00
   :END:
 
 
@@ -481,7 +490,7 @@ Musíš brát meditaci jako svého nejdražšího přítele, který tě vede k 
 
 
 
-* Část IV [fn:SCA-333-339]
+* Část IV[fn:: SCA 333-339. Obecné otázky]
 
   :PROPERTIES:
   :genre: section
@@ -619,7 +628,7 @@ Je pravdou, že výška každého nemusí být stejná, ale snaha každého stej
 
 /Sri Chinmoy:/ Byla doba, asi před dvaceti, nebo dvaceti pěti lety, kdy po dobu několika měsíců někteří z mých žáků dělali všechno správně, všechno dobře, všechno pozitivně, od rána do večera. Proč? Protože byli disciplinovaní! Vstávali v šest hodin každé ráno, aby se modlili a meditovali a trávili své večery duchovními aktivitami. Tehdy jim šlo pouze o jejich vnitřní život. Říkali: „Nebudu se scházet s nebožskými osobami! Nebudu se vyžívat v radovánkách nevědomosti!“ Protože vedli disciplinovaný život, jejich láska, oddanost a odevzdání Bohu se staly velice silnými.
 
-	Ale po létech se stali nedbalými a bezstarostnými. Přestali si vážit disciplinovaného života a toho co jim mohl nabídnout. Jak běžel čas, vnější život se stal nekonečně důležitějším, než jejich život vnitřní. Postupně se jejich láska, oddanost a odevzdanost zmenšily a opustily je. Nyní věří, že je láska, oddanost a odevzdanost pryč, a že jsou věcí minulosti. Ve většině případů se vzdali; cítí, že není možné tyto kvality znovu získat, nebo cítí, že jich nejsou hodni. Říkají, že buď na duchovním životě nic není, nebo že je příliš těžký.
+Ale po létech se stali nedbalými a bezstarostnými. Přestali si vážit disciplinovaného života a toho co jim mohl nabídnout. Jak běžel čas, vnější život se stal nekonečně důležitějším, než jejich život vnitřní. Postupně se jejich láska, oddanost a odevzdanost zmenšily a opustily je. Nyní věří, že je láska, oddanost a odevzdanost pryč, a že jsou věcí minulosti. Ve většině případů se vzdali; cítí, že není možné tyto kvality znovu získat, nebo cítí, že jich nejsou hodni. Říkají, že buď na duchovním životě nic není, nebo že je příliš těžký.
 
 Jak můžeš získat zpět své ztracené vnitřní bohatství? Když si vzpomeneš, kolik radosti a zadostiučinění ti dalo. Když si vedl disciplinovaný život, a tvoje láska, oddanost a odevzdání byly silné, cítil jsi nekonečně více radosti a uspokojení než máš nyní. V té době v tobě cosi burácelo. Pociťoval jsi něco dětského. Celá tvoje existence byla jako květina. Ne že bys stál naproti květině, ale ty sám ses stal tou nejkrásnější květinou. V každém okamžiku jsi mířil nahoru, výše, nejvýše. Do tvé mysli, srdce a do tvého života pronikaly neustále dobré myšlenky.
 
@@ -639,7 +648,7 @@ Můžeš-li znovu ocenit co nejupřímněji radost, kterou si získal ze své d
 /Sri Chinmoy:/ Pro mne je Filadelfie hlavním městem USA. Z duchovního pohledu není hlavním městem Ameriky Washington, ale Filadelfie. Její samotné jméno je rozeznělý zvon, což je na straně jedné uklidňující a zároveň osvěcující a naplňující. Jakmile slyším slovo „Filadelfie“, ať je již říká kdokoli, slyším zvony -- jako Ind gong chrámu srdce nebo Američan kostelní vyzvánění. Filadelfie je pro mne vždy nositelkou Boží Skutečnosti.
 
 
-* * Část V [fn:SCA-340-345]
+* * Část V[fn:: SCA 340-345. Sri Chinmoy měl následující konverzaci s Akuli v Annam Brahma 11. května 1996, den po jejích narozeninách]
 
   :PROPERTIES:
   :genre: section
@@ -659,6 +668,7 @@ Můžeš-li znovu ocenit co nejupřímněji radost, kterou si získal ze své d
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:341-cs
+  :DATE-EVENT: 1996-05-11
   :END:
 
 
@@ -666,7 +676,7 @@ Můžeš-li znovu ocenit co nejupřímněji radost, kterou si získal ze své d
 
 Takže veškeré božské kvality, které vyjadřujete ve svém životě a jeho prostřednictvím, pocházejí určitě od duše. Někdy může být některá výjimečně dobrá kvalita vyjádřena na mnoha úrovních. Dobrá kvalita se může projevit na psychické úrovni, na mentální úrovni, na vitální úrovni nebo na fyzické úrovni. Oddanost může být například vyjádřena prostřednictvím srdce, mysli, vitálna i těla. Když se božská kvalita, která sestupuje se Shora nebo přichází z duše, projevuje na všech úrovních -- fyzické, vitální, mentální a psychické -- potom se hledající stává opravdu vynikajícím.
 
-	Špatné kvality existují také. Ale pocházejí z mysli, vitálna nebo z fyzického. Například nečistota nepochází z duše, ani dokonce ze srdce. Ale pokud vnikne do srdce z vitálna a mysli příliš mnoho nečistoty, pak chudák srdce projeví také nějakou nečistotu. Pak přijde duše a snaží se srdce zachránit, protože cítí, že srdce je od přírody dobré. A tak duše vloží do srdce světlo a srdce očistí. Protože jsou mysl a vitálno často velmi zlé, je duše zklamána nebo se na ně zlobí, a nechává je, aby si daly na čas. Ale se srdcem to nedělá, protože chová k srdci obrovskou lásku, zájem a soucit -- daleko větší než k mysli, vitálnu a k tělu.
+Špatné kvality existují také. Ale pocházejí z mysli, vitálna nebo z fyzického. Například nečistota nepochází z duše, ani dokonce ze srdce. Ale pokud vnikne do srdce z vitálna a mysli příliš mnoho nečistoty, pak chudák srdce projeví také nějakou nečistotu. Pak přijde duše a snaží se srdce zachránit, protože cítí, že srdce je od přírody dobré. A tak duše vloží do srdce světlo a srdce očistí. Protože jsou mysl a vitálno často velmi zlé, je duše zklamána nebo se na ně zlobí, a nechává je, aby si daly na čas. Ale se srdcem to nedělá, protože chová k srdci obrovskou lásku, zájem a soucit -- daleko větší než k mysli, vitálnu a k tělu.
 
 
 * Další otázka je otázka ze zvědavosti.
@@ -675,6 +685,7 @@ Takže veškeré božské kvality, které vyjadřujete ve svém životě a jeho 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:342-cs
+  :DATE-EVENT: 1996-05-11
   :END:
 
 
@@ -687,6 +698,7 @@ Takže veškeré božské kvality, které vyjadřujete ve svém životě a jeho 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:343-cs
+  :DATE-EVENT: 1996-05-11
   :END:
 
 
@@ -700,6 +712,7 @@ Takže veškeré božské kvality, které vyjadřujete ve svém životě a jeho 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:344-cs
+  :DATE-EVENT: 1996-05-11
   :END:
 
 
@@ -714,6 +727,7 @@ Takže veškeré božské kvality, které vyjadřujete ve svém životě a jeho 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:345-cs
+  :DATE-EVENT: 1996-05-11
   :END:
 
 
@@ -723,30 +737,14 @@ Nedostatek harmonie přichází, když cítím, že umím udělat něco lépe ne
 
 Je to pouze proto, že jsme tak podřadní Bohu, že na něm neustále hledáme vinu. Říkáme: „Vím to lépe než Bůh! Bůh nerozumí mé situaci! Bůh nevidí, když dělám něco dobrého; vidí jen to špatné!“ A takto stále kritizujeme Boha. Když je někdo skutečně nadřazený, je pod jeho důstojnost sejít dolů a hádat se s ostatními. Bůh je nám nekonečně nadřazený a sestupuje k nám snad, aby s námi bojoval? Ne!
 
-	Když se děti hádají se svou matkou, matka se chová, jako by nic nevěděla. Dítě může chodit teprve do prvního stupně školy nebo na střední školu, a matka má třeba nejvyšší univerzitní diplom. Přesto si dítě myslí, že ví více než ona, a říká matce všemožné hlouposti. Uvnitř matka pláče a modlí se k Bohu, aby dítě osvítil, ale navenek říká: „Ó, máš pravdu; jsem tak hloupá. Já se od tebe učím“.
+Když se děti hádají se svou matkou, matka se chová, jako by nic nevěděla. Dítě může chodit teprve do prvního stupně školy nebo na střední školu, a matka má třeba nejvyšší univerzitní diplom. Přesto si dítě myslí, že ví více než ona, a říká matce všemožné hlouposti. Uvnitř matka pláče a modlí se k Bohu, aby dítě osvítil, ale navenek říká: „Ó, máš pravdu; jsem tak hloupá. Já se od tebe učím“.
 
 Podobně, i když víme, že ten a ten nemá absolutně pravdu, musíme být moudrými a mlčet. Jednou tato osoba uvidí světlo. Ale když budeme celou dobu bojovat a budeme se hádat, pouze narušíme naše jemné nervy, kterých je nám tolik třeba na duchovní cestě. Takže jestliže použijeme svou moudrost, automaticky přijde naše "sebezapření". Sebezapření je nejsnadnější cesta, jak dosáhnout harmonie. Jednu věc, kterou můžeme dělat, je cvičit džapu opakováním: „Sebezapření, sebezapření, sebezapření…“ Budeme-li cvičit tuto džapu, půjdeme po sluncem ozářené cestě a dosáhneme našeho cíle.
 
 
 
-* Poznámky
-
-  :PROPERTIES:
-  :genre: section
-  :keywords:
-  :cite-key: SCA:346e1-cs
-  :END:
 
 
-[fn:SCA-305-323] SCA 305-323. /Následující otázky byly zodpovězeny v letech 1995 a 1996./
-
-[fn:SCA-324-328] SCA 324-328. /Následujících pár otázek a odpovědí vychází z poznámek Sri Chinmoye z jara roku 1996, které pronesl ke svým žákům, kteří pracují v OSN./
-
-[fn:SCA-329-332] SCA 329-332. /Následující čtyři otázky položili během své návštěvy na Aspiration Ground v New Yorku mladí žáci na začátku září 1994./
-
-[fn:SCA-333-339] SCA 333-339. /Obecné otázky./
-
-[fn:SCA-340-345] SCA 340-345. /Sri Chinmoy měl následující konverzaci s Akuli v Annam Brahma 11. května 1996, den po jejích narozeninách./
 
 
 
