@@ -37,7 +37,7 @@
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:55-cs
-  :DATE-EVENT: 93-08-03
+  :DATE-EVENT: 1993-08-03
   :END:
 
 
@@ -55,7 +55,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:56-cs
-  :DATE-EVENT: 93-08-03
+  :DATE-EVENT: 1993-08-03
   :END:
 
 
@@ -84,7 +84,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:57-cs
-  :DATE-EVENT: 93-08-03
+  :DATE-EVENT: 1993-08-03
   :END:
 
 
@@ -97,7 +97,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:58-cs
-  :DATE-EVENT: 93-08-03
+  :DATE-EVENT: 1993-08-03
   :END:
 
 
@@ -111,7 +111,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:59-cs
-  :DATE-EVENT: 93-08-03
+  :DATE-EVENT: 1993-08-03
   :END:
 
 
@@ -124,7 +124,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:60-cs
-  :DATE-EVENT: 93-08-03
+  :DATE-EVENT: 1993-08-03
   :END:
 
 
@@ -138,7 +138,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:61-cs
-  :DATE-EVENT: 93-08-03
+  :DATE-EVENT: 1993-08-03
   :END:
 
 
@@ -152,7 +152,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:62-cs
-  :DATE-EVENT: 93-08-03
+  :DATE-EVENT: 1993-08-03
   :END:
 
 
@@ -166,7 +166,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:63-cs
-  :DATE-EVENT: 93-08-03
+  :DATE-EVENT: 1993-08-03
   :END:
 
 
@@ -179,7 +179,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:64-cs
-  :DATE-EVENT: 93-08-03
+  :DATE-EVENT: 1993-08-03
   :END:
 
 
@@ -203,7 +203,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:65-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -217,7 +217,7 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:66-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -233,7 +233,7 @@ Když si koupíme klec a dáme dovnitř ptáka, tento pták je omezován. Ale kd
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:67-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -253,7 +253,7 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:68-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -267,7 +267,7 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:69-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -281,7 +281,7 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:70-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 /Sri Chinmoy:/ Ano, jen vsedě. Obvykle když kreslím, snažím se být v kontemplativní náladě -- v oduševnělém vědomí plném modlitby -- a nemluvím. Obvykle kreslím brzy ráno, když jsem jen sám se sebou, nebo když jsem v autě. Ale někdy kreslím, i když jsou okolo lidé a já jsem uprostřed shonu každodenního života.
@@ -294,7 +294,7 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:71-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -319,7 +319,7 @@ Tito ptáci zrcadlí jednotu srdce. Představují jednotu v mnohosti. Každý pt
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:72-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -348,7 +348,7 @@ Pane Sri Chinmoyi, musíte být velmi potěšen, že jste úspěšně nakreslil 
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:73-cs
-  :DATE-EVENT: 94-01-06
+  :DATE-EVENT: 1994-01-06
   :END:
 
 
@@ -362,7 +362,7 @@ Pane Sri Chinmoyi, musíte být velmi potěšen, že jste úspěšně nakreslil 
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:74-cs
-  :DATE-EVENT: 94-01-06
+  :DATE-EVENT: 1994-01-06
   :END:
 
 
@@ -378,7 +378,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:75-cs
-  :DATE-EVENT: 94-01-06
+  :DATE-EVENT: 1994-01-06
   :END:
 
 
@@ -399,7 +399,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:76-cs
-  :DATE-EVENT: 94-01-06
+  :DATE-EVENT: 1994-01-06
   :END:
 
 
@@ -414,7 +414,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:77-cs
-  :DATE-EVENT: 94-01-06
+  :DATE-EVENT: 1994-01-06
   :END:
 
 /Sri Chinmoy:/ Ona a prezident Gorbačov jsou mí blízcí přátelé. Politice vůbec nerozumím, jsem pouze hledajícím pravdy a milovníkem Boha. Ale cítím, že prezident Gorbačov je rovněž upřímným hledajícím a opravdovým člověkem míru. Proto jej nanejvýš obdivuji a miluji. Setkal jsem se s ním pětkrát nebo šestkrát. Mé první setkání s ním se odehrálo shodou okolností před čtyřmi lety v Ottawě.
@@ -444,7 +444,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:78-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -458,7 +458,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:79-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -472,7 +472,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:80-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -486,7 +486,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:81-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -500,7 +500,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:82-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -513,7 +513,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:83-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -527,7 +527,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:84-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -541,7 +541,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:85-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -555,7 +555,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:86-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -568,7 +568,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:87-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
 
 
@@ -582,7 +582,7 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:88-cs
-  :DATE-EVENT: 93-08-00
+  :DATE-EVENT: 1993-08-00
   :END:
   
 
@@ -610,7 +610,7 @@ Z pohledu lidí je milion ptáčků víc než dost. Ale v čemkoliv, co je dobr�
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:89-cs
-  :DATE-EVENT: 94-06-16
+  :DATE-EVENT: 1994-06-16
   :END:
 
 
@@ -633,7 +633,7 @@ Proto říkám Bohu: „Kopej mě tak silně, jak je to jen možné. Jen potom T
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:90-cs
-  :DATE-EVENT: 94-06-16
+  :DATE-EVENT: 1994-06-16
   :END:
 
 
@@ -650,7 +650,7 @@ Mysl nám říká, že můžeme dosáhnout jen určité výšky, ale jak víme, 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:91-cs
-  :DATE-EVENT: 94-06-16
+  :DATE-EVENT: 1994-06-16
   :END:
 
 

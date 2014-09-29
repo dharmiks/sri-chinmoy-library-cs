@@ -35,7 +35,7 @@
   :GENRE: qa
   :CITE-KEY: SCA:1-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-06-25
+  :DATE-EVENT: 1994-06-25
   :END:
 
 
@@ -59,7 +59,7 @@ Pro žáky je nejlepším způsobem, jak posílit víru v Mistra, když si před
   :GENRE: qa
   :CITE-KEY: SCA:2-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-06-25
+  :DATE-EVENT: 1994-06-25
   :END:
 
 
@@ -80,7 +80,7 @@ Ptáš se, co je přednější. To záleží na jedinci. Bezpodmínečné odevzd
   :GENRE: qa
   :CITE-KEY: SCA:3-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-06-25
+  :DATE-EVENT: 1994-06-25
   :END:
 
 
@@ -104,7 +104,7 @@ Existuje něco, co je nanejvýš důležité a čemu žáci nevěnují žádnou 
   :GENRE: qa
   :CITE-KEY: SCA:4-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-06-25
+  :DATE-EVENT: 1994-06-25
   :END:
 
 
@@ -140,7 +140,7 @@ Jak jsem již řekl předtím, základní víru, nejvyšší víru, mám v každ
   :GENRE: qa
   :CITE-KEY: SCA:5-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-06-25
+  :DATE-EVENT: 1994-06-25
   :END:
 
 
@@ -157,7 +157,7 @@ Toto je jeden z nejúčinnějších způsobů, jak porazit letargii, zatímco kr
   :GENRE: qa
   :CITE-KEY: SCA:6-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-06-25
+  :DATE-EVENT: 1994-06-25
   :END:
 
 
@@ -181,7 +181,7 @@ Ptáš se, jak může duchovnost uniknout omezením náboženství. Únik není 
   :GENRE: qa
   :CITE-KEY: SCA:7-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-06-25
+  :DATE-EVENT: 1994-06-25
   :END:
 
 
@@ -202,7 +202,7 @@ Jakmile jednou vstoupíme do duchovního života, naším prvním a nejpředněj
   :GENRE: qa
   :CITE-KEY: SCA:8-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-06-25
+  :DATE-EVENT: 1994-06-25
   :END:
 
 
@@ -233,7 +233,7 @@ Toto světlo obvykle pochází ze života ticha, z míru. A mír přichází po
   :GENRE: qa
   :CITE-KEY: SCA:9-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-07-04
+  :DATE-EVENT: 1994-07-04
   :END:
 
 
@@ -252,7 +252,7 @@ Vraťme se zpátky k tvé otázce -- je nekonečně, nekonečně, nekonečně d�
   :GENRE: qa
   :CITE-KEY: SCA:10-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-07-04
+  :DATE-EVENT: 1994-07-04
   :END:
 
 
@@ -273,7 +273,7 @@ Právě nyní se musí duchovní lidé více modlit a meditovat, aby získali v�
   :GENRE: qa
   :CITE-KEY: SCA:11-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-07-04
+  :DATE-EVENT: 1994-07-04
   :END:
 
 
@@ -293,7 +293,7 @@ Většinou když žák-hudebník hraje moji hudbu, vidím, že jeho mysl pracuje
   :GENRE: qa
   :CITE-KEY: SCA:12-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-07-04
+  :DATE-EVENT: 1994-07-04
   :END:
 
 
@@ -310,7 +310,7 @@ Jediným  způsobem je přijímání a stávání se. Prostě si řekněte: „S
   :GENRE: qa
   :CITE-KEY: SCA:13-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-07-04
+  :DATE-EVENT: 1994-07-04
   :END:
 
 
@@ -326,7 +326,7 @@ Jak Jej můžeš vidět? Prostě se podívej do zrcadla a pokus se cítit, že o
   :GENRE: qa
   :CITE-KEY: SCA:14-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-07-04
+  :DATE-EVENT: 1994-07-04
   :END:
 
 
@@ -343,7 +343,7 @@ Pokud se budete dívat na ostatní Afroameričany jako na oddělené individuali
   :GENRE: qa
   :CITE-KEY: SCA:15-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-07-04
+  :DATE-EVENT: 1994-07-04
   :END:
 
 
@@ -361,7 +361,7 @@ Jeffersonova vize v okamžiku pozvedla vědomí světa. Světlo, jež chtěl uk�
   :GENRE: qa
   :CITE-KEY: SCA:16-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-07-04
+  :DATE-EVENT: 1994-07-04
   :END:
 
 /Sri Chinmoy:/ Pokud dáváš ze své duše, nebudeš zjišťovat, zda druhá osoba přijímá, a nebudeš od ní očekávat vděčnost nebo uznání. Dáváš-li něco ze své duše, cítíš spontánní radost ze samotného dávání. Necítíš, že něco odevzdáváš; dáváš úsměv nebo něco jiného jednoduše proto, že cítíš vnitřní spontánní potřebu. Když něco dáváš běžným způsobem, někdy ti přijde na mysl myšlenka dobročinnosti nebo určitý pocit nadřazenosti. Cítíš, že jsi nadřazený, protože ty jsi tím, kdo dává. Ale ve skutečném sebedávání nevidíš druhou osobu jako někoho jiného, ale spíše jako jakési rozšíření sebe sama. Při sebedávání vlastně znásobuješ sama sebe. Jdeš od jednoho ke dvěma. S jednotou svého srdce vytváříš další já, které je přesně stejné jako ty sám, a tomuto druhému já dáváš stejné věci, které máš sám. Se svojí vlastní božskostí vytváříš další božskost, přesně stejnou, jako jsi ty sám -- přesný prototyp vlastní existence. Je to jako vyrábět další osobu v továrně. Nejprve vyrábíš jednu osobu, pak dvě, tři, čtyři, pět osob, a pak nespočetné množství osob.
@@ -374,7 +374,7 @@ Jeffersonova vize v okamžiku pozvedla vědomí světa. Světlo, jež chtěl uk�
   :GENRE: qa
   :CITE-KEY: SCA:17-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-07-04
+  :DATE-EVENT: 1994-07-04
   :END:
 
 
@@ -392,7 +392,7 @@ Cítím, že svým žákům říkám správnou věc, ale oni mne velice často n
   :GENRE: qa
   :CITE-KEY: SCA:18-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-07-04
+  :DATE-EVENT: 1994-07-04
   :END:
 
 
@@ -410,7 +410,7 @@ Vycházím z tebe a také do tebe vstupuji. Vycházím z tvého srdce a vstupuji
   :GENRE: qa
   :CITE-KEY: SCA:19-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-07-04
+  :DATE-EVENT: 1994-07-04
   :END:
 
 
@@ -438,7 +438,7 @@ Vedeš duchovní život, protože chceš štěstí. Pokud by duchovní život ne
   :genre: remark
   :keywords:
   :cite-key: SCA:20
-  :DATE-EVENT: 94-05-10
+  :DATE-EVENT: 1994-05-10
   :END:
 
 /Sri Chinmoy:/ Skutečnou meditací je učinit tvého Vnitřního kormidelníka šťastným prostřednictvím poslušnosti. Toto je meditace, která je nanejvýš účinná: poslouchat svého Vnitřního kormidelníka. Pokud posloucháš svého Vnitřního kormidelníka radostně každou vteřinu, pak zde nemůže být žádná vnitřní horečka -- žádný strach, pochyby nebo žárlivost -- protože nemáš čas přemýšlet o těchto věcech.
@@ -451,7 +451,7 @@ Vedeš duchovní život, protože chceš štěstí. Pokud by duchovní život ne
   :GENRE: qa
   :CITE-KEY: SCA:21-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-05-10
+  :DATE-EVENT: 1994-05-10
   :END:
 
 
@@ -470,7 +470,7 @@ Můžeme se na to dívat dvěma způsoby. Jeden způsob je považovat vránu za 
   :GENRE: qa
   :CITE-KEY: SCA:22-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-05-10
+  :DATE-EVENT: 1994-05-10
   :END:
 
 
@@ -488,7 +488,7 @@ V každém případě ty máš vrány ráda. Jednou jsi měla inkarnaci vrány, 
   :GENRE: qa
   :CITE-KEY: SCA:23-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-05-10
+  :DATE-EVENT: 1994-05-10
   :END:
 
 
@@ -504,7 +504,7 @@ Nezáleží na tom, kolikrát tě nevědomost napadne, tvá mantra je vždy: „
   :GENRE: qa
   :CITE-KEY: SCA:24-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-05-10
+  :DATE-EVENT: 1994-05-10
   :END:
 
 
@@ -520,11 +520,12 @@ Ty už sis vybrala mezi nevědomostí a moudrostí, ale někdo tě nutí cítit,
   :GENRE: qa
   :CITE-KEY: SCA:25-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-05-10
+  :DATE-EVENT: 1994-05-10
   :END:
 
 
 /Sri Chinmoy:/ Myslíš, že jsi jediná, kdo trpí touto nemocí? Říká ti tohle tvoje nejistota? Každý plave v tomto moři, a tak se nemusíš bát.
+
 Akuli: Nejvyššímu z toho není špatně?
 
 
@@ -535,7 +536,7 @@ Akuli: Nejvyššímu z toho není špatně?
   :GENRE: qa
   :CITE-KEY: SCA:26-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-05-10
+  :DATE-EVENT: 1994-05-10
   :END:
 
 
@@ -551,13 +552,14 @@ Při fotbalovém zápasu hráč ví, zda vyhrává nebo prohrává, a v určité
   :GENRE: qa
   :CITE-KEY: SCA:27-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-05-10
+  :DATE-EVENT: 1994-05-10
   :END:
 
 
 /Sri Chinmoy:/ Proč musíš myslet na to, jak těšit Nejvyššího více? Prostě mysli na Nejvyššího pořád nebo kdykoliv můžeš. Pouze upřímná radost ti pomůže. Nejvyšší je tebou skutečně potěšen, ale pokud chceš, aby byl ještě více potěšen, potom až tě potkám na tenisovém kurtu nebo v Annam Brahmě, vyzařuj pouze nejupřímnější štěstí. Poté, co mne uvidíš na fyzické úrovni v Annam Brahmě nebo někde jinde, mělo by z nejhlubších hlubin tvého srdce vycházet upřímné štěstí.
 
 Když mne vidíš na fyzické úrovni, získáváš radost. Když mne vidíš na vnitřní úrovni, musíš získat stejnou radost. Mnohokrát během dne myslíš na Nejvyššího. Pokaždé, když myslíš na Nejvyššího ve mně nebo medituješ na Nejvyššího ve mně, můžeš-li získat stejný druh vnitřní radosti a vnitřního rozechvění, jako když mne vidíš ve fyzickém, pak rozhodně urychlíš svoji vnitřní cestu a budeš více těšit Nejvyššího.
+
 Kde jsi vyrostla?
 
 /Akuli:/ V Indianě..
@@ -600,7 +602,7 @@ Akuli, znáš ten hloupý indický vtip o tom, kolik existuje vran? Někdo řekn
   :GENRE: qa
   :CITE-KEY: SCA:28-cs
   :KEYWORDS:
-  :DATE-EVENT: 90-02-09
+  :DATE-EVENT: 1990-02-09
   :END:
 
 
@@ -657,7 +659,7 @@ A proto, milá dívko, chceš-li být šťastná a zabezpečená, pokus se prost
 
 
 
-* Část VI[fn:: SCA 30. 31. prosince 1986, se N. zeptala Sri Chinmoye na následující otázky]
+* Část VI[fn:: SCA 30. 31. prosince 1986, se N. zeptala Sri Chinmoye na následující otázku]
 
   :PROPERTIES:
   :GENRE: section
@@ -673,7 +675,7 @@ A proto, milá dívko, chceš-li být šťastná a zabezpečená, pokus se prost
   :GENRE: qa
   :CITE-KEY: SCA:30-cs
   :KEYWORDS:
-  :DATE-EVENT: 86-12-31
+  :DATE-EVENT: 1986-12-31
   :END:
 
 
@@ -706,13 +708,14 @@ Přistihl jsem tvou mysl; udělal jsi chyby. Musíš vědět, že když udeří 
   :GENRE: discourse
   :CITE-KEY: SCA:31-cs
   :KEYWORDS:
-  :DATE-EVENT: 94-01-16
+  :DATE-EVENT: 1994-01-16
   :END:
 
 
 Zrcadlo je křehké. Když spadne na zem, roztříští se na kusy. Uvědomil jsem si ale, že zrcadlo má větší životnost než vděčnost lidských bytostí. Aby se zrcadlo mohlo rozbít, musí být upuštěno buď z Nebe, nebo z několika metrů nad zemí. A proto to trvá několik vteřin. Ale lidské nevděčnosti to netrvá ani jednu prchavou vteřinu, než vyjde do popředí.
 
 Pokud může něco zmizet z našeho srdce dříve než nejdříve, pak to není nic jiného než vděčnost. Na druhou stranu je-li něco na zemi skutečně překrásné, skutečně významné a skutečně platné, může-li něco na zemi udržet naši zlatou spojovací linku s Bohem, naším Zdrojem, pak tím je také vděčnost. Mojí drazí, říkám vám, pokud máte jen trochu upřímné vděčnosti a pokud si ceníte této vděčnosti jako té nejdrahocennější věci ve svém životě, pak vás dech této vděčnosti uchová živými v srdci Boha, vašeho Pána Nejvyššího. Vy lidé se špatně chováte a mučíte svého Mistra tolika způsoby; někdy se dokonce chcete vzdát duchovního života. Ujišťuji vás ale, že jestliže si uchováte vděčnost živou ve svém srdci, krása a vůně této božské vlastnosti vás ochrání před duchovním úpadkem a zničením.
+
 Hovořím o upřímné vděčnosti -- o takové vděčnosti, jejíž živoucí přítomnost můžete cítit pouze ve svém srdci. Pokud cítíte, že vděčnost je vaším vnějším jménem, pokud cítíte, že vaším jediným jménem je vděčnost, pak vaše vděčnost okamžitě skočí do popředí a nastolí svoji neoddělitelnou jednotu s vaší skutečností Boží jednoty.
 
 Vděčnost je tou nejmocnější zbraní ve vašem životě. Není nic nebožského, čeho byste se pomocí vděčnosti nemohli ve vašem životě zbavit. A také ve vašem životě neexistuje nic božského, co byste silou své vděčnosti nemohli posílit v nekonečné míře. Je pouze jedna věc, kterou potřebujete k tomu, abyste posílili svoji božskost, a tou věcí je vděčnost. Jestliže každý den vědomě posilujete svoji vděčnost -- ne ke Sri Chinmoyovi, ale k Nejvyššímu, který je vaším Guruem, mým Guruem a Guruem každého -- pak uvidíte, jak velký učiníte pokrok a kolika špatných sil se budete schopni zbavit. Říkám vám, že všechna fyzická, vitální, mentální a emocionální horečka, kterou trpíte, přichází pouze z toho důvodu, že jste ztratili dech vděčnosti svého srdce. Je-li dech vašeho srdce vděčnosti v pořádku, pak si jej udržte navždy. Toto je nepochybně ta správná cesta, jak běžet rychle, rychleji, nejrychleji ke stanovenému Cíli.
