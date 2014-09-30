@@ -24,6 +24,7 @@
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:76-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -52,6 +53,7 @@ Norwalk, Connecticut
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:77-cs
+  :DATE-EVENT: 1977-07-17
   :END:
 
 Můj Milovaný Nejvyšší, mám pro Tebe nějaké dárky. Můj první dárek je můj oduševnělý pláč. Můj druhý dárek je můj plodný úsměv. Můj třetí a speciální dárek je má jednota srdce. Můj čtvrtý a můj extra speciální dárek je můj plamen vděčnosti. 
@@ -69,6 +71,7 @@ Na cestě z Jamaiky, New York do Washington, D.C.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: EA:78-cs
+  :DATE-EVENT: 1977-07-19
   :END:
 
 
@@ -113,6 +116,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:79-cs
+  :DATE-EVENT: 1977-07-19
   :END:
 
 
@@ -135,6 +139,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:80-cs
+  :DATE-EVENT: 1977-07-19
   :END:
 
 
@@ -154,6 +159,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:81-cs
+  :DATE-EVENT: 1977-07-19
   :END:
 
 
@@ -182,16 +188,24 @@ Bronx, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:82-cs
+  :DATE-EVENT: 1977-07-20
   :END:
 
 
 Nikdy není příliš pozdě, abych se stal dobrým nástrojem Boha.
+
 Nikdy není příliš pozdě, abych se brzy ráno modlil k Bohu a meditoval na Boha. 
+
 Nikdy není příliš pozdě, abych sloužil svému Milovanému Nejvyššímu uvnitř svých bratrů a sester -- uvnitř lidstva.
+
 Nikdy není příliš pozdě, abych miloval své bratry a sestry -- lidstvo -- uvnitř svého Milovaného Nejvyššího.
+
 Nikdy není příliš pozdě, abych řekl svému sladkému Pánu, že jsem pouze pro Něj. Abych Jej spatřil tváří v tvář, abych Jej miloval, Jemu sloužil a Jej naplnil -- proto jsem spatřil světlo dne.
+
 Nikdy není příliš pozdě, abych se naučil, čím skutečně jsem ve vnitřním světě, a abych se odnaučil, čím skutečně nejsem ve vnějším světě.
+
 A nakonec, nikdy není příliš pozdě nejenom na to, abych svým srdcem rozmlouval se srdcem svého Vnitřního Kormidelníka, ale také na to, abych vrostl do Jeho obrazu. Vím, že můj Pán Nejvyšší mnou bude zcela potěšen pouze tehdy, až budu jako On, druhý Bůh, protože chce, abych byl Jeho druhem, ne Jeho otrokem.
+
 Ano, je jedna věc, na kterou je příliš pozdě, a já jsem svému Milovanému Nejvyššímu nekonečně vděčný, že je tomu tak. A co je tou věcí? Je jí můj život touhy. Je pro mne už příliš pozdě na to, abych se vracel ke svému životu touhy. A něco víc je také pravda: už nikdy nebudu schopen vrátit se do zvířecího království, nikdy!
 
 6:15
@@ -207,7 +221,8 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:83-cs
-  :END:
+  :DATE-EVENT: 1977-07-20
+   :END:
 
 
 Bůh stvořil tento svět kulatý. Víš proč? Možná ano. Popravdě, každý dokáže podle svého vnitřního světla a vnějšího úhlu pohledu dát nějakou odpověď. Vzhledem ke svému vnitřnímu uvědomění si přeji říci, že Bůh stvořil svět kulatý proto, abychom se kolem Něj mohli všichni posadit do kruhu a aby nám nikdo nebránil ve výhledu. Když nám bude někdo bránit ve výhledu, přirozeně budeme smutní a nešťastní. Bůh, který je Tvůrcem všeho Dobra, stvořil tedy svět kulatý, abychom Jej mohli vidět snadno a přímo. A jestliže chceme -- což bychom měli -- můžeme se na Něj dívat oddaně a oduševněle.
@@ -227,7 +242,8 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:84-cs
-  :END:
+  :DATE-EVENT: 1977-07-20
+   :END:
 
 
 Dávám? Ano. Dávám radostně a oduševněle? Ne, bohužel ne. To znamená, že nabízím nejen svou růži, ale s ní také mnoho, mnoho trnů.
@@ -251,7 +267,8 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:85-cs
-  :END:
+  :DATE-EVENT: 1977-07-20
+   :END:
 
 "Můj Pane Nejvyšší, je to můj osud, že nebudu mít žádnou zkratku k mému cíli-uspokojení? Každý ví, že vede zkratka k cíli, ale v mém případě jsem tuto zkratku ještě nenašel. Chceš, abych milovat svět, chceš, abych světu sloužil, protože uvnitř světa je Tvá vlastní skutečnost Bytí. Ale tento Tvůj svět nebyl připraven, není připraven a možná nikdy nebude připraven na vybrané nástroje, svrchovaně vybrané nástroje k probuzení spícího lidského života. Ne! Žádná duchovní postava nikdy neuspěla podle Tvého vnitřního Přání.
 
@@ -272,7 +289,8 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:86-cs
-  :END:
+  :DATE-EVENT: 1977-07-20
+   :END:
 
 
 Co dělám? Miluji Boha-člověka? Ne. Sloužím člověku-Bohu? Ne.
@@ -298,6 +316,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:87-cs
+  :DATE-EVENT: 1977-07-20
   :END:
 
 Mohu udělat něco bez člověka? Ano, mohu. Bez člověka mohu udělat mnoho, mnoho věcí, ne-li úplně všechno. Když se budu modlit k Bohu, aby mi dal schopnost udělat všechno bez pomoci lidstva, jsem si jistý, že mi vyhoví.
@@ -320,7 +339,8 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:88-cs
-  :END:
+  :DATE-EVENT: 1977-07-20
+   :END:
 
 
 "Ó člověče, dovol Mi k tobě promluvit od srdce k srdci. Člověče, Já tě miluji a sloužím ti. Ale ty nevěříš v Mou Lásku, nevěříš Mé Službě. K Mé lítosti Mě podezříváš. K Mé lítosti cítíš, že Má Láska tě svazuje, svazuje s pozemsky spoutanou realitou. Máš pocit, že Má Láska tě spoutává, omotává tě, vězní tě. Chceš být volným ptákem, volnou skutečností bytí, ale máš pocit, že Moje Láska k tobě tě svazuje všemi možnými způsoby. To je to, co si uvědomuješ, člověče.
@@ -346,7 +366,8 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:89-cs
-  :END:
+  :DATE-EVENT: 1977-07-20
+   :END:
 
 Můj bratr Chitta mi říkával: "Nikdy, nikdy nedávej vnější slib. Slibuj jen vnitřně sám, co chceš dělat ve svém životě a s životy druhých. V okamžiku, kdy navenek sdělíš světu, co budeš dělat, nebo co očekáváš, že ostatní udělají pro tebe, pro ostatní nebo pro sebe, nepřátelské síly na tebe vždy přímo zaútočí. Pak se do tebe pokusí vstoupit další nebožské síly: lidská žárlivost, lidská nejistota, lidské pochyby a mnoho špatných sil.
 
@@ -367,7 +388,8 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:90-cs
-  :END:
+  :DATE-EVENT: 1977-07-20
+   :END:
 
 "Můj Pane Nejvyšší, schvaluješ můj bojovný život? Souhlasíš s pokrokem, který dělám skrze bojování? Mám pocit, že dělám pokrok, jen když bojuji; cítím, že dělám pokrok, jen když musím překonávat překážky."
 
@@ -394,6 +416,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:91-cs
+  :DATE-EVENT: 1977-07-20
   :END:
 
 
@@ -402,6 +425,7 @@ Náš Milovaný Pán Nejvyšší má pro tebe zvláštní poselství. Dnes dá t
 Náš Milovaný Pán Nejvyšší má pro něj zvláštní poselství. Dnes dá náš Milovaný Nejvyšší jemu a jeho srdci lásku. Jeho srdce bude zaplaveno láskou. 
 
 Náš Milovaný Pán Nejvyšší má pro mne zvláštní poselství. Dnes dá mně a mému životu neustálý proud ujištění o tom, že jsem z Něho a pro Něj.
+
 Máš ty nějaké zvláštní poselství pro našeho Milovaného Nejvyššího? Má on nějaké zvláštní poselství pro našeho Milovaného Nejvyššího? Mám já nějaké zvláštní poselství pro našeho Milovaného Nejvyššího?
 
 Tvé mlčení mi říká, že nemáš pro Nejvyššího žádné zvláštní poselství, ale já bych ti rád řekl, že máš zvláštní poselství. ‚Ty' znamená tvá duše; tvá duše nyní promlouvá skrze mne. Poselství, které má pro Nejvyššího tvá duše, to skutečné v tobě, zní takto: od této chvíle popluješ na Jeho Lodi radostně a bezvýhradně.
@@ -427,6 +451,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:92-cs
+  :DATE-EVENT: 1977-07-20
   :END:
 
 
@@ -459,6 +484,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:93-cs
+  :DATE-EVENT: 1977-07-20
   :END:
 
 
@@ -487,6 +513,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:94-cs
+  :DATE-EVENT: 1977-07-20
   :END:
 
 
@@ -513,6 +540,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:95-cs
+  :DATE-EVENT: 1977-07-20
   :END:
 
 
@@ -535,6 +563,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:96-cs
+  :DATE-EVENT: 1977-07-20
   :END:
 
 
@@ -565,11 +594,13 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:97-cs
+  :DATE-EVENT: 1977-07-20
   :END:
 
 Včera jsem tě potkal. Dnes tě vidím podruhé. To znamená, že už pro mne nejsi nový, už pro mne nejsi cizí. Stal ses mým přítelem; ty a já jsme se stali starými přáteli. Ty jsi zestárl a já také.
 
 Včera jsem něco viděl poprvé. Dnes to vidím podruhé. To znamená, že ta věc už zestárla. Včera jsem něco cítil poprvé. Dnes cítím totéž. Včera jsem něco jedl poprvé. Dnes jím tu samou věc. To znamená, že moje zkušenost už zestárla. Už to není nic nového.
+
 Vše, co vidím podruhé, vše, co dělám podruhé, vše, co cítím podruhé, je automaticky staré. A ta věc, ta osoba bude ke mně cítit totéž -- že jsem zestárl.
 
 Existuje něco, co nemůže být nikdy staré? Ano, existuje, a to vnitřní pláč mého srdce. Tento vnitřní pláč je stále nový. Každý den na sebe bere podobu nové modlitby, nové koncentrace, nové meditace. Každý den od Boha získá něco nového. Můžeš se ptát, jak může být tvá modlitba nebo meditace nová, když se modlíš každý den? Rád bych však řekl, že je to nejenom možné, ale také nevyhnutelné.
@@ -591,6 +622,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:98-cs
+  :DATE-EVENT: 1977-07-20
   :END:
 
 
@@ -599,6 +631,7 @@ Proč pospícháš? Myslíš si, že tvůj vlak aspirace, který má namířeno 
 Proč pospícháš? Myslíš si, že Hodina Boha udeřila, zatímco jsi tvrdě spal? Proto jsi smutný, zaskočený a plný obav? To proto se tak naléhavě spěcháš modlit a meditovat a spatřit tak Tvář Boha?
 
 Proč pospícháš? Myslíš si, že čas uplynul a tvůj slib Bohu zůstává nenaplněný? Cítíš se smutně a bídně, protože nejsi člověkem pravdy? Cítíš, že nejsi opravdu oddaným a oduševnělým nástrojem Boha? To proto spěcháš meditovat, ponořit se dovnitř, udělat vše potřebné co nejdříve?
+
 Proč pospícháš? Je to proto, že v odpověď na svůj oduševnělý pláč zoufale potřebuješ plodný Úsměv svého Milovaného Nejvyššího? Jedině tento plodný Úsměv může dát tvému životu jeho sytící dech, tvému srdci jeho sytící lásku, tvé mysli její sytící jasnost, tvému vitálnu jeho sytící celistvost a tvému tělu jeho sytící čistotu. To proto pospícháš?
 
 Je-li odpověď na všechny tyto otázky kladná, pak bych rád řekl, že máš všechny důvody k tomu, abys spěchal. Jestliže dnes zmeškáš svůj vlak aspirace, který má namířeno k cíli realizace, pak budeš bezpochyby muset čekat nekonečně dlouho. Přijdeš-li včas, stihneš-li vlak aspirace jedoucí k cíli realizace, pak dozajista uvidíš všechno, co jsi chtěl vidět, ucítíš všechno, co jsi chtěl cítit, a staneš se vším, čím ses chtěl stát. Nenech si tedy vlak aspirace ujet.
@@ -616,6 +649,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:99-cs
+  :DATE-EVENT: 1977-07-20
   :END:
 
 Spíš? Pak spi. Sníš? Pak se probuď. Plánuješ? Pak vzhlédni, rozhlédni se kolem.
@@ -629,6 +663,7 @@ Když sníš, vstupuješ do světa, který sám sebe neustále přetváří a zn
 I když tvůj způsob snění a plánování a můj způsob snění a plánování nejsou stejné, přesto ty něco máš a já něco mám. To, co máš ty, není použitelné, není účinné, není dokonalé. To, co mám já, však je použitelné, účinné a dokonalé. Proto tě žádám nebo ti nařizuji, aby ses probudil, vstal a rozhlédl se kolem.
 
 Máš-li ruku, tehdy můžeš přemýšlet o někom jiném, kdo má také ruku, přestože ta tvá nemusí být tak silná jako jeho. Máš-li oko, tehdy můžeš cítit, že někdo jiný má také oko, přestože to tvé nemusí být tak krásné nebo tak požehnané darem vidění jako jeho. Máš-li konečné vědomí, konečné dosažení, tehdy si můžeš být vědom nekonečné možnosti někoho jiného.
+
 Jako pravý hledající můžeš vědět, že tvoje snění je pouhým předstupněm stavu skutečnosti, který má někdo jiný; můžeš vědět, že tvoje plánování je pouhým počátkem nebo předstupněm stavu, který je daleko za tím, co tvá mysl dokáže vidět, cítit a čeho dokáže dosáhnout.
 
 Něco však máš; proto nutně musíš dostat více. Nemáš-li nic, nemůžeš nic dostat. 
@@ -636,6 +671,7 @@ Něco však máš; proto nutně musíš dostat více. Nemáš-li nic, nemůžeš
 Jestliže máš trošičku životní energie, lékař ti může dát injekci. Když jsi však úplně mrtvý, lékař ti nic dávat nebude. Dá ti lék jedině tehdy, když v tebe a pro tebe chová alespoň malou naději.
 
 Máš-li na své životní cestě alespoň jiskřičku aspirace, jedině tehdy ti Bůh dá nekonečnou aspiraci. Svou plánující myslí se snažíš realizovat Boha svým vlastním způsobem. Bůh tedy řekne: "Ubohý člověk. Alespoň se snaží. Dobrá, ukážu mu tedy pravou cestu, tu nejúčinnější cestu." V tu chvíli ti Bůh ukáže svůj Plán, ale na rozdíl od tvého plánování, které provádíš svou lidskou myslí, je Plánem Boha Jeho všepřesahující Vize.
+
 Dáš-li Bohu svůj způsob, jak něco děláš, On ti nabídne Jeho způsob, jak dělá tu stejnou věc. Dítě dá otci pětník nebo desetník, který najde na ulici. Je to jeho jediný majetek a dítě jej dá svému otci. Mohlo si jej schovat nebo si za něj koupit sladkost, ale ono dalo celý svůj majetek svému milovanému otci. Otec cítí, že když mu dítě takto nabídne svou jednotu, je to nekonečně cennější než milióny dolarů, a tak mu dá pětidolarovou bankovku.
 
 Jestliže své vlastní lidské sny dokážeš dát bezvýhradně Nejvyššímu, dostaneš svět Jeho Skutečnosti. Když dáš pro svou vlastní radost, pak ti Srdce Jednoty tvého Otce s tebou dá vždy nekonečně více, než potřebuješ a než si zasloužíš, protože Jeho Uspokojení je pouze v tom, že dává, že tě činí svým Věčným přítelem, spolupodílníkem a partnerem, druhem svého Světla Nekonečnosti a Blaženosti Nesmrtelnosti. Pokud tedy dáš to, co máš ve svém světě snění, On dá svět své Skutečnosti. Dáš-li to, co máš ve svém světě mentálního plánování, On ti dá v mžiku svůj svět přímé Vize, který rozkvete do světa Dokonalosti a Uspokojení. 
@@ -653,6 +689,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:100-cs
+  :DATE-EVENT: 1977-07-20
   :END:
 
 
