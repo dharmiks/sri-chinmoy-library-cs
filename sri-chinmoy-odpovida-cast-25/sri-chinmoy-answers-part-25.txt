@@ -20,7 +20,7 @@
 
 
 
-* Část I   [fn:SCA-831-878]
+* Část I[fn:: SCA 831-878. Sri Chinmoy odpověděl na následující otázky o andělích a vílách 23. dubna 1995 v New Yorku]
 
 
   :PROPERTIES:
@@ -37,6 +37,7 @@
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:831-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -60,6 +61,7 @@ Andělé mají děti také velmi rádi, ale co se týče vnímavosti, starší l
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:832-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -78,6 +80,7 @@ Je to jako dva kouzelníci. Jeden má velmi jednoduchou a levnou kouzelnou hůlk
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:833-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -91,6 +94,7 @@ Je to jako dva kouzelníci. Jeden má velmi jednoduchou a levnou kouzelnou hůlk
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:834-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -104,6 +108,7 @@ Je to jako dva kouzelníci. Jeden má velmi jednoduchou a levnou kouzelnou hůlk
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:835-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -117,6 +122,7 @@ Je to jako dva kouzelníci. Jeden má velmi jednoduchou a levnou kouzelnou hůlk
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:836-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -132,6 +138,7 @@ Dnes jsem na jevišti viděl dívky, které kdysi byly anděly nebo vílami. Pot
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:837-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -145,6 +152,7 @@ Dnes jsem na jevišti viděl dívky, které kdysi byly anděly nebo vílami. Pot
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:838-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -158,6 +166,7 @@ Dnes jsem na jevišti viděl dívky, které kdysi byly anděly nebo vílami. Pot
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:839-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -173,6 +182,7 @@ Tím nemám na mysli Kálí nebo Durgu nebo kosmické bohy a bohyně velmi vysok
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:840-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -187,6 +197,7 @@ Tím nemám na mysli Kálí nebo Durgu nebo kosmické bohy a bohyně velmi vysok
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:841-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -200,6 +211,7 @@ Tím nemám na mysli Kálí nebo Durgu nebo kosmické bohy a bohyně velmi vysok
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:842-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -213,6 +225,7 @@ Tím nemám na mysli Kálí nebo Durgu nebo kosmické bohy a bohyně velmi vysok
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:843-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -228,6 +241,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:844-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -241,6 +255,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:845-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -254,6 +269,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:846-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -267,6 +283,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:847-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -280,6 +297,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:848-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -293,6 +311,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:849-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -306,6 +325,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:850-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -319,6 +339,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:851-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -332,6 +353,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:852-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -349,6 +371,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:853-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -362,6 +385,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:854-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -375,6 +399,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:855-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -388,6 +413,7 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:856-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -413,6 +439,7 @@ V takové chvíli musíte říci: „Ach, mohlo to být horší. Měl jsem vá�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:857-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -434,6 +461,7 @@ Očekáváme určité věci nejenom od světa, ale také od sebe samých. Když 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:858-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -447,6 +475,7 @@ Očekáváme určité věci nejenom od světa, ale také od sebe samých. Když 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:859-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -460,6 +489,7 @@ Očekáváme určité věci nejenom od světa, ale také od sebe samých. Když 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:860-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -477,6 +507,7 @@ Krása a vůně zahrady vás může inspirovat k větší rychlosti. Může vá
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:861-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -492,6 +523,7 @@ Musíme být moudří. Je-li naším cílem získat málo, půjdeme k tomu, kdo
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:862-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -507,6 +539,7 @@ Lidské bytosti jsou také nepřátelské, ale mohou to skrývat. Když se na n�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:863-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -524,6 +557,7 @@ Pokud mají andělé některé lidské bytosti radši než jiné, půjdou bojova
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:864-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -537,6 +571,7 @@ Pokud mají andělé některé lidské bytosti radši než jiné, půjdou bojova
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:865-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -556,6 +591,7 @@ Andělé jsou jako ten člověk, který vám ukázal, kudy jít. Můžete jim b�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:866-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -569,6 +605,7 @@ Andělé jsou jako ten člověk, který vám ukázal, kudy jít. Můžete jim b�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:867-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -584,6 +621,7 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:868-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -598,6 +636,7 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:869-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -611,6 +650,7 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:870-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -624,6 +664,7 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:871-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -637,6 +678,7 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:872-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -650,6 +692,7 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:873-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -665,6 +708,7 @@ Když si Bůh na sebe vezme svoji všemohoucí, vševědoucí a všudypřítomno
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:874-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -678,6 +722,7 @@ Když si Bůh na sebe vezme svoji všemohoucí, vševědoucí a všudypřítomno
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:875-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -691,6 +736,7 @@ Když si Bůh na sebe vezme svoji všemohoucí, vševědoucí a všudypřítomno
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:876-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -704,6 +750,7 @@ Když si Bůh na sebe vezme svoji všemohoucí, vševědoucí a všudypřítomno
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:877-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -719,6 +766,7 @@ Někteří andělé chtějí jít na jiné místo. Není to jako u lidí, kteř�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:878-cs
+  :DATE-EVENT: 1995-04-23
   :END:
 
 
@@ -728,7 +776,7 @@ Dokonce i ve zlém člověku -- ve zloději, v narkomanovi -- je duše. Jedinou
 
 
 
-* Část II [fn:SCA-879-881] 
+* Část II[fn:: SCA 879-881. Následující otázky některých svých portorických žáků zodpověděl Sri Chinmoy v New Yorku 27. listopadu 1999] 
 
 
   :PROPERTIES:
@@ -746,6 +794,7 @@ Dokonce i ve zlém člověku -- ve zloději, v narkomanovi -- je duše. Jedinou
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:879-cs
+  :DATE-EVENT: 1999-11-27
   :END:
 
 
@@ -759,6 +808,7 @@ Dokonce i ve zlém člověku -- ve zloději, v narkomanovi -- je duše. Jedinou
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:880-cs
+  :DATE-EVENT: 1999-11-27
   :END:
 
 
@@ -782,6 +832,7 @@ Když jsi byl ještě dítětem a poprvé ses postavil na nohy, tvoje matka měl
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:881-cs
+  :DATE-EVENT: 1999-11-27
   :END:
 
 
@@ -795,7 +846,7 @@ Mé portorické děti řeknou: „Ach, naše Centra nerostou kvůli portorickém
 
 
 
-* Část III [fn:SCA-882]
+* Část III[fn:: SCA 882. Následující otázku zodpověděl Sri Chinmoy v Curitibě v Brazílii 1. ledna 2000]
 
   :PROPERTIES:
   :genre: section
@@ -811,6 +862,7 @@ Mé portorické děti řeknou: „Ach, naše Centra nerostou kvůli portorickém
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:857-cs
+  :DATE-EVENT: 2000-01-01
   :END:
 
 
@@ -825,21 +877,6 @@ Pokud máš ve chvíli, kdy tvoje duše vystupuje z těla, víru, že tě vede,
 Je ještě jeden způsob, jak pomocí víry překonat strach z neznámého. Když vidíš, jak je někdo velice nebožský, pokus se vynést na povrch svoji víru a ihned zkus vidět svou vlastní božskost nebo jeho božskost. Neexistuje jediný člověk, který by neměl vrozenou božskost. Je-li někdo velmi špatný, prostě se pokus uvnitř něj vidět to božské. Když v něm uvidíš to božské, jeho božskost ihned vyjde na povrch a jeho vnější zvířecí sklony zmizí. Vždy měj víru v božské. Tvoje víra je nekonečně silnější než pomyslný strach nebo nějaký jiný strach, se kterým se ve svém duchovním životě setkáváš. 
 
 
-
-* Poznámky
-
-  :PROPERTIES:
-  :genre: note
-  :keywords:
-  :cite-key: SCA:883e1-cs
-  :END:
-
-
-[fn:SCA-831-878] SCA 831-878. /Sri Chinmoy odpověděl na následující otázky o andělech a vílách 23. dubna 1995 v New Yorku./
-
-[fn:SCA-879-881] SCA 879-881. /Následující otázky některých svých portorických žáků zodpověděl Sri Chinmoy v New Yorku 27. listopadu 1999./
-
-[fn:SCA-882] SCA 882. /Následující otázku zodpověděl Sri Chinmoy v Curitibě v Brazílii 1. ledna 2000./
 
 
 

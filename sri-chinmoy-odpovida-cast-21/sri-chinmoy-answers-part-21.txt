@@ -20,7 +20,7 @@
 
 
 
-* Část I [fn:SCA-761-762]
+* Část I[fn:: SCA 761-762. Následující otázky zodpověděl Sri Chinmoy 5. dubna 1999]
 
   :PROPERTIES:
   :genre: section
@@ -38,6 +38,7 @@
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:761-cs
+  :DATE-EVENT: 1999-04-05
   :END:
 
 
@@ -65,6 +66,7 @@ Když někdo ztratí inspiraci -- byť by to byli třeba vaši blízcí -- musí
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:762-cs
+  :DATE-EVENT: 1999-04-05
   :END:
 
 
@@ -78,7 +80,7 @@ Proč se tyto konflikty odehrávají? Všechno je to kvůli pýše, pýše a pý
 
 
 
-* Část II [fn:SCA-763-765]
+* Část II[fn:: SCA 763-765. Následující otázky zodpověděl Sri Chinmoy 18. června 1999]
 
   :PROPERTIES:
   :genre: section
@@ -94,6 +96,7 @@ Proč se tyto konflikty odehrávají? Všechno je to kvůli pýše, pýše a pý
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:763-cs
+  :DATE-EVENT: 1999-06-18
   :END:
 
 
@@ -111,6 +114,7 @@ Vraťme se však k tvé otázce; narodit se do duchovní rodiny je opravdu skvě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:764-cs
+  :DATE-EVENT: 1999-06-18
   :END:
 
 
@@ -140,6 +144,7 @@ Jde-li o světlo, potom na pozemském věku nezáleží. Světlo, blaženost, m�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:765-cs
+  :DATE-EVENT: 1999-06-18
   :END:
 
 
@@ -191,7 +196,7 @@ Moje filozofie spočívá v tom, že když někdo udělá něco zlého, budete n
 
 
 
-* Část III [fn:SCA-766]
+* Část III[fn:: SCA 766. Následující otázku zodpověděl Sri Chinmoy 22. července 1999]
 
   :PROPERTIES:
   :genre: section
@@ -207,6 +212,7 @@ Moje filozofie spočívá v tom, že když někdo udělá něco zlého, budete n
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:766-cs
+  :DATE-EVENT: 1999-07-22
   :END:
 
 
@@ -264,7 +270,7 @@ Avšak hudebník, který zůstane v duchovním životě, poroste jako lotos -- k
 
 
 
-* Část IV [fn:SCA-767]
+* Část IV[fn:: SCA 767. Následující otázku zodpověděl Sri Chinmoy 17. září 1999]
 
   :PROPERTIES:
   :genre: section
@@ -282,6 +288,7 @@ Avšak hudebník, který zůstane v duchovním životě, poroste jako lotos -- k
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:767-cs
+  :DATE-EVENT: 1999-09-17
   :END:
 
 
@@ -317,24 +324,6 @@ Ve světě duše neexistují zastávky. Není to tak, že tady máte zastávku, 
 
 Jde o velmi dobré znamení, že jsi dostal radost před svými narozeninami a že sis ji udržel. Druhý den jsem přednesl ranní vzpěračskou modlitbu, ve které se říká, že z naší nejistoty bolí Boha hlava a z naší žárlivosti má Bůh infarkt. Na naše nemoci však existují dva léky -- srdce vděčnosti a život odevzdání. Užíváme-li tyto dva léky, nejsme nikdy nešťastní, třebaže nedocilujeme uspokojení na materiální nebo pozemské úrovni. Naše srdce vděčnosti k Nejvyššímu v nás bude neustále udržovat štěstí. Náš život odevzdání Nejvyššímu v nás bude neustále udržovat štěstí. Dokážeme-li cítit, že jsme srdce vděčnosti a život odevzdání, budeme mít stále radost. Pozemský úspěch, vítězství nebo porážka, nemají na nic vliv. Na jedné straně je vítězství, na druhé je porážka. Dokážeme-li neustále setrvávat ve vědomí duše, budeme jen přijímat a nabízet štěstí a štěstí a štěstí. Duše bude vždy dávat štěstí tělu, vitálnu, mysli a srdci. Jakmile začne tělo, vitálno, mysl a srdce přijímat světlo duše, které přišlo od Nejvyššího, budeme mít vždy radostné srdce a sebedávající život. A v takovém radostném srdci a sebedávajícím životě přebývá Boží Uspokojení v nezměrné míře.
 
-
-* Poznámky 
-
-  :PROPERTIES:
-  :genre: note
-  :keywords:
-  :cite-key: SCA:768e1-cs
-  :END:
-  
-
-
-[fn:SCA-761-762] SCA 761-762. /Následující otázky zodpověděl Sri Chinmoy 5. dubna 1999./
-
-[fn:SCA-763-765] SCA 763-765. /Následující otázky zodpověděl Sri Chinmoy 18. června 1999./
-
-[fn:SCA-766] SCA 766. /Následující otázku zodpověděl Sri Chinmoy 22. července 1999./
-
-[fn:SCA-767] SCA 767. /Následující otázku zodpověděl Sri Chinmoy 17. září 1999./
 
 
 

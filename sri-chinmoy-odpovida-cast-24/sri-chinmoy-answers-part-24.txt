@@ -20,7 +20,7 @@
 
 
 
-* Část I [fn:SCA-818-820] 
+* Část I[fn:: SCA 818-820. Sri Chinmoy odpovídal na následující otázky 24. ledna 1996 v Durbanu v Jižní Africe] 
 
   :PROPERTIES:
   :GENRE: section
@@ -36,6 +36,7 @@
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:818-cs
+  :DATE-EVENT: 1996-01-24
   :END:
 
 
@@ -53,6 +54,7 @@ Jeden člověk by měl přijít s postojem obětování a říci: „Odevzdává
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:819-cs
+  :DATE-EVENT: 1996-01-24
   :END:
 
 
@@ -71,6 +73,7 @@ I když vás v obyčejném životě šéf urazí a vyhubuje vám, stále vám d
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:820-cs
+  :DATE-EVENT: 1996-01-24
   :END:
 
 
@@ -84,7 +87,7 @@ V duchovním životě nám vždy jde o sebepřekonání. Sebepřekonání není 
 
 
 
-* Část II [fn:SCA-821-823] 
+* Část II[fn:: SCA 821-823. Na následující otázky Sri Chinmoy odpovídal v New Yorku 21. února 1996] 
 
   :PROPERTIES:
   :genre: section
@@ -100,6 +103,7 @@ V duchovním životě nám vždy jde o sebepřekonání. Sebepřekonání není 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:821-cs
+  :DATE-EVENT: 1996-02-21
   :END:
 
 
@@ -129,6 +133,7 @@ Na druhou stranu, když máte nějakou dobrou zprávu, v tu chvíli je to jako r
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:822-cs
+  :DATE-EVENT: 1996-02-21
   :END:
 
 
@@ -150,6 +155,7 @@ Proč lidé procházejí suchými obdobími? Protože ztrácí svou oddanost. Od
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:823-cs
+  :DATE-EVENT: 1996-02-21
   :END:
 
 
@@ -183,7 +189,7 @@ Kdybych pro tyto tři otázky použil svou mysl, nebyl bych schopný mluvit o ka
 
 
 
-* Část III – Setkání s Robertem Změlíkem [fn:SCA-824-827] 
+* Část III – Setkání s Robertem Změlíkem[fn:: SCA 824-827. Následují výňatky z rozhovoru Sri Chinmoye s Robertem Změlíkem, českým zlatým olympionikem v desetiboji. Rozhovor se odehrál 19. června 1996 v restauraci Annam Brahma] 
 
   :PROPERTIES:
   :genre: section
@@ -199,6 +205,7 @@ Kdybych pro tyto tři otázky použil svou mysl, nebyl bych schopný mluvit o ka
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:824-cs
+  :DATE-EVENT: 1996-06-19
   :END:
 
 
@@ -222,6 +229,7 @@ Kolik času trávíte tréninkem, jako je posilování? Kolikrát týdně posilu
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:825-cs
+  :DATE-EVENT: 1996-06-19
   :END:
 
 
@@ -247,6 +255,7 @@ Bude s vámi váš trenér?
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:826-cs
+  :DATE-EVENT: 1996-06-19
   :END:
 
 
@@ -290,6 +299,7 @@ Kolik hodin odpočinku máte v noci?
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:827-cs
+  :DATE-EVENT: 1996-06-19
   :END:
 
 
@@ -307,7 +317,7 @@ Přeji vám hodně, víc, nejvíc štěstí v každé disciplíně!
 
 
 
-* Část IV [fn:SCA-828-829] 
+* Část IV[fn:: SCA 828-829. Sri Chinmoy odpovídal na následující otázky 21. října 1996 v San Francisku.] 
 
   :PROPERTIES:
   :GENRE: section
@@ -323,6 +333,7 @@ Přeji vám hodně, víc, nejvíc štěstí v každé disciplíně!
   :GENRE: note
   :KEYWORDS:
   :CITE-KEY: SCA:828-cs
+  :DATE-EVENT: 1996-10-21
   :END:
 
 
@@ -352,6 +363,7 @@ Opravdu bych si přál, aby se všichni žáci účastnili Joy Days. Je-li to mo
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:829-cs
+  :DATE-EVENT: 1996-10-21
   :END:
 
 
@@ -377,7 +389,7 @@ Takže ti, kdo Joy Days nevěnují pozornost, by měli začít. Jste-li neochotn
 
 
 
-* Část V [fn:SCA-830]
+* Část V[fn:: SCA 830. Na následující otázku Sri Chinmoy odpověděl v New Yorku 25. února 1999]
 
   :PROPERTIES:
   :genre: section
@@ -393,6 +405,7 @@ Takže ti, kdo Joy Days nevěnují pozornost, by měli začít. Jste-li neochotn
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:830-cs
+  :DATE-EVENT: 1996-02-25
   :END:
 
 
@@ -423,24 +436,6 @@ Nyní jsem něco předpověděl a Bůh sám ví, kdy se má předpověď vyplní
 Vezmou-li mě moji žáci vážně, řeknou: „Jestliže to můj Guru řekl, pak se to dá udělat, musí se to udělat!“ Někteří žáci mají takovýto přístup v jiných oblastech. Říkají: „Pokud Guru něco řekne, pak to jde udělat!“ Tito žáci se pokouší udělat něco nemožného, protože jsem jim řekl, že je to možné, a jsou úspěšní. Ale co se týká maratonu, má vize ještě projevena nebyla. Tolik záleží na vašem vnitřním štěstí. Víte, jak rychle něco dosáhnete v ty dny, kdy jste šťastní, ve srovnání s jinými dny. A v ty dny, kdy máte sebepochybnosti, strach, žárlivost a nejistotu, jste připraveni čekat do nekonečna, abyste něčeho dosáhli nebo abyste se dostali na svůj uspokojivý standard.
 
 
-* Poznámka
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:831e1-cs
-  :END:
-
-
-[fn:SCA-818-820] SCA 818-820. Sri Chinmoy odpovídal na následující otázky 24. ledna 1996 v Durbanu v Jižní Africe.
-
-[fn:SCA-821-823] SCA 821-823.Na následující otázky Sri Chinmoy odpovídal v New Yorku 21. února 1996.
-
-[fn:SCA-824-827] SCA 824-827. Následují výňatky z rozhovoru Sri Chinmoye s Robertem Změlíkem, českým zlatým olympionikem v desetiboji. Rozhovor se odehrál 19. června 1996 v restauraci Annam Brahma.
-
-[fn:SCA-828-829] SCA 828-829. Sri Chinmoy odpovídal na následující otázky 21. října 1996 v San Francisku.
-
-[fn:SCA-830] SCA 830. Na následující otázku Sri Chinmoy odpověděl v New Yorku 25. února 1999.
 
 
 

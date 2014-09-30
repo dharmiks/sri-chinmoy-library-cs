@@ -19,7 +19,7 @@
 
 
 
-* Část I [fn:SCA-788]
+* Část I[fn:: SCA 788. Sri Chinmoy odpověděl na následující otázku 3. února 2000 v New Yorku]
 
   :PROPERTIES:
   :genre: section
@@ -35,6 +35,7 @@
   :GENRE: qa
   :CITE-KEY: SCA:788-cs
   :KEYWORDS:
+  :DATE-EVENT: 2000-02-03
   :END:
 
 
@@ -103,12 +104,13 @@ Nevědomost se nás snaží chytit, ale my běžíme pryč tou nejvyšší rychl
 
 
 
-* Jak můžeme mít ve svém životě více novosti? [fn:SCA-789]
+* Jak můžeme mít ve svém životě více novosti?[fn:: SCA 789. Sri Chinmoy odpověděl na následující otázku 14. února 2000 v New Yorku]
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: SCA:789-cs
   :KEYWORDS:
+  :DATE-EVENT: 2000-02-14
   :END:
 
 
@@ -151,7 +153,7 @@ Když vás žádám, abyste něco udělali, potom byste to měli udělat celým 
 Vždy používejte srdce. Srdce vždy přináší novost, zatímco mysl nese starobu. Pro mysl neexistuje žádná novost. Druhý den mysl ztratí veškeré nadšení, protože cítí, že všechno je příliš staré, příliš staré, příliš staré. Ale pro srdce je každý den nový, jako slunce. Jak jsem řekl dříve, když slunce vychází, mysl nemá zájem podívat se na něj, protože mysl cítí, že je to tatáž stará věc. Bez ohledu na to, zda slunce vychází nad vodou nebo z mraků, mysl to nezajímá. Ale srdce čeká na slunce. Srdce říká: „Kdy vyjde? Kdy vyjde? Kdy vyjde?“ Dychtivost srdce vidí novost vždy a ve všem. Když použijeme srdce, abychom poslechli Boha, potěšili Boha, pak je všechno nové. Každý den, dokonce i když navenek děláme a vidíme stejnou věc, srdce neustále cítí novou radost, novou radost, novou radost.
 
 
-* Část II [fn:SCA-790-798]
+* Část II[fn:: SCA 790-798. 25. listopadu 1999 se Sri Chinmoy setkal s paní Shashi Tripathi, generální konzulkou Indie v New Yorku. K tomuto setkání došlo v restauraci Annam Brahma na Jamaice v newyorské čtvrti Queens. Zde jsou některé výňatky z jejich rozhovoru]
 
   :PROPERTIES:
   :genre: section
@@ -169,12 +171,14 @@ Vždy používejte srdce. Srdce vždy přináší novost, zatímco mysl nese sta
   :GENRE: qa
   :CITE-KEY: SCA:790-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
 /Sri Chinmoy:/ Moji rodiče byli velmi nábožensky založení. Můj nejstarší bratr se stal žákem Sri Aurobinda a samotné jméno Sri Aurobinda nám všem dávalo nesmírnou radost. Já jsem se do Sri Aurobindova ášramu poprvé dostal, když mi byl jeden rok a tři měsíce. Poté jsem ášram navštívil ve čtyřech, v sedmi a v jedenácti letech. V roce 1944 jsem se stal stálým členem Sri Aurobindova ášramu.
 
 Několik let jsem studoval v ášramové škole. V té době se tam nezískával žádný titul ani diplom. Studovali jsme pro poznání samotné. Také jsem v sobě měl velkou touhu po literatuře a ve věku dvanácti nebo třinácti let jsem začal psát básně. Podrobně jsem studoval naši bengálskou literaturu a poté jsem se věnoval studiu anglické literatury, filozofie a podobně. 
+
 V ášramu jsem strávil dvacet let. Dělal jsem tam různé práce jako například elektrikáře a různé údržbářské práce. Nejradši jsem měl mytí nádobí, protože to nevyžadovalo žádnou mentální energii. 
 
 Asi osm let jsem pracoval jako sekretář generálního sekretáře Sri Aurobindova ášramu. Na prvním místě byl Sri Aurobindo, potom Matka a pak Nolini Kanta Gupta. Ten byl na třetím místě. Thákur ho jako spisovatele hluboce obdivoval. Byl to velký vědec a učenec. Něco ve mně viděl a chtěl, abych byl jeho sekretářem. Měl jsem za úkol překládat jeho spisy z bengálštiny do angličtiny. Všechny se zabývaly indickou a světovou literaturou. 
@@ -197,6 +201,7 @@ Toto je můj život v kostce. Pokud máte nějaké konkrétní otázky, budu nes
   :GENRE: qa
   :CITE-KEY: SCA:791-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -218,6 +223,7 @@ Takže můžeme dělat pokrok za předpokladu, že chceme porazit svá omezení.
   :GENRE: qa
   :CITE-KEY: SCA:792-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -238,6 +244,7 @@ Takže přijetí života je nyní naší filozofií, ne odmítnutí života. Kdy
   :GENRE: qa
   :CITE-KEY: SCA:793-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -249,13 +256,14 @@ Ale čím více materiálního bohatství dostaneme, tím rychleji spoutáme sam
 
 
 
-* „Cokoli mi Bůh dává, okamžitě Mu nabízím zpět.“ [fn:SCA-794]
+* „Cokoli mi Bůh dává, okamžitě Mu nabízím zpět.“[fn:: SCA 794. Během diskuse o umění Sri Chinmoye]
 
 
   :PROPERTIES:
   :GENRE: discourse
   :CITE-KEY: SCA:794-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -286,6 +294,7 @@ Výsledky mohou přijít jen ve dvou podobách -- úspěch, nebo neúspěch. Jes
   :GENRE: qa
   :CITE-KEY: SCA:795-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -318,6 +327,7 @@ Když se mě S. K. Roy zeptal, jestli ho znám, odpověděl jsem: „Dilipa Roye
   :GENRE: qa
   :CITE-KEY: SCA:796-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -325,13 +335,14 @@ Když se mě S. K. Roy zeptal, jestli ho znám, odpověděl jsem: „Dilipa Roye
 
 
 
-* „Povzbuzení má nesmírný význam.“ [fn:SCA-797]
+* „Povzbuzení má nesmírný význam.“[fn:: SCA 797. Později během rozhovoru Sri Chinmoy mluvil o povzbuzení]
 
 
   :PROPERTIES:
   :GENRE: discourse
   :CITE-KEY: SCA:797-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -351,6 +362,7 @@ Všude jsem byl povzbuzován, povzbuzován. Zde, když jsem začal skládat pís
   :GENRE: interview
   :CITE-KEY: SCA:773-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -371,7 +383,7 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
 
 
 
-* Část III [fn:SCA-799-817]
+* Část III[fn:: SCA 799-817. Výběr z rozhovoru z června 1999 v Pondicherry, který byl uveřejněn v deníku „Indian Express“]
 
   :PROPERTIES:
   :genre: section
@@ -389,6 +401,7 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
   :GENRE: qa
   :CITE-KEY: SCA:799-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -402,6 +415,7 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
   :GENRE: qa
   :CITE-KEY: SCA:800-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -415,6 +429,7 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
   :GENRE: qa
   :CITE-KEY: SCA:801-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -428,6 +443,7 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
   :GENRE: qa
   :CITE-KEY: SCA:802-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -441,6 +457,7 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
   :GENRE: qa
   :CITE-KEY: SCA:803-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -459,6 +476,7 @@ Potom jsem získal zelenou kartu, takže jsem mohl v Americe zůstat natrvalo. B
   :GENRE: qa
   :CITE-KEY: SCA:804-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -479,6 +497,7 @@ Potom jsem získal zelenou kartu, takže jsem mohl v Americe zůstat natrvalo. B
   :GENRE: qa
   :CITE-KEY: SCA:805-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -494,6 +513,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
   :GENRE: qa
   :CITE-KEY: SCA:806-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -507,6 +527,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
   :GENRE: qa
   :CITE-KEY: SCA:807-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -520,6 +541,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
   :GENRE: qa
   :CITE-KEY: SCA:808-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -533,6 +555,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
   :GENRE: qa
   :CITE-KEY: SCA:809-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -546,6 +569,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
   :GENRE: qa
   :CITE-KEY: SCA:810-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -559,6 +583,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
   :GENRE: qa
   :CITE-KEY: SCA:811-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -572,6 +597,7 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
   :GENRE: qa
   :CITE-KEY: SCA:812-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -589,6 +615,7 @@ Mojí filozofií je přijetí života. Musíme přijmout život -- ne utéct od 
   :GENRE: qa
   :CITE-KEY: SCA:813-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -602,6 +629,7 @@ Mojí filozofií je přijetí života. Musíme přijmout život -- ne utéct od 
   :GENRE: qa
   :CITE-KEY: SCA:814-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -617,6 +645,7 @@ Jak jsem řekl dříve, naší úlohou je inspirovat jeden druhého. Hudba, umě
   :GENRE: qa
   :CITE-KEY: SCA:815-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -642,6 +671,7 @@ Jak jsem řekl dříve, naší úlohou je inspirovat jeden druhého. Hudba, umě
   :GENRE: qa
   :CITE-KEY: SCA:816-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
@@ -657,33 +687,14 @@ Jak už jsem řekl, mou filozofií je přijetí života v jeho nejrůznějšíc
   :GENRE: qa
   :CITE-KEY: SCA:817-cs
   :KEYWORDS:
+  :DATE-EVENT: 1999-06-00
   :END:
 
 
 /Sri Chinmoy:/ Bohu přičítám sto procent. Vím, že já nejsem nic, ale s Milostí Boha je možné všechno.
 
 
-* Poznámky
 
-  :PROPERTIES:
-  :genre: note
-  :keywords:
-  :cite-key: SCA:818e1-cs
-  :END:
-
-
-
-[fn:SCA-788] SCA 788. /Sri Chinmoy odpověděl na následující otázku 3. února 2000 v New Yorku./
-
-[fn:SCA-789] SCA 789. /Sri Chinmoy odpověděl na následující otázku 14. února 2000 v New Yorku./
-
-[fn:SCA-790-798] SCA 790-798. /25. listopadu 1999 se Sri Chinmoy setkal s paní Shashi Tripathi, generální konzulkou Indie v New Yorku. K tomuto setkání došlo v restauraci Annam Brahma na Jamaice v newyorské čtvrti Queens. Zde jsou některé výňatky z jejich rozhovoru./
-
-[fn:SCA-794] SCA 794./Během diskuse o umění Sri Chinmoye./
-
-[fn:SCA-797] SCA 797. /Později během rozhovoru Sri Chinmoy mluvil o povzbuzení./  
-
-[fn:SCA-799-817] SCA 799-817. /Výběr z rozhovoru z června 1999 v Pondicherry, který byl uveřejněn v deníku „Indian Express“./
 
 
 

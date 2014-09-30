@@ -19,7 +19,7 @@
 
 
 
-* Část I [fn:SCA-926-939]
+* Část I[fn:: SCA 926-939. 26. května 1990 se v restauraci Annam Brahma v newyorské Jamaice setkal Sri Chinmoy s dr. Felixem Kuzněcovem z moskevského Gorkého Institutu. Následují výňatky z jejich rozhovoru]
 
 
   :PROPERTIES:
@@ -36,6 +36,7 @@
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:926-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -57,6 +58,7 @@ Lidé v Rusku, kteří se modlili k Bohu, se obvykle o tyto síly nezajímali, t
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:927-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -80,6 +82,7 @@ Veďme normální život a nechoďme do extrémů. Nebudeme hltavě a nenasytně
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:928-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -97,6 +100,7 @@ Vraťme se však k vaší otázce -- jakákoli vnitřní nebo vnější síla, k
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:929-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -110,6 +114,7 @@ Vraťme se však k vaší otázce -- jakákoli vnitřní nebo vnější síla, k
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:930-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -124,6 +129,7 @@ Podobně má každý z nás i vnitřní slunce. Sri Rámakršna viděl v bengál
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:931-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -142,6 +148,7 @@ Moji studenti mě nazývají Guru a mí přátelé a blízcí, kteří si mě op
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:932-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -156,6 +163,7 @@ Moji studenti mě nazývají Guru a mí přátelé a blízcí, kteří si mě op
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:933-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -172,6 +180,7 @@ Moji studenti mě nazývají Guru a mí přátelé a blízcí, kteří si mě op
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:934-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -189,6 +198,7 @@ Teď síla srdce opět vyšla na povrch a síla mysli, která je plná pochybnos
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:935-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -209,6 +219,7 @@ Dobré vlastnosti jsou jako vůně květiny. Květina nabízí svou vůni, kter�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:936-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -226,6 +237,7 @@ Narodil jsem se jako hinduista. Někdo jiný se narodil do jiného náboženstv�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:937-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -241,6 +253,7 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:938-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -254,6 +267,7 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:939-cs
+  :DATE-EVENT: 1990-05-26
   :END:
 
 
@@ -261,7 +275,7 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
 
 
 
-* Část II [fn:SCA-940-944] 
+* Část II[fn:: SCA 940-944. Následují výňatky z rozhovoru uveřejněném v listu Pravda, který se odehrál 10. června 1990 na Aspiration-Ground. Přítomni byli také dr. Felix Kuzněcov a jeho manželka] 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
@@ -276,24 +290,27 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:940-cs
+  :DATE-EVENT: 1990-06-10
   :END:
 
 
 /Sri Chinmoy nejprve zvedá reportérku nad hlavu v rámci svého programu „Zvedání světa Srdcem Jednoty“. Před zdvihem zpívá skupina zpěváků píseň „Lifting Up the World with a Oneness-Heart“./
 
-/Reportérka (stojí na plošině):/ To bylo, jako když se dostanete do ráje se zpívajícími anděly. 
-
+/Reportérka (stojí na plošině):/ To bylo, jako když se dostanete do ráje se zpívajícími anděly.
 
 /Sri Chinmoy (po prvním zvednutí):/ Rád bych vás zdvihnul ještě jednou. Vy jste naše sestra -- přítelkyně ze Sovětského svazu -- kdežto já jsem z Indie. Indie a Sovětský svaz jsou mimořádně, mimořádně dobří přátelé. Proto bych vás rád zvednul ještě jednou. Když jsem vás zdvihnul poprvé, nabídl jsem Sovětskému svazu svoji lásku a vděčnost. Když vás zdvihnu teď, nabídnu svoji lásku a vděčnost duši Indie. Kéž se duše Sovětského svazu a Indie navždy těší jedinečnému přátelství a věčné jednotě. 
 
 /Reportérka (poté, co sestoupí z plošiny):/ Děkuji vám! Bylo to skvělé!
 
-* Jaké je vaše poselství světu a možná i mladým lidem naší země? Co je podstatou vašeho kréda?
+
+
+* Jaké je vaše poselství světu a možná i mladým lidem naší země? Co je podstatou vašeho kréda?
 
   :PROPERTIES:
   :genre: qa
   :keywords:
   :cite-key: SCA:941-cs
+  :DATE-EVENT: 1990-06-10
   :END:
 
 
@@ -312,6 +329,7 @@ Mé poselství tedy zní, že každá země musí vynést na povrch své vnitřn
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:942-cs
+  :DATE-EVENT: 1990-06-10
   :END:
 
 
@@ -325,6 +343,7 @@ Mé poselství tedy zní, že každá země musí vynést na povrch své vnitřn
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:943-cs
+  :DATE-EVENT: 1990-06-10
   :END:
 
 
@@ -340,6 +359,7 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:944-cs
+  :DATE-EVENT: 1990-06-10
   :END:
 
 
@@ -349,7 +369,7 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
 
 
 
-* Část III [fn:SCA-945-946] 
+* Část III[fn:: SCA 945-946. Následující otázky zodpověděl Sri Chinmoy 20. července 1999 v newyorském Huntingtonu] 
 
   :PROPERTIES:
   :GENRE: section
@@ -365,6 +385,7 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:945-cs
+  :DATE-EVENT: 1999-07-20
   :END:
 
 
@@ -378,6 +399,7 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:946-cs
+  :DATE-EVENT: 1999-07-20
   :END:
 
 
@@ -385,7 +407,7 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
 
 
 
-* Část IV [fn:SCA-947] 
+* Část IV[fn:: SCA 947. Následující komentář Sri Chinmoye o olympijských hrách je z 29. září 1999] 
 
   :PROPERTIES:
   :genre: section
@@ -401,6 +423,7 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: SCA:947-cs
+  :DATE-EVENT: 1999-09-29
   :END:
 
 Už samotné slovo „Olympiáda“ ve mně vzbuzuje nádherné rozechvění, naprosto univerzální rozechvění, které ve vnitřním světě pozvedá vědomí lidstva. Je pravda, že ve vnějším světě si můžeme povšimnout některých špatných sil, ale ve vnitřním světě představuje olympiáda skvělou příležitost k pozvednutí lidského vědomí.
@@ -411,7 +434,7 @@ Tento svět je plný smutku, trápení, zklamání a deprese, děje se mnoho nep
 
 
 
-* Část V [fn:SCA-948-953] 
+* Část V[fn:: SCA 948-953. Následující otázky zodpověděl Sri Chinmoy 25. listopadu 1999 v New Yorku] 
 
   :PROPERTIES:
   :genre: section
@@ -427,6 +450,7 @@ Tento svět je plný smutku, trápení, zklamání a deprese, děje se mnoho nep
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:948-cs
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -440,6 +464,7 @@ Tento svět je plný smutku, trápení, zklamání a deprese, děje se mnoho nep
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:949-cs
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -472,6 +497,7 @@ Dříve jsem křesťanským zpovědím nepřikládal žádný význam, ale teď 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:950-cs
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -489,6 +515,7 @@ Musíš svůj strach vyzvat na souboj. V opačném případě je velká pravdě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:951-cs
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -502,6 +529,7 @@ Musíš svůj strach vyzvat na souboj. V opačném případě je velká pravdě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:952-cs
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -515,6 +543,7 @@ Musíš svůj strach vyzvat na souboj. V opačném případě je velká pravdě
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:953-cs
+  :DATE-EVENT: 1999-11-25
   :END:
 
 
@@ -528,7 +557,7 @@ Když trpíš, neměl by sis říkat: „Bůh nechce, abych pro Něj pracoval. T
 
 
 
-* Část VI [fn:SCA-954-961] 
+* Část VI[fn:: SCA 954-961. Následující otázky zodpověděl Sri Chinmoy 27. prosince 1999 v Curitibě v Brazílii] 
 
   :PROPERTIES:
   :genre: section
@@ -544,6 +573,7 @@ Když trpíš, neměl by sis říkat: „Bůh nechce, abych pro Něj pracoval. T
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:954-cs
+  :DATE-EVENT: 1999-12-27
   :END:
 
 
@@ -563,6 +593,7 @@ Mohu vám povědět jeden svůj osobní zážitek. V tomto životě mám velice 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:955-cs
+  :DATE-EVENT: 1999-12-27
   :END:
 
 
@@ -576,6 +607,7 @@ Mohu vám povědět jeden svůj osobní zážitek. V tomto životě mám velice 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:956-cs
+  :DATE-EVENT: 1999-12-27
   :END:
 
 
@@ -594,6 +626,7 @@ Kalendář nám ovšem říká, že nové tisíciletí není v roce 2000, ale v 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:957-cs
+  :DATE-EVENT: 1999-12-27
   :END:
 
 
@@ -627,6 +660,7 @@ Dnes uděláme něco špatného, zítra se nic nestane a my si proto myslíme, �
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:958-cs
+  :DATE-EVENT: 1999-12-27
   :END:
 
 /Sri Chinmoy:/ Boží Hodina udeřila. Buď přijmete to božské v sobě, nebo to nebožské. Je tam obojí. Nebožské přichází s velkým pokušením. Je tak krásné, třpytivé a okouzlující. Tehdy řeknete: „Jak by to mohlo být nebožské?“ Božské je naproti tomu velice prosté. Obrátíte se tedy k tomu okouzlujícímu a krásnému. Potom řeknete: „Můj Bože! Takový podvod!“ Když Ravana přišel unést Sítu, měl podobu světce. Potom jí ukázal svou skutečnou podobu, ukázal jí, jak je špatný. Útočí-li špatné síly, vždy přijdou ve velice okouzlující podobě. Musíme být velmi opatrní a ponořit se hluboko dovnitř, abychom zjistili, které síly jsou dobré a které špatné. Nebožské síly si na sebe mohou vzít velice krásnou podobu.
@@ -644,6 +678,7 @@ Když spatříte nějakého kosmického boha, ihned byste se měli dotknout jeho
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:959-cs
+  :DATE-EVENT: 1999-12-27
   :END:
 
 /Sri Chinmoy:/ Budeme-li mít čistotu, naše srdce ji rozezná. Čistota je soudcem. Je-li člověk čistý, mimořádně čistý, potom ji pozná. Čistota -- fyzická, vitální a mentální -- je jako rentgen. Proti čistotě se nic nemůže postavit. Někteří lidé si myslí, že čistota je něco hloupého, zženštilého. Někteří lidé mají pocit, že se mohou očistit prostě tím, že si vymění šaty. Naše mysl je ale také jako špinavé, zamazané oblečení. Musíme ho zahodit a vzít si na sebe něco nového. Potom budeme čistí. Čistota vždy začíná ve vědomí. 
@@ -664,6 +699,7 @@ To je Pán Šiva. Na jednu stranu je laskavější než nejlaskavější. Žádn
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:960-cs
+  :DATE-EVENT: 1999-12-27
   :END:
 
 
@@ -687,6 +723,7 @@ Jsme-li moudří, řekneme si: „Zapomeň na to, co ti starý svět udělal.“
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:961-cs
+  :DATE-EVENT: 1999-12-27
   :END:
 
 
@@ -714,28 +751,6 @@ Poselství Ježíše Krista znělo: „Nechť se stane Tvá Vůle.“ Snadno moh
 
 Když vás Mistr popíchne, řeknete: „Ach, já jsem si myslel, že jsi velice laskavý člověk. Jak jsi to mohl udělat?“ Soudíme Mistra pomocí své velmi omezené mysli. Zapomeňte na Mistra. Soudíte svou vlastní nejvyšší božskost pomocí své nižší než nejnižší inteligence nebo poznání. Poznání nemůže jít za určitou úroveň. Můžeme přečíst tisíce knih. Kniha nás může pouze trochu připravit k cestě k Nejvyššímu. Kniha nás do Nejvyššího nikdy nevezme. Kniha nás může inspirovat, jako průvodce. Průvodce nám ukazuje cestu, ale on sám není cílem. Knižní vědomosti nám ukazují cestu, ale poznání není cílem. Jen moudrost může jít výše než nejvýše, dále než nejdále, hlouběji než nejhlouběji. Naše moudrost nám řekne, že naše nejvyšší božskost má vždycky pravdu.
 
-
-
-* Poznámky
-
-  :PROPERTIES:
-  :genre: note
-  :keywords:
-  :cite-key: SCA:962e1-cs
-  :END:
-  
-
-[fn:SCA-926-939] SCA 926-939. 26. května 1990 se v restauraci Annam Brahma v newyorské Jamaice setkal Sri Chinmoy s dr. Felixem Kuzněcovem z moskevského Gorkého Institutu. Následují výňatky z jejich rozhovoru.
-
-[fn:SCA-940-944] SCA 940-944. Následují výňatky z rozhovoru uveřejněném v listu Pravda, který se odehrál 10. června 1990 na Aspiration-Ground. Přítomni byli také dr. Felix Kuzněcov a jeho manželka.
-
-[fn:SCA-945-946] SCA 945-946. Následující otázky zodpověděl Sri Chinmoy 20. července 1999 v newyorském Huntingtonu.
-
-[fn:SCA-947] SCA 947. Následující komentář Sri Chinmoye o olympijských hrách je z 29. září 1999. 
-
-[fn:SCA-948-953] SCA 948-953. Následující otázky zodpověděl Sri Chinmoy 25. listopadu 1999 v New Yorku.
-
-[fn:SCA-954-961] SCA 954-961. Následující otázky zodpověděl Sri Chinmoy 27. prosince 1999 v Curitibě v Brazílii.
 
 
 

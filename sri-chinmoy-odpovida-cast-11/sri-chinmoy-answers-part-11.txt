@@ -19,7 +19,7 @@
 
 
 
-* Část I [fn:SCA-403-410] 
+* Část I[fn:: SCA 403-410. 7. srpna 1995 se Sri Chinmoy setkal s doktorkou Elenou Vladimirskou, zástupkyní ředitele Výzkumného ústavu hematologické pediatrie v Moskvě a jejím mužem, vojenským důstojníkem ve výslužbě, v restauraci Annam Brahma v Jamaice v New Yorku. V průběhu tohoto setkání se dr. Vladimirskaja a její manžel zeptali Sri Chinmoye na několik duchovních otázek. Jejich otázky a jeho odpovědi jsou spolu s dalšími poznámkami jsou zachyceny na následujících stránkách] 
 
   :PROPERTIES:
   :GENRE: section
@@ -36,6 +36,7 @@
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:403-cs
+  :DATE-EVENT: 1995-08-07  
   :END:
 
 
@@ -48,6 +49,7 @@
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:404-cs
+  :DATE-EVENT: 1995-08-07  
   :END:
 
 
@@ -61,6 +63,7 @@
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:405-cs
+  :DATE-EVENT: 1995-08-07  
   :END:
 
 
@@ -78,6 +81,7 @@ Když vstoupíme do zahrady, okamžitě si uvědomíme její krásu, čistotu a 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:406-cs
+  :DATE-EVENT: 1995-08-07  
   :END:
 
 
@@ -95,6 +99,7 @@ Pokud se dítě chová jako cyklón a začne křičet a rozbíjet všechno v dom
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:407-cs
+  :DATE-EVENT: 1995-08-07  
   :END:
 
 
@@ -112,6 +117,7 @@ Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyšš
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:408-cs
+  :DATE-EVENT: 1995-08-07  
   :END:
 
 
@@ -129,6 +135,7 @@ Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyšš
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:409-cs
+  :DATE-EVENT: 1995-08-07  
   :END:
 
 /Sri Chinmoy:/ Zde v Americe věří v Boha, ale modlit se je na školách zakázáno. Na školách nejsou modlitby povoleny.
@@ -141,13 +148,14 @@ Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyšš
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:410-cs
+  :DATE-EVENT: 1995-08-07  
   :END:
 
 /Sri Chinmoy:/ Laskavost je stejně důležitá jako medicína. V medicíně laskavost být nemusí. Ale uvnitř laskavosti je medicína vždy. Laskavost, kterou matka, otec, sestra a bratr dávají, je velkou pomocí. Velmi nemocnému dítěti pomáhá.
 
 
 
-* Část II [fn:SCA-411-412]
+* Část II[fn:: SCA 411-412. Následující otázky položili Sri Chinmoyovi jeho žáci v restauraci Annam Brahma v Jamaice v New Yorku 25. května 1996]
 
   :PROPERTIES:
   :GENRE: section
@@ -165,6 +173,7 @@ Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyšš
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:411-cs
+  :DATE-EVENT: 1996-05-25  
   :END:
 
 
@@ -186,6 +195,7 @@ Neodrazuji tě. Mnohokrát jsi zažil radost svého srdce. Ale někdy je tento p
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:412-cs
+  :DATE-EVENT: 1996-05-25  
   :END:
 
 
@@ -201,7 +211,7 @@ Naší potíží je, že tvrdě pracujeme, pořádáme přednášky a snažíme 
 
 
 
-* Část III [fn:SCA-413-419] 
+* Část III[fn:: SCA 413-419. Následující otázky položili žáci Sri Chinmoye na „Aspiration-Ground“ 22. června 1996] 
 
   :PROPERTIES:
   :GENRE: section
@@ -217,6 +227,7 @@ Naší potíží je, že tvrdě pracujeme, pořádáme přednášky a snažíme 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:413-cs
+  :DATE-EVENT: 1996-06-22  
   :END:
 
 
@@ -248,6 +259,7 @@ Jedinou útěchou je, že jsou lidé, kteří udělali obrovský, obrovský pokr
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:414-cs
+  :DATE-EVENT: 1996-06-22  
   :END:
 
 
@@ -261,6 +273,7 @@ Jedinou útěchou je, že jsou lidé, kteří udělali obrovský, obrovský pokr
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:415-cs
+  :DATE-EVENT: 1996-06-22  
   :END:
 
 
@@ -282,6 +295,7 @@ Pokud sis dal nízkou známku a cítíš, že jsi byl nestranný a dal sis sprav
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:416-cs
+  :DATE-EVENT: 1996-06-22  
   :END:
 
 
@@ -305,6 +319,7 @@ Tak se Bůh Spravedlnost nemusí proměňovat v Boha Soucit. I když je hledají
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:417-cs
+  :DATE-EVENT: 1996-06-22  
   :END:
 
 
@@ -320,6 +335,7 @@ Existují rovněž další způsoby. Jedním z nich je velmi, velmi pomalu se p
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:418-cs
+  :DATE-EVENT: 1996-06-22  
   :END:
 
 
@@ -335,6 +351,7 @@ Další věc, kterou můžete vědomě a záměrně dělat, když máte vyšš�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SCA:419-cs
+  :DATE-EVENT: 1996-06-22  
   :END:
 
 
@@ -352,7 +369,7 @@ Jestliže nadřízení nedělají správné věci, potom je pro lidi pracující
 
 
 
-* Část IV [fn:SCA-420-425] 
+* Část IV[fn:: SCA 420-425. Následující rozhovor s panem Radhakršnou Pathakem, spoluvydavatelem jistého deníku v Dillí, se odehrálo 2. září 1996 na Aspiration Ground] 
 
   :PROPERTIES:
   :GENRE: section
@@ -368,6 +385,7 @@ Jestliže nadřízení nedělají správné věci, potom je pro lidi pracující
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:420-cs
+  :DATE-EVENT: 1996-09-02  
   :END:
 
 
@@ -385,6 +403,7 @@ Ze všech kosmických bohyní je Matka Kálí mou nejdražší Matkou. Je Matkou
   :genre: interview
   :keywords:
   :cite-key: SCA:421-cs
+  :DATE-EVENT: 1996-09-02  
   :END:
   
 
@@ -414,6 +433,7 @@ Máte nějakou konkrétní otázku, na kterou byste se rád zeptal?
   :genre: interview
   :keywords:
   :cite-key: SCA:422-cs
+  :DATE-EVENT: 1996-09-02  
   :END:
   
 
@@ -427,6 +447,7 @@ Máte nějakou konkrétní otázku, na kterou byste se rád zeptal?
   :genre: interview
   :keywords:
   :cite-key: SCA:423-cs
+  :DATE-EVENT: 1996-09-02  
   :END:
   
 
@@ -440,6 +461,7 @@ Máte nějakou konkrétní otázku, na kterou byste se rád zeptal?
   :genre: interview
   :keywords:
   :cite-key: SCA:424-cs
+  :DATE-EVENT: 1996-09-02  
   :END:
   
 
@@ -487,6 +509,7 @@ Pouhá vaše přítomnost dokáže inspirovat vaše přátelé, kolegy a vaše d
   :genre: interview
   :keywords:
   :cite-key: SCA:425-cs
+  :DATE-EVENT: 1996-09-02  
   :END:
   
 
@@ -514,7 +537,7 @@ Kdokoliv má víru v Boha, prochází v určitou chvíli skrze temný tunel. Kdy
 
 
 
-* Část V [fn:SCA-426-435] 
+* Část V[fn:: SCA 426-435. Následují úryvky z interview, které Sri Chinmoy poskytl reportérovi The New York Times 3. dubna 1997 v restauraci Annam Brahma v newyorské Jamaice] 
 
   :PROPERTIES:
   :GENRE: section
@@ -530,6 +553,7 @@ Kdokoliv má víru v Boha, prochází v určitou chvíli skrze temný tunel. Kdy
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:426-cs
+  :DATE-EVENT: 1997-04-03  
   :END:
 
 
@@ -547,6 +571,7 @@ Jsem studentem míru a snažím se studovat tento předmět tím, že jej nabíz
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:427-cs
+  :DATE-EVENT: 1997-04-03  
   :END:
 
 
@@ -560,6 +585,7 @@ Jsem studentem míru a snažím se studovat tento předmět tím, že jej nabíz
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:428-cs
+  :DATE-EVENT: 1997-04-03  
   :END:
 
 
@@ -575,6 +601,7 @@ Prvním generálním tajemníkem byl Trygve Lie, potom Dag Hammarskjöld a po n�
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:429-cs
+  :DATE-EVENT: 1997-04-03  
   :END:
 
 
@@ -588,6 +615,7 @@ Prvním generálním tajemníkem byl Trygve Lie, potom Dag Hammarskjöld a po n�
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:430-cs
+  :DATE-EVENT: 1997-04-03  
   :END:
 
 
@@ -605,6 +633,7 @@ Ve všech sférách života je tomu stejně. Vloni se zdálo, že Carl Lewis ve 
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:431-cs
+  :DATE-EVENT: 1997-04-03  
   :END:
 
 
@@ -626,6 +655,7 @@ Ve všech sférách života je tomu stejně. Vloni se zdálo, že Carl Lewis ve 
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:432-cs
+  :DATE-EVENT: 1997-04-03  
   :END:
 
 
@@ -650,10 +680,11 @@ Pocházíte z Japonska?
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:433-cs
+  :DATE-EVENT: 1997-04-03  
   :END:
 
 
-/Sri Chinmoy:/ Pokud jde o ty současné, je hodně lidí, které obdivuji, ale na prvním místě je prezident Gorbačov. Po něm je to Matka Tereza, současný papež a prezident Nelson Mandela. Jsou i další světové postavy, se kterými jsem se setkal a které velmi obdivuji, jako arcibiskup Desmond Tutu, prezident Václav Havel a několik generálních tajemníků OSN.
+/Sri Chinmoy:/ Pokud jde o ty současné, je hodně lidí, které obdivuji, ale na prvním místě je prezident Gorbačov. Po něm je to Matka Tereza, současný papež[fn:: SCA 433. V době, kdy Sri Chinmoy odpovídal, byl papežem Jan Pavel II] a prezident Nelson Mandela. Jsou i další světové postavy, se kterými jsem se setkal a které velmi obdivuji, jako arcibiskup Desmond Tutu, prezident Václav Havel a několik generálních tajemníků OSN.
 
 Rád bych něco řekl o těch prvně zmíněných. V Matce Tereze nacházím dva aspekty: matku a sestru. V jednu chvíli je matkou soucitu; v dalším okamžiku je sestrou náklonnosti. Když ji vidím a hovořím s ní, žehná mi, jako matka žehná svému dítěti, a prokazuje mi nejvyšší sesterskou náklonnost. 
 
@@ -668,7 +699,6 @@ Abych byl upřímný, politika není má silná stránka. Jsem duchovní hledaj�
 Další vzácnou vlastností Gorbačova je, že je natolik upřímný a odvážný, aby řekl, že udělal mnoho himálajských chyb. Existuje mnoho politiků, kteří nikdy neuznají, že udělali nějaké chyby. Gorbačov píše ve svých pamětech, že udělal mnoho chyb, a nyní se je snaží napravit. Jsme lidské bytosti. Chybovat je lidské; chyby dělá každý. Nicméně jsou lidé, kteří přiznají, že chybovali, zatímco jiní to přiznat nechtějí. Lidé, kteří přiznají, že udělali chybu, jsou podle mě nejen velcí, ale i dobří.
 
 
-[fn:1] V době, kdy Sri Chinmoy odpovídal, byl papežem Jan Pavel II.
 
 
 
@@ -679,6 +709,7 @@ Další vzácnou vlastností Gorbačova je, že je natolik upřímný a odvážn
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:434-cs
+  :DATE-EVENT: 1997-04-03  
   :END:
 
 
@@ -692,6 +723,7 @@ Další vzácnou vlastností Gorbačova je, že je natolik upřímný a odvážn
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: SCA:435-cs
+  :DATE-EVENT: 1997-04-03  
   :END:
 
 /Sri Chinmoy:/ Zajisté! Sloužíme druhým, protože je vidíme jako ztělesnění Boha. Bůh se projevuje skrze každou lidskou bytost určitým způsobem. V rodině může mít každý jiné povolání. Jeden bude lékařem, druhý hudebníkem a tak dále. Jsou ale jedna rodina. Večer se sejdou a jedí společně. Každý člověk je jedinečný svým vlastním způsobem, a tato jedinečnost musí být použita pro zlepšení tohoto světa. 
@@ -701,28 +733,6 @@ Je naprostá pravda, že ten, kdo slouží Bohu, se rovněž modlí, a stejně t
 Naproti tomu ten, kdo nabízí svou službu, se také zvláštním způsobem modlí. Neaspirující člověk nezasvětí svůj život ani na jedinou vteřinu. Dobrý člověk zasvětí celý svůj život. Toto zasvěcení není nic jiného než aspirace. Člověk, který ztělesňuje světlo, nemůže být oddělen od člověka, který nabízí své světlo celému světu.
 
 
-
-* Poznámky 
-
-  :PROPERTIES:
-  :genre: note
-  :keywords:
-  :cite-key: SCA:436e1-cs
-  :END:
-  
-
-
-
-
-[fn:SCA-403-410] SCA 403-410. /7. srpna 1995 se Sri Chinmoy setkal s doktorkou Elenou Vladimirskou, zástupkyní ředitele Výzkumného ústavu hematologické pediatrie v Moskvě a jejím mužem, vojenským důstojníkem ve výslužbě, v restauraci Annam Brahma v Jamaice v New Yorku. V průběhu tohoto setkání se dr. Vladimirskaja a její manžel zeptali Sri Chinmoye na několik duchovních otázek. Jejich otázky a jeho odpovědi jsou spolu s dalšími poznámkami jsou zachyceny na následujících stránkách./
-
-[fn:SCA-411-412] SCA 411-412. /Následující otázky položili Sri Chinmoyovi jeho žáci v restauraci Annam Brahma v Jamaice v New Yorku 25. května 1996./
-
-[fn:SCA-413-419] SCA 413-419. /Následující otázky položili žáci Sri Chinmoye na „Aspiration-Ground“ 22. června 1996./
-
-[fn:SCA-420-425] SCA 420-425. /Následující rozhovor s panem Radhakršnou Pathakem, spoluvydavatelem jistého deníku v Dillí, se odehrálo 2. září 1996 na Aspiration Ground./
-
-[fn:SCA-426-435] SCA 426-435. /Následují úryvky z interview, které Sri Chinmoy poskytl reportérovi The New York Times 3. dubna 1997 v restauraci Annam Brahma v newyorské Jamaice /
 
 
 
