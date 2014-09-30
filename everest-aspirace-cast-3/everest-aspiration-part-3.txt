@@ -25,6 +25,7 @@
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:51-cs
+  :DATE-EVENT: 1977-07-17
   :END:
 
 
@@ -53,6 +54,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:52-cs
+  :DATE-EVENT: 1977-07-17
   :END:
 
 
@@ -73,6 +75,7 @@ do Washingtonu, D.C.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:53-cs
+  :DATE-EVENT: 1977-07-17
   :END:
 
 
@@ -81,6 +84,7 @@ Kdo je vítěz? Ne ten, kdo vyhraje, ale ten, kdo si vytvořil svou radostnou je
 Kdo je vítěz? Ne ten, kdo vyhraje závod, ale ten, kdo miluje bezesný a bezdechý běh s Bohem -- Nejvyšším Běžcem.
 
 Kdo je vítěz? Ne ten, jehož slávu opěvujeme, ale ten, kdo v hojné míře ztělesňuje Světlo Božího Soucitu.
+
 Kdo je vítěz? Ne ten, kdo získal ohromné jméno a slávu a nashromáždil velké jmění, ale ten, kdo touží pouze po jediné věci: Uspokojení Boha Jeho vlastním Způsobem.
 
 15:05\\
@@ -96,6 +100,7 @@ do Washingtonu, D.C.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:54-cs
+  :DATE-EVENT: 1977-07-17
   :END:
 
 
@@ -115,6 +120,7 @@ Na cestě z Jamaiky, New York do Washingtonu, D.C.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:55-cs
+  :DATE-EVENT: 1977-07-17
   :END:
 
 
@@ -138,6 +144,7 @@ Na cestě z Jamaiky, New York do Washingtonu, D.C.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:56-cs
+  :DATE-EVENT: 1977-07-17
   :END:
 
 
@@ -157,6 +164,7 @@ Na cestě z Jamaiky, New York do Washingtonu, D.C.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:57-cs
+  :DATE-EVENT: 1977-07-17
   :END:
 
 
@@ -184,6 +192,7 @@ Na cestě z Jamaiky, New York do Washingtonu, D.C.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:58-cs
+  :DATE-EVENT: 1977-07-17
   :END:
 
 
@@ -206,6 +215,7 @@ Washington, D.C.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:59-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 Odcházíte z cesty. Co to znamená? Znamená to, že od této chvíle budete bezmocní, beznadějní a zbyteční? Ne, daleko od toho. Od této chvíle se stane jen jedna věc a to je naplnění vaší jednoty s vaším vitálem a vaším vitálním životem. Váš vitál vám naznačil cestu a vy po té cestě chcete jít. Dříve jste šli podél cesty duše. Tam byla duše vaším přítelem-vůdcem. Nyní je vaším přítelem-vůdcem váš vitál.
@@ -231,6 +241,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:60-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 Neposlušnost je na denním pořádku. Bez ohledu na to, co dělám, bez ohledu na to, kolikrát jsem psal o neposlušnosti, bez ohledu na to, kolikrát jsem mluvil o neposlušnosti, zdá se, že neposlušnost žáků nikdy neskončí. Ještě včera jsem mluvil o neposlušnosti, o tom, co se stalo, když Adam a Eva neuposlechli Boha. Později, když jsme byli v autobuse, jsem vás požádal, abyste zpívali. Nebyl tam ani jeden nadšený zpěvák. Dávám vinu na sto procent vedoucímu vaší skupiny. Nemá-li vedoucí potřebnou poslušnost a nadšení, pak je to opravdu bolestivý šok. Nebudu obviňovat nikoho jiného, jdete-li spát nebo nemáte-li zájem. Ale u vedoucího, pokud nemá žádné nadšení nebo povzbuzení k ostatním členům, se pak cítím velmi smutně. A z členů by také měli být dva nebo tři, kteří by přišli a inspirovali vedoucího zpívat. Teď jsem nejvyšší vedoucí. Když říkám: "udělejte něco," v případě, že žáci nesouhlasí nebo jdou spát, pak se o ně postarám svým vlastním způsobem. Ale vedoucí, kterého jsem jmenoval, musí být také zodpovědný.
@@ -264,6 +275,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:61-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -292,6 +304,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:62-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -312,6 +325,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:63-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -334,6 +348,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:64-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -357,6 +372,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:65-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -381,6 +397,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:66-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -402,6 +419,7 @@ Na cestě do Connecticut Sri Chinmoy Centre
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:67-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -427,6 +445,7 @@ Na cestě do Connecticut Sri Chinmoy Centre
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:68-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -450,6 +469,7 @@ Na cestě do Connecticut Sri Chinmoy Centre
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:69-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -476,6 +496,7 @@ Na cestě do Connecticut Sri Chinmoy Centre
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:70-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 Byl jsem studentem modlitby, ale nemohu říci, že jsem se těšil ze svého studia. Když jsem byl student modlitby, úzkosti a obavy mě zabíjely. Občas mě zabíjel dokonce i strach a pochybnost.
@@ -498,6 +519,7 @@ Na cestě do Connecticut Sri Chinmoy Centre
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:71-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -523,6 +545,7 @@ Na cestě do Connecticut Sri Chinmoy Centre
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:72-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -548,6 +571,7 @@ Na cestě do Connecticut Sri Chinmoy Centre
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:73-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -577,6 +601,7 @@ Na cestě do Connecticut Sri Chinmoy Centre
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:74-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 
@@ -598,6 +623,7 @@ Na cestě do Connecticut Sri Chinmoy Centre
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:75-cs
+  :DATE-EVENT: 1977-07-18
   :END:
 
 „Můj Pane Nejvyšší, co víc Ti mohu dát? Dal jsem Ti svůj den touhy. Dal jsem Ti svou noc zklamání. Můj Pane Nejvyšší, co víc Ti mohu dát? Dal jsem Ti svůj řetěz úzkosti. Dal jsem Ti svůj vlak nejistoty. Co víc Ti mohu dát, můj Pane Nejvyšší?

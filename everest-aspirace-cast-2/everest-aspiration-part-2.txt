@@ -25,6 +25,7 @@
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:26-cs
+  :DATE-EVENT: 1977-07-12
   :END:
 
 
@@ -67,6 +68,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:27-cs
+  :DATE-EVENT: 1977-07-12
   :END:
 
 
@@ -91,6 +93,7 @@ United Nations, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:28-cs
+  :DATE-EVENT: 1977-07-13
   :END:
 
 
@@ -133,6 +136,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:29-cs
+  :DATE-EVENT: 1977-07-13
   :END:
 
 
@@ -159,6 +163,7 @@ New York, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:30-cs
+  :DATE-EVENT: 1977-07-13
   :END:
 
 
@@ -187,6 +192,7 @@ New York, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:31-cs
+  :DATE-EVENT: 1977-07-13
   :END:
 
 
@@ -214,6 +220,7 @@ New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:32-cs
+  :DATE-EVENT: 1977-07-13
   :END:
 
 
@@ -234,6 +241,7 @@ New York, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:33-cs
+  :DATE-EVENT: 1977-07-13
   :END:
 
 
@@ -262,6 +270,7 @@ New York, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:34-cs
+  :DATE-EVENT: 1977-07-13
   :END:
 
 
@@ -286,6 +295,7 @@ New York, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:35-cs
+  :DATE-EVENT: 1977-07-14
   :END:
 
 
@@ -316,6 +326,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:36-cs
+  :DATE-EVENT: 1977-07-14
   :END:
 
 
@@ -354,6 +365,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:37-cs
+  :DATE-EVENT: 1977-07-14
   :END:
 
 
@@ -380,6 +392,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:38-cs
+  :DATE-EVENT: 1977-07-14
   :END:
 
 
@@ -390,6 +403,7 @@ Podívejte se na to, co vám vaše utrpení dává a co vám bere. Co vám dáv�
 Utrpení není cestou, jak udělat duchovní pokrok. Připravuje vás o všechny vzácné dary, které vám dal Bůh. Zloděj utrpení vám krade jeden za druhým ty nejvzácnější, nejžádanější dary od Boha: Jeho vlastní Mír, Jeho vlastní Lásku, Jeho vlastní Blaženost, Jeho vlastní Zájem, Jeho vlastní Jednotu. 
 
 Od této chvíle se snažte chytit zloděje utrpení při činu a přivést ho ke svému Milovanému Nejvyššímu. Jakmile bude zloděj chycen a váš Milovaný Nejvyšší bude vědět, že nechcete být okrádáni ani členy své vlastní vnitřní existence, ani členy vnějšího světa, v tu chvíli vám váš Milovaný Nejvyšší ze své nekonečné Štědrosti znovu dá v nezměrné míře svůj Zájem, svou Lásku, svou Radost, svou Jednotu, svůj Soucit a svou Hrdost.
+
 Proto, ó hledající, neopatruj si utrpení v těle, vitálnu, mysli a srdci ani na letmou vteřinu. Utrpení není odpovědí. Utrpení je pouze otazníkem, který nebude spokojen s žádnou odpovědí, kterou kdy dáme. Utrpení je otazníkem, který vzdoruje každé odpovědi. I když na otázku odpoví Bůh, mysl nepřijme odpověď jako správnou.
 
 Utrpení není tou pravou cestou. Od této chvíle pouze vyrůstej v radosti a sebedůvěře. Tato sebedůvěra pochází z tvé odevzdané jednotné vůle s tvým Milovaným Nejvyšším. Chceš důvěru a tu získáš v okamžiku, kdy bude tvá odevzdaná jednota s Vůlí Nejvyššího dokonalá. Předtím žádná důvěra neexistuje, žádná důvěra v sebe sama ani v nic jiného existovat nemůže.
@@ -413,6 +427,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:39-cs
+  :DATE-EVENT: 1977-07-14
   :END:
 
 
@@ -455,6 +470,7 @@ Hollis, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:40-cs
+  :DATE-EVENT: 1977-07-14
   :END:
 
 
@@ -489,6 +505,7 @@ Hollis, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:41-cs
+  :DATE-EVENT: 1977-07-15
   :END:
 
 
@@ -524,6 +541,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:42-cs
+  :DATE-EVENT: 1977-07-15
   :END:
 
 
@@ -552,6 +570,7 @@ United Nations New York, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:43-cs
+  :DATE-EVENT: 1977-07-15
   :END:
 
 
@@ -576,6 +595,7 @@ Great Neck, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:44-cs
+  :DATE-EVENT: 1977-07-16
   :END:
 
 
@@ -601,6 +621,7 @@ Jamaica, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:45-cs
+  :DATE-EVENT: 1977-07-16
   :END:
 
 
@@ -625,6 +646,7 @@ Bronx, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:46-cs
+  :DATE-EVENT: 1977-07-16
   :END:
 
 
@@ -650,6 +672,7 @@ Na cestě do New Jersey
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:47-cs
+  :DATE-EVENT: 1977-07-16
   :END:
 
 
@@ -671,6 +694,7 @@ Na cestě do New Jersey
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:48-cs
+  :DATE-EVENT: 1977-07-16
   :END:
 
 
@@ -697,6 +721,7 @@ Union, New Jersey
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:49-cs
+  :DATE-EVENT: 1977-07-16
   :END:
 
 
@@ -718,6 +743,7 @@ Na cestě na Jamaicu, New York
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:50-cs
+  :DATE-EVENT: 1977-07-17
   :END:
 
 

@@ -28,6 +28,7 @@
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:1-cs
+  :DATE-EVENT: 1977-07-01
   :END:
 
 
@@ -85,6 +86,7 @@ Asbury Park, New Jersey
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:2-cs
+  :DATE-EVENT: 1977-07-02
   :END:
 
 
@@ -111,6 +113,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:3-cs
+  :DATE-EVENT: 1977-07-02
   :END:
 
 
@@ -135,6 +138,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:4-cs
+  :DATE-EVENT: 1977-07-02
   :END:
 
 
@@ -165,6 +169,7 @@ Long Island, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:5-cs
+  :DATE-EVENT: 1977-07-02
   :END:
 
 
@@ -199,6 +204,7 @@ Long Island. New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:6-cs
+  :DATE-EVENT: 1977-07-03
   :END:
 
 
@@ -225,6 +231,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:7-cs
+  :DATE-EVENT: 1977-07-03
   :END:
 
 
@@ -256,6 +263,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:8-cs
+  :DATE-EVENT: 1977-07-04
   :END:
 
 
@@ -288,6 +296,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:9-cs
+  :DATE-EVENT: 1977-07-04
   :END:
 
 
@@ -316,6 +325,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:10-cs
+  :DATE-EVENT: 1977-07-05
   :END:
 
 
@@ -345,6 +355,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:11-cs
+  :DATE-EVENT: 1977-07-05
   :END:
 
 
@@ -371,6 +382,7 @@ Hollis, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:12-cs
+  :DATE-EVENT: 1977-07-06
   :END:
 
 "Můj drahý Milovaný Nejvyšší, vím, že ztělesňuješ dvě skutečnosti, dva aspekty -- lidskou skutečnost, nebo lidský aspekt, a božskou skutečnost, nebo božský aspekt. Prosím, řekni mi, který Tvůj aspekt je lepší, nebo který aspekt si musím vybrat, abych dělal nejrychlejší pokrok, nebo zda je z mé strany nutné zvolit si jeden z aspektů, abych dospěl k nejvyššímu Cíli hluboko uvnitř Tebe."
@@ -397,6 +409,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:13-cs
+  :DATE-EVENT: 1977-07-06
   :END:
 
 
@@ -426,6 +439,7 @@ Flushing, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:14-cs
+  :DATE-EVENT: 1977-07-07
   :END:
 
 
@@ -455,6 +469,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:15-cs
+  :DATE-EVENT: 1977-07-07
   :END:
 
 
@@ -485,6 +500,7 @@ Caldwell, New Jersey \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:16-cs
+  :DATE-EVENT: 1977-07-08
   :END:
 
 
@@ -527,6 +543,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:17-cs
+  :DATE-EVENT: 1977-07-08
   :END:
 
 
@@ -557,6 +574,7 @@ United Nations, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:18-cs
+  :DATE-EVENT: 1977-07-08
   :END:
 
 
@@ -598,6 +616,7 @@ Purchase, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:19-cs
+  :DATE-EVENT: 1977-07-09
   :END:
 
 
@@ -636,6 +655,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:20-cs
+  :DATE-EVENT: 1977-07-09
   :END:
 
 
@@ -662,6 +682,7 @@ Bronx, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:21-cs
+  :DATE-EVENT: 1977-07-09
   :END:
 
 Chci se osvobodit od neklidu, strachu a pochybnosti. Neklid snižuje mou rychlost, mou vnitřní rychlost. Strach mě znervózňuje. Pochybnost mě otravuje. Potřebuji klid, aby nahradil můj neklid. Potřebuji odvahu, aby nahradila můj strach. Potřebuji víru, aby nahradila mou pochybnost. Můj klid je mou jistotou a ujištěním mého Pána. Má odvaha bude sloužit Bohu-člověku v celém širém světě. Má odvaha bude milovat člověka-Boha ve vnitřním světě i ve vnějším světě. Má víra urychlí nejen moji cestu, ale také cestu všech upřímných hledajících; jsme totiž jedním, neoddělitelně jedním. Síla mé víry posílí je a síla jejich víry posílí mne.
@@ -685,6 +706,7 @@ Norwalk, Connecticut \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:22-cs
+  :DATE-EVENT: 1977-07-09
   :END:
 
 
@@ -714,6 +736,7 @@ New Rochelle, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:23-cs
+  :DATE-EVENT: 1977-07-10
   :END:
 
 
@@ -753,6 +776,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:24-cs
+  :DATE-EVENT: 1977-07-11
   :END:
 
 
@@ -781,6 +805,7 @@ Jamaica, New York \\
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: EA:25-cs
+  :DATE-EVENT: 1977-07-11
   :END:
 
 
