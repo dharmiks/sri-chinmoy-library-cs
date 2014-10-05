@@ -29,7 +29,7 @@
 
 
 
-* Příběh z dětství
+* Příběh z dětství[fn:: JH 1. Tento příběh z dětství vyprávěl Sri Chinmoy během neformálního setkání]
 
   :PROPERTIES:
   :GENRE: story
@@ -38,23 +38,27 @@
   :END:
 
 
-/ Tento příběh z dětství vyprávěl Sri Chinmoy během neformálního setkání./
 
       Nepocházím z chudé rodiny; pocházím z bohaté rodiny, ale naše materiální bohatství jsme věnovali ašrámu. Do ašrámu odešel nejprve můj nejstarší bratr a potom ti mladší. Můj strýc byl proti tomu, ale můj bratr řekl, že by měli všichni zůstat. Řekl: „Pokud odejdou z ašrámu, odejdu také. Nyní jsou mladí. Je mou povinností udělat pro ně to pravé.“ Pákistán, nyní Bangladéš, nám zabavil majetek. Tenkrát jsme však měli dvě nebo tři velké zahrady a několik domů. Můj otec byl tehdy inspektorem velkého železničního uzlu. 
 
       Když jsem byl jako dítě v Pondicherry, měl jsem psa jménem Bhaga. Znamená to „tygr“. Chtěli jsme, aby byl u našich příbuzných ve městě. Nakonec jsme ho vzali na loď a dali k mému strýci z matčiny strany.
+      
       Bhaga byl velmi oddaný. Běhával několik mil, aby doručil zprávu. Běžel tři a půl míle k mé tetě a předal jí zprávu. Potom byl tak netrpělivý, aby se už vrátil z tetina domu zpátky. Dvakrát to tak udělal.
+      
       Bhaga byl velký, živý a velmi silný. Když jste něco upustili, když jste způsobili nějaký zvuk, potom jste skončili; štěkal pět minut. Když jsme se učili na zkoušky, nikdy jsme nestudovali potichu. Abychom přesvědčili fyzickou mysl, že se učíme, recitovali jsme nahlas. Když bylo něco v takové chvíli špatně, Bhaga štěkal. Takový byl Bhaga.
 
       Měl jsem bílého zajíce. Měl jsem také mnoho, mnoho ptáků. Měl jsem luňáka a další ptáky. Potom jsme měli pár opic. Jedna opice se jmenovala Madhu. Měl jsem opice moc rád. Žily v malém kulatém domečku na vrcholu tyče, ze kterého visel řetěz. Opice trávily svůj život šplháním nahoru a dolů a vřeštěním. Potom ze svých těl odstraňovaly vši. Každou sekundu na své kůži něco objevily. My bychom nic neviděli, ale opice na sobě viděly všechno možné.
+      
       Opice také kousaly. Když se k vám rozběhla, museli jste si lehnout na zem a zatajit dech. Když jste vypadali jako mrtví, potom vás nikdy, nikdy nepokousaly. Toto jsem dělal mnohokrát, když mi bylo kolem šesti let. Malé děti ve věku jednoho či dvou let a staré lidi nikdy nekoušou, ale mladé chlapce a děvčata ano. Párkrát mě chytily. Měl jsem po nich na sobě nejméně deset nebo dvanáct památek. Chodíval jsem k opicím s takovou láskou a radostí, ale zapomínal jsem, že ten řetěz je tak dlouhý. Občas mne pokousaly, než jsem jim donesl jídlo. Měli jsme sluhu, kterému bylo čtrnáct nebo patnáct let. Neuplynul jediný den, aniž by nebyl pokousán některou z opic.
+      
       Jsou-li opice ochočené, dávají najevo svoji náklonnost. Moje matka nebyla pokousána ani jednou. Cítily laskavost mé matky. Moje sestra byla pokousána jednou nebo dvakrát. Kousnutí opice hodně bolí. Rána ihned hojně krvácí. Kolikrát jsem měl pokousané levé či pravé stehno nebo loket! Jejich zuby jsou malé, ale ostré. Můj bratr Mantu jim nikdy nedal banán ani nic jiného k snědku. Neměl rád opice, neměl rád psy, neměl rád kočky. Byl proti všem zvířecím druhům.
+      
       Opice dělají cosi, co opravdu stojí za to vidět. Vyšplhají na strom a z úplně nejvyšší větve skočí do rybníka. Potom plavou na druhou stranu.
 
       Mám žáky, jejichž děti byly kdysi jejich zvířecími miláčky. Někdo měl v předchozí inkarnaci psího mazlíčka a nyní se tento mazlíček stal členem jeho rodiny. Dejme tomu, že jste měli psa; tento pes se nyní stal vaším bratrem. Ve vaší rodině si vzal svoji první lidskou inkarnaci. Podobně byly u nás služebné, které chtěly přijít do naší rodiny. Tolik nás těšily a jejich přáním bylo dostat se do naší rodiny. Jen si otevřete své třetí oko a uvidíte, jestli vám říkám pravdu!
 
 
-* Část II.: Světské, zábavné a osvěcující otázky a odpovědi
+* Část II.: Světské, zábavné a osvěcující otázky a odpovědi[fn:: JH 2-15. Během neformálního setkání v prosinci 1977 vyzval Sri Chinmoy své žáky, aby mu kladli „světské otázky, zábavné otázky a osvěcující otázky.“ Žáci minutu meditovali, a potom se jej začali ptát. Jejich otázky a odpovědi Sri Chinmoye následují]
 
   :PROPERTIES:
   :GENRE: section
@@ -63,20 +67,18 @@
   :END:
 
 
-/ Během neformálního setkání v prosinci 1977 vyzval Sri Chinmoy své žáky, aby mu kladli „světské otázky, zábavné otázky a osvěcující otázky.“ Žáci minutu meditovali, a potom se jej začali ptát. Jejich otázky a odpovědi Sri Chinmoye následují./
-
-
-
 * Jaký je duchovní význam kulturistiky?
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:2-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 
 /Sri Chinmoy:/ S kulturistikou je to jako se stavěním domu. Je-li dům dobře postaven, můžete v něm bydlet dlouhou dobu. Pokud zcela nečekaně přijde cyklón nebo zemětřesení, potom bude dům samozřejmě zničen. Ale jinak, je-li dům velmi pevný, vydrží dlouhou dobu.
+
 Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Samozřejmě že musíte cítit vliv duše, která pracuje uvnitř a prostřednictvím těla. Kulturistiky si tedy vážím a obdivuji ji. Mít velmi silné a mocné tělo je pro hledajícího skutečná nutnost.
 
 
@@ -87,6 +89,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:3-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 
@@ -105,6 +108,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:4-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 
@@ -118,12 +122,16 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:5-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 
 /Sri Chinmoy:/ Nořím se hluboko dovnitř, abych odpověděl tvoji otázku. Bůh tě učinil „space cadetem“ z třiatřiceti procent. Tobě se to tak líbilo, že jsi využila výhody, kterou ti Bůh poskytl, a přidala jsi šestašedesát procent. A mně se to tak líbilo, že jsem přidal jedno procento navíc.
+
       Takže tuto hru začal Bůh, ty jsi v ní pokračovala a já jsem ji dokončil. Třiatřicet procent zásluhy patří Bohu, šestašedesát procent tvému ušlechtilému já a jedno procento patří mně. Takhle ses tedy stala dokonalým „space cadetem“ -- božsky dokonalým, nanejvýš dokonalým, stoprocentním „space cadetem“.
+      
       Včera jsi to dokázala. Nastoupila jsi do auta bez svých knih. Pracuje tedy moje mysl, nebo pracuje jenom moje duše? Když jsi byla uvnitř auta, tvůj Mistr řekl: „Ona přišla bez svých knih.“ První věc, na kterou jsem se tě tedy zeptal, když jsi nastoupila do auta, byla: „Kde jsou tvé knihy?“ A tak jsi utíkala. Kdybychom odjeli, správce mohl odejít domů a jen sám Bůh ví, kam by se ty knihy mohly podít.
+      
       Být „space cadetem“ je největší vyznamenání. Mnohokrát jsem řekl „space cadetům“ různé věci. Berete ven z domu nádobí, když jíte? Chodíte po ulici jen s jednou botou? Zapomínáte své jméno? Ne, nezapomínáte své jméno. Kdysi jsem dělal tyto věci, takže vás stále ještě překonávám.
 
 
@@ -133,6 +141,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:6-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 
@@ -141,19 +150,23 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
       Existuje zvláštní božstvo, které ztělesňuje vědomost a moudrost. Jméno této bohyně je Sarasvatí. Reprezentuje vědomosti a moudrost v nezměrné míře a my od ní přijímáme podle naší vnímavosti. Potřebujeme však nějaký prostředek, abychom uchovali to, co přijímáme, a tímto prostředkem je kniha. Knihy tedy obsahují inspiraci od bohyně Sarasvatí. Kdekoli vidíme nějakou věc, musíme jít k jejímu zdroji. Zdrojem knihy je žijící bohyně Sarasvatí. Jak se můžeme dotknout bohyně v tomto kusu papíru nohama? Jak ji můžeme takto kopnout? Nemožné! Neměli bychom se tedy dotýkat papíru nohama, protože uvnitř něj je živoucí přítomnost kosmické bohyně.
 
 
+
 * Chlapci spolu občas žertem zápasí. Je v pořádku, když takto někdy žertují, nebo je to zcela špatné?
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:7-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 
 /Sri Chinmoy (jokingly):/ Chlapci by měli být chlapci; dívky by měly být dívkami. Chlapci by měli předvádět sílu svých svalů a sílu vitálna a dívky by měly předvádět své umění klevetit... to jsem neřekl.
+
       Když je to jen trochu, je to dobré. Je však velký rozdíl mezi vtipkováním a násilím. Někdy může nevinné vtipkování vést k ničivému násilí. Mnohokrát to začíná žertem. Potom je zraněno něčí ego a vznikne z toho vážný boj. Začne to v nevinnosti, ale v nevinnosti to už nezůstane. Dokážete-li setrvat v nevinné legraci, potom je to velmi dobré. Tehdy odejdou z těla všechny nebožské vitální kvality.
 
-      Nikdo není v tomto ohledu lepší než Ashrita. Ashrita je nejlepší. Když božský Ashrita vejde do naší kuchyně, spatří Caseyho a roztrhne mu tričko, co potom uděláte? Někdo dá Caseymu peníze, aby si koupil nové, takže se nic neděje. Když ale ve jménu tréninku zkouší svou sílu, zmáčkne Caseymu palec a zlomí mu ho, potom je to velmi špatné. Tričko se dá snadno nahradit, ale když je poškozen palec, jak jej můžete vyměnit? 
+      Nikdo není v tomto ohledu lepší než Ashrita. Ashrita je nejlepší. Když božský Ashrita vejde do naší kuchyně, spatří Caseyho a roztrhne mu tričko, co potom uděláte? Někdo dá Caseymu peníze, aby si koupil nové, takže se nic neděje. Když ale ve jménu tréninku zkouší svou sílu, zmáčkne Caseymu palec a zlomí mu ho, potom je to velmi špatné. Tričko se dá snadno nahradit, ale když je poškozen palec, jak jej můžete vyměnit?
+       
       Uznávám tedy legraci, ale musí zůstat naprosto nevinná a neškodná. Jestliže z toho vzejde násilí a končí to fyzickými zraněními, je nutné to zcela zastavit. Předvádět schopnosti vitálna nebo ukazovat, jak kypíme silou, je nezbytné, jinak budete mít život smutku, frustrace a deprese, což je nekonečně, nekonečně horší, než vnější vitální vzrušení.
 
 
@@ -164,6 +177,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:8-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 
@@ -172,17 +186,20 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
       Někteří lidé říkají: „Ó, mezi nejvyšší výškou a mým současným stavem je zející propast.“ Moje teorie však říká, že máme myslet vždy na to nejvyšší a největší. Můžeš myslet sám na sebe jako na drobnou kapku, ale když myslíš na oceán, ihned uvidíš, že oceán nemůže být od drobné kapky nikdy oddělen. Nejvyšší výška nemůže být nikdy oddělena od nejnižší, protože mezi nejnižším a nejvyšším není žádná překážka. Když myslíš na sebe jako na patu stromu a na mě jako na výšku, potom můžeš snadno vidět, že jsme jedním. Děje-li se něco špatného s patou, se základnou, strom se zlomí a jeho výška zmizí. Jestliže tedy myslíš na sebe a na mě tímto způsobem, budeš vědět, že stane-li se něco špatného s tebou, i moje výška mizí.
 
       Z inspirace získáš aspiraci; z aspirace získáš realizaci. Když se na tebe dívám, ihned na mě mysli jako na realizaci. Realizace představuje záplavu světla. Nyní máš trochu světla, ale chceš vstoupit do nekonečné záře světla.
+      
       Když vidíš konečný cíl, ihned získáš jistou vnitřní radost a vnitřní chvění, a to tě bude inspirovat. Jestliže však myslíš na sebe, jako kdybys stál na startu maratonu, jehož cíl je daleko, potom jsi ztracen. Se svou aspirací jsi právě vyběhl a musíš uběhnout jednu míli, dvě míle, tři míle, čtyři míle; ó Bože! Pokud přemýšlíš takto, potom jsi skončil; nikdy svého cíle -- realizaci -- nedosáhneš. Ne, ty musíš myslet na první míli jako na první cíl, na druhou jako na druhý cíl, atd. Když začínáš maraton, ber první míli jako svůj cíl a v ten okamžik si pomysli, že jsem tam také. Nebo když se ti i toto zdá příliš daleko, zkus cítit, že jsem s tebou na startu. Takto budeš schopen překonat vzdálenost mezi tvou aspirací a realizací. Na druhou stranu můžeš říci: „Je-li se mnou Guru na startu, jaký má potom smysl jít dál? Když ho získám tady na startu, potom ho nemusím vidět v cíli.“ To také není dobré. Nejlépe je cítit v sobě moji inspiraci a aspiraci. Nezapomeň však, že jsem tam v cíli, s cílem, a jako cíl pro tebe.
 
       Takže vždy, když chceš něco udělat nebo se něčím stát, mysli na nejvyšší výšku. Mysli na mě nebo medituj na mě; když nemůžeš myslet nebo meditovat, prostě si to představuj. Na přemýšlení musíš použít mysl, ale jestliže chceš do něčeho vrůst, musíš použít aspirující srdce. Přemýšlení je velmi těžká věc. Může trvat velmi dlouho, než začneš na někoho myslet jako na dobrého člověka. Zoufale zkoušíš myslet na nějaké Nathanovy dobré kvality, ale trvá ti to tak dlouho. Způsobil požár ve tvém obchodě, je tedy pro tebe velmi těžké myslet na jeho dobré kvality. Můžeš si však snadno představit: „Ó, Nathan je tak dobrý hoch.“ Představivost zdaleka překonává sílu myšlení. Jestliže si tedy dokážeš představit, co je tvým cílem, dostaneš okamžitou inspiraci. Použij svoji sílu představivosti a uvidíš, že tvá síla inspirace a tvá síla aspirace se stala velmi mocnou a silnou.
 
+                                           
 
-* Jednoho dne jsem šla kolem OSN a spatřila malé dítě v kočárku. Byl mu rok nebo rok a půl. To dítě mělo v tváři takový prázdný výraz, ale jaksi jsem v tomto výrazu viděla velkou úzkost a zmatek, jako by byl svět velmi bolestné a zmatené místo. Tento zážitek mne velmi dojal a zabolel, a kdykoli na to pomyslím, stále mne to velmi dojímá. Jaké si mám z toho zážitku vzít ponaučení?
+ * Jednoho dne jsem šla kolem OSN a spatřila malé dítě v kočárku. Byl mu rok nebo rok a půl. To dítě mělo v tváři takový prázdný výraz, ale jaksi jsem v tomto výrazu viděla velkou úzkost a zmatek, jako by byl svět velmi bolestné a zmatené místo. Tento zážitek mne velmi dojal a zabolel, a kdykoli na to pomyslím, stále mne to velmi dojímá. Jaké si mám z toho zážitku vzít ponaučení?
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:9-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 
@@ -200,10 +217,12 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:10-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 
 /Sri Chinmoy:/ Ty jsi chtěla pomoci světu od utrpení. Viděla jsi, že je to dítě bezmocné, a tak se stalo symbolem bezmocnosti. To je velmi vysoký zážitek, ale nemyslím si, že jej prožívalo to dítě.
+
 
 
 * Když medituješ, jsi velmi, velmi klidný. Tvoje fyzické se vůbec nehýbe, dokonce i když stojíš. Když chceš, můžeš být jako socha. Jak to děláš?
@@ -212,6 +231,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:11-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 
@@ -233,9 +253,11 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:12-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 /Sri Chinmoy:/ Raduji se! Jsem velmi vysoko a potom začnu kmitat nohou.
+
 
 
 * Ty s ní vysloveně nekmitáš, jenom s ní jednou nebo dvakrát pohneš nahoru a dolů.
@@ -244,6 +266,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:13-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 
@@ -252,12 +275,14 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
       Na druhou stranu, nohy Mistra představují nekonečný soucit. Tento soucit můžeš přitáhnout, jako bys byl magnet. Dotknout se mých nohou rukama nebo hlavou jsem dovolil velmi málo žákům -- mohu je spočítat na prstech. Nanejvýš silná magnetická přitažlivost mých nohou odstraní problémy této a dokonce i minulých inkarnací. Když chci někomu požehnat tím, že snáším dolů soucit, mohu použít své ruce nebo oči. Nohy však mají vždy pro tento svět -- pro žáky a hledající -- nekonečný soucit. Proč to nedělám pro všechny? Protože si to všichni nezaslouží, protože to všichni nechtějí. Řeknou: „Ó, potřebujeme soucit,“ ale bojí se, že soucit není nic jiného než transformace. Nato řeknou: „My chceme transformaci,“ ale jakmile spatří ohromný dosah výsledku, jsou vyděšeni k smrti. Říkáme, že chceme být tak jasní, jako je slunce, ale když vidíme záři slunce, jsme vyděšeni k smrti. Žádáme Boha, aby nás učinil stejně mocnými a silnými, jako je slon. Když však spatříme slona, jsme vyděšeni k smrti. Žádáme Boha, aby nás učinil stejně silné, jako je lev, ale když stojíme před řvoucím lvem, jsme vyděšeni k smrti. Zde hledající také něco chtějí, ale když stojí před skutečností, jsou vyděšeni na smrt. To je důvod, proč nedovoluji více lidem, aby se dotýkali mých nohou. Mé nohy ztělesňují nezměrný, bezprostřední soucit. Oni tuto skutečnost nechtějí, děsí je.
 
 
+
 * Kouř z ohně v mém obchodě pronikl do všeho, všechno teď páchne. Moje otázka tedy zní - pronikl také do duše obchodu?
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:14-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
 
@@ -275,10 +300,10 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JH:15-cs
+  :DATE-EVENT: 1977-12-00
   :END:
 
-
-/Sri Chinmoy:/ Mohu ti podat duchovní vysvětlení a pokud tě to neuspokojí, můžeš jít k doktorovi, abys viděl, zda je tvůj zrak v pořádku. Přeji si však říci, že světlo, které vidíš, je vnitřní světlo a ty jej vidíš svou vnitřní vizí. Vidíš kolem mého obočí nebo kolem mých očí jemné světlo, které náleží mému fyzickému. To naznačuje, že tvá vnitřní vize přijala a podporuje fyzické. Když vidíš světlo, kroužící kolem mého oka, musíš vědět, že se má fyzická část stala jedním s tvou aspirací. Ztělesňuji aspiraci fyzického v tobě i ve všech ostatních žácích. Ve chvíli, kdy aspiruješ, vidíš jak fyzické, tak i duchovní ve mně. Tato dvojice nemůže být rozdělena. Světlo je to duchovní ve mně a oči jsou tím fyzickým. Duchovní se vždy pokouší pomoci fyzickému. Tvoje aspirace, tvůj vnitřní pláč tedy právě teď pláče pro pomoc nebo povzbuzení nebo naplnění duchovností. Když myslíš na sebe, mysli na to, že uvnitř tvého fyzického je tvůj vnitřní pláč, tvoje aspirace a tvé zasvěcení. Tato aspirace a toto zasvěcení nebudou marné; obojí bude korunováno úspěchem. Obojí bude ověnčeno fyzickým i duchovním. Fyzické uvnitř tebe aspiruje a skutečnost shora, z hloubky nitra, přijde a ověnčí aspiraci fyzického.
+ /Sri Chinmoy:/ Mohu ti podat duchovní vysvětlení a pokud tě to neuspokojí, můžeš jít k doktorovi, abys viděl, zda je tvůj zrak v pořádku. Přeji si však říci, že světlo, které vidíš, je vnitřní světlo a ty jej vidíš svou vnitřní vizí. Vidíš kolem mého obočí nebo kolem mých očí jemné světlo, které náleží mému fyzickému. To naznačuje, že tvá vnitřní vize přijala a podporuje fyzické. Když vidíš světlo, kroužící kolem mého oka, musíš vědět, že se má fyzická část stala jedním s tvou aspirací. Ztělesňuji aspiraci fyzického v tobě i ve všech ostatních žácích. Ve chvíli, kdy aspiruješ, vidíš jak fyzické, tak i duchovní ve mně. Tato dvojice nemůže být rozdělena. Světlo je to duchovní ve mně a oči jsou tím fyzickým. Duchovní se vždy pokouší pomoci fyzickému. Tvoje aspirace, tvůj vnitřní pláč tedy právě teď pláče pro pomoc nebo povzbuzení nebo naplnění duchovností. Když myslíš na sebe, mysli na to, že uvnitř tvého fyzického je tvůj vnitřní pláč, tvoje aspirace a tvé zasvěcení. Tato aspirace a toto zasvěcení nebudou marné; obojí bude korunováno úspěchem. Obojí bude ověnčeno fyzickým i duchovním. Fyzické uvnitř tebe aspiruje a skutečnost shora, z hloubky nitra, přijde a ověnčí aspiraci fyzického.
 
       Světlo, které vidíš, je tedy světlem světa Za. Když jej vidíš kroužit kolem oka, znamená to, že duchovní povzbuzuje fyzické, aby jej pozvedlo a přeměnilo, a naplnilo tak poselství vyšší skutečnosti. Fyzické aspiruje a odpověď přichází od skutečnosti a božskosti, která je za fyzickým. Velmi dobrý zážitek, skvělý zážitek!
 
@@ -307,11 +332,13 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
 /Sri Chinmoy:/ Proč si myslíš, že jsi k Bohu přišel pozdě? Možná si myslíš, že jsi přišel pozdě jenom proto, že ses připojil k našemu Centru teprve nedávno. To ale není správné. Když jsi přišel, byl to tvůj čas -- ne tehdy, když bylo Centrum založeno.
 
       Každý má svou zvláštní hodinu. Když pro tebe udeří hodina, je to tvůj čas. Pokud pro někoho jiného udeřila hodina před dvěma roky, potom to byl jeho čas. Vnitřně budeš vědět, kdy tvoje hodina udeří. Řekněme, že tě něco před patnácti lety velmi silně táhlo k duchovnímu životu; cítil jsi, že bys bez Boha nemohl na zemi zůstat ani po letmou sekundu. Pokud jsi měl tento druh aspirace a nešel jsi k žádnému duchovnímu Mistrovi, ani jsi nenastoupil žádnou cestu, znamená to, že jsi promrhal patnáct let. Bůh bude proto tebou rozmrzelý. Řekne: „Dal jsem ti zlatou příležitost, abys vystoupil z nevědomosti, ale ty jsi ji neocenil.“
+      
       V tvém případě ti však Bůh před patnácti lety takovou silnou aspiraci nedal, takže nebuď vůbec smutný. Nyní ti ale Bůh aspiraci dal. Nyní Bůh zaklepal na tvé dveře a přišel tvůj čas. Předtím jsi spal, ale teď si Bůh přeje, abys vstal. Řekneš-li: „Nevyrušuj mě, neobtěžuj mě, chci spát,“ potom tebou bude Bůh rozmrzelý. Ty však nespíš, takže by ses vůbec neměl cítit smutný. Zasvitl pro tebe čas a ty ses probudil. Jestliže ale přijde čas a ty ho promeškáš, jestliže ho odmítneš přijmout, potom děláš vážnou chybu.
 
       Takže se neboj. Udělal jsi tu naprosto správnou věc. Když jsem někoho přijal, potom to byl pro něj ten správný čas. Nebuď deprimovaný nebo smutný. Máš nekonečnou Boží Lásku a Požehnání. Pokud tě On před dvěma nebo třemi lety nepožádal, abys něco udělal, potom to není tvoje chyba. V tuto chvíli nasloucháš přání Nejvyššího, takže děláš tu správnou věc. Vůbec nebuď deprimovaný nebo smutný. To se týká vás všech. Jen ten, kdo přišel pozdě, pocítí, že zmeškal loď.
 
       Nyní jsi v Lodi Nejvyššího, jsi tedy v bezpečí; určitě dorazíš ke Zlatému Břehu. Pokud však po cestě upadneš do deprese nebo pochybnosti a vyskočíš z Lodi, potom znovu spadneš do moře nevědomosti. Je nemálo těch, kteří přišli a odešli. Ve srovnání s počtem lidí, kteří s námi zůstali, je však počet těch, kteří odešli, takřka ničím. Jsem od samého počátku mimořádně opatrný. Kdybych si to přál, měl bych teď tisíce žáků. Já jsem však velmi vybíravý. Jakmile lidé slyší o našem standardu, připadá jim to příliš těžké. Dokonce i náš vnější standard je obtížný. Jestliže lidé pokládají naši cestu za velmi obtížnou, je to v pořádku; Bůh si přeje, abychom následovali tuto cestu.
+
 
 
 * Mohl bys povědět něco o tom, jak má nový žák zacházet s potěšeními a problémy každodenního života?
@@ -322,7 +349,6 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :CITE-KEY: JH:17-cs
   :END:
 
-
 /Sri Chinmoy:/ Začněme nejprve s problémy. Nejprve se musíš zeptat, zda problémy, které máš nyní, existovaly i předtím. Ihned přijde odpověď: „Ano“. Takže jak to, že teď o nich víš a tehdy jsi o nich nevěděl? Musíš vědět, že když žiješ obyčejným, neaspirujícím životem, jsou nepřátelské síly velmi chytré. Vědí, že jsi jim vydán na milost. Znají tvé schopnosti; vědí, že jsi v nevědomosti u jejich nohou. Řeknou tedy: „V pořádku, když spí, nebudeme ho obtěžovat.“ Ale ve chvíli, kdy vstaneš, ihned tě napadnou.
 
       Je mnoho hledajících, kteří si stěžují svému Mistrovi: „Než jsme přijali duchovní život, měli jsme jenom pár problémů. Teď, když jsme přijali duchovní život, se naše problémy rozmnožily.“ To ale není pravda. Musí si uvědomit, že stejné problémy už měli; pouze je nechtěli vědomě porazit. To je důvod, proč si jich nebyli vědomi. Nechcete-li něco porazit, potom hluboce spíte a také problém hluboce spí. Ale protože jste nyní vstoupili do duchovního života, vyzvali jste všechny své problémy. A protože jste vyzvali problémy, nepřátelské síly se postavily na jejich stranu a zkouší proti vám bojovat. Krmí problémy, tak aby mohly pokračovat v boji. Tyto síly však ví, že nebudou schopné vás porazit. Pouze budou zkoušet zdržovat, zdržovat. Musíte je tedy vyzvat.
@@ -330,6 +356,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
       Než jsi přijal duchovní život, myslel sis, že život nevědomosti, život potěšení je ten pravý. Podíval ses kolem a viděl jsi, že se všichni těší životu potěšení. Řekl jsi: „Co to se mnou je? Jsou-li mí přátelé, sousedi a všichni ve stejné lodi, potom nechci být výjimkou.“ Protože jsi však nyní přijal duchovní život, cítíš, že život, který vedou, není míněn pro tebe. Nyní jsi dostal vnitřní volání, vyšší volání. Nemůžeš být s nimi. Ano, byl jsi s nimi patnáct nebo dvacet let. Teď pro tebe přišel čas následovat cosi jiného, dělat cosi jiného. Jestliže nepřijmeš problémy jako takové, jak je potom porazíš? Pokusíš-li se problémům vyhnout, přijdou k tobě s větší silou. Přijdou velice prudce a napadnou tě. Nemůžeš se tedy před svými problémy skrýt. Musíš je porazit teď a tady. Budeš-li čekat a říkat: „Ne, zítra budu silnější a potom budu schopen své problémy porazit,“ potom ti říkám, že tento zítřek nepřijde. Každá sekunda je zlatou příležitostí, a jestliže tuto zlatou příležitost nevyužiješ, nevědomě posiluješ síly nevědomosti.
 
         A teď k životu potěšení. Musíš vědět, co jsi získal nebo čeho jsi dosáhl v životě potěšení. Okamžitě řekneš: „Život potěšení mi dal jedinou věc, a tou je frustrace.“ Dokonce i když zůstaneš v obyčejném životě, v neaspirujícím životě, jsi-li upřímný, řekneš: „Všechno, co jsem získal od života potěšení, je frustrace.“ A co se potom stane? Vidíš, že není naděje z této frustrace uniknout, dokud a pokud nejsi naprosto zničen.
+        
       To, co nyní nazýváme frustrací, bude zítra zničením. Začali jsme naši cestu pokušením. V pokušení potom bylo potěšení. A uvnitř potěšení je zničení. Co zůstane po zničení? Nic. Cesta pokušení je tedy negativní způsob konání.
 
       Existuje ovšem pozitivní způsob. Tímto pozitivním způsobem je aspirace. Co je to aspirace? Aspirace je vnitřní pláč, který nám dává pocítit, že jsme přišli z nekonečného Míru, Světla a Blaženosti a že stále ztělesňujeme nekonečný Mír, Světlo a Blaženost, pouze musíme tyto kvality vynést do popředí. Nyní máme tyto kvality nevědomě. Nevědomě máme někoho, jenž je nazýván Bohem. Duchovní život však znamená naše vědomé uvědomění si Boha.
@@ -337,7 +364,9 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
       Máš v sobě poklad, ale ztratil jsi ho. Když něco ztratíš, hledáš to, ale nemusíš to hned najít. Požádáš tedy přítele, svého nejlepšího přítele, aby ti pomohl hledat: „Něco jsem ztratil; budeš to se mnou hledat?“ Přítel přijde, a protože je v hledání věcí zkušenější, najde to pro tebe. Kdo je tímto přítelem? Je to tvůj duchovní Mistr. Když najde tvůj poklad, nevezme ti jej. Neodváží se ti jej vzít, jenom proto, že ho nalezl místo tebe. Tak je tomu s duchovním Mistrem. Nalezne pro tebe tvůj vnitřní poklad a potom jeho úloha skončí. Tvou úlohou je pouze mu poděkovat. Nalezne to pro tebe a potom se to stane tvým pokladem. Ty mu jenom poděkuješ.
 
       Život potěšení musí být nahrazen životem aspirace. V aspiraci je skutečný poklad, pochopení, že přicházíš z Nekonečna, že jsi v Nekonečnu a že jsi pro Nekonečnou Pravdu a Světlo.
+      
       Každá osoba má přítele a nepřítele. Pokud aspiruje, cítí, že touha je jeho nepřítelem a aspirace je jeho přítelem. Jestliže neaspiruje, jestliže vede život touhy, cítí, že touha je jeho přítelem a aspirace jeho nepřítelem. S touhou má důvěrný vztah, a i když jej nenaplňuje, je si její skutečnosti ve svém životě vědom, kdežto aspirace je pro něj cizincem. Cítí tedy, že touha je jeho přítelem. Nakonec však každý jednotlivec pochopí, že jeho jediným přítelem je aspirace. Přijde čas, kdy každý jednotlivec pocítí, že realizace existuje, že Bůh existuje. A až ten čas přijde, ponoří se do moře duchovnosti a bude považovat život aspirace za svůj vlastní, svůj zcela vlastní.
+
 
 
 * Proč si občas myslíme, že jsme v dobrém nebo špatném vědomí, a ty nám později řekneš, že jsme byli v jiném vědomí?
@@ -352,6 +381,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
 /Sri Chinmoy:/ Dnes jsme měli mezi deseti žáky božskou soutěž, abychom viděli, kdo měl nejlepší meditaci. Myslíš si, že tady byl někdo, kdo by nedoufal, že by mohl být první? Student nemůže být soudcem. Při mnoha příležitostech pracuje jeho intelekt a on si myslí, že se mu vede mimořádně dobře. Ale já jednám s tvou duší. Nejednám s tvou myslí nebo s fyzickým nebo s vitálnem. Zajímám se pouze o vědomí, které je ve tvém srdci, ve tvé duši. Máš-li myšlenky jenom pár sekund, potom to tvé vědomí neovlivní. Jestliže je tvoje tabule bílá a ty ses jí v jednom místě dotknul špinavým prstem, možná ten bod neuvidím. Mám široký rozhled, vidím celou zeď. Ty vidíš, kde jsi ten bod udělal, ale já tu část nevidím. Se svým soucitem vidím celou zeď. Pokud však uděláš ten bod znovu a znovu a znovu, potom vidím, že jsi viník.
 
 
+
 * Question: Jak můžeme překonat skleslost, která se dostaví, když se pokoušíme setrvat v mnoha činnostech a fyzicky se tím tempem vyčerpáme?
 
   :PROPERTIES:
@@ -359,8 +389,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :KEYWORDS:
   :CITE-KEY: JH:19-cs
   :END:
-
-
+  
 /Sri Chinmoy:/ Proč bychom měli být skleslí? Skleslost není nic, co by nám mohlo pomoci. Cokoliv, co nám nepomáhá, nesmíme brát jako svého přítele. Vezměme skleslost jako svého nepřítele. Jakmile ji jednou považujeme za svého nepřítele, nedovolíme jí vstoupit do našeho systému. Právě teď však cítíme, že skleslost je v našem životě cosi nezbytného. Je to cosi velmi příjemného. Občas nám frustrace dává radost. To jsou ale všechno negativní věci.
 
       Jsme-li skleslí, musíme ihned pocítit, že do našeho systému vstoupil nepřítel. Všichni jsme Božími dětmi a nemáme nepřátele. Musíme ovšem vědět, že v této chvíli jsou věci, které nám stojí v cestě a které nás mohou učinit bezmocnými. Nejlépe je tedy brát je jako nepřátele; tímto způsobem budeme vždy bdělí. Jakmile tyto síly porazíme, už to v tu chvíli nebudou naši nepřátelé; nebudou mít žádnou sílu. Právě teď je však skleslost, frustrace a deprese mocnější než my a my je musíme brát jako své nepřátele. Když je porazíme, potom se stanou našimi.
@@ -379,8 +408,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :CITE-KEY: JH:20-cs
   :END:
 
-
-/Sri Chinmoy:/ Když přijde ta určená hodina, pociťuj, že je to nejdůležitější okamžik v tvém životě. Když se v lodi plavíme s ostatními, měli bychom být k převozníkovi a pasažérům poctiví. Převozník je připraven, ale jeden pasažér má zpoždění. Je čas k vyplutí, ale přestože převozník volá a křičí, ta osoba nevstává. Jsme duchovní rodina. Pokud jeden člen zdržuje ostatní, je naší povinností mu vyhubovat a říci: „Co to děláš? Kvůli tobě budeme mít všichni zpoždění.“ Když někdo nevstane, občas mu ukáži soucitnou tvář, občas tvář pohoršení, ironie nebo hrozného zklamání, nebo té osobě nemilosrdně vyhubuji. Pokud nevstane některý blízký žák, potom mu nejprve ukáži smutnou tvář a potom tvář zoufalou. Nic nepůsobí trvale, ale smutek občas působí pár dní. Vidí-li někdo moji smutnou tvář, vyvine veškeré úsilí, aby pár dní meditoval. Naproti tomu někteří lidé cítí, že nemusí meditovat pravidelně. Co tedy mohu dělat? Bez ohledu na to, jaký jim ukáži smutek nebo zoufalství, pravidelně meditovat nebudou.
+ /Sri Chinmoy:/ Když přijde ta určená hodina, pociťuj, že je to nejdůležitější okamžik v tvém životě. Když se v lodi plavíme s ostatními, měli bychom být k převozníkovi a pasažérům poctiví. Převozník je připraven, ale jeden pasažér má zpoždění. Je čas k vyplutí, ale přestože převozník volá a křičí, ta osoba nevstává. Jsme duchovní rodina. Pokud jeden člen zdržuje ostatní, je naší povinností mu vyhubovat a říci: „Co to děláš? Kvůli tobě budeme mít všichni zpoždění.“ Když někdo nevstane, občas mu ukáži soucitnou tvář, občas tvář pohoršení, ironie nebo hrozného zklamání, nebo té osobě nemilosrdně vyhubuji. Pokud nevstane některý blízký žák, potom mu nejprve ukáži smutnou tvář a potom tvář zoufalou. Nic nepůsobí trvale, ale smutek občas působí pár dní. Vidí-li někdo moji smutnou tvář, vyvine veškeré úsilí, aby pár dní meditoval. Naproti tomu někteří lidé cítí, že nemusí meditovat pravidelně. Co tedy mohu dělat? Bez ohledu na to, jaký jim ukáži smutek nebo zoufalství, pravidelně meditovat nebudou.
 
 
 * Žádáš nás, abychom měli při meditaci otevřené oči a dívali se na tebe. Tolikrát však fyzický svět zmizí a já se musím snažit, abych jej přinesl zpátky a zaměřil se na něj.
@@ -391,23 +419,19 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :CITE-KEY: JH:21-cs
   :END:
 
-
 /Sri Chinmoy:/ Proč ho musíš vracet zpátky? Kdy jsem vám říkal, abyste se na mne dívali? Žádám vás pouze, abyste měli otevřené oči. Máte-li otevřené oči, když snáším dolů Mír nebo Světlo, ihned to přesvědčí vaši fyzickou mysl. Jinak vstoupíte ve jménu meditace do spánku a bez ohledu na to, co snáším dolů, zůstanete ve světě zapomnění. Jak dlouho můžete snít, když máte otevřené oči? Přiběhne nějaký hmyz a štípne vás. Někdo způsobí hluk. Je mnoho věcí, které vás udržují bdělé. Když ale máte své oči zavřené, potom se automaticky odevzdáváte jistému druhu spánku. Myslíte si, že meditujete, ale jste ve světě spánku. Můžete-li nechat oči otevřené, potom můžete přijímat souvisle. Nebo je lepší mít je napůl otevřené. Někteří žáci mají své oči otevřené, přitom však sní. Jiní jdou do jiného světa, jakmile zavřou své oči.
 
       Když jsem v roce 1944 začal poprvé meditovat, prvních pár měsíců jsem dostal vnitřní příkaz, abych měl své oči otevřené. Potom jsem si rozvinul schopnost meditovat s očima otevřenýma i zavřenýma. Cítím však, že meditace s otevřenýma očima je meditací lva. Dokážete-li meditovat s otevřenýma očima, potom to znamená, že jste lev. Můžete pohltit jakoukoliv špatnou sílu kolem vás. Jestliže meditujete s očima zavřenýma, potom meditujete jako kočka. Kdokoliv může přijít a pohltit vás. Když máte meditaci lva a vidíte opici, jak se kolem vás pohybuje, nijak vás to neovlivní. Když ale máte oči zavřené a někdo se vás dotkne, potom si můžete myslet, že vás někdo přišel probodnout, a budete vyděšeni k smrti.
 
 
 
-* Část IV.: Klenot pokory: rozhovor
+* Část IV.: Klenot pokory: rozhovor[fn:: JH 22-34. Následující text je vyňat z článku „Klenot pokory“, jenž vyšel v listopadu 1975 v měsíční publikaci New Age Community, vydávané New Age Community Centre ve Vancouveru v Kanadě. Členové New Age Community měli se Sri Chinmoyem rozhovor na Vancouverském mezinárodním letišti při jeho odletu po krátké návštěvě Viktorie, kde měl přednášku na téma zasvěcená cesta života. (New Age Community je dále uváděno jako NAC.)]
 
   :PROPERTIES:
   :GENRE: interview
   :KEYWORDS:
   :CITE-KEY: JH:22-cs
   :END:
-
-
-/ Následující text je vyňat z článku „Klenot pokory“, jenž vyšel v listopadu 1975 v měsíční publikaci New Age Community, vydávané New Age Community Centre ve Vancouveru v Kanadě. Členové New Age Community měli se Sri Chinmoyem rozhovor na Vancouverském mezinárodním letišti při jeho odletu po krátké návštěvě Viktorie, kde měl přednášku na téma zasvěcená cesta života. (New Age Community je dále uváděno jako NAC.)/
 
 
 * NAC: Je to velká čest, setkat se s vámi; během let jsme o vás mnoho slyšeli. V čem všeobecně spočívá vaše práce?
@@ -417,8 +441,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :KEYWORDS:
   :CITE-KEY: JH:23-cs
   :END:
-
-
+       
 /Sri Chinmoy:/ Mou prací je láska a mou prací je služba. Snažím se milovat lidstvo a snažím se sloužit lidstvu podle svých omezených schopností, které mi Bůh propůjčil. Milovat Jeho v aspirujícím lidstvu a sloužit Jemu službou lidstvu -- to je má jediná práce.
 
 
@@ -429,8 +452,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :KEYWORDS:
   :CITE-KEY: JH:24-cs
   :END:
-
-
+   
 /Sri Chinmoy:/ Po celém světě máme asi šedesát Center. Čas od času navštívím všechna Centra a ta se mnou udržují vnitřní spojení. Napsal jsem přes dvě stě padesát knih. Dvakrát týdně chodím do OSN a mám zde meditaci pro delegáty a zaměstnance. Zkouším sloužit lidstvu ve společenství národů podle své vnitřní schopnosti, čemuž říkám zasvěcená dušeplná služba. To je to, co dělám. Zkouším sloužit všude, a kdykoliv dostanu příležitost sloužit, tehdy cítím, že můj život na zemi má cenu.
 
 
@@ -443,7 +465,6 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :CITE-KEY: JH:25-cs
   :END:
 
-
 /Sri Chinmoy:/ Ano a ne. Ne v jejich politické funkci. Když však ke mně přijdou jako hledající, pak protože já sám jsem hledající, mohu s nimi mluvit na duchovní úrovni -- ne však na politické úrovni. Politika není mou silnou stránkou, zatímco o duchovnosti něco vím. Když tedy ke mně přijdou politici jako hledající, zkouším jim nabízet světlo.
 
 
@@ -455,8 +476,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :KEYWORDS:
   :CITE-KEY: JH:26-cs
   :END:
-
-
+   
 /Sri Chinmoy:/ Na tuto otázku je těžké odpovědět. Je tam několik politiků, kteří nechtějí prozradit svá jména, ale tajně přijímají mou pomoc. Nechtějí se ukazovat; nechtějí se připoutat k takzvané zbožnosti nebo k duchovnímu životu. Když ale máme dušeplné setkání, tehdy přijdou a připojí se k nám jako hledající, nikoli jako politici.
 
 
@@ -468,8 +488,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :KEYWORDS:
   :CITE-KEY: JH:27-cs
   :END:
-
-
+    
 /Sri Chinmoy:/ Plně s vámi souhlasím. To, co bychom měli dělat, je pěstovat více dušeplné trpělivosti. V tuto chvíli je svět daleko od dokonalosti. Svět, ve kterém žijeme, je téměř napůl zvířecí. Stále se hádáme a bojujeme. Naproti tomu, uvnitř nás je vnitřní pláč něco dělat, něčím se stát, vrůst do něčeho, co nám dá nepomíjející uspokojení. Tento vnitřní pláč je cosi, co chce přesáhnout to, co teď máme a to, čím teď jsme. Dokonalost ale nevznikne přes noc. Zabere to čas.
 
       Co potřebujete vy, co potřebuji já, co potřebují ostatní, je jediná věc: dušeplná trpělivost. Musíme vědět, že trpělivost není cosi slabého. Jsme-li trpěliví, neznamená to, že jsme přinuceni odevzdat se tvrdé skutečnosti života. Ne, je to vnitřní moudrost. Naše vnitřní moudrost potřebuje po jistou dobu trpělivost. Je to jako se semínkem. Jakmile vidíme semínko, očekáváme, že vyroste v rostlinu a stane se stromem, mohutným banyanovým stromem. Semínku to však trvá, než vyklíčí a postupně vyroste v rostlinu a potom ve strom. Máme-li vizi naší trpělivosti, jednoho dne uvidíme, že pravda bude projevena a vroste do Skutečnosti. Co tedy potřebuje celý svět je dušeplná trpělivost. Potom může pravda vyrůst svým vlastním způsobem.
@@ -483,9 +502,9 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :KEYWORDS:
   :CITE-KEY: JH:28-cs
   :END:
-
-
+    
 /Sri Chinmoy:/ Tady si přeji říci, že nejlepším postupem je nejprve se něčím stát a potom něco dělat. Nejprve dosáhněte, potom dávejte, co máte. To je zlaté pravidlo. Nejprve se staňte ovocem, velice lahodným plodem, a potom všem nabídněte sami sebe k snězení. Ale v případech, kdy je někdo veden vyšší silou, platí zvláštní pravidla. Řekne-li vyšší síla: „Potřebuji tě jako svůj nástroj,“ nebo „Přijal jsem tě jako svůj nástroj, potěš mne tedy mým vlastním způsobem,“ tehdy je proces obrácený. Řekne-li vám v takovém případě Vnitřní Pilot nebo duchovní Mistr: „Udělej toto,“ potom se v průběhu konání něčím stáváte. Když se toto děje, musíte naslouchat vedení vašeho Mistra, protože Mistr pro vás reprezentuje Boha. Když řekl Krišna Ardžunovi: „Odevzdej se mi, udělám pro tebe vše,“ byl v té chvíli Ardžuna jen nástrojem. Zde Ardžuna získal volný přístup k Vnitřnímu Pilotovi. Vnitřní Pilot říká: „Udělej toto a v průběhu této činnosti se staneš tím, čím chci, aby ses stal.“ Musíte však vědět, zda máte opravdu volný přístup k Vnitřnímu Pilotovi, či nikoli.
+
 
 
 * NAC: Mysl většiny z nás je tak zmatena a naše tělo je v takovém napětí, že nedokážeme naslouchat vnitřnímu já, anebo i když dokážeme, je tam tolik protichůdných hlasů, že nevíme, který je pravý. Jak se tím vším máme probojovat?
@@ -495,8 +514,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :KEYWORDS:
   :CITE-KEY: JH:29-cs
   :END:
-
-
+     
 /Sri Chinmoy:/ To je velmi zajímavá otázka. Mysl nám vytváří ohromné problémy. Chceme-li rozeznat poselství nebo hlas Vnitřního Pilota, musíme vědět jednu věc: jakmile dostaneme poselství Vnitřního Pilota, uvidíme, že nám tato zpráva dává vnitřní radost a vnitřní uspokojení. Ihned poté, co toto poselství vyplníme, přinese plody v podobě úspěchu nebo neúspěchu. Můžeme-li však vzít výsledek se stejnou radostí, se stejnou dávkou vnitřní síly, vnitřní odvahy a vyrovnanosti, ať už byl úspěšný či neúspěšný, potom si můžeme být jisti, že poselství k provedení tohoto činu přišlo od duše. Jinak se budeme cítit v nebi, když něco přijde v podobě úspěchu, a budeme odsouzeni ke zklamání, objeví-li se neúspěch.
 
       Přijde-li tedy poselství přímo z hloubky nejvnitřnějších zákoutí našeho srdce, od naší duše, potom nebude důležitý výsledek. Pokud můžeme vidět jak úspěch, tak i selhání jako zážitek, který nám pomáhá růst do nejvyšší Skutečnosti, jestliže máme takový pocit pro poselství, které vystupuje na povrch, znamená to, že dostáváme poselství z nitra, od Vnitřního Pilota.
@@ -510,8 +528,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :KEYWORDS:
   :CITE-KEY: JH:30-cs
   :END:
-
-
+   
 /Sri Chinmoy:/ Jsem stoprocentně optimistický. Já vím, že nám Bůh nedovolí zničit Jeho stvoření. My jsme Jeho stvoření; nikdo si nelibuje v ničení svého stvoření. Jsme Boží děti. Můžeme udělat všechno špatně, ale Bůh nám ze své nekonečné Štědrosti dá věčný čas, abychom začali nový život.
 
 
@@ -523,8 +540,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :KEYWORDS:
   :CITE-KEY: JH:31-cs
   :END:
-
-
+    
 /Sri Chinmoy:/ Dívají se na mne a klaní se Nejvyššímu. Vždy jim říkám: Bůh je Mistr každého a tento Mistr je uvnitř mě i uvnitř vás. Když se mi pokloní, vím komu to patří -- patří to Nejvyššímu ve mně -- a když se klaním já vám, vím komu to patří -- Nejvyššímu ve vás. Ne mně, ne tělu, ne Sri Chinmoyovi, ale Vnitřnímu Pilotovi Sri Chinmoye se klaní, a já se klaním Vnitřnímu Pilotovi jejich vlastního bytí.
 
 
@@ -536,8 +552,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :KEYWORDS:
   :CITE-KEY: JH:32-cs
   :END:
-
-
+     
 /Sri Chinmoy:/ Já nejsem ten správný člověk k pronášení soudů. Každý ví, co je pro něj dobré. Já vím, co je dobré pro mne; oni vědí, co je dobré pro ně. Dělají tu správnou věc podle jejich vnímavosti a vnitřního světla. My zkoušíme dělat to nejlepší podle našeho vlastního vnitřního světla. My všichni jsme zodpovědní za naše vlastní místnosti, oni jsou zodpovědní za jejich místnosti; já jsem zodpovědný za svoji místnost, vy jste zodpovědný za vaši místnost. Vy se můžete přijít podívat, co mám ve své místnosti. Nemám žádné právo říci, co mají oni ve svých místnostech.
 
 
@@ -549,9 +564,9 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :KEYWORDS:
   :CITE-KEY: JH:33-cs
   :END:
-
-
+      
 /Sri Chinmoy:/ Když máme meditaci, oblékám si indické oblečení, protože to usnadňuje hledajícím, aby si mě ztotožnili s duchovním učitelem. Když potřebuji policistu, hledám někoho, kdo je oblečen v policejní uniformě. Když vidím někoho v policejní uniformě, mám k němu okamžitě důvěru. Když mám tedy setkání v OSN a jinde, oblékám si indické oblečení, abych reprezentoval navenek, co jsem uvnitř. Vnitřně vím, že jsem dvacet čtyři hodin denně duchovní osoba, hledající. Nemusím si oblékat indické oblečení, abych věděl, kdo jsem. Pro hledající to však dělám.
+
 
 
 * NAC: Nevím, jestli je to možné, ale cítíte teď nějakou inspiraci složit píseň?
@@ -561,8 +576,7 @@ Podobně, je-li tělo silné, je pro duši snazší projevit svoji božskost. Sa
   :KEYWORDS:
   :CITE-KEY: JH:34-cs
   :END:
-
-
+    
 /Sri Chinmoy:/ Mohu vám zazpívat významnou píseň, píseň, která zvítězila před stovkami ostatních písní: „Ó můj lodivode, nes mne ke zlatým břehům Za.“
 
 / Sri Chinmoy zpívá nádhernou píseň v indickém stylu a dialektu. Potom řekne:/ Jsem vám mimořádně vděčný, že jste mi dal příležitost posloužit aspirujícímu lidstvu prostřednictvím vaší vlastní velice příkladné praxe a duchovní disciplíny.

@@ -25,6 +25,7 @@
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:174-cs
+  :DATE-EVENT: 1988-01-08
   :END:
 
 
@@ -42,6 +43,7 @@ Odpověděl jsem na to 200 rupií a ona se na mě usmála úplně stejně jako p
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:175-cs
+  :DATE-EVENT: 1988-01-12
   :END:
 
 
@@ -50,6 +52,7 @@ V Bali jsem šel do hudebnin, abych si koupil nějaký hudební nástroj. Majit
 Poté jsem na jeho pultě uviděl dvě bambusové flétny. Vyzkoušel jsem je a jedna z nich se mi velmi líbila. Majitel ale řekl: „Tuto flétnu vám neprodám, protože je to moje vlastní flétna. Hraji na ni každý ten, proto ji nechci prodat.“
 
 Jeho duše mi byla velmi otevřená a říkala, abych si tu flétnu vzal, ale ten muž mi ji dát nechtěl. Řekl: „Vezměte si tu druhou – tu menší.“ 
+
 Pro sebe jsem si řekl: „Fyzická úroveň a duchovní úroveň spolu nikdy nebudou vycházet.“
 
 Protože mi ale jeho duše říkala, abych si flétnu vzal, odvětil jsem mu: „Musíte mi ji dát. Měsíc není ve dne vidět, ale přesto vás bude prosit, abyste mi tu flétnu dal.“
@@ -86,6 +89,7 @@ Bali je zemí prostoty. Mohl bych si jinak dovolit s někým takhle mluvit? Byl
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:176-cs
+  :DATE-EVENT: 1988-02-04
   :END:
 
 
@@ -105,6 +109,7 @@ Ten muž přišel dvakrát na naši meditaci do základní školy 86 a viděl m�
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:177-cs
+  :DATE-EVENT: 1988-02-18
   :END:
 
 
@@ -132,6 +137,7 @@ Poté jsem jí řekl, že jsem hrál také v Royal Albert Hall v Londýně a v
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:178-cs
+  :DATE-EVENT: 1988-03-21
   :END:
 
 
@@ -165,11 +171,13 @@ Když nakupuji, kolik toho s těmito lidmi napovídám!
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:179-cs
+  :DATE-EVENT: 1988-03-27
   :END:
 
 
 Dnes ráno jsem šel nakupovat do nákupního střediska. Databir mě tam zavezl a Vidhu byl vybraným spolucestujícím na zadním sedadle.
-V jednom obchodě jsem si prohlížel knihu zvanou Jak se stát občanem U.S.A. Má duše mi říkala, abych tím neztrácel čas, protože nechce, abych se stal občanem U.S.A. Ta kniha obsahovala tolik informací, které se člověk musí naučit, pokud se chce stát občanem U.S.A.: jaké je hlavní město státu, kolik členů je v senátu a v kongresu a další. Jak si lidé mohou pamatovat všechny tyto věci? 
+
+V jednom obchodě jsem si prohlížel knihu zvanou Jak se stát občanem U.S.A. Má duše mi říkala, abych tím neztrácel čas, protože nechce, abych se stal občanem U.S.A. Ta kniha obsahovala tolik informací, které se člověk musí naučit, pokud se chce stát občanem U.S.A.: jaké je hlavní město státu, kolik členů je v senátu a v kongresu a další. Jak si lidé mohou pamatovat všechny tyto věci.
 
 Jedna starší paní, kolem sedmdesáti let, se mě zeptala: „Odkud pocházíte?“
 
@@ -200,6 +208,7 @@ Byl jsem tím docela pobavený a jen jsem se na ni usmál. Neměl jsme to srdce 
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:180-cs
+  :DATE-EVENT: 1988-04-30
   :END:
 
 
@@ -231,6 +240,7 @@ Nakonec jsem získal svých 200 srdíčkových sušenek.
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:181-cs
+  :DATE-EVENT: 1988-05-28
   :END:
 
 
@@ -250,6 +260,7 @@ Poté jsem ji uviděl procházet se pouhých pět nebo šest metrů ode mě. Tro
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:182-cs
+  :DATE-EVENT: 1988-05-28
   :END:
 
 
@@ -271,10 +282,12 @@ Poté řekla: „Ó, tady je váš Taj Mahal“ a tašku mi dala.
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:183-cs
+  :DATE-EVENT: 1988-05-28
   :END:
 
 
-Koupil jsem si bílý kabát, který stál 165,08 dolarů. Prodavači za kasou jsem dal 166 dolarů. Zatímco jsem platil, přišel k prodavači mladý muž a začal si s ním povídat. Co za tlačítka to mačkají na té pokladně, Bůh ví! 
+Koupil jsem si bílý kabát, který stál 165,08 dolarů. Prodavači za kasou jsem dal 166 dolarů. Zatímco jsem platil, přišel k prodavači mladý muž a začal si s ním povídat. Co za tlačítka to mačkají na té pokladně, Bůh ví!
+ 
 Když mladík odešel, prodavač mi vrátil jeden dolar a nějaké drobné. Zeptal jsem se ho: „Proč jste mi dal ten dolar?“
 
 Odpověděl: „Proč ne? Tolik mi ukazuje počítač.“
@@ -301,6 +314,7 @@ Když jsem šel do auta za Vinaya, všiml jsem si, že mi vrátil jen 58 centů 
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:184-cs
+  :DATE-EVENT: 1988-05-28
   :END:
 
 
@@ -318,6 +332,7 @@ Vtom přišla jeho manželka a vynadala mu. „Co to děláš?“ řekla. A tak 
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:185-cs
+  :DATE-EVENT: 1988-05-28
   :END:
 
 
@@ -361,6 +376,7 @@ Někdy s vámi lidé zachází tak nemilosrdně, ale já se tím bavím. Když 
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:186-cs
+  :DATE-EVENT: 1988-05-28
   :END:
 
 
@@ -390,6 +406,7 @@ Jdu nakupovat a vrátím se s celou Mahábháratou příběhů!
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:187-cs
+  :DATE-EVENT: 1988-05-28
   :END:
 
 
@@ -421,6 +438,7 @@ Odpověděl jsem: „Ale toto je ve výprodeji.“
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:188-cs
+  :DATE-EVENT: 1988-05-28
   :END:
 
 
@@ -438,6 +456,7 @@ Někteří indičtí majitelé obchodů mi projevují takovou oddanost! V jedno
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:189-cs
+  :DATE-EVENT: 1988-05-28
   :END:
 
 
@@ -457,6 +476,7 @@ V tom knihkupectví jsem neviděl žádnou jinou knihu, kterou bych chtěl, ale
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:190-cs
+  :DATE-EVENT: 1988-06-05
   :END:
 
 
@@ -488,6 +508,7 @@ Svět je tak malý. Dříve bydlela v oblasti Flatbush. Já jsem tam také bydle
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:191-cs
+  :DATE-EVENT: 1988-06-13
   :END:
 
 
@@ -509,6 +530,7 @@ Má šestnáctiletého syna Nicka. Řekl: „Nicholas se na vaši fotku dívá k
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:192-cs
+  :DATE-EVENT: 1988-09-23
   :END:
 
 
@@ -532,6 +554,7 @@ Nastavil jsem si hodinky a viděl jsem, že to netrvalo ani 11 minut. Taková ja
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:193-cs
+  :DATE-EVENT: 1988-09-26
   :END:
 
 
@@ -573,6 +596,7 @@ Na to jsem řekl: „Nechci, abyste zemřel.“ Poté jsem se vytratil.
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:194-cs
+  :DATE-EVENT: 1988-09-26
   :END:
 
 
@@ -600,6 +624,7 @@ Když jsem tvrdil, že nemám peníze, nelhal jsem. Jen jsem smlouval po indick�
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:195-cs
+  :DATE-EVENT: 1988-09-26
   :END:
 
 
@@ -623,6 +648,7 @@ Tak jsem ji nekoupil. Řekl jsem si: „Proč bych měl kupovat tak hloupou věc
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:196-cs
+  :DATE-EVENT: 1988-09-26
   :END:
 
 
@@ -648,6 +674,7 @@ Musíte být Ind, abyste smlouvali!
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:197-cs
+  :DATE-EVENT: 1988-09-26
   :END:
 
 
@@ -665,6 +692,7 @@ Musel jsem tolik bojovat, když jsem se snažil nakoupit jo-ja. Jo-ja měly uvni
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:198-cs
+  :DATE-EVENT: 1988-09-26
   :END:
 
 
@@ -682,6 +710,7 @@ Nemyslím nejprve na člověka. Až poté, co uvidím nějakou věc, která se m
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:199-cs
+  :DATE-EVENT: 1988-10-08
   :END:
 
 
@@ -703,6 +732,7 @@ Tak jsem dovnitř nešel.
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:200-cs
+  :DATE-EVENT: 1988-10-13
   :END:
 
 
@@ -722,6 +752,7 @@ Nejprve on nevěřil nám, poté jsme my nevěřili jemu. Tak jsme šli ven děl
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:201-cs
+  :DATE-EVENT: 1988-12-18
   :END:
 
 
@@ -749,6 +780,7 @@ Já na to: „Ne, já jsem souhlasil s tím, že zaplatím 180“ a vrátil jse
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:202-cs
+  :DATE-EVENT: 1988-12-22
   :END:
 
 
@@ -770,6 +802,7 @@ Nakonec jsem si řekl: „Musím je koupit.“ Tak jsem jí dal 10 bahtů. Dívk
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:203-cs
+  :DATE-EVENT: 1988-12-28
   :END:
 
 
@@ -801,6 +834,7 @@ Tak jsem dostal slevu 5 dolarů, protože jsem uměl tamilsky.
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:204-cs
+  :DATE-EVENT: 1988-12-30
   :END:
 
 
@@ -836,6 +870,7 @@ Když jsem mu dával těch 10 dolarů, řekl jsem: „Je nejvyšší čas, abych
   :GENRE: story
   :KEYWORDS:
   :CITE-KEY: ILS:205-cs
+  :DATE-EVENT: 1989-01-04
   :END:
 
 

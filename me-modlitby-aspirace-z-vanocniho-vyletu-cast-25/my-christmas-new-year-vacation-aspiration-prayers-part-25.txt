@@ -40,6 +40,7 @@
   :GENRE: prayer
   :CITE-KEY: APR:2107-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -58,6 +59,7 @@ Božím vlastním Způsobem.
   :GENRE: prayer
   :CITE-KEY: APR:2108-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -77,6 +79,7 @@ Věčného Nyní.
   :GENRE: prayer
   :CITE-KEY: APR:2109-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -96,6 +99,7 @@ zcela jistě objeví.
   :GENRE: prayer
   :CITE-KEY: APR:2110-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -114,6 +118,7 @@ a Jeho Srdcem Odpuštění.
   :GENRE: prayer
   :CITE-KEY: APR:2111-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -133,6 +138,7 @@ v sebedávajícím životě.
   :GENRE: prayer
   :CITE-KEY: APR:2112-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -152,6 +158,7 @@ schopnost mysli.
   :GENRE: prayer
   :CITE-KEY: APR:2113-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -170,6 +177,7 @@ a bezpodmínečné Odpuštění.
   :GENRE: prayer
   :CITE-KEY: APR:2114-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -189,6 +197,7 @@ na svých křídlech aspirace.
   :GENRE: prayer
   :CITE-KEY: APR:2115-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -209,6 +218,7 @@ je zklamáním.
   :GENRE: prayer
   :CITE-KEY: APR:2116-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -226,6 +236,7 @@ je velmi vzácnou skutečností.
   :GENRE: prayer
   :CITE-KEY: APR:2117-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -244,6 +255,7 @@ našeho úsměvu.
   :GENRE: prayer
   :CITE-KEY: APR:2118-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -263,6 +275,7 @@ pro naplnění Božího Snu na zemi.
   :GENRE: prayer
   :CITE-KEY: APR:2119-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-13
   :END:
 
 
@@ -277,7 +290,7 @@ pouze o Bohu.
 #+END_VERSE
 
 
-* 14 December 2003 ...
+* 14. prosinec 2003 ...
 
   :PROPERTIES:
   :GENRE: note
@@ -298,6 +311,7 @@ Solo, Indonesia
   :GENRE: prayer
   :CITE-KEY: APR:2120-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -315,6 +329,7 @@ vedly můj vnější život.
   :GENRE: prayer
   :CITE-KEY: APR:2121-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -334,6 +349,7 @@ ohromně zlepšuje.
   :GENRE: prayer
   :CITE-KEY: APR:2122-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -353,6 +369,7 @@ s celým světem.
   :GENRE: prayer
   :CITE-KEY: APR:2123-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -372,6 +389,7 @@ a pohltí tě.
   :GENRE: prayer
   :CITE-KEY: APR:2124-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -391,6 +409,7 @@ tě volají.
   :GENRE: prayer
   :CITE-KEY: APR:2125-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -413,6 +432,7 @@ Jej milovat.
   :GENRE: prayer
   :CITE-KEY: APR:2126-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -431,6 +451,7 @@ vždy uvažuje odlišně.
   :GENRE: prayer
   :CITE-KEY: APR:2127-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -450,6 +471,7 @@ abychom uvažovali.
   :GENRE: prayer
   :CITE-KEY: APR:2128-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -469,6 +491,7 @@ kousek po kousku.
   :GENRE: prayer
   :CITE-KEY: APR:2129-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -489,6 +512,7 @@ nepředstavitelným pokrokem.
   :GENRE: prayer
   :CITE-KEY: APR:2130-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -508,6 +532,7 @@ roní slzy zármutku.
   :GENRE: prayer
   :CITE-KEY: APR:2131-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -527,6 +552,7 @@ v Jeho Nekonečném Oceánu Blaženosti.
   :GENRE: prayer
   :CITE-KEY: APR:2132-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -546,6 +572,7 @@ Svět se mě ptá:
   :GENRE: prayer
   :CITE-KEY: APR:2133-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-14
   :END:
 
 
@@ -568,6 +595,7 @@ než milovat.“
   :GENRE: note
   :CITE-KEY: APR:2134e3-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -583,6 +611,7 @@ Yogyakarta, Indonésie
   :GENRE: prayer
   :CITE-KEY: APR:2134-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -602,6 +631,7 @@ ode mě chce.
   :GENRE: prayer
   :CITE-KEY: APR:2135-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -620,6 +650,7 @@ má přitažlivou sílu.
   :GENRE: prayer
   :CITE-KEY: APR:2136-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -639,6 +670,7 @@ květům srdce mého života.
   :GENRE: prayer
   :CITE-KEY: APR:2137-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -659,6 +691,7 @@ nořit se dovnitř a letět vzhůru.
   :GENRE: prayer
   :CITE-KEY: APR:2138-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -678,6 +711,7 @@ své modlitby odevzdání Bohu.
   :GENRE: prayer
   :CITE-KEY: APR:2139-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -695,6 +729,7 @@ je nepopsatelná.
   :GENRE: prayer
   :CITE-KEY: APR:2140-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -715,6 +750,7 @@ těšit svého Pána.
   :GENRE: prayer
   :CITE-KEY: APR:2141-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -735,6 +771,7 @@ aby ti nabídla ponaučení od Boha.
   :GENRE: prayer
   :CITE-KEY: APR:2142-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -754,6 +791,7 @@ noci temnoty zmatené mysli.
   :GENRE: prayer
   :CITE-KEY: APR:2143-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -773,6 +811,7 @@ bezesně potřebujeme.
   :GENRE: prayer
   :CITE-KEY: APR:2144-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -792,6 +831,7 @@ svého ega.
   :GENRE: prayer
   :CITE-KEY: APR:2145-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -811,6 +851,7 @@ také jsem.
   :GENRE: prayer
   :CITE-KEY: APR:2146-s
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -830,6 +871,7 @@ než se staneš milovníkem Boha.
   :GENRE: prayer
   :CITE-KEY: APR:2147-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -848,6 +890,7 @@ Bohem Samotným.
   :GENRE: prayer
   :CITE-KEY: APR:2148-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -866,6 +909,7 @@ než věřit v Boha.
   :GENRE: prayer
   :CITE-KEY: APR:2149-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -884,6 +928,7 @@ než přemýšlet o Bohu.
   :GENRE: prayer
   :CITE-KEY: APR:2150-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -902,6 +947,7 @@ než se modlit k Bohu.
   :GENRE: prayer
   :CITE-KEY: APR:2151-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -920,6 +966,7 @@ než milovat Boha.
   :GENRE: prayer
   :CITE-KEY: APR:2152-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -932,13 +979,13 @@ než poslouchat Boha.
 #+END_VERSE
 
 
-* 47 Poslouchat Boha
-...
+* 47 Poslouchat Boha...
 
   :PROPERTIES:
   :GENRE: prayer
   :CITE-KEY: APR:2153-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -958,6 +1005,7 @@ bezesné jednoty s Bohem.
   :GENRE: prayer
   :CITE-KEY: APR:2154-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -977,6 +1025,7 @@ těšit a naplňovat.
   :GENRE: prayer
   :CITE-KEY: APR:2155-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -996,6 +1045,7 @@ na zemi.
   :GENRE: prayer
   :CITE-KEY: APR:2156-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -1015,6 +1065,7 @@ po celé délce a šířce světa.
   :GENRE: prayer
   :CITE-KEY: APR:2157-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-15
   :END:
 
 
@@ -1033,6 +1084,7 @@ Kosmickou Hru srovnávání.
   :GENRE: note
   :CITE-KEY: APR:2158e4-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1048,6 +1100,7 @@ Yogyakarta, Indonésie
   :GENRE: prayer
   :CITE-KEY: APR:2158-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1065,6 +1118,7 @@ jsem byl.
   :GENRE: prayer
   :CITE-KEY: APR:2159-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1082,6 +1136,7 @@ nyní jsem.
   :GENRE: prayer
   :CITE-KEY: APR:2160-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1099,6 +1154,7 @@ se stanu.
   :GENRE: prayer
   :CITE-KEY: APR:2161-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1116,6 +1172,7 @@ je mým Konečným Cílem.
   :GENRE: prayer
   :CITE-KEY: APR:2162-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1135,6 +1192,7 @@ mohu opravdu milovat Boha.
   :GENRE: prayer
   :CITE-KEY: APR:2163-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1154,6 +1212,7 @@ a zničí svůj cíl.
   :GENRE: prayer
   :CITE-KEY: APR:2164-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1172,6 +1231,7 @@ noci nevědomosti.
   :GENRE: prayer
   :CITE-KEY: APR:2165-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1190,6 +1250,7 @@ neužitečnou přehlídku věcí.
   :GENRE: prayer
   :CITE-KEY: APR:2166-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1208,6 +1269,7 @@ Projevení Boha.
   :GENRE: prayer
   :CITE-KEY: APR:2167-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1227,6 +1289,7 @@ se nemůže odvážit mě odvést pryč.
   :GENRE: prayer
   :CITE-KEY: APR:2168-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1245,6 +1308,7 @@ cesta blaženého pokroku.
   :GENRE: prayer
   :CITE-KEY: APR:2169-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1263,6 +1327,7 @@ zpívající o Bohu.
   :GENRE: prayer
   :CITE-KEY: APR:2170-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1282,6 +1347,7 @@ když jsem neposlušný.
   :GENRE: prayer
   :CITE-KEY: APR:2171-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1301,6 +1367,7 @@ ve svých vlastních výtvorech.
   :GENRE: prayer
   :CITE-KEY: APR:2172-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1320,6 +1387,7 @@ svého Milovaného Nejvyššího.
   :GENRE: prayer
   :CITE-KEY: APR:2173-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1338,6 +1406,7 @@ mého projevení Boha.
   :GENRE: prayer
   :CITE-KEY: APR:2174-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1356,6 +1425,7 @@ nasytit fyzický hlad.
   :GENRE: prayer
   :CITE-KEY: APR:2175-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1374,6 +1444,7 @@ nasytit duchovní hlad.
   :GENRE: prayer
   :CITE-KEY: APR:2176-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1393,6 +1464,7 @@ si tě nenajme.
   :GENRE: prayer
   :CITE-KEY: APR:2177-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 
@@ -1411,6 +1483,7 @@ z továrny na události.
   :GENRE: prayer
   :CITE-KEY: APR:2178-cs
   :KEYWORDS:
+  :DATE-EVENT: 2003-12-16
   :END:
 
 

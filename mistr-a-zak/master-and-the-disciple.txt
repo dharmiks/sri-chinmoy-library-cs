@@ -17,20 +17,6 @@
   :KEYWORDS:
   :END:
 
-* Úvod
-
-:PROPERTIES:
-  :GENRE:
-  :KEYWORDS:
-:CITE-KEY: MSDS:1-cs
-  :END:
-
-Kdo je to pravý duchovní Mistr a jakou moudrost v sobě ztělesňuje? Kdo jsou jeho žáci a jaká síla je nutí Mistra následovat? Duchovní Mistr Sri Chinmoy nám v této nevšední knize ukazuje, co vlastně spojuje duchovního Mistra a jeho žáka. 
-Pravý duchovní Mistr či Guru je ten, kdo dosáhl realizace Boha, neoddělitelné jednoty s Nejvyšším. Osvícený Mistr předává svou moudrost zřídkakdy slovy. Učí tichem svého pohledu, harmonií svých gest, soucitem svého úsměvu a nekonečností svého srdce. Jeho autorita pramení z lásky a míru.
-
-Základním nástrojem duchovního vedení je pro duchovního Mistra meditace. S její pomocí postupně vynáší do popředí vlastnosti, které žákovi umožňují dělat vnitřní pokrok a které působí proti negativním silám a jeho starým zvykům. Meditací začíná u žáka proces přeměny celé jeho bytosti. Začíná v sobě nacházet neochvějný vnitřní zdroj plný lásky, míru a naplnění, zdroj tak hluboký, že není vyveden z rovnováhy vlnami a bouřemi vnějšího světa. Tajemná cesta k neznámému zdroji odkrývá zázrak radosti a vděčnosti, které se pro pravého hledajícího stávají hnací silou jeho života. Všechny ostatní zážitky ztrácí ve srovnání s touto cestou k lásce, světlu a blaženosti svou důležitost.
-
-Díky jednotě se svým Guruem se žák učí, že každý z nás má v sobě Boha a že veškeré stvoření není nic než Boží Světlo. Vidí, že jeho úlohou je prostě patřit tomuto Světlu, projevovat jej a milovat jej a opatrovat v druhých. Se záplavou radosti objímá dar života. S vděčností nabízí svůj život Mistrově vizi. A Mistr mu s bezmezným soucitem dává svůj oceán radosti, lásky, míru a naplnění.
 
 
 * Část I. GURU
@@ -38,7 +24,7 @@ Díky jednotě se svým Guruem se žák učí, že každý z nás má v sobě Bo
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: MSDS:2e1-cs
+  :CITE-KEY: MSDS:1e1-cs
   :END:
 
 * 1. GURU
@@ -46,10 +32,11 @@ Díky jednotě se svým Guruem se žák učí, že každý z nás má v sobě Bo
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: MSDS:2-cs
+  :CITE-KEY: MSDS:1-cs
   :END:
 
 Guru vidí ve svém žákovi skutečnou podobu Boha, a proto se pro žáka naprosto obětuje. Žák ve svém Guruovi vidí a cítí jediné útočiště svých omezení, a proto svého Gurua naprosto miluje.
+
 Silou Gurua je jeho láska k žákovi. Silou žáka je jeho odevzdání Guruovi. 
 
 Guru je zdrojem dosažení žáka a zároveň nejvěrnějším služebníkem jeho lásky.
@@ -67,7 +54,7 @@ Dosáhnout realizace vlastní silou je jako přeplout oceán na voru. Avšak dos
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MSDS:3-cs
+  :CITE-KEY: MSDS:2-cs
   :END:
 
 #+BEGIN_VERSE
@@ -95,7 +82,7 @@ je tvůj skutečný učitel.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MSDS:4-cs
+  :CITE-KEY: MSDS:3-cs
   :END:
 
 #+BEGIN_VERSE
@@ -120,7 +107,7 @@ nebesky rozlehlé Modři.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: MSDS:5-cs
+  :CITE-KEY: MSDS:4-cs
   :END:
 
 Skutečným duchovním Mistrem je ten, kdo dosáhl realizace Boha. Každý člověk je sjednocen s Bohem, ale skutečný duchovní Mistr si s Bohem vytvořil vědomou jednotu. Může kdykoliv vstoupit do vyššího vědomí a přinést od Boha poselství pro ty žáky, kteří v něj mají víru. Mistr, je-li opravdový, představuje Boha na zemi pro hledající, kteří v něj věří a mají skutečnou aspiraci. Byl Bohem pověřen a zmocněn, aby jim pomáhal. Skutečným Učitelem, skutečným Guruem, je sám Bůh. Na zemi však bude často působit prostřednictvím určitého duchovního Mistra. Mistr hledajícího inspiruje a postupem času mu pomocí nekonečné Milosti Nejvyššího nabízí osvícení.
@@ -192,7 +179,7 @@ Jak může Guru naplnit Nejvyššího? Guru sehrává svou úlohu tím, že bere
   :PROPERTIES:
   :GENRE: aphorism
   :KEYWORDS:
-  :CITE-KEY: MSDS:6-cs
+  :CITE-KEY: MSDS:5-cs
   :END:
 
 
@@ -205,7 +192,7 @@ Guru není tělem. Guru je odhalením a projevením božské Síly na zemi.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MSDS:7-cs
+  :CITE-KEY: MSDS:6-cs
   :END:
 
 #+BEGIN_VERSE
@@ -221,7 +208,7 @@ avšak je to jistě ten největší horolezecký úkol.
   :PROPERTIES:
   :GENRE: aphorism
   :KEYWORDS:
-  :CITE-KEY: MSDS:8-cs
+  :CITE-KEY: MSDS:7-cs
   :END:
 
 Pomáhal ti někdo, když ses učil abecedu? Potřeboval jsi učitele, aby ti pomohl zvládnout tvůj hudební nástroj? Chodil jsi na přednášky, které ti umožnily získat akademický titul? Pokud jsi ke zvládnutí těchto věcí potřeboval pomocníka, nepotřebuješ snad také učitele, který tě dokáže dovést ke znalosti Božského, k moudrosti Nekonečného? Tím učitelem je tvůj Guru a nikdo jiný.
@@ -233,7 +220,7 @@ Pomáhal ti někdo, když ses učil abecedu? Potřeboval jsi učitele, aby ti po
   :PROPERTIES:
   :GENRE: aphorism
   :KEYWORDS:
-  :CITE-KEY: MSDS:9-cs
+  :CITE-KEY: MSDS:8-cs
   :END:
 
 Guru a žák se musí něžně, opravdově a dokonale zkoušet, než dojde k jejich vzájemnému přijetí. Jinak -- pokud se ve volbě zmýlí -- bude muset Guru tančit se selháním a žák se zničením.
@@ -245,7 +232,7 @@ Guru a žák se musí něžně, opravdově a dokonale zkoušet, než dojde k je
   :PROPERTIES:
   :GENRE: aphorism
   :KEYWORDS:
-  :CITE-KEY: MSDS:10-cs
+  :CITE-KEY: MSDS:9-cs
   :END:
 
 Co znamená, když Guru přijme žáka? Znamená to, že Guru bude ochotně žít ve světě zlatého obětování.
@@ -257,7 +244,7 @@ Co znamená, když Guru přijme žáka? Znamená to, že Guru bude ochotně ží
   :PROPERTIES:
   :GENRE: aphorism
   :KEYWORDS:
-  :CITE-KEY: MSDS:11-cs
+  :CITE-KEY: MSDS:10-cs
   :END:
 
 Nejvyšší zasvěcení je, 
@@ -274,7 +261,7 @@ a žák řekne Mistrovi:
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: MSDS:12e2-cs
+  :CITE-KEY: MSDS:11e1-cs
   :END:
 
 
@@ -283,7 +270,7 @@ a žák řekne Mistrovi:
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: MSDS:12-cs
+  :CITE-KEY: MSDS:11-cs
   :END:
 
 #+BEGIN_VERSE
@@ -356,7 +343,7 @@ Není na zemi hledající, který by zůstal bez učitele, když zoufale nějak�
   :PROPERTIES:
   :GENRE: aphorism
   :KEYWORDS:
-  :CITE-KEY: MSDS:13-cs
+  :CITE-KEY: MSDS:12-cs
   :END:
 
 Jednou věcí je znát učitele a druhou je znát jeho učení. Jeho učení ukazuje světu, co má, avšak to, co je, je jiným jménem pro Vizi Věčnosti.
@@ -367,7 +354,7 @@ Jednou věcí je znát učitele a druhou je znát jeho učení. Jeho učení uka
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MSDS:14-cs
+  :CITE-KEY: MSDS:13-cs
   :END:
 
 #+BEGIN_VERSE
@@ -387,7 +374,7 @@ potřebuje správného Boha.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MSDS:15-cs
+  :CITE-KEY: MSDS:14-cs
   :END:
 
 #+BEGIN_VERSE
@@ -406,7 +393,7 @@ toho skutečného učitele.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MSDS:16-cs
+  :CITE-KEY: MSDS:15-cs
   :END:
 
 
@@ -426,7 +413,7 @@ jsou falešní.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
-  :CITE-KEY: MSDS:17-cs
+  :CITE-KEY: MSDS:16-cs
   :END:
 
 #+BEGIN_VERSE
@@ -446,7 +433,7 @@ se svým Okem Soucitu Věčnosti.
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: MSDS:18e3-cs
+  :CITE-KEY: MSDS:17e1-cs
   :END:
 
 
@@ -455,7 +442,7 @@ se svým Okem Soucitu Věčnosti.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: MSDS:18-cs
+  :CITE-KEY: MSDS:17-cs
   :END:
 
 #+BEGIN_VERSE
@@ -509,9 +496,8 @@ Když svět pláče po vnitřním jídle, musíme ho nakrmit, jestliže to doká
 
   :PROPERTIES:
   :GENRE:poem:
-  :CITE_KEY:
   :KEYWORDS:
-  :CITE-KEY: MSDS:19-cs
+  :CITE-KEY: MSDS:18-cs
   :END:
 
 #+BEGIN_VERSE
@@ -527,9 +513,8 @@ do pozemských lidských událostí.
 
   :PROPERTIES:
   :GENRE:poem:
-  :CITE_KEY:
   :KEYWORDS:
-  :CITE-KEY: MSDS:20-cs
+  :CITE-KEY: MSDS:19-cs
   :END:
 
 #+BEGIN_VERSE
@@ -547,9 +532,8 @@ pro tvé osvícení.
 
   :PROPERTIES:
   :GENRE:aphorism:
-  :CITE_KEY:MSDS20:
   :KEYWORDS:
-  :CITE-KEY: MSDS:21-cs
+  :CITE-KEY: MSDS:20-cs
   :END:
 
 Skutečný Guru je nesobeckým, zasvěceným a věčným žebrákem, který od Boha žádá všemohoucnost a všudypřítomnost, aby nasytil své nevědomě hladové a vědomě aspirující žáky -- v dokonalém souladu s potřebami jejich duše.
@@ -560,9 +544,8 @@ Skutečný Guru je nesobeckým, zasvěceným a věčným žebrákem, který od B
 
   :PROPERTIES:
   :GENRE:aphorism:
-  :CITE_KEY:MSDS21:
   :KEYWORDS:
-  :CITE-KEY: MSDS:22-cs
+  :CITE-KEY: MSDS:21-cs
   :END:
 
 Guru je duchovním magnetem, 
@@ -575,9 +558,8 @@ k nekonečnému Světlu Nejvyššího.
 
   :PROPERTIES:
   :GENRE:aphorism:
-  :CITE_KEY:MSDS22:
   :KEYWORDS:
-  :CITE-KEY: MSDS:23-cs
+  :CITE-KEY: MSDS:22-cs
   :END:
 
 Jen ten je božským vůdcem, 
@@ -591,7 +573,7 @@ do srdce lidské duše.
   :PROPERTIES:
   :GENRE: poem:
   :KEYWORDS:
-  :CITE-KEY: MSDS:24-cs
+  :CITE-KEY: MSDS:23-cs
   :END:
 
 #+BEGIN_VERSE
@@ -607,7 +589,7 @@ Pravý duchovní Mistr musí nést na svých bedrech nesčetné odpovědnosti sv
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: MSDS:25e4-cs
+  :CITE-KEY: MSDS:24e1-cs
   :END:
 
 
@@ -616,7 +598,7 @@ Pravý duchovní Mistr musí nést na svých bedrech nesčetné odpovědnosti sv
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: MSDS:25-cs
+  :CITE-KEY: MSDS:24-cs
   :END:
 
 
@@ -657,9 +639,8 @@ Neupřímný žák si myslí, že si může Mistra získat vnějším lichocení
 
   :PROPERTIES:
   :GENRE: aphorism:
-  :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: MSDS:26-cs
+  :CITE-KEY: MSDS:25-cs
   :END:
 
 #+BEGIN_VERSE
@@ -678,9 +659,8 @@ Neotálej, pojď Jej se mnou navštívit.“
 
   :PROPERTIES:
   :GENRE: aphorism:
-  :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: MSDS:27-cs
+  :CITE-KEY: MSDS:26-cs
   :END:
 
 #+BEGIN_VERSE
@@ -698,9 +678,8 @@ a jehož srdce je odpuštěním.
 
   :PROPERTIES:
   :GENRE: aphorism:
-  :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: MSDS:28-cs
+  :CITE-KEY: MSDS:27-cs
   :END:
 
 #+BEGIN_VERSE
@@ -716,9 +695,8 @@ podle tvých vlastních podmínek.
 
   :PROPERTIES:
   :GENRE: aphorism:
-  :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: MSDS:29-cs
+  :CITE-KEY: MSDS:28-cs
   :END:
 
 #+BEGIN_VERSE
@@ -735,9 +713,8 @@ jako se svým vlastním.
 
   :PROPERTIES:
   :GENRE: aphorism:
-  :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: MSDS:30-cs
+  :CITE-KEY: MSDS:29-cs
   :END:
 
 #+BEGIN_VERSE
@@ -761,9 +738,8 @@ k duchovnímu pokroku.
 
   :PROPERTIES:
   :GENRE: aphorism:
-  :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: MSDS:31-cs
+  :CITE-KEY: MSDS:30-cs
   :END:
 
 Pro žáka neexistuje lepší způsob,
@@ -777,7 +753,7 @@ než poslouchat jeho rady.
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: MSDS:32e5-cs
+  :CITE-KEY: MSDS:31e1-cs
   :END:
 
 
@@ -786,7 +762,7 @@ než poslouchat jeho rady.
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
-  :CITE-KEY: MSDS:32-cs
+  :CITE-KEY: MSDS:31-cs
   :END:
 
 #+BEGIN_VERSE
@@ -875,9 +851,8 @@ Každý aspirant musí složit vnitřní slib, že bude poslouchat Vůli Nejvyš
 
   :PROPERTIES:
   :GENRE: aphorism:
-  :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: MSDS:33-cs
+  :CITE-KEY: MSDS:32-cs
   :END:
 
 
@@ -897,9 +872,8 @@ a Pláčem Věčnosti.
 
   :PROPERTIES:
   :GENRE: aphorism:
-  :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: MSDS:34-cs
+  :CITE-KEY: MSDS:33-cs
   :END:
 
 Realizace může být dosaženo 
@@ -916,9 +890,8 @@ Hleď, bohatou úrodou je realizace!
 
   :PROPERTIES:
   :GENRE: aphorism:
-  :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: MSDS:35-cs
+  :CITE-KEY: MSDS:34-cs
   :END:
 
 #+BEGIN_VERSE
@@ -934,9 +907,8 @@ a dosáhnout tvého předurčeného cíle.
 
   :PROPERTIES:
   :GENRE: aphorism:
-  :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: MSDS:36-cs
+  :CITE-KEY: MSDS:35-cs
   :END:
 
 #+BEGIN_VERSE
@@ -952,9 +924,8 @@ Věčnou Píseň Jednoty.
 
   :PROPERTIES:
   :GENRE: aphorism:
-  :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: MSDS:37-cs
+  :CITE-KEY: MSDS:36-cs
   :END:
 
 #+BEGIN_VERSE
@@ -973,9 +944,8 @@ Svět je jen musí přijmout.
 
   :PROPERTIES:
   :GENRE: aphorism:
-  :CITE_KEY: 
   :KEYWORDS:
-  :CITE-KEY: MSDS:38-cs
+  :CITE-KEY: MSDS:37-cs
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +962,20 @@ a průvodce tě čeká.
 * Příběhy a divadelní hry
 
 
+  :PROPERTIES:
+  :GENRE: section
+  :KEYWORDS:
+  :CITE-KEY: MSDS:38e1-cs
+  :END:
 
 * Tato rostlina je člověk, tamta rostlina je Bůh
 
 
+  :PROPERTIES:
+  :GENRE: story
+  :KEYWORDS:
+  :CITE-KEY: MSDS:38-cs
+  :END:
 
 Byl jednou jeden hledající. Mnoho let hledal Mistra, Gurua. Bohužel žádného nenašel. Navštívil mnoho duchovních skupin, ale učitelé, se kterými se setkal, mu nebyli po chuti. A tak stále hledal a hledal nějakého duchovního Mistra. Jednoho dne šel po ulici a spatřil duchovního Mistra s několika žáky. Seděli na krásném trávníku, někteří žáci právě zalévali.
 
@@ -1023,6 +1003,11 @@ Když se k tobě ale přiblížím, jsi okamžitě zneklidněn. Myslíš si, ž
 
 * Mistrova rada při výběru duchovní cesty
 
+  :PROPERTIES:
+  :GENRE: story
+  :KEYWORDS:
+  :CITE-KEY: MSDS:39-cs
+  :END:
 
 
 Byl jednou jeden duchovní Mistr, který chtěl každému svému duchovnímu dítěti věnovat zvláštní pozornost, zájem, požehnání a vedení, i když měl stovky a stovky žáků. Týdně pořádal mnoho setkání, někdy i dvě v jednom dni, tak aby každé mohlo zůstat malé a důvěrné bez ohledu na to, kolik nových hledajících vítal do své duchovní rodiny.
@@ -1070,7 +1055,14 @@ Možná si myslíš, že mysl je upřímně opatrná, když srdce prověřuje, o
 Hledající se uklonila a řekla: „Mistře, nepromarním ani vteřinu. Půjdu hluboko dovnitř a najdu svou cestu. Mistře, jsi naším pravým duchovním bratrem, jehož jediným zájmem je náš pokrok. Jsme hluboce dojati tvým bezvýhradným vedením. Uděláme, co jsi nám řekl.“ Čtyři hledající se Mistrovi vděčně uklonili a odešli domů.
 
 
+
 * Chci jen jednoho studenta: srdce
+
+  :PROPERTIES:
+  :GENRE: story
+  :KEYWORDS:
+  :CITE-KEY: MSDS:40-cs
+  :END:
 
 
 Byl jednou jeden duchovní Mistr, který měl stovky stoupenců a žáků. Tento Mistr míval často přednášky na různých místech: v kostelech, synagogách, chrámech, školách a univerzitách. Kamkoliv byl pozván a kdekoliv mu to žáci domluvili, tam přednášel. Přednášel pro děti i pro dospělé. Přednášel pro studenty na univerzitách i pro ženy v domácnosti. Někdy přednášel učencům a nanejvýš pokročilým hledajícím. Tak to šlo asi dvacet let.
@@ -1100,6 +1092,12 @@ Uši a oči sehrály svou úlohu. Ukázaly se být nebožskými studenty a já j
 
 
 * Lidské očekávání a božské naplnění
+
+  :PROPERTIES:
+  :GENRE: story
+  :KEYWORDS:
+  :CITE-KEY: MSDS:41-cs
+  :END:
 
 
 
@@ -1141,6 +1139,12 @@ Očekáváme-li od Boha božským způsobem, vynoří se uvnitř nás Skutečnos
 
 * Kdo je důležitější -- Guru, nebo Bůh?
 
+  :PROPERTIES:
+  :GENRE: story
+  :KEYWORDS:
+  :CITE-KEY: MSDS:42-cs
+  :END:
+
 
 
 Duchovní Mistr byl jednoho dne svědkem nepěkné hádky mezi dvěma svými žáky. Tito dva žáci se spolu téměř prali. Mistr k nim tedy přistoupil a řekl: „Co se to děje? Proč se hádáte a bojujete?“
@@ -1150,17 +1154,27 @@ Oba vykřikli: „Mistře, Mistře, pomoz nám! Potřebujeme tvé vedení. Potř
 Mistr řekl: „Budete-li mluvit oba najednou, nebudu vám rozumět. Tak mi jeden z vás řekněte, co vás doopravdy trápí.“
 
 První odpověděl: „Mistře, jablkem sváru jsi ty a nikdo jiný.“
+
 „Prosím?“ zeptal se Mistr.
+
 Žák pokračoval: „On říká, že Mistr, Guru, je důležitější než Bůh. Já říkám: nemožné, Bůh je důležitější. On říká, že Guru je důležitější, protože ukazuje cestu, dláždí cestu a bere žáka k Bohu. Říká také, že i když se Bůh stará o všechny, i o ty, co spí a neaspirují, chce-li člověk od Boha okamžitý zájem a požehnání, může je dostat prostřednictvím Gurua. Proto je Guru důležitější.
+
 Já ale říkám ne, je to Bůh, kdo dal Guruovi takovou lásku a soucit; je to Bůh, kdo z Gurua udělal nástroj, aby pomáhal lidstvu. A tak je pro mě Bůh důležitější.
+
 On říká, že existuje Cíl, pokud ho k Cíli ale někdo nedovede -- tím někým je jeho Guru -- Bůh pro něj zůstane vždy někde daleko. Říká: ,Cíl může existovat, ale kdo mě k Němu vede? Nemohu jít sám, neznám cestu. Guru je tedy důležitější, protože Cíl ke mně nepřijde sám o sobě.‘
+
 Já říkám ne, Cíl ke mně nemusí přijít, ale Cílem je Bůh. Pokud tě Guru dovede k Cíli, Bohu, a Bůh potom o tebe nestojí, nač je poslíček dobrý? Guru může někoho přivést k Cíli. Když ale Cíl o toho člověka nestojí, cesta je pochopitelně zbytečná. Lidská bytost může někoho dovést k Mistrovi, není-li ale Mistr spokojen s tím, koho dovedl, tehdy je jeho případ beznadějný. Nejdůležitější není to, kdo žáka přivedl, ale koho žák těší. Je-li Bůh někým potěšen, je to víc než dost.
+
 On říká, že když Guru přijme někoho za svého nejdražšího žáka, bere na svá bedra zákon karmy. Jestliže otec ví, že jeho syn udělal něco špatného, a chce ho zachránit, vezme trest na sebe. To je Guru. Ale Bůh je jako Univerzální Otec. Řídí se svým Kosmickým Zákonem. Uděláme-li něco špatného, Bůh vyvodí důsledky -- budeme potrestáni. On má pocit, že Guru je důležitější, neboť bere na svá bedra trest, který si žák zaslouží, zatímco Bůh se vždy řídí svým Kosmickým Zákonem.
+
 Já ale říkám ne, Bůh nás netrestá; Bůh nám jen dává zkušenost. Kdo trestá koho? Bůh má naším prostřednictvím svou vlastní zkušenost. Takže nejsme potrestáni, ale spíše se naším prostřednictvím Bůh těší, či trpí.
+
 Ba co víc, Bůh existoval dřív, než Mistr vstoupil na pole projevení, a bude dál Bohem dlouho poté, co Guru z pole projevení odejde. Guru přišel od Boha a vrátí se k Bohu, svému Zdroji. Bůh je však nekonečný a věčný. Nikdy nepřestane existovat. Bůh je Vším; Guru je dočasným ztělesněním.
+
 Guru, jsem ti velmi oddaný. I když on říká, že ty jsi důležitější než Bůh, a já říkám, že Bůh je důležitější, mám v tebe nesmírnou víru. Objasnil bys nám, prosím, tuto záležitost?“
 
 Guru řekl: „Podívej, pokud si myslíš, že Guru je tělo, pak Guru není vůbec důležitý. Jestliže si myslíš, že Guru je duše, pak jsou Guru i Bůh stejně důležití, jsou jedním a tímtéž. Cítíš-li ale, že Guru je Nekonečným Já, Transcendentálním Já, pak musíš cítit, že to není ani Guruovo tělo, ani Guruova duše, ale Nejvyšší v něm, kdo je tímto Transcendentálním Já. Nejvyšší je Guruem, Guruem každého. Chceš-li oddělovat fyzické, duši a Transcendentální Já, chceš-li je rozdělovat na tři různé části, pak Boha nikdy nerealizuješ, nikdy nedokážeš realizovat nejvyšší Pravdu. Abys realizoval nejvyšší Pravdu, měl bys sloužit fyzickému aspektu Mistra, milovat duši Mistra a uctívat Transcendentální Já Mistra. Nejdůležitější je vidět ve fyzickém nesmírné světlo Mistra, v duši vědomí neoddělitelné jednoty a v Já věčné osvobození. Jen tehdy se mohou Mistr a Bůh stát jedním.
+
 Bůh a Guru jsou ve Věčné Hře, Božském Dramatu, stejně důležití.“
 
 
@@ -1168,6 +1182,12 @@ Bůh a Guru jsou ve Věčné Hře, Božském Dramatu, stejně důležití.“
 
 
 * Každý se musí řídit svou přirozeností
+
+  :PROPERTIES:
+  :GENRE: play
+  :KEYWORDS:
+  :CITE-KEY: MSDS:43-cs
+  :END:
 
 
 (Svatý muž se koupe v řece. Přihlížející sedí nečinně na břehu a pozoruje ho. Svatý muž před sebou uvidí štíra. Je mu ubohého stvoření líto, a tak ho vezme a velmi pomalu, velmi jemně ho položí na zem. Když ho přenáší, štír ho bolestivě štípne. Svatý muž začne plakat bolestí.)
@@ -1240,6 +1260,7 @@ PRVNÍ ŽÁK: Říkal jsem ti to, říkal jsem ti to, říkal jsem ti to!
 DRUHÝ ŽÁK: Co jsi mi říkal? 
 
 PRVNÍ ŽÁK: Říkal jsem ti, že náš Mistr nemá nic. Nic! Nemá žádnou duchovní sílu. Nemá žádnou okultní sílu. Dokáže jen mluvit. Mluví o Transcendentální Skutečnosti a Univerzálním Vědomí a o všem, co může dělat se svou okultní silou. Všechno jsou to ale lži. On umí mluvit a my umíme poslouchat. Nemá ale nic, nic. Podívej, už tři měsíce trpí revmatismem. Kdyby měl aspoň špetku okultní síly, dokázal by se vyléčit.
+
 DRUHÝ ŽÁK: Mé srdce mi říká, že má schopnost se vyléčit, ale Bůh ho žádá, aby měl tuto zkušenost.
 
 PRVNÍ ŽÁK: Říká, že na sebe bere naši karmu, ale my jsme nic neprovedli. Neudělal jsem nic špatného. Ani ty a ostatní žáci jste neudělali nic špatného. Ve skutečnosti obviňuje nás, když on sám udělá něco špatného. Kdo ví, co špatného provedl ve vnitřním světě? Proto je potrestán. A navenek obviňuje nás.
@@ -1273,6 +1294,7 @@ PRVNÍ ŽÁK: Mistře, tak dlouho jsem byl nevěřícím, nelidským stvořením
 DRUHÝ ŽÁK: Mistře, dlouho jsem byl tvým oddaným, věrným žákem. Dnes jsi mi prozradil tajemství svého utrpení. Ode dneška se považuji za tvoji důležitou, vědomou část. Považuji se za tvé ruce. Mistře, tvůj soucit je jediným spasením mého života. 
 
 PRVNÍ ŽÁK: Mistře, tvé odpuštění je jediným spasením mého života.
+
 MISTR (k prvnímu žákovi): Tím, že jsi rozpoznal svou hloupost, svou nevědomost, jsi vynesl na povrch svou božskost. (Ke druhému žákovi) Tím, že jsi mě rozpoznal, mou duchovní Pravdu, jsi na zemi projevil Boží Božskost. Projevil jsi na zemi Boží Vůli.
 
 
@@ -1282,11 +1304,17 @@ MISTR (k prvnímu žákovi): Tím, že jsi rozpoznal svou hloupost, svou nevědo
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: MSDS:39e6-cs
+  :CITE-KEY: MSDS:44e1-cs
   :END:
 
 
 * Naše cesta
+
+  :PROPERTIES:
+  :GENRE: 
+  :KEYWORDS:
+  :CITE-KEY: MSDS:44-cs
+  :END:
 
 
 /V následující části Sri Chinmoy popisuje svou vlastní duchovní cestu./

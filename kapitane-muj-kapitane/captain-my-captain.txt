@@ -19,12 +19,13 @@
 
 
 
-* Dychtivost
+* Dychtivost[fn:: CMC 1. 14. července 1987]
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: CMC:1-cs
+  :DATE-EVENT: 1987-07-14
   :END:
 
 
@@ -61,13 +62,14 @@ něžnou láskou Nesmrtelnosti Uspokojení.“
 
 
 
-* Jsem připraven
+* Jsem připraven[fn:: CMC 2. 15. července 1987]
 
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: CMC:2-cs
+  :DATE-EVENT: 1987-07-15
   :END:
 
 
@@ -117,12 +119,13 @@ snílky přeměny země Věčnosti.“
 
 
 
-* Jestliže pro tebe nejsem na prvním místě 
+* Jestliže pro tebe nejsem na prvním místě[fn:: CMC 3. 16. července 1987] 
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: CMC:3-cs
+  :DATE-EVENT: 1987-07-16
   :END:
 
 
@@ -185,12 +188,13 @@ Tvému Oku Soucitu se klaním.
 
 
 
-* Tajemství, jak Tě učinit šťastným
+* Tajemství, jak Tě učinit šťastným[fn:: CMC 4. 17. července 1987]
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: CMC:4-cs
+  :DATE-EVENT: 1987-07-17
   :END:
 
 
@@ -250,12 +254,13 @@ se svou Blažeností Uspokojení Nesmrtelnosti.“
 
 
 
-* Kolikrát denně?
+* Kolikrát denně?[fn:: CMC 5. 18. července 1987]
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: CMC:5-cs
+  :DATE-EVENT: 1987-07-18
   :END:
 
 
@@ -344,12 +349,13 @@ a tvé srdce je čistotou vděčnosti.“
 
 
 
-* Když se mi přiblížíš o jeden krok
+* Když se mi přiblížíš o jeden krok[fn:: CMC 6. 5. srpna 1987]
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: CMC:6-cs
+  :DATE-EVENT: 1987-08-05
   :END:
 
 
@@ -386,12 +392,13 @@ Plodnou Jednotu Jednoduchosti.
 
 
 
-* Jsi mým jediným Přítelem
+* Jsi mým jediným Přítelem[fn:: CMC 7. 8. srpna 1987]
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: CMC:7-cs
+  :DATE-EVENT: 1987-08-08
   :END:
 
 
@@ -424,12 +431,13 @@ na bezdeché lásce jednoty tvého srdce.“
 
 
 
-* Musím se všeho vzdát?
+* Musím se všeho vzdát?[fn:: CMC 8. 8. srpna 1987]
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: CMC:8-cs
+  :DATE-EVENT: 1987-08-08
   :END:
 
 
@@ -460,12 +468,13 @@ Nektarové Blaženosti Mé Nekonečnosti.
 
 
 
-* Jak daleko jsem od realizace?
+* Jak daleko jsem od realizace?[fn:: CMC 9. 9. srpna 1987]
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: CMC:9-cs
+  :DATE-EVENT: 1987-08-09
   :END:
 
 
@@ -534,12 +543,13 @@ stal ses svou nejvyšší realizací.“
 
 
 
-* Potom mne potěšíš
+* Potom mne potěšíš[fn:: CMC 10. 10. srpna 1987]
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: CMC:10-cs
+  :DATE-EVENT: 1987-08-10
   :END:
 
 
@@ -564,12 +574,13 @@ než si dovedeš představit.“
 
 
 
-* Buď statečný uvnitř! Buď statečný navenek!
+* Buď statečný uvnitř! Buď statečný navenek![fn:: CMC 11. 27. srpna 1987]
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: CMC:11-cs
+  :DATE-EVENT: 1987-08-27
   :END:
 
 
@@ -647,50 +658,6 @@ Mého Nesmrtelného Příbytku Srdce.“
 #+END_VERSE
 
 
-* Notes
-
-Dychtivost \\
-/14. července 1987/
-
-
-Jsem připraven \\
-/15. července 1987/
-
-
-Jestliže pro tebe nejsem na prvním místě \\
-/16. července 1987/
-
-
-Tajemství, jak Tě učinit šťastným \\
-/17. července 1987/
-
-
-Kolikrát denně? \\
-/18. července 1987/
-
-
-Když se mi přiblížíš o jeden krok\\
-/5. srpna 1987/
-
-
-Jsi mým jediným Přítelem \\
-/8. srpna 1987/
-
-
-Musím se všeho vzdát?\\
-/8. srpna 1987/
-
-
-Jak daleko jsem od realizace?\\
-/9. srpna 1987/
-
-
-Potom mne potěšíš\\
-/10. srpna 1987/
-
-
-Buď statečný uvnitř! Buď statečný navenek!\\
-/27. srpna 1987/
 
 
 

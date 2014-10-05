@@ -41,6 +41,7 @@
   :GENRE: prayer
   :CITE-KEY: APR:2868-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -59,6 +60,7 @@ je náš tichý přítel.
   :GENRE: prayer
   :CITE-KEY: APR:2869-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -77,6 +79,7 @@ je nekonečný proud.
   :GENRE: prayer
   :CITE-KEY: APR:2870-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -95,6 +98,7 @@ daleko přesahuje všechny hranice.
   :GENRE: prayer
   :CITE-KEY: APR:2871-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -112,6 +116,7 @@ bere dovolenou.
   :GENRE: prayer
   :CITE-KEY: APR:2872-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -129,6 +134,7 @@ je neobyčejně zničující.
   :GENRE: prayer
   :CITE-KEY: APR:2873-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -146,6 +152,7 @@ vždy uspějí.
   :GENRE: prayer
   :CITE-KEY: APR:2874-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -164,6 +171,7 @@ a zároveň vnější krásou.
   :GENRE: prayer
   :CITE-KEY: APR:2875-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -183,6 +191,7 @@ v Boží Soucit.
   :GENRE: prayer
   :CITE-KEY: APR:2876-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -201,6 +210,7 @@ a napořád.
   :GENRE: prayer
   :CITE-KEY: APR:2877-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 
@@ -221,6 +231,7 @@ k Božím Nohám.
   :GENRE: prayer
   :CITE-KEY: APR:2878-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 
@@ -240,6 +251,7 @@ náš příchod k Bohu.
   :GENRE: prayer
   :CITE-KEY: APR:2879-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -258,6 +270,7 @@ je pro všechny.
   :GENRE: prayer
   :CITE-KEY: APR:2880-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -276,6 +289,7 @@ nanejvýš pozoruhodným začátkem.
   :GENRE: prayer
   :CITE-KEY: APR:2881-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -294,6 +308,7 @@ snížila.
   :GENRE: prayer
   :CITE-KEY: APR:2882-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -311,6 +326,7 @@ lásky každého.
   :GENRE: note
   :CITE-KEY: APR-2883e2-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-22
   :END:
 
 
@@ -327,6 +343,7 @@ lásky každého.
   :GENRE: prayer
   :CITE-KEY: APR:2883-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-22
   :END:
 
 #+BEGIN_VERSE
@@ -346,6 +363,7 @@ odvážná pouť.
   :GENRE: prayer
   :CITE-KEY: APR:2884-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-22
   :END:
 
 #+BEGIN_VERSE
@@ -364,6 +382,7 @@ panuje velká nejistota.
   :GENRE: prayer
   :CITE-KEY: APR:2885-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-22
   :END:
 
 #+BEGIN_VERSE
@@ -382,6 +401,7 @@ zvon mého vítězství.
   :GENRE: prayer
   :CITE-KEY: APR:2886-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-22
   :END:
 
 #+BEGIN_VERSE
@@ -403,6 +423,7 @@ svého Pána Nejvyššího.
   :GENRE: prayer
   :CITE-KEY: APR:2887-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-22
   :END:
 
 #+BEGIN_VERSE
@@ -422,6 +443,7 @@ a uvnitř hlubin našeho srdce.
   :GENRE: note
   :CITE-KEY: APR-2888e3-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 /23. prosince 2004/
@@ -436,6 +458,7 @@ a uvnitř hlubin našeho srdce.
   :GENRE: prayer
   :CITE-KEY: APR:2888-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -454,6 +477,7 @@ mé dítě aspirace.“
   :GENRE: prayer
   :CITE-KEY: APR:2889-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -472,6 +496,7 @@ Dveře Božího Srdce.
   :GENRE: prayer
   :CITE-KEY: APR:2890-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -491,6 +516,7 @@ Božím Stvořením.
   :GENRE: prayer
   :CITE-KEY: APR:2891-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -508,6 +534,7 @@ opatruji.
   :GENRE: prayer
   :CITE-KEY: APR:2892-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -526,6 +553,7 @@ zapomínám.
   :GENRE: prayer
   :CITE-KEY: APR:2893-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -544,6 +572,7 @@ jakým nás pronásleduje neštěstí?
   :GENRE: prayer
   :CITE-KEY: APR:2894-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -562,6 +591,7 @@ skutečnost.
   :GENRE: prayer
   :CITE-KEY: APR:2895-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -581,6 +611,7 @@ všechny své Sny o přeměně světa.
   :GENRE: prayer
   :CITE-KEY: APR:2896-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -598,6 +629,7 @@ Jsem hrdý
   :GENRE: prayer
   :CITE-KEY: APR:2897-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -616,6 +648,7 @@ je nenapravitelné.
   :GENRE: prayer
   :CITE-KEY: APR:2898-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -634,6 +667,7 @@ písní mého života.
   :GENRE: prayer
   :CITE-KEY: APR:2899-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -652,6 +686,7 @@ slunečním svitem mého srdce.
   :GENRE: prayer
   :CITE-KEY: APR:2900-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -670,6 +705,7 @@ vězení nevědomosti.
   :GENRE: prayer
   :CITE-KEY: APR:2901-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -688,6 +724,7 @@ květinou krásy mé duše.
   :GENRE: prayer
   :CITE-KEY: APR:2902-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -705,6 +742,7 @@ Bůh pláče.
   :GENRE: prayer
   :CITE-KEY: APR:2903-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -724,6 +762,7 @@ bez války.
   :GENRE: prayer
   :CITE-KEY: APR:2904-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 
@@ -742,6 +781,7 @@ jak dlouho?
   :GENRE: prayer
   :CITE-KEY: APR:2905-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 
@@ -761,6 +801,7 @@ lákadla světa.
   :GENRE: prayer
   :CITE-KEY: APR:2906-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -779,6 +820,7 @@ pozornost světa.
   :GENRE: prayer
   :CITE-KEY: APR:2907-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -797,6 +839,7 @@ Zájmu Boha.
   :GENRE: prayer
   :CITE-KEY: APR:2908-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -814,6 +857,7 @@ odhodlaném naplnění projevení Boha.
   :GENRE: prayer
   :CITE-KEY: APR:2909-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -831,6 +875,7 @@ vysoko, výše, nejvýše.
   :GENRE: prayer
   :CITE-KEY: APR:2910-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -849,6 +894,7 @@ tady, tam a všude.
   :GENRE: prayer
   :CITE-KEY: APR:2911-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -867,6 +913,7 @@ hledajícího.
   :GENRE: prayer
   :CITE-KEY: APR:2912-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -885,6 +932,7 @@ okamžité pohřbení.
   :GENRE: prayer
   :CITE-KEY: APR:2913-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -903,6 +951,7 @@ Jen buď tentokrát opatrný!
   :GENRE: prayer
   :CITE-KEY: APR:2914-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -921,6 +970,7 @@ své duše.
   :GENRE: prayer
   :CITE-KEY: APR:2915-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -940,6 +990,7 @@ svého Pána Nejvyššího!
   :GENRE: prayer
   :CITE-KEY: APR:2916-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -958,6 +1009,7 @@ a služebníkem Boha.
   :GENRE: prayer
   :CITE-KEY: APR:2917-cs
   :KEYWORDS:
+  :DATE-EVENT: 2004-12-23
   :END:
 
 #+BEGIN_VERSE

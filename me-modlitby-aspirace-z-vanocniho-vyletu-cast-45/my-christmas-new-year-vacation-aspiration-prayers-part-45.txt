@@ -42,6 +42,7 @@
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3591-cs
+  :DATE-EVENT: 2005-12-30
   :END:
 
 
@@ -61,6 +62,7 @@ mému Pánu Nejvyššímu.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3592-cs
+  :DATE-EVENT: 2005-12-30
   :END:
 
 
@@ -79,6 +81,7 @@ kdo naplňují projevení Boha.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3593-cs
+  :DATE-EVENT: 2005-12-30
   :END:
 
 
@@ -98,6 +101,7 @@ navenek.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3594-cs
+  :DATE-EVENT: 2005-12-30
   :END:
 
 
@@ -116,6 +120,7 @@ přeměnitelem života.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3595-cs
+  :DATE-EVENT: 2005-12-30
   :END:
 
 
@@ -135,6 +140,7 @@ stále více.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3596-cs
+  :DATE-EVENT: 2005-12-30
   :END:
 
 
@@ -154,6 +160,7 @@ Matka Země.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3597-cs
+  :DATE-EVENT: 2005-12-30
   :END:
 
 
@@ -173,6 +180,7 @@ mé vnitřní slunce.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3598-cs
+  :DATE-EVENT: 2005-12-30
   :END:
 
 
@@ -192,6 +200,7 @@ odhodlání mé mysli.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3599-cs
+  :DATE-EVENT: 2005-12-30
   :END:
 
 
@@ -211,6 +220,7 @@ můj život odevzdaný Bohu.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3600-cs
+  :DATE-EVENT: 2005-12-30
   :END:
 
 
@@ -230,6 +240,7 @@ nové semínko přeměny.
   :GENRE: note
   :KEYWORDS:
   :CITE-KEY: APR:3601e2-cs
+  :DATE-EVENT: 2005-12-31
   :END:
 
 
@@ -246,6 +257,7 @@ Kuantan, Malaysia
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3601-cs
+  :DATE-EVENT: 2005-12-31
   :END:
 
 
@@ -265,6 +277,7 @@ ale mysl není spokojena.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3602-cs
+  :DATE-EVENT: 2005-12-31
   :END:
 
 
@@ -283,6 +296,7 @@ nesmírnou radost.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3603-cs
+  :DATE-EVENT: 2005-12-31
   :END:
 
 
@@ -302,6 +316,7 @@ nebudu mít nic společného!
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3604-cs
+  :DATE-EVENT: 2005-12-31
   :END:
 
 
@@ -321,6 +336,7 @@ co máme.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3605-cs
+  :DATE-EVENT: 2005-12-31
   :END:
 
 
@@ -342,6 +358,7 @@ je pouze mocný.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3606-cs
+  :DATE-EVENT: 2005-12-31
   :END:
 
 
@@ -362,6 +379,7 @@ Je obejmout.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3607-cs
+  :DATE-EVENT: 2005-12-31
   :END:
 
 
@@ -379,6 +397,7 @@ jsou mí praví přátelé.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3608-cs
+  :DATE-EVENT: 2005-12-31
   :END:
 
 
@@ -398,6 +417,7 @@ neúplná.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3609-cs
+  :DATE-EVENT: 2005-12-31
   :END:
 
 
@@ -416,6 +436,7 @@ i ty, kteří oddaně slouží.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3610-cs
+  :DATE-EVENT: 2005-12-31
   :END:
 
 
@@ -434,6 +455,7 @@ ale nemiluje je.
   :GENRE: note
   :KEYWORDS:
   :CITE-KEY: APR:3611e3-cs
+  :DATE-EVENT: 2006-01-01
   :END:
 
 
@@ -449,6 +471,7 @@ Kuantan, Malaysia
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3611-cs
+  :DATE-EVENT: 2006-01-01
   :END:
 
 
@@ -467,6 +490,7 @@ se okamžitě stává Nekonečným.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3612-cs
+  :DATE-EVENT: 2006-01-01
   :END:
 
 
@@ -485,6 +509,7 @@ se okamžitě stává konečným.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3613-cs
+  :DATE-EVENT: 2006-01-01
   :END:
 
 
@@ -504,6 +529,7 @@ svého Pána Nejvyššího.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3614-cs
+  :DATE-EVENT: 2006-01-01
   :END:
 
 
@@ -523,6 +549,7 @@ v každém okamžiku.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3615-cs
+  :DATE-EVENT: 2006-01-01
   :END:
 
 
@@ -541,6 +568,7 @@ a zvěčni můj vnitřní hlas.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3616-cs
+  :DATE-EVENT: 2006-01-01
   :END:
 
 
@@ -561,6 +589,7 @@ aby si Mě tvá mysl uvědomila.“
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3617-cs
+  :DATE-EVENT: 2006-01-01
   :END:
 
 
@@ -579,6 +608,7 @@ na svůj zvon srdce vděčnosti Bohu.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3618-cs
+  :DATE-EVENT: 2006-01-01
   :END:
 
 
@@ -598,6 +628,7 @@ do Nebe.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3619-cs
+  :DATE-EVENT: 2006-01-01
   :END:
 
 
@@ -616,6 +647,7 @@ nynější zarážející skutečností.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3620-cs
+  :DATE-EVENT: 2006-01-01
   :END:
 
 
@@ -635,6 +667,7 @@ nejsladší hlas.
   :GENRE: note
   :KEYWORDS:
   :CITE-KEY: APR:3621e4-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -650,6 +683,7 @@ Kuantan, Malaysia
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3621-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -674,6 +708,7 @@ v Rajskou Zahradu.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3622-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -692,6 +727,7 @@ v blátě a hlíně
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3623-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -711,6 +747,7 @@ do Paláce Božího Srdce.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3624-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -730,6 +767,7 @@ kdy se daří
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3625-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -747,6 +785,7 @@ se životem světce.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3626-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -765,6 +804,7 @@ mého vnitřního pokroku.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3627-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -783,6 +823,7 @@ před nocí nevědomosti.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3628-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -801,6 +842,7 @@ osvícením noci nevědomosti.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3629-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -820,6 +862,7 @@ dychtivě čeká.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3630-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -840,6 +883,7 @@ s vírou.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3631-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -860,6 +904,7 @@ letící do Nebe.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3632-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -877,6 +922,7 @@ mysl cestuje.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3633-cs
+  :DATE-EVENT: 2006-01-02
   :END:
 
 
@@ -894,6 +940,7 @@ srdce létá.
   :GENRE: note
   :KEYWORDS:
   :CITE-KEY: APR:3634e5-cs
+  :DATE-EVENT: 2006-01-03
   :END:
 
 3. ledna 2006
@@ -908,6 +955,7 @@ Kuantan, Malaysia
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3634-cs
+  :DATE-EVENT: 2006-01-03
   :END:
 
 
@@ -927,6 +975,7 @@ nerozlučnými přáteli.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3635-cs
+  :DATE-EVENT: 2006-01-03
   :END:
 
 
@@ -945,6 +994,7 @@ ale nikdy na něj nezapomene.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3636-cs
+  :DATE-EVENT: 2006-01-03
   :END:
 
 
@@ -963,6 +1013,7 @@ o dovolenou.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3637-cs
+  :DATE-EVENT: 2006-01-03
   :END:
 
 
@@ -981,6 +1032,7 @@ nechopí příležitosti,
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3638-cs
+  :DATE-EVENT: 2006-01-03
   :END:
 
 
@@ -1001,6 +1053,7 @@ zaplaví mé srdce.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3639-cs
+  :DATE-EVENT: 2006-01-03
   :END:
 
 
@@ -1021,6 +1074,7 @@ Božím vlastním Způsobem.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3640-cs
+  :DATE-EVENT: 2006-01-03
   :END:
 
 
@@ -1039,6 +1093,7 @@ zdobí zahradu mého srdce.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3641-cs
+  :DATE-EVENT: 2006-01-03
   :END:
 
 
@@ -1057,6 +1112,7 @@ dokud nevydechneme naposled.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3642-cs
+  :DATE-EVENT: 2006-01-03
   :END:
 
 
@@ -1076,6 +1132,7 @@ v životě hledajícího.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3643-cs
+  :DATE-EVENT: 2006-01-03
   :END:
 
 
@@ -1098,6 +1155,7 @@ nehledě na to, co děláme?
   :GENRE: note
   :KEYWORDS:
   :CITE-KEY: APR:3644e6-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1113,6 +1171,7 @@ Kijal, Malaysia
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3644-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1132,6 +1191,7 @@ nanejvýš dokonalými nástroji.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3645-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1152,6 +1212,7 @@ a s největším požehnáním.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3646-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1171,6 +1232,7 @@ tento způsob objevit.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3647-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1189,6 +1251,7 @@ mého srdce.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3648-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1207,6 +1270,7 @@ Tancem Extáze.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3649-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1226,6 +1290,7 @@ na vnější svět.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3650-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1245,6 +1310,7 @@ planetě Zemi.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3651-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1263,6 +1329,7 @@ potřebuji.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3652-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1284,6 +1351,7 @@ nepředstavitelná.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3653-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1302,6 +1370,7 @@ zpívají v dokonalém souzvuku.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3654-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1321,6 +1390,7 @@ bez zastávek.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3655-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1339,6 +1409,7 @@ na své dobré mínění.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3656-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1358,6 +1429,7 @@ k Nohám Boha.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3657-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 
@@ -1378,6 +1450,7 @@ Soucitem a Zájmem Nebe.
   :GENRE: prayer
   :KEYWORDS:
   :CITE-KEY: APR:3658-cs
+  :DATE-EVENT: 2006-01-04
   :END:
 
 

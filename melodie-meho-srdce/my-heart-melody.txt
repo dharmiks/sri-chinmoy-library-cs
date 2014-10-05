@@ -18,11 +18,8 @@
   :END:
 
 
-/Tato kniha obsahuje odpovědi na otázky, které Sri Chinmoyovi položili jeho žáci, členové pěveckých skupin, 22. a 28. dubna 1994./
 
-
-
-* Otázky a odpovědi
+* Otázky a odpovědi[fn:: HRML 1-21. Tato kniha obsahuje odpovědi na otázky, které Sri Chinmoyovi položili jeho žáci, členové pěveckých skupin, 22. a 28. dubna 1994]
 
   :PROPERTIES:
   :GENRE: section
@@ -38,6 +35,7 @@
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:1-cs
+  :DATE-EVENT: 1994-04-22
   :END:
 
 /Sri Chinmoy:/ Naděje je něco sladkého a hlubokého, co existuje v Srdci našeho Pána Milovaného Nejvyššího. Očekávání je něco ve fyzické mysli, ve vitálnu, ve fyzickém vědomí. Naděje se zrodila v den, kdy Bůh stvořil Svůj Sen, ale očekávání je výtvorem lidské mysli a vitálna. 
@@ -54,6 +52,7 @@ Naděje je něco sladkého, božského a povzbuzujícího. Ale očekávání je 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:2-cs
+  :DATE-EVENT: 1994-04-22
   :END:
 
 /Sri Chinmoy:/ Zde na zemi mnoho lidí zapomnělo na slib, který dali Bohu a své vlastní božskosti. Stejně tak je Boží Vědomí ve světě duší, ale kolik duší si to pamatuje? Po šesti letech se většina duší musí vrátit zpět na zem. Některé nechtějí, ale jsou k tomu přinuceny. Jestliže získají zvláštní Boží Milost nebo zvláštní milost Mistra, mohou zůstat ve světě duší natrvalo. Ale obyčejné lidské bytosti se musí vrátit, protože i když jsou ve světě duší, nedělají nic pro Boha ani pro svůj duchovní pokrok. 
@@ -70,6 +69,7 @@ Obyčejné, neaspirující duše mohou na Boha v Nebi určitě zapomenout. Mů�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:3-cs
+  :DATE-EVENT: 1994-04-22
   :END:
 
 /Sri Chinmoy:/ Ano, vděčnost vyléčí vše, jsou-li v ní zbožné slzy. Pokud jen řeknete: „Jsem ti vděčný,“ pak taková vděčnost není hluboká. Je to, jako když řeknete: „Mnohokrát děkuji.“ Pokud ale vděčnost přichází ze samotné hloubky naší bytosti, z nejvnitřnějších zákoutí našeho srdce, protože Bůh pro nás udělal tolik věcí bezvýhradně, pak jsou v takové vděčnosti kanoucí slzy.
@@ -84,6 +84,7 @@ Někdy se stane, že uděláme-li jeden krok směrem k Bohu, on udělá devades�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:4-cs
+  :DATE-EVENT: 1994-04-22
   :END:
 
 /Sri Chinmoy:/ Vize přichází přímo ze třetího oka. Zdroj vize je nekonečně vyšší než zdroj představy. Bůh stvořil tento svět svou kosmickou Vizí. Představa může být vysoká, vyšší, nejvyšší. Ale dotkne-li se nás Boží nekonečná Milost, můžeme se dozvědět, jaká je Jeho Vize a dokonce můžeme být Boží Vizí obdařeni. Pak snadno uvidíme, že představa je nekonečně, nekonečně níže než Bohem daná vize. Existuje velký rozdíl mezi vnitřní vizí a představou. Představa má svou vlastní skutečnost; může být velmi vysoká, velmi vznešená a velmi hluboká. Představa může pocházet z velmi, velmi vysoké úrovně vědomí. Ale zdroj vize je nekonečně výše, než je i ta nejvyšší úroveň představy. 
@@ -98,6 +99,7 @@ Vize je vysoká jako Himálaje, představa je jako malý kopec. Když si něco p
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:5-cs
+  :DATE-EVENT: 1994-04-22
   :END:
 
 
@@ -115,6 +117,7 @@ Naše aspirace či nedostatek aspirace rozhodně ovlivňují svět kolem nás --
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:6-cs
+  :DATE-EVENT: 1994-04-22
   :END:
 
 
@@ -133,6 +136,7 @@ Používám slovo klanět se, ale to není to správné slovo. Klanět se může
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:7-cs
+  :DATE-EVENT: 1994-04-22
   :END:
 
 
@@ -157,6 +161,7 @@ Jediná věc, která pomáhá, je Boží Milost. Musíte se k Bohu zbožně a se
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:8-cs
+  :DATE-EVENT: 1994-04-22
   :END:
 
 
@@ -175,6 +180,7 @@ Takže když někoho vidím, ihned uvnitř něj vidím božský aspekt. Po reali
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:9-cs
+  :DATE-EVENT: 1994-04-22
   :END:
 
 
@@ -191,6 +197,7 @@ Když jste v práci, nemusíte si myslet: „Ó, je jedenáct hodin. Guru je bu�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:10-cs
+  :DATE-EVENT: 1994-04-22
   :END:
 
 
@@ -217,6 +224,7 @@ Abych se vrátil k tvé otázce, má hudba rozhodně napomáhá atmosféře Zem�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:11-cs
+  :DATE-EVENT: 1994-04-22
   :END:
 
 
@@ -237,6 +245,7 @@ Máte-li upřímnou vděčnost, Bůh si vezme všechny vaše hříchy -- všechn
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:12-cs
+  :DATE-EVENT: 1994-04-22
   :END:
 
 
@@ -255,6 +264,7 @@ Pak si zkuste během večerní meditace vzpomenout na všechny dobré věci, kte
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:13-cs
+  :DATE-EVENT: 1994-04-28
   :END:
 
 
@@ -275,6 +285,7 @@ Lidská láska je jako pozemská strava. Když budete nepřetržitě jíst dvě 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:14-cs
+  :DATE-EVENT: 1994-04-28
   :END:
 
 
@@ -298,6 +309,7 @@ Nemyslete tedy na to, jak se zbavit svých tužeb. Tyto touhy přichází z my�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:15-cs
+  :DATE-EVENT: 1994-04-28
   :END:
 
 
@@ -314,6 +326,7 @@ Nemusíte se proto odpoutávat od věcí, které vás povzbuzují a inspirují. 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:16-cs
+  :DATE-EVENT: 1994-04-28
   :END:
 
 
@@ -332,6 +345,7 @@ Projevíš tomu člověku náklonnost, protože byla napadená, ale budeš nepř
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:17-cs
+  :DATE-EVENT: 1994-04-28
   :END:
 
 
@@ -375,6 +389,7 @@ Jsem jako restaurace s různými druhy pokrmů. Cokoliv vaše duše chce, jsem p
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:18-cs
+  :DATE-EVENT: 1994-04-28
   :END:
 
 
@@ -399,6 +414,7 @@ Bez upřímné jednoty existuje jen pocit nadřazenosti. Ale existuje-li pocit j
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:19-cs
+  :DATE-EVENT: 1994-04-28
   :END:
 
 
@@ -426,6 +442,7 @@ Bez upřímné jednoty existuje jen pocit nadřazenosti. Ale existuje-li pocit j
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: HRML:21-cs
+  :DATE-EVENT: 1994-04-28
   :END:
 
 

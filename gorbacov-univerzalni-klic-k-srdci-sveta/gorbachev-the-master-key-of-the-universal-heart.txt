@@ -1841,6 +1841,7 @@ Na stejném setkání předává Rabindra David Hamilton, student Sri Chinmoye, 
   :GENRE: letter_ckg
   :CITE-KEY: GMKU:92-cs
   :KEYWORDS:
+  :DATE-EVENT: 1990-05-29  
   :END:
 
 
