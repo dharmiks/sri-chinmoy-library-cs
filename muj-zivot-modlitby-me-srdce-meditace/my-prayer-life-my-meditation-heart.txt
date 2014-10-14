@@ -19,7 +19,7 @@
 
 
 
-* Prvních 17 básní v této knize...
+* Část I.[fn:: PLHM 1-17. Prvních 17 básní v této knize bylo napsáno 17. září 1981 v New Yorku.]
 
   :PROPERTIES:
   :GENRE: note
@@ -27,16 +27,15 @@
   :CITE-KEY: PLMH:1e1-cs
   :END:
 
-Prvních 17 básní v této knize bylo napsáno 17. září 1981 v New Yorku.
 
 
-
-* 1 Modlím se...
+* 1.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:1-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -49,12 +48,13 @@ každý den.
 
 
 
-* 2 Modlím se...
+* 2.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:2-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -74,12 +74,13 @@ a svou pochybující mysl.
 
 
 
-* 3 Modlím se...
+* 3.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:3-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -93,12 +94,13 @@ skončily.
 
 
 
-* 4 Modlím se...
+* 4.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:4-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -112,12 +114,13 @@ své duši.
 
 
 
-* 5 Modlím se...
+* 5.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:5-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -133,12 +136,13 @@ ani vzít.
 
 
 
-* 6 Modlím se...
+* 6.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:6-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -153,12 +157,13 @@ mír.
 
 
 
-* 7 Modlím se...
+* 7.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:7-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -173,12 +178,13 @@ láskou.
 
 
 
-* 8 Modlím se...
+* 8.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:8-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -193,12 +199,13 @@ mě zachraňuje každý den.
 
 
 
-* 9 Modlím se...
+* 9.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:9-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -212,12 +219,13 @@ za mé mentální mraky.
 
 
 
-* 10 Modlím se...
+* 10.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:10-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -230,12 +238,13 @@ svou lásku k Bohu.
 
 
 
-* 11 Modlím se...
+* 11.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:11-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -248,12 +257,13 @@ Boží Lásku ke mně.
 
 
 
-* 12 Modlím se...
+* 12.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:12-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -267,12 +277,13 @@ Moře Božího Soucitu.
 
 
 
-* 13 Modlím se...
+* 13.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:13-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -286,12 +297,13 @@ Nebe Božího Odpuštění.
 
 
 
-* 14 Modlím se...
+* 14.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:14-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -307,12 +319,13 @@ a oddaně.
 
 
 
-* 15 Modlím se...
+* 15.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:15-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -329,12 +342,13 @@ se svým Milovaným Nejvyšším.
 
 
 
-* 16 Modlím se...
+* 16.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:16-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -349,12 +363,13 @@ své cesty.
 
 
 
-* 17 Modlím se...
+* 17.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:17-cs
+  :DATE-EVENT: 1981-09-17
   :END:
 
 #+BEGIN_VERSE
@@ -370,7 +385,7 @@ na samotném počátku
 
 
 
-* Následujících 33 básní o meditaci bylo ...
+* Část II.[fn:: PLMH 18-50. Následujících 33 básní o meditaci bylo napsáno 11. března 1989 v New Yorku.]
 
   :PROPERTIES:
   :GENRE: note
@@ -379,16 +394,15 @@ na samotném počátku
   :END:
 
 
-Následujících 33 básní o meditaci bylo napsáno 11. března 1989 v New Yorku.
 
 
-
-* 18 Má meditace...
+* 18.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:18-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -402,12 +416,13 @@ s mým vnitřním Kormidelníkem.
 
 
 
-* 19 Má meditace...
+* 19.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:19-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -422,12 +437,13 @@ na zemi.
 
 
 
-* 20 Má meditace...
+* 20.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:20-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -440,12 +456,13 @@ vzpomínky mého srdce na Boha.
 
 
 
-* 21 Má meditace...
+* 21.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:21-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -458,12 +475,13 @@ o dokonalosti uspokojení Boha.
 
 
 
-* 22 Má meditace...
+* 22.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:22-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -476,12 +494,13 @@ mé mysli.
 
 
 
-* 23 Má meditace...
+* 23.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:23-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -496,12 +515,13 @@ mé mysli.
 
 
 
-* 24 Má meditace...
+* 24.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:24-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -515,12 +535,13 @@ k vrcholu Everestu.
 
 
 
-* 25 Má meditace...
+* 25.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:25-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -535,12 +556,13 @@ mého vitálna.
 
 
 
-* 26 Má meditace...
+* 26.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:26-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -553,12 +575,13 @@ mého těla.
 
 
 
-* 27 Má meditace...
+* 27.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:27-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -571,12 +594,13 @@ mého těla.
 
 
 
-* 28 Má meditace...
+* 28.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:28-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -590,12 +614,13 @@ intenzivní hluboké blaženosti.
 
 
 
-* 29 Má meditace...
+* 29.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:29-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 
@@ -610,12 +635,13 @@ mému Milovanému Nejvyššímu.
 
 
 
-* 30 Medituji a medituji...
+* 30.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:30-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -631,12 +657,13 @@ své mysli.
 
 
 
-* 31 Medituji, abych naplnil...
+* 31.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:31-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -650,12 +677,13 @@ zde na zemi.
 
 
 
-* 32 Medituji, abych oduševněle nabídl...
+* 32.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:32-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -671,12 +699,13 @@ mému Nejvyššímu Kormidelníkovi.
 
 
 
-* 33 Medituji,...
+* 33.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:33-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 
@@ -692,12 +721,13 @@ přímo od Boha, Nejvyššího Zpěváka.
 
 
 
-* 34 Medituji, abych byl...
+* 34.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:34-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -713,12 +743,13 @@ svého života.
 
 
 
-* 35 Během své meditace ...
+* 35.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:35-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -736,12 +767,13 @@ mé srdce vždy zvítězí.
 
 
 
-* 36 Během mé hluboké meditace ...
+* 36.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:36-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -755,12 +787,13 @@ z mého stromu života aspirace.
 
 
 
-* 37 Můj Pán Nejvyšší...
+* 37.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:37-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -780,12 +813,13 @@ nečisté tělo.
 
 
 
-* 38 Můj Pán Nejvyšší...
+* 38.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:38-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -803,12 +837,13 @@ ke svým vlastním nedokonalostem.
 
 
 
-* 39 My Soul Is Telling Me...
+* 39.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:39-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -824,12 +859,13 @@ po nebezpečných dálnicích tužeb.
 
 
 
-* 40 Má meditace dosahuje...
+* 40.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:40-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -846,12 +882,13 @@ Nohy Boží Ochrany.
 
 
 
-* 41 V časných ranních hodinách...
+* 41.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:41-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -865,12 +902,13 @@ oduševnělými kroky
 
 
 
-* 42 Když bezpodmínečně medituji ...
+* 42.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:42-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -884,12 +922,13 @@ Lásky a Laskavosti.
 
 
 
-* 43 Když bezpodmínečně medituji ...
+* 43.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:43-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -903,12 +942,13 @@ svého všepřesahujícího Snu Skutečnosti.
 
 
 
-* 44 Když bezpodmínečně medituji ...
+* 44.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:44-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -924,12 +964,13 @@ Balkónu Vize.
 
 
 
-* 45 Když sám sebe vynáším do nebes...
+* 45.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:45-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -947,12 +988,13 @@ mého sladkého Pána.
 
 
 
-* 46 My High Meditation Says...
+* 46.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:46-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -968,12 +1010,13 @@ Není to pravda, není to pravda.“
 
 
 
-* 47 Má dobrá meditace...
+* 47.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:47-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -989,12 +1032,13 @@ Není to pravda, není to pravda.“
 
 
 
-* 48 Má hluboká meditace...
+* 48.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:48-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -1009,12 +1053,13 @@ Není to pravda, není to pravda.“
 
 
 
-* 49 Má tichá meditace...
+* 49.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:49-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -1030,12 +1075,13 @@ Není to pravda, není to pravda.“
 
 
 
-* 50 Když mám...
+* 50.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:50-cs
+  :DATE-EVENT: 1989-03-11
   :END:
 
 #+BEGIN_VERSE
@@ -1053,7 +1099,7 @@ z Obchodu Bohatství Mé Nekonečnosti.“
 
 
 
-* Následujících 9 básní o modlitbě a meditaci...
+* Část III.[fn:: PLMH 51-59. Následujících 9 básní o meditaci bylo napsáno 17. listopadu 1991 v San Francisku.]
 
   :PROPERTIES:
   :GENRE: note
@@ -1061,16 +1107,15 @@ z Obchodu Bohatství Mé Nekonečnosti.“
   :CITE-KEY: PLMH:51e1-cs
   :END:
 
-Následujících 9 básní o modlitbě a meditaci bylo napsáno 17. listopadu 1991 v San Francisku.
 
 
-
-* 51 Má modlitba říká...
+* 51.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:51-cs
+  :DATE-EVENT: 1991-11-17
   :END:
 
 #+BEGIN_VERSE
@@ -1084,12 +1129,13 @@ Má meditace říká:
 
 
 
-* 52 Má modlitba a Bůh...
+* 52.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:52-cs
+  :DATE-EVENT: 1991-11-17
   :END:
 
 #+BEGIN_VERSE
@@ -1103,12 +1149,13 @@ se usmívají jeden na druhého.
 
 
 
-* 53 Má modlitba je mou vírou...
+* 53.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:53-cs
+  :DATE-EVENT: 1991-11-17
   :END:
 
 #+BEGIN_VERSE
@@ -1122,12 +1169,13 @@ ve mě.
 
 
 
-* 54 Má modlitba říká ...
+* 54.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:54-cs
+  :DATE-EVENT: 1991-11-17
   :END:
 
 #+BEGIN_VERSE
@@ -1141,12 +1189,13 @@ Má meditace říká:
 
 
 
-* 55 Má modlitba mi říká...
+* 55.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:55-cs
+  :DATE-EVENT: 1991-11-17
   :END:
 
 #+BEGIN_VERSE
@@ -1162,12 +1211,13 @@ je Bůh Sám.
 
 
 
-* 56 Má modlitba je Boží Zájem ...
+* 56.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:56-cs
+  :DATE-EVENT: 1991-11-17
   :END:
 
 #+BEGIN_VERSE
@@ -1181,12 +1231,13 @@ o Boha.
 
 
 
-* 57 Má modlitba je...
+* 57.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:57-cs
+  :DATE-EVENT: 1991-11-17
   :END:
 
 #+BEGIN_VERSE
@@ -1200,12 +1251,13 @@ současným úsměvem Boha.
 
 
 
-* 58 Když se modlím, Bůh mě žádá...
+* 58.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:58-cs
+  :DATE-EVENT: 1991-11-17
   :END:
 
 #+BEGIN_VERSE
@@ -1221,12 +1273,13 @@ jsou doširoka otevřené.
 
 
 
-* 59 Má modlitba...
+* 59.
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: PLMH:59-cs
+  :DATE-EVENT: 1991-11-17
   :END:
 
 #+BEGIN_VERSE
