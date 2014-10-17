@@ -35,16 +35,6 @@ Existuje mnoho světů snů. Tak jako je sedm vyšších světů a sedm nižší
 
 
 
-* Poznámka editora
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: JSD:1e2-cs
-  :END:
-
-Na následující otázky Sri Chinmoy odpovídal v posledních letech na různých místech. Jména těch, kdo se ptali, nebyly zaznamenány. 
-
 
 
 * Co je to sen?
@@ -77,10 +67,8 @@ Pokud sen přichází z mentální úrovně, bude v něm určitá rovnováha -
 
 Když máme sen z nižších světů, nemusíme si přát se s ním ztotožnit, protože nás může velmi polekat. Takovýto sen k nám přichází jako hrozba. Avšak sen, který přichází z vyšších světů, přichází jako pozvání. Takovéto sny jsou předchůdci skutečnosti. Získáme vnitřní radost a vnitřní uspokojení a okamžitě v nich ucítíme svou identitu. Pak musíme do této skutečnosti vstoupit a vrůst do ní. 
 
-Pokud meditujeme, dokážeme do světů snů vcházet vědomě. Zatím jsou pro nás světy snů čímsi mlhavým, nejistým a do určité míry temným. Jakmile je však budeme studovat, můžeme se o nich dozvědět spoustu věcí.[fn:1]
+Pokud meditujeme, dokážeme do světů snů vcházet vědomě. Zatím jsou pro nás světy snů čímsi mlhavým, nejistým a do určité míry temným. Jakmile je však budeme studovat, můžeme se o nich dozvědět spoustu věcí.[fn:: Kniha Sri Chinmoye „Colour Kingdom“ (Království barev) nám vysvětluje vnitřní význam 52 barev.]
 
-
-[fn:1] Kniha Sri Chinmoye „Colour Kingdom“ [Království barev) nám vysvětluje vnitřní význam 52 barev.
 
 
 
@@ -402,15 +390,17 @@ Sri Chinmoy vyzval k těmto otázkám 2. října 1973 během setkání v jeho 
 
 
 
-* Loni, když jsem byl v Indii, jsem měl sen, ve kterém jsem slyšel vzdálenou hudbu, a když jsem se probudil, myslel jsem, že jsem buď mrtvý, nebo jsem v Nebi.
+* Loni, když jsem byl v Indii, jsem měl sen, ve kterém jsem slyšel vzdálenou hudbu, a když jsem se probudil, myslel jsem, že jsem buď mrtvý, nebo jsem v Nebi.[fn:: JSD 23-44. Sri Chinmoy vyzval k těmto otázkám 2. října 1973 během setkání v jeho centru v New Jersey.]
 
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:23-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Byl to nanejvýš mocný zážitek, který jste získal z hlubin své duše. Hudba, kterou jste slyšel, přicházela z duše. Vnější sluch tuto hudbu nedokáže ocenit, musí být oceněna naší vnitřní částí.
+
 Když v běžném životě nižší vitálno nebo emocionální vitálno něco neoceňuje nebo se s tím neztotožňuje, okamžitě cítíme, že jsme mrtví. Když tělo a vitálno neoceňují hudbu duše, jsou pro tento druh hudby, která inspiruje a pozvedá naše vědomí, mrtvé. A stejně tak, je-li fyzické odděleno od duše, od hudby duše, světla duše, fyzické je duchovně mrtvé. Vy nejste mrtvý, ale když neaspirující tělo nepřijímá duši jako svůj zdroj, potom cítíte, že je jako mrtvý voják. Tak jako se říká, že ten, kdo ve svém životě vůbec necvičí duchovnost, je mrtvou duší.
 
 
@@ -421,11 +411,13 @@ Když v běžném životě nižší vitálno nebo emocionální vitálno něco 
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:24-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Je mnoho světů, které nejsou viditelné našim lidským očím, a sny přicházejí z těchto světů. Některé sny se odehrávají na vitální úrovni. Tyto sny jsou velice často zmatené, protože na vitální úrovni, která je světem potěšení, není mnoho světla. Ve snech z vitálního světa je množství pohybu a velké vzrušení. Sny, které přicházejí z vyšších světů, jsou zářivé, nemají však v sobě žádný rozruch. Když máme sny z vyšších úrovní, ze světa duší, obvykle jim trvá delší dobu, než se projeví. 
 
 Řeknete-li mi, jaký druh snů jste měli, budu vám schopen říct, ze které úrovně pochází. Někdy se vám bude zdát o tom, že létáte, jak se vám chce, jako pták nebo letadlo. Kroužíte nad střechami, dotýkáte se země a pak se opět vznášíte vzhůru. Můžete si myslet, že tyto sny přicházejí z vyšších světů, protože pokud jste schopni létat, musí to znamenat, že jste na velmi vysoké úrovni. Avšak ve skutečnosti se sny o létání odehrávají jen ve vyšším vitálním světě. Nelétáme na mentální úrovni nebo na nějaké jiné úrovni, ale jen na vyšší vitální úrovni. Jestliže máte sny o míru a světle, je-li celé vaše vědomí zaplaveno mírem, světlem či krásou, takový sen se odehrává v říši duše, a ne vitálna.
+
 Takto mají všechny sny svou vlastní úroveň. 
 
 
@@ -436,6 +428,7 @@ Takto mají všechny sny svou vlastní úroveň.
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:25-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Vaše vnitřní bytosti, vaše aspirace a celý vesmír ve vašem duchovním srdci určují, o čem sníte. Není-li však vaše aspirující srdce dostatečně velké, abyste se ztotožnili s Univerzálním Vědomím, tehdy budete mít pocit, že tyto věci přicházejí z vnějšku. Své aspirující srdce můžete zvětšit jen zvýšenou aspirací. Přijde doba, kdy se aspirující srdce stane jedním s Univerzálním Srdcem, které je zaplaveno světlem a blažeností. Je to toto Srdce, které určuje všechny povzbuzující sny, od těch nejvýznamnějších až po ty nejbezvýznamnější.
@@ -448,10 +441,10 @@ Takto mají všechny sny svou vlastní úroveň.
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:26-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
-/Sri Chinmoy:/ Tímto vězením je vězení nevědomí, kde není žádné světlo, žádná naděje, naprosto nic kladného. Vězení nevědomí je zemí zničení. Dostal jste se ven jen proto, že je uvnitř vás něco velmi upřímného, velmi oduševnělého, velmi oddaného. A tak bezvýhradná Požehnání Nejvyššího vstoupila do nevědomí a přinesla vás zpět. Dostali jste se ven, protože vás zachránila božská Milost, bezvýhradná Milost Nejvyššího.
-Chtěl bych ti říct, že dokonce i v tom vězení, pokud by sis mne byl vědom, pokud bys vzýval mé jméno, byl bys zachráněn.
+/Sri Chinmoy:/ Tímto vězením je vězení nevědomí, kde není žádné světlo, žádná naděje, naprosto nic kladného. Vězení nevědomí je zemí zničení. Dostal jste se ven jen proto, že je uvnitř vás něco velmi upřímného, velmi oduševnělého, velmi oddaného. A tak bezvýhradná Požehnání Nejvyššího vstoupila do nevědomí a přinesla vás zpět. Dostali jste se ven, protože vás zachránila božská Milost, bezvýhradná Milost Nejvyššího. Chtěl bych ti říct, že dokonce i v tom vězení, pokud by sis mne byl vědom, pokud bys vzýval mé jméno, byl bys zachráněn.
 
 
 
@@ -461,6 +454,7 @@ Chtěl bych ti říct, že dokonce i v tom vězení, pokud by sis mne byl vědo
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:27-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Pokud ve snu k někomu cítíme hlubokou lásku, nejdříve musíme vědět, zdali tato láska je, či není emocionální. Je-li to emocionální, vitální láska, tehdy musíme okamžitě nabídnout svou lásku i předmět naší lásky Nejvyššímu v nás. 
@@ -477,6 +471,7 @@ Pokud uvnitř děláme něco vědomě špatně, potom je velmi obtížné, tém�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:28-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Orel létá vysoko, avšak jeho vědomí je velmi nízké. Je jako hledající, který předstírá, že je ve velmi vysokém stavu meditace, zatímco jeho vědomí je ve skutečnosti v nižším vitálním či pomlouvačném světě.
@@ -493,6 +488,7 @@ A pak znenadání, protože jste přijal duchovní život, vyšla do popředí v
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:29-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Velmi dobře! Tento sen znamená, že je pro vás zapotřebí přijmout život mocně a odvážně. Vstoupila jste do nového života a je ve vás jemný strach. V tomto snu jsem do vás přeléval ohromnou energii. Tato energie do vás vstupovala a zároveň vás přitahovala jako magnet. Svou koncentrací jsem vytvořil vědomý přístup k vaší duši tak, abyste neměla žádný strach. Je pro vás nezbytné být silná a dynamická, abyste ve svém novém životě mohla přijímat hojnost pravdy, světla a blaženosti.
@@ -505,6 +501,7 @@ A pak znenadání, protože jste přijal duchovní život, vyšla do popředí v
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:30-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Velmi dobře! Kršna a Ardžuna mají mezi sebou to nejbližší spojení. Jsou duchovními bratry. Ardžuna znamená vnitřní nástroj a Kršna představuje to Nejvyšší. A tak Kršna chce, abyste byl skutečně božským, nestranným a odevzdaným nástrojem Nejvyššího. Být Ardžunou znamená být nejdražším, nejuspokojivějším, nejvěrnějším a nejoddanějším, vybraným nástrojem Boha. Hlas, který vyšel z nitra, znamená, že jste se ztotožnil s vědomím Ardžuny. To znamená, že jste chtěl být tak mocný, tak oddaný, tak odevzdaný svému vlastnímu Mistrovi, jako byl Ardžuna Kršnovi.
@@ -517,6 +514,7 @@ A pak znenadání, protože jste přijal duchovní život, vyšla do popředí v
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:31-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Nejdříve medituj na srdce a ciť skutečnou přítomnost světla. Potom vezmi toto světlo a vhoď ho do tmavé propasti pupku k jeho pročištění. Pak nebudeš moci mít žádné špatné sny, protože tvoje vitálno bude pročištěno.
@@ -530,6 +528,7 @@ Guru, měl jsem sen o Sri Anandamayi Ma. Dala mi čtyři fotografie. Dvě prost�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:32-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 
@@ -547,6 +546,7 @@ Abychom se vrátili k vašemu snu, bílá barva znamená čistotu. /Nirmala/ tak
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:33-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 
@@ -567,6 +567,7 @@ Když je pro duchovního Mistra těžké předat žákovi zprávu na fyzické ú
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:34-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Přeji si říct, že duchovní cesta je svízelná a velmi příkrá. Když máte jít vzhůru, je to nanejvýš obtížné. Bytosti, které jste viděl, nebyly ve skutečnosti jeptišky, byli to andělé. Ve svém snu jste cítil, že jsou to jeptišky, protože působila vaše fyzická mysl. Vaše fyzická mysl nechtěla spatřit anděly, protože nechtěla, abyste získal tu největší radost. Mysl je taková. Ničí vše. Se svým srdcem jste vyšel velmi vysoko, avšak vaše mysl chtěla zmenšit vaši radost. A tak vás přiměla, abyste je viděl jako jeptišky. Kdyby mysl nezasáhla, byl byste velmi šťastný, že jste viděl anděly s květinami.
@@ -579,6 +580,7 @@ Když je pro duchovního Mistra těžké předat žákovi zprávu na fyzické ú
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:35-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Pokud máte vitální sny, znamená to, že vaše vitálno potřebuje pročistit. Zanecháte-li ve svém pokoji nepořádek, nemůžete čekat, že do něj vstoupíte a zjistíte, že se najednou sám od sebe uklidil. Musíte vejít do pokoje a snažit se uklidit nepořádek tak, že některé věci založíte a jiné vyhodíte.
@@ -594,6 +596,7 @@ Během meditace přijímáte světlo. Když toto světlo vstoupí do vaší byto
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:36-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Nevědomě jste přebíral zodpovědnost za někoho druhého a přinášel ji mně a já jsem vám řekl, že to není dobré, protože ten člověk nechce dát svou zodpovědnost vám, ani mně. 
@@ -608,6 +611,7 @@ Cítil jste, že je vaší svatou povinností přinést mi tento náklad, který
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:37-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Křídla znamenají, že žáci mají prudce stoupající aspiraci. Nejsou to křídla anděla nebo ptáka, ale vznášející se aspirace, která letí velmi, velmi vysoko, nekonečně výše než pták. Je naprostá pravda, že se mí žáci snaží co nejupřímněji rozvinout a zvětšit sílu své aspirace. Žáci, kteří aspirují, určitě mají tato vnitřní křídla, která se nazývají aspirace.
@@ -620,9 +624,11 @@ Cítil jste, že je vaší svatou povinností přinést mi tento náklad, který
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:38-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Zelená znamená nový život. Pokud měla vaše sestra zelené sárí, znamená to, že do ní vstoupil nový život, nová naděje. 
+
 Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Které bylo ve vašem snu?
 
 
@@ -633,6 +639,7 @@ Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Kte
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:39-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Zelené sárí znamená inspiraci, dynamickou energii, novou naději, novou identitu, nový život, a šero znamená napůl světlo a napůl tmu. Ačkoliv má vaše sestra naději a inspiraci a pláče pro nový život, není plně připravena přijmout duchovní cestu. Je připravena mít padesát procent tmy a padesát procent světla. Pokud by skutečně aspirovala, chtěla by mít sto procent světla. Má nebo měla příležitost být dynamická, velmi svěží a plná nadšení a vstoupit do moře světla, ale nezajímala se o tuto možnost. Sama toho nevyužila. Chce se těšit jak z vnějšího světa temnoty, tak i z vnitřního světa osvícení zároveň, což je nemožné. Ve svém životě chce půl světla a půl temnoty, směs obojího. Avšak směs obojího ji nemůže naplnit. Buď musíš mít světlo, nebo temnotu; nemůžeš být někde mezi.
@@ -645,6 +652,7 @@ Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Kte
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:40-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Obloha značí rozlehlost. A širá země, kterou jste viděl, také představuje rozlehlost. Když se rozlehlost nad vámi a rozlehlost kolem vás společně setkají, jen tehdy přijde naplnění. Vyšší rozlehlost znamená Nebe a ta druhá rozlehlost je země, na které žijete. Je-li naše pozemské vědomí rozšířeno, okamžitě se s ním nebeské vědomí, které je nekonečně širší než pozemské vědomí, setkává. Když se společně setkají, vidíte zlatou barvu. To je barva božského projevení. Je-li země vnímavá, je-li srdce země široké, tehdy do něj může vstoupit světlo Nebe. V tu chvíli se osvěcující vědomí Nebe a aspirující vědomí země stávají jedním. A když se stanou jedním, je to projevení božské Skutečnosti.
@@ -658,6 +666,7 @@ Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Kte
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:41-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Modrá znamená něco velmi rozlehlého, něco nekonečného, a míč znamená svět nebo Univerzální Vědomí. Modrý míč tu představuje věčný nástroj. Říkal jsem vám, že Nejvyšší z vás vytváří svůj spolehlivý nástroj.
@@ -670,6 +679,7 @@ Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Kte
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:42-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Nebylo to ve skutečnosti potápění. Šel jste velmi hluboko dovnitř. Vstoupil jste do oblasti své duše pro skutečný odpočinek a naplnění.
@@ -682,6 +692,7 @@ Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Kte
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:43-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ To je velmi dobré! Je to velmi významný sen. Znamená to, že patříme do stejné rodiny. Všichni jsme opravdoví duchovní Mistři a tak patříme do stejné rodiny. Já jsem váš duchovní otec, a oni jsou členové naší duchovní rodiny. 
@@ -694,6 +705,7 @@ Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Kte
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: JSD:44-cs
+  :DATE-EVENT: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ To znamená, že po tobě chci, abys dal více důležitosti tvému vnitřnímu životu než tvému vnějšímu životu. Nedáš-li víc důležitosti vnitřnímu životu, pak nezáleží na tom, čeho dosáhneš ve vnějším životě -- nebudeš uspokojen. Abys byl uspokojen, opravdově uspokojen a naplněn, chci, abys meditoval víc. Co jsem ti řekl, nebylo jen abys meditoval, ale abys meditoval víc než doposud.
