@@ -37,22 +37,12 @@ tíhu světa.
 
 
 
-* Poznámka editora
-
-  :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MJWW:2e1-cs
-  :END:
-
-/2. listopadu 1998 poskytl Sri Chinmoy rozhovor deníku The Record v Bergenu, New Jersey. Bylo to poté, co zvedl letadlo Piper Arrow III s osmi muži ve Sparta Avian School v Teterboro, New Jersey./
-
-
-
-* /Redaktor:/ Proč to děláte?
+* /Redaktor:/ Proč to děláte?[fn:: MJWW 2-3. 2. listopadu 1998 poskytl Sri Chinmoy rozhovor deníku The Record v Bergenu, New Jersey. Bylo to poté, co zvedl letadlo Piper Arrow III s osmi muži ve Sparta Avian School v Teterboro, New Jersey.] 
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:2-cs
+  :DATE-EVENT: 1998-11-02
   :END:
 
 /Sri Chinmoy:/ Podle své pokorné schopnosti se snažím oddaně sloužit světu. Od roku 1970 navštěvuji Organizaci spojených národů a nabízím zde meditace. Kromě toho jsem složil mnoho písní a napsal mnoho básní, namaloval jsem tisíce a tisíce maleb. Všechno to dělám proto, abych inspiroval ostatní. Stejně tak oni dělají mnoho, mnoho věcí, aby mě inspirovali. Jestliže inspiruji lidi a oni inspirují mne, stáváme se lepšími lidskými bytostmi. Když máme inspiraci, snažíme se dělat pro lidstvo mnoho, mnoho dobrých věcí. Když inspiraci nemáme, děláme mnoho, mnoho špatných věcí. Inspirace je božskou součástí našeho života. Když máme inspiraci, snažíme se slézt Himaláje. Když máme inspiraci, zkoušíme přeplavat kanál La Manche. Když máme inspiraci, jezdíme ze země do země, abychom inspirovali lidi a nechali se jimi inspirovat. Cítím, že když inspirujeme lidstvo, automaticky se stáváme dobrými občany světa. Toto je má filozofie. Vzpěračské výkony dělám jedině proto, abych inspiroval lidstvo.
@@ -66,28 +56,19 @@ To, co lidstvo chce, je radost. Uvnitř radosti je mír. Budeme-li šťastní, n
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:3-cs
+  :DATE-EVENT: 1998-11-02
   :END:
 
 /Sri Chinmoy:/ ,Srdce jednoty‘ znamená, že vy mi dáváte své dobré vlastnosti a já vám dávám své dobré vlastnosti. S radostí mi nabízíte své božské vlastnosti a já nabízím s radostí své božské vlastnosti vám. Když máte jednotu a dobré pohnutky, dáváte mi to, co je ve vás nejlepší, a já dávám vám to, co je nejlepšího ve mně. Vyměňujeme si své dobré vlastnosti. To se nazývá ,srdce jednoty‘.
 
 
 
-* Poznámka editora
-
-  :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MJWW:4e1-cs
-  :END:
-
-/4. listopadu poskytl Sri Chinmoy rozhovor televizi Reuters. Bylo to poté, co zvedl několik slonů v Big Apple Cirkuse v Lincolnově Centru v New Yorku./
-
-
-
-* /Redaktor:/ Řekněte nám, za jakým účelem jste přivedl slony a zvedl je na tomto zařízení. 
+* /Redaktor:/ Řekněte nám, za jakým účelem jste přivedl slony a zvedl je na tomto zařízení.[fn:: MJWW 4. 4. listopadu 1998 poskytl Sri Chinmoy rozhovor televizi Reuters. Bylo to poté, co zvedl několik slonů v Big Apple Cirkuse v Lincolnově Centru v New Yorku.]  
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:4-cs
+  :DATE-EVENT: 1998-11-04
   :END:
 
 /Sri Chinmoy:/ Jsem člověk modlitby a meditace. Cítím, že inspirace je vrcholně důležitá. Jestliže někoho mohu inspirovat a on může inspirovat mě, pak můžeme udělat mnoho dobrých věcí pro zlepšení tohoto světa. Tady inspiruji hodně lidí a také oni inspirují mě. Jestliže já budu mít inspiraci, vy budete mít inspiraci, on bude mít inspiraci, budeme moci pracovat společně. Když inspiraci nemáme, stěžujeme si na ostatní lidské bytosti, hádáme se, bojujeme a děláme mnoho politováníhodných věcí. Ale máme-li inspiraci, děláme mnoho dobrých věcí pro zdokonalení tohoto světa. 
@@ -96,22 +77,13 @@ Jsem studentem míru. Chtěl bych, aby celé lidstvo bylo na jedné lodi a plulo
 
 
 
-* Poznámka editora
 
-  :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MJWW:5e1-cs
-  :END:
-
-/6. listopadu 1998 poskytl Sri Chinmoy rozhovor televizi News 12 z New Jersey. Bylo to poté, co zvedl letadlo Aero Commander 658 se šesti pasažéry (celková hmotnost 10 527 liber) v leteckém parku Rogera J. Millera v Berkeley v New Jersey./
-
-
-
-* /Reportér:/ Proč zvedáte?
+* /Reportér:/ Proč zvedáte?[fn:: MJWW 5. 6. listopadu 1998 poskytl Sri Chinmoy rozhovor televizi News 12 z New Jersey. Bylo to poté, co zvedl letadlo Aero Commander 658 se šesti pasažéry (celková hmotnost 10 527 liber) v leteckém parku Rogera J. Millera v Berkeley v New Jersey.]  
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:5-cs
+  :DATE-EVENT: 1998-11-06
   :END:
 
 /Sri Chinmoy:/ Každý chce dělat něco, co ho činí šťastným. Toto je jeden ze způsobů, který mě činí šťastným, a zjišťuji, že existují i další lidé, kteří jsou inspirováni tím, co dělám. Z inspirace získáváme radost. Tím, že zvedám, inspiruji hodně lidí a oni z této inspirace získávají radost.
@@ -129,22 +101,13 @@ Jsem studentem míru. Chtěl bych, aby celé lidstvo bylo na jedné lodi a plulo
 
 
 
-* Poznámka editora
 
-  :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MJWW:6e1-cs
-  :END:
-
-/28. listopadu 1998 měl Sri Chinmoy rozhovor v rádiu CBS./
-
-
-
-* /Redaktor:/ Pětinásobný Mr.Universe to nazval „úžasnou ukázkou síly pro kohokoliv, jakéhokoliv věku, jakékoliv tělesné hmotnosti.“ Sri Chinmoyi, proč zvedáte tak obrovské předměty?
+* /Redaktor:/ Pětinásobný Mr.Universe to nazval „úžasnou ukázkou síly pro kohokoliv, jakéhokoliv věku, jakékoliv tělesné hmotnosti.“ Sri Chinmoyi, proč zvedáte tak obrovské předměty?[fn:: MJWW 6. 28. listopadu 1998 měl Sri Chinmoy rozhovor v rádiu CBS.]  
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:6-cs
+  :DATE-EVENT: 1998-11-28
   :END:
 
 /Sri Chinmoy:/ Nechci se chlubit. Je to čin mého sebenabízení, které nazývám inspirace. Snažím se inspirovat ostatní. Jestliže mohu inspirovat ostatní a jestliže oni na oplátku inspirují zbytek světa, pak můžeme mít lepší svět. Díky inspiraci můžeme pro lidstvo dělat dobré věci. Všichni toužíme po míru, po míru, po míru. Cítím, že je to naše vnitřní síla, která nám může dát mír, a vnitřní síla je jednota, univerzální jednota.
@@ -161,22 +124,12 @@ Jsem studentem míru. Chtěl bych, aby celé lidstvo bylo na jedné lodi a plulo
 
 
 
-* Poznámka editora
-
-  :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MJWW:7e1-cs
-  :END:
-
-/17. listopadu 1999 ráno v den 14. výročí svého vzpírání se Sri Chinmoy setkal s Mahasamratem Billem Pearlem a Bhavatarini Judy Pearlovou u snídaně v restauraci Annam Brahma v Queensu v New Yorku. Následují výňatky z jejich rozhovoru./
-
-
-
-* 2.
+* 2.[fn:: MJWW 7. 17. listopadu 1999 ráno v den 14. výročí svého vzpírání se Sri Chinmoy setkal s Mahasamratem Billem Pearlem a Bhavatarini Judy Pearlovou u snídaně v restauraci Annam Brahma v Queensu v New Yorku. Následují výňatky z jejich rozhovoru.]  
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:7-cs
+  :DATE-EVENT: 1999-11-17
   :END:
 
 /Sri Chinmoy:/ Snažím se být integrální -- fyzicky, vitálně, mentálně, psychicky i duchovně. Cítím, že bychom měli dělat všechno společně. Proto dělám tolik různých věcí. Bůh nám dal tělo, vitálno, mysl a srdce. Jsou součástí naší existence. Snažíme se z nich dostat to nejlepší, aby se to projevilo. Cokoli je dobrého v těle, měli bychom vynést do popředí, aby se to mohlo projevit, cokoli je dobrého v mysli a tak dále.
@@ -218,26 +171,15 @@ Dnes už nesoutěžíš, ale se svou autobiografií máš zvláštní zodpovědn
 
 
 
-* Poznámka editora
-
-  :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MJWW:8e1-cs
-  :END:
-
-/24. listopadu 1999 měl Sri Chinmoy rozhovor v rádiu CNN./
-
-
-
-* /Redaktor:/ Sri Chinmoyi, můžete nám říci, co se snažíte vyjádřit svým životem?
+* /Redaktor:/ Sri Chinmoyi, můžete nám říci, co se snažíte vyjádřit svým životem?[fn:: MJWW 8. 24. listopadu 1999 měl Sri Chinmoy rozhovor v rádiu CNN.]  
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:8-cs
+  :DATE-EVENT: 1999-11-24
   :END:
 
 /Sri Chinmoy:/ Jsem hledající. Denně se modlím k Bohu a medituji na Boha. Ze života své modlitby a ze života své meditace získávám inspiraci. Tuto inspiraci se svým velmi pokorným způsobem snažím nabízet lidstvu.
-
 
 /Redaktor:/ Jak se tato filozofie vztahuje ke vzpírání?
 
@@ -272,46 +214,28 @@ Když se modlím a medituji, získávám zevnitř poselství. Používám termí
 
 
 
-* Poznámka editora
 
-  :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MJWW:9e1-cs
-  :END:
-
-/Sri Chinmoy odpověděl na následující otázku 25. listopadu 1999./
-
-
-
-* Z čeho jste měl na výročí vašeho vzpírání 17. listopadu největší radost?
+* Z čeho jste měl na výročí vašeho vzpírání 17. listopadu největší radost?[fn:: MJWW 9. Sri Chinmoy odpověděl na následující otázku 25. listopadu 1999.]  
 
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:9-cs
+  :DATE-EVENT: 1999-11-25
   :END:
 
 /Sri Chinmoy:/ Z čeho jsem měl největší radost? Z Mahasamratova úsměvu. Myslím to vážně! Nikdo se nesměje tak jako Mahasamrat. Mahasamratův úsměv mi dával radost a sílu. Když jsem zvedl 600 liber a on řekl: „Guru, dokázal jsi to!“ dal mi radost a sílu deseti slonů. Když jsem zvedl těch 600 liber, podíval jsem se na Mahasamrata a jeho úsměv mě nanejvýš uspokojil -- ten úsměv nekonečné náklonnosti, lásky a důvěry.
 
 
 
-* Poznámka editora
 
-  :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MJWW:10e1-cs
-  :END:
+* Guru, lidé, kteří tě neznají, se diví, proč děláš tento druh zvedání, který nepatří do tradiční vzpěračské kategorie. Zkoumají tvou vzpěračskou techniku.[fn:: MJWW 10-12. Následují výňatky z přátelského rozhovoru mezi Sri Chinmoyem a jeho studenty dne 20. února 2000 o jeho vzepření 1000 liber oběma rukama.]  
 
-
-/Následují výňatky z přátelského rozhovoru mezi Sri Chinmoyem a jeho studenty dne 20. února 2000 o jeho vzepření 1000 liber oběma rukama./
-
-
-
-* Guru, lidé, kteří tě neznají, se diví, proč děláš tento druh zvedání, který nepatří do tradiční vzpěračské kategorie. Zkoumají tvou vzpěračskou techniku.
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:10-cs
+  :DATE-EVENT: 2000-02-20
   :END:
 
 /Sri Chinmoy:/ Když něco vymyslíte, vždy budou existovat lidé, kteří vás budou kritizovat. Boží stvoření je plné kritiků, ale vzdal se kvůli nim Bůh svého stvoření? Na druhou stranu existuje mnoho lidí, kteří Boha milují a modlí se k Němu, protože je dobrý. Řekněme, že pro nás je měsíc velmi krásný. Milujeme čistotu měsíce. Ale přijde vědec s dalekohledem a poukáže na jeho tmavé skvrny. Budeme ho poslouchat a budeme z měsíce roztrpčení, nebo se budeme řídit svým vlastním srdcem a dál získávat z měsíce radost a inspiraci?
@@ -351,6 +275,7 @@ V mém případě rovněž objevuji nové cesty. Ve světě mé hudby mě lidé
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:11-cs
+  :DATE-EVENT: 2000-02-20
   :END:
 
 /Sri Chinmoy:/ Skutečný génius není spoutaný jakýmikoliv společenskými konvencemi. Génius je génius. Musí postupovat vpřed jako slon a nedbat na štěkání psů. Swámí Vivekananda říkával, že když jde slon na tržiště, aby se najedl banánů, psi štěkají a štěkají. Ale slon jim nevěnuje pozornost. Jde na trh, sní banány a pak se vrací domů. Psi nemohou mít z banánů radost.
@@ -362,6 +287,7 @@ V mém případě rovněž objevuji nové cesty. Ve světě mé hudby mě lidé
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:12-cs
+  :DATE-EVENT: 2000-02-20
   :END:
 
 /Sri Chinmoy:/ Říkají: „Budeš silný, jedině když budeš jíst stejné jídlo jako já.“ Ale já nesouhlasím. Cítím, že jsem silný, když jím jiné jídlo. A jsou i jiní, kteří jsou na mé straně. Jak jsem už řekl, vždycky budou existovat kritici, kteří chtějí, abychom zůstávali na stejném místě. Podívejte se na Guinessovu knihu rekordů. Každý rok se objeví tolik nových disciplín. Jednoduše mohli zůstat u deseti disciplín, ale oni se snaží přijímat nové věci.
@@ -399,22 +325,13 @@ Pro někoho jsem zdrojem inspirace. Když vidí, jak je pro mě těžké vzpíra
 
 
 
-* Poznámka editora
 
-  :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MJWW:13e1-cs
-  :END:
-
-/Následující doplňkový komentář Sri Chinmoye je z 20. února 2000 ze setkání uspořádaného v P.S. 117 v Queensu v New Yorku./
-
-
-
-* 3.
+* 3.[fn:: MJWW 13. Následující doplňkový komentář Sri Chinmoye je z 20. února 2000 ze setkání uspořádaného v P.S. 117 v Queensu v New Yorku.]  
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:13-cs
+  :DATE-EVENT: 2000-02-20
   :END:
 
 Není třeba říkat, že kritikové budou existovat stále, ale já pevně věřím, že díváme-li se na zápornou stránku lidstva, nemůžeme udělat žádný pokrok. Tím, že se díváme na kladnou stránku lidstva, děláme pokrok a vidíme ostatní dělat pokrok. Jestliže je něco mým oborem, budu spokojen. Jestliže je něco oborem někoho jiného, budu rovněž spokojen.
@@ -460,22 +377,12 @@ bude rychle stoupat.
 
 
 
-* Poznámka editora
-
-  :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MJWW:15e1-cs
-  :END:
-
-/Následují výňatky z přátelského rozhovoru Sri Chinmoye s jeho studenty ze dne 27. února 2000./
-
-
-
-* Zdá se, že vzpíráním můžeš projevit duchovnost na vnější úrovni mnohem více než jinými aktivitami, jako je například běh.
+* Zdá se, že vzpíráním můžeš projevit duchovnost na vnější úrovni mnohem více než jinými aktivitami, jako je například běh.[fn:: MJWW 15-29. Následují výňatky z přátelského rozhovoru Sri Chinmoye s jeho studenty ze dne 27. února 2000.]
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:15-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ To je pravda. Milióny lidí mě mohou porazit v běhu, ale divil bych se, kdyby mě milióny lidí porazily ve vzpírání, zvlášť mezi lidmi mého věku. Kdybych pozval Američany nad šedesát let, kteří žijí zde v okolí, nebo i z Briarwoodu, aby zvedli 100 liber každou rukou, nemyslím si, že by byl někdo, kdo by vystoupil a udělal to. Nikdo nezvedne 100 liber oběma rukama, a pro mě je to snadné. Dělám něco, co je pro můj věk mimořádné. Dělám ale také některé věci, které jsou považovány za mimořádné v jakémkoliv věku. Loni a také předloni na výročí mého vzpírání řekl Mahasamrat Bill Pearl, aby byl můj věk zapomenut. Žádal lidi jakéhokoliv věku, aby vystoupili nahoru a zkusili to. On a pár dalších jako Jim Smith, Mike Katz a jiní se věnovali vzpírání a kulturistice celý svůj život. Ví, jak je to těžké. Na poli vzpírání jsem udělal něco ojedinělého, nejen co se týče věku, ale také tím, že jsem ukázal své schopnosti v různých typech zvedání -- zdvih oběma rukama, zvedání lýtkami ve stoje, zvedání slonů a tak dále
@@ -487,6 +394,7 @@ bude rychle stoupat.
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:16-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Necítím se silný. Jsem zcela odkázán na Milost Boha. Jsem šťastný, když mohu chodit. Když mohu slušně chodit, mám z toho obrovskou radost. Jinak každou vteřinu kulhám, kulhám. 
@@ -497,11 +405,12 @@ V mém případě, když lidé vidí sílu mých svalů, vědí, že neberu ž�
 
 
 
-* Student: Která skupina atletů má lepší vědomí -- kulturisti, nebo běžci?
+* Která skupina atletů má lepší vědomí -- kulturisti, nebo běžci?
 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:17-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Pro mě mají běžci všeobecně lepší vědomí. Mnoho, mnoho běžců nebere drogy. Je pravda, že existují běžci, kteří berou drogy, ale je tolik obyčejných běžců, kteří neberou nic. Vědí, že nebudou dalším Frankem Shorterem nebo Billem Rodgersem, a tak neberou drogy. Jakmile se jim jednou začne dařit, možná je začnou brát, kdo ví. Ale v případě kulturistů dokonce i ti obyčejní, když začínají, chtějí být dalším Arnoldem Schwarzeneggerem nebo Billem Pearlem. A tak hned od začátku berou drogy. 
@@ -519,6 +428,7 @@ Proto si myslím, že trénovat venku je daleko lepší než trénovat vevnitř.
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:18-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Jistě! Je velmi důležité něco dělat. Možná nemůžete chodit nebo běhat. Ale co vaše plíce nebo ruce? Musí existovat jiné části vašeho těla, které ještě dobře fungují. A tak můžete rozvíjet tyto části. Možná jste omezeni svým zraněním, ale v tom omezeném světě dokážete něco udělat. 
@@ -538,6 +448,7 @@ Co se týče počtu, je strašlivý rozdíl mezi těmi, kteří běhají, a těm
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:19-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ To je pravda, ale zvednou stolibrovou činku?
@@ -565,6 +476,7 @@ Sám život je cesta a ta cesta má cíl. Běžíme po Cestě Věčnosti k zít
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:20-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Cítím, že když se podíváte na kulturisty, vyzařují lepší vibrace než vzpěrači. Kulturisté zaměřují svou mysl na jemnější věc. Mohou zvedat těžké váhy, ale přitom myslí na jemné věci, věci, které jsou velmi něžné.
@@ -580,6 +492,7 @@ Kulturisté se velmi starají o dokonalost svého těla. Mohou brát drogy nebo 
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:21-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Ne, po vzpírání se mohu dostat do své nejvyšší meditace. Jde to, dokonce i když vzpírám. Jakmile jednou někdo dosáhne to Nejvyšší, může v té chvíli přeměnit tíhu v lehkost.
@@ -593,6 +506,7 @@ Před mnoha lety přišel na naše meditační setkání v Organizaci spojenýc
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:22-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Kulturisté vědí, jak je obtížné zvedat těžká závaží. Ačkoliv jejich cílem není zvedat velmi těžká závaží, zároveň vědí, jak bojují, když se pokouší je zvednout. 
@@ -610,6 +524,7 @@ Tolik lidí se dostalo do rodiny skvělého hudebníka, a přece se nezabývají
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:23-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Jistě! Proč jen vzpírání? Když člověk použije božské metody, správné metody v jakémkoliv oboru, může dělat nepředstavitelný pokrok.
@@ -640,6 +555,7 @@ Tak jsem ztratil skutečného přítele a velkého obdivovatele. Jmenoval se Kri
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:24-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Rozhodně dávám přednost sledování kulturistů, protože v tom je jistý druh umění. Když vidím tělo Franka Zanea, je to jako sledování řeckého boha. V jeho těle je tolik umění. Když se na něj podívám, vidím skrze něj proudit řeku s velkou životní energií, krásou, kouzlem a silou. Jak upřímně jej obdivuji a obdivuji! Je to umění. Celé jeho tělo -- svaly a všechno -- je jako umělecké dílo. Vypadá, jako by umělec udělal krásný náčrt lidské bytosti.
@@ -655,6 +571,7 @@ Kdyby byla soutěž kulturistů, zůstanu a budu se dívat, ačkoliv nevím, kte
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:25-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Nedívejte se na svaly kulturistů. Dívejte se na jejich tvář, obzvláště do jejich očí. Ihned vyzařují božskou vibraci. Nedívejte se na jejich břicha nebo kvadricepsy nebo cokoliv. Dívejte se jen od krku nahoru, na jejich oči a tvář. Jakmile se podíváte do jejich očí, kulturisté vyzařují dobré vibrace. Ale když se díváte do očí vzpěračů, ihned získáte jiné vibrace.
@@ -666,6 +583,7 @@ Kdyby byla soutěž kulturistů, zůstanu a budu se dívat, ačkoliv nevím, kte
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:26-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Podívejte na jejich dobrá srdce! Když zvedám velké hmotnosti, ocení to tolik lidí, kteří nepatří do světa vzpírání. Mohli by říci, že vzpírání je nesmyslné, ale protože mají dobrá srdce, říkají takové krásné věci. Jestliže máte dobré srdce, budete oceňovat všechno, co je dobré, i když to sami neděláte. Lidé s dobrým srdcem budou obdivovat každého, kdo se snaží nabídnout něco světu. Mnoho lidí má bohužel pocit, že to, co dělají, je nejdůležitější a všechno ostatní je zbytečné. Proč by to tak mělo být?
@@ -677,6 +595,7 @@ Kdyby byla soutěž kulturistů, zůstanu a budu se dívat, ačkoliv nevím, kte
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:27-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Pak to udělej. Kdo tě žádá, abys nebyl silný? Vidím, že ti, kteří mi podávají činky, tak mají dobrý trénink, ačkoliv nemyslí na to, aby zesílili. Lidé, kteří mi pomáhají, to dělají s láskou a oddaně. Mají takovou trpělivost! Někdy musí počítat pět set vzepření jednou rukou.
@@ -690,6 +609,7 @@ Zpravidla nemám rád, když činku zvedají a podávají dva lidé. Je to jako
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:28-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Závaží je obtížnější, neboť člověk má lidské vlastnosti. Většina lidí ke mně bude laskavá a bude vědomě spolupracovat s nadějí, že je dokážu zvednout. Ze zábavy budou někteří říkat: „Chudák, tak těžce zakouší. Zabíjí sám sebe. Nebudu stát proti němu.“
@@ -705,6 +625,7 @@ Většinou jsou lidé velmi milí, když se pokouším je zvednout. Nabízejí m
   :PROPERTIES:
   :GENRE: qa
   :CITE-KEY: MJWW:29-cs
+  :DATE-EVENT: 2000-02-27
   :END:
 
 
