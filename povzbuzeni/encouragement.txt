@@ -13,7 +13,7 @@
   :publisher: Sri Chinmoy Centrum
   :cite-key: encr-cs
   :genre: aphorism
-  :keywords:-cs
+  :keywords:
   :END:
 
 
