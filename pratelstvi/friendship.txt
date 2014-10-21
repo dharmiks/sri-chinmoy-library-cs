@@ -12,7 +12,7 @@
   :original-edition: Nil
   :year: 2005
   :publisher: Sri Chinmoy Centrum
-  :cite-key: frnd-cs
+  :cite-key: FRND-cs
   :genre: aphorism
   :keywords:
   :END:
@@ -24,7 +24,7 @@
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: frnd 1e1-cs
+  :cite-key: FRND:1e1-cs
   :END:
 
 
@@ -34,7 +34,7 @@
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 1-cs
+  :cite-key: FRND:1-cs
   :END:
 
 
@@ -46,7 +46,7 @@ Přátelství musí být opatrováno dvěma velkými a dobrými přáteli jako b
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 2-cs
+  :cite-key: FRND:2-cs
   :END:
 
 
@@ -58,7 +58,7 @@ Přátelství je překrásný dar, který Bůh s požehnáním věnuje svým mi
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 3-cs
+  :cite-key: FRND:3-cs
   :END:
 
 
@@ -70,7 +70,7 @@ Přátelství je darem květinové vůně v zahradě srdce jednoty dvou sebedá
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 4-cs
+  :cite-key: FRND:4-cs
   :END:
 
 
@@ -83,7 +83,7 @@ Přátelství je v tanci života motýlí hrou dnešních hledajících Boha a 
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 5-cs
+  :cite-key: FRND:5-cs
   :END:
 
 
@@ -95,7 +95,7 @@ Přátelství je mostem dokonalosti mezi pozemskými dětmi-hledajícími a nebe
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 6-cs
+  :cite-key: FRND:6-cs
   :END:
 
 
@@ -108,7 +108,7 @@ Most našeho přátelství nedokážeme postavit svými vlastními silami. Most 
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 7-cs
+  :cite-key: FRND:7-cs
   :END:
 
 
@@ -121,7 +121,7 @@ Přátelství znamená záblesk předzvěsti dokonalosti Nebe.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 8-cs
+  :cite-key: FRND:8-cs
   :END:
 
 
@@ -134,7 +134,7 @@ Přátelství znamená dvoje dveře otevřené dokořán, aby se oba přátelé 
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 9-cs
+  :cite-key: FRND:9-cs
   :END:
 
 
@@ -147,7 +147,7 @@ Mým pravým přítelem je ten, kdo mě miluje kvůli tomu, čím vnitřně jsem
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 10-cs
+  :cite-key: FRND:10-cs
   :END:
 
 
@@ -160,7 +160,7 @@ Přítel-hledající je pro mě bohatou zásobárnou duchovní energie.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 11-cs
+  :cite-key: FRND:11-cs
   :END:
 
 
@@ -172,7 +172,7 @@ Když pomáhám svým přátelům, jsem šťastný. Když sloužím svým přát
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 12-cs
+  :cite-key: FRND:12-cs
   :END:
 
 
@@ -185,7 +185,7 @@ Mé srdce nikdy nevyroste ze své potřeby přátelství.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 13-cs
+  :cite-key: FRND:13-cs
   :END:
 
 
@@ -198,7 +198,7 @@ Mí přátelé mi v tichosti připomínají, že mám zde na zemi na práci nek
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 14-cs
+  :cite-key: FRND:14-cs
   :END:
 
 
@@ -210,7 +210,7 @@ Popínavá rostlina, která k sobě váže dva přátele, je zdobena květy vd�
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 15-cs
+  :cite-key: FRND:15-cs
   :END:
 
 
@@ -223,7 +223,7 @@ Můj přítel je trumpetou oznamující mé vítězství.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 16-cs
+  :cite-key: FRND:16-cs
   :END:
 
 
@@ -236,7 +236,7 @@ Každý den mé srdce volá po novém příteli: Boha hledajícím, Boha milují
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 17-cs
+  :cite-key: FRND:17-cs
   :END:
 
 
@@ -249,7 +249,7 @@ Mé přátelství je šťastným výsledkem spontánního, Boha projevujícího 
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 18-cs
+  :cite-key: FRND:18-cs
   :END:
 
 
@@ -262,7 +262,7 @@ Přátelství není velikost naší mysli. Přátelství je dobrota našeho srdc
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 19-cs
+  :cite-key: FRND:19-cs
   :END:
 
 
@@ -275,7 +275,7 @@ Odpusť svým přátelům. Budou tě milovat nekonečně více.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 20-cs
+  :cite-key: FRND:20-cs
   :END:
 
 
@@ -288,7 +288,7 @@ To, co od tebe tvůj přítel potřebuje nejvíce, je síla tvého laskavého sr
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 21-cs
+  :cite-key: FRND:21-cs
   :END:
 
 
@@ -301,7 +301,7 @@ Pravý přítel je zázrak vykonaný Bohem samotným.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 22-cs
+  :cite-key: FRND:22-cs
   :END:
 
 
@@ -314,7 +314,7 @@ Díky naší vnitřní jednotě je naše vnější přátelství tak krásné a 
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 23-cs
+  :cite-key: FRND:23-cs
   :END:
 
 
@@ -327,7 +327,7 @@ Já tomu říkám vyjádření mého přátelství. Ale Bůh tomu říká rozš�
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 24-cs
+  :cite-key: FRND:24-cs
   :END:
 
 
@@ -340,7 +340,7 @@ Když vidím svého aspirujícího přítele, vidím jeho božskost kolem celé 
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 25-cs
+  :cite-key: FRND:25-cs
   :END:
 
 
@@ -353,7 +353,7 @@ Přátelství posvátně dýchá v tomto světě. Proto Bůh vůbec nemá v ú
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 26-cs
+  :cite-key: FRND:26-cs
   :END:
 
 
@@ -366,7 +366,7 @@ Díky sebedávajícímu přátelství je tento náš svět neobyčejně krásný
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 27-cs
+  :cite-key: FRND:27-cs
   :END:
 
 
@@ -379,7 +379,7 @@ Můj příteli, víš, že Bůh ti dal tyto dvě krásné a tichem zalité oči 
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 28-cs
+  :cite-key: FRND:28-cs
   :END:
 
 
@@ -392,7 +392,7 @@ Přátelství znamená pozvání. Bůh s požehnáním a radostí zve své slad
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 29-cs
+  :cite-key: FRND:29-cs
   :END:
 
 
@@ -405,7 +405,7 @@ Přátelství mysli nevidí žádný cíl. Přátelství srdce vidí cíl všude
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 30-cs
+  :cite-key: FRND:30-cs
   :END:
 
 
@@ -418,7 +418,7 @@ Přátelství rozšiřuje obzory našich sladkých snů.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 31-cs
+  :cite-key: FRND:31-cs
   :END:
 
 
@@ -431,7 +431,7 @@ Skutečné přátelství nemůže být vratkým a chvějícím se mostem.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 32-cs
+  :cite-key: FRND:32-cs
   :END:
 
 
@@ -444,7 +444,7 @@ Přátelství je půda, na které bujně roste štěstí.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 33-cs
+  :cite-key: FRND:33-cs
   :END:
 
 
@@ -457,7 +457,7 @@ Nebe s požehnáním miluje přátelství mé duše. Země s náklonností mil
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 34-cs
+  :cite-key: FRND:34-cs
   :END:
 
 
@@ -471,7 +471,7 @@ Potřebuji vůni přátelství jednoty.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 35-cs
+  :cite-key: FRND:35-cs
   :END:
 
 
@@ -485,7 +485,7 @@ Přátelství uvědomující si jednotu naplní samo sebe.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 36-cs
+  :cite-key: FRND:36-cs
   :END:
 
 
@@ -498,7 +498,7 @@ Přátelství mizí, když do něj pronikne sobectví.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 37-cs
+  :cite-key: FRND:37-cs
   :END:
 
 
@@ -512,7 +512,7 @@ Neočekávej, chceš-li, aby tvé přátelství vydrželo nejen nejdéle, ale na
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 38-cs
+  :cite-key: FRND:38-cs
   :END:
 
 
@@ -525,7 +525,7 @@ Jestliže si chceš udržet své přátelství, dávej si pozor na sopku svého 
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 39-cs
+  :cite-key: FRND:39-cs
   :END:
 
 
@@ -538,7 +538,7 @@ Jestliže si chceš udržet své přátelství, nikdy nestavěj věž nadřazeno
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 40-cs
+  :cite-key: FRND:40-cs
   :END:
 
 
@@ -551,7 +551,7 @@ Jestliže si chceš udržet své přátelství, tvá mysl musí být připraveno
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 41-cs
+  :cite-key: FRND:41-cs
   :END:
 
 
@@ -564,7 +564,7 @@ Jen pravé přátelství dokáže čelit každé bouři.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 42-cs
+  :cite-key: FRND:42-cs
   :END:
 
 
@@ -577,7 +577,7 @@ Přátelství není utajovaným životem, ale posvátným dechem.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 43-cs
+  :cite-key: FRND:43-cs
   :END:
 
 
@@ -590,7 +590,7 @@ Přátelství se nikdy nesmí snažit uniknout vzájemné zodpovědnosti.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 44-cs
+  :cite-key: FRND:44-cs
   :END:
 
 
@@ -603,7 +603,7 @@ Přátelství nežije v rozdělující mysli.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 45-cs
+  :cite-key: FRND:45-cs
   :END:
 
 
@@ -616,7 +616,7 @@ Přátelství žije ve znásobujícím srdci.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 46-cs
+  :cite-key: FRND:46-cs
   :END:
 
 
@@ -629,7 +629,7 @@ Mé přátelství s Nebem záleží na tom, čím jsem.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 47-cs
+  :cite-key: FRND:47-cs
   :END:
 
 
@@ -642,7 +642,7 @@ Mé přátelství se zemí záleží na tom, co dávám.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 48-cs
+  :cite-key: FRND:48-cs
   :END:
 
 
@@ -655,7 +655,7 @@ Přátelství mi dává nápoj nektarové blaženosti.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 49-cs
+  :cite-key: FRND:49-cs
   :END:
 
 
@@ -668,7 +668,7 @@ Přátelství dokáže velice rychle uplést věnec radosti.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 50-cs
+  :cite-key: FRND:50-cs
   :END:
 
 
@@ -681,7 +681,7 @@ Když si spolu přátelství a štěstí povídají, nedovol pochybnosti, aby vy
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 51-cs
+  :cite-key: FRND:51-cs
   :END:
 
 
@@ -694,7 +694,7 @@ Přátelství nesmí být nikdy pohřbeno pod tíhou nedorozumění.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 52-cs
+  :cite-key: FRND:52-cs
   :END:
 
 
@@ -707,7 +707,7 @@ Přátelství je horolezec srdce, který dorazí na vrchol blaženosti.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 53-cs
+  :cite-key: FRND:53-cs
   :END:
 
 
@@ -720,7 +720,7 @@ Přátelství je tajnou a posvátnou moudrostí tisíciletí.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 54-cs
+  :cite-key: FRND:54-cs
   :END:
 
 
@@ -733,7 +733,7 @@ Přátelství si musí uvědomit, že loď pochybnosti bude vždy na pokraji pot
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 55-cs
+  :cite-key: FRND:55-cs
   :END:
 
 
@@ -746,7 +746,7 @@ Přátelství je nebeská sprška okvětních lístků radosti.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 56-cs
+  :cite-key: FRND:56-cs
   :END:
 
 
@@ -759,7 +759,7 @@ Přátelství mysli je prchavě smrtelné.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 57-cs
+  :cite-key: FRND:57-cs
   :END:
 
 
@@ -772,7 +772,7 @@ Přátelství srdce je věčně nesmrtelné.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 58-cs
+  :cite-key: FRND:58-cs
   :END:
 
 
@@ -785,7 +785,7 @@ Mít pravé přátelství znamená kráčet po cestě míru.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 59-cs
+  :cite-key: FRND:59-cs
   :END:
 
 
@@ -798,7 +798,7 @@ Přátelství je stejná radost dvou myslí.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 60-cs
+  :cite-key: FRND:60-cs
   :END:
 
 
@@ -811,7 +811,7 @@ Přátelství je stejná plnost dvou srdcí.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 61-cs
+  :cite-key: FRND:61-cs
   :END:
 
 
@@ -824,7 +824,7 @@ Přátelství vydrží, když neexistuje boj mezi pochybností mysli a vírou sr
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 62-cs
+  :cite-key: FRND:62-cs
   :END:
 
 
@@ -837,7 +837,7 @@ Přátelství je vítězný úsměv srdce jednoty.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 63-cs
+  :cite-key: FRND:63-cs
   :END:
 
 
@@ -850,7 +850,7 @@ Lidský život se svými několika roky si nemůže dovolit ztratit opravdové p
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 64-cs
+  :cite-key: FRND:64-cs
   :END:
 
 
@@ -863,7 +863,7 @@ Přátelství je začátkem světla jednoty a moudrosti.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 65-cs
+  :cite-key: FRND:65-cs
   :END:
 
 
@@ -876,7 +876,7 @@ Přátelství je začátkem světla jednoty a moudrosti.
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 66-cs
+  :cite-key: FRND:66-cs
   :END:
 
 
@@ -889,7 +889,7 @@ Neztrácej přátelství. Kdo by chtěl snášet srdcem otřásající bolest?
   :PROPERTIES:
   :genre: aphorism
   :keywords:
-  :cite-key: frnd 67-cs
+  :cite-key: FRND:67-cs
   :END:
 
 
