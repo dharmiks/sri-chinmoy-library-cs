@@ -9,7 +9,7 @@
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
-  :year: 2007
+  :year: 2005
   :publisher: Sri Chinmoy Centrum
   :cite-key: ENCR-cs
   :genre: aphorism
