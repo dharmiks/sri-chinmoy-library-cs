@@ -12,7 +12,7 @@
   :original-edition: Nil
   :year: 2007
   :publisher: Sri Chinmoy Centrum
-  :cite-key: brth-cs
+  :cite-key: BRTH-cs
   :genre: aphorism
   :keywords:
   :END:
@@ -24,7 +24,7 @@
 
   :PROPERTIES:
   :GENRE: song
-  :cite-key: brth 1-cs
+  :cite-key: BRTH:1-cs
   :END:
 
 
@@ -43,7 +43,7 @@ Milujeme hru slibu duhových snů tvé duše.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 2-cs
+  :cite-key: BRTH:2-cs
   :END:
 
 Narozeniny jsou krásou zářících úsměvů.
@@ -54,7 +54,7 @@ Narozeniny jsou krásou zářících úsměvů.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 3-cs
+  :cite-key: BRTH:3-cs
   :END:
 
 Mé narozeniny jsou mým rozloučením se všemi zármutky.
@@ -65,7 +65,7 @@ Mé narozeniny jsou mým rozloučením se všemi zármutky.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 4-cs
+  :cite-key: BRTH:4-cs
   :END:
 
 Narozeniny dodávají energii snům naší aspirace.
@@ -76,7 +76,7 @@ Narozeniny dodávají energii snům naší aspirace.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 5-cs
+  :cite-key: BRTH:5-cs
   :END:
 
 Mé narozeniny mi pomáhají zdokonalit můj budoucí život.
@@ -87,7 +87,7 @@ Mé narozeniny mi pomáhají zdokonalit můj budoucí život.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 6-cs
+  :cite-key: BRTH:6-cs
   :END:
 
 Narozeniny pomáhají rozkvétat novým příležitostem.
@@ -98,7 +98,7 @@ Narozeniny pomáhají rozkvétat novým příležitostem.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 7-cs
+  :cite-key: BRTH:7-cs
   :END:
 
 V den našich narozenin mizí smutek.
@@ -109,7 +109,7 @@ V den našich narozenin mizí smutek.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 8-cs
+  :cite-key: BRTH:8-cs
   :END:
 
 Narozeniny jsou jako ranní hvězdy.
@@ -120,7 +120,7 @@ Narozeniny jsou jako ranní hvězdy.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 9-cs
+  :cite-key: BRTH:9-cs
   :END:
 
 V den našich narozenin sestupuje do našeho života vrcholná výška nebe.
@@ -131,7 +131,7 @@ V den našich narozenin sestupuje do našeho života vrcholná výška nebe.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 10-cs
+  :cite-key: BRTH:10-cs
   :END:
 
 V den našich narozenin je Bůh svým Okem Soucitu.
@@ -142,7 +142,7 @@ V den našich narozenin je Bůh svým Okem Soucitu.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 11-cs
+  :cite-key: BRTH:11-cs
   :END:
 
 V den našich narozenin je Bůh svým Srdcem Odpuštění.
@@ -153,7 +153,7 @@ V den našich narozenin je Bůh svým Srdcem Odpuštění.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 12-cs
+  :cite-key: BRTH:12-cs
   :END:
 
 Narozeniny jsou Životní Hodinou Boha.
@@ -164,7 +164,7 @@ Narozeniny jsou Životní Hodinou Boha.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 13-cs
+  :cite-key: BRTH:13-cs
   :END:
 
 Narozeniny nás osvobozují od proudu nejistoty.
@@ -175,7 +175,7 @@ Narozeniny nás osvobozují od proudu nejistoty.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 14-cs
+  :cite-key: BRTH:14-cs
   :END:
 
 Narozeniny jsou zahradou sladkosti.
@@ -186,7 +186,7 @@ Narozeniny jsou zahradou sladkosti.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 15-cs
+  :cite-key: BRTH:15-cs
   :END:
 
 V den našich narozenin nám Bůh dává své poselství míru.
@@ -197,7 +197,7 @@ V den našich narozenin nám Bůh dává své poselství míru.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 16-cs
+  :cite-key: BRTH:16-cs
   :END:
 
 Mé narozeniny jsou novým domovem srdce.
@@ -208,7 +208,7 @@ Mé narozeniny jsou novým domovem srdce.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 17-cs
+  :cite-key: BRTH:17-cs
   :END:
 
 Narozeniny jsou čerstvým a voňavým dechem novosti a plnosti.
@@ -219,7 +219,7 @@ Narozeniny jsou čerstvým a voňavým dechem novosti a plnosti.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 18-cs
+  :cite-key: BRTH:18-cs
   :END:
 
 Narozeniny jsou naší připraveností dotknout se Božích Nohou.
@@ -230,7 +230,7 @@ Narozeniny jsou naší připraveností dotknout se Božích Nohou.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 19-cs
+  :cite-key: BRTH:19-cs
   :END:
 
 Narozeniny jsou naší ochotou pocítit Boží Srdce.
@@ -241,7 +241,7 @@ Narozeniny jsou naší ochotou pocítit Boží Srdce.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 20-cs
+  :cite-key: BRTH:20-cs
   :END:
 
 Narozeniny jsou naší dychtivostí potěšit Boha Jeho vlastním způsobem.
@@ -252,7 +252,7 @@ Narozeniny jsou naší dychtivostí potěšit Boha Jeho vlastním způsobem.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 21-cs
+  :cite-key: BRTH:21-cs
   :END:
 
 V den našich narozenin inspirace, aspirace a zasvěcení stolují společně.
@@ -263,7 +263,7 @@ V den našich narozenin inspirace, aspirace a zasvěcení stolují společně.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 22-cs
+  :cite-key: BRTH:22-cs
   :END:
 
 V den narozenin radostně a vážně přijímáme zodpovědnost sloužit lidstvu svým srdcem.
@@ -274,7 +274,7 @@ V den narozenin radostně a vážně přijímáme zodpovědnost sloužit lidstvu
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 23-cs
+  :cite-key: BRTH:23-cs
   :END:
 
 Narozeniny jsou květinovou zahradou úsměvu duše.
@@ -285,7 +285,7 @@ Narozeniny jsou květinovou zahradou úsměvu duše.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 24-cs
+  :cite-key: BRTH:24-cs
   :END:
 
 V den svých narozenin se vydáváme na pouť k nebeské blaženosti.
@@ -296,7 +296,7 @@ V den svých narozenin se vydáváme na pouť k nebeské blaženosti.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 25-cs
+  :cite-key: BRTH:25-cs
   :END:
 
 V den našich narozenin mizí mraky zármutků mysli.
@@ -307,7 +307,7 @@ V den našich narozenin mizí mraky zármutků mysli.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 26-cs
+  :cite-key: BRTH:26-cs
   :END:
 
 Naše narozeniny jsou vítězstvím víry a porážkou sebepochybnosti.
@@ -318,7 +318,7 @@ Naše narozeniny jsou vítězstvím víry a porážkou sebepochybnosti.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 27-cs
+  :cite-key: BRTH:27-cs
   :END:
 
 Naše narozeniny jsou útočištěm před životní beznadějí.
@@ -329,7 +329,7 @@ Naše narozeniny jsou útočištěm před životní beznadějí.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 28-cs
+  :cite-key: BRTH:28-cs
   :END:
 
 V den našich narozenin naše zoufalá mysl vrůstá do spokojeného srdce.
@@ -340,7 +340,7 @@ V den našich narozenin naše zoufalá mysl vrůstá do spokojeného srdce.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 29-cs
+  :cite-key: BRTH:29-cs
   :END:
 
 V den našich narozenin štěstí zvětšuje lásku.
@@ -351,7 +351,7 @@ V den našich narozenin štěstí zvětšuje lásku.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 30-cs
+  :cite-key: BRTH:30-cs
   :END:
 
 V den našich narozenin se síla duše znásobuje.
@@ -362,7 +362,7 @@ V den našich narozenin se síla duše znásobuje.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 31-cs
+  :cite-key: BRTH:31-cs
   :END:
 
 V den našich narozenin nás Nejvyšší žádá, abychom si přisvojili dech Jeho Srdce.
@@ -373,7 +373,7 @@ V den našich narozenin nás Nejvyšší žádá, abychom si přisvojili dech Je
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 32-cs
+  :cite-key: BRTH:32-cs
   :END:
 
 V den svých narozenin zdobím Nohy svého Pána diamantem úsměvu svého srdce.
@@ -384,7 +384,7 @@ V den svých narozenin zdobím Nohy svého Pána diamantem úsměvu svého srdce
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 33-cs
+  :cite-key: BRTH:33-cs
   :END:
 
 Narozeniny neznají nedostatek sladkosti, štěstí a plnosti.
@@ -395,7 +395,7 @@ Narozeniny neznají nedostatek sladkosti, štěstí a plnosti.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 34-cs
+  :cite-key: BRTH:34-cs
   :END:
 
 V den svých narozenin všichni velmi šťastně a velmi radostně cestujeme po cestě služby Bohu.
@@ -406,7 +406,7 @@ V den svých narozenin všichni velmi šťastně a velmi radostně cestujeme po 
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 35-cs
+  :cite-key: BRTH:35-cs
   :END:
 
 V den našich narozenin je duše naší jistotou a plností.
@@ -417,7 +417,7 @@ V den našich narozenin je duše naší jistotou a plností.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 36-cs
+  :cite-key: BRTH:36-cs
   :END:
 
 V den našich narozenin je Nejvyšší dostupný všude.
@@ -428,7 +428,7 @@ V den našich narozenin je Nejvyšší dostupný všude.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 37-cs
+  :cite-key: BRTH:37-cs
   :END:
 
 V den svých narozenin cítíme, že náš život začal být aktivní.
@@ -439,7 +439,7 @@ V den svých narozenin cítíme, že náš život začal být aktivní.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 38-cs
+  :cite-key: BRTH:38-cs
   :END:
 
 V den našich narozenin utichá příval strachu.
@@ -450,7 +450,7 @@ V den našich narozenin utichá příval strachu.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 39-cs
+  :cite-key: BRTH:39-cs
   :END:
 
 Narozeniny jsou dnem nasycení naděje a naplnění slibů.
@@ -461,7 +461,7 @@ Narozeniny jsou dnem nasycení naděje a naplnění slibů.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 40-cs
+  :cite-key: BRTH:40-cs
   :END:
 
 Narozeniny jsou plností šťastného dechu.
@@ -472,7 +472,7 @@ Narozeniny jsou plností šťastného dechu.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 41-cs
+  :cite-key: BRTH:41-cs
   :END:
 
 Narozeniny jsou písní světla štěstí.
@@ -483,7 +483,7 @@ Narozeniny jsou písní světla štěstí.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 42-cs
+  :cite-key: BRTH:42-cs
   :END:
 
 Narozeniny jsou nesmírnou blažeností duše.
@@ -494,7 +494,7 @@ Narozeniny jsou nesmírnou blažeností duše.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 43-cs
+  :cite-key: BRTH:43-cs
   :END:
 
 V den našich narozenin Nebe sestupuje dolů, aby sledovalo ty, které si naše štěstí oblíbilo.
@@ -505,7 +505,7 @@ V den našich narozenin Nebe sestupuje dolů, aby sledovalo ty, které si naše 
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 44-cs
+  :cite-key: BRTH:44-cs
   :END:
 
 V den svých narozenin vidíme, že Štěstí Boha není nikdy bez dechu.
@@ -516,7 +516,7 @@ V den svých narozenin vidíme, že Štěstí Boha není nikdy bez dechu.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 45-cs
+  :cite-key: BRTH:45-cs
   :END:
 
 V den svých narozenin pijeme sladký nektar své lásky.
@@ -527,7 +527,7 @@ V den svých narozenin pijeme sladký nektar své lásky.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 46-cs
+  :cite-key: BRTH:46-cs
   :END:
 
 Narozeniny jsou ranní modlitbou s krásou vycházejícího slunce.
@@ -538,7 +538,7 @@ Narozeniny jsou ranní modlitbou s krásou vycházejícího slunce.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 47-cs
+  :cite-key: BRTH:47-cs
   :END:
 
 V den svých narozenin zpívám svou píseň vděčnosti Bohu.  
@@ -549,7 +549,7 @@ V den svých narozenin zpívám svou píseň vděčnosti Bohu.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :cite-key: brth 48-cs
+  :cite-key: BRTH:48-cs
   :END:
 
 Narozeniny dávají naší mysli zvláštní impuls k životnímu naplnění.
