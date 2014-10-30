@@ -24,6 +24,7 @@
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:1-cs
+  :DATE-EVENT: 1968-01-10
   :END:
 
 
@@ -45,6 +46,7 @@ Duchovnost říká člověku, že člověk je Bohem zahaleným a Bůh je člově
 Život musíme bezvýhradně přijmout. Život musíme oduševněle poznat. Život musíme úplně přeměnit. Život musíme věčně žít.
 
 Duchovnost není píseň nevědomosti. Je to matka koncentrace, meditace a realizace. Koncentrace mě dynamicky vede k Bohu. Meditace tiše přivádí Boha ke mně. Realizace mě ani nevede k Bohu, ani nepřivádí Boha ke mně.
+
 Realizace mi odhaluje, že Bůh je modrým ptákem Nekonečné Skutečnosti a já jsem zlatými křídly Božské Pravdy.
 
 Duchovnost mi ukázala rozdíl mezi mým mluvením a mým tichem, mezi mou myslí a mým srdcem. 
@@ -94,6 +96,7 @@ V Bohu jsem.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:2-cs
+  :DATE-EVENT: 1968-01-12
   :END:
 
 
@@ -125,6 +128,7 @@ Máte nespočet sladkých snů. Chcete je uskutečnit. Všechny vaše sny se cht
 Naneštěstí, váš život se poddává této žalostně mylné představě. Avšak pokud byste jednou, jen jednou, s pomocí své vše posilující meditace, dokázali vzít svůj dlouho opatrovaný strach do vnitřního světa, spatřili byste, že v něm strach ztrácí svou existenci. Okamžitě se sjednocuje s dynamickou silou vašeho vnitřního života.
 
 Pokud chcete opravdu vlastnit vnější svět, musíte nejprve vlastnit vnitřní svět, a ne obráceně. Pokud se chcete opravdu těšit z vnějšího světa, musíte se nejprve těšit z vnitřního světa, a ne naopak.
+
 Pokud vaše srdce touží po tom sloužit lidstvu, musíte nejprve sloužit vnitřní božskosti. Neomylná je tato pravda.
 
 
@@ -136,7 +140,8 @@ Pokud vaše srdce touží po tom sloužit lidstvu, musíte nejprve sloužit vnit
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:3-cs
-  :END:
+  :DATE-EVENT: 1968-08-26
+
 
 
 University of Puerto Rico, Rio Piedras, Puerto Rico \\
@@ -154,6 +159,7 @@ Každý člověk musí poznat sám sebe. Musí se poznat jako nekonečné, věč
 Bez jógy nemůže být žádné sebeobjevení. Jóga není náboženství. Jóga je Univerzální Pravda. Je to stará pravda Indie. Je to nejdůležitější zážitek života. Pravá jóga a život patří k sobě. Nemůžete je oddělit. Pokud se je pokusíte oddělit, nepodaří se vám to. Jóga a život jsou tak neoddělitelné jako Stvořitel a stvoření.
 
 Je jóga jiným jménem pro krutou askezi? Určitě ne. Je jóga jiným jménem pro sebedisciplínu? Rozhodně ano. Vyžaduje jóga odmítnutí světa a vyhladovění smyslů? Ne, nikdy. Vyžaduje jóga přijetí světa a ovládnutí smyslů? Ano, obrovské ano. Je jóga pro každého? Ano i ne.
+
 Ano, protože každá lidská duše přišla od Boha a vnitřně usiluje o to, aby se k Němu vrátila. Ne, protože někteří lidé na svém současném stupni vývoje cítí, že mohou žít bez Boha.
 
 Mohou dát vědomosti a úvahy člověku seberealizaci? Ne. Pouhá knižní znalost končí sebeklamem. Proč? Protože člověk znalosti cítí, že dosáhl nesmírné moudrosti. Bohužel neví, že skutečná nesmírná moudrost může přijít jen s realizací Boha. Pouhé mentální zdůvodňování končí sebezklamáním.
@@ -165,6 +171,7 @@ Pro seberealizaci potřebuje člověk svobodu. Bůh mu dává svobodu. Co je to 
 Musíme mít pozitivní myšlenky, pozitivní představy, pozitivní ideály. Jen tehdy náš Cíl nezůstane vzdáleným voláním. Každý člověk musí cítit: „Jsem u Nohou Boha, svého Mistra. Jsem v rukou Boha, svého Stvořitele. Jsem v srdci Boha, svého jediného Milovaného.“
 
 „Žádej a bude ti dáno, hledej a nalezneš, klepej a bude ti otevřeno.“
+
 Žádal jsem. Můj Pán mi poskytl svůj bezmezný Soucit. Hledal jsem. Můj Pán mi dal svou nekonečnou Lásku. Klepal jsem. K mému naprostému úžasu nebyly dveře zevnitř zamčené. Můj sladký Pán dychtivě očekával můj příchod. Hle, přicházím!
 
 
@@ -176,6 +183,7 @@ Musíme mít pozitivní myšlenky, pozitivní představy, pozitivní ideály. Je
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:4-cs
+  :DATE-EVENT: 1968-10-17
   :END:
 
 
@@ -241,6 +249,7 @@ Můj život má tři Bohy: Boha Existenci, Boha Vědomí a Boha Blaženost. Bůh
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:5-cs
+  :DATE-EVENT: 1968-11-11
   :END:
 
 
@@ -304,6 +313,7 @@ Kdo říká, že člověk spí? Není to pravda. Člověk se probudil se svými 
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:6-cs
+  :DATE-EVENT: 1968-01-14
   :END:
 
 
@@ -380,6 +390,7 @@ Vnější svět je tělo. Vnitřní svět je duše. Pokud zůstáváme v těle,
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:7-cs
+  :DATE-EVENT: 1969-03-24
   :END:
 
 
@@ -425,8 +436,7 @@ Naplň Mě na zemi.
 
 Potřebujeme změnit svůj postoj k povinnosti. Pracujeme-li pro Boha, potom neexistuje žádná povinnost. Vše je radostí. Vše je krásou. Každý čin musíme vykonat a nabídnout k Nohám Boha. Povinnost pro Boha je povinností nejvyšší. Nemáme právo převzít jakoukoliv jinou povinnost dříve, než dosáhneme svého vlastního duchovního spasení. Copak nám Bůh tento krásný úkol nesvěřil již ve chvíli našeho zrození?
 
-Nejvyšší povinností je neustále usilovat o realizaci Boha. Čas je krátký, avšak poslání naší duše na zemi je vznešené. Jak můžeme plýtvat časem? Proč bychom ho měli trávit v potěšeních smyslů? Často říkáme, že nejsme druhým zavázáni, protože jsme od nich nic nedostali. Nic nám nedali. Pravda, nejsme jim zavázáni, ale existuje něco, čemu se říká ‚očekávání‘. Možná jsem si od vás nic nevzal, to však neznamená, že ode mě nemůžete něco očekávat. Někdy může být vaše očekávání oprávněné. Očekávat zajisté můžete, ale je jedna věc, kterou udělat nemůžete. Nemůžete si činit nárok. Můžete očekávat a záleží na mně, zda vám to, co chcete, dám, ale nárok si činit nesmíte. Jen Bůh si může činit nárok. Bůh a jedině Bůh ode mě může požadovat celý můj život. Každý člověk musí cítit,
- že Bůh má plné právo činit si na něj navždy nárok, zde na zemi i tam v Nebi.
+Nejvyšší povinností je neustále usilovat o realizaci Boha. Čas je krátký, avšak poslání naší duše na zemi je vznešené. Jak můžeme plýtvat časem? Proč bychom ho měli trávit v potěšeních smyslů? Často říkáme, že nejsme druhým zavázáni, protože jsme od nich nic nedostali. Nic nám nedali. Pravda, nejsme jim zavázáni, ale existuje něco, čemu se říká ‚očekávání‘. Možná jsem si od vás nic nevzal, to však neznamená, že ode mě nemůžete něco očekávat. Někdy může být vaše očekávání oprávněné. Očekávat zajisté můžete, ale je jedna věc, kterou udělat nemůžete. Nemůžete si činit nárok. Můžete očekávat a záleží na mně, zda vám to, co chcete, dám, ale nárok si činit nesmíte. Jen Bůh si může činit nárok. Bůh a jedině Bůh ode mě může požadovat celý můj život. Každý člověk musí cítit, že Bůh má plné právo činit si na něj navždy nárok, zde na zemi i tam v Nebi.
 
 Miluj svou rodinu. To je tvou velkou povinností.
 Miluj lidstvo více. To je tvou větší povinností.
@@ -446,6 +456,7 @@ Také v duchovním světě existuje povinnost. Tou povinností je těšit se z�
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:8-cs
+  :DATE-EVENT: 1969-03-26
   :END:
 
 
@@ -472,6 +483,7 @@ Vím, že každá lidská bytost bez výjimky vroste do transcendentální Vize 
 Vy však máte sklon opatrovat v nejvnitřnějších zákoutích svého srdce několik zvláštních myšlenek. Především získáváte radost z toho, že říkáte světu, že není žádný Bůh, že nemůže být nic takového jako Bůh. Dokonce i když cítíte, že Bůh existuje, říkáte svým bližním a drahým, že Bůh je pro ně a pro ostatní, ale ne pro vás. Se vší nevědomostí, kterou máte k dispozici, prohlašujete, že Bůh se o vás nestará. Máte pocit, že Bůh se na vás hrozně zlobí, protože jste před deseti lety osudně zalhali nebo někoho podvedli. Ubohý Bůh! Jako kdyby neměl na práci nic jiného než se na vás zlobit a nemilosrdně vás trestat.
 
 Věřte tomu, nebo ne, Bůh má mnoho, mnoho významných věcí, které chce dělat s vaším životem. Pro vás není váš život ničím, je dokonalou nulou. Pro Boha je váš život vším -- abych byl přesný, Jeho vším.
+
 Jste Jeho nesrovnatelnou Pýchou. Jste Jeho jediným Snem. Jste Jeho jedinou Skutečností. S vámi zpívá Píseň Nesmrtelnosti. Ve vás vidí ztělesnění své Existence-Vědomí-Blaženosti. Po celou Věčnost existuje pro vás, jen pro vás. Utváří vás. Tvaruje vás. Vede vás. Přeměňuje vás podle svého Obrazu, svého Života vždy se překonávajícího světa Za.
 
 Milí studenti, vážení profesoři, milé sestry a bratři, jste nyní na stejné lodi jako já. Společně zazpívejme: 
@@ -502,6 +514,7 @@ Veď mne od smrti k Nesmrtelnosti.“
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:9-cs
+  :DATE-EVENT: 1969-03-29
   :END:
 
 
@@ -530,7 +543,7 @@ Ubohý člověče, podívej se na svůj nejžalostnější osud. Výstižnými s
 
 #+BEGIN_QUOTE
 
-„V životě jsou dvě tragédie. Jednou je nenaplnit touhu svého srdce, tou druhou je ji naplnit.“ 
+„V životě jsou dvě tragédie. Jednou je nenaplnit touhu svého srdce, tou druhou je ji naplnit.“ 
 
 -- George Bernard Shaw 
 
@@ -591,6 +604,7 @@ Vrchol lidské touhy je vyjádřen Césarovým /„Veni, vidi, vici“/ -- „P�
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:10-cs
+  :DATE-EVENT: 1969-04-14
   :END:
 
 
@@ -600,6 +614,7 @@ University of Bridgeport, Bridgeport, Connecticut \\
 
 
 Jak potěšit Boha?
+
 Boha mohu potěšit tak, že Mu nabídnu to, co mám a čím jsem. To, co mám, je vděčnost. To, čím jsem, je aspirace. Pokud Ho chci potěšit více, potom nesmím svůj život nikdy považovat za smutné selhání, ale za Jeho neustálý zážitek. Pokud Ho chci potěšit nejvíce, nejen v jedné, ale v každé oblasti života, potom musím cítit, že On, na rozdíl ode mne, vidí můj život, vnitřní i vnější, jako píseň svého vlastního životního Dechu, jako píseň své Dokonalosti, která vrůstá do Jeho vlastní naprosté, dokonalé Dokonalosti.
 
 Víte, kdy Boha zraňujete? Zraňujete Ho v okamžiku, kdy podceňujete svou vnitřní schopnost. Zraňujete Ho v okamžiku, kdy zdůrazňujete svou vámi vytvořenou vnější zodpovědnost. Zraňujete Ho hluboce, když opatrujete prázdnou myšlenku, že realizace Boha není určena pro vás. Po pravdě řečeno, v Boží vyvolené Hodině je vaše realizace Boha to nejmocnější potvrzení, ta největší jistota.
@@ -648,6 +663,7 @@ Vraťme se ke své původní otázce: „Jak potěšit Boha?“ Nejsnazší a ne
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:11-cs
+  :DATE-EVENT: 1969-04-19
   :END:
 
 
@@ -704,6 +720,7 @@ Existují čtyři typy hledajících: politováníhodní, neschopní, slibní a 
 Vraťme se k tajemství vnitřního míru. Naše zkoumající a pochybující mysl vždy postrádá mír. Naše milující a zasvěcené srdce je vnitřním mírem vždy zaplaveno. Má-li naše mysl všechny otázky, potom naše srdce má všechny odpovědi. Tyto odpovědi jsou dokonalé právě proto, že přicházejí přímo od duše, která vidí Pravdu a žije v Pravdě. A Pravda, jedině Pravda, je Cílem všech Cílů.
 
 Chcete-li mít vnitřní mír, potom musíte jít cestou duchovnosti. Duchovnost je odpovědí. Člověk je trojího stáří: nedospělý, přestárlý a středního věku. Pro člověka nedospělého je duchovnost pouhý hokuspokus.
+
 Pro člověka přestárlého je duchovnost něco suchého, nejistého a nejasného. Pro člověka středního věku je duchovnost sebezapomnění, sebepopření a sebezničení.
 
 Pravý hledající ale řekne, že duchovnost je něco normálního, přirozeného, spontánního, plodného, jasného, zářivého, božsky sebevědomého, sebepotvrzujícího a sebetvořivého.
@@ -734,6 +751,7 @@ Bůh transplantoval na zemi pravdu a On tuto pravdu s láskou udržuje. V kombi
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:12-cs
+  :DATE-EVENT: 1969-04-21
   :END:
 
 
@@ -788,8 +806,7 @@ Existence a podstata žijí společně. Jsou jedním. Dynamicky to ve třináct�
 
 Mystika nám říká, že realizace Boha můžeme dosáhnout ne ustavičným přemýšlením, ale neustálým pocitem jednoty s Pravdou. Myšlenka ukazuje v nejlepším případě pasivní aspekt světa smyslů, protože mentální tvoření je přímo nebo nepřímo zachyceno světem smyslů. Avšak pocit jednoty s Pravdou snadno svět smyslů překonává. Ukazuje a objevuje aktivní a dynamickou stránku rozvíjejícího se procesu života v plynoucím proudu Věčnosti.
 
-Mystik říká světu, že Moudrost je tělem Boha a Láska je duší Boha.
-Světský člověk cítí, že jeho tělo a jeho fyzické činnosti utvářejí jeho duši. Mystik s úsměvem říká, že duše utváří tělo a přeměňuje ho v neomezené světlo vědomí duše.
+Mystik říká světu, že Moudrost je tělem Boha a Láska je duší Boha. Světský člověk cítí, že jeho tělo a jeho fyzické činnosti utvářejí jeho duši. Mystik s úsměvem říká, že duše utváří tělo a přeměňuje ho v neomezené světlo vědomí duše.
 
 Podle Santayany „není mystika náboženstvím, ale náboženskou nemocí“. Santayana má naprostou pravdu v tom, že mystika není náboženstvím. Mystika je podle mě nejvyšší aspirací, kterou náboženství ztělesňuje. Avšak nikdy nemohu souhlasit s jeho názorem o „náboženské nemoci“.
 
@@ -803,6 +820,7 @@ S veškerou duchovní jistotou, kterou mám, si přeji říci, že mystika je l
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:13-cs
+  :DATE-EVENT: 1969-04-22
   :END:
 
 
@@ -890,6 +908,7 @@ Roztavené vědomí světa kráčí k nejvzdálenějšímu Za, aby ho požehnal
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:14-cs
+  :DATE-EVENT: 1969-04-23
   :END:
 
 
@@ -919,6 +938,7 @@ Meditace vám odhaluje jen jednu pravdu: Vize Boha patří vám.
 K mému obrovskému zármutku mají někteří lidé o  meditaci mylné představy. Mají pocit, že vrcholem meditace je věštění nebo předvádění zázraků. Věštění a meditace se k sobě nehodí. Předvádění zázraků a meditace také ne. K meditaci se ale dokonale hodí uskutečnění. K meditaci se oduševněle hodí osvobození.
 
 Opravdu chcete uskutečnit Boha? Skutečně chcete Boží nekonečné Světlo, Mír a Blaženost? Pokud ano, měli byste se od těch, kteří věští a předvádí zázraky, držet na milióny a milióny mil daleko. Pokud si myslíte, že vás inspirují, mýlíte se. Jděte hluboko dovnitř a zjistíte, že jen probouzejí vaši zbytečnou, slepou a neplodnou zvědavost. Zvědavost není duchovnost.
+
 Něco více vám ti, kteří věští a předvádí zázraky, tajně a vědomě nabízí: pokušení. Pokušení je předzvěstí zničení. Zde končí božská mise vašeho života -- neúspěšná, nenaplněná.
 
 Mějme se na pozoru. Naléhavě vás prosím, abyste nemátli opravdovou meditaci svého srdce věštěním a předváděním zázraků. Neplýtvejte svým časem. Váš čas je vzácný. Vaše meditace je neocenitelná. Vaše dosažení bude pokladem věčné Věčnosti, bezmezné Nekonečnosti a nesmrtelné Nesmrtelnosti.
@@ -969,6 +989,7 @@ Na začátku své duchovní cesty cítíme, že meditace je naše úsilí a ná�
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:15-cs
+  :DATE-EVENT: 1969-05-06
   :END:
 
 
@@ -1073,6 +1094,7 @@ Tajemstvím nejvyšším je realizace Boha, nic víc a nic míň. Včera mě má
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:16-cs
+  :DATE-EVENT: 1969-05-07
   :END:
 
 
@@ -1113,6 +1135,7 @@ Mystika není výhradním monopolem hinduismu. Křesťanství i ostatní nábož
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:17-cs
+  :DATE-EVENT: 1969-10-01
   :END:
 
 
@@ -1156,6 +1179,7 @@ Vnitřní hlas je zároveň neúnavným průvodcem a pravým přítelem člověk
 Existuje sladké a čisté slovo, které velmi dobře známe. Tím slovem je ‚svědomí‘. Svědomí je jiné jméno pro vnitřní hlas. Božsky inspirován je výrok Shakespeara: „Cítím v sobě mír povznesený nad všemi pozemskými úzkostmi -- klidné a tiché svědomí.“
 
 Svědomí může přebývat na dvou místech: v srdci pravdy a v ústech klamu.
+
 Když nás svědomí udeří jednou, musíme myslet na to, že nám ukazuje svou bezpodmínečnou lásku. Když nás udeří podruhé, musíme cítit, že nám ukazuje svůj bezvýhradný zájem. Když nás udeří potřetí, musíme si uvědomit, že nám nabízí svůj bezmezný soucit, aby nás ochránilo před hlubokým ponořením do moře nevědomosti.
 
 Rousseau nám říká něco docela pozoruhodného:
@@ -1205,6 +1229,7 @@ Bůh poručil vnitřnímu hlasu, aby byl přítelem aspirujících duší a soud
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:18-cs
+  :DATE-EVENT: 1969-10-01
   :END:
 
 
@@ -1260,6 +1285,7 @@ Upřímnost našeho srdce nikdy neselhává. Zájem naší duše nikdy neselháv
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:19-cs
+  :DATE-EVENT: 1969-10-16
   :END:
 
 
@@ -1295,6 +1321,7 @@ Podobně, když my se svou individualitou vstoupíme do své božské osobnosti,
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:20-cs
+  :DATE-EVENT: 1969-10-17
   :END:
 
 
@@ -1360,6 +1387,7 @@ Brahman je svou povahou nedělitelný, je to úplný celek. Avšak skrze máju, 
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:21-cs
+  :DATE-EVENT: 1969-10-30
   :END:
 
 
@@ -1400,6 +1428,7 @@ Náš úspěch nebo naše selhání toho mají málo do činění s Boží Moud
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:22-cs
+  :DATE-EVENT: 1969-10-31
   :END:
 
 
@@ -1451,6 +1480,7 @@ Každý člověk musí být zaplaven touto nejvyšší Pravdou. Měl by vědomě
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:23-cs
+  :DATE-EVENT: 1969-12-01
   :END:
 
 
@@ -1489,6 +1519,7 @@ Obyčejné lidské tělo je ztělesněnou nedokonalostí. Tato nedokonalost se m
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:24-cs
+  :DATE-EVENT: 1970-03-04
   :END:
 
 
@@ -1545,6 +1576,7 @@ My všichni bez výjimky máme příležitost naplnit Boha zde na zemi. Pokud se
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:25-cs
+  :DATE-EVENT: 1970-03-04
   :END:
 
 
@@ -1576,7 +1608,9 @@ Avšak kdo je hlupák, ten, kdo chce přemoci sám sebe, nebo ten, kdo je neust�
 Před chvílí jsem řekl, že lidé zesměšňují člověka, který se pokouší ovládat sám sebe. Někdy vidíme, že společnost zesměšňuje a nemilosrdně odsuzuje dokonce i duchovní Mistry. Dokonce i duchovní osobnost, jejíž srdce je sněhobílé, jejíž srdce je čistotou samou, jejíž život nemá ani skvrnku nečistoty, jejíž samotný dech je záplavou čistoty, může být obětí kritiky nevědomého světa.
 
 To mi připomíná jeden zenový příběh. Byl jednou jeden zenový Mistr, který byl velmi čistý, velmi osvícený. Blízko místa, kde bydlel, byl obchod s potravinami. Jeho majitel měl krásnou svobodnou dceru. Jednoho dne se zjistilo, že je těhotná. Její rodiče se rozzuřili. Chtěli vědět, kdo je otcem toho dítěte, ona jim to však nechtěla říct. Po opakovaném hubování a trápení jim řekla, že je jím zenový Mistr. Rodiče jí uvěřili. Když se dítě narodilo, běželi k zenovému Mistrovi, sprostě mu vyhubovali a nemluvně u něj nechali. Jediná poznámka zenového Mistra byla: „Je to tak.?“
-Zenový Mistr děťátko přijal a začal se o něj starat. V té době už byla jeho dobrá pověst ta tam a lidé ho zesměšňovali. Ze dnů se stávaly týdny, z týdnů měsíce a z měsíců roky.
+
+Zenový Mistr děťátko přijal a začal se o něj starat. V té době už byla jeho dobrá pověst ta tam a lidé ho zesměšňovali. Ze dnů se stávaly týdny, z týdnů měsíce a z měsíců roky.
+
 V našem lidském životě však existuje něco, čemu říkáme svědomí, a tuto mladou dívku její svědomí trápilo. Jednoho dne nakonec rodičům prozradila jméno skutečného otce dítěte -- muže, který pracoval na rybím trhu. Rodiče se znovu rozzuřili. Jejich domácnost však zároveň trápil smutek a ponížení. Běželi za duchovním Mistrem, prosili ho o odpuštění, vyprávěli mu celý příběh a vzali si dítě nazpět. Poznamenal jen: „Je to tak.?“
 
    Pokud vám lidé v procesu vaší přeměny nebudou rozumět anebo nebudou mít zájem o váš čistý život, nevěnujte jejich kritice prosím žádnou pozornost. Pokud vaši upřímnost, vaše úsilí nebo váš úspěch v ovládání vaší nižší vitální přirozenosti neoceňují, žádná škoda. Chcete-li, aby vaši snahu oceňovali a obdivovali, pak do svého života zbytečně přivádíte nejen jejich kritiku a nedůvěru, ale i pochybnost a pokušení.
@@ -1593,6 +1627,7 @@ Snažte se tedy být upřímní sami k sobě. Ať vám svět něco vytýká. Ať
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:26-cs
+  :DATE-EVENT: 1970-03-06
   :END:
 
 
@@ -1653,6 +1688,7 @@ Ve světě světla a blaženosti říká duchovnost vědě: „Sestro, potřebuj
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:27-cs
+  :DATE-EVENT: 1970-03-11
   :END:
 
 
@@ -1707,6 +1743,7 @@ Upřímnost a duchovnost by měly jít společně. Má-li někdo jen upřímnost
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:28-cs
+  :DATE-EVENT: 1970-03-11
   :END:
 
 
@@ -1765,6 +1802,7 @@ Aspirujeme všichni. Naše je aspirující duše, náš je naplňující Cíl, t
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:29-cs
+  :DATE-EVENT: 1970-03-18
   :END:
 
 
@@ -1811,6 +1849,7 @@ Světlo v jeho srdci je jeho vítězstvím.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:30-cs
+  :DATE-EVENT: 1970-03-20
   :END:
 
 
@@ -1904,6 +1943,7 @@ Veškerým Nektarem, Veškerou Blažeností.“
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:31-cs
+  :DATE-EVENT: 1970-04-07
   :END:
 
 
@@ -1966,6 +2006,7 @@ Hloupý je ten, kdo popírá existenci moře vědomí.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:32-cs
+  :DATE-EVENT: 1970-04-08
   :END:
 
 
@@ -2023,6 +2064,7 @@ Má duše svobody je soucitnou a neustálou nezbytností mého Boha. Můj cíl s
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:33-cs
+  :DATE-EVENT: 1970-04-10
   :END:
 
 
@@ -2130,6 +2172,7 @@ Obdivuhodní hledající cítí, že dosáhnou své realizace jen proto, že je 
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:34-cs
+  :DATE-EVENT: 1970-04-15
   :END:
 
 
@@ -2191,7 +2234,8 @@ Je jedna porážka, která nám přináší větší triumf než vítězství. C
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:35-cs
-  :END:
+   :DATE-EVENT: 1970-04-24
+ :END:
 
 
 University of Massachusetts, Amherst, Massachusetts \\
@@ -2255,6 +2299,7 @@ Matka Země symbolizuje lidskou aspiraci. Proto je to Maitréjí, žena v upani�
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:36-cs
+  :DATE-EVENT: 1970-04-24
   :END:
 
 
@@ -2287,6 +2332,7 @@ Intuice je zlatou spojnicí mezi vizí a skutečností. Vize potřebuje intuici,
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:37-cs
+  :DATE-EVENT: 1970-04-27
   :END:
 
 
@@ -2331,6 +2377,7 @@ Aspirace je uskutečněním, jestliže a pokud aspirant potřebuje uskutečněn�
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:38-cs
+  :DATE-EVENT: 1970-04-28
   :END:
 
 
@@ -2378,6 +2425,7 @@ Věkem uskutečnění Skutečnosti je Nesmrtelnost.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:39-cs
+  :DATE-EVENT: 1970-10-07
   :END:
 
 
@@ -2419,6 +2467,7 @@ Sebeovládání znamená sebenabízení Bohu. Sehrajme svou roli: dejme to, co m
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:40-cs
+  :DATE-EVENT: 1970-10-07
   :END:
 
 
@@ -2503,6 +2552,7 @@ Když děláme moudrou věc, jsme naplnění.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:41-cs
+  :DATE-EVENT: 1970-10-08
   :END:
 
 
@@ -2553,6 +2603,7 @@ Mým nedokonalým dárkem Bohu je včerejšek, včerejší zážitek. Božím do
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: ELWM:42-cs
+  :DATE-EVENT: 1970-10-09
   :END:
 
 

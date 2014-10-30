@@ -19,7 +19,7 @@
 
 
 
-* 1
+* 1.
 
   :PROPERTIES:
   :GENRE: poem
@@ -38,7 +38,7 @@ můj zasvěcený život k překonání.
 #+END_VERSE
 
 
-* 2
+* 2.
 
   :PROPERTIES:
   :GENRE: poem
@@ -57,7 +57,7 @@ K potěšení z bezdeché radosti.
 #+END_VERSE
 
 
-* 3 
+* 3. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -75,7 +75,7 @@ byli jednotou přátelství.
 #+END_VERSE
 
 
-* 4 
+* 4. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -93,7 +93,7 @@ závod pokroku.
 #+END_VERSE
 
 
-* 5 
+* 5. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -112,7 +112,7 @@ Svým Stromem Uspokojení Srdce.
 #+END_VERSE
 
 
-* 6 
+* 6.
 
   :PROPERTIES:
   :GENRE: poem
@@ -130,7 +130,7 @@ dušeplné a plodné.
 #+END_VERSE
 
 
-* 7 
+* 7. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -148,7 +148,7 @@ neviditelným hledajícím.
 #+END_VERSE
 
 
-* 8 
+* 8.
 
   :PROPERTIES:
   :GENRE: poem
@@ -166,7 +166,7 @@ historii aspirace svého srdce.
 #+END_VERSE
 
 
-* 9 
+* 9. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -184,7 +184,7 @@ je extrémě nebezpečné.
 #+END_VERSE
 
 
-* 10 
+* 10. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -202,7 +202,7 @@ na naplnění svých vlastních tužeb?
 #+END_VERSE
 
 
-* 11 
+* 11. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -221,7 +221,7 @@ Nejvyššího v našich životech.
 #+END_VERSE
 
 
-* 12 
+* 12. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -242,7 +242,7 @@ tvé sebedávání?
 #+END_VERSE
 
 
-* 13 
+* 13. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -262,7 +262,7 @@ není Spasitelem."
 #+END_VERSE
 
 
-* 14 
+* 14. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -281,7 +281,7 @@ radostně a hrdě k Bohu.
 #+END_VERSE
 
 
-* 15 
+* 15. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -299,7 +299,7 @@ neopakovat je.
 #+END_VERSE
 
 
-* 16 
+* 16. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -318,7 +318,7 @@ modlitbu.
 #+END_VERSE
 
 
-* 17 
+* 17. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -336,7 +336,7 @@ jehož práce není oceňována.
 #+END_VERSE
 
 
-* 18 
+* 18. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -356,7 +356,7 @@ za tvůj duchovní život?
 #+END_VERSE
 
 
-* 19 
+* 19. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -376,7 +376,7 @@ v tomto životě.
 #+END_VERSE
 
 
-* 20 
+* 20. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -396,7 +396,7 @@ zklamání.
 #+END_VERSE
 
 
-* 21 
+* 21. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -417,7 +417,7 @@ které neudělaly.
 #+END_VERSE
 
 
-* 22 
+* 22. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -438,7 +438,7 @@ běda?
 #+END_VERSE
 
 
-* 23 
+* 23. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -460,7 +460,7 @@ k Boží skutečné Spokojenosti.
 #+END_VERSE
 
 
-* 24 
+* 24. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -479,7 +479,7 @@ snažícím se tě pohltit.
 #+END_VERSE
 
 
-* 25 
+* 25. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -499,7 +499,7 @@ Ne, ani tvůj Pilot Nejvyšší.
 #+END_VERSE
 
 
-* 26 
+* 26. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -519,7 +519,7 @@ postarat se o lidstvo.
 #+END_VERSE
 
 
-* 27 
+* 27.
 
   :PROPERTIES:
   :GENRE: poem
@@ -538,7 +538,7 @@ k překonání svých vlastních schopností.
 #+END_VERSE
 
 
-* 28 
+* 28. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -558,7 +558,7 @@ každou chvíli.
 #+END_VERSE
 
 
-* 29 
+* 29. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -577,7 +577,7 @@ budeš odpovědný za svůj vnitřní pokrok.
 #+END_VERSE
 
 
-* 30 
+* 30. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -596,7 +596,7 @@ Tvá okamžitá odpověď modlitby:
 #+END_VERSE
 
 
-* 31 
+* 31. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -615,7 +615,7 @@ a proti této překážce bojovat.
 #+END_VERSE
 
 
-* 32
+* 32.
 
   :PROPERTIES:
   :GENRE: poem
@@ -635,7 +635,7 @@ a nakonec uspět.
 #+END_VERSE
 
 
-* 33 
+* 33. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -656,7 +656,7 @@ budou vyřešeny.
 #+END_VERSE
 
 
-* 34 
+* 34. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -677,7 +677,7 @@ a tvá duchovní smrt bude bližší.
 #+END_VERSE
 
 
-* 35
+* 35.
 
   :PROPERTIES:
   :GENRE: poem
@@ -698,7 +698,7 @@ Svými problémy.
 #+END_VERSE
 
 
-* 36 
+* 36. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -719,7 +719,7 @@ Bohu.
 #+END_VERSE
 
 
-* 37
+* 37.
 
   :PROPERTIES:
   :GENRE: poem
@@ -740,7 +740,7 @@ k napadení Boha.
 #+END_VERSE
 
 
-* 38 
+* 38. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -759,7 +759,7 @@ atomovou silou.
 #+END_VERSE
 
 
-* 39 
+* 39. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -779,7 +779,7 @@ bojovat do samotného konce.
 #+END_VERSE
 
 
-* 40 
+* 40. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -799,7 +799,7 @@ do tíže myšlenky.
 #+END_VERSE
 
 
-* 41 
+* 41. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -819,7 +819,7 @@ Tvého srdce neustálé "Ne!"
 #+END_VERSE
 
 
-* 42 
+* 42. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -838,7 +838,7 @@ a ne tvé neaspirující myšlenky.
 #+END_VERSE
 
 
-* 43 
+* 43. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -858,7 +858,7 @@ po vnitřní cestě.
 #+END_VERSE
 
 
-* 44 
+* 44. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -877,7 +877,7 @@ také Ho nezradíme
 #+END_VERSE
 
 
-* 45 
+* 45. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -896,7 +896,7 @@ našemu vnějšímu životu.
 #+END_VERSE
 
 
-* 46 
+* 46. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -916,7 +916,7 @@ který je pro tebe vším.
 #+END_VERSE
 
 
-* 47 
+* 47. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -936,7 +936,7 @@ ale nový začátek.
 #+END_VERSE
 
 
-* 48 
+* 48. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -954,7 +954,7 @@ nemůže být většího blázna, než tebe!
 #+END_VERSE
 
 
-* 49 
+* 49. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -974,7 +974,7 @@ do svého života zapomnění.
 #+END_VERSE
 
 
-* 50 
+* 50. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -994,7 +994,7 @@ od úplného začátku.
 #+END_VERSE
 
 
-* 51 
+* 51. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1014,7 +1014,7 @@ vnitřní i vnější.
 #+END_VERSE
 
 
-* 52 
+* 52. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1034,7 +1034,7 @@ nebo v Životě tvého Milovaného Nejvyššího.
 #+END_VERSE
 
 
-* 53 
+* 53. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1053,7 +1053,7 @@ je také důležitá.
 #+END_VERSE
 
 
-* 54 
+* 54. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1076,7 +1076,7 @@ na můj vnitřní telefon!"
 #+END_VERSE
 
 
-* 55 
+* 55. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1098,7 +1098,7 @@ nebo tě dal pryč ze Svého Srdce.
 #+END_VERSE
 
 
-* 56 
+* 56. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1119,7 +1119,7 @@ se světem.
 #+END_VERSE
 
 
-* 57 
+* 57. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1138,7 +1138,7 @@ a Božím Uspokojením.
 #+END_VERSE
 
 
-* 58 
+* 58. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1157,7 +1157,7 @@ a mé Oko Boha se dívá.
 #+END_VERSE
 
 
-* 59 
+* 59. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1176,7 +1176,7 @@ oceňuje tvé nejvyšší vědomí.
 #+END_VERSE
 
 
-* 60 
+* 60. 
 
   :PROPERTIES:
   :GENRE: poem

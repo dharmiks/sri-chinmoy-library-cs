@@ -35,6 +35,7 @@
   :genre: discourse
   :keywords:
   :cite-key: SCS:265-cs
+  :DATE-EVENT: 1975-09-29
   :END:
 
 
@@ -79,7 +80,8 @@ Toto je modlitba, kterou jsme se naučili od védských zřeců z pradávné mi
 
 Zde na západě nás Spasitel naučil nejvyšší modlitbu: „Staň se Vůle Tvá.“ A opět, ten stejný Spasitel nás naučil nejvyšší meditaci: „Já a můj Otec jsme jedním.“
 
-/Tat twam asi/: „Ty jsi To.“ Ty jsi To, všepřesahující Za, Pán Nejvyšší. To je nejvyšší výška modlitby. 
+/Tat twam asi/: „Ty jsi To.“ Ty jsi To, všepřesahující Za, Pán Nejvyšší. To je nejvyšší výška modlitby.
+ 
 /Brahmosmi/: Já jsem Brahman, já jsem všeprostupující Brahman, Absolutní Nejvyšší. Toto je nejvyšší výška a nejhlubší hloubka meditace.
 
 Modlitba mi říká, „Ó hledající, považuj Nejvyššího Milovaného za svého vlastního a říkej: „Ó Milovaný Nejvyšší, Ty jsi můj. Považuji Tě za vlastního, opravdu vlastního. Věnuj mi Tvoje božské kvality v neomezené míře, tak abych mohl být Tvým dokonalým nástrojem tady na zemi. Máš nekonečný Mír, Světlo a Požehnání. Dej mi nekonečný Mír, Světlo a Požehnání, tak abych mohl být Tvým nejdokonalejším nástrojem.
@@ -110,6 +112,7 @@ Univerzita Massachusetts
   :genre: qa
   :keywords:
   :cite-key: SCS:266-cs
+  :DATE-EVENT: 1975-09-29
   :END:
 
 
@@ -128,6 +131,7 @@ Existují dva magnety. Pokud dovolíte, aby vás přitáhl duchovní magnet, bud
   :genre: qa
   :keywords:
   :cite-key: SCS:267-cs
+  :DATE-EVENT: 1975-09-29
   :END:
 
 
@@ -142,6 +146,7 @@ Existují dva magnety. Pokud dovolíte, aby vás přitáhl duchovní magnet, bud
   :genre: qa
   :keywords:
   :cite-key: SCS:268-cs
+  :DATE-EVENT: 1975-09-29
   :END:
 
 
@@ -158,6 +163,7 @@ Pomluva je velmi špatná. Nikomu nepomůže. Zde se všichni snažíme být mou
   :genre: qa
   :keywords:
   :cite-key: SCS:269-cs
+  :DATE-EVENT: 1975-09-29
   :END:
 
 
@@ -172,6 +178,7 @@ Pomluva je velmi špatná. Nikomu nepomůže. Zde se všichni snažíme být mou
   :genre: qa
   :keywords:
   :cite-key: SCS:270-cs
+  :DATE-EVENT: 1975-09-29
   :END:
 
 
@@ -329,9 +336,10 @@ Lidským způsobem si myslíte, že snad od vás něco potřebuji, nějakou lask
   :genre: discourse
   :keywords:
   :cite-key: SCS:277-cs
+  :DATE-EVENT: 1969-04-13
   :END:
 
-Sri Chinmoy předal toto poselství svým žákům dne 13. dubna 1969 k pátému výročí svého příchodu na Západ.
+/Sri Chinmoy předal toto poselství svým žákům dne 13. dubna 1969 k pátému výročí svého příchodu na Západ./
 
 #+BEGIN_QUOTE
 
@@ -359,7 +367,7 @@ Takže prosím, od této chvíle změňte svůj názor, pokud jde o Boha. Bůh n
 
 
 
-* Část V - Otázky a odpovědi z Oxfordu.
+* Část V - Otázky a odpovědi z Oxfordu.[fn:: SCS 278-283. Otázky v části V. položili hledající, kteří navštívili přednášku Sri Chinmoye na Oxfordské univerzitě dne 19. června 1976.]
 
   :PROPERTIES:
   :genre: section
@@ -367,7 +375,7 @@ Takže prosím, od této chvíle změňte svůj názor, pokud jde o Boha. Bůh n
   :cite-key: SCS:278e1-cs
   :END:
 
-Otázky v části V. položili hledající, kteří navštívili přednášku Sri Chinmoye na Oxfordské univerzitě dne 19. června 1976.
+
 
 
 
@@ -377,6 +385,7 @@ Otázky v části V. položili hledající, kteří navštívili přednášku Sr
   :genre: qa
   :keywords:
   :cite-key: SCS:278-cs
+  :DATE-EVENT: 1976-06-19
   :END:
 
 
@@ -391,6 +400,7 @@ Otázky v části V. položili hledající, kteří navštívili přednášku Sr
   :genre: qa
   :keywords:
   :cite-key: SCS:279-cs
+  :DATE-EVENT: 1976-06-19
   :END:
 
 
@@ -409,6 +419,7 @@ Obvykle velcí géniové, jako jsou Shakespeare a Bach, dokončili své role. Pa
   :genre: qa
   :keywords:
   :cite-key: SCS:280-cs
+  :DATE-EVENT: 1976-06-19
   :END:
 
 
@@ -423,6 +434,7 @@ Obvykle velcí géniové, jako jsou Shakespeare a Bach, dokončili své role. Pa
   :genre: qa
   :keywords:
   :cite-key: SCS:281-cs
+  :DATE-EVENT: 1976-06-19
   :END:
 
 
@@ -439,6 +451,7 @@ Ale když víme, že On je v Nebi i na zemi, pak se samozřejmě vrátíme. Všu
   :genre: qa
   :keywords:
   :cite-key: SCS:282-cs
+  :DATE-EVENT: 1976-06-19
   :END:
 
 
@@ -453,6 +466,7 @@ Ale když víme, že On je v Nebi i na zemi, pak se samozřejmě vrátíme. Všu
   :genre: qa
   :keywords:
   :cite-key: SCS:283-cs
+  :DATE-EVENT: 1976-06-19
   :END:
 
 

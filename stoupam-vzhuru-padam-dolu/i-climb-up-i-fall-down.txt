@@ -19,7 +19,7 @@
 
 
 
-* 1 Okamžitě stoupám vzhůru...
+* 1. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -37,7 +37,7 @@ když miluji jen Boha.
 #+END_VERSE
 
 
-* 2 Právem padám dolů...
+* 2. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -56,7 +56,7 @@ miloval jen mne.
 #+END_VERSE
 
 
-* 3 Stoupám vzhůru...
+* 3. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -74,7 +74,7 @@ v slzách své aspirace.
 #+END_VERSE
 
 
-* 4 Padám dolů...
+* 4. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -92,7 +92,7 @@ a mé zasvěcení postrádá úsměvy.
 #+END_VERSE
 
 
-* 5 Stoupám vzhůru...
+* 5. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -113,7 +113,7 @@ a univerzálního partnerství.
 #+END_VERSE
 
 
-* 6 Padám dolů...
+* 6. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -131,7 +131,7 @@ na ostří nože.
 #+END_VERSE
 
 
-* 7 Stoupám vzhůru...
+* 7. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -149,7 +149,7 @@ hostinou poslušnosti Bohu.
 #+END_VERSE
 
 
-* 8 Padám dolů...
+* 8. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -168,7 +168,7 @@ vůči Bohu.
 #+END_VERSE
 
 
-* 9 Stoupám vzhůru...
+* 9. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -187,7 +187,7 @@ rostou, září a plynou společně.
 #+END_VERSE
 
 
-* 10 Padám dolů...
+* 10. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -206,7 +206,7 @@ zmateného života své mysli.
 #+END_VERSE
 
 
-* 11 Stoupám vzhůru...
+* 11. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -225,7 +225,7 @@ svého Pána.
 #+END_VERSE
 
 
-* 12 Padám dolů...
+* 12. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -245,7 +245,7 @@ a neochoty vůči Bohu.
 #+END_VERSE
 
 
-* 13 Stoupám vzhůru...
+* 13. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -265,7 +265,7 @@ svého srdce.
 #+END_VERSE
 
 
-* 14 Padám dolů...
+* 14.
 
   :PROPERTIES:
   :GENRE: poem
@@ -285,7 +285,7 @@ své mysli.
 #+END_VERSE
 
 
-* 15 Stoupám vzhůru...
+* 15. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -304,7 +304,7 @@ v Letadle Božího Soucitu.
 #+END_VERSE
 
 
-* 16 Padám dolů...
+* 16. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -323,7 +323,7 @@ do letadla uspokojení svého ega.
 #+END_VERSE
 
 
-* 17 Stoupám vzhůru...
+* 17. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -342,7 +342,7 @@ andělské sladkosti.
 #+END_VERSE
 
 
-* 18 Padám dolů...
+* 18. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -361,7 +361,7 @@ satanské hořkosti.
 #+END_VERSE
 
 
-* 19 Stoupám vzhůru...
+* 19. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -380,7 +380,7 @@ po projevení Boha.
 #+END_VERSE
 
 
-* 20 Padám dolů...
+* 20. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -399,7 +399,7 @@ ze své vůči Bohu lhostejné mysli.
 #+END_VERSE
 
 
-* 21 Stoupám vzhůru...
+* 21. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -417,7 +417,7 @@ po Dechu Božího Uspokojení.
 #+END_VERSE
 
 
-* 22 Padám dolů...
+* 22. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -435,7 +435,7 @@ sebezveličování své mysli.
 #+END_VERSE
 
 
-* 23 Stoupám vzhůru...
+* 23. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -454,7 +454,7 @@ pochybnosti své mysli.
 #+END_VERSE
 
 
-* 24 Padám dolů...
+* 24. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -472,7 +472,7 @@ objímá hladomor víry v Boha.
 #+END_VERSE
 
 
-* 25 Stoupám vzhůru...
+* 25. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -490,7 +490,7 @@ na jméno a slávu.
 #+END_VERSE
 
 
-* 26 Padám dolů...
+* 26. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -508,7 +508,7 @@ jména a slávy.
 #+END_VERSE
 
 
-* 27 Stoupám vzhůru...
+* 27. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -526,7 +526,7 @@ spalovačem svých žádostí.
 #+END_VERSE
 
 
-* 28 Padám dolů...
+* 28. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -544,7 +544,7 @@ stoupencem svého zklamání.
 #+END_VERSE
 
 
-* 29 Stoupám vzhůru...
+* 29. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -562,7 +562,7 @@ most svých pochybností.
 #+END_VERSE
 
 
-* 30 Padám dolů...
+* 30. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -581,7 +581,7 @@ stavím most svých pochybností.
 #+END_VERSE
 
 
-* 31 Stoupám vzhůru...
+* 31. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -600,7 +600,7 @@ navštívit Boha.
 #+END_VERSE
 
 
-* 32 Padám dolů...
+* 32. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -619,7 +619,7 @@ navštívit Boha.
 #+END_VERSE
 
 
-* 33 Stoupám vzhůru...
+* 33. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -637,7 +637,7 @@ v kompas své duše.
 #+END_VERSE
 
 
-* 34 Padám dolů...
+* 34. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -655,7 +655,7 @@ za svou polárku.
 #+END_VERSE
 
 
-* 35 Stoupám vzhůru...
+* 35. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -673,7 +673,7 @@ se světem.
 #+END_VERSE
 
 
-* 36 Padám dolů...
+* 36. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -691,7 +691,7 @@ nesoulad.
 #+END_VERSE
 
 
-* 37 Když násilně bořím...
+* 37. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -711,7 +711,7 @@ vysoko, výše, nejvýše.
 #+END_VERSE
 
 
-* 38 Když přepychově krmím...
+* 38. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -730,7 +730,7 @@ hluboko, hlouběji, nejhlouběji.
 #+END_VERSE
 
 
-* 39 Stoupám vzhůru...
+* 39. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -749,7 +749,7 @@ svým srdcem čistoty a jednoty.
 #+END_VERSE
 
 
-* 40 Padám dolů...
+* 40. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -767,7 +767,7 @@ svou myslí nečistoty a rozdělení.
 #+END_VERSE
 
 
-* 41 Když pláču pro ...
+* 41. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -785,7 +785,7 @@ stoupám vzhůru.
 #+END_VERSE
 
 
-* 42 Když se pyšním ...
+* 42. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -803,7 +803,7 @@ padám dolů.
 #+END_VERSE
 
 
-* 43 Stoupám vzhůru...
+* 43. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -823,7 +823,7 @@ korunu a trůn svého ega.
 #+END_VERSE
 
 
-* 44 Padám dolů...
+* 44. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -844,7 +844,7 @@ svého ega.
 #+END_VERSE
 
 
-* 45 Stoupám vzhůru...
+* 45. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -862,7 +862,7 @@ na zvonek aspirace svého srdce.
 #+END_VERSE
 
 
-* 46 Padám dolů...
+* 46. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -880,7 +880,7 @@ na gong předvádění své mysli.
 #+END_VERSE
 
 
-* 47 Stoupám vzhůru...
+* 47. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -899,7 +899,7 @@ a své srdce víry.
 #+END_VERSE
 
 
-* 48 Padám dolů...
+* 48. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -918,7 +918,7 @@ a své arogantní vitálno.
 #+END_VERSE
 
 
-* 49 Když považuji Boha...
+* 49. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -937,7 +937,7 @@ stoupám vzhůru.
 #+END_VERSE
 
 
-* 50 Když považuji buď svou mysl ...
+* 50. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -956,7 +956,7 @@ padám dolů.
 #+END_VERSE
 
 
-* 51 Když se probudím...
+* 51. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -974,7 +974,7 @@ stoupám vzhůru.
 #+END_VERSE
 
 
-* 52 Když se nevědomě těším...
+* 52. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -992,7 +992,7 @@ padám dolů.
 #+END_VERSE
 
 
-* 53 Když užívám svou oddanost Bohu ...
+* 53. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1010,7 +1010,7 @@ stoupám vzhůru.
 #+END_VERSE
 
 
-* 54 Když užívám svou pyšnou mysl ...
+* 54. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1028,7 +1028,7 @@ padám dolů.
 #+END_VERSE
 
 
-* 55 Když se modlím k Bohu: ...
+* 55. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1048,7 +1048,7 @@ a já stoupám vzhůru.
 #+END_VERSE
 
 
-* 56 Když si myslím, že dokážu...
+* 56. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1067,7 +1067,7 @@ padám dolů.
 #+END_VERSE
 
 
-* 57 Když získávám nesmírnou radost ...
+* 57. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1086,7 +1086,7 @@ stoupám vzhůru.
 #+END_VERSE
 
 
-* 58 Když nezískávám žádnou radost ...
+* 58. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1105,7 +1105,7 @@ padám dolů.
 #+END_VERSE
 
 
-* 59 Když si užívám ...
+* 59. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1123,7 +1123,7 @@ stoupám vzhůru.
 #+END_VERSE
 
 
-* 60 Když si užívám ...
+* 60. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1141,7 +1141,7 @@ padám dolů.
 #+END_VERSE
 
 
-* 61 Když se stávám ...
+* 61. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1159,7 +1159,7 @@ stoupám vzhůru.
 #+END_VERSE
 
 
-* 62 Když se stávám ...
+* 62. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1177,7 +1177,7 @@ padám dolů.
 #+END_VERSE
 
 
-* 63 Když Boží Soucit ...
+* 63. 
 
   :PROPERTIES:
   :GENRE: poem
@@ -1196,7 +1196,7 @@ do nebe.
 #+END_VERSE
 
 
-* 64 Když dovolím své mysli ...
+* 64. 
 
   :PROPERTIES:
   :GENRE: poem

@@ -644,11 +644,13 @@ Muž: Jistě, dám vám je. Hned je přinesu.
 Gautamí: Ještě předtím mi ale prosím povězte, zemřel někdo ve vaší rodině?
 
 Muž: Je to sotva týden, co mě opustila má žena, má milovaná žena.
+
 Gautamí: Ach, pak si tedy nemůžu semínka vzít.
 
  /(Gautamí se znovu rozpláče a jde k jinému domu. Otevře mladá dívka.)/
 
 Gautamí: Mé dítě, jsi tak krásné. Prosím, přines mi pár hořčičných semínek. Běž prosím a požádej matku, aby mi dala trochu semínek.
+
 Dívka: Vím, kde je matka má. Přinesu vám je.
 
 Gautamí: Řekni mi prosím, co dělá tvůj otec?
@@ -751,6 +753,7 @@ Kšema: To je pravda, Buddha nemluví o životě po smrti ani o životě po Nirv
 Prašendžit: Nerozumím tvé filozofii, Kšemo.
 
 Kšema: Dovolte, abych vám to vysvětlil. Je z vašeho paláce vidět Ganga?
+
 Prašendžit: Ano.
 
 Kšema: Vidíte tedy písek na břehu Gangy. Pošlete teď kohokoli ze svého království, aby spočítal zrnka písku. Anebo pošlete někoho, aby zvážil oceán. Dokáže to někdo z vašeho království, vaše Výsosti?
@@ -810,6 +813,7 @@ Buddha: To jistě smíš. Rád bych ti ale nejprve dal několik otázek. Jsem si
 Žák: Z vaší milosti na ně dokážu odpovědět.
 
 Buddha: Pověz mi, když tě někdo bude pomlouvat, co uděláš?
+
 Žák: Můj Pane, zůstanu zticha.
 
 Buddha: Řekni mi, když tě udeří, co uděláš?
@@ -952,6 +956,7 @@ Udajan: Ó Buddho, před tebou nikdo nic neutají. Ty jsi věděním samotným.
 Ánanda: Ó Pane, proč chodíš sem, do království Kaušambi, kde k tobě královna chová takovou zášť? Cestou do paláce se ti tolik lidí vysmívalo, uráželo tě a vyhrožovalo ti. Sám víš nejlépe, že právě královna je posledních pár let navádí, aby ti říkali a dělali všechny tyhle nebožské věci.
 
 Buddha: Ánando, můj nejoddanější žáku, pověz mi jedno: půjdeme-li někam jinam a tam nás budou urážet, kritizovat nás a vyhrožovat nám stejně, jako to dělají v tomto království, co bys doporučil, abychom udělali?
+
 Ánanda: Pane, měli bychom okamžitě odejít někam jinam.
 
 Buddha: A když nás i na tom novém místě potkají stejné potíže, co bychom měli udělat?
@@ -1114,7 +1119,7 @@ Džaivaka: Vaše duše je víc než připravená přijmout Buddhovo Světlo. Bud
 
 Adžatašatru: Ó Pane světa, ze své nebetyčné nevědomosti jsem se tě se svým přítelem Devadattou několikrát snažil zabít, ale pokaždé marně, zoufale marně. Dnes jsem u tvých požehnaných nohou, aby mě ihned zalilo slunce tvé moudrosti.
 
-Buddha: Ó králi. . .
+Buddha: Ó králi.
 
 Adžatašatru: Mistře, já nejsem tvůj král. To ty jsi král mého srdce a mé duše. Ty jsi Pán mého srdce a mé duše. Já jsem tvůj nehodný otrok.
 

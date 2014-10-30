@@ -18,18 +18,16 @@
   :END:
 
 
-/Na pozvání profesorů Diany Eck a Davida Eckela přednesl Sri Chinmoy v Centru pro studium světových náboženství na Harvard Divinity School 
-19. dubna 1983 následující přednášku./
 
 
-
-
-* Písně srdce hledajícího
+* Písně srdce hledajícího[fn:: SHS 1-11. Na pozvání profesorů Diany Eck a Davida Eckela přednesl Sri Chinmoy v Centru pro studium světových náboženství na Harvard Divinity School 
+19. dubna 1983 následující přednášku a potom odpověděl na několik otázek.]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: SHS:1-cs
+  :DATE-EVENT: 1983-04-19
   :END:
 
 
@@ -77,7 +75,7 @@ Bůh nám říká: „Mé dítě, mám pro tebe nesčetně způsobů, jak Mě re
   :END:
 
 
-/Teď bych vám byl rád oddaně k službám a odpověděl vám na několik duchovních otázek./
+/Sri Chinmoy:/Teď bych vám byl rád oddaně k službám a odpověděl vám na několik duchovních otázek.
 
 
 
@@ -87,6 +85,7 @@ Bůh nám říká: „Mé dítě, mám pro tebe nesčetně způsobů, jak Mě re
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SHS:2-cs
+  :DATE-EVENT: 1983-04-19
   :END:
 
 
@@ -109,6 +108,7 @@ Když se přibližujeme ke Skutečnosti prostřednictvím srdce a ztotožňujeme
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SHS:3-cs
+  :DATE-EVENT: 1983-04-19
   :END:
 
 
@@ -127,6 +127,7 @@ Mysl vždy pochybuje a podezřívá. V této chvíli mě mysl přesvědčí, že
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SHS:4-cs
+  :DATE-EVENT: 1983-04-19
   :END:
 
 
@@ -134,6 +135,7 @@ Mysl vždy pochybuje a podezřívá. V této chvíli mě mysl přesvědčí, že
 /Sri Chinmoy:/ V konečné analýze má člověk to, čím se stává. Hluboko uvnitř sebe máme věci, po kterých jsme vždy toužili: Věčnost, Nekonečnost a Nesmrtelnost, nekonečný mír, světlo a blaženost. Ale právě teď si nejsme vědomi, že to všechno máme. Právě teď po těchto věcech pátráme tady, tam a všude kolem, aniž bychom věděli, kde je hledat.
 
 Ale když se budeme upřímně modlit a meditovat, přijde doba, kdy poznáme Pravdu. V tu chvíli uvidíme, že věci, po kterých jsme pátrali a pro které jsme plakali, máme hluboko uvnitř sebe. Ztělesňujeme právě tyto věci.
+
 Když se vydáváme na svou cestu, první věc, kterou musíme vědět, je, že můžeme: můžeme dosáhnout nejzazší Pravdy. Pak si musíme uvědomit, že tato nejzazší Pravda není někde jinde nebo nepatří někomu jiného. Je hluboko uvnitř nás; vždy byla naše. Naše třetí a poslední zjištění je, že představujeme Pravdu; jsme Pravdou. 
 
 Takže abych se vrátil k vaší otázce, druhé poznání -- mám -- je v konečné analýze přeměněno na třetí poznání -- jsem. To, co máme, je to, co jsme měli vždy. Když to vědomě pochopíme, vrosteme do toho. Pak vidíme, že to, čím jsme se vědomě stali, je to, čím jsme vždycky byli a věčně jsme.
@@ -146,6 +148,7 @@ Takže abych se vrátil k vaší otázce, druhé poznání -- mám -- je v kone�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SHS:5-cs
+  :DATE-EVENT: 1983-04-19
   :END:
 
 
@@ -167,6 +170,7 @@ Božské v nás se cítí špatně, když se ve světě odehraje nějaká katast
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SHS:6-cs
+  :DATE-EVENT: 1983-04-19
   :END:
 
 
@@ -186,6 +190,7 @@ Je to jako dítě, jehož otec je soudcem Nejvyššího soudu. Když dítě vid�
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SHS:7-cs
+  :DATE-EVENT: 1983-04-19
   :END:
 
 
@@ -204,6 +209,7 @@ Nejvyšší tedy přijde v různých formách v závislosti na tom, co kdo potř
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SHS:8-cs
+  :DATE-EVENT: 1983-04-19
   :END:
 
 
@@ -222,6 +228,7 @@ Neexistuje přesné pravidlo určující, zda je žádoucí nebo nežádoucí, a
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SHS:9-cs
+  :DATE-EVENT: 1983-04-19
   :END:
 
 
@@ -238,6 +245,7 @@ Musíme proto vědět, jakou schopnost člověk má. Někteří mohou sedět u p
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SHS:10-cs
+  :DATE-EVENT: 1983-04-19
   :END:
 
 
@@ -254,6 +262,7 @@ Buddha, Kristus a všichni duchovní Mistři poznali Boha zde na zemi. Musíme d
   :GENRE: qa
   :KEYWORDS:
   :CITE-KEY: SHS:11-cs
+  :DATE-EVENT: 1983-04-19
   :END:
 
 

@@ -103,7 +103,7 @@ V našem každodenním životě často narazíme na lidi a místa, která jsou v
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:5e2-cs
+  :CITE-KEY: PRW:5e1-cs
   :END:
 
 
@@ -222,7 +222,8 @@ Mistr nebude žádat žáky, aby dělali něco, co nemohou udělat. Jestliže ř
 
 
 
-/Sri Chinmoy:/ Všechno má duši. V této zdi, v tomto stole, ve všem je duše. Všude můžeš spatřit přítomnost duše. Ale psychická bytost existuje pouze v lidských bytostech. Nemůžeš spatřit psychickou bytost v hmotném předmětu nebo ve zvířeti. 
+/Sri Chinmoy:/ Všechno má duši. V této zdi, v tomto stole, ve všem je duše. Všude můžeš spatřit přítomnost duše. Ale psychická bytost existuje pouze v lidských bytostech. Nemůžeš spatřit psychickou bytost v hmotném předmětu nebo ve zvířeti.
+ 
        Psychická bytost je nesmrtelným dítětem v nás. Je představitelem naší duše. Psychická bytost má nekonečné schopnosti vést nás k nejvyššímu, k nejčistšímu, k Věčnosti. Psychická bytost je uvnitř našeho srdce. Je veškerou čistotou, veškerým světlem, veškerou blažeností. Nejprve letmo zahlédneme tuto psychickou bytost, poté postupně vstoupíme na jeho území. Nakonec si hrajeme s psychickou bytostí a mluvíme s ní. Všechny věci, které můžeme dělat s pozemským dítětem, můžeme dělat s psychickou bytostí. Když cítíme svou jednotu s psychickou bytostí, dá nám to pocítit, že jsme nejen pravými dětmi Boha, ale také, že bez výjimky jednoho dne realizujeme Boha a staneme se Bohem. To je to, co získáváme od psychické bytosti.
 
 
@@ -272,7 +273,7 @@ Existuje ještě jeden postup, kterým můžeme očistit své duchovní nervy a 
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:14e3-cs
+  :CITE-KEY: PRW:14e1-cs
   :END:
 
 
@@ -456,7 +457,7 @@ Je bláhové snažit se redukovat všechny lidské a božské podněty na takzva
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:25e4-cs
+  :CITE-KEY: PRW:25e1-cs
   :END:
 
 
@@ -495,7 +496,7 @@ Dokážete-li přeměnit své vitální emoce do božských emocí, tyto božsk�
 
 Někdy si druzí mohou stěžovat na tvé chování, protože děláš něco, co si oni sami přejí dělat, ale čeho se neodváží. V tomto případě si stěžují ze žárlivosti. Ale v případě některých lidí v tom není obsažena žárlivost. Jsou jednoduše slabí, nejsou ještě silní a pevní ve své aspiraci, takže jejich vědomí a jejich aspirace poklesne, když vidí, jak se jejich přátelé políbí nebo obejmou, nebo se jen dotknou. Nějaký mladý chlapec může usilovat ovládnout svůj vitální život, a ačkoliv můžeš být lepší než on, můžeš snížit jeho vědomí a znovu probudit jeho nižší vitálno. Z tvé strany je to velmi špatné. Jestliže cokoliv co děláš, snižuje inspiraci a aspiraci některých tvých duchovních bratří a sester, potom bys to měl přestat dělat z laskavosti, lásky a ohledu na ně. 
 
-       Fyzická výměna lásky mezi dívkami je nanejvýš nezdravá a to samé je pravda pro chlapce. A také když manžel ukazuje svou náklonnost jiné ženě, nebo manželka ukazuje svou náklonnost jinému muži.
+Fyzická výměna lásky mezi dívkami je nanejvýš nezdravá a to samé je pravda pro chlapce. A také když manžel ukazuje svou náklonnost jiné ženě, nebo manželka ukazuje svou náklonnost jinému muži.
 
 
 * Měli bychom se snažit pomáhat druhým s jejich emocionálními problémy?
@@ -578,7 +579,7 @@ Lásku také můžeš vyjádřit a manifestovat ve fyzickém světě skrze čist
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:32e5-cs
+  :CITE-KEY: PRW:32e1-cs
   :END:
 
 
@@ -641,7 +642,7 @@ Ale jak se můžeme osvobodit od touhy po plodech činnosti? Když pracujeme, p�
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:35e6-cs
+  :CITE-KEY: PRW:35e1-cs
   :END:
 
 
@@ -733,7 +734,7 @@ Co potřebuješ skutečně pro očištění je aspirace. Ale nemuč sám sebe. P
   :PROPERTIES:
   :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: PRW:40e7-cs
+  :CITE-KEY: PRW:40e1-cs
   :END:
 
 

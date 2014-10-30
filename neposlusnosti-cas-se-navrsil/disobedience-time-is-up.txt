@@ -161,8 +161,7 @@ bouřlivou pohromou.
 #+BEGIN_VERSE
 
 Neposlušnost neomezená
-je
-hladem tvé hlouposti.
+je hladem tvé hlouposti.
 
 #+END_VERSE
 
@@ -405,10 +404,8 @@ abyste netěšily Boha?
 #+BEGIN_VERSE
 
 Běda, loď mého života pluje
-mezi
-neposlušností mého života
-a
-rozpaky mé duše.
+mezi neposlušností mého života
+a rozpaky mé duše.
 
 #+END_VERSE
 
@@ -446,8 +443,7 @@ Boží Sopečné Oko.
 #+BEGIN_VERSE
 
 Neposlušnost vůči Bohu
-je
-spánkem všeobecné nevědomosti.
+je spánkem všeobecné nevědomosti.
 
 #+END_VERSE
 
@@ -583,8 +579,7 @@ výstřední požadavky.
 
 Neposlušnosti,
 hanba tobě!
-Jsi tím
-  nejhorším možným extrémistou
+Jsi tím nejhorším možným extrémistou
 v zamítání Boha.
 
 #+END_VERSE

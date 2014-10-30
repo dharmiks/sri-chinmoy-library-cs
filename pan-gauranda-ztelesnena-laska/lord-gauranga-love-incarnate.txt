@@ -287,7 +287,9 @@ Damodare, jdi a přines mu nějaké jídlo.
 /(Damodar odchází a vrací se s jídlem. Je nevrlý.)/
 
 ČAITANJA: Mé dítě, zazpívej tu píseň znova. Právě tato píseň mi dává největší radost. 
+
 /(Chlapec zpívá píseň velmi oduševněle.)/
+
 Zítra přijď zase. Toto je tvůj domov. Přicházej každý den. A předej své matce mou božskou lásku a božská požehnání. 
 
 /(Chlapec se Čaitanjovi pokloní s nejhlubší radostí a hrdostí.)/
@@ -346,6 +348,7 @@ DALŠÍ ŽÁCI
   :END:
 
 /(Čaitanja je sám.)/
+
 ČAITANJA: Kršno, kde jsi? Kde jsi? Už to bez tebe nevydržím. Chci jen záblesk tvého úsměvu, ó můj milovaný Kršno, ó mé Vše. Ukaž se mi. Jestli se mi neukážeš, toto své tělo vydám smrti.
 
 /(Vstoupí Šribaš, Gadadhar a několik dalších blízkých Čaitanjových žáků, kteří se posadí k Mistrovým nohám.)/
@@ -365,7 +368,9 @@ GADADHAR: Ztratil jsem všechnu víru v Boha. Náš Pán chce vidět Kršnu, a 
 ČAITANJA: Ó matko mého srdce a mé duše, Kršna mě volá. Matko, prosím, prosím, dovol mi odejít. Chci jít na posvátné místo. Cítím, že se pak budu moci setkat se svým Kršnou. Matko, bez tvého úplného svolení neodejdu. Ale jestliže mi dovolíš odejít a nalézt mého Kršnu, slibuji ti, Matko, že se vrátím.
 
 ŠAČI: /(žehná Čaitanju)/ Hrdosti mého srdce, jediná radosti mého života, máš mé svolení. Jdi a hledej svého milovaného Kršnu. Až Jej nalezneš, určitě se vrať. Budu ustavičně čekat, dokud se v pořádku nevrátíš.
+
 /(Se zavřenýma očima a sepjatýma rukama se modlí:)/
+
 Ó Pane Kršno, ukaž se mému Nimajovi. Jsi mu Vším. A on je Vším mně.
 
 /(Čaitanja se dotkne nohou své matky a odchází. Šači otevře oči.)/
@@ -432,7 +437,8 @@ MANŽELKA: Teď není vhodná doba poslouchat tvou filozofii. Ztratili jsme své
 
 /(Šribaš se vrátí do zahrady a začne s ostatními tančit a zpívat. Najednou Sri Čaitanja přestane tančit a zpívat.)/   
                                 
-ČAITANJA: Nevím co, ale něco se se mnou děje. Stalo se něco ve Šribašově domě? 
+ČAITANJA: Nevím co, ale něco se se mnou děje. Stalo se něco ve Šribašově domě?
+ 
 /(ke Šribašovi)/ Stalo se ve tvém domě nějaké neštěstí?
 
 ŠRIBAŠ: Pane, jak by se zde mohlo stát nějaké neštěstí v den, kdy jsi požehnal můj dům svou božskou přítomností?
@@ -558,8 +564,7 @@ a Tobě se klaním a klaním.]
 
 ČAITANJA: Matko, jsem na tebe tak hrdý. To je poprvé, kdy jsi se dotkla mých nohou sama od sebe. Dříve jsem tě prosíval, abys ses dotkla mých nohou, když jsem byl ve Vědomí Kršny. Avšak dnes jsi se dotkla mých nohou spontánně. Matko, jsem na tebe tak hrdý. Viděla jsi mě v mém nejvyšším vědomí a víš, kdo jsem.
 
-ŠAČI: Můj synu, vím, vím, kdo jsi. Jsi Bůh. Ale přesto ani na prchavý okamžik nezapomenu, že jsi také můj syn, můj miláček. Tím, že jsi přišel do mé rodiny, jsi mě požehnal,
-a tím, že jsi můj syn, jsi mě učinil nesmrtelnou. Vím, že mě jednou opustíš. Zřekneš se světa. Staneš se sanjásinem. Půjdeš cestou odříkání. Říkám ti, můj synu, že lidskému ve mně budeš chybět a bude trpět, ale božské ve mně bude na tebe hrdé, protože ví, že osvobozuješ lidstvo od nevědomosti a člověku dáváš nový život. Ukončuješ jejich život utrpení a dáváš jim život Blaženosti. 
+ŠAČI: Můj synu, vím, vím, kdo jsi. Jsi Bůh. Ale přesto ani na prchavý okamžik nezapomenu, že jsi také můj syn, můj miláček. Tím, že jsi přišel do mé rodiny, jsi mě požehnal, a tím, že jsi můj syn, jsi mě učinil nesmrtelnou. Vím, že mě jednou opustíš. Zřekneš se světa. Staneš se sanjásinem. Půjdeš cestou odříkání. Říkám ti, můj synu, že lidskému ve mně budeš chybět a bude trpět, ale božské ve mně bude na tebe hrdé, protože ví, že osvobozuješ lidstvo od nevědomosti a člověku dáváš nový život. Ukončuješ jejich život utrpení a dáváš jim život Blaženosti. 
 
 ČAITANJA: Matko, lidskému v tobě také nebudu chybět, protože lidské v tobě přeměním na božské. Tvé fyzické vědomí bude cítit mou přítomnost, ať budu kdekoliv. Věčně zůstanu uvnitř tebe a kolem tebe. Také budeš cítit mou fyzickou přítomnost, Matko. Ujišťuji tě, že má jemná fyzická přítomnost bude neustále ve tvé blízkosti.
 
@@ -691,7 +696,8 @@ HARIDAŠ: Protože jsem ještě nedokončil svou džapu [opakování posvátnéh
 
 GOVINDA: Jsi nemocný. Haridaši, jak můžeš očekávat, že tvá džapa bude intenzivní? Nejprve se musíš uzdravit. Jakmile zesílíš, tvá intenzita se vrátí.
 
-HARIDAŠ: Ne, nemohu to jídlo sníst. Ach, ale musím sníst prašád od svého Pána Čaintanji, jinak bych jej urazil. Pokud ale prašád sním dříve, než dokončím džapu, také to pro něj bude urážka. V tom případě sním trochu, jen velmi málo z jeho prašádu a pak budu pokračovat ve své džapě. Tímto způsobem neurazím svého Pána odmítnutím jeho posvěceného jídla a zároveň ho neurazím tím, že bych snědl jeho jídlo dříve, než si ho zasloužím prováděním duchovní disciplíny. 
+HARIDAŠ: Ne, nemohu to jídlo sníst. Ach, ale musím sníst prašád od svého Pána Čaintanji, jinak bych jej urazil. Pokud ale prašád sním dříve, než dokončím džapu, také to pro něj bude urážka. V tom případě sním trochu, jen velmi málo z jeho prašádu a pak budu pokračovat ve své džapě. Tímto způsobem neurazím svého Pána odmítnutím jeho posvěceného jídla a zároveň ho neurazím tím, že bych snědl jeho jídlo dříve, než si ho zasloužím prováděním duchovní disciplíny.
+ 
 /(Haridaš si vezme malé sousto prašádu.)/
 
 /(Vstoupí Čaitanja.)/
@@ -777,7 +783,8 @@ NITJANANDA: Můj Pane, teď nechci, abys zachraňoval mě. Nejprve zachraň ty n
   
 /(Čaitanja se obrátí k Madhajovi. Madhai se na něj dlouho upřeně dívá jak okouzlený. Mezi všemi se rozhostí ticho.)/
 
-MADHAI /(stranou)/: Pod pouhým Čaitanjovým pohledem cítím, jak ve mě nastává velká změna. Mé nitro je drásáno jako zem drásaná kočkou. Jeho tichý vliv mění můj život. 
+MADHAI /(stranou)/: Pod pouhým Čaitanjovým pohledem cítím, jak ve mě nastává velká změna. Mé nitro je drásáno jako zem drásaná kočkou. Jeho tichý vliv mění můj život.
+ 
 /(k Čaitanjovi)/ Ó Čaitanjo, můj Pane, nežádám tě o odpuštění, ani se nebojím potrestání. Nechť přijde, uvítám jej. Jen mi řekni -- existuje způsob, nějaké pokání, kterým můžu někdy v budoucnu dosáhnout tvých lotosových nohou? Pouze mi řekni ten způsob, jestli nějaký existuje, a pak mě zavrhni.
 
 ČAITANJA: Madhaji, tvá modlitba je zároveň překvapující i významná. /(Žehná Madhajovi a Džagajovi)/ Oba dva, ty i tvůj bratr Džagai, budete přeměněni v nejsvatější ze svatých duší. Nemůže být ani stín pochyb o tom, že tento zázrak, který vidím, se brzy stane nejzřejmější Pravdou. 
