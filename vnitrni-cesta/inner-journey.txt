@@ -6,15 +6,15 @@
 
 * Index
 
- :PROPERTIES:
- :BOOK-NUMBER: 
- :AUTHOR: Sri Chinmoy
- :ORIGINAL-EDITION: nil
- :YEAR: 2000
- :PUBLISHER: Madal Bal
- :CITE-KEY: IJ-cs
- :GENRE: qa
- :KEYWORDS:
+  :PROPERTIES:
+  :BOOK-NUMBER: 
+  :AUTHOR: Sri Chinmoy
+  :ORIGINAL-EDITION: nil
+  :YEAR: 2000
+  :PUBLISHER: Madal Bal
+  :CITE-KEY: IJ-cs
+  :GENRE: qa
+  :KEYWORDS:
   :END:
 
 
@@ -22,20 +22,20 @@
 * Část I.: Vnitřní cesta
 
 
- :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: IJ:1e1-cs
+  :PROPERTIES:
+  :GENRE: section
+  :KEYWORDS:
+  :CITE-KEY: IJ:1e1-cs
   :END:
 
 
 
 * Proč je jednoduší dosáhnout Boha skrze Gurua? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:1-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:1-cs
   :END:
 
 
@@ -47,10 +47,10 @@
 
 * V této inkarnaci jsem tě přijal jako svého Gurua. Budu tě mít jako svého Gurua i ve své příští inkarnaci? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:2-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:2-cs
   :END:
 
 
@@ -68,10 +68,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Souhlasíte s jinými duchovními Mistry ohledně smyslu života? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:3-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:3-cs
   :END:
 
 
@@ -81,10 +81,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Může kdokoli obdržet vaše učení, nebo člověk musí mít jisté předpoklady? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:4-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:4-cs
   :END:
 
 
@@ -98,10 +98,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Dokážete říct, kdy je člověk připraven přijmout od vás nejvyšší pokyn?
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:5-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:5-cs
   :END:
 
 
@@ -111,11 +111,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Jste ochotný dávat pokyny těm, kdo se zajímají o vaši cestu?
 
- :PROPERTIES:
-7
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:6-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:6-cs
   :END:
 
 
@@ -128,10 +127,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Opustí špatné síly okamžitě hledající, když přijmou vaši cestu? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:7-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:7-cs
   :END:
 
 
@@ -141,10 +140,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Mohl by člověk, který je duchovně vyspělý, být čarodějem? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:8-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:8-cs
   :END:
 
 
@@ -154,10 +153,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Poté, co jsem přišel na vaši cestu, všechny věci ke mně přicházejí, aniž bych o něco žádal. Je to normální? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:9-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:9-cs
   :END:
 
 
@@ -171,10 +170,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Nerozumím vašemu vztahu k Bohu a k vašim žákům. 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:10-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:10-cs
   :END:
 
 
@@ -184,10 +183,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Guru, kdy dostanu své duchovní jméno? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:11-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:11-cs
   :END:
 
 
@@ -199,20 +198,20 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Část II.: Oddanost Mistrovi
 
- :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: IJ:12e2-cs
+  :PROPERTIES:
+  :GENRE: section
+  :KEYWORDS:
+  :CITE-KEY: IJ:12e2-cs
   :END:
 
 
 
 * Jak mohu Nejvyššímu v tobě sloužit více vědomě? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:12-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:12-cs
   :END:
 
 
@@ -238,10 +237,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Jak tě mohu nejlépe potěšit, Guru?
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:13-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:13-cs
   :END:
 
 
@@ -251,10 +250,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Guru, jestliže tvůj žák má k tobě lásku a oddanost, ale je ve špatném vědomí, jestliže ho spatříš, prohlédneš skrze jeho špatné vědomí přímo k jeho lásce a oddanosti? Tedy když je v nízkém vědomí, vidíš také jeho dobré vlastnosti? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:14-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:14-cs
   :END:
 
 
@@ -266,10 +265,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Jak se můžeme stát více odevzdaní tobě, Guru? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:15-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:15-cs
   :END:
 
 
@@ -279,10 +278,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Jak tě můžeme milovat a nic po tobě nevyžadovat?
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:16-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:16-cs
   :END:
 
 
@@ -296,10 +295,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Jak mohu poznat, zdali konám svou vůli nebo vaši vůli? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:17-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:17-cs
   :END:
 
 
@@ -315,10 +314,10 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
 * Jaké cvičení byste mi doporučil, abych dokázal pamatovat na vaši přítomnost během vaší fyzické nepřítomnosti? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:18-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:18-cs
   :END:
 
 
@@ -330,10 +329,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Zdá se, že vás Nejvyšší má rád víc, než má rád sám Sebe. 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:19-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:19-cs
   :END:
 
 
@@ -344,10 +343,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Jak mohu realizovat vaši duchovní výšku? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:20-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:20-cs
   :END:
 
 
@@ -357,20 +356,20 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Část III.: Meditace a Mistrova přítomnost
 
- :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: IJ:21e3-cs
+  :PROPERTIES:
+  :GENRE: section
+  :KEYWORDS:
+  :CITE-KEY: IJ:21e3-cs
   :END:
 
 
 
 * Proč žádáte své žáky, aby meditovali na vaši fotografii?
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:21-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:21-cs
   :END:
 
 
@@ -384,10 +383,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Měli bychom se během meditace na vás dívat se sepjatýma rukama? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:22-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:22-cs
   :END:
 
 
@@ -401,10 +400,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Někdy, když se během své meditace po nás rozhlížíte a když se blížíte pohledem ke mně, vyděsím se. Ale nevím proč. 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:23-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:23-cs
   :END:
 
 
@@ -420,10 +419,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Když jsem zpočátku stal žákem, bylo radostí meditovat a následovat cestu. V poslední době cítím, že tu radost nemám, a tak nemedituji pravidelně. 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:24-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:24-cs
   :END:
 
 
@@ -439,10 +438,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Guru, měli bychom meditovat při řízení? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:25-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:25-cs
   :END:
 
 
@@ -452,20 +451,20 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Část IV.: Sri Chinmoy: osobní postřehy
 
- :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: IJ:26e4-cs
+  :PROPERTIES:
+  :GENRE: section
+  :KEYWORDS:
+  :CITE-KEY: IJ:26e4-cs
   :END:
 
 
 
 * Jaká je vaše vlastní definice Boha? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:26-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:26-cs
   :END:
 
 
@@ -477,10 +476,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Existuje určitá podoba Nejvyššího, kterou máte nejradši? 
 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:27-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:27-cs
   :END:
 
 
@@ -490,10 +489,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Berete na sebe také jiné podoby? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:28-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:28-cs
   :END:
 
 
@@ -505,10 +504,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Guru, jak to, že během rozhovorů působíš vážně, a když mluvíš k nám, působíš přátelsky? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:29-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:29-cs
   :END:
 
 
@@ -523,10 +522,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Jak dlouho vám trvalo vystoupat po duchovním žebříčku? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:30-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:30-cs
   :END:
 
 
@@ -536,10 +535,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Jak moc váš vnější život odráží ten vnitřní? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:31-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:31-cs
   :END:
 
 
@@ -551,10 +550,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Když říkáš „Aum“, obracíš se na nekonečné? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:32-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:32-cs
   :END:
 
 
@@ -564,10 +563,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Ve vaší knize o astrologii jste mluvil o boji s vitálními bytostmi. V jednom místě mluvíte o sedmi bytostech, které přišly a napadly vás. Jak jste vlastně bojoval s těmito bytostmi? 
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:33-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:33-cs
   :END:
 
 
@@ -577,10 +576,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Napíšete někdy svůj životopis?
 
- :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IJ:34-cs
+  :PROPERTIES:
+  :GENRE: qa
+  :KEYWORDS:
+  :CITE-KEY: IJ:34-cs
   :END:
 
 
@@ -589,6 +588,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
    Právě teď nechci ztrácet čas psaním příběhů o své minulosti; ve vaší realizaci Boha vám vůbec nepomohou. Vždy své žáky odrazuji od toho, aby se dívali na mou minulost, protože jsem to, co jsem nyní. Pravda, někdy, když mám inspiraci, vyprávím vám o mém dětství a mládí; ale vím, že vám tyto zajímavé příběhy ani o kousek nepomohou ve vaší realizaci Boha. Před dvaceti lety bylo vše uvnitř mě -- duchovní Mistr, Jogín, všechno -- ale tehdy jsem nebyl Jogínem pro svět. V Bibli když Marie požádala Ježíše, aby na svatbě přeměnil vodu ve víno, řekl, že ještě nenastal čas, aby dělal takové věci. V mém případě, když jsem byl mladý, nebyla ta správná doba na to, abych měl žáky. Nyní je ta doba. Když hodina udeří, tehdy žáci získají všechny výhody. 
 
    To, co dělám od té doby, co jsem přišel do Ameriky, je opravdu důležité. Jiné věci nejsou důležité. V životě Krista jsou důležité pouze tři roky. To, co dělal, než dosáhl třiceti let, sám Bůh ví. Co uvidíme nebo co získáme z jeho života před třicítkou? Nic! Ale během let od třiceti do třiatřiceti, udělal věci, které jsou nesmrtelné. Vědomí země si stále váží věcí, které udělal: stále si cení jeho lásky a soucitu. 
+   
    Jestliže vy lidé cítíte: „O, kdybych tak mohl něco vědět o Kristovi před jeho třicetinami, pak bych byl spasen,“ já řeknu: „Ne, čím méně víte o osobní stránce, o nedůležité stránce, tím lépe. Jen věnujte pozornost samotnému Cíli.“ Na mangovníku je mnoho větví a tisíce a tisíce listů. Ale co potřebujete, je mango. Jestliže víte, kde je mango, máte všechno. Proč chcete vědět, kolik listů je na stromě? Máte-li hlad nebo žízeň, samotné mango vás uspokojí, ne listy. A tak byste měli jíst své mango a být spokojeni. 
 
    Když se člověk stane opravdovým Mistrem a dokáže nabízet Světlo, Světlo je mangem. Chcete-li získat mango příliš brzy, předtím, než je zralé, nebudete spokojeni. Takže teď jsem mangem, Světlem. Teď je čas podívat se na mango, které je mou přítomností, a ne na listy, které zastupují mou minulost. 
@@ -597,10 +597,10 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 * Zlatá Loď
 
- :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: IJ:35-cs
+  :PROPERTIES:
+  :GENRE: discourse
+  :KEYWORDS:
+  :CITE-KEY: IJ:35-cs
   :END:
 
 

@@ -26,6 +26,7 @@
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: VIFC:1-cs
+  :DATE-EVENT: 1972-11-14
   :END:
 
 
@@ -45,14 +46,15 @@ Matka Indie je aspirující strom. Tento strom má jako svůj jediný kořen vé
 
 Védští zřeci viděli Pravdu svou duší, viděli ji ve svých Nebeských vizích a pozemských skutcích.
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Satyam era jayate nānṛtam/
-(Mundakópanišad 3.1.6)
 
 Pravda jediná vítězí, ne lež.
 
-#+END_VERSE
+ -- Mundakópanišad 3.1.6
+
+#+END_QUOTE
 
 Tato Pravda nás učí, jak být skutečnými bratry a sestrami lidstva, vědomými a oddanými milovníky Boha a dokonalými pány přírody.
 
@@ -64,15 +66,15 @@ Současný svět věří, že nejvyšší možný zážitek skutečnosti může 
 
 Védy mají věčnou moudrost. Tato moudrost je pro nás. Védy jsou více než ochotné nás osvítit, pokud se odvážíme naslouchat jejich poselství:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Śṛṇvantu viśve amṛtasya putrāḥ/
 
-#+END_VERSE
+ Slyšte, synové Nesmrtelnosti.
 
-(Rgvéda X.13.1)
+ -- Rgvéda X.13.1
 
-Slyšte, synové Nesmrtelnosti.
+#+END_QUOTE
 
 
 To je jejich šlechetné pozvání.
@@ -102,6 +104,7 @@ Védy neztělesňují depresi, potlačování, sebeumrtvování, uvědomování 
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: VIFC:2-cs
+  :DATE-EVENT: 1972-11-14
   :END:
 
 
@@ -125,30 +128,32 @@ Ve védách jsou dvě slova, která jsou stejně důležitá jako védy samotné
 
 Védští zřeci přijali zákony druhých nejenom s upřímností svého srdce, ale také s jednotou své duše. Viděli Jediného v mnohém a mnohé v Jediném. Absolutno nepovažovali za svůj výhradní monopol.
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Satyam eva jayate nānṛtam/
 
-#+END_VERSE
-
-(Mundakópanišad 3.1.6)
-
 Pravda jediná vítězí, ne lež.
 
+ -- Mundakópanišad 3.1.6
 
-#+BEGIN_VERSE
+#+END_QUOTE
 
-/Asato mā sad gamaya
-Tamaso mā jyotir gamaya
-Mṛtyor māmṛtam gamba/
 
-#+END_VERSE
+  
+#+BEGIN_QUOTE
 
-(Brhadáranjakópanišad 1.3.28)
+/Asato mā sad gamaya/
+/tamaso mā jyotir gamaya/
+/mṛtyor māmṛtam gamba/
 
 Veď mne od neskutečného ke Skutečnému.
 Veď mne z temnoty ke Světlu.
 Veď mne od smrti k Nesmrtelnosti.
+
+ -- Brhadáranjakópanišad 1.3.28
+
+#+END_QUOTE
+
 
 
 Neskutečnost je nepravda a Skutečnost je Pravda. Čisté srdce vzývá /satja/. Statečné vitálno vzývá /rta/. Láska k Pravdě nás vyvádí z temnoty. Láska k božskému řádu nás vede od lidského těla k božskému životu. 
@@ -166,6 +171,7 @@ Neskutečnost je nepravda a Skutečnost je Pravda. Čisté srdce vzývá /satja
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: VIFC:3-cs
+  :DATE-EVENT: 1972-11-15
   :END:
 
 
@@ -180,15 +186,17 @@ Strach z poznaného je pošetilost.
 
 Co potřebujeme, je vůle duše. Vůle duše dává Boží svobodu. 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Uru ṇas tanve tan
-Uru kṣayāya nas kṛdhi
-Uru ṇo yaṃdhi kvase/
+/Uru ṇas tanve tan/
+/uru kṣayāya nas kṛdhi/
+/uru ṇo yaṃdhi kvase/
 
-#+END_VERSE
+ -- Rgvéda VIII.68.12
 
-(Rgvéda VIII.68.12)
+#+END_QUOTE
+
+
 
 Tento plamenný výrok Rgvédy znamená: 
 
@@ -223,6 +231,7 @@ Existují čtyři védy: Rgvéda, Jadžurvéda, Sámavéda a Atharvavéda. Rgv�
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: VIFC:4-cs
+  :DATE-EVENT: 1972-11-17
   :END:
 
 
@@ -239,31 +248,32 @@ V Rgvédě vidíme čistou přítomnost oddanosti a pevnou přítomnost pozná
 Podle véd je nejzákladnější součástí života čin. Čin je vědomým přijetím našeho pozemského bytí. Čin potřebuje tělo, jež je jeho chrámem a pevností. Čin potřebuje život, jenž je jeho inspirací a aspirací. Člověk činu je na bitevním poli života ideálním hrdinou. Žije s lidským tělem Boha – se zemí, a pracuje pro božský život Boha – pro Nebe. Čin je vnější oběť a vnitřní jednota. Rgvéda nám nabízí nejvyšší tajemství toho, jakou oběť můžeme učinit silou své jednoty. V činu vidíme univerzální přítomnost Boha. V činu ztělesňujeme ducha a odhalujeme formu. V duchu je Bůh Absolutnem. Ve formě je Bůh Nekonečnem.
 Rgvéda hovoří o Bohu Síle:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Tvam Indra balād adhi sahaso jāta ojasaḥ…/
-
-#+END_VERSE
-
-(Rgvéda X.153.2)
 
 Ó Bože, Tvé bytí spočívá v síle, chrabrosti a energii.
 Ó Mocný, Ty jsi Silou samotnou.
 
+ -- Rgvéda X.153.2
+
+#+END_QUOTE
+
+
 Aby hledající na zemi významným způsobem projevil Boha, musí žít dlouho.
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Aum bhadraṃ karṇebhiḥ śṛṇuyāma devāh…/
-
-#+END_VERSE
-
-(Rgvéda I.89.8)
 
 Ó kosmičtí bohové, kéž naše lidské uši slyší vše, 
 	co je dobré a příznivé.
 Ó bohové vskutku hodní uctívání, kéž naše lidské oči 
 	vidí vše, co je dobré a příznivé.
+  
+ -- Rgvéda I.89.8 
+  
+#+END_QUOTE
 
 Avšak pouhý dlouhý život postrádající božskost není nic jiného než naprostá nevědomost.
 
@@ -288,6 +298,7 @@ Máme aspiraci. Potřebujeme realizaci. Bůh i my společně potřebujeme proje
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: VIFC:5-cs
+  :DATE-EVENT: 1972-11-28
   :END:
 
 
@@ -325,6 +336,7 @@ Obětování je nabízení sebe sama. Sebenabízení je sebenaplnění. Sebenapl
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: VIFC:6-cs
+  :DATE-EVENT: 1972-11-28
   :END:
 
 Učenci ani studenti véd se nemohou shodnout na jejich původu. Připadá mi to pošetilé. Védy jsou stejně staré jako vědomá aspirace vesmíru. Vesmír se však vědomě či nevědomě vyvíjí k dokonalosti, kdežto védy obsahují počátek inspirující dokonalosti a završení osvěcující realizace.
@@ -336,16 +348,19 @@ Základním učením véd je karma, což znamená „práce“ nebo také „slu
 
 Podle véd existují v životě čtyři důležité etapy: studentský život, manželský život, život v ústraní a život odříkání. Studentský život, to je sebekázeň. Manželský život představuje sebeovládání a sebeusměrnění. Život v ústraní je mírem a klidem. Život odříkání je nabízením toho, co člověk má a čím je, Absolutnímu Nejvyššímu.
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Ekaṃ sad viprā bahudhā vadanti/
 
-#+END_VERSE
-
-(Rgvéda I.164.46)
-
 Existence Pravdy je jediná.
 Mudrci ji nazývají různými jmény.
+
+ -- Rgvéda I.164.46
+
+#+END_QUOTE
+
+
+
 
 Tuto existenci Pravdy si uvědomuje a zakouší každý hledající nekonečné Pravdy rozdílně podle úrovně svého vnitřního vývoje. Právě díky tomuto vznešenému poselství véd je náboženské srdce Indie tak široké a kosmopolitní. Duchovní srdce Indie ví, jak přijmout ostatní náboženství, jak si jich vážit a jak je obdivovat. Duchovní srdce Indie pochopilo, že každé nové náboženství má nový způsob, jak dosáhnout Cíle. Každá cesta je správná a nepostradatelná pro ty, kteří po ní kráčí.
 
@@ -374,6 +389,7 @@ Blaženost je to, čím Bůh je.
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: VIFC:7-cs
+  :DATE-EVENT: 1972-11-29
   :END:
 
 

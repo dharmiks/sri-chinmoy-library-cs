@@ -34,16 +34,13 @@
 
 
 
-* Část 1
+* Část 1[fn:: ALSL 1-27. Na následující otázky týkající se umění odpovídal Sri Chinmoy 17. září 1974 během setkání jeho Centra v New Jersey ]
 
   :PROPERTIES:
   :genre: note
   :keywords:
   :cite-key: ALSL:1e2-cs
   :END:
-
-
-/Na následující otázky týkající se umění odpovídal Sri Chinmoy 17. září 1974 během setkání jeho Centra v New Jersey./
 
 
 
@@ -54,6 +51,7 @@
   :genre: qa
   :keywords:
   :cite-key: ALSL:1-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -67,6 +65,7 @@
   :genre: qa
   :keywords:
   :cite-key: ALSL:2-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -80,6 +79,7 @@
   :genre: qa
   :keywords:
   :cite-key: ALSL:3-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -93,6 +93,7 @@
   :genre: qa
   :keywords:
   :cite-key: ALSL:4-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -108,6 +109,7 @@ Umění je pozemský cestovatel, poutník, a duchovnost je cesta. Jestliže oba
   :genre: qa
   :keywords:
   :cite-key: ALSL:5-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -121,6 +123,7 @@ Umění je pozemský cestovatel, poutník, a duchovnost je cesta. Jestliže oba
   :genre: qa
   :keywords:
   :cite-key: ALSL:6-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -134,6 +137,7 @@ Umění je pozemský cestovatel, poutník, a duchovnost je cesta. Jestliže oba
   :genre: qa
   :keywords:
   :cite-key: ALSL:7-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -149,6 +153,7 @@ Ve tvém případě, pokud máš dvě nebo tři umělecké schopnosti, měla by 
   :genre: qa
   :keywords:
   :cite-key: ALSL:8-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -162,6 +167,7 @@ Ve tvém případě, pokud máš dvě nebo tři umělecké schopnosti, měla by 
   :genre: qa
   :keywords:
   :cite-key: ALSL:9-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -175,6 +181,7 @@ Ve tvém případě, pokud máš dvě nebo tři umělecké schopnosti, měla by 
   :genre: qa
   :keywords:
   :cite-key: ALSL:10-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -190,6 +197,7 @@ Pravda představuje to Nejvyšší. Když se Krása stane jedním s Pravdou, Kr
   :genre: qa
   :keywords:
   :cite-key: ALSL:11-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -205,6 +213,7 @@ Když nás někdo, kdo je nadřízený, nás používá svým vlastním způsobe
   :genre: qa
   :keywords:
   :cite-key: ALSL:12-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -219,6 +228,7 @@ Když nás někdo, kdo je nadřízený, nás používá svým vlastním způsobe
   :genre: qa
   :keywords:
   :cite-key: ALSL:13-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -232,6 +242,7 @@ Když nás někdo, kdo je nadřízený, nás používá svým vlastním způsobe
   :genre: qa
   :keywords:
   :cite-key: ALSL:14-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -247,6 +258,7 @@ Když mi bylo čtrnáct nebo patnáct, Sarasvatí ke mně jednou přišla a hr�
   :genre: qa
   :keywords:
   :cite-key: ALSL:15-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -260,6 +272,7 @@ Když mi bylo čtrnáct nebo patnáct, Sarasvatí ke mně jednou přišla a hr�
   :genre: qa
   :keywords:
   :cite-key: ALSL:16-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -275,6 +288,7 @@ Druhý důvod, proč nedokážete vyjádřit báseň, kterou máte uvnitř sebe,
   :genre: qa
   :keywords:
   :cite-key: ALSL:17-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -288,6 +302,7 @@ Druhý důvod, proč nedokážete vyjádřit báseň, kterou máte uvnitř sebe,
   :genre: qa
   :keywords:
   :cite-key: ALSL:18-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -305,6 +320,7 @@ Když je někdo velmi ošklivý, snaží se oblékat si ty nejdražší, nejkrá
   :genre: qa
   :keywords:
   :cite-key: ALSL:19-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -318,6 +334,7 @@ Když je někdo velmi ošklivý, snaží se oblékat si ty nejdražší, nejkrá
   :genre: qa
   :keywords:
   :cite-key: ALSL:20-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -333,6 +350,7 @@ Vrána k vráně sedá. Neaspirující hudba a neaspirující hudebníci jdou 
   :genre: qa
   :keywords:
   :cite-key: ALSL:21-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -347,6 +365,7 @@ Vrána k vráně sedá. Neaspirující hudba a neaspirující hudebníci jdou 
   :genre: qa
   :keywords:
   :cite-key: ALSL:22-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -362,6 +381,7 @@ Avšak i když používáš svou svobodu dobrým způsobem, nezískáš plné u
   :genre: qa
   :keywords:
   :cite-key: ALSL:23-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -379,6 +399,7 @@ Někteří duchovní Mistři, kteří realizovali Boha, nechtějí lidstvu pomoc
   :genre: qa
   :keywords:
   :cite-key: ALSL:24-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -393,6 +414,7 @@ Někteří duchovní Mistři, kteří realizovali Boha, nechtějí lidstvu pomoc
   :genre: qa
   :keywords:
   :cite-key: ALSL:25-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -408,6 +430,7 @@ Když se díváš na umění, snaž se uvnitř něj vidět Umělce. Toto udělá
   :genre: qa
   :keywords:
   :cite-key: ALSL:26-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -423,6 +446,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :genre: qa
   :keywords:
   :cite-key: ALSL:27-cs
+  :date-event: 1974-09-17
   :END:
 
 
@@ -430,7 +454,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
 
 
 
-* Část 2
+* Část 2[fn:: ALSL 28-73. Na následující otázky k umění odpovídal Sri Chinmoy 24. září 1974 během setkání v domě jednoho ze svých žáků ]
 
   :PROPERTIES:
   :genre: note
@@ -439,16 +463,13 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :END:
 
 
-/Na následující otázky k umění odpovídal Sri Chinmoy 24. září 1974 během setkání v domě jednoho ze svých žáků./
-
-
-
 * Jaký je vztah mezi uměním a geometrií?
 
   :PROPERTIES:
   :genre: qa
   :keywords:
   :cite-key: ALSL:28-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -462,7 +483,8 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :genre: qa
   :keywords:
   :cite-key: ALSL:29-cs
-  :END:
+   :date-event: 1974-09-24
+ :END:
 
 
 /Sri Chinmoy:/ Sport znamená radost. Sport znamená štěstí, vnitřní štěstí. Víte, že pocházíme z radosti, vrůstáme do radosti a při završení naší cesty vstupujeme do radosti zpět. Největším darem umění je radost a radost je také objevem sportu. Jdou společně. Pokud ale odhalíte radost skrze umění, je odlišná. Tam přichází do mentální a vitální úrovně, zatímco získáte-li radost ze sportu, vstupuje do fyzické a vitální úrovně. Avšak cíl umění a cíl sportu jsou totožné. Obojí ztělesňuje tentýž konečný cíl a má tentýž společný cíl. Uvnitř umění je největší radost a uvnitř sportu je největší radost.
@@ -475,7 +497,8 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :genre: qa
   :keywords:
   :cite-key: ALSL:30-cs
-  :END:
+   :date-event: 1974-09-24
+ :END:
 
 
 /Sri Chinmoy:/ Pokud se koncentrujete na krční čakru, budete schopni stát se velmi dobrými malíři, hudebníky, spisovateli, tanečníky či zpěváky. Neznamená to, že ostatní centra nemají schopnost vám v tomto směru pomoci, ale krční centrum má tu schopnost největší. Je to jako lednička v domě. Vědomí jídla nebo vibrace tohoto jídla je v celém domě, pokud však jdu do ledničky v kuchyni, získám jídlo okamžitě.
@@ -488,6 +511,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :genre: qa
   :keywords:
   :cite-key: ALSL:31-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -501,6 +525,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :genre: qa
   :keywords:
   :cite-key: ALSL:32-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -514,6 +539,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :genre: qa
   :keywords:
   :cite-key: ALSL:33-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -528,6 +554,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :genre: qa
   :keywords:
   :cite-key: ALSL:34-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -540,6 +567,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :genre: qa
   :keywords:
   :cite-key: ALSL:35-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -553,6 +581,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :genre: qa
   :keywords:
   :cite-key: ALSL:36-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -566,6 +595,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :genre: qa
   :keywords:
   :cite-key: ALSL:37-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -579,6 +609,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :genre: qa
   :keywords:
   :cite-key: ALSL:38-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -592,6 +623,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :genre: qa
   :keywords:
   :cite-key: ALSL:39-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -608,6 +640,7 @@ Existují lidé, kteří se nezajímají o umění jako je hudba, malba či tan
   :genre: qa
   :keywords:
   :cite-key: ALSL:40-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -623,6 +656,7 @@ Pokud chci být malířem, půjdu ke konkrétnímu božstvu, které má určitou
   :genre: qa
   :keywords:
   :cite-key: ALSL:41-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -636,6 +670,7 @@ Pokud chci být malířem, půjdu ke konkrétnímu božstvu, které má určitou
   :genre: qa
   :keywords:
   :cite-key: ALSL:42-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -651,6 +686,7 @@ Protože vy jste hledající, dva roky čekat nemusíte. Vivékánanda říkáva
   :genre: qa
   :keywords:
   :cite-key: ALSL:43-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -664,6 +700,7 @@ Protože vy jste hledající, dva roky čekat nemusíte. Vivékánanda říkáva
   :genre: qa
   :keywords:
   :cite-key: ALSL:44-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -677,6 +714,7 @@ Protože vy jste hledající, dva roky čekat nemusíte. Vivékánanda říkáva
   :genre: qa
   :keywords:
   :cite-key: ALSL:45-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -692,6 +730,7 @@ Modlete se k Nejvyššímu a představujte si Jej přímo před sebou. Řekně
   :genre: qa
   :keywords:
   :cite-key: ALSL:46-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -705,6 +744,7 @@ Modlete se k Nejvyššímu a představujte si Jej přímo před sebou. Řekně
   :genre: qa
   :keywords:
   :cite-key: ALSL:47-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -718,6 +758,7 @@ Modlete se k Nejvyššímu a představujte si Jej přímo před sebou. Řekně
   :genre: qa
   :keywords:
   :cite-key: ALSL:48-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -733,6 +774,7 @@ Pokud máte radost ze srdce, je tam ztotožnění; pokud je to však radost v m
   :genre: qa
   :keywords:
   :cite-key: ALSL:49-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -749,6 +791,7 @@ Ve chvíli, kdy řekneme: „Ó Nejvyšší, ať je ve mně a skrze mě každou
   :genre: qa
   :keywords:
   :cite-key: ALSL:50-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -764,6 +807,7 @@ Duchovnost neznamená přebývat uvnitř jeskyně či na vrcholku Himálají. Ne
   :genre: qa
   :keywords:
   :cite-key: ALSL:51-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -779,6 +823,7 @@ Můžete se zeptat, proč nedal Bůh stejný hlad všem. Odpověď je, že Bůh 
   :genre: qa
   :keywords:
   :cite-key: ALSL:52-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -793,6 +838,7 @@ Můžete se zeptat, proč nedal Bůh stejný hlad všem. Odpověď je, že Bůh 
   :genre: qa
   :keywords:
   :cite-key: ALSL:53-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -806,6 +852,7 @@ Můžete se zeptat, proč nedal Bůh stejný hlad všem. Odpověď je, že Bůh 
   :genre: qa
   :keywords:
   :cite-key: ALSL:54-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -821,6 +868,7 @@ Jinak když se dotknete hmotného předmětu, který považujete za nebožský, 
   :genre: qa
   :keywords:
   :cite-key: ALSL:55-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -834,6 +882,7 @@ Jinak když se dotknete hmotného předmětu, který považujete za nebožský, 
   :genre: qa
   :keywords:
   :cite-key: ALSL:56-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -847,6 +896,7 @@ Jinak když se dotknete hmotného předmětu, který považujete za nebožský, 
   :genre: qa
   :keywords:
   :cite-key: ALSL:57-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -860,6 +910,7 @@ Jinak když se dotknete hmotného předmětu, který považujete za nebožský, 
   :genre: qa
   :keywords:
   :cite-key: ALSL:58-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -877,6 +928,7 @@ Jestliže umělec vytvoří něco, co má určitou úroveň vědomí, musí sám
   :genre: qa
   :keywords:
   :cite-key: ALSL:59-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -890,6 +942,7 @@ Jestliže umělec vytvoří něco, co má určitou úroveň vědomí, musí sám
   :genre: qa
   :keywords:
   :cite-key: ALSL:60-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -905,6 +958,7 @@ Mistrova jednota s žákem a žákova jednota s Mistrem je tím nejvyšším. Kd
   :genre: qa
   :keywords:
   :cite-key: ALSL:61-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -920,6 +974,7 @@ Když vytvářím umění, musím vědět, kolik mám výšky duše. Můžu být
   :genre: qa
   :keywords:
   :cite-key: ALSL:62-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -939,6 +994,7 @@ Aspirant musí být velmi opatrný, když začíná pohyb těla. Obtíž je v t
   :genre: qa
   :keywords:
   :cite-key: ALSL:63-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -952,6 +1008,7 @@ Aspirant musí být velmi opatrný, když začíná pohyb těla. Obtíž je v t
   :genre: qa
   :keywords:
   :cite-key: ALSL:64-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -967,6 +1024,7 @@ V jiných světech vidíte Gandharvy -- nebeské hudebníky jako je Nárada, kt
   :genre: qa
   :keywords:
   :cite-key: ALSL:65-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -980,6 +1038,7 @@ V jiných světech vidíte Gandharvy -- nebeské hudebníky jako je Nárada, kt
   :genre: qa
   :keywords:
   :cite-key: ALSL:66-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -994,6 +1053,7 @@ V jiných světech vidíte Gandharvy -- nebeské hudebníky jako je Nárada, kt
   :genre: qa
   :keywords:
   :cite-key: ALSL:67-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -1009,6 +1069,7 @@ Nejlepší formou umění je sebedávání s jasnou vizí toho, komu se dává�
   :genre: qa
   :keywords:
   :cite-key: ALSL:68-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -1026,6 +1087,7 @@ V indických posvátných spisech se říká, že kosmický banyán je odlišn�
   :genre: qa
   :keywords:
   :cite-key: ALSL:69-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -1039,6 +1101,7 @@ V indických posvátných spisech se říká, že kosmický banyán je odlišn�
   :genre: qa
   :keywords:
   :cite-key: ALSL:70-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -1054,6 +1117,7 @@ Váš Milovaný Nejvyšší na vás čeká. Pláče, pláče pro vás, abyste Je
   :genre: qa
   :keywords:
   :cite-key: ALSL:71-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -1067,6 +1131,7 @@ Váš Milovaný Nejvyšší na vás čeká. Pláče, pláče pro vás, abyste Je
   :genre: qa
   :keywords:
   :cite-key: ALSL:72-cs
+  :date-event: 1974-09-24
   :END:
 
 
@@ -1081,6 +1146,7 @@ Váš Milovaný Nejvyšší na vás čeká. Pláče, pláče pro vás, abyste Je
   :genre: qa
   :keywords:
   :cite-key: ALSL:73-cs
+  :date-event: 1974-09-24
   :END:
 
 

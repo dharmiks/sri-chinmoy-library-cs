@@ -34,7 +34,10 @@ Brahman, Já, přirozenost lidské životní síly, podstata oběti, bytí a neb
 Ve Sri Chinmoyovi jeho žáci, příznivci a obdivovatelé nacházejí jeho nejupřímnější zájem. Jeho vnitřní Moudrost a božské Světlo miluje, slouží a vede hledající lidskou mysl a aspirující lidské srdce. Obvykle se stává, že někdo zažije Pravdu, a někdo, aniž by Pravdu zažil, ji vysvětluje. Indičtí mudrci starodávné minulosti Pravdu zažili. Později mělo jen velmi málo indických duchovních mistrů zkušenost stejné nejvyšší Pravdy. Ale mnozí indičtí učenci a spisovatelé se stali šiřiteli védských a upanišadských Pravd, aniž by sami zažili hloubku nejzazší Pravdy. Toto ale neplatí pro Sri Chinmoye, neboť on tuto nezazší Pravdu zažil. Jeho chápání Upanišad nepochází od pouhého intelektuálního pochopení, ale z přímé osobní zkušenosti těchto vnitřních pravd.
 
 Ve Sri Chinmoyovi upřímní hledající nacházejí nejen ztělesnění věčné Pravdy v jeho nejčistším životě a duši, ale také jeho spontánní odhalení a duši vzrušující projevení. 
+
 Zřeci Upanišad jsou hrdí na Sri Chinmoye, protože on /je/. Sri Chinmoy je na ně hrdý, protože ve svém vnitřním bytí je vždy s nimi v zářícím Snu Nejvyššího, který se stává projevením Skutečnosti Nejvyššího.
+
+
 
 * Dar duše Indie
 
@@ -42,22 +45,27 @@ Zřeci Upanišad jsou hrdí na Sri Chinmoye, protože on /je/. Sri Chinmoy je na
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: UPA:1-cs
+  :DATE-EVENT: 1971-10-22
   :END:
 
 
 Nehasnoucí světlo upanišad je darem duše Indie. Upanišady nabízejí celému světu nejvyšší dosažení probuzeného a osvíceného hinduistického života.
+
 Védy představují krávu. Upanišady představují mléko. Potřebujeme krávu, aby nám dala mléko, a mléko potřebujeme ke svému nasycení.
 
 Upanišadám se také říká védánta. Doslovný význam pojmu védánta je „zakončení véd“. Avšak duchovní význam védánty je „vyvrcholení véd, to nejlepší z vnitřního učení, záměr, cíl vnitřního života.“ 
+
 Muktika upanišada nám říká velmi důležitou věc:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Tileṣu tailavad vede vedāntaḥ supratiṣṭhitaḥ/
 
 Tak jako olej v sezamovém semínku, i védánta je neodmyslitelně obsažena v každé části véd.
 
-#+END_VERSE
+ -- Muktikópanišad 1.1.9
+
+#+END_QUOTE
 
 Upanišady nám říkají, že existují dva druhy poznání: vyšší poznání a nižší poznání. Vyšší poznání je /parávidjá/ a nižší poznání je /aparávidjá/. Vyšším poznáním je objevení duše. Nižším poznáním je naplnění nesčetných požadavků těla.
 
@@ -65,7 +73,7 @@ Podle naší indické tradice bývalo kdysi tisíc sto osmdesát upanišad. Kaž
 
 Třináct základních upanišad tvoří Íša, Katha, Kéna, Prašna, Mundaka, Mándúkja, Čhándógja, Brhadáranjaka, Taittiríja, Aitaréja, Švétášvatara, Kaivalja a Maitrí.
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Tad ejati tan naijiti tad dūre tadvantike.../
 
@@ -74,19 +82,25 @@ To je daleko a zároveň blízko.
 To je uvnitř všeho.
 To je také vně všeho.
 
-#+END_VERSE
+ -- Íšópanišad 5
+
+#+END_QUOTE
 
 Toto zvláštní poselství má pro nás Íša upanišada. Pro toužící mysl je toto poselství prázdné, mlhavé, nejasné a matoucí. Pro aspirující srdce je však inspirující a osvěcující. Pro odhalující duši je naplňující a nesmrtelné. Brahman, Bůh, je ve svém absolutním aspektu neměnný; avšak ve svém podmíněném aspektu se stále mění, proměňuje, vyvíjí, odhaluje, projevuje a naplňuje.
-Íša upanišada dává pozoruhodným způsobem do souladu práci a poznání, Jediného a mnohé, neosobního Boha a osobního Boha. Práce vykonávaná s odpoutáním je skutečným poznáním. Pokoušíme-li se vědomě vidět Boha ve všem a v každém, potom oduševněle nabízíme sami sebe zasvěcenému činu. Poznání je činnost. Jediný a mnohé: Jediného potřebujeme pro svou seberealizaci; mnohé potřebujeme pro své sebeprojevení. Neosobní Bůh a osobní Bůh: žijeme-li v neosobním Bohu, vidíme Pravdu v její osvěcující Vizi. Když žijeme v osobním Bohu, vidíme Pravdu v její odhalující Skutečnosti.
-Boží Syn prohlásil: „Já a můj Otec jsme jedním.“ (Jan 10:30) Čhándógja upanišada činí smělé, do jisté míry odvážnější a zároveň přesvědčivější prohlášení: 
 
-#+BEGIN_VERSE
+Íša upanišada dává pozoruhodným způsobem do souladu práci a poznání, Jediného a mnohé, neosobního Boha a osobního Boha. Práce vykonávaná s odpoutáním je skutečným poznáním. Pokoušíme-li se vědomě vidět Boha ve všem a v každém, potom oduševněle nabízíme sami sebe zasvěcenému činu. Poznání je činnost. Jediný a mnohé: Jediného potřebujeme pro svou seberealizaci; mnohé potřebujeme pro své sebeprojevení. Neosobní Bůh a osobní Bůh: žijeme-li v neosobním Bohu, vidíme Pravdu v její osvěcující Vizi. Když žijeme v osobním Bohu, vidíme Pravdu v její odhalující Skutečnosti.
+
+Boží Syn prohlásil: „Já a můj Otec jsme jedním.“ /(Jan 10:30)/ Čhándógja upanišada činí smělé, do jisté míry odvážnější a zároveň přesvědčivější prohlášení: 
+
+#+BEGIN_QUOTE
 
 /Tat twam asi/
 
 Ty jsi To.
 
-#+END_VERSE
+ -- Čhándógjópanišad VI.8.7 - VI.16
+
+#+END_QUOTE
 
 Co to znamená? Znamená to, že nejste nikdo jiný než Bůh. Kdo jiný je Bůh, když ne vy?
 
@@ -106,19 +120,29 @@ Když hledající cítí právě takovou důvěrnou a neoddělitelnou jednotu s
 
 Upanišadští zřeci necítili potřebu chodit do nějakého duchovního centra, necítili potřebu chodit do nějakého chrámu, naslouchat promluvám nebo kázáním, necítili ani potřebu studovat knihy. Bůh byl pro ně jedinou vnější knihou i jediným vnitřním učitelem. Jejich jedinou potřebou byla realizace Boha a jejich jedinou skutečností bylo projevení Boha.
 
-Velký německý filozof Schopenhauer prohlásil: „Na celém světě není žádné studium tak prospěšné a tak povznášející jako studium upanišad. Upanišady byly a jsou útěchou mého života a budou útěchou i při mé smrti. Jsou plodem nejvyšší moudrosti.“ 
+Velký německý filozof Schopenhauer prohlásil: 
+
+#+BEGIN_QUOTE
+
+Na celém světě není žádné studium tak prospěšné a tak povznášející jako studium upanišad. Upanišady byly a jsou útěchou mého života a budou útěchou i při mé smrti. Jsou plodem nejvyšší moudrosti.
+
+ -- Arthur Schopenhauer, Parega und Paralipomena II
+ 
+#+END_QUOTE
 
 Upanišady nám nabízejí trojí poučení. První poučení je o /Brahman/. Druhé poučení je o /átman/. Třetí poučení je o /džagat/. /Brahman/ je Bůh, /átman/ je duše a /džagat/ je svět. Když meditujeme na /Brahman/, náš život vrůstá do znesmrtelňující Blaženosti. Když meditujeme na duši, náš život se stává vědomou a rychlou evolucí. Když nezanedbáváme svět, stává se náš život naplňujícím projevením.
 
 Pokud budete studovat upanišady s jasnou myslí, a nikoli jen zběžně a povrchně, potom uvidíte, že Bůh i vy, vy i Bůh jste věční. Budete-li studovat upanišady s vnímavým srdcem, uvidíte, že Bůh a vy jste si rovni. A konečně, pokud budete studovat upanišady se světlem své duše, zjistíte, že tam v Nebi jste realizovaným a esoterickým Bohem a tady na zemi jste projeveným a exoterickým Bohem.
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Nāyam ātmā balahīnena labhyo/
 
 Duše nemůže být dosažena slabochem.
 
-#+END_VERSE
+ -- Mundakópanišad 3.2.4
+ 
+#+END_QUOTE
 
 Modlu, kterou dosadil na trůn strach a pochybnost, sesadí vnitřní síla. Když na povrch vyjde vaše vnitřní síla, bude pochybující část uvnitř vás přeměněna na zářivé světlo duše.
 
@@ -130,16 +154,20 @@ Mándúkja upanišada nám nabízí nanejvýš významný dar. Vypráví nám o�
 
 Nejvyšším bohatstvím upanišad je Já:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Yato vāco nivartane aprāpya manasā saha…/
 
 Pročež se slova, síla řeči, vrací se zmatenou myslí zpět, aniž dosáhla cíle.
 
-#+END_VERSE
+ -- Taittiríjópanišad II.4 a II.9
+        
+#+END_QUOTE
 
 Toto Já nelze dosáhnout mentální brilancí. Lze jej získat jedině aspirujícím srdcem a zasvěceným životem.
+
 Transcendentální Já je v tomto relativním světě skryto v pěti různých obalech. Jsou to /annamaja kóša/ -- hrubý fyzický obal, /pránamaja kóša/ -- obal vitální síly, /manomaja kóša/ -- mentální obal, /vidžňánamaja kóša/ -- obal pokročilého a rozvinutého poznání a /ánandamaja kóša/ -- obal Blaženosti.
+
 Existují tři druhy těl, které odpovídají těmto pěti obalům. Tato těla se nazývají /sthúlašaríra, súkšmašaríra/ a /káranašaríra/. /Sthúla/ znamená „hrubé fyzické“ a /šaríra/ znamená „tělo“. /Súkšma/ znamená „jemný“ a /kárana/ znamená „příčinné, kauzální“. Fyzické tělo, /sthúlašaríra/, obsahuje /annamaja kóša/, hmotnou podstatu. Jemné tělo, /súkšmašaríra/, se skládá z /pránamaja kóša/, /manomaja kóša/ a /vidžňánamaja kóša/. Kauzální neboli příčinné tělo, /káranašaríra/, obsahuje /ánandamaja kóša/, obal Blaženosti.
 
 #+BEGIN_VERSE
@@ -163,6 +191,7 @@ Takové je vnější slunce. Každý z nás má však vnitřní slunce. Toto vn
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: UPA:2-cs
+  :DATE-EVENT: 1971-11-07
   :END:
 
 
@@ -186,7 +215,7 @@ Poté, co Blaženost sestoupila všemi úrovněmi mysli, vstoupí do vitálna. V
 
 Blaženost sestupuje, ale v hrubém fyzickém z ní nevidíme ani špetku. Co potom můžeme dělat? Můžeme silou své aspirace vstoupit do duše a duše nás vědomě vezme na nejvyšší úroveň, do /Sat-Čit-Ánanda/ -- Bytí, Vědomí, Blaženosti. Tehdy se naše cesta může stát vědomou. Vstoupili jsme do trojího vědomí a můžeme začít vědomě sestupovat do supermysli, nadmysli, intuitivní mysli, vlastní mysli, fyzické mysli, do vitálna a do fyzického. Jsme-li ve fyzickém úspěšní, dokážeme-li snést Blaženost z nejvyšší úrovně a fyzické ji dokáže pojmout a využít, končí život požitku. Tehdy si uvědomíme rozdíl mezi životem požitku a životem Blaženosti. Za životem požitku následuje zklamání a zkáza. Život Blaženosti je neustálým růstem, naplněním, vědomým dosažením a projevením Boha Způsobem Jemu vlastním.
 
-Mundaka upanišada (Mundakópanišad 3.1.1.-2) nám představuje dva ptáky. První z nich sedí na vrcholku stromu života, ten druhý o jednu větev níže. Pták sedící na nižší větvi pojídá jak sladké, tak i hořké plody. Ze sladkých plodů má pocit, že život je požitek; z hořkých má pocit, že život je utrpení. Pták, který sedí na vrcholku stromu, nejí ani sladké, ani hořké plody. Jenom tiše a klidně sedí. Jeho život je zaplaven mírem, světlem a blažeností. Pták pojídající sladké a hořké plody je zklamaný a znechucený; je zklamaný, protože požitek je nestálý, pomíjivý a prchavý; je znechucený, protože zklamání končí zmarem. Viditelně zklamaný a zcela znechucený vzlétá a ztrácí sám sebe ve světle svobody a blažené dokonalosti ptáka na vrcholku stromu života. Pták na vrcholku stromu je Kosmické a Transcendentální Já a pták pod ním je individuální já. Těmto dvěma krásným ptákům se říká /Šuparna/.
+Mundaka upanišada /(Mundakópanišad 3.1.1.-2)/ nám představuje dva ptáky. První z nich sedí na vrcholku stromu života, ten druhý o jednu větev níže. Pták sedící na nižší větvi pojídá jak sladké, tak i hořké plody. Ze sladkých plodů má pocit, že život je požitek; z hořkých má pocit, že život je utrpení. Pták, který sedí na vrcholku stromu, nejí ani sladké, ani hořké plody. Jenom tiše a klidně sedí. Jeho život je zaplaven mírem, světlem a blažeností. Pták pojídající sladké a hořké plody je zklamaný a znechucený; je zklamaný, protože požitek je nestálý, pomíjivý a prchavý; je znechucený, protože zklamání končí zmarem. Viditelně zklamaný a zcela znechucený vzlétá a ztrácí sám sebe ve světle svobody a blažené dokonalosti ptáka na vrcholku stromu života. Pták na vrcholku stromu je Kosmické a Transcendentální Já a pták pod ním je individuální já. Těmto dvěma krásným ptákům se říká /Šuparna/.
 
 V některých upanišadách vidíme neustálé soupeření mezi bohy a démony. Ti zářiví jsou bohové, a ti, kteří jsou nestřídmí a nevázaní, jsou démoni. Bozi i démoni jsou potomky Pradžápatiho, Stvořitele. Když vítězí bohové, vládne nejvyšší světlo duše. Když vítězí démoni, panuje nejhlubší noc těla. Původně byli bohové i démoni orgány Pradžápatiho. Bohové vznikli z těch orgánů, kterým dodávala energii božská Vůle, které osvěcovalo božské Světlo a které inspiroval božský Skutek. Démoni vznikli z orgánů, které napadaly nízké myšlenky, z orgánů, které dychtily žít ve světě smyslů a těšit se z života rozkoší a které sledovaly nižší a ničivé cíle. Je zbytečné připomínat, že je nekonečně snazší dosáhnout nižších cílů než dosáhnout Nejvyššího Cíle. To je právě důvod, proč bylo démonů mnohem více než bohů. My, hledající nekonečného Světla a Pravdy, však potřebujeme kvalitu bohů, a ne kvantitu démonů.
 
@@ -194,9 +223,11 @@ V některých upanišadách vidíme neustálé soupeření mezi bohy a démony
 
 Jednou měli bohové vroucí přání, aby jim orgány řeči, čichu, zraku, sluchu, mysli a vitální síly zazpívaly chvalozpěvy. Všechny orgány postupně zpívaly. Démoni ihned pochopili, že by bohové nad nimi mohli pomocí těchto pěvců získat nadvládu, a proto pěvce tajně a úspěšně nakazili nestoudným hříchem silného lpění na objektech smyslů a životě požitků. U orgánu řeči, nosu, očí, uší a mysli ihned uspěli. Avšak s vitální silou zle prohráli. Vitální síla je rozbila na kusy a rozmetala do všech stran. Vitální síla dobyla pro bohy vítězství. Jejich bytí bylo zaplaveno věčným Světlem božskosti. Stali se svým pravým já. Úskočnost žárlivých démonů byla odhalena a jejich pýcha byla rozdrcena. 
 
+ -- Čhándógjópanišad I.2.1-9
+
 #+END_QUOTE
 
-(Čhándógjópanišad I.2.1-9)
+
 
 Tato vitální síla se nazývá /ajásja ángirasa/. To znamená „podstata údů“. Vitální síla zvítězila. Byla laskavá, soucitná a šlechetná.
 
@@ -212,13 +243,15 @@ Vitální síla přenesla uši za hranice smrti. Z uší se staly směry. Proto�
 
 Vitální síla přenesla mysl za hranice smrti. Z mysli se stal měsíc. Protože překonal smrt, září za jejím panstvím.
 
+ -- Brhadáranjakópanišad I.3.12-16
+
 #+END_QUOTE
 
-(Brhadáranjakópanišad I.3.12-16) 
+ 
 
 Brhadáranjaka upanišada, neboli upanišada „velkého lesa“, nabízí lidstvu jedinečnou modlitbu:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Asato mā sad gamaya
 Tamaso mā jyotir gamaya
@@ -228,7 +261,9 @@ Veď mne od neskutečného ke Skutečnému.
 Veď mne od temnoty ke Světlu.
 Veď mne od smrti k Nesmrtelnosti.
 
-#+END_VERSE
+ -- Brhadáranjakópanišad I.3.28
+
+#+END_QUOTE
 
 Neskutečné je zachmuřením smrti; Skutečné je písní Nesmrtelnosti. Temnota je nejvyšší pýchou smrti; Světlo je životem osvěcující a zdokonalující síly Nesmrtelnosti. Smrt je poselstvím nicoty. Nesmrtelnost je poselstvím osvobozené jednoty lidstva s Božskou transcendentální Výškou.
 
@@ -245,6 +280,7 @@ Neskutečné je zachmuřením smrti; Skutečné je písní Nesmrtelnosti. Temnot
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: UPA:3-cs
+  :DATE-EVENT: 1971-11-17
   :END:
 
 
@@ -264,7 +300,20 @@ Upanišady nám nabízejí poznání sebe sama, poznání světa, poznání Boha
 
 /AUM/
 
-Poselstvím upanišad je „/Neti neti/“ -- „Ani to, ani to“ nebo „Ne toto, ne tamto“. My všichni zde jsme hledajícími nekonečné Pravdy. Opravdový hledající není a nemůže být spokojen se svým individuálním životem, individuálními úspěchy a pozemským vlastnictvím. Ne. Může být spokojen jen tehdy, dosáhne-li Absolutního. Co je to Absolutní? Absolutní je Brahman.
+Poselstvím upanišad je 
+
+#+BEGIN_QUOTE
+
+/Neti neti/ 
+
+„Ani to, ani to" nebo „Ne toto, ne tamto".
+
+ -- např.: Brhadáranjakópanišad I.3.28
+
+ #+END_QUOTE
+
+ My všichni zde jsme hledajícími nekonečné Pravdy. Opravdový hledající není a nemůže být spokojen se svým individuálním životem, individuálními úspěchy a pozemským vlastnictvím. Ne. Může být spokojen jen tehdy, dosáhne-li Absolutního. Co je to Absolutní? Absolutní je Brahman.
+
 Zřeci dávné minulosti nám nabídli toto vznešené poznání: „Brahman nelze ničím omezit, Brahman nelze nijak obsáhnout, Brahman nelze nijak popsat.“ To je ale negativní pohled na Brahman. Existuje také pozitivní pohled, a ten lze vyjádřit takto: „Brahman je věčný, Brahman je nekonečný, Brahman je nesmrtelný. Brahman je za a Za.“ My, hledající nekonečné Pravdy, se budeme držet pozitivního pohledu. Pokud se budeme ve svém životě aspirace držet pozitivního pohledu, budeme moci běžet nejvyšší rychlostí a nejvyššího Cíle dosáhneme dříve.
 
 Brahman musíme vidět v konečném právě tak, jak si Jej přejeme vidět v Nekonečném. Máme-li však během meditace vizi Brahman jako nekonečného Já, je pro nás snazší vstoupit do relativního světa, kde všechno vidíme jako konečné.
@@ -274,6 +323,7 @@ Vidíme svět uvnitř sebe, vidíme svět okolo sebe. Ve světě uvnitř nás je
 /AUM/
 
 Upanišady nelze oddělit od podstaty /prány/. /Prána/ je sanskrtské slovo. Lze jej přeložit různými způsoby. Může se mu říkat „dech“, „energie“ nebo také „éter“. /Prána/ je životní energie. Tato životní energie není hmotná, není fyzická, je to však něco, co udržuje a živí fyzické tělo. Zdrojem /prány/ je Nejvyšší. Na poli projevení je /prána/ nepostradatelná. /Prána/ je duší vesmíru.
+
 V Indii má slovo „/prána/“ svůj vlastní význam. /Prána/ není jenom dech. Každý den se tisíckrát nadechujeme a vydechujeme, aniž bychom tomu věnovali pozornost. Když však použijeme slovo „/prána/“, máme na mysli životní energii, která plyne dovnitř a ven naším dechem.
 
 /Prána/ se dělí na pět částí: /prána, apána, samána, vjána/ a /udána/. Životní energii, životní síle, která je uvnitř našich fyzických očí, nosu a uší, se říká /prána/. Životní energie, která je uvnitř našich orgánů vyměšování a rozmnožování, je /apána. Samána/ je životní energie, která řídí naše trávení a zažívání. V lotosovém květu srdce, kde je umístěno Já, vidíme sto jedna jemných duchovních nervů, které mají sto nervových větví a každá z nich má dalších sedmdesát dva tisíc větví. Prána, která se v nich pohybuje, se nazývá /vjána/. Životní energie proudí středem páteře. Když stoupá vzhůru, dosahuje k tomu Nejvyššímu, a když klesá dolů, sestupuje k tomu nejnižšímu. Když hledající nekonečné Pravdy opustí tělo, stoupá jeho /prána/ k tomu Nejvyššímu, a když tělo opustí hříšník, klesá jeho /prána/ dolů. Tato /prána/, která proudí středem páteře, se nazývá /udána/.
@@ -286,7 +336,7 @@ Zřeci véd a upanišad velmi často používali dvě slova: /náma/ a /rúpa/.
 
 V duchovním životě se často používá slovo „oběť“. Védští zřeci hovořili o oběti velmi podrobně. Podle nich byla nejdůležitější koňská oběť, /ašvamédha/. Brhadáranjaka upanišada začíná obětním koněm:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Uṣā vā aśvasya medhyasya śiraḥ.../
 
@@ -294,7 +344,9 @@ V duchovním životě se často používá slovo „oběť“. Védští zřeci
 
 Hlava obětního koně je vpravdě úsvitem; oko obětního koně je slunce; vitální síla je vzduch; otevřená tlama je oheň jménem /vaišvánara/; trup je rok; záda Nebe; břicho obloha; kopyto Země; slabiny jsou čtyři směry; žebra roční období; klouby měsíce a čtrnáctidení; nohy jsou dny a noci; kosti hvězdy; maso oblaka; natrávené jídlo (v žaludku) je písek; tepny a žíly jsou řeky; játra a slezina jsou hory; hříva byliny a stromy; přední část je vycházející slunce; zadní část je zapadající slunce. Jeho jícen je blesk, jeho chvějící se tělo je hrom, jeho moč je déšť, jeho ržání je vpravdě řečí.
 
-#+END_VERSE
+ -- Brhadáranjakópanišad I.1.1
+
+#+END_QUOTE
 
 Proč hovoří védští a upanišadští zřeci právě o koni, a ne o nějakém jiném zvířeti jako o symbolu oběti? Uvědomovali si rychlost koně, dynamiku koně, jeho věrnou a oddanou povahu. Rychlost, dynamika, věrnost a oddanost jsou nezbytné pro realizaci a odhalení Absolutního. To je důvod, proč si pro své náboženské rituály a jako pomoc pro své vnitřní probuzení vybrali koně.
 
@@ -310,7 +362,7 @@ Smím zopakovat často citovaný příběh? Jeden hledající přišel k duchov
 
 Mistr nabídl žákovi takovouto pravdu. Naneštěstí však velmi často vidíme, že když Mistr nabízí Pravdu, žáci neporozumí. Oni ji chápou podle svého omezeného světla nebo cítí, že poselství, které jim Mistr předal, je naprosto nesprávné. Pokud žák-hledající nepochopí a nepoužije správně Pravdu, kterou Mistr nabízí, nikdy nebude na poli projevení naplněn. Nejvyšší Pravda pro něj vždy zůstane v nedohlednu. 
 
-V upanišadách šel Indra a Viróčana k Pradžápatimu pro nejvyšší Poznání. (Čhándógjópanišad VIII.7-12). Indra zastupoval bohy, Viróčana démony. Když jim Pradžápati nabídl poznání Brahman, Indra se vracel znovu a znovu, aby si ověřil poznání, které obdržel, a nakonec realizoval nejvyšší Poznání. Viróčana však pochopil Pravdu podle svého a necítil potřebu se znovu a znovu vracet, aby realizoval tu nejvyšší Pravdu.
+V upanišadách šel Indra a Viróčana k Pradžápatimu pro nejvyšší Poznání. /(Čhándógjópanišad VIII.7-12)/. Indra zastupoval bohy, Viróčana démony. Když jim Pradžápati nabídl poznání Brahman, Indra se vracel znovu a znovu, aby si ověřil poznání, které obdržel, a nakonec realizoval nejvyšší Poznání. Viróčana však pochopil Pravdu podle svého a necítil potřebu se znovu a znovu vracet, aby realizoval tu nejvyšší Pravdu.
 
 Na zemi je nemálo duchovních Mistrů, kteří nabízejí své světlo hledajícím, ale hledající naneštěstí nabízené poselství Pravdy nechápou. Jak mohou porozumět smyslu, významu a důležitosti Pravdy, kterou Mistr nabízí? Pouze silou oddanosti -- oddanosti cestě a oddanosti Mistrovi. Pokud cítí oddanost svému Mistrovi a cestě k seberealizaci, potom mohou Pravdu realizovat tak, jak má být realizována. Poselství o boji proti nevědomosti, které jim Mistr předává, nejenom náležitě pochopí, ale také jej zakotví v zemské atmosféře. Až zde na zemi Pravda pevně zakotví, člověk dostane věnec věčného Vítězství.
 
@@ -330,14 +382,16 @@ Na zemi je nemálo duchovních Mistrů, kteří nabízejí své světlo hledají
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Nālpe sukham asti bhūmaiva sukham/
 
 V konečném není žádné štěstí.
 Nekonečné jediné je štěstí.
 
-#+END_VERSE
+-- Čhándógjópanišad VII.23.1
+
+#+END_QUOTE
 
 Nic konečného v sobě nemůže nést štěstí, nemluvě o trvalé blaženosti. Konečné v sobě skrývá požitek, a ten není skutečným štěstím. Nekonečné v sobě nese pravé božské štěstí v nekonečné míře a zároveň odhaluje a nabízí celému světu svou vlastní pravdu, své vlastní bohatství.
 
@@ -345,13 +399,15 @@ Nekonečné se projevuje v bezpočtu podob a tvarů uvnitř našeho rozmanité
 
 „Tvoření“, „trvání“ a „zánik“, to jsou filozofické a náboženské pojmy. Z duchovního pohledu stvoření existovalo, existuje a bude zachováno. Když používáme slovo „zánik, zničení“, musíme být velmi opatrní. Ve vnitřní Vizi Nejvyššího neexistuje nic takového jako „zničení“ -- je to jen přeměna. Když ztratíme své touhy, máme pocit, že jsou zničené. Ale ony nejsou zničené -- pouze se přeměnily na širší vizi, na aspiraci. Své putování jsme začali s touhou, ale jakmile jsme se vydali na cestu duchovnosti, touha postoupila své místo aspiraci. Neosvícené vědomí, které vidíme v podobě touhy, může být a také bude přeměněno aspirací, která je uvnitř nás. To, co ve svém omezeném poznání a omezené vizi nazýváme zničením, je z duchovního pohledu přeměna naší neosvícené, nečisté a temné přirozenosti.
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Ekam evādvitīyam/
 
 Pouze Jediný, Jeden bez druhého.
 
-#+END_VERSE
+-- Čhándógjópanišad VI.2.1
+
+#+END_QUOTE
 
 Z tohoto Jediného jsme vznikli a na konci svého putování se k tomuto Absolutnímu Jedinému musíme vrátit. To je podstata putování duše. Představujeme-li si je jako vnější putování, pak jsme na omylu. U vnějšího putování máme výchozí bod a konečný cíl. Může to trvat několik nebo mnoho let, než se dostaneme k vytyčenému cíli, protože výchozí bod je na jednom místě a cíl někde jinde. Avšak vnitřní putování není putování, které má počátek tady a cíl někde jinde. Při svém vnitřním putování jdeme hluboko dovnitř a objevujeme svou vlastní Skutečnost, své vlastní zapomenuté Já.
 
@@ -359,16 +415,17 @@ Jak objevujeme své zapomenuté Já? Pomocí meditace. Existují různé druhy m
 
 Duchovní Mistři meditují ve fyzickém, ve vitálnu, v mysli, v srdci a v duši svých žáků. Tito Mistři také současně meditují na Nekonečné, Věčné a Nesmrtelné. Pro duchovní Mistry to nejsou neurčité pojmy. Jsou to dynamické skutečnosti, protože skuteční duchovní Mistři ve svém vnitřním vědomí plavou v moři Nekonečnosti, Věčnosti a Nesmrtelnosti. Mohou se snadno koncentrovat, mohou snadno meditovat a kontemplovat na tyto tři božské skutečnosti, které představují Absolutní.
 
-Upanišady vznikly ze čtyř véd: z Rgvédy, Sámavédy, Jadžurvédy a Atharvavédy. Každá véda nabízí lidstvu něco jedinečného. První a nejslavnější je Rgvéda. Začíná u kosmického boha ohně, u Agniho. Oheň znamená aspiraci. Aspirace a poselství véd jsou neoddělitelné. Tento oheň je ohněm vnitřního probuzení, je to vnitřní rostoucí plamen. Nevydává kouř a nic nespaluje; pouze osvěcuje a pozvedá naše vědomí. Bůh ohně je jediný kosmický bůh, který je brahmínem. Agni, oheň, se projevuje v sedmi podobách a má sedm významných vnitřních jmen: Kálí -- černý, Karálí -- hrozný, Manodžava -- rychlý jako myšlenka, Sulohita -- krvavě rudý, Sudhúmravarna -- kouřového odstínu, Sfulinginí -- rozsévající jiskry, Višvaručí -- překrásný (Mundakópanišad 1.2.4).
+Upanišady vznikly ze čtyř véd: z Rgvédy, Sámavédy, Jadžurvédy a Atharvavédy. Každá véda nabízí lidstvu něco jedinečného. První a nejslavnější je Rgvéda. Začíná u kosmického boha ohně, u Agniho. Oheň znamená aspiraci. Aspirace a poselství véd jsou neoddělitelné. Tento oheň je ohněm vnitřního probuzení, je to vnitřní rostoucí plamen. Nevydává kouř a nic nespaluje; pouze osvěcuje a pozvedá naše vědomí. Bůh ohně je jediný kosmický bůh, který je brahmínem. Agni, oheň, se projevuje v sedmi podobách a má sedm významných vnitřních jmen: Kálí -- černý, Karálí -- hrozný, Manodžava -- rychlý jako myšlenka, Sulohita -- krvavě rudý, Sudhúmravarna -- kouřového odstínu, Sfulinginí -- rozsévající jiskry, Višvaručí -- překrásný /(Mundakópanišad 1.2.4)/.
 
 Kálí, čili černý, není ve skutečnosti černý. Kálí je božská síla nebo oheň uvnitř nás, která bojuje proti nebožským a nepřátelským silám. Matka Kálí bojuje na bitevním poli života proti démonům. Na vitální úrovni ji vidíme jako tmavou, záhadnou Bohyni, avšak na nejvyšší úrovni vědomí je zlatá. Když bojuje proti nepřátelským silám, vidíme její děsivou podobu, ve skutečnosti je však Matkou soucitu. Nechápeme její dynamické vlastnosti -- považujeme je za agresivní. Matka Kálí má soucit v bezmezné míře, zároveň však u hledajícího nebude tolerovat žádnou lenost, nedokonalost, nevědomost nebo netečnost. A konečně -- Matka Kálí je nesrovnatelně krásná. Tato krása není fyzická. Je to vnitřní krása, která pozvedá lidské vědomí na nejvyšší úroveň Blaženosti.
 
 Sámavéda nám nabízí Boží hudbu, hudbu duše. Navíc nabízí indické náboženství, indickou filozofii a indické politické přesvědčení. Všechna tato pozoruhodná indická dosažení pocházejí ze Sámavédy. Hudba je v Sámavédě nesmírně důležitá. Vůbec se nepodobá moderní hudbě; je to hudba, která dojímá duši. Jádžňavalkja, největší mudrc minulosti, řekl: „Příbytkem hudby je Nebe.“ A právě Sámavéda obsahuje takovou nebeskou hudbu -- hudbu, která dojímá duši a která dodává životu energii.
-Většina z vás četla Bhagavadgítu, Nebeskou píseň Pána Kršny. V ní Pán Kršna říká: „Já jsem Sámavéda.“ (Bhagavadgíta 10.22) Neříká, že je Rgvéda, Jadžurvéda nebo Atharvavéda. Ne, říká, že je Sámavéda. Proč? Protože v Sámavédě nalezl hudbu duše, jenž je mu zcela vlastní. Pataňdžali, velký indický filozof a světec, odvozuje svou filozofii ze Sámavédy právě kvůli její vnitřní hudbě. Kdybychom z Božího stvoření odebrali hudbu, zbylo by jen prázdné stvoření. Bůh Stvořitel je Nejvyšší Hudebník a Jeho stvoření je Jeho jedinou Blažeností. Právě v hudbě cítí Bůh Blaženost a právě prostřednictvím hudby nabízí svým aspirujícím i neaspirujícím dětem sám sebe.
+
+Většina z vás četla Bhagavadgítu, Nebeskou píseň Pána Kršny. V ní Pán Kršna říká: „Já jsem Sámavéda.“ /(Bhagavadgíta 10.22)/ Neříká, že je Rgvéda, Jadžurvéda nebo Atharvavéda. Ne, říká, že je Sámavéda. Proč? Protože v Sámavédě nalezl hudbu duše, jenž je mu zcela vlastní. Pataňdžali, velký indický filozof a světec, odvozuje svou filozofii ze Sámavédy právě kvůli její vnitřní hudbě. Kdybychom z Božího stvoření odebrali hudbu, zbylo by jen prázdné stvoření. Bůh Stvořitel je Nejvyšší Hudebník a Jeho stvoření je Jeho jedinou Blažeností. Právě v hudbě cítí Bůh Blaženost a právě prostřednictvím hudby nabízí svým aspirujícím i neaspirujícím dětem sám sebe.
 
 Ze Sámavédy pochází nejvýznamnější upanišada, a sice Čhándógja upanišada. Ta je rovnocenná Brhadáranjaka upanišadě. Je zdaleka největší, ale podle mnohých také nejlepší. Na druhou stranu, někteří zastávají názor, že nejlepší je kratičká Íša upanišada -- nikoli pro svou velikost, ale pro svou hloubku. Jiní budou tvrdit, že nejlepší je Švétášvatara, Katha nebo Kéna upanišada. Každý tak vyjadřuje své upřímné pocity o podstatě té které upanišady.
 
-Čhándógja upanišada, která je odvozena ze Sámavédy, říká upřímným hledajícím velmi významnou věc. Duchovní učitelé velmi často slyší otázku: „Proč potřebujeme učitele? Nemůžeme realizovat Boha sami?“ V Čhándógja upanišadě najdeme přesvědčivý výklad pro pochybující a neaspirující lidské bytosti, které se kvůli této věci nesmyslně dohadují. Čhándógja upanišada (Čhándógjópanišad VI.14.1-2) říká, abyste na sebe pomýšleli jako na cestovatele. Zabloudili jste a přepadl vás zloděj. Sebral vám všechny cenné věci a zavázal vám oči. Potom vás odvedl na vzdálené místo a zanechal vás tam. Předtím jste viděli a mohli jste se pohybovat, ale teď je váš osud žalostný. Nevidíte, nemůžete chodit, pláčete jako bezmocné dítě, a nikde žádná záchrana.
+Čhándógja upanišada, která je odvozena ze Sámavédy, říká upřímným hledajícím velmi významnou věc. Duchovní učitelé velmi často slyší otázku: „Proč potřebujeme učitele? Nemůžeme realizovat Boha sami?“ V Čhándógja upanišadě najdeme přesvědčivý výklad pro pochybující a neaspirující lidské bytosti, které se kvůli této věci nesmyslně dohadují. Čhándógja upanišada /(Čhándógjópanišad VI.14.1-2)/ říká, abyste na sebe pomýšleli jako na cestovatele. Zabloudili jste a přepadl vás zloděj. Sebral vám všechny cenné věci a zavázal vám oči. Potom vás odvedl na vzdálené místo a zanechal vás tam. Předtím jste viděli a mohli jste se pohybovat, ale teď je váš osud žalostný. Nevidíte, nemůžete chodit, pláčete jako bezmocné dítě, a nikde žádná záchrana.
 
 Dejme tomu, že někdo přijde, rozváže vám oči a odejde. Teď vidíte všechny cesty kolem sebe, ale nevíte, kterou se máte dát, která je ta vaše, a i kdybyste to věděli, nemohli byste se po ní vydat, protože vaše nohy a ruce jsou stále ještě spoutané. V takové situaci je hledající, který chce sám realizovat Boha. Řekněme, že poté přijde někdo, kdo rozváže vaše pouta a ukáže vám cestu, kterou se dostanete domů. Takový člověk vám prokáže opravdovou laskavost. Pokud mu věříte a věříte i sami sobě, rychle a bezpečně dosáhnete svého cíle. Pokud mu věříte, ale nevěříte, že jste schopni dosáhnout svého cíle, půjde s vámi, aby vám pomohl. Ten samý učitel, který vás vysvobodil ze slepoty a ukázal vám cestu, půjde s vámi, půjde uvnitř vás, aby vás inspiroval. Bude působit jako vaše vlastní aspirace, aby vás vedl k vašemu předurčenému Cíli.
 
@@ -387,6 +444,7 @@ Dostanete-li od duchovního Mistra takovou pomoc, potom může mít váš život
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: UPA:5-cs
+  :DATE-EVENT: 1971-12-03
   :END:
 
 
@@ -404,19 +462,20 @@ Pro realizaci Boha potřebujeme Gurua. Katha upanišada (Kathópanišad 1.2.8) �
 
 Hledající, který studuje upanišady a vede život sebezkoumání a sebekázně, už není a nemůže být pouhým hercem na jevišti života, ale spíše duchovním výtvarníkem a skutečným božským režisérem. Kromě toho má široká ramena a nevadí mu tíha břemena světa. Cítí, že jeho povinností je utišit krvácející srdce lidstva. Jeho život, to je nezávislost myšlenky a ducha. Zasvěcená služba jeho srdce přijímá Shůry bohatou odměnu. Ovládl svou vlastní životní filozofii, kterou je těšit Božskost v lidstvu.
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Taccakṣur devahitaṃ śukram uccarat paśyema śaradaḥ satam/
 
 Kéž po stovku podzimů vidíme, jak se před námi zjevuje ono Bohem seslané zářící Oko.
 
-#+END_VERSE
+ -- Rgvéda VII.66.16
 
-(Rgvéda VII.66.16)
+#+END_QUOTE
+
 
 Žít stovku let neznamená jen prodlužovat svůj život na zemi. Člověk musí bojovat proti nevědomosti. Povrchní úsilí nás nemůže dovést k Bohu. Realizace Boha si vyžaduje čas. Odhalit Boha trvá déle. A projevit Boha trvá ještě delší dobu. To je důvod, proč se zřeci véd modlili za pevné zdraví a dlouhý život, za život delší sta podzimů. Také nás varují, že se musíme vyhnout čemukoliv, co by bylo škodlivé pro naše zdraví.
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Uru ṇas tanve tan
 uru kṣayāya nas kṛdhi
@@ -427,15 +486,17 @@ Dej svobodu našemu tělu.
 Dej svobodu našemu obydlí.
 Dej svobodu našemu životu.
 
-#+END_VERSE
+ -- Rgvéda VIII.68.12
 
-(Rgvéda VIII.68.12)
+#+END_QUOTE
+
+
 
 Vivékánanda, velký /védantin/ s nezdolnou odvahou, prohlásil: „Svoboda -- fyzická svoboda, duševní svoboda a duchovní svoboda -- to je motto upanišad.“
 
 Abychom získali svobodu, potřebujeme energii, sílu a ducha. K tomu je určena následující nanejvýš mocná modlitba:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Tejo ‘si tejo mayi dhehi
 vīryam asi vīryam mayi dhehi
@@ -450,29 +511,34 @@ Tvou sílu a energii vzývám.
 Tvou bojovnou divokost vzývám.
 Tvou vítěznou mysl vzývám.
 
-#+END_VERSE
+ -- Jadžurvéda, Vádžasanejisamhitá 19.9
 
-(Jadžurvéda, Vádžasanejisamhitá 19.9)
+#+END_QUOTE
+
+
 
 Upanišady vždy zastávají neohrožený pohled na život. Pro védský a upanišadský věk je charakteristický pokrok, neustálý pokrok.
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Prehi abhīhi dhṛṣṇuhi/
 
 Jdi kupředu, neobávej se, bojuj!
 
-#+END_VERSE
+ -- Rgvéda I.80.3
 
-(Rgvéda I.80.3)
+#+END_QUOTE
+
 
 Proti čemu máme bojovat? Proti otroctví, nevědomosti a smrti. Život je náš. Také vítězství musí být naše. Všechno, co stojí hledajícímu v cestě, je nutné bez váhání odstranit. Jeho život nezná ústupky.
 
 Hlavní touhou upanišad je nejvyšší Pravda. Této Pravdy může dosáhnout opravdový hledající, který má mnoho božských vlastností a jehož láska k Bohu převažuje nad láskou k čemukoliv jinému. Hledající potřebuje tři věci: /vrata/ -- sebezasvěcení, /krpa/ -- milost, a /šraddhá/ -- víru. Pokud ztělesňuje tyto tři vlastnosti, /satja/, Pravda, bude nepochybně jeho.
+
 Kdo chce zůstat sám? Nikdo, dokonce ani nejvyšší, prvorozený, Virát. Přišel okamžik, kdy pocítil potřebu vytvořit kosmické bohy. Ze svých úst vytvořil Boha Ohně, Agniho, jediného bráhmanského boha. Indra, Varuna, Jama, Íšána a další byli stvořeni z jeho paží. To jsou bohové -- kšatrijové. Potom ze svých stehen vytvořil Vasuy, Rudry, Maruty a ostatní. To jsou bohové -- /vaišjové/. Ze svých nohou vytvořil Púšan. Púšan je bůh /šúdra/.
 
 Bráhman ztělesňuje poznání. Kšatrija ztělesňuje sílu. Vaišja ztělesňuje blahobyt. Šúdra ztělesňuje tajemství sebezasvěcení. Tito čtyři bratři jsou končetinami Kosmické Bytosti. Třebaže jsou navenek rozdílní ve svých vlastnostech a schopnostech, v duchu jsou neoddělitelně totožní.
-Největším objevem upanišad je Brahman, nebo též Nejvyšší Já. Žádná lidská bytost neví a ani nikdy vědět nebude, kdy do nás vstoupila nevědomost, protože i pozemsky spoutaný čas je stvořením nevědomosti. Přesto se člověk plavající v moři nevědomosti nemusí utopit. Zřeci dávné minulosti, znalci Brahman, nám jasnými slovy říkají, že všechny lidské bytosti se mohou a musí vyprostit z okovů nevědomosti. Ti, kteří znají transcendentální Pravdu, nám také říkají, že jednotlivá duše je ve skutečnosti totožná s Nejvyšším Já. Jediný problém spočívá v tom, že si jednotlivci nepamatují svou pravou transcendentální podstatu. Nakonec nám zřeci říkají, že „Poznat Já znamená stát se Já.“ Na základě své realizace ten, kdo zná Brahman, prohlašuje: „/Aham Brahmāsmi/ -- Já jsem Brahman.“ (Brhadáranjakópanišad I.4.10)
+
+Největším objevem upanišad je Brahman, nebo též Nejvyšší Já. Žádná lidská bytost neví a ani nikdy vědět nebude, kdy do nás vstoupila nevědomost, protože i pozemsky spoutaný čas je stvořením nevědomosti. Přesto se člověk plavající v moři nevědomosti nemusí utopit. Zřeci dávné minulosti, znalci Brahman, nám jasnými slovy říkají, že všechny lidské bytosti se mohou a musí vyprostit z okovů nevědomosti. Ti, kteří znají transcendentální Pravdu, nám také říkají, že jednotlivá duše je ve skutečnosti totožná s Nejvyšším Já. Jediný problém spočívá v tom, že si jednotlivci nepamatují svou pravou transcendentální podstatu. Nakonec nám zřeci říkají, že „Poznat Já znamená stát se Já.“ Na základě své realizace ten, kdo zná Brahman, prohlašuje: „/Aham Brahmāsmi/ -- Já jsem Brahman.“ /(Brhadáranjakópanišad I.4.10)/
 
 Síla mysli, síla srdce a síla duše upanišadského vědomí neznají hranic. Sílu mysli ztělesňuje na půdě filozofie Šankara; na půdě dynamické duchovnosti ztělesňuje sílu mysli Ramana Maháriši, velký mudrc z Arunačaly; sílu srdce ztělesňují Kristus, Buddha a Sri Čaitanja z Nadie v Bengálsku. Sri Kršna a Sri Rámakrišna ztělesňují sílu duše. Vize síly mysli dosáhla vrcholu a realizace síly duše nalezla na zemi naplňující projevení ve Sri Aurobindovi. Tito a další duchovní velikáni kormidlují loď života lidstva k transcendentálnímu Příbytku Nejvyššího.
 
@@ -489,6 +555,7 @@ Síla mysli, síla srdce a síla duše upanišadského vědomí neznají hranic
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: UPA:6-cs
+  :DATE-EVENT: 1971-12-08
   :END:
 
 
@@ -499,19 +566,22 @@ Brahman je na poli realizace Svrchovaným Absolutnem. Na poli odhalení je všud
 /AUM/
 
 Brahman Stvořitel je Světlem Vědomí; Brahman Naplnitel je Blažeností Vědomí. Brahman je vnitřní Duší všeho a jediným Cílem ve všem.
+
 Když se díváme dovnitř, Brahman je Silou Vědomí. Díváme-li se ven, je Brahman Sebeprojevením. Když na Brahman myslíme svou pozemsky spoutanou, omezenou a neaspirující myslí, stává se z našeho života čiré zklamání. Když meditujeme na Brahman v tichých zákoutích svého srdce, stává se z našeho života čisté osvícení.
 
 Pro toho, kdo nehledá, je Brahman nepoznatelný. Pro hledajícího, který začíná, je Brahman neznámý. Pro hledajícího-Mistra je Brahman poznatelný a poznaný. Co víc, Mistr sám vrůstá do Vědomí Brahman. 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Sarvaṃ khalvidaṃ brahma/
 
 Vskutku, vše je Brahman.
 
-#+END_VERSE
+ -- Čhándógjópanišad III.14.1
 
-(Čhándógjópanišad III.14.1)
+#+END_QUOTE
+
+
 
 Věčné je bytí uvnitř. Věčné je bytí vně. 
 
@@ -519,19 +589,21 @@ V konečném není žádné trvalé štěstí. Pouze v Nekonečném můžeme s
 
 Tady na zemi neustále roste život Nekonečnosti, aby naplnil Absolutního Brahman. To je důvod, proč upanišadští zřeci zpívají z hloubky svého srdce o transcendentální Blaženosti Brahman:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Ānandāddhyeva khalvimāni bhūtāni jāyante
-ānandena jātāni jīvanti
-ānandaṃ prayantyabhisaṃviśanti/
+/Ānandāddhyeva khalvimāni bhūtāni jāyante/
+/ānandena jātāni jīvanti/
+/ānandaṃ prayantyabhisaṃviśanti/
 
 Z transcendentální Blaženosti jsme vzešli.
 V Blaženosti rosteme a hrajeme svou vlastní roli.
 Na konci své cesty vstoupíme do nejvyšší Blaženosti.
 
-#+END_VERSE
+ -- Taittiríjópanišad III.6
 
-(Taittiríjópanišad III.6) 
+#+END_QUOTE
+
+ 
 
 Z transcendentální Blaženosti jsme vzešli.
 V Blaženosti rosteme a hrajeme svou vlastní roli.
@@ -539,7 +611,7 @@ Na konci své cesty vstoupíme do nejvyšší Blaženosti.
 
 Když pak zřeci spatřili v Brahman Nekonečno, zpívali:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Aum/,
 
@@ -548,11 +620,12 @@ Pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate/
 
 Nekonečno je tamto. Nekonečno je toto.
 Nekonečno z Nekonečna vzniklo.
-Je-li z Nekonečna Nekonečno odebráno, Nekonečno zůstane.
+Je-li z Nekonečna Nekonečno odebráno, 
+Nekonečno zůstane.
 
-#+END_VERSE
+ -- Íšópanišad i Brhadáranjakópanišad
 
-(Vzývání z Íšópanišad a Brhadáranjakópanišad)
+#+END_QUOTE
 
 Brahman je činný. Brahman je nečinný. Činný Brahman koná uvnitř a navenek se stává. Činný Brahman také koná navenek a stává se uvnitř. Avšak nečinný Brahman je naprostá svoboda nečinnosti a úplná svoboda v nečinnosti.
 
@@ -562,15 +635,17 @@ Celý vesmír vznikl z Brahman -- Semínka. Když chtěl Brahman stvořit sám
 
 Brahman má mnoho jmen, ale Jeho tajné jméno zní „Aum“.
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Praṇavo dhanuḥ śāro hyātmā brahma tallakṣyam/
 
 Aum je luk a átman, já, je šíp; Brahman je terč.
 
-#+END_VERSE
+ -- Mundakópanišad 2.2.4
 
-(Mundakópanišad 2.2.4) 
+#+END_QUOTE
+
+
 
 Šíp po opakovaném nácviku zasáhne terč, Vědomí Brahman. Díky pravidelné koncentraci, meditaci a kontemplaci vstoupí hledající do Absolutního Vědomí Brahman.
 
@@ -580,15 +655,17 @@ Brahman stvořil ze své Bytosti kněze, bojovníky, obchodníky a služebníky
 
 Indická mytologie rozděluje Čas -- nikoli pozemsky spoutaný čas, nýbrž věčný Čas -- na čtyři části: /satjajuga, trétajuga, dváparajuga/ a /kalijuga/. Podle úsudku mnoha lidí se nyní nacházíme v /kalijuze/. V /kalijuze/ Brahman hluboce spí. Spočívá v blátě bezduché nevědomosti. V /dváparajuze/ se probouzí a rozhlíží se kolem. V /trétajuze/ vstává a chystá se k pohybu vpřed. V /satjajuze/, ve zlatém věku, se pohybuje rychle, rychleji, nejrychleji ke svému Cíli. Pohyb, vnitřní pokrok, pochod života k předurčenému Cíli, to je poselství véd, věčné poselství árijské kultury a civilizace, realizace indických mudrců a zřeců.
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Caraiveti caraiveti/
 
 Vpřed, vpřed!
 
-#+END_VERSE
+ -- Aitaréjabráhmana 7.15
 
-(Aitaréjabráhmana 7.15)
+#+END_QUOTE
+
+
 
 /Yale University/
 /New Haven, Connecticut/
@@ -603,19 +680,21 @@ Vpřed, vpřed!
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: UPA:7-cs
+  :DATE-EVENT: 1971-12-10
   :END:
   
   
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Aum bhūr bhuvaḥ svaḥ
 tat savitur vareṇyam
 bhargo devasya dhīmahi
 dhiyo yo naḥ pracodayāt/
 
-#+END_VERSE
+ -- Rgvéda III.62.10
 
-(Rgvéda III.62.10)
+#+END_QUOTE
+
 
 Gájatrí mantra je nejposvátnější mantrou véd. Je to matka všech manter. Mantra je vzývání. Mantru může tvořit jednoslabičné slovo nebo několik slov, věta nebo několik vět. Gájatrí mantra může upřímnému hledajícímu nabídnout Světlo Nekonečného, Blaženost Věčného a Život Nesmrtelného.
 
@@ -626,7 +705,9 @@ Hledající nekonečné Pravdy musí meditovat na Gájatrí mantru. Výsledek bu
 První nohu Gájatrí mantry tvoří /bhúmi/, země, /antarikša/, meziprostor, a /djaus/, Nebe. Ten, kdo pochopí význam první nohy Gájatrí mantry, získá vše, co je v těchto třech světech. 
 
 Druhou nohu Gájatrí mantry tvoří /rčah, jadžus/ a /samáni/. Ten, kdo realizuje druhou nohu Gájatrí, získá moře poznání tří véd.
+
 Třetí nohu Gájatrí mantry tvoří /prána, apána/ a /vjána/, tři podoby vitální síly. Ten, kdo zná tuto nohu, získá veškeré žijící tvory, kteří jsou ve vesmíru. 
+
 Čtvrtá noha je /turíja/, Transcendentální Sluneční Bytost, která sama září. Ten, kdo si uvědomí tuto nohu, září nekonečnou nádherou.
 
 Křehká a vznešená je cesta k osvobození, /mókše/. Obtížná je cesta k osvobození. Pravý hledající však může dosáhnout Cíle pouhou meditací na Gájatrí mantru. Když je člověk vysvobozen z pout nevědomosti, vrůstá do nebeské slávy Transcendentálního Já. Osvobození lze dosáhnout a je nutné jej dosáhnout, dokud je duše hledajícího v těle. Nerealizovat Boha na zemi znamená plavat v moři nevědomosti s dvěma dalšími plavci -- nevědomým zrozením a bezostyšnou smrtí. Je-li dosaženo osvobození, pouta smutku jsou rozbita. Před osvobozením musíme jako Buddha prohlásit: „Tento pomíjivý svět je příbytkem smutku.“
@@ -674,6 +755,7 @@ Gájatrí mantra je božská střelka kompasu. Střelka ukazuje na sever a loď 
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: UPA:8-cs
+  :DATE-EVENT: 1972-01-26
   :END:
 
 
@@ -696,7 +778,6 @@ Poselství všech upanišad můžeme shrnout do dvou slov: aspirace a projeven�
 Každá duše potřebuje involuci a evoluci. Když duše sestupuje, jde o involuci duše. Když duše stoupá, jde o evoluci duše. Duše vstupuje do nejhlubší propasti nevědomí. Poté se znovu vyvíjí do trojího vědomí -- /Sat-Čit-Ánanda/ -- Bytí, Vědomí, Blaženosti.
 
 Duše vstupuje do nevědomí. Miliony let zde setrvává v hlubokém spánku. Potom jednoho dne, znenadání, jiskra vědomí neustále překonávajícího Za otevře duši oči a udeří hodina pátrání po sobě samém. „Kdo jsem?“ zeptá se. Odpověď zní: /Tat twam asi/ (Čhándógjópanišad VI.8.7ff), „Ty jsi To.“ Duše je rozechvělá. Potom znovu hluboce usne. Opět upadne do sebezapomnění. Po nějaké době vyvstanou další otázky: 
-
 
 Čí jsem? 
    Jsem Toho.
@@ -738,6 +819,7 @@ V lidském poznání je Bůh v našem nitru aspirací a realizací spoutanou 
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: UPA:9-cs
+  :DATE-EVENT: 1972-02-09
   :END:
 
 
@@ -789,6 +871,7 @@ Mysl, s pomocí těla, vytváří otroctví. Srdce, s pomocí duše, nabízí 
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: UPA:10-cs
+  :DATE-EVENT: 1972-02-11
   :END:
 
 
@@ -841,17 +924,19 @@ Upanišadští zřeci přebývají uvnitř nás. Nepotřebují uznání ani obdi
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:11-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Aum bhūr bhuvaḥ svaḥ
-tat savitur vareṇyam
-bhargo devasya dhīmahi
-dhiyo yo naḥ pracodayāt/
-(Rgvéda III.62.10)
+/Aum bhūr bhuvaḥ svaḥ/
+/tat savitur vareṇyam/
+/bhargo devasya dhīmahi/
+/dhiyo yo naḥ pracodayāt/
 
-#+END_VERSE
+ -- Rgvéda III.62.10)
+
+#+END_QUOTE
 
 Překlad:
 
@@ -870,16 +955,18 @@ Potřebujeme osvícení -- zde je odpověď. Transcendentální osvícení pře
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:12-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Pūrṇam adaḥ pūrṇam idaṃ 
-pūrṇāt pūrṇam udacyate
-pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate/
-(Vzývání z Íšópanišad a Brhadáranjakópanišad)
+/Pūrṇam adaḥ pūrṇam idaṃ/ 
+/pūrṇāt pūrṇam udacyate/
+/pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate/
 
-#+END_VERSE
+ -- Íšópanišad a Brhadáranjakópanišad)
+
+#+END_QUOTE
 
 Překlad:
 
@@ -900,16 +987,18 @@ Nekonečno je naplněné Tělo Nejvyššího Cíle.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:13-cs
+  :DATE-EVENT: 1972-02-18
   :END:
   
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Asato mā sad gamaya
-tamaso mā jyotir gamaya
-mṛtyor māmṛtaṃ gamaya/
-(Brhadáranjakópanišad I.3.28)
+/Asato mā sad gamaya/
+/tamaso mā jyotir gamaya/
+/mṛtyor māmṛtaṃ gamaya/
 
-#+END_VERSE
+ -- Brhadáranjakópanišad I.3.28
+
+#+END_QUOTE
 
 Překlad:
 
@@ -935,16 +1024,18 @@ Nesmrtelnost -- kde je ten lev? Jeho řev je slyšet všude vůkol.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:14-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Aṇor aṇīyān mahato mahīyān
-ātmāsya jantor nihito guhāyām/
-(Kathópanišad 1.2.20)
+/Aṇor aṇīyān mahato mahīyān/
+/ātmāsya jantor nihito guhāyām/
 
-#+END_VERSE
+-- Kathópanišad 1.2.20
+
+#+END_QUOTE
 
 Překlad:
 
@@ -966,16 +1057,18 @@ Jako pradědeček člověka se duše ustavičně těší z odpočinku.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:15-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QOUTE
 
-/Vedāham etaṃ puruṣaṃ mahāntam
-ādityavarṇam tamasaḥ parastāt/
-(Švétášvatarópanišad 3.8, také Jadžurvéda, Vádžasanejisamhitá 31.18)
+/Vedāham etaṃ puruṣaṃ mahāntam/
+/ādityavarṇam tamasaḥ parastāt/
 
-#+END_VERSE
+ -- Švétášvatarópanišad 3.8, také Jadžurvéda, Vádžasanejisamhitá 31.18
+
+#+END_QUOTE
 
 Překlad:
 
@@ -995,15 +1088,17 @@ Po naší realizaci sytíme hlad duše této Velké Bytosti.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:16-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Satyam eva jayate/
-(Mundakópanišad 3.1.6)
 
-#+END_VERSE
+ -- Mundakópanišad 3.1.6
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1022,16 +1117,18 @@ Realizujeme-li Pravdu, obejmeme Boha navždy.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:17-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Devebhyaḥ kam āvṛṇīta mṛtyuṃ
-prajāyai kam amṛtaṃ nāvṛṇīta/
-(Rgvéda X.13.4)
+/Devebhyaḥ kam āvṛṇīta mṛtyuṃ/
+/prajāyai kam amṛtaṃ nāvṛṇīta/
 
-#+END_VERSE
+ -- Rgvéda X.13.4
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1050,17 +1147,19 @@ Brhaspati obsahuje proudící život bohů a uchovává zářící lásku člov
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:18-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Uru ṇas tanve tan
-uru kṣayāya nas kṛdhi
-uru ṇo yaṃdhi jīvase/ 
-(Rgvéda VIII.68.12)
+/Uru ṇas tanve tan/
+/uru kṣayāya nas kṛdhi/
+/uru ṇo yaṃdhi jīvase/ 
 
-#+END_VERSE
+ -- Rgvéda VIII.68.12
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1082,18 +1181,19 @@ Boží Láska je svobodou pro náš život.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:19-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Agnir jyotir jyotir agnir
-Indro jyotir jyotir indraḥ
-Sūryo jyotir jyotiḥ sūryaḥ/
-(Např. Sámavéda II.1181; Jadžurvéda, Káthakam 40.6)
+/Agnir jyotir jyotir agnir/
+/Indro jyotir jyotir indraḥ/
+/Sūryo jyotir jyotiḥ sūryaḥ/
 
+ -- Např. Sámavéda II.1181; Jadžurvéda, Káthakam 40.6
 
-#+END_VERSE
+#+END_QUOTE
 
 Překlad:
 
@@ -1115,17 +1215,19 @@ Světlo je naplněný Bůh.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:20-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Ānandāddhyeva khalvimāni bhūtāni jāyante
-ānandena jātāni jīvanti
-ānandaṃ prayantyabhisaṃviśanti/
-(Taittiríjópanišad III.6)
+/Ānandāddhyeva khalvimāni bhūtāni jāyante/
+/ānandena jātāni jīvanti/
+/ānandaṃ prayantyabhisaṃviśanti/
 
-#+END_VERSE
+ -- Taittiríjópanišad III.6
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1145,16 +1247,17 @@ Bůh napsal svým lidským dětem otevřený dopis. V dopisu stálo:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:21-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Hiraṇmayena pātreṇa satyasyāpihitaṃ mukham
 tat tvaṃ pūṣan apāvṛṇu satyadharmāya dṛṣṭaye/
 (Brhadáranjakópanišad V.15.1; také Íšópanišad 15)
 
-#+END_VERSE
+#+END_QUOTE
 
 Tvář Pravdy je zakryta zářivým zlatým diskem. 
 Ó Slunce, sejmi ho, abych já, jenž jsem oddán Pravdě, mohl Pravdu spatřit.
@@ -1173,18 +1276,17 @@ Srdce Pravdy nás utváří.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:22-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Transliteration/
+/Saha nāvavatu saha nau bhunaktu/
+/saha vīryaṃ karavāvahai/
+ -- Vzývání z Kathópanišad, také z druhé a třetí části Taittiríjópanišad
 
-/Saha nāvavatu saha nau bhunaktu
-saha vīryaṃ karavāvahai/
-(Vzývání z Kathópanišad, také z druhé a třetí části Taittiríjópanišad)
-
-#+END_VERSE
+#+END_QUOTE
 
 Překlad:
 
@@ -1210,17 +1312,19 @@ a bude zářit po celou Věčnost.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:23-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Yenāhaṃ nāmṛtā syāṃ
-kim ahaṃ tena kuryām/
-(Brhadáranjakópanišad II.4.3)
+/Yenāhaṃ nāmṛtā syāṃ/
+/kim ahaṃ tena kuryām/
+
+ -- Brhadáranjakópanišad II.4.3
 
 
-#+END_VERSE
+#+END_QUOTE
 
 Překlad:
 
@@ -1237,16 +1341,18 @@ Bůh je věčně hrdý na člověka, protože ztělesňuje Boží Nesmrtelnost.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:24-cs
+  :DATE-EVENT: 1972-02-18
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Madhuman me parāyaṇam
-madhumat punarāyaṇam/
-(Rgvéda X.24.6)
+/Madhuman me parāyaṇam/
+/madhumat punarāyaṇam/
 
-#+END_VERSE
+ -- Rgvéda X.24.6
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1274,28 +1380,25 @@ Můj sladký návrat do mého věčného domova mi dá pocítit, jaké mám št�
   :END:
 
 
-#+BEGIN_VERSE
-
-#+END_VERSE
-
-
 * I 
 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:25-cs
+  :DATE-EVENT: 1972-02-28
   :END:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Agne naya supathā rāye asmān
-viśvāni deva vayunāni vidvān
-yuyodhyasmaj juhurāṇam eno
-bhūyiṣṭhāṃ te namaūktiṃ vidhema/
-(Rgvéda I.189.1; také Íšópanišad 18 a Brhadáranjakópanišad I.188.1, V.15.1)
+/Agne naya supathā rāye asmān/
+/viśvāni deva vayunāni vidvān/
+/yuyodhyasmaj juhurāṇam eno/
+/bhūyiṣṭhāṃ te namaūktiṃ vidhema/
 
-#+END_VERSE
+ -- Rgvéda I.189.1; také Íšópanišad 18 a Brhadáranjakópanišad I.188.1, V.15.1
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1319,17 +1422,19 @@ V našich modlitbách a poklonách přebývá Bůh -- osvěcující Spasitel.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:26-cs
+  :DATE-EVENT: 1972-02-28
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Uttiṣthata jāgrata prāpya varān nibodhata
-kṣurasya dhārā niśitā duratyayā
-durgaṃ pathas tat kavayo vadanti/
-(Kathópanišad 1.3.14)
+/Uttiṣthata jāgrata prāpya varān nibodhata/
+/kṣurasya dhārā niśitā duratyayā/
+/durgaṃ pathas tat kavayo vadanti/
 
-#+END_VERSE
+ -- Kathópanišad 1.3.14
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1347,17 +1452,19 @@ Komentář:
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:27-cs
+  :DATE-EVENT: 1972-02-28
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Yo vai bhūmā tat sukhaṃ
-nālpe sukham asti
-bhūmaiva sukhaṃ/
-(Čhándógjópanišad VII.23.1)
+/Yo vai bhūmā tat sukhaṃ/
+/nālpe sukham asti/
+/bhūmaiva sukhaṃ/
 
-#+END_VERSE
+ -- Čhándógjópanišad VII.23.1
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1380,18 +1487,20 @@ Blaženost bez Nekonečna je jako Stvořitel bez stvoření. Vskutku, i to je ne
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:28-cs
+  :DATE-EVENT: 1972-02-28
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Na tatra sūryo bhāti na candratārakaṃ
-nemā vidyuto bhānti kuto ´yam agniḥ
-tam eva bhāntam anubhāti sarvaṃ
-tasya bhāsā sarvam idaṃ vibhāti/
-(Mundakópanišad 2.2.10 a Švétášvatarópanišad 6.14)
+/Na tatra sūryo bhāti na candratārakaṃ/
+/nemā vidyuto bhānti kuto ´yam agniḥ/
+/tam eva bhāntam anubhāti sarvaṃ/
+/tasya bhāsā sarvam idaṃ vibhāti/
 
-#+END_VERSE
+ -- Mundakópanišad 2.2.10 a Švétášvatarópanišad 6.14
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1410,15 +1519,17 @@ Vnitřní slunce nám umožňuje spatřit to, čím věčně jsme: Nekonečným 
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:29-cs
+  :DATE-EVENT: 1972-02-28
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
 /Nāyam ātmā balahīnena labhyo/
-(Mundakópanišad 3.2.4)
 
-#+END_VERSE
+ -- Mundakópanišad 3.2.4)
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1439,17 +1550,19 @@ Silný aspirant je Bůh ve své projevující realizaci.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:30-cs
+  :DATE-EVENT: 1972-02-28
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Yo devo agnau yo´psu viśvaṃ bhuvanam āviveśa
-ya oṣadhīṣu yo vanaspatiṣu tasmai devāya
-namo namaḥ/
-(Švétášvatarópanišad 2.17)
+/Yo devo agnau yo´psu viśvaṃ bhuvanam āviveśa/
+/ya oṣadhīṣu yo vanaspatiṣu tasmai devāya/
+/namo namaḥ/
 
-#+END_VERSE
+ -- Švétášvatarópanišad 2.17
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1471,16 +1584,18 @@ a odhalený Život vesmíru.
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:31-cs
+  :DATE-EVENT: 1972-02-28
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Vidyā cāvidyā ca yas tad vedobhayam saha
-avidyayā mṛtyuṃ tīrtvā vidyayāmṛtam akute/
-(Íšópanišad 11)
+/Vidyā cāvidyā ca yas tad vedobhayam saha/
+/avidyayā mṛtyuṃ tīrtvā vidyayāmṛtam akute/
 
-#+END_VERSE
+ -- Íšópanišad 11
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1498,18 +1613,20 @@ Nevědomost je poznání fyzické mysli. Poznání je tajemstvím duše. Když f
   :GENRE: poem
   :KEYWORDS:
   :CITE-KEY: UPA:32-cs
+  :DATE-EVENT: 1972-02-28
   :END:
 
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 
-/Bhadraṃ karṇebhiḥ śṛṇuyāma devā
-bhadraṃ paśyemākṣabhir yajatrāḥ
-sthirair aṅgais tuṣṭuvāṁsas tanūbhir
-vyaśema devahitaṃ yad āyuḥ/
-(Vzývání z Mundaka-, Prašna- a Mándúkjópanišad, pův. z Rgvédy I.89.8)
+/Bhadraṃ karṇebhiḥ śṛṇuyāma devā/
+/bhadraṃ paśyemākṣabhir yajatrāḥ/
+/sthirair aṅgais tuṣṭuvāṁsas tanūbhir/
+/vyaśema devahitaṃ yad āyuḥ/
 
-#+END_VERSE
+ -- Vzývání z Mundaka-, Prašna- a Mándúkjópanišad, pův. z Rgvédy I.89.8
+
+#+END_QUOTE
 
 Překlad:
 
@@ -1534,6 +1651,7 @@ Slyšet příznivé věci znamená vzývat Boha-Inspiraci a Boha--Aspiraci. Vid
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: UPA:33-cs
+  :DATE-EVENT: 1972-03-01
   :END:
 
 

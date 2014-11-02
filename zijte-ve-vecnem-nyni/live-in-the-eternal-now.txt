@@ -34,12 +34,13 @@ Název knihy, stejně jako výběr kapitol vybralo /Nakladatelství Sri Chinmoy 
 
 
 
-* Mé sladké děti
+* Mé sladké děti[fn:: LEN 1. Následující poselství přednesl Sri Chinmoy na Aspiration Ground v New Yorku 13. dubna 1987, v den výročí svého příjezdu do USA v roce 1964] 
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:1-cs
+  :DATE-EVENT: 1987-04-13
   :END:
 
 
@@ -51,12 +52,13 @@ Milujte Nejvyššího ve mně více, nekonečně více. Buďte oddaní Nejvyšš
 
 
 
-* Nesmířím se s porážkou
+* Nesmířím se s porážkou[fn:: LEN 2. Sri Chinmoy měl tuto promluvu ke svým žákům 23. prosince 1976, při setkání v Miami na Floridě, na vánočním výletě]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:2-cs
+  :DATE-EVENT: 1976-12-23
   :END:
 
 Včera jsme měli v autobuse soutěž v intuici. Napsal jsem tři řádky a vyzval žáky, aby použili svou intuici a řekli, co jsem napsal. Vyhráli tři žáci. Neřekli přesně, co jsem napsal, ale slova byla do určité míry správná. 
@@ -79,16 +81,18 @@ Ve vnitřním světě vím, co musím dělat. I ve vnějším světě, až udeř
 
 
 
-* Žijte ve Věčném Nyní
+* Žijte ve Věčném Nyní[fn:: LEN 3. Sri Chinmoy měl tuto promluvu ve svém domě na Jamaice v New Yorku 23. listopadu 1989]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:3-cs
+  :DATE-EVENT: 1989-11-23
   :END:
 
 
 Rád bych vám všem něco řekl. Pokud jste upřímně přijali duchovní život, pak nikdy nepřemýšlejte o budoucnosti, té tak zvané vnější budoucnosti. Když přemýšlíte o vnější budoucnosti -- co budete dělat, čím se stanete, co o vás řekne svět, co vy řeknete světu -- kladete si na svá ubohá lidská bedra váhu deseti slonů, ne jednoho, ale deseti. Co se pak stane, víte. Když máte na svých bedrech deset slonů, okamžitě vás rozdrtí.
+
 Žijte ve Věčném Nyní, dnes. Snažte se jen být naprosto oddáni Vůli Boha a snažte se těšit Boha Způsobem Jemu vlastním. Když chcete vlastnit Boha, stanete se žebrákem. Ale pokud chcete být Božím princem, dovolte Mu, aby se vás zmocnil svým vlastním Způsobem. 
 
 Každé ráno, když nastane den, myslete jen na ten den. Myslete na to, kolika způsoby dokážete sami sebe učinit šťastnými, opravdu šťastnými -- tím, že uděláte to, že uděláte tamto a neuděláte toto. Tím, že něco uděláte nebo neuděláte, musíte učinit svůj život šťastným dnes. Nemyslete na zítřek. 
@@ -103,21 +107,24 @@ Máte-li ryzí aspiraci, pak vyrůstejte každým okamžikem se svou aspirací. 
 
 
 
-* Božský běžec inspiruje běžce-člověka
+* Božský běžec inspiruje běžce-člověka[fn:: LEN 4. Sri Chinmoy vyprávěl tento osobní zážitek 12. března 1990]
 
   :PROPERTIES:
   :GENRE: anecdote-biographical
   :KEYWORDS:
   :CITE-KEY: LEN:4-cs
+  :DATE-EVENT: 1990-03-12
   :END:
 
 
 Ráno jsem měl sen o běhání. Byli v něm dva běžci: lidský běžec a božský běžec, můj lidský běžec a můj božský běžec. Byl jsem lidským běžcem a zároveň božským běžcem. Tito dva běžci spolu závodili v běhu na 100 metrů. 
 
 Když závod začal, dostal se lidský běžec do vedení. Prvních dvacet metrů byl božský běžec za lidským běžcem. Pak při běhu položil božský běžec ruku na lidského běžce a řekl: „Žehnám ti.“ Božský běžec běžel tak rychle! Než lidský běžec uběhl dalších deset metrů, božský běžec závod dokončil. Božský běžec se pak vrátil a lidskému běžci požehnal.
+
 Lidský běžec řekl: „Jsem ti velmi vděčný, božský běžče, že jsi mi dovolil s tebou běžet.“
 
 Božský běžec řekl: „Jsem velmi pyšný, že ses ujal vedení! Zároveň jsem ti vděčný, protože jsi mě inspiroval. Byl jsem za tebou. Byla to tvá vlastní lidská aspirace, která mě, božského běžce, přivedla k tomu, abych ukázal své schopnosti. Kdybys neběžel, kdybys nechtěl běžet, kdybys mě neinspiroval také běžet, neběžel bych. Nemusím běhat na fyzické úrovni. Ale ty jsi chtěl, abych běžel na fyzické úrovni, a proto jsem běžel. Jsem na tebe velmi pyšný, protože jsi běžel prvních dvacet metrů přede mnou, a jsem ti vděčný, že jsi mě inspiroval běžet na fyzické úrovni. Jinak bych neběžel, neboť jsem božský běžec. Nemusím běhat na fyzické úrovni.“
+
 Bylo tam mnoho božských rozhodčích. Rozhodčí byli rozpačití a zmatení. Řekli: „Když uznáme tento čas, pak už na zemi nebude žádná naděje pro lidské běžce. Když uznáme čas božského běžce, bude se říkat, že je jako běžci, kteří dopují.“
 
 V mém případě přijímá božský běžec ve mně božské věci zevnitř, ne nebožskou pomoc zvenčí. Pokud však vnímavost země nebo úroveň země tak dalece zaostává, kdo uzná dosažení božského běžce na fyzické úrovni? Božský běžec musí dosáhnout na duchovní úrovni významné věci, protože je božským běžcem. Na druhou stranu, když božský běžec neinspiruje lidského běžce, když nebude pracovat na fyzické úrovni, lidské bytosti nebudou dělat pokrok. Božskost musí kráčet bok po boku s lidstvem. Jinak, budou-li božskost a lidstvo spolu soupeřit, božskost vždy vyhraje. Jestliže se božskost stará o lidstvo, musí sestoupit dolů a jde s ním bok po boku, aby pozvedlo jeho úroveň.
@@ -134,12 +141,13 @@ Co to znamená? Kdybyste tento sen řekli vykladači snů, krásně by ho vysvě
 
 
 
-* Máte zlatou příležitost
+* Máte zlatou příležitost[fn:: LEN 5. Sri Chinmoy přednesl tuto promluvu o novém roku 24. ledna 1994 poté, co se vrátil do New Yorku z každoročního vánočního výletu se svými žáky]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:5-cs
+  :DATE-EVENT: 1994-01-24
   :END:
 
 Mé drahé děti, toto je můj nanejvýš, nanejvýš požehnaný požadavek na každičkého z vás zde osobně přítomného. Každý večer, než jdete spát, se posaďte na své posteli a jen tři nebo pět minut se modlete a meditujte. Také prosím zpívejte nebo recitujte novou /Bhulite Diyona/. Tady je její překlad:
@@ -175,7 +183,7 @@ Prosím, zapamatujte si tuto báseň:
     I never want to count
 My heart’s aspiration-moments.
     I just want to multiply
-My life’s dedication-hours.[fn:1]
+My life’s dedication-hours.[fn:: I Am My Life’s God-Hunger-Heart, Part 2/, no. 16. New York: Agni Press, 1994]
 
 Nikdy nechci počítat 
 okamžiky aspirace svého srdce.
@@ -233,12 +241,13 @@ Roním slzy vděčnosti, když si vzpomenu, kolik dobrých věcí jste pro mě u
 
 
 
-* „Invocation“ je naším životním dechem
+* „Invocation“ je naším životním dechem[fn:: LEN 6. Sri Chinmoy přednesl tyto poznámky k „Invocation“ a dalším důležitým písním 19. dubna 1994, v P.S. 86 na Jamaice v Queensu]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:6-cs
+  :DATE-EVENT: 1994-04-19
   :END:
 
 
@@ -255,6 +264,7 @@ Dobří zpěváci, tolik let, kolik jste na zemi, tolik písní byste měli kaž
 Co se týče zpívání, každý den po /„Invocation“/ zpívám deset nebo dvanáct písní včetně /„Jiban debata“/ a /„Bhulite Diyona“/, stejně jako písně o Matce Kálí a Pánu Kršnovi. Denně zpívám nejméně patnáct písní se syntezátorem. /„Invocation“/ zpívám předtím, než sejdu ze schodů dolů. Někdy jsou čtyři hodiny nebo půl páté ráno, když zpívám tyto písně. Ztiším zvuk svého syntezátoru, aby si sousedi nestěžovali. Zpívám tyto písně se vší upřímností -- můžete to dělat také tak. To je váš životní dech, to je váš oltář. 
 
 Dobrým zpěvákům říkám: za každý rok své pozemské existence byste měli zazpívat píseň. Od Boha se vám již dostalo zvláštního Požehnání být dobrými zpěváky, proto byste měli zpívat. Nejméně pár set mých písní je pěkných! Z nich padesát nebo šedesát má opravdu nálepku nesmrtelnosti. Patří mezi ně /„Jiban debata“/ a /„Bhulite Diyona“/ a /„Tomare rakhibo“/. Jednoho dne mohu udělat seznam těchto písní podle svého vnímání, ne podle vašeho. Uvidíme, kolik jich dokážu vybrat, když budu velmi, velmi přísný.
+
 Jsem velmi vděčný některým pěveckým skupinám, které se pohroužily hluboko do minulosti a našly písně, které už byly úplně zapomenuty. Jak to od vás je milé, když zpíváte tyto písně tak krásně a tak oduševněle!
 
 Jak oduševněle a pozorně včera chlapci zpívali písně o Sri Aurobindovi! Před mnoha lety jsem brzy ráno meditovával v pokoji Sri Aurobinda. Začalo to dvěma minutami, a ze dvou minut se staly dvěma hodiny. Když chlapci zpívali, vzal jsem své tělo, vitálno, mysl, srdce a duši do pokoje Sri Aurobinda. Vnitřně jsem seděl v jeho pokoji a meditoval jsem, zatímco jsem poslouchal své duchovní děti zpívat píseň, kterou jsem o Sri Aurobindovi složil. Jak oduševněle jste zpívali! Jsem váš nejhorší kritik, vždycky vám hubuji a spílám, když nezpíváte dobře. Ale když jste zpívali tentokrát, zcela jsem se ponořil do moře extáze. Byl jsem velmi pyšný na své děti a byl jsem tak hluboce dojat. 
@@ -265,12 +275,13 @@ Drazí, vy jste průkopníky v učení se mých písní. Jste se mnou, ve mně 
 
 
 
-* Inkarnace zlaté příležitosti
+* Inkarnace zlaté příležitosti[fn:: LEN 7. Sri Chinmoy měl následující promluvu 11. ledna 1996 při setkání se svými studenty v hotelu Summerstrand Holiday Inn v Port Elizabeth, v Jižní Africe, během každoročního vánočního výletu]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:7-cs
+  :DATE-EVENT: 1996-01-11
   :END:
 
 
@@ -322,21 +333,22 @@ Když ve vnějším maratonu uběhnete čtyřicet dva kilometrů, je konec. Po d
 
 
 
-* Větve stromu mého života
+* Větve stromu mého života[fn:: LEN 8. Sri Chinmoy měl tuto promluvu ke svým žákům 19. ledna 1997 při setkání v Sun Royal hotelu v Kagošimě v Japonsku během každoročního vánočního výletu]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:8-cs
+  :DATE-EVENT: 1997-01-19
   :END:
 
 Celý svůj život jsem byl básníkem. Ve čtyřech nebo pěti letech jsem začal skládat verše v bengálštině. Ve věku sedmi let jsem dokázal diktovat básně svému bratru Chittovi. 
 
 Básník-zřec je někdo, kdo má vizi celého vesmíru. Některá svá nejvyšší poznání jsem vyjádřil poezií. Ačkoliv jsem však v básních „Absolutno“ a „Odhalení“ a v dalších básních řekl vznešené, vznešenější a nejvznešenější pravdy, na této úrovni vědomí nelze vyjádřit nejvyšší poznání. Když se snažíme vyjádřit tato poznání slovy, značně je snižujeme. 
+
 V „Odhalení“ jsem napsal:
 
-
-#+BEGIN_VERSE
+  #+BEGIN_VERSE
 
 Svou Podobu jsem poznal a uvědomil si.
 Nejvyšší a já jsme jedním, vše překonáme.
@@ -410,17 +422,18 @@ Tímto způsobem můžete vytvořit tajné a posvátné kluby, ve kterých se po
 
 
 
-* Pro tebe, mé dítě, není odpočinku!
+* Pro tebe, mé dítě, není odpočinku![fn:: LEN 9. Dne 23. ledna 1998 dokončil Sri Chinmoy v Cancúnu v Mexiku svou sérii básní Dvacet sedm tisíc rostlin aspirace. Hned následujícího rána obdržel od Nejvyššího vnitřní Rozkaz, aby zahájil nový riskantní podnik. Tentokrát měl napsat Sedmdesát sedm tisíc stromů služby. V této úvaze Sri Chinmoy popisuje zrození tohoto rozsáhlého eposu]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:9-cs
+  :DATE-EVENT: 1998-01-23
   :END:
 
 
 
-** Ukončení díla Dvacet sedm tisíc rostlin aspirace
+Ukončení díla Dvacet sedm tisíc rostlin aspirace
 
 Na tomto výletě jsme i navzdory mé fyzické nemoci a mnoha vnitřním a vnějším problémům dosáhli dvou významných věcí. Dokončili jsme Dvacet sedm tisíc rostlin aspirace a dva miliony kreseb ptáčků. Z literárního a uměleckého úhlu pohledu bude tento výlet naším nanejvýš významným darem Absolutnímu Nejvyššímu. Dokončit Dvacet sedm tisíc rostlin aspirace je v našem životě aspirace něčím, co je naprosto nejskvělejší a naprosto nejlepší. 
 
@@ -441,7 +454,7 @@ My Twenty-Seven Thousand
 You have given humanity
 A sleepless God-thirst
     And
-A breathless God-hunger.[fn:2]
+A breathless God-hunger.[fn:: Twenty-Seven Thousand Aspiration-Plants, Part 270/, 27000. báseň. New York: Agni Press, 1998]
 
 Mých Dvacet sedm tisíc
 rostlin aspirace,
@@ -460,7 +473,7 @@ bezdechý hlad po Bohu.
 #+END_VERSE
 
 
-** Absolutní Rozkaz mého Nejvyššího [fn:3]
+Absolutní Rozkaz mého Nejvyššího[fn:: Seventy-Seven Thousand Service-Trees, Part 50/, following Preface. New York: Agni Press, 2009]
 
 Dnes v brzkých ranních hodinách byla má duše v Transcendentálním Vědomí a mé srdce v Univerzálním Vědomí. 
 
@@ -482,18 +495,22 @@ Pak jsem Mu řekl: „Nemyslím si, že budu žít na zemi tak dlouho.“
 Řekl mi: „Mé dítě, rozkazuji ti začít. Rozkazuji ti začít. Ty i já víme, jak dlouho ještě budeš na zemi, ale já chci, abys začal. To je Můj absolutní Rozkaz.“
 
 „Můj Nejvyšší, Můj Nejvyšší, uposlechnu Tvého Rozkazu, uposlechnu.“
+
+
+
 O Sedmdesáti sedmi tisících stromech služby
 
 Můj problém je jen začít. Kolik nových žáků přijde na naši loď a kolik jich naši loď opustí do té doby, než skončím? Jen Nejvyšší ví, kolik jich přijde a kolik jich odejde a kolik jich odejde do Nebe. To ví jen Nejvyšší. Ale než dokončím Sedmdesát sedm tisíc, odejdu do Nebe já. 
 
 
 
-* Mít sladkou rodinu
+* Mít sladkou rodinu[fn:: LEN 10. Sri Chinmoy měl následující promluvu 20. června 1998, večer před Dnem otců, v P.S. 117 na Jamaice v New Yorku]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:10-cs
+  :DATE-EVENT: 1998-06-20
   :END:
 
 
@@ -524,6 +541,7 @@ Co se týče mých žáků, měl jsem miliony strastí a miliony neúspěchů, v
 Má poslední a jediná prosba k vám je: vždy myslete na to, že duchovnost je jednosměrná ulice, ne obousměrná. Můžete jít pomalu v dobách, kdy jste unavení, ale neotáčejte se, nevracejte se. Prosím, pamatujte si, že to je jednosměrná ulice.
 
 Doufám, že jednoho dne budete těmi, kdo promění mé utrpení v oceán blaženosti. Přišli jste na svět, abyste mě projevili, ale k tomuto projevení může dojít jedině silou jednoty, jednoty, jednoty s mou vůlí. Musíte překonat a překonat a překonat všechny překážky, fyzické, vitální, mentální, psychické a duchovní -- všechny, všechny, všechny. Musíte překonat veškeré pozemské překážky. Musíte porazit všechny síly, které vám stojí v cestě. Všichni nepřátelé jsou uvnitř nás, ne okolo nás. Přichází v podobě pochyb, podezření, neposlušnosti, strachu, žárlivosti a nejistoty. Tito vnitřní nepřátelé jsou překážkami na naší cestě. 
+
 Nevzdal jsem se a prosím vás, abyste se ani vy nevzdávali. Pokračujme. Nechť mám i nadále víru ve vás všechny, a to samé očekávám i od vás. Mějme víru v sebe navzájem. Dám vám to, co Nejvyšší ve mně chce, abych vám dal. Vy zase dáte mě, co Nejvyšší ve vás chce, abyste mi dali. Chce, abych vám dal svůj soucit, lásku, náklonnost, božskou sladkost, laskavost a neustálý zájem učinit vás šťastnými. Zároveň očekává, že vy mi dáte svou neustálou připravenost, ochotu a horlivost v podobě lásky, oddanosti, odevzdanosti a neustálé radostné poslušnosti. 
 
 Co mám dát, rozhodně, rozhodně, rozhodně budu dávat, tak jako dávám teď. Co máte dát vy, někteří z vás dají a pak se stáhnou. Jeden den dáte a potom měsíce a měsíce odpočíváte, vezmete si prázdniny. Ale já doufám, že můžeme mít dobrou rodinu. Abychom měli sladkou rodinu, musí otec dávat to, co dát má, a děti musí dát to, co mají dát ony. Proměňme tuto rodinu ve velmi sladkou, velmi osvěcující, velmi naplňující a velmi uspokojující rodinu. 
@@ -532,12 +550,13 @@ Zapomeňme na mučivé bolesti, úplně zapomeňme. Jednoduše se staňme sladko
 
 
 
-* Žádné očekávání!
+* Žádné očekávání![fn:: LEN 11. Sri Chinmoy měl následující promluvu ve svém domě, na Jamaice v Queensu dne 10. července 1998]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:11-cs
+  :DATE-EVENT: 1998-07-10
   :END:
 
 
@@ -583,12 +602,13 @@ Ve vašem případě můžete učinit rozhodnutí, že se ode dneška budete up�
 
 
 
-* Člověk míní, Pán Bůh mění
+* Člověk míní, Pán Bůh mění[fn:: LEN 12. Sri Chinmoy měl tuto promluvu ve svém domě na Jamaice v New Yorku 29. března 1999]
 
   :PROPERTIES:
   :GENRE: anecdote-biographical
   :KEYWORDS:
   :CITE-KEY: LEN:12-cs
+  :DATE-EVENT: 1999-03-29
   :END:
 
 
@@ -603,6 +623,7 @@ Já jsem měl podobnou zkušenost. Když mi byly čtyři nebo pět let, uslyšel
 Když se Hriday vzdal studií, byla to pro mého otce velká rána. Bratr jaksi dokázal složit zkoušku, ale ani nepočkal na její výsledky. Aniž by řekl mým rodičům, nasedl na vlak do Pondicherry, aby byl se Sri Aurobindem. 
 
 Otec byl velmi rozčílený. Jak mohl jeho nejstarší syn něco takového udělat? Matka chtěla ihned sednout na vlak do Pondicherry a přivézt ho zpět. Řekla otci: „Musím ho přivézt zpět. Jinak nebudu jíst.“
+
 Otec řekl: „Nevezmu tě do Pondicherry.“
 
 Matka byla připravena umřít hlady! Celý jeden den nejedla. Pak v polovině druhého dne srdce mého otce roztálo. „To hladovění musí přestat. Musíš jíst. Vezmu tě do Pondicherry, abychom ho odvezli zpátky domů.“ 
@@ -651,7 +672,7 @@ Ve Sri Aurobindově Ášramu byla škola, kde jsme Mantu a já studovali. Všich
 
 Božská Matka chtěla, abych vystudoval. Já jsem chtěl studovat francouzštinu na jedné univerzitě mimo Ášram. Jmenovala se Calve Collage, byla v Pondicherry. Bratr mé matky byl velmi nadšený, že chci studovat. V té době jsem byl připraven na 10. třídu, což byla imatrikulace. Ale oni řekli, že musím nejdříve složit zkoušku do 9. třídy, proto jsem šel na univerzitu dělat zkoušku. Těsně před zkouškou řekl školní inspektor pro celou oblast Pondicherry, který byl náhodou Francouz, že není dovoleno více než čtyřicet pět studentů v jedné třídě, proto mě do třídy nepřijali. Řekli: „Teď musíš do 8. třídy.“ Byl jsem velmi šokovaný. 
 
-Ten den mě doprovázel můj učitel francouzštiny z Ášramu. Jmenoval se Benjamin. Byl k nám velmi laskavý, ale my jsme si z něj dělávali legraci a říkali mu „Bon jamais“ [fn:4]. Vzal mě do 8. třídy. Když jsme dorazili, řekli nám učitelé, že přišel inspektor a dva nebo tři studenti budou muset potají odejít. Řekl jsem: „Já jdu“. Postupoval jsem dolů a dolů, dokonce ještě dřív, než zkouška začala! Umístili mě níže, než byla má úroveň. 
+Ten den mě doprovázel můj učitel francouzštiny z Ášramu. Jmenoval se Benjamin. Byl k nám velmi laskavý, ale my jsme si z něj dělávali legraci a říkali mu „Bon jamais“[fn:: /Bon jamais/ znamená ve francouzštině „nikdy dobrý“]. Vzal mě do 8. třídy. Když jsme dorazili, řekli nám učitelé, že přišel inspektor a dva nebo tři studenti budou muset potají odejít. Řekl jsem: „Já jdu“. Postupoval jsem dolů a dolů, dokonce ještě dřív, než zkouška začala! Umístili mě níže, než byla má úroveň. 
 
 Nejlegračnější je, že jsem o mnoho, mnoho let později přednášel ve Francii. Existuje francouzská organizace, kam přichází důležití lidé a přednášejí. Všiml jsem si, že den přede mnou tam přednášel právě tento inspektor. 
 
@@ -679,12 +700,13 @@ Vyprávím vám to proto, že někteří z vás chtěli studovat, ale nebylo ji
 
 
 
-* Síla úsměvu štěstí
+* Síla úsměvu štěstí[fn:: LEN 13. Sri Chinmoy měl následující promluvu ke svým žákům na Den otců 17. června 2001 na Aspiration-Ground v New Yorku]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:13-cs
+  :DATE-EVENT: 2001-06-17
   :END:
 
 
@@ -709,6 +731,7 @@ Otec se rozzlobil: „Teď mluvíš jako filosof,“ řekl. „Co chceš, co ti 
 Syn řekl: „Přišel jsem, jen aby ses na mě usmál.“
 
 „Ty pošetilý človíčku!“ vykřikl otec. „Ty čekáš jen na to, až se na tebe usměju?“
+
 Otec se tedy na syna zeširoka usmál a syn mu to oplatil a také se na něj usmál. Pak dítě uteklo. Když odběhlo, ucítil otec, že něco uvnitř něj zmizelo. A co to bylo? Celý den byl v depresi a otrávený. Nemohl stále vyřešit některé složité matematické problémy. Ale jakmile se otec na syna jednou usmál, z ničeho nic jej zaplavila inspirace a boží Milost a on dokázal vyřešit své matematické problémy. Předtím otec jen plýtval časem. Nejprve nebyl schopen vyřešit své problémy a pak, když viděl svého syna, byl jen více a více podrážděný a divil se, proč jeho syn neodchází, i když dostává větší a větší množství peněz. A nefungovaly ani sladkosti! A co fungovalo? Malý úsměv, který věnoval svému synovi, a úsměv, který jeho syn na oplátku věnoval jemu. 
 
 Bůh vstoupil do lidského syna a učinil z něj nástroj, který požádal otce o úsměv. Veškerý jed deprese a znechucení, který si otec v sobě nesl, zmizely, když se malinko usmál na svého syna a syn na něj. Pak otec získal vše. Všechny jeho problémy se vyřešily. Tak zázračná je síla dvou úsměvů. 
@@ -719,12 +742,13 @@ Co se týká úsměvu, usmívám se na vás nekonečně, nekonečně, nekonečn�
 
 
 
-* Když chodí po Zemi Mistr
+* Když chodí po Zemi Mistr[fn:: LEN 14. Sri Chinmoy přednesl tyto poznámky ke svým žákům během každoročního vánočního výletu v hotelu Intercontinental v Phnom Penh v Kambodži 5. ledna 2002 brzy ráno, před tím, než jim řekl ranní modlitby]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:14-cs
+  :DATE-EVENT: 2002-01-05
   :END:
 
 
@@ -750,12 +774,13 @@ Mnozí z vás kvůli této cestě opustili své drahé, své příbuzné, člen
 
 
 
-* Každý den nový pokus
+* Každý den nový pokus[fn:: LEN 15. Sri Chinmoy přednesl následující poselství během dopoledního setkání se svými žáky v hotelu Hilton v Nanjingu v Číně 13. února 2005 během vánočního výletu]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:15-cs
+  :DATE-EVENT: 2005-02-13
   :END:
 
 
@@ -777,12 +802,13 @@ Když se díváte na moji Transcendentální fotografii, usmívejte se ze své d
 
 
 
-* Aspirace a zasvěcení: dvě křídla
+* Aspirace a zasvěcení: dvě křídla[fn:: LEN 16. Sri Chinmoy měl tuto promluvu na Aspiration-Ground na Jamaice v New Yorku 15. listopadu 2005]
 
   :PROPERTIES:
   :GENRE: discourse
   :KEYWORDS:
   :CITE-KEY: LEN:16-cs
+  :DATE-EVENT: 2005-11-15
   :END:
 
 
@@ -810,7 +836,7 @@ Máte dvě křídla. Měli byste aspirovat a měli byste sloužit. Projevení po
 „Dověděl jsem se
 něco velmi nového:
 Výsady projevení
-dává Bůh jen několika lidem.“ [fn:5]
+dává Bůh jen několika lidem.“[fn:: /My God-Hunger-Cry/, báseň pro 24.únor 2006. New York: Agni Press, 2009]
 
 #+END_VERSE
 
@@ -821,7 +847,7 @@ Pokud již věnujete stejnou pozornost aspiraci a zasvěcené službě, jsem vel
 
 
 
-* Krása a čistota vděčnosti
+* Krása a čistota vděčnosti[fn:: LEN 17. Sri Chinmoy měl tuto promluvu ke svým žákům při setkání v Progress-Promise, meditačním centru na Jamaice v New Yorku v 80. letech]
 
   :PROPERTIES:
   :GENRE: discourse
@@ -864,60 +890,8 @@ Vděčnost, vděčnost.
 
 
 
-* Poznámky
-
-/Mé sladké děti:/ Následující poselství přednesl Sri Chinmoy na Aspiration Ground v New Yorku 13. dubna 1987, v den výročí svého příjezdu do USA v roce 1964. 
 
 
-/Nesmířím se s porážkou:/ Sri Chinmoy měl tuto promluvu ke svým žákům 23. prosince 1976, při setkání v Miami na Floridě, na vánočním výletě.
-
-
-/Žijte ve Věčném Nyní:/ Sri Chinmoy měl tuto promluvu ve svém domě na Jamaice v New Yorku 23. listopadu 1989.
-
-
-/Božský běžec inspiruje běžce-člověka:/ Sri Chinmoy vyprávěl tento osobní zážitek 12. března 1990.
-
-
-/Máte zlatou příležitost:/ Sri Chinmoy přednesl tuto promluvu o novém roku 24. ledna 1994 poté, co se vrátil do New Yorku z každoročního vánočního výletu se svými žáky.
-
-/„Invocation“ je naším životním dechem:/ Sri Chinmoy přednesl tyto poznámky k „Invocation“ a dalším důležitým písním 19. dubna 1994, v P.S. 86 na Jamaice v Queensu.
-
-/Inkarnace zlaté příležitosti:/ Sri Chinmoy měl následující promluvu 11. ledna 1996 při setkání se svými studenty v hotelu Summerstrand Holiday Inn v Port Elizabeth, v Jižní Africe, během každoročního vánočního výletu. 
-
-
-/Větve stromu mého života:/ Sri Chinmoy měl tuto promluvu ke svým žákům 19. ledna 1997 při setkání v Sun Royal hotelu v Kagošimě v Japonsku během každoročního vánočního výletu. 
-
-/„Pro tebe, mé dítě, není odpočinku!“:/ Dne 23. ledna 1998 dokončil Sri Chinmoy v Cancúnu v Mexiku svou sérii básní Dvacet sedm tisíc rostlin aspirace. Hned následujícího rána obdržel od Nejvyššího vnitřní Rozkaz, aby zahájil nový riskantní podnik. Tentokrát měl napsat Sedmdesát sedm tisíc stromů služby. V této úvaze Sri Chinmoy popisuje zrození tohoto rozsáhlého eposu. 
-
-/Mít sladkou rodinu:/ Sri Chinmoy měl následující promluvu 20. června 1998, večer před Dnem otců, v P.S. 117 na Jamaice v New Yorku.
-
-/Žádné očekávání!:/ Sri Chinmoy měl následující promluvu ve svém domě, na Jamaice v Queensu dne 10. července 1998. 
-
-/Člověk míní, Pán Bůh mění:/ Sri Chinmoy měl tuto promluvu ve svém domě na Jamaice v New Yorku 29. března 1999. 
-
-/Síla úsměvu štěstí:/ Sri Chinmoy měl následující promluvu ke svým žákům na Den otců 17. června 2001 na Aspiration-Ground v New Yorku. 
-
-/Když chodí po Zemi Mistr:/ Sri Chinmoy přednesl tyto poznámky ke svým žákům během každoročního vánočního výletu v hotelu Intercontinental v Phnom Penh v Kambodži 5. ledna 2002 brzy ráno, před tím, než jim řekl ranní modlitby. 
-
-/Každý den nový pokus:/ Sri Chinmoy přednesl následující poselství během dopoledního setkání se svými žáky v hotelu Hilton v Nanjingu v Číně 13. února 2005 během vánočního výletu.
-
-/Aspirace a zasvěcení: dvě křídla:/ Sri Chinmoy měl tuto promluvu na Aspiration-Ground na Jamaice v New Yorku 15. listopadu 2005.
-
-/Krása a čistota vděčnosti:/ Sri Chinmoy měl tuto promluvu ke svým žákům při setkání v Progress-Promise, meditačním centru na Jamaice v New Yorku v 80. letech.
-
-
-
-* Bibliografie
-
-[fn:1] Sri Chinmoy, /I Am My Life’s God-Hunger-Heart, Part 2/, no. 16. New York: Agni Press, 1994.
-
-[fn:2] Sri Chinmoy, /Twenty-Seven Thousand Aspiration-Plants, Part 270/, 27000. báseň. New York: Agni Press, 1998.
-
-[fn:3] Sri Chinmoy, /Seventy-Seven Thousand Service-Trees, Part 50/, following Preface. New York: Agni Press, 2009.
-
-[fn:4] /Bon jamais/ znamená ve francouzštině „nikdy dobrý“.
-
-[fn:5] Sri Chinmoy, /My God-Hunger-Cry/, báseň pro 24.únor 2006. New York: Agni Press, 2009.
 
 
 
