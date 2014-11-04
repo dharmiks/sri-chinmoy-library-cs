@@ -1,0 +1,1139 @@
+#+TITLE: Mír
+#+AUTHOR: Sri Chinmoy
+#+LANGUAGE: cs
+
+
+
+* Index
+
+  :PROPERTIES:
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2014
+  :publisher: (knižně nevydáno)
+  :cite-key: PEACE-cs
+  :genre: poem
+  :keywords:
+  :END:
+
+
+
+* Mír
+
+  :PROPERTIES:
+  :genre: section
+  :keywords:
+  :cite-key: PEACE:1e1-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+#+END_VERSE
+
+
+* Mé 
+srdce sní o míru...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:1-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mé srdce sní o míru,
+zatímco má mysl sní o nadřazenosti.
+
+#+END_VERSE
+
+
+* Jak bych si přál, abych mohl věnovat...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:2-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jak bych si přál,
+abych mohl věnovat veškerý svůj čas
+přípravám na můj život míru.
+
+#+END_VERSE
+
+
+* Kéž se mír, který cítím...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:3-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Kéž se mír, který cítím ve svých představách,
+stane skutečností v mém životě.
+
+#+END_VERSE
+
+
+* Boha můžeme nalézt pouze poté...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:4-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Boha můžeme nalézt pouze poté,
+co jsme hledali mír.
+
+#+END_VERSE
+
+
+* Mír je dítětem soucitu...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:5-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír je dítětem soucitu,
+a ne synem kompromisu.
+
+#+END_VERSE
+
+
+* Mír neporoučí mé mysli...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:6-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír neporoučí mé mysli. 
+Pouze mou mysl osvěcuje.
+
+#+END_VERSE
+
+
+* Jsem šťastný, protože mír je ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:7-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jsem šťastný, protože mír je více než ochotný 
+být celoživotním druhem mého srdce.
+
+#+END_VERSE
+
+
+* Bůh je připraven navštívit mé srdce...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:8-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Bůh je připraven navštívit mé srdce, 
+když ho ujistím, 
+že jej u dveří mého srdce uvítá mír.
+
+#+END_VERSE
+
+
+* Když má mysl vdechuje mír třeba i jen ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:9-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když má mysl vdechuje mír třeba i jen letmou minutu, 
+mé srdce začne tančit s létajícími křídly větru.
+
+#+END_VERSE
+
+
+* Ó míre, ty jsi jediný, kdo ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:10-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Ó míre, ty jsi jediný, 
+kdo mě vysvobodí z ošklivě 
+temného vězení mé mysli.
+
+#+END_VERSE
+
+
+* Ten, kdo věří v Boha....
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:11-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Ten, kdo věří v Boha, 
+nakonec bude žít v míru.
+
+#+END_VERSE
+
+
+* Mír hladí a sytí slzy mého...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:12-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír hladí a sytí slzy mého neustále stoupajícího srdce.
+
+#+END_VERSE
+
+
+* Nezávislost na lidech není mír...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:13-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Nezávislost na lidech není mír. 
+Závislost na Bohu je mír.
+
+#+END_VERSE
+
+
+* Mír může dokázat, že se usměju...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:14-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír může dokázat, 
+že se usměju i skrze své nespočetné slzy.
+
+#+END_VERSE
+
+
+* Dnes mír zlomil můj krutý...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:15-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Dnes mír zlomil 
+můj krutý a mocný osud.
+
+#+END_VERSE
+
+
+* Zítra mír vystaví můj oduševnělý...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:16-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Zítra mír vystaví 
+můj oduševnělý a plodný osud.
+
+#+END_VERSE
+
+
+* Požehnání nezměrné radosti získáme pouze z míru....
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:17-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Požehnání nezměrné radosti získáme pouze z míru.
+
+#+END_VERSE
+
+
+* Mír pozvedá víru mého srdce a...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:18-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír pozvedá víru mého srdce 
+a oslabuje pochyby mé mysli.
+
+#+END_VERSE
+
+
+* Mír nenavštěvuje mysl, která...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:19-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír nenavštěvuje mysl, 
+která opatruje váhavost.
+
+#+END_VERSE
+
+
+* Hromadění není a nikdy nemůže být...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:20-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Hromadění není a nikdy 
+nemůže být mírem.
+
+#+END_VERSE
+
+
+* Mír pochází ze svobody...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:21-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír pochází ze svobody. 
+Svoboda pochází z odevzdání. 
+Odevzdání pochází z veselosti. 
+Veselost pochází z ochoty. 
+Ochota pochází z připravenosti.
+
+#+END_VERSE
+
+
+* Mír si nestěžuje, protože mír...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:22-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír si nestěžuje, 
+protože mír se nikdy neunaví.
+
+#+END_VERSE
+
+
+* Kritici člověka a kritici Boha nikdy nebudou mít...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:23-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Kritici člověka a kritici Boha 
+nikdy nebudou mít ani špetku míru.
+
+#+END_VERSE
+
+
+* Ó mé srdce, mír tě nikdy neopustí...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:24-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Ó mé srdce, mír tě nikdy neopustí. 
+Mír tě opravdu miluje. 
+Pro mír jsi jeho největším miláčkem.
+
+#+END_VERSE
+
+
+* Sloužit Bohu znamená uchovávat mír...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:25-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Sloužit Bohu znamená uchovávat mír; 
+uchovávat mír znamená zasloužit si uspokojení.
+
+#+END_VERSE
+
+
+* Mír je cizincem pro rigidní mysl...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:26-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír je cizincem pro rigidní mysl. 
+Mír je hostem pružného srdce.
+
+#+END_VERSE
+
+
+* Mír bude neustále hlídat a...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:27-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír bude neustále hlídat a 
+střežit tvé srdce jednoty se světem.
+
+#+END_VERSE
+
+
+* Mír jsou vlny tance Nekonečnosti....
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:28-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír jsou vlny tance Nekonečnosti.
+
+#+END_VERSE
+
+
+* Mír jsou oceány písní Nesmrtelnosti...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:29-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír jsou oceány písní Nesmrtelnosti.
+
+#+END_VERSE
+
+
+* Je dobré přijímat mír od světa...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:30-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Je dobré přijímat mír od světa. 
+Je lepší dávat mír světu. 
+Nejlepší, zdaleka nejlepší je stát se mírem světa.
+
+#+END_VERSE
+
+
+* Mír je pro toho, kdo zavrhl pochybnosti...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:31-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír je pro toho, kdo zavrhl pochybnosti o sobě, 
+a ne pro toho, kdo si jich užívá. 
+
+#+END_VERSE
+
+
+* Dvakrát získám mír...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:32-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Dvakrát získám mír. 
+Jednou získám mír, 
+když mé srdce s láskou pláče uvnitř mého dechu. 
+Podruhé získám mír, 
+když se má duše se světlem usmívá skrze můj život.
+
+#+END_VERSE
+
+
+* V Nebi má mír jiné jméno: světlo...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:33-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+V Nebi má mír jiné jméno: světlo. 
+Na zemi má mír jiné jméno: láska.
+
+#+END_VERSE
+
+
+* Mír vytvořený kompromisy mysli je smrtelný....
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:34-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír vytvořený kompromisy mysli je smrtelný. 
+Mír vytvořený sebeobětováním je nesmrtelný.
+
+#+END_VERSE
+
+
+* Má mysl postrádající mír ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:35-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Má mysl postrádající mír obtěžuje mou duši. 
+Mé srdce naplněné mírem těší mou duši.
+
+#+END_VERSE
+
+
+* Když máš vnitřní mír, nikdo tě nemůže...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:36-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když máš vnitřní mír, nikdo tě nemůže přinutit, 
+abys byl otrokem vnější skutečnosti.
+
+#+END_VERSE
+
+
+* Trpělivost, trpělivost, trpělivost...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:37-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Trpělivost, trpělivost, trpělivost. 
+Potřebuješ trpělivost. 
+V srdci tvé trpělivosti objevíš květy míru a květy uspokojení.
+
+#+END_VERSE
+
+
+* Má duše je stále velmi šokovaná tím...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:38-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Má duše je stále velmi šokovaná tím, 
+že vidí, že můj život může žít bez míru.
+
+#+END_VERSE
+
+
+* Srdce zaplavené mírem nemůže být nikdy...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:39-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Srdce zaplavené mírem nemůže být nikdy zašpiněno ani poraženo.
+
+#+END_VERSE
+
+
+* Bůh tě nepovažuje za svého zcela vlastního pro ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:40-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Bůh tě považuje za svého zcela vlastního ne pro to, 
+co máš, ale pro to, čím jsi: mírem.
+
+#+END_VERSE
+
+
+* Mír nechce být zvěstovatelem...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:41-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír nechce být 
+zvěstovatelem večera tvého života.
+
+#+END_VERSE
+
+
+* Mír je zvěstovatelem věčného dětství....
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:42-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír je zvěstovatelem věčného dětství.
+
+#+END_VERSE
+
+
+* Bůh mi nikdy neposkytne rozhovor...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:43-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Bůh mi nikdy neposkytne rozhovor, 
+pokud nemám doporučení od míru.
+
+#+END_VERSE
+
+
+* Podezření a iluze nejsou nikdy zváni...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:44-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Podezření a iluze nejsou nikdy zváni na večírek míru.
+
+#+END_VERSE
+
+
+* Pokud tvé srdce nemá mírový pas...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:45-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Pokud tvé srdce nemá mírový pas, 
+nebudeš moci vstoupit do Království Božího Míru.
+
+#+END_VERSE
+
+
+* Byl jsem tím, kdo sní o míru....
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:46-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Byl jsem tím, kdo sní o míru.
+Jsem tím, kdo miluje mír. 
+Nakonec se stanu tím, kdo mír dává.
+
+#+END_VERSE
+
+
+* Mír je největším triumfem víry mého srdce...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:47-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír je největším triumfem víry mého srdce v univerzální jednotu.
+
+#+END_VERSE
+
+
+* Láska žije v naději mého srdce...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:48-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Láska žije v naději mého srdce. 
+Mír žije v slibu mé duše.
+
+#+END_VERSE
+
+
+* Mír přijímám z proudících slz svého srdce...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:49-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír přijímám z proudících slz svého srdce, 
+když se modlím.
+
+#+END_VERSE
+
+
+* Mír přijímám ze zářících úsměvů své duše...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:50-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír přijímám ze zářících úsměvů své duše, 
+když medituji.
+
+#+END_VERSE
+
+
+* Jak můžeš mít i jen kapku míru...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:51-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jak můžeš mít i jen kapku míru, 
+dokud jsi nechytil své zlodějské ego?
+
+#+END_VERSE
+
+
+* Mysl míru je plnou sklizní...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:52-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mysl míru je plnou sklizní příležitostí.
+
+#+END_VERSE
+
+
+* To skutečné ve mně touží po míru....
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:53-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+To skutečné ve mně touží po míru. 
+To neskutečné ve mně touží po moci.
+
+#+END_VERSE
+
+
+* Mír není složité cizí slovo...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:54-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Mír není složité cizí slovo, 
+které je těžké se naučit.
+
+#+END_VERSE
+
+
+* Neztrácej čas....
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:55-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Neztrácej čas. 
+Modli se a medituj, 
+pokud opravdu potřebuješ mír ve své mysli, 
+mír ve svém srdci, mír ve svém životě.
+
+#+END_VERSE
+
+
+* Včera byl mír cestou....
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:56-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Včera byl mír cestou mé aspirace.
+
+#+END_VERSE
+
+
+* Dnes je mír cílem mé realizace....
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:57-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Dnes je mír cílem mé realizace.
+
+#+END_VERSE
+
+
+* Zítra bude mír projevením mé dokonalosti....
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:58-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Zítra bude mír projevením mé dokonalosti.
+
+#+END_VERSE
+
+
+* Dychtivost přináší kapku míru do...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:59-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Dychtivost přináší kapku míru do mé hledající mysli.
+
+#+END_VERSE
+
+
+* Ochota přináší spoustu míru...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:60-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Ochota přináší spoustu míru do mého aspirujícího srdce.
+
+#+END_VERSE
+
+
+* Sebedávání přináší nezměrný mír...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:61-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Sebedávání přináší nezměrný mír 
+do mého kvetoucího života.
+
+#+END_VERSE
+
+
+* Bůh a Boží Mír společně pláčou...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:62-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Bůh a Boží Mír 
+společně pláčou nad našimi vědomými a úmyslnými prohřešky.
+
+#+END_VERSE
+
+
+* Co mír dělá?...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:63-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Co mír dělá? Mír rozkvétá. 
+Co ještě? Mír se šíří. 
+Co ještě? Mír osvěcuje. 
+Co ještě? Mír naplňuje.
+
+#+END_VERSE
+
+
+* Spatřil jsem světlo dne...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: PEACE:64-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Spatřil jsem světlo dne, 
+abych projevil Boha na zemi. 
+
+Mír spatřil světlo dne, 
+aby mi láskyplně ukázal cestu.
+
+#+END_VERSE
+
+
+
+
+
+#+SETUPFILE: ~/.org/org-templates/level-0.org
+
+# Local Variables:
+# mode: org
+# End:
+
