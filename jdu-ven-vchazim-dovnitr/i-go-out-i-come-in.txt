@@ -1,0 +1,722 @@
+#+TITLE: Jdu ven, vcházím dovnitř
+
+#+AUTHOR: Sri Chinmoy
+#+LANGUAGE: cs
+
+
+
+* Index
+
+  :PROPERTIES:
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: Nile
+  :year: 2014
+  :publisher: knižně nevydáno
+  :cite-key: IGOI-cs
+  :genre: poem
+  :keywords:-cs
+  :END:
+
+
+
+* Ilustrovala Radha Honig...
+
+  :PROPERTIES:
+  :genre: note
+  :keywords:
+  :cite-key: IGOI:1e1-cs
+  :END:
+
+
+Ilustrovala Radha Honig
+
+Dřívější vydání této knihy pod stejným názvem bylo vydáno 19. února 1997. Toto vydání obsahovalo prvních 33 básní a tyto jsou také přeloženy do češtiny.
+
+
+
+* 1 Když vyjdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:1-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když vyjdu ven,
+nejsem nikde.
+
+Když vejdu dovnitř,
+jsem všude.
+
+#+END_VERSE
+
+
+* 2 Jdu ven...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:2-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven 
+školit svou mysl.
+
+Vcházím dovnitř
+školit své srdce.   
+
+#+END_VERSE
+
+
+* 3 Jdu ven...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:3-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven,
+abych koupil to, 
+co po sobě pošetile zanechám.
+
+Vcházím dovnitř,
+abych znovu získal to,
+čím věčně jsem.
+
+#+END_VERSE
+
+
+* 4 Jdu ven...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:4-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven,
+abych nasytil svou zvědavou mysl 
+a zvědavé oči.
+
+Vcházím dovnitř,
+abych nasytil svou božskou duši 
+a čisté srdce.
+
+#+END_VERSE
+
+
+* 5 Ven jdu...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:5-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Ven jdu
+pošetile vynalézat.
+
+Dovnitř vcházím
+moudře objevovat.
+
+#+END_VERSE
+
+
+* 6 Jdu ven...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:6-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven
+měřit božskost Přírody.
+
+Vcházím dovnitř
+cenit si přirozenosti Božskosti.
+
+#+END_VERSE
+
+
+* 7 Když jdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:7-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když jdu ven,
+má je zvukem spoutaná cesta.
+
+Když vcházím dovnitř,
+můj je tichem spoutaný cíl.
+
+#+END_VERSE
+
+
+* 8 Když jdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:8-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když jdu ven,
+přijímám nové jméno:
+očekávání radosti.
+
+Když vcházím dovnitř,
+vracím se ke svému starému jménu:
+základ míru.
+
+#+END_VERSE
+
+
+* 9 Když jdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:9-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když jdu ven,
+snažím se najít Boha.
+
+Když vejdu dovnitř,
+Bůh mi říká:
+„Svaž Mě, Mé dítě,
+ještě jednou.“
+
+#+END_VERSE
+
+
+* 10 When I Go Out, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:10-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když jdu ven,
+potřebuji, co najdu.
+
+Když vejdu dovnitř,
+najdu, co potřebuji.
+
+#+END_VERSE
+
+
+* 11 Když jdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:11-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když jdu ven,
+utrácím peníze.
+
+Když jdu dovnitř,
+piji med.
+
+#+END_VERSE
+
+
+* 12 Jdu ven,...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:12-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven,
+abych sledoval průzkum své mysli.
+
+Vcházím dovnitř,
+abych zpíval vzývání svého srdce.
+
+#+END_VERSE
+
+
+* 13 Pyšně jdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:13-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Pyšně jdu ven
+jen abych řekl, co dokážu. 
+
+Míruplně vcházím dovnitř
+jen abych cítil, co jsem.
+
+#+END_VERSE
+
+
+* 14 Tesařův lidský syn mě žádá,...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:14-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Tesařův lidský syn mě žádá,
+abych šel ven.
+
+Božský syn Boha mě žádá,  
+abych vešel dovnitř.
+
+#+END_VERSE
+
+
+* 15 Buď chrabrou myslí,...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:15-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Buď chrabrou myslí,
+když jdeš ven.
+
+Buď čistým srdcem, 
+když vcházíš dovnitř.
+
+#+END_VERSE
+
+
+* 16 Když jdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:16-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když jdu ven,
+večeřím se známým.
+
+Když jdu dovnitř,
+toužím po Neznámém.
+
+#+END_VERSE
+
+
+* 17 I Go Out...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:17-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven, 
+abych spatřil Tvář Boha.
+
+Vcházím dovnitř,
+abych se stal Srdcem Boha.
+
+#+END_VERSE
+
+
+* 18 Když jdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:18-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když jdu ven 
+vidím proud.
+
+Když vejdu dovnitř,
+stávám se žárem.
+
+#+END_VERSE
+
+
+* 19 Když jdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:19-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když jdu ven,
+Bůh mi říká:
+„Mé dítě, dobře se bav.“
+
+Když vejdu dovnitř,
+Bůh mi říká:
+„Mé dítě, těš se ze Mě.“
+
+#+END_VERSE
+
+
+* 20 Když vyjdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:20-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když vyjdu ven,
+stávám se šíleným slonem.
+
+Když vejdu dovnitř,
+stávám se radostným jelenem.
+
+#+END_VERSE
+
+
+* 21 Když jdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:21-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když jdu ven,
+startuji motor své mysli.
+
+Když vejdu dovnitř,
+plavím se na lodi svého srdce.
+
+#+END_VERSE
+
+
+* 22 Abych viděl Boha Sílu, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:22-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Abych viděl Boha Sílu,
+jdu ven.
+
+Abych cítil Boha Mír,
+vcházím dovnitř.
+
+#+END_VERSE
+
+
+* 23 Kolumbus šel ven...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:23-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Kolumbus šel ven
+a objevil Nový svět:
+Ameriku.
+
+Já vcházím dovnitř
+a objevuji svůj starý svět:
+svůj Zdroj, svého Boha.
+
+#+END_VERSE
+
+
+* 24 Jdu ven...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:24-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven 
+abych získal, co chci.
+
+Vcházím dovnitř 
+abych cítil, co potřebuji.
+#+END_VERSE
+
+
+* 25 Když jdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:25-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když jdu ven,
+překvapuji druhé 
+a oni překvapují mě.
+
+Když vejdu dovnitř,
+Bůh a já se navzájem překvapujeme.
+
+#+END_VERSE
+
+
+* 26 Jdu ven...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:26-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven 
+abych slyšel,
+co chce svět říct.
+
+Vcházím dovnitř
+jen abych viděl, že Bůh čeká,
+aby ode mě něco slyšel.
+
+#+END_VERSE
+
+
+* 27 Jdu ven...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:27-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven 
+a zmenšuji sílu svých peněz.
+
+Vcházím dovnitř
+a zvětšuji sílu svého srdce.
+
+#+END_VERSE
+
+
+* 28 Jdu ven...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:28-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven, 
+abych viděl rozlehlost světa.
+
+Vcházím dovnitř,
+abych viděl Nekonečnost vesmíru.
+
+#+END_VERSE
+
+
+* 29 Jdu ven...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:29-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven,
+abych viděl sílu velikosti.
+
+Vcházím dovnitř,
+abych cítil lásku dobroty.
+
+#+END_VERSE
+
+
+* 30 Jdu ven...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:30-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven
+koupit svět.
+
+Vcházím dovnitř 
+milovat svět.
+
+#+END_VERSE
+
+
+* 31 Jdu ven,...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:31-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven,
+abych se kvapně naučil.
+
+Vcházím dovnitř, 
+abych se moudře odnaučil.
+
+#+END_VERSE
+
+
+* 32 Jdu ven říci:...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:32-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Jdu ven říci:
+„Bože, kde jsi?“
+
+Vcházím dovnitř říci:
+„Bože, vezmi si mě!“
+
+#+END_VERSE
+
+
+* 33 Když jdu ven, ...
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: IGOI:33-cs
+  :END:
+
+
+#+BEGIN_VERSE
+
+Když jdu ven,
+má mysl provokuje.
+
+Když vejdu dovnitř,
+mé srdce vzývá.
+
+#+END_VERSE
+
+
+
+
+
+
+
+#+SETUPFILE: ~/.org/org-templates/level-0.org
+
+# Local Variables:
+# mode: org
+# End:
+
