@@ -1,5 +1,4 @@
 #+TITLE: Jdu ven, vcházím dovnitř
-
 #+AUTHOR: Sri Chinmoy
 #+LANGUAGE: cs
 
@@ -10,7 +9,7 @@
   :PROPERTIES:
   :book-number:
   :author: Sri Chinmoy
-  :original-edition: Nile
+  :original-edition: Nil
   :year: 2014
   :publisher: knižně nevydáno
   :cite-key: IGOI-cs
@@ -223,7 +222,7 @@ ještě jednou.“
 #+END_VERSE
 
 
-* 10 When I Go Out, ...
+* 10 Když jdu ven, ...
 
   :PROPERTIES:
   :genre: poem
@@ -363,7 +362,7 @@ toužím po Neznámém.
 #+END_VERSE
 
 
-* 17 I Go Out...
+* 17 Jdu ven...
 
   :PROPERTIES:
   :genre: poem
