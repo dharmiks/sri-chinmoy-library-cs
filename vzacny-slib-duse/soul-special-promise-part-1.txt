@@ -10,7 +10,7 @@
   :BOOK-NUMBER:
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: Nil
-  :YEAR: 2000
+  :YEAR: 2014
   :PUBLISHER: (knižně nevydáno)
   :CITE-KEY: SSP-1-cs
   :GENRE: qa

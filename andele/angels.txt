@@ -11,7 +11,7 @@
   :author: Sri Chinmoy
   :original-edition: Nil
   :year: 2014
-  :publisher: Nevydáno
+  :publisher: (knižně nevydáno)
   :cite-key: ANGL-cs
   :genre: poem, aphorism
   :keywords:

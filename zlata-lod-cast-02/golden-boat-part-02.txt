@@ -10,7 +10,7 @@
   :BOOK-NUMBER:  
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION:  Nil
-  :YEAR:  2007
+  :YEAR:  2014
   :PUBLISHER:  (knižně nevydáno)
   :CITE-KEY: GB-2-cs
   :GENRE: poem

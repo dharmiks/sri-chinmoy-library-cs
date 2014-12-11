@@ -10,8 +10,8 @@
   :BOOK-NUMBER: 
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
-  :YEAR: 2001
-  :PUBLISHER: Madal Bal
+  :YEAR: 2014
+  :PUBLISHER: (knižně nevydáno)
   :CITE-KEY: SCA-7-cs
   :GENRE: qa
   :KEYWORDS:

@@ -11,7 +11,7 @@
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: Nil
   :YEAR: 2014
-  :PUBLISHER: Knižně nevydáno
+  :PUBLISHER: (knižně nevydáno)
   :CITE-KEY: SCA-8-cs
   :GENRE: qa
   :KEYWORDS:

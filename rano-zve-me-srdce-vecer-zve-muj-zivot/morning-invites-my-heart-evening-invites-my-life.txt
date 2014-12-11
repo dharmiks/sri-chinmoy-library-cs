@@ -10,8 +10,8 @@
   :BOOK-NUMBER: 
   :AUTHOR: Sri Chinmoy
   :ORIGINAL-EDITION: nil
-  :BOOK-YEAR: 2009
-  :PUBLISHER: Madal Bal
+  :BOOK-YEAR: 2014
+  :PUBLISHER: (knižně nevydáno)
   :CITE-KEY: MIMH-cs
   :GENRE: poem
   :KEYWORDS:
@@ -239,6 +239,7 @@ Ale nevidíš,
 že ubohý Bůh vždy 
 naléhavě potřebuje
 tvé sebedávání?
+
 #+END_VERSE
 
 
@@ -333,6 +334,7 @@ Když si neceníš
 Božích květin stvoření,
 Bůh se cítí jako zahradník,
 jehož práce není oceňována.
+
 #+END_VERSE
 
 

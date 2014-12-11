@@ -11,7 +11,7 @@
   :author: Sri Chinmoy
   :original-edition: nil
   :year: 2014
-  :publisher: knižně nevydáno
+  :publisher: (knižně nevydáno)
   :cite-key: SCA-9-cs
   :genre: qa
   :keywords:
