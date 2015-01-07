@@ -1,6 +1,6 @@
 #+TITLE: Můj Pane Nejvyšší, máš chvilku?
 #+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cz
+#+LANGUAGE: cs
 
 
 
