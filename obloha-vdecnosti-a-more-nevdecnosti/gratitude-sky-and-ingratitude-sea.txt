@@ -9,7 +9,7 @@
   :PROPERTIES:
   :book-number: 
   :author: Sri Chinmoy
-  :original-edition: NIl
+  :original-edition: nil
   :year: 1995
   :publisher: Sri Chinmoy Centrum
   :cite-key: GSIS-cs
