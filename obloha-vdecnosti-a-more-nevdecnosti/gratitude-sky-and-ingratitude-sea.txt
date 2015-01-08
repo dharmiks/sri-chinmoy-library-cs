@@ -52,7 +52,7 @@ Mistr si vzpomněl na svou konverzaci s Bohem předešlé noci, když ho Bůh ut
   :genre: story
   :keywords:
   :cite-key: GSIS:3-cs
-..:date-event: 1974-09-14
+  :date-event: 1974-09-14
   :END:
 
 
@@ -180,7 +180,7 @@ Zkoušej osvítit nevědomost; buď příjemný, buď laskavý, buď plný zájm
   :genre: story
   :keywords:
   :cite-key: GSIS:6-cs
-..:date-event: 1974-09-16
+  :date-event: 1974-09-16
   :END:
 
 
