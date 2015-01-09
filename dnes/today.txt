@@ -1,20 +1,15 @@
-#+TITLE: Dnes
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Dnes
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :BOOK-YEAR: 2007
-  :PUBLISHER: (knižně nevydáno)
-  :CITE-KEY: TDY-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :book-year: 2007
+  :publisher: (knižně nevydáno)
+  :cite-key: TDY-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Leden
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TDY:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: tdy:1e1-cs
   :END:
 
 
@@ -36,9 +31,9 @@
 * 1. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:1-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:1-cs
   :END:
 
 
@@ -55,9 +50,9 @@ na Boha.
 * 2. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:2-cs
   :END:
 
 
@@ -74,9 +69,9 @@ Boha.
 * 3. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:3-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:3-cs
   :END:
 
 
@@ -93,9 +88,9 @@ Bohu.
 * 4. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:4-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:4-cs
   :END:
 
 
@@ -112,9 +107,9 @@ proč jsem přišel na toto pozemské jeviště.
 * 5. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:5-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:5-cs
   :END:
 
 
@@ -130,9 +125,9 @@ neomezenou láskou svého srdce.
 * 6. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:6-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:6-cs
   :END:
 
 
@@ -148,9 +143,9 @@ svým sebedávajícím srdcem.
 * 7. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:7-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:7-cs
   :END:
 
 
@@ -166,9 +161,9 @@ na píseň Vítězství Boha.
 * 8. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:8-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:8-cs
   :END:
 
 
@@ -185,9 +180,9 @@ Rozkvět Božích Úsměvů Slunce.
 * 9. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:9-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:9-cs
   :END:
 
 
@@ -204,9 +199,9 @@ svému Pánu Nejvyššímu.
 * 10. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:10-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:10-cs
   :END:
 
 
@@ -223,9 +218,9 @@ upřímnost.
 * 11. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:11-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:11-cs
   :END:
 
 
@@ -242,9 +237,9 @@ nové jméno:
 * 12. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:12-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:12-cs
   :END:
 
 
@@ -261,9 +256,9 @@ vděčnost.
 * 13. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:13-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:13-cs
   :END:
 
 
@@ -282,9 +277,9 @@ Hojnost Blaženosti.
 * 14. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:14-cs
   :END:
 
 
@@ -303,9 +298,9 @@ k mému bezpodmínečnému odevzdání.
 * 15. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:15-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:15-cs
   :END:
 
 
@@ -323,9 +318,9 @@ Jeho vlastním Způsobem.
 * 16. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:16-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:16-cs
   :END:
 
 
@@ -342,9 +337,9 @@ aby se nikdy nevrátilo.
 * 17. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:17-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:17-cs
   :END:
 
 
@@ -362,9 +357,9 @@ a Nohou Odpuštění Boha.
 * 18. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:18-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:18-cs
   :END:
 
 
@@ -380,9 +375,9 @@ zvyšovat svůj hlad po Bohu.
 * 19. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:19-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:19-cs
   :END:
 
 
@@ -400,9 +395,9 @@ a Jeho Uspokojení.
 * 20. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:20-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:20-cs
   :END:
 
 
@@ -419,9 +414,9 @@ To the happiness-goal beyond.
 * 21. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:21-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:21-cs
   :END:
 
 
@@ -439,9 +434,9 @@ Uspokojením.
 * 22. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:22-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:22-cs
   :END:
 
 
@@ -458,9 +453,9 @@ tohoto světa.
 * 23. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:23-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:23-cs
   :END:
 
 
@@ -477,9 +472,9 @@ se slzami čistoty mého srdce.
 * 24. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:24-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:24-cs
   :END:
 
 
@@ -495,9 +490,9 @@ mě volá
 * 25. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:25-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:25-cs
   :END:
 
 
@@ -515,9 +510,9 @@ a Nohy Odpuštění.
 * 26. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:26-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:26-cs
   :END:
 
 
@@ -533,9 +528,9 @@ jen po Cestě Boží Lásky a Soucitu.
 * 27. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:27-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:27-cs
   :END:
 
 
@@ -552,9 +547,9 @@ aby bylo opravdové.
 * 28. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:28-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:28-cs
   :END:
 
 
@@ -571,9 +566,9 @@ a tancem svého srdce aspirace.
 * 29. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:29-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:29-cs
   :END:
 
 
@@ -592,9 +587,9 @@ a z mého nového života odevzdávajícího se Bohu.
 * 30. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:30-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:30-cs
   :END:
 
 
@@ -611,9 +606,9 @@ patříme Božímu Duhovému Snu.
 * 31. ledna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:31-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:31-cs
   :END:
 
 
@@ -631,9 +626,9 @@ pokusím se žít ve Věčném Teď.
 * Únor
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TDY:32e2-cs
+  :genre: section
+  :keywords:
+  :cite-key: tdy:32e2-cs
   :END:
 
 
@@ -645,9 +640,9 @@ pokusím se žít ve Věčném Teď.
 * 1. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:32-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:32-cs
   :END:
 
 
@@ -665,9 +660,9 @@ je neustálá ochota k naplnění Boha.
 * 2. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:33-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:33-cs
   :END:
 
 
@@ -685,9 +680,9 @@ a vložit jej do svých očí.
 * 3. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:34-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:34-cs
   :END:
 
 
@@ -705,9 +700,9 @@ Mír se usmívá oduševněle.
 * 4. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:35-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:35-cs
   :END:
 
 
@@ -724,9 +719,9 @@ aby byly položeny k Nohám Boha.
 * 5. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:36-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:36-cs
   :END:
 
 
@@ -743,9 +738,9 @@ vyniknou v Božích zkouškách.
 * 6. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:37-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:37-cs
   :END:
 
 
@@ -761,9 +756,9 @@ v slzy Uspokojení Boha.
 * 7. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:38-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:38-cs
   :END:
 
 
@@ -780,9 +775,9 @@ své mysli myšlenek.
 * 8. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:39-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:39-cs
   :END:
 
 
@@ -799,9 +794,9 @@ svou dlouho odkládanou pouť k Bohu.
 * 9. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:40-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:40-cs
   :END:
 
 
@@ -821,9 +816,9 @@ nebudou mít žádné omezení rychlosti.
 * 10. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:41-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:41-cs
   :END:
 
 
@@ -844,9 +839,9 @@ trochu více své vnímavosti.
 * 11. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:42-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:42-cs
   :END:
 
 
@@ -862,9 +857,9 @@ se vznášejícími se sny o Bohu svého srdce.
 * 12. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:43-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:43-cs
   :END:
 
 
@@ -880,9 +875,9 @@ s kanoucími slzami svého života.
 * 13. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:44-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:44-cs
   :END:
 
 
@@ -899,9 +894,9 @@ noci nevědomosti.
 * 14. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:45-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:45-cs
   :END:
 
 
@@ -920,9 +915,9 @@ mimo nejvzdálenější možnost.
 * 15. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:46-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:46-cs
   :END:
 
 
@@ -939,9 +934,9 @@ a zatřást stromem mého života.
 * 16. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:47-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:47-cs
   :END:
 
 
@@ -959,9 +954,9 @@ do prachu.
 * 17. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:48-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:48-cs
   :END:
 
 
@@ -978,9 +973,9 @@ mou nevyžádanou radu.
 * 18. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:49-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:49-cs
   :END:
 
 
@@ -999,9 +994,9 @@ On mi dal hbitě a otevřeně
 * 19. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:50-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:50-cs
   :END:
 
 
@@ -1019,9 +1014,9 @@ věže života ega mé mysli.
 * 20. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:51-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:51-cs
   :END:
 
 
@@ -1041,9 +1036,9 @@ Bůh mi řekl:
 * 21. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:52-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:52-cs
   :END:
 
 
@@ -1062,9 +1057,9 @@ silným, silnějším, nejsilnějším.
 * 22. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:53-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:53-cs
   :END:
 
 
@@ -1082,9 +1077,9 @@ dlouhý seznam stížností mé mysli.
 * 23. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:54-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:54-cs
   :END:
 
 
@@ -1102,9 +1097,9 @@ do Domova Božího Srdce.
 * 24. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:55-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:55-cs
   :END:
 
 
@@ -1121,9 +1116,9 @@ pod dokonalou kontrolu.
 * 25. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:56-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:56-cs
   :END:
 
 
@@ -1142,9 +1137,9 @@ Mír Nekonečna.
 * 26. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:57-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:57-cs
   :END:
 
 
@@ -1162,9 +1157,9 @@ po vlastnění světa.
 * 27. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:58-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:58-cs
   :END:
 
 
@@ -1181,9 +1176,9 @@ a břehem své nicotnosti.
 * 28. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:59-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:59-cs
   :END:
 
 
@@ -1200,9 +1195,9 @@ otrockým pláčem své potřeby Boha.
 * 29. února
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:60-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:60-cs
   :END:
 
 
@@ -1221,9 +1216,9 @@ skutečností zážitku.
 * Březen
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TDY:61e3-cs
+  :genre: section
+  :keywords:
+  :cite-key: tdy:61e3-cs
   :END:
 
 
@@ -1235,9 +1230,9 @@ skutečností zážitku.
 * 1. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:61-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:61-cs
   :END:
 
 
@@ -1256,9 +1251,9 @@ nebožský posměch.
 * 2. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:62-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:62-cs
   :END:
 
 
@@ -1276,9 +1271,9 @@ o nikom mluvit špatně.
 * 3. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:63-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:63-cs
   :END:
 
 
@@ -1295,9 +1290,9 @@ svými vidinami a fantaziemi.
 * 4. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:64-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:64-cs
   :END:
 
 
@@ -1313,9 +1308,9 @@ vězení sebeklamu své mysli.
 * 5. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:65-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:65-cs
   :END:
 
 
@@ -1332,9 +1327,9 @@ mých křehkých slibů naplnění Boha.
 * 6. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:66-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:66-cs
   :END:
 
 
@@ -1351,9 +1346,9 @@ jít klikatou cestou své mysli.
 * 7. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:67-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:67-cs
   :END:
 
 
@@ -1369,9 +1364,9 @@ svým Tichem Plnosti.
 * 8. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:68-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:68-cs
   :END:
 
 
@@ -1388,9 +1383,9 @@ masku nadřazenosti své mysli.
 * 9. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:69-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:69-cs
   :END:
 
 
@@ -1407,9 +1402,9 @@ pochybnost.
 * 10. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:70-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:70-cs
   :END:
 
 
@@ -1427,9 +1422,9 @@ své mysli.
 * 11. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:71-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:71-cs
   :END:
 
 
@@ -1448,9 +1443,9 @@ celého světa.
 * 12. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:72-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:72-cs
   :END:
 
 
@@ -1468,9 +1463,9 @@ plameny aspirace po Bohu v mém srdci.
 * 13. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:73-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:73-cs
   :END:
 
 
@@ -1487,9 +1482,9 @@ mou knihu se sliby projevení Boha.
 * 14. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:74-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:74-cs
   :END:
 
 
@@ -1509,9 +1504,9 @@ tady, tam a všude okolo.
 * 15. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:75-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:75-cs
   :END:
 
 
@@ -1527,9 +1522,9 @@ aby konečně odešla.
 * 16. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:76-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:76-cs
   :END:
 
 
@@ -1546,9 +1541,9 @@ od mého srdce aspirace.
 * 17. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:77-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:77-cs
   :END:
 
 
@@ -1565,9 +1560,9 @@ Boží Úsměv Soucitu.
 * 18. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:78-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:78-cs
   :END:
 
 
@@ -1583,9 +1578,9 @@ aby chodili sem a tam po cestě mé mysli.
 * 19. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:79-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:79-cs
   :END:
 
 
@@ -1605,9 +1600,9 @@ do bezedné propasti mé hlouposti.
 * 20. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:80-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:80-cs
   :END:
 
 
@@ -1627,9 +1622,9 @@ do bezedné propasti mé hlouposti.
 * 21. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:81-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:81-cs
   :END:
 
 
@@ -1653,9 +1648,9 @@ jen na uspokojení Boha.“
 * 22. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:82-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:82-cs
   :END:
 
 
@@ -1672,9 +1667,9 @@ ani na letmou vteřinu.
 * 23. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:83-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:83-cs
   :END:
 
 
@@ -1692,9 +1687,9 @@ jejími velkolepými dosaženími.
 * 24. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:84-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:84-cs
   :END:
 
 
@@ -1712,9 +1707,9 @@ Jeho Vůli.
 * 25. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:85-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:85-cs
   :END:
 
 
@@ -1733,9 +1728,9 @@ do Království Jeho Srdce.
 * 26. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:86-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:86-cs
   :END:
 
 
@@ -1755,9 +1750,9 @@ svůj Život Zájmu.
 * 27. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:87-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:87-cs
   :END:
 
 
@@ -1776,9 +1771,9 @@ své tělo lenosti.
 * 28. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:88-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:88-cs
   :END:
 
 
@@ -1795,9 +1790,9 @@ k Božímu Srdci Plnosti.
 * 29. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:89-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:89-cs
   :END:
 
 
@@ -1815,9 +1810,9 @@ v nejvzdálenějším koutě světa.
 * 30. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:90-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:90-cs
   :END:
 
 
@@ -1835,9 +1830,9 @@ pro zítřejší Boha naplňující vítězství.
 * 31. března
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:91-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:91-cs
   :END:
 
 
@@ -1855,9 +1850,9 @@ i překvapila Boha.
 * Duben
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TDY:92e4-cs
+  :genre: section
+  :keywords:
+  :cite-key: tdy:92e4-cs
   :END:
 
 
@@ -1869,9 +1864,9 @@ i překvapila Boha.
 * 1. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:92-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:92-cs
   :END:
 
 
@@ -1889,9 +1884,9 @@ je naprosto bezcenné.
 * 2. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:93-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:93-cs
   :END:
 
 
@@ -1910,9 +1905,9 @@ zkrotit mou mysl.
 * 3. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:94-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:94-cs
   :END:
 
 
@@ -1932,9 +1927,9 @@ jak Jej potěšit.
 * 4. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:95-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:95-cs
   :END:
 
 
@@ -1953,9 +1948,9 @@ všechny nerozuzlitelné komplikace mé mysli.
 * 5. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:96-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:96-cs
   :END:
 
 
@@ -1973,9 +1968,9 @@ aby za mnou soucitně přišel.
 * 6. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:97-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:97-cs
   :END:
 
 
@@ -1993,9 +1988,9 @@ Bohem Samotným.
 * 7. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:98-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:98-cs
   :END:
 
 
@@ -2013,9 +2008,9 @@ nepřestanu milovat Boha.
 * 8. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:99-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:99-cs
   :END:
 
 
@@ -2032,9 +2027,9 @@ avšak Jeho Spravedlnost mne osvěcuje.
 * 9. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:100-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:100-cs
   :END:
 
 
@@ -2052,9 +2047,9 @@ do Božího Království.
 * 10. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:101-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:101-cs
   :END:
 
 
@@ -2072,9 +2067,9 @@ a můj život by zůstal úplně bezcenný.
 * 11. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:102-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:102-cs
   :END:
 
 
@@ -2093,9 +2088,9 @@ aby studovala ve škole jednoty mého srdce.
 * 12. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:103-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:103-cs
   :END:
 
 
@@ -2113,9 +2108,9 @@ do stále se prohlubujícího ticha.
 * 13. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:104-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:104-cs
   :END:
 
 
@@ -2132,9 +2127,9 @@ plánovat pro budoucnost.
 * 14. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:105-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:105-cs
   :END:
 
 
@@ -2153,9 +2148,9 @@ a své burácející ego.
 * 15. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:106-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:106-cs
   :END:
 
 
@@ -2172,9 +2167,9 @@ a pak ho osvítím.
 * 16. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:107-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:107-cs
   :END:
 
 
@@ -2192,9 +2187,9 @@ a ne na sebe.
 * 17. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:108-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:108-cs
   :END:
 
 
@@ -2212,9 +2207,9 @@ svého sebou-vytvořeného života nevědomosti.
 * 18. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:109-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:109-cs
   :END:
 
 
@@ -2232,9 +2227,9 @@ tak dramatický.
 * 19. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:110-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:110-cs
   :END:
 
 
@@ -2254,9 +2249,9 @@ a zároveň neustálé.
 * 20. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:111-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:111-cs
   :END:
 
 
@@ -2274,9 +2269,9 @@ své Bohu neochotné mysli.
 * 21. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:112-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:112-cs
   :END:
 
 
@@ -2295,9 +2290,9 @@ vše osvěcující světlo své duše.
 * 22. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:113-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:113-cs
   :END:
 
 
@@ -2317,9 +2312,9 @@ věž přesvědčení o Bohu mého srdce.
 * 23. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:114-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:114-cs
   :END:
 
 
@@ -2337,9 +2332,9 @@ nestoudné suverenity mé mysli.
 * 24. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:115-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:115-cs
   :END:
 
 
@@ -2357,9 +2352,9 @@ už nemůže Bohu vymlouvat.
 * 25. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:116-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:116-cs
   :END:
 
 
@@ -2377,9 +2372,9 @@ a Písním Blaženosti Odpuštění.
 * 26. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:117-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:117-cs
   :END:
 
 
@@ -2400,9 +2395,9 @@ Květ svého Srdce Uspokojení.
 * 27. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:118-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:118-cs
   :END:
 
 
@@ -2421,9 +2416,9 @@ s pohromou výpravy.
 * 28. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:119-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:119-cs
   :END:
 
 
@@ -2440,9 +2435,9 @@ pokušení.
 * 29. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:120-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:120-cs
   :END:
 
 
@@ -2460,9 +2455,9 @@ aby mě osvobodil z jejího vězení.
 * 30. dubna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:121-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:121-cs
   :END:
 
 
@@ -2480,8 +2475,8 @@ a svého srdce dychtivosti.
 * Květen
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: TDY:122e5-cs
+  :genre: section
+  :cite-key: tdy:122e5-cs
   :END:
 
 
@@ -2493,9 +2488,9 @@ a svého srdce dychtivosti.
 * 1. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:122-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:122-cs
   :END:
 
 
@@ -2514,9 +2509,9 @@ Domova Srdce Uspokojení.
 * 2. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:123-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:123-cs
   :END:
 
 
@@ -2535,9 +2530,9 @@ a bezpodmínečnou Blažeností.
 * 3. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:124-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:124-cs
   :END:
 
 
@@ -2555,9 +2550,9 @@ a ne na to, co očekávám od svého života já.
 * 4. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:125-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:125-cs
   :END:
 
 
@@ -2577,9 +2572,9 @@ a nic není nedůležité.
 * 5. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:126-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:126-cs
   :END:
 
 
@@ -2599,9 +2594,9 @@ a dlouhými Pažemi.
 * 6. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:127-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:127-cs
   :END:
 
 
@@ -2618,9 +2613,9 @@ jsem Jeho nanejvýš vybraným nástrojem.
 * 7. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:128-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:128-cs
   :END:
 
 
@@ -2638,9 +2633,9 @@ mohl dát Bohu pokoj.
 * 8. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:129-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:129-cs
   :END:
 
 
@@ -2660,9 +2655,9 @@ Jeho vlastním Způsobem.
 * 9. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:130-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:130-cs
   :END:
 
 
@@ -2681,9 +2676,9 @@ Boha.
 * 10. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:131-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:131-cs
   :END:
 
 
@@ -2701,9 +2696,9 @@ nikdy, nikdy nezklamu Boha.
 * 11. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:132-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:132-cs
   :END:
 
 
@@ -2722,9 +2717,9 @@ svůj hlad po Uspokojení Boha.
 * 12. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:133-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:133-cs
   :END:
 
 
@@ -2742,9 +2737,9 @@ mé zklamání ze světa.
 * 13. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:134-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:134-cs
   :END:
 
 
@@ -2762,9 +2757,9 @@ nemohou už jít dál.
 * 14. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:135-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:135-cs
   :END:
 
 
@@ -2784,9 +2779,9 @@ u Boží Země Uspokojení.
 * 15. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:136-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:136-cs
   :END:
 
 
@@ -2806,9 +2801,9 @@ Bohu.
 * 16. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:137-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:137-cs
   :END:
 
 
@@ -2825,9 +2820,9 @@ a rychle se zmenšující negativitou své mysli.
 * 17. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:138-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:138-cs
   :END:
 
 
@@ -2844,9 +2839,9 @@ svou v pochybnosti si libující mysl.
 * 18. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:139-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:139-cs
   :END:
 
 
@@ -2864,9 +2859,9 @@ neustálým pláčem z hladu po míru.
 * 19. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:140-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:140-cs
   :END:
 
 
@@ -2884,9 +2879,9 @@ Mír.
 * 20. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:141-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:141-cs
   :END:
 
 
@@ -2904,9 +2899,9 @@ na naší schůzku s Bohem.
 * 21. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:142-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:142-cs
   :END:
 
 
@@ -2926,9 +2921,9 @@ nikdy nekončícím pláčem.
 * 22. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:143-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:143-cs
   :END:
 
 
@@ -2946,9 +2941,9 @@ a uplakané srdce.
 * 23. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:144-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:144-cs
   :END:
 
 
@@ -2967,9 +2962,9 @@ celé mé bytosti.
 * 24. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:145-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:145-cs
   :END:
 
 
@@ -2986,9 +2981,9 @@ svým srdcem vděčnosti.
 * 25. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:146-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:146-cs
   :END:
 
 
@@ -3006,9 +3001,9 @@ k mým slibům projevení Boha.
 * 26. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:147-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:147-cs
   :END:
 
 
@@ -3026,9 +3021,9 @@ za žádných okolností.
 * 27. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:148-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:148-cs
   :END:
 
 
@@ -3048,9 +3043,9 @@ v mého Pána Nejvyššího.
 * 28. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:149-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:149-cs
   :END:
 
 
@@ -3067,9 +3062,9 @@ ale svému srdci prostoty.
 * 29. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:150-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:150-cs
   :END:
 
 
@@ -3087,9 +3082,9 @@ nadvládu své mysli.
 * 30. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:151-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:151-cs
   :END:
 
 
@@ -3108,9 +3103,9 @@ klesat a klesat.
 * 31. května
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:152-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:152-cs
   :END:
 
 
@@ -3127,8 +3122,8 @@ aby se odvážila přiblížit k mému srdci.
 * Červen
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: TDY:153e6-cs
+  :genre: section
+  :cite-key: tdy:153e6-cs
   :END:
 
 
@@ -3140,9 +3135,9 @@ aby se odvážila přiblížit k mému srdci.
 * 1. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:153-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:153-cs
   :END:
 
 
@@ -3162,9 +3157,9 @@ Jej budou doprovázet.
 * 2. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:154-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:154-cs
   :END:
 
 
@@ -3182,9 +3177,9 @@ na píseň mého sebe-rozšíření.
 * 3. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:155-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:155-cs
   :END:
 
 
@@ -3203,9 +3198,9 @@ k mému Pánu Nejvyššímu.
 * 4. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:156-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:156-cs
   :END:
 
 
@@ -3224,9 +3219,9 @@ s mým srdcem, vitálnem a tělem.
 * 5. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:157-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:157-cs
   :END:
 
 
@@ -3243,9 +3238,9 @@ budeme spolu ustavičně hrát a zpívat .
 * 6. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:158-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:158-cs
   :END:
 
 
@@ -3262,9 +3257,9 @@ na dělání nemožného.
 * 7. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:159-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:159-cs
   :END:
 
 
@@ -3282,9 +3277,9 @@ na dva vzájemně se na sebe spoléhající přátele.
 * 8. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:160-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:160-cs
   :END:
 
 
@@ -3302,9 +3297,9 @@ a Vizi Blaženosti Za.
 * 9. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:161-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:161-cs
   :END:
 
 
@@ -3322,9 +3317,9 @@ v úrodné půdě víry.
 * 10. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:162-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:162-cs
   :END:
 
 
@@ -3342,9 +3337,9 @@ do svého vše objímajícího srdce.
 * 11. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:163-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:163-cs
   :END:
 
 
@@ -3362,9 +3357,9 @@ a kvetoucími skutečnostmi.
 * 12. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:164-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:164-cs
   :END:
 
 
@@ -3381,9 +3376,9 @@ na všechny modlitby mého aspirujícího srdce.
 * 13. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:165-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:165-cs
   :END:
 
 
@@ -3402,9 +3397,9 @@ mé mysli.
 * 14. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:166-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:166-cs
   :END:
 
 
@@ -3423,9 +3418,9 @@ za své zcela vlastní.
 * 15. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:167-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:167-cs
   :END:
 
 
@@ -3445,9 +3440,9 @@ nasytit mé oči, mé srdce a mé všechno.
 * 16. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:168-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:168-cs
   :END:
 
 
@@ -3465,9 +3460,9 @@ na zemi.
 * 17. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:169-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:169-cs
   :END:
 
 
@@ -3487,9 +3482,9 @@ okamžitě odpovídat na dopisy mého srdce.
 * 18. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:170-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:170-cs
   :END:
 
 
@@ -3505,9 +3500,9 @@ z rozporů své spoutané mysli.
 * 19. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:171-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:171-cs
   :END:
 
 
@@ -3525,9 +3520,9 @@ na Boží Vrchol plného Uspokojení.
 * 20. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:172-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:172-cs
   :END:
 
 
@@ -3546,9 +3541,9 @@ určitě uspěje.
 * 21. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:173-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:173-cs
   :END:
 
 
@@ -3565,9 +3560,9 @@ Božími Úsměvy Zájmu a Soucitu.
 * 22. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:174-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:174-cs
   :END:
 
 
@@ -3585,9 +3580,9 @@ nepřítele-pochybnost mé mysli.
 * 23. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:175-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:175-cs
   :END:
 
 
@@ -3605,9 +3600,9 @@ mír božskosti z vnitřního světa
 * 24. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:176-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:176-cs
   :END:
 
 
@@ -3626,9 +3621,9 @@ teritorium spoutání pochybnosti.
 * 25. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:177-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:177-cs
   :END:
 
 
@@ -3647,9 +3642,9 @@ pro obyvatele světa.
 * 26. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:178-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:178-cs
   :END:
 
 
@@ -3668,9 +3663,9 @@ své Božskosti.
 * 27. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:179-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:179-cs
   :END:
 
 
@@ -3687,9 +3682,9 @@ aby byl můj kapitán-duše na mne hrdý.
 * 28. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:180-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:180-cs
   :END:
 
 
@@ -3707,9 +3702,9 @@ Jeho Oko Soucitu však nikoli.
 * 29. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:181-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:181-cs
   :END:
 
 
@@ -3727,9 +3722,9 @@ vůni mého srdce vděčnosti.
 * 30. června
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:182-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:182-cs
   :END:
 
 
@@ -3748,8 +3743,8 @@ a mluvkům o Bohu.
 * Červenec
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: TDY:183e7-cs
+  :genre: section
+  :cite-key: tdy:183e7-cs
   :END:
 
 
@@ -3761,9 +3756,9 @@ a mluvkům o Bohu.
 * 1. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:183-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:183-cs
   :END:
 
 
@@ -3783,9 +3778,9 @@ uvnitř stoupajících nářků mého srdce.
 * 2. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:184-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:184-cs
   :END:
 
 
@@ -3805,9 +3800,9 @@ v oceánu Světla a Blaha.
 * 3. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:185-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:185-cs
   :END:
 
 
@@ -3826,9 +3821,9 @@ a Boha naplňující srdce.
 * 4. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:186-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:186-cs
   :END:
 
 
@@ -3847,9 +3842,9 @@ po záplavě osvícení a přeměny života.
 * 5. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:187-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:187-cs
   :END:
 
 
@@ -3869,9 +3864,9 @@ své mysli.
 * 6. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:188-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:188-cs
   :END:
 
 
@@ -3888,9 +3883,9 @@ toho nejroztomilejšího osobního Boha.
 * 7. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:189-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:189-cs
   :END:
 
 
@@ -3906,9 +3901,9 @@ své mysli a jejím nezodpověditelným otázkám.
 * 8. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:190-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:190-cs
   :END:
 
 
@@ -3925,9 +3920,9 @@ a spokojeným životem.
 * 9. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:191-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:191-cs
   :END:
 
 
@@ -3946,9 +3941,9 @@ na jeho katastrofální expedici.
 * 10. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:192-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:192-cs
   :END:
 
 
@@ -3966,9 +3961,9 @@ mne přišel zpravit o tom,
 * 11. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:193-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:193-cs
   :END:
 
 
@@ -3984,9 +3979,9 @@ Boží Sny o Slibu Míru.
 * 12. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:194-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:194-cs
   :END:
 
 
@@ -4003,9 +3998,9 @@ a překonat je.
 * 13. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:195-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:195-cs
   :END:
 
 
@@ -4024,9 +4019,9 @@ abych pokračoval ve spaní.
 * 14. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:196-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:196-cs
   :END:
 
 
@@ -4045,9 +4040,9 @@ ve vězení tužeb své mysli.
 * 15. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:197-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:197-cs
   :END:
 
 
@@ -4063,9 +4058,9 @@ aby zatemnilo oči mé mysli.
 * 16. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:198-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:198-cs
   :END:
 
 
@@ -4081,9 +4076,9 @@ se těší ze vzájemné líbezné společnosti.
 * 17. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:199-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:199-cs
   :END:
 
 
@@ -4100,9 +4095,9 @@ nikdy nepřeceňovat své schopnosti.
 * 18. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:200-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:200-cs
   :END:
 
 
@@ -4119,9 +4114,9 @@ v lidském úsměvu mého života.
 * 19. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:201-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:201-cs
   :END:
 
 
@@ -4139,9 +4134,9 @@ Jeho vlastním Způsobem.
 * 20. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:202-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:202-cs
   :END:
 
 
@@ -4158,9 +4153,9 @@ aby uhasilo svou odvěkou žízeň po Bohu.
 * 21. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:203-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:203-cs
   :END:
 
 
@@ -4178,9 +4173,9 @@ Mírem.
 * 22. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:204-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:204-cs
   :END:
 
 
@@ -4197,9 +4192,9 @@ neboť jsem na tom duchovně dobře.
 * 23. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:205-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:205-cs
   :END:
 
 
@@ -4217,9 +4212,9 @@ Boží Vůli.
 * 24. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:206-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:206-cs
   :END:
 
 
@@ -4236,9 +4231,9 @@ mi může dát opravdovou radost.
 * 25. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:207-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:207-cs
   :END:
 
 
@@ -4255,9 +4250,9 @@ a začne nést plody realizace.
 * 26. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:208-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:208-cs
   :END:
 
 
@@ -4276,9 +4271,9 @@ Vítězství Boha na zemi.
 * 27. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:209-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:209-cs
   :END:
 
 
@@ -4296,9 +4291,9 @@ na své užitečné srdce.
 * 28. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:210-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:210-cs
   :END:
 
 
@@ -4316,9 +4311,9 @@ zda mne může či nemůže navštívit.
 * 29. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:211-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:211-cs
   :END:
 
 
@@ -4336,9 +4331,9 @@ a sebe-popírajícím životě.
 * 30. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:212-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:212-cs
   :END:
 
 
@@ -4355,9 +4350,9 @@ než si vůbec dokážu představit.
 * 31. července
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:213-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:213-cs
   :END:
 
 
@@ -4376,8 +4371,8 @@ mé mysli.
 * Srpen
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: TDY:214e8-cs
+  :genre: section
+  :cite-key: tdy:214e8-cs
   :END:
 
 
@@ -4389,9 +4384,9 @@ mé mysli.
 * 1. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:214-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:214-cs
   :END:
 
 
@@ -4407,9 +4402,9 @@ jen proto, abych zahlédl Boha.
 * 2. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:215-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:215-cs
   :END:
 
 
@@ -4427,9 +4422,9 @@ v rodině jednotného světa,
 * 3. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:216-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:216-cs
   :END:
 
 
@@ -4447,9 +4442,9 @@ abych Bohu udělal opravdovou radost.
 * 4. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:217-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:217-cs
   :END:
 
 
@@ -4468,9 +4463,9 @@ svému kapitánovi – aspiraci.
 * 5. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:218-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:218-cs
   :END:
 
 
@@ -4487,9 +4482,9 @@ potýkat se svou myslí.
 * 6. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:219-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:219-cs
   :END:
 
 
@@ -4505,9 +4500,9 @@ dokonce i v nejtemnější propasti své mysli.
 * 7. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:220-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:220-cs
   :END:
 
 
@@ -4523,9 +4518,9 @@ zdržovat mou dychtivost pro naplnění Boha.
 * 8. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:221-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:221-cs
   :END:
 
 
@@ -4543,9 +4538,9 @@ můj slib projevení Boha.
 * 9. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:222-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:222-cs
   :END:
 
 
@@ -4562,9 +4557,9 @@ zahrady mého srdce vděčnosti.
 * 10. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:223-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:223-cs
   :END:
 
 
@@ -4581,9 +4576,9 @@ kteří mi ukáží Bohem se usmívající tvář.
 * 11. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:224-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:224-cs
   :END:
 
 
@@ -4600,9 +4595,9 @@ v nevyplakaných slzách svého srdce.
 * 12. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:225-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:225-cs
   :END:
 
 
@@ -4619,9 +4614,9 @@ na moře míru.
 * 13. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:226-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:226-cs
   :END:
 
 
@@ -4639,9 +4634,9 @@ proudu vděčnosti.
 * 14. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:227-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:227-cs
   :END:
 
 
@@ -4659,9 +4654,9 @@ do svého minulého života selhání.
 * 15. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:228-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:228-cs
   :END:
 
 
@@ -4679,9 +4674,9 @@ místo toho soukromým učitelem mého srdce.
 * 16. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:229-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:229-cs
   :END:
 
 
@@ -4699,9 +4694,9 @@ srdcem.
 * 17. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:230-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:230-cs
   :END:
 
 
@@ -4719,9 +4714,9 @@ nesmrtelný úsměv vděčnosti mého srdce.
 * 18. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:231-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:231-cs
   :END:
 
 
@@ -4738,9 +4733,9 @@ tou největší rychlostí ochoty mého srdce.
 * 19. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:232-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:232-cs
   :END:
 
 
@@ -4757,9 +4752,9 @@ svému Milovanému Nejvyššímu.
 * 20. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:233-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:233-cs
   :END:
 
 
@@ -4776,9 +4771,9 @@ mé duše.
 * 21. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:234-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:234-cs
   :END:
 
 
@@ -4794,9 +4789,9 @@ tluče uvnitř mého života aspirace.
 * 22. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:235-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:235-cs
   :END:
 
 
@@ -4813,9 +4808,9 @@ hrozně zpomalila.
 * 23. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:236-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:236-cs
   :END:
 
 
@@ -4831,9 +4826,9 @@ aby byla naprosto neschopná špatnosti.
 * 24. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:237-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:237-cs
   :END:
 
 
@@ -4851,9 +4846,9 @@ vysoko, výše, nejvýše.
 * 25. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:238-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:238-cs
   :END:
 
 
@@ -4870,9 +4865,9 @@ knihu kritiky světa mé mysli.
 * 26. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:239-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:239-cs
   :END:
 
 
@@ -4888,9 +4883,9 @@ zahnal mlhu deprese mého srdce.
 * 27. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:240-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:240-cs
   :END:
 
 
@@ -4907,9 +4902,9 @@ je slibem projevení Boha.
 * 28. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:241-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:241-cs
   :END:
 
 
@@ -4926,9 +4921,9 @@ aby ukončila převahu mé mysli neochoty.
 * 29. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:242-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:242-cs
   :END:
 
 
@@ -4945,9 +4940,9 @@ nebude schopna navštívit.
 * 30. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:243-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:243-cs
   :END:
 
 
@@ -4963,9 +4958,9 @@ na hrobě mých minulých selhání.
 * 31. srpna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:244-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:244-cs
   :END:
 
 
@@ -4983,8 +4978,8 @@ Boží Oko Soucitu.
 * Září
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: TDY:245e9-cs
+  :genre: section
+  :cite-key: tdy:245e9-cs
   :END:
 
 
@@ -4996,9 +4991,9 @@ Boží Oko Soucitu.
 * 1. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:245-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:245-cs
   :END:
 
 
@@ -5016,9 +5011,9 @@ aby neúnavně motivovalo můj život.
 * 2. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:246-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:246-cs
   :END:
 
 
@@ -5036,9 +5031,9 @@ nemoc shovívavosti k pochybnosti o sobě samém.
 * 3. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:247-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:247-cs
   :END:
 
 
@@ -5055,9 +5050,9 @@ v dostatečné vzdálenosti.
 * 4. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:248-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:248-cs
   :END:
 
 
@@ -5074,9 +5069,9 @@ abych vypěstoval rostliny realizace.
 * 5. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:249-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:249-cs
   :END:
 
 
@@ -5093,9 +5088,9 @@ citovat jen Boha.
 * 6. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:250-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:250-cs
   :END:
 
 
@@ -5113,9 +5108,9 @@ na plné projevení Boha na zemi.
 * 7. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:251-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:251-cs
   :END:
 
 
@@ -5132,9 +5127,9 @@ Božím Dechem ze Zahrady Ráje.
 * 8. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:252-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:252-cs
   :END:
 
 
@@ -5153,9 +5148,9 @@ tak v mém vnějším životě zasvěcení.
 * 9. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:253-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:253-cs
   :END:
 
 
@@ -5174,9 +5169,9 @@ všech nesmrtelných hledajících.
 * 10. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:254-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:254-cs
   :END:
 
 
@@ -5195,9 +5190,9 @@ zajisté budou dříve či později Jeho.
 * 11. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:255-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:255-cs
   :END:
 
 
@@ -5216,9 +5211,9 @@ na Jeho Srdce Odpuštění.
 * 12. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:256-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:256-cs
   :END:
 
 
@@ -5237,9 +5232,9 @@ v mém srdci.
 * 13. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:257-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:257-cs
   :END:
 
 
@@ -5256,9 +5251,9 @@ abych nikdy neprotiřečil
 * 14. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:258-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:258-cs
   :END:
 
 
@@ -5275,9 +5270,9 @@ daleko, daleko za meze mé představivosti.
 * 15. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:259-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:259-cs
   :END:
 
 
@@ -5296,9 +5291,9 @@ než bezcennou zbytečností.
 * 16. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:260-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:260-cs
   :END:
 
 
@@ -5316,9 +5311,9 @@ mého Pána Nejvyššího.
 * 17. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:261-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:261-cs
   :END:
 
 
@@ -5335,9 +5330,9 @@ mé duše.
 * 18. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:262-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:262-cs
   :END:
 
 
@@ -5355,9 +5350,9 @@ odvrhnout.
 * 19. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:263-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:263-cs
   :END:
 
 
@@ -5376,9 +5371,9 @@ nemůže zůstat neřešitelný.
 * 20. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:264-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:264-cs
   :END:
 
 
@@ -5395,9 +5390,9 @@ a nejmocněji odzbrojilo mou mysl.
 * 21. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:265-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:265-cs
   :END:
 
 
@@ -5415,9 +5410,9 @@ s ujištěním o naplnění Boha.
 * 22. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:266-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:266-cs
   :END:
 
 
@@ -5436,9 +5431,9 @@ a netěšení Boha své mysli.
 * 23. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:267-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:267-cs
   :END:
 
 
@@ -5456,9 +5451,9 @@ a ne báchorky mé mysli.
 * 24. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:268-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:268-cs
   :END:
 
 
@@ -5476,9 +5471,9 @@ upřímnost své mysli.
 * 25. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:269-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:269-cs
   :END:
 
 
@@ -5495,9 +5490,9 @@ Nekonečností Božskosti.
 * 26. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:270-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:270-cs
   :END:
 
 
@@ -5515,9 +5510,9 @@ a nečistot mé mysli.
 * 27. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:271-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:271-cs
   :END:
 
 
@@ -5534,9 +5529,9 @@ letět letadlem aspirace.
 * 28. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:272-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:272-cs
   :END:
 
 
@@ -5553,9 +5548,9 @@ se jevilo odsouzené k záhubě.
 * 29. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:273-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:273-cs
   :END:
 
 
@@ -5571,9 +5566,9 @@ Boží Soucit ze všech stran.
 * 30. září
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:274-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:274-cs
   :END:
 
 
@@ -5589,9 +5584,9 @@ Pravdu ve všech stranách.
 * Říjen
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TDY:275e10-cs
+  :genre: section
+  :keywords:
+  :cite-key: tdy:275e10-cs
   :END:
 
 
@@ -5603,9 +5598,9 @@ Pravdu ve všech stranách.
 * 1. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:275-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:275-cs
   :END:
 
 
@@ -5626,9 +5621,9 @@ každé lidské bytosti.
 * 2. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:276-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:276-cs
   :END:
 
 
@@ -5646,9 +5641,9 @@ se skutečnostmi světa.
 * 3. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:277-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:277-cs
   :END:
 
 
@@ -5665,9 +5660,9 @@ v každičké lidské bytosti.
 * 4. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:278-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:278-cs
   :END:
 
 
@@ -5684,9 +5679,9 @@ nýbrž se jej budu neúnavně snažit zlepšovat.
 * 5. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:279-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:279-cs
   :END:
 
 
@@ -5704,9 +5699,9 @@ z mé mysli.
 * 6. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:280-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:280-cs
   :END:
 
 
@@ -5722,9 +5717,9 @@ nekončící schopností sebenabízení.
 * 7. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:281-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:281-cs
   :END:
 
 
@@ -5740,9 +5735,9 @@ bezpodmínečného Odpuštění svého Srdce.
 * 8. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:282-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:282-cs
   :END:
 
 
@@ -5761,9 +5756,9 @@ svůj slib projevení Boha.
 * 9. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:283-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:283-cs
   :END:
 
 
@@ -5781,9 +5776,9 @@ a porazí ji.
 * 10. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:284-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:284-cs
   :END:
 
 
@@ -5800,9 +5795,9 @@ aby přivítaly Boha.
 * 11. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:285-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:285-cs
   :END:
 
 
@@ -5819,9 +5814,9 @@ budu brát jako nesmyslnou noční můru.
 * 12. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:286-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:286-cs
   :END:
 
 
@@ -5838,9 +5833,9 @@ jako stoupající plameny aspirace mého srdce.
 * 13. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:287-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:287-cs
   :END:
 
 
@@ -5860,9 +5855,9 @@ na bitevním poli života.
 * 14. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:288-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:288-cs
   :END:
 
 
@@ -5881,9 +5876,9 @@ ani za tisíc let.
 * 15. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:289-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:289-cs
   :END:
 
 
@@ -5901,9 +5896,9 @@ Jej milovat a uspokojit.
 * 16. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:290-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:290-cs
   :END:
 
 
@@ -5920,9 +5915,9 @@ do Boží transcendentální Mírové Konference.
 * 17. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:291-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:291-cs
   :END:
 
 
@@ -5940,9 +5935,9 @@ a zjednodušuje život.
 * 18. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:292-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:292-cs
   :END:
 
 
@@ -5960,9 +5955,9 @@ do naprosté zbytečnosti.
 * 19. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:293-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:293-cs
   :END:
 
 
@@ -5979,9 +5974,9 @@ nejzářivější a nejmilejší.
 * 20. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:294-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:294-cs
   :END:
 
 
@@ -5999,9 +5994,9 @@ hrál v mém srdci.
 * 21. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:295-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:295-cs
   :END:
 
 
@@ -6018,9 +6013,9 @@ Odpuštění Boha.
 * 22. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:296-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:296-cs
   :END:
 
 
@@ -6037,9 +6032,9 @@ sešitu mé mysli.
 * 23. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:297-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:297-cs
   :END:
 
 
@@ -6055,9 +6050,9 @@ nekonečně zvětšily mou potřebu Boha.
 * 24. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:298-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:298-cs
   :END:
 
 
@@ -6076,9 +6071,9 @@ nekonečně více.
 * 25. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:299-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:299-cs
   :END:
 
 
@@ -6095,9 +6090,9 @@ ve světě bez obav a úzkosti.
 * 26. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:300-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:300-cs
   :END:
 
 
@@ -6113,9 +6108,9 @@ mých nenaplněných a nepovedených snů.
 * 27. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:301-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:301-cs
   :END:
 
 
@@ -6132,9 +6127,9 @@ jejího klubu snu o Bohu.
 * 28. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:302-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:302-cs
   :END:
 
 
@@ -6150,9 +6145,9 @@ klíčícími semínky sebejistoty.
 * 29. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:303-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:303-cs
   :END:
 
 
@@ -6169,9 +6164,9 @@ ve škole uspokojení Boha.
 * 30. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:304-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:304-cs
   :END:
 
 
@@ -6188,9 +6183,9 @@ a volbou odevzdání svého života.
 * 31. října
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:305-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:305-cs
   :END:
 
 
@@ -6207,9 +6202,9 @@ a nebudu se s nimi jen prát.
 * Listopad
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TDY:306e11-cs
+  :genre: section
+  :keywords:
+  :cite-key: tdy:306e11-cs
   :END:
 
 
@@ -6221,9 +6216,9 @@ a nebudu se s nimi jen prát.
 * 1. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:306-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:306-cs
   :END:
 
 
@@ -6241,9 +6236,9 @@ bouřlivě tleská.
 * 2. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:307-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:307-cs
   :END:
 
 
@@ -6261,9 +6256,9 @@ a pochybnosti, aby rozežírala mou mysl.
 * 3. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:308-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:308-cs
   :END:
 
 
@@ -6281,9 +6276,9 @@ naplní celý můj život.
 * 4. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:309-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:309-cs
   :END:
 
 
@@ -6301,9 +6296,9 @@ je stoprocentně nevyvratitelný.
 * 5. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:310-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:310-cs
   :END:
 
 
@@ -6320,9 +6315,9 @@ než si vůbec dokážu uvědomit.
 * 6. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:311-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:311-cs
   :END:
 
 
@@ -6339,9 +6334,9 @@ sen o aspiraci a realizaci Boha.
 * 7. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:312-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:312-cs
   :END:
 
 
@@ -6358,9 +6353,9 @@ každého mého nádechu a výdechu.
 * 8. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:313-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:313-cs
   :END:
 
 
@@ -6377,9 +6372,9 @@ svého po Bohu hladovějícího srdce.
 * 9. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:314-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:314-cs
   :END:
 
 
@@ -6399,9 +6394,9 @@ nejvyššího Cíle.“
 * 10. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:315-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:315-cs
   :END:
 
 
@@ -6420,9 +6415,9 @@ je vůně květiny.
 * 11. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:316-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:316-cs
   :END:
 
 
@@ -6440,9 +6435,9 @@ a svého vitálna frustrace.
 * 12. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:317-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:317-cs
   :END:
 
 
@@ -6459,9 +6454,9 @@ jako nejistota lidstva.
 * 13. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:318-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:318-cs
   :END:
 
 
@@ -6478,9 +6473,9 @@ křehkých srdcí hledajících.
 * 14. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:319-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:319-cs
   :END:
 
 
@@ -6498,9 +6493,9 @@ a chudobu zasvěcení svého života.
 * 15. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:320-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:320-cs
   :END:
 
 
@@ -6517,9 +6512,9 @@ vzácný poplatek pro přeplutí přes oceán nevědomosti.
 * 16. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:321-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:321-cs
   :END:
 
 
@@ -6535,9 +6530,9 @@ a ne smutným příběhem své mysli.
 * 17. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:322-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:322-cs
   :END:
 
 
@@ -6553,9 +6548,9 @@ prachu pochybnosti, aby zastínil mou mysl.
 * 18. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:323-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:323-cs
   :END:
 
 
@@ -6571,9 +6566,9 @@ dávno zapomenutých snů o Bohu.
 * 19. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:324-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:324-cs
   :END:
 
 
@@ -6590,9 +6585,9 @@ z vězení tužeb mé mysli.
 * 20. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:325-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:325-cs
   :END:
 
 
@@ -6610,9 +6605,9 @@ do přírody plné svobody naší duše.
 * 21. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:326-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:326-cs
   :END:
 
 
@@ -6634,9 +6629,9 @@ jen se usmíval.
 * 22. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:327-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:327-cs
   :END:
 
 
@@ -6653,9 +6648,9 @@ slzami mého srdce.
 * 23. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:328-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:328-cs
   :END:
 
 
@@ -6674,9 +6669,9 @@ abych byl zarytým obráncem pravdy.
 * 24. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:329-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:329-cs
   :END:
 
 
@@ -6693,9 +6688,9 @@ z cikcak jedoucího vlaku mysli.
 * 25. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:330-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:330-cs
   :END:
 
 
@@ -6712,9 +6707,9 @@ nýbrž okamžité vítězství Boha v mém životě.
 * 26. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:331-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:331-cs
   :END:
 
 
@@ -6732,9 +6727,9 @@ ale odevzdáním uspokojujícím Boha.
 * 27. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:332-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:332-cs
   :END:
 
 
@@ -6752,9 +6747,9 @@ a naplnění Boha.
 * 28. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:333-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:333-cs
   :END:
 
 
@@ -6771,9 +6766,9 @@ a břehem slibu své duše.
 * 29. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:334-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:334-cs
   :END:
 
 
@@ -6790,9 +6785,9 @@ Oka Soucitu mého Pána.
 * 30. listopadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:335-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:335-cs
   :END:
 
 
@@ -6810,9 +6805,9 @@ své pochybující mysli.
 * Prosinec
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TDY:336e12-cs
+  :genre: section
+  :keywords:
+  :cite-key: tdy:336e12-cs
   :END:
 
 
@@ -6824,9 +6819,9 @@ své pochybující mysli.
 * 1. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:336-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:336-cs
   :END:
 
 
@@ -6848,9 +6843,9 @@ mé frustrované mysli.
 * 2. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:337-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:337-cs
   :END:
 
 
@@ -6868,9 +6863,9 @@ jako svého vlastního, zcela vlastního.
 * 3. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:338-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:338-cs
   :END:
 
 
@@ -6888,9 +6883,9 @@ své neaspirující myšlenky.
 * 4. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:339-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:339-cs
   :END:
 
 
@@ -6909,9 +6904,9 @@ Pána Nejvyššího.
 * 5. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:340-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:340-cs
   :END:
 
 
@@ -6931,9 +6926,9 @@ krásně a mocně.
 * 6. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:341-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:341-cs
   :END:
 
 
@@ -6955,9 +6950,9 @@ A můj život je požehnán novým přítelem:
 * 7. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:342-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:342-cs
   :END:
 
 
@@ -6975,9 +6970,9 @@ slibu.
 * 8. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:343-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:343-cs
   :END:
 
 
@@ -6994,9 +6989,9 @@ a já pláču pro Boží okamžitou Přítomnost.
 * 9. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:344-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:344-cs
   :END:
 
 
@@ -7013,9 +7008,9 @@ svou soucitnou Přítomností.
 * 10. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:345-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:345-cs
   :END:
 
 
@@ -7033,9 +7028,9 @@ svým bezpodmínečným sebenabízením.
 * 11. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:346-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:346-cs
   :END:
 
 
@@ -7052,9 +7047,9 @@ po Božím Nektarovém Úsměvu.
 * 12. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:347-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:347-cs
   :END:
 
 
@@ -7072,9 +7067,9 @@ upřímně usměje.
 * 13. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:348-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:348-cs
   :END:
 
 
@@ -7093,9 +7088,9 @@ ani o píď.
 * 14. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:349-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:349-cs
   :END:
 
 
@@ -7114,9 +7109,9 @@ nebo frustraci ze světa své mysli.
 * 15. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:350-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:350-cs
   :END:
 
 
@@ -7134,9 +7129,9 @@ Ale mému srdci řekl:
 * 16. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:351-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:351-cs
   :END:
 
 
@@ -7154,9 +7149,9 @@ a beránčím srdcem.
 * 17. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:352-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:352-cs
   :END:
 
 
@@ -7174,9 +7169,9 @@ ale také pro mne bude hrdě konat.
 * 18. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:353-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:353-cs
   :END:
 
 
@@ -7194,9 +7189,9 @@ na mou opičí-klaunovskou hlavu.
 * 19. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:354-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:354-cs
   :END:
 
 
@@ -7214,9 +7209,9 @@ svou Božskost Uspokojení.
 * 20. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:355-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:355-cs
   :END:
 
 
@@ -7232,9 +7227,9 @@ abych nalezl Boha Snílka.
 * 21. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:356-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:356-cs
   :END:
 
 
@@ -7250,9 +7245,9 @@ abych nalezl Boha Milovníka.
 * 22. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:357-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:357-cs
   :END:
 
 
@@ -7270,9 +7265,9 @@ je tím, kdo bezvýhradně dává.
 * 23. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:358-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:358-cs
   :END:
 
 
@@ -7289,9 +7284,9 @@ Jeho vlastní zvolenou rychlostí.
 * 24. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:359-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:359-cs
   :END:
 
 
@@ -7308,9 +7303,9 @@ na slunce mé duše jednoty.
 * 25. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:360-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:360-cs
   :END:
 
 
@@ -7327,9 +7322,9 @@ neuhasitelnou Žízní Věčnosti.
 * 26. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:361-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:361-cs
   :END:
 
 
@@ -7346,9 +7341,9 @@ ale také mi ji daroval na hraní.
 * 27. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:362-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:362-cs
   :END:
 
 
@@ -7366,9 +7361,9 @@ Míru.
 * 28. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:363-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:363-cs
   :END:
 
 
@@ -7385,9 +7380,9 @@ z jeho života ve vězení.
 * 29. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:364-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:364-cs
   :END:
 
 
@@ -7409,9 +7404,9 @@ na oplátku.“
 * 30. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:365-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:365-cs
   :END:
 
 
@@ -7430,9 +7425,9 @@ do Mého vlastního nejvyššího Nebe.“
 * 31. prosince
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TDY:366-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tdy:366-cs
   :END:
 
 
@@ -7449,12 +7444,3 @@ jelikož nejsem nikdy unaven,
 pokračuji v Tanci svého Života Nekonečnosti.“
 
 #+END_VERSE
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

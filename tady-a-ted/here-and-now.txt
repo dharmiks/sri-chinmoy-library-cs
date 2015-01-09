@@ -1,20 +1,15 @@
-#+TITLE: Tady a teď
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Tady a teď
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: HN-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2007
+  :publisher: Madal Bal
+  :cite-key: HN-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Poznámka editora
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HN:1e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: hn:1e1-cs
   :END:
 
 
@@ -40,9 +35,9 @@ Ottawa, Kanada
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:1-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:1-cs
   :END:
 
 
@@ -60,9 +55,9 @@ nejsou ani nevysvětlitelné,
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:2-cs
   :END:
 
 
@@ -80,9 +75,9 @@ jako květinu nebo dítě.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:3-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:3-cs
   :END:
 
 
@@ -101,9 +96,9 @@ ale Jeho Pokladnicí.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:4-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:4-cs
   :END:
 
 
@@ -121,9 +116,9 @@ ponořil do oceánu blaženosti.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:5-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:5-cs
   :END:
 
 
@@ -142,9 +137,9 @@ v každém okamžiku
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:6-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:6-cs
   :END:
 
 
@@ -161,9 +156,9 @@ TADY a TEĎ.“
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:7-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:7-cs
   :END:
 
 
@@ -181,9 +176,9 @@ neohlášený a bez doprovodu.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:8-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:8-cs
   :END:
 
 
@@ -203,9 +198,9 @@ dnešního světa.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:9-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:9-cs
   :END:
 
 
@@ -224,9 +219,9 @@ a vnějším životem zasvěcení.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:10-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:10-cs
   :END:
 
 
@@ -243,9 +238,9 @@ to musí být zákon
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:11-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:11-cs
   :END:
 
 
@@ -265,9 +260,9 @@ jen abych našel své Univerzální Já.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:12-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:12-cs
   :END:
 
 
@@ -286,9 +281,9 @@ a mým jediným osvícením.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:13-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:13-cs
   :END:
 
 
@@ -309,9 +304,9 @@ Proto nesmím být žádostivý.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:14-cs
   :END:
 
 
@@ -329,9 +324,9 @@ a uspokojení Boha
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:15-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:15-cs
   :END:
 
 
@@ -349,9 +344,9 @@ aby se staly začátkem blaženého svítání
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:16-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:16-cs
   :END:
 
 
@@ -369,9 +364,9 @@ a neochvějnou koncentrací.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:17-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:17-cs
   :END:
 
 
@@ -392,9 +387,9 @@ duchovního přežití.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:18-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:18-cs
   :END:
 
 
@@ -417,9 +412,9 @@ a má neoblomná síla vůle
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:19-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:19-cs
   :END:
 
 
@@ -440,9 +435,9 @@ Projevení Božího Světla a Blaženosti
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:20-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:20-cs
   :END:
 
 
@@ -461,9 +456,9 @@ Nadšení a Povzbuzení.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HN:21e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: hn:21e1-cs
   :END:
 
 
@@ -477,9 +472,9 @@ USA
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:21-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:21-cs
   :END:
 
 
@@ -498,9 +493,9 @@ je tou nejnenahraditelnější částí
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:22-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:22-cs
   :END:
 
 
@@ -519,9 +514,9 @@ selháním mého aspirujícího srdce.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:23-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:23-cs
   :END:
 
 
@@ -538,9 +533,9 @@ dech světa.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:24-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:24-cs
   :END:
 
 
@@ -557,9 +552,9 @@ srdce světa.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:25-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:25-cs
   :END:
 
 
@@ -576,9 +571,9 @@ se můj život musí naučit,
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:26-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:26-cs
   :END:
 
 
@@ -597,9 +592,9 @@ To je to, co jsem se naučil
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:27-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:27-cs
   :END:
 
 
@@ -616,9 +611,9 @@ už žádné otroctví tužbám.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:28-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:28-cs
   :END:
 
 
@@ -635,9 +630,9 @@ a svým připoutáním k Bohu.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:29-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:29-cs
   :END:
 
 
@@ -655,9 +650,9 @@ TADY a TEĎ.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:30-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:30-cs
   :END:
 
 
@@ -677,9 +672,9 @@ hned ode dneška,
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:31-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:31-cs
   :END:
 
 
@@ -698,9 +693,9 @@ zlatého Prachu Tvých Nohou.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:32-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:32-cs
   :END:
 
 
@@ -718,9 +713,9 @@ z Nejzazšího Za.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:33-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:33-cs
   :END:
 
 
@@ -740,9 +735,9 @@ s Jeho věčnými Úsměvy.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:34-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:34-cs
   :END:
 
 
@@ -762,9 +757,9 @@ nemáme oddělené bytí.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:35-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:35-cs
   :END:
 
 
@@ -786,9 +781,9 @@ Mé dosud nejsou.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HN:36e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: hn:36e1-cs
   :END:
 
 
@@ -802,9 +797,9 @@ USA
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:36-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:36-cs
   :END:
 
 
@@ -821,9 +816,9 @@ k Božím Nektarem zaplaveným Nohám
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:37-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:37-cs
   :END:
 
 
@@ -842,9 +837,9 @@ vyzývající příležitosti --
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:38-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:38-cs
   :END:
 
 
@@ -861,9 +856,9 @@ od ničivého dechu
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:39-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:39-cs
   :END:
 
 
@@ -881,9 +876,9 @@ a nikdy nestárne.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:40-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:40-cs
   :END:
 
 
@@ -902,9 +897,9 @@ Jeho vlastním Způsobem.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:41-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:41-cs
   :END:
 
 
@@ -921,9 +916,9 @@ mého Pána Milovaného Nejvyššího.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:42-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:42-cs
   :END:
 
 
@@ -942,9 +937,9 @@ i Boha stvoření-projevení.
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:43-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:43-cs
   :END:
 
 
@@ -961,9 +956,9 @@ jaké jsou skutečné
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:44-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:44-cs
   :END:
 
 
@@ -981,9 +976,9 @@ oblohy nadšení.
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:45-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:45-cs
   :END:
 
 
@@ -1003,9 +998,9 @@ než jeho bezesná a bezdechá
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:46-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:46-cs
   :END:
 
 
@@ -1025,9 +1020,9 @@ objímalo a vedlo a provázelo
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:47-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:47-cs
   :END:
 
 
@@ -1044,9 +1039,9 @@ vlny sebepochybností.
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:48-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:48-cs
   :END:
 
 
@@ -1064,9 +1059,9 @@ ale mám aspirující srdce,
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:49-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:49-cs
   :END:
 
 
@@ -1084,9 +1079,9 @@ je mým novým vítězstvím.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:50-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:50-cs
   :END:
 
 
@@ -1104,9 +1099,9 @@ z Kruhu Božího Oka Soucitu.
 * 51.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:51-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:51-cs
   :END:
 
 
@@ -1122,9 +1117,9 @@ na vůni srdce oddanosti Bohu.
 * 52.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:52-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:52-cs
   :END:
 
 
@@ -1142,9 +1137,9 @@ Diamant svého Srdce.
 * 53.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:53-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:53-cs
   :END:
 
 
@@ -1161,9 +1156,9 @@ otevřené po celou dobu.
 * 54.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:54-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:54-cs
   :END:
 
 
@@ -1180,9 +1175,9 @@ neomylně vidím,
 * 55.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:55-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:55-cs
   :END:
 
 
@@ -1201,9 +1196,9 @@ aby se Mu dostalo roztomilého úsměvu
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HN:56e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: hn:56e1-cs
   :END:
 
 
@@ -1216,9 +1211,9 @@ USA
 * 56.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:56-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:56-cs
   :END:
 
 
@@ -1234,9 +1229,9 @@ kanoucími slzami svého srdce.
 * 57.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:57-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:57-cs
   :END:
 
 
@@ -1254,9 +1249,9 @@ za svého vlastního, zcela vlastního.
 * 58.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:58-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:58-cs
   :END:
 
 
@@ -1275,9 +1270,9 @@ na částečný úvazek.
 * 59.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:59-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:59-cs
   :END:
 
 
@@ -1295,9 +1290,9 @@ není vůbec žádnou láskou.
 * 60.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:60-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:60-cs
   :END:
 
 
@@ -1316,9 +1311,9 @@ mého Bohu oddaného srdce.
 * 61.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:61-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:61-cs
   :END:
 
 
@@ -1336,9 +1331,9 @@ soukromý a důvěrný.
 * 62.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:62-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:62-cs
   :END:
 
 
@@ -1355,9 +1350,9 @@ mého uspokojení.
 * 63.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:63-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:63-cs
   :END:
 
 
@@ -1375,9 +1370,9 @@ svého Absolutního Nejvyššího.
 * 64.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:64-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:64-cs
   :END:
 
 
@@ -1394,9 +1389,9 @@ svého rozkvétajícího srdce.
 * 65.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:65-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:65-cs
   :END:
 
 
@@ -1414,9 +1409,9 @@ mého pláče aspirace.
 * 66.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:66-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:66-cs
   :END:
 
 
@@ -1432,9 +1427,9 @@ učiní z mého života pevnost víry.
 * 67.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:67-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:67-cs
   :END:
 
 
@@ -1451,9 +1446,9 @@ svého života.
 * 68.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:68-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:68-cs
   :END:
 
 
@@ -1470,9 +1465,9 @@ mého života odevzdání.
 * 69.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:69-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:69-cs
   :END:
 
 
@@ -1490,9 +1485,9 @@ se sladkou nevinností
 * 70.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:70-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:70-cs
   :END:
 
 
@@ -1509,9 +1504,9 @@ bezpočtem pochybností.
 * 71.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:71-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:71-cs
   :END:
 
 
@@ -1529,9 +1524,9 @@ Chce, abych si pamatoval pouze
 * 72.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:72-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:72-cs
   :END:
 
 
@@ -1549,9 +1544,9 @@ Bůh mi říká:
 * 73.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:73-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:73-cs
   :END:
 
 
@@ -1568,9 +1563,9 @@ a sestupem Boží Spokojenosti.
 * 74.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:74-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:74-cs
   :END:
 
 
@@ -1586,9 +1581,9 @@ pohltí slzy mého srdce aspirace.
 * 75.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:75-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:75-cs
   :END:
 
 
@@ -1606,9 +1601,9 @@ vykonává vše
 * 76.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:76-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:76-cs
   :END:
 
 
@@ -1626,9 +1621,9 @@ tou nejvíce vzrušující věcí.
 * 77.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:77-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:77-cs
   :END:
 
 
@@ -1647,9 +1642,9 @@ Chce to dělat On Sám.
 * 78.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:78-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:78-cs
   :END:
 
 
@@ -1666,9 +1661,9 @@ obklopuje můj život po celý čas.
 * 79.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:79-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:79-cs
   :END:
 
 
@@ -1686,9 +1681,9 @@ ale slzy mého dechu vděčnosti.
 * 80.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:80-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:80-cs
   :END:
 
 
@@ -1705,9 +1700,9 @@ nezbývá k vyřešení žádný problém.
 * 81.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:81-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:81-cs
   :END:
 
 
@@ -1724,9 +1719,9 @@ mým srdcem jednoty s Bohem.
 * 82.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:82-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:82-cs
   :END:
 
 
@@ -1744,9 +1739,9 @@ Boží každodenní Vysílání.
 * 83.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:83-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:83-cs
   :END:
 
 
@@ -1763,9 +1758,9 @@ nektarovým prachem Božích Nohou.
 * 84.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:84-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:84-cs
   :END:
 
 
@@ -1782,9 +1777,9 @@ k domovu svého srdce.
 * 85.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:85-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:85-cs
   :END:
 
 
@@ -1802,9 +1797,9 @@ abych potěšil Boha
 * 86.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:86-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:86-cs
   :END:
 
 
@@ -1822,9 +1817,9 @@ květem spokojenosti Boha.
 * 87.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:87-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:87-cs
   :END:
 
 
@@ -1842,9 +1837,9 @@ abych šel kupředu, letěl vzhůru
 * 88.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:88-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:88-cs
   :END:
 
 
@@ -1861,9 +1856,9 @@ si Bůh i já navzájem říkáme
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HN:89e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: hn:89e1-cs
   :END:
 
 23.  září 2000
@@ -1874,9 +1869,9 @@ Montreal, Kanada
 * 89.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:89-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:89-cs
   :END:
 
 
@@ -1892,9 +1887,9 @@ Boží Absolutní Vůli.
 * 90.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:90-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:90-cs
   :END:
 
 
@@ -1912,9 +1907,9 @@ když vše ostatní selže.
 * 91.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:91-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:91-cs
   :END:
 
 
@@ -1933,9 +1928,9 @@ Boží Srdce Odpuštění
 * 92.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:92-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:92-cs
   :END:
 
 
@@ -1954,9 +1949,9 @@ s mým úplným odevzdáním.
 * 93.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:93-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:93-cs
   :END:
 
 
@@ -1973,9 +1968,9 @@ je mým jediným slibem Bohu
 * 94.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:94-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:94-cs
   :END:
 
 
@@ -1995,9 +1990,9 @@ velký zájem o všechno,
 * 95.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:95-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:95-cs
   :END:
 
 
@@ -2016,9 +2011,9 @@ svého srdce čistého pro Boha.
 * 96.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:96-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:96-cs
   :END:
 
 
@@ -2035,9 +2030,9 @@ po nektarovém prachu Božích Nohou.
 * 97.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:97-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:97-cs
   :END:
 
 
@@ -2056,9 +2051,9 @@ všechny bolesti hlavy Boha.
 * 98.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:98-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:98-cs
   :END:
 
 
@@ -2076,9 +2071,9 @@ Bůh je Božím Objetím Plnosti.
 * 99.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:99-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:99-cs
   :END:
 
 
@@ -2096,9 +2091,9 @@ všechny své povídačky z džungle
 * 100.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:100-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:100-cs
   :END:
 
 
@@ -2118,9 +2113,9 @@ Můj Pán Nejvyšší mi říká:
 * 101.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:101-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:101-cs
   :END:
 
 
@@ -2139,9 +2134,9 @@ jsou Božími nejbližšími sousedy.
 * 102.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:102-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:102-cs
   :END:
 
 
@@ -2159,9 +2154,9 @@ budu mít nejlepší výhled
 * 103.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:103-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:103-cs
   :END:
 
 
@@ -2180,9 +2175,9 @@ vždy si na mě a na kohokoliv na zemi
 * 104.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:104-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:104-cs
   :END:
 
 
@@ -2200,9 +2195,9 @@ v mém duchovním životě.
 * 105.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:105-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:105-cs
   :END:
 
 
@@ -2221,9 +2216,9 @@ jsou Jeho nejoblíbenějšími místy
 * 106.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:106-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:106-cs
   :END:
 
 
@@ -2241,9 +2236,9 @@ Dny Soucitu a Odpuštění
 * 107.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:107-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:107-cs
   :END:
 
 
@@ -2261,9 +2256,9 @@ ale stále přibývající míle Věčnosti.
 * 108.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:108-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:108-cs
   :END:
 
 
@@ -2283,9 +2278,9 @@ mých dlouhých, velmi dlouhých
 * 109.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:109-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:109-cs
   :END:
 
 
@@ -2303,9 +2298,9 @@ a životem zasvěceným Bohu.
 * 110.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:110-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:110-cs
   :END:
 
 
@@ -2323,9 +2318,9 @@ a Božím odpouštějícím Srdcem.
 * 111.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:111-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:111-cs
   :END:
 
 
@@ -2342,9 +2337,9 @@ aby mě přestaly
 * 112.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:112-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:112-cs
   :END:
 
 
@@ -2364,9 +2359,9 @@ bez selhání ji dokončím.
 * 113.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:113-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:113-cs
   :END:
 
 
@@ -2384,9 +2379,9 @@ noci nevědomosti.
 * 114.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:114-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:114-cs
   :END:
 
 
@@ -2406,9 +2401,9 @@ než si kdy dokážu představit.
 * 115.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:115-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:115-cs
   :END:
 
 
@@ -2427,9 +2422,9 @@ z neposlušnosti Bohu,
 * 116.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:116-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:116-cs
   :END:
 
 
@@ -2446,9 +2441,9 @@ Boží bezpodmínečnou Milostí
 * 117.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:117-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:117-cs
   :END:
 
 
@@ -2465,9 +2460,9 @@ stále rozkvétající krásou
 * 118.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:118-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:118-cs
   :END:
 
 
@@ -2485,9 +2480,9 @@ vítězství Boha.
 * 119.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:119-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:119-cs
   :END:
 
 
@@ -2505,9 +2500,9 @@ na nektarovou flétnu svého srdce.
 * 120.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:120-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:120-cs
   :END:
 
 
@@ -2528,9 +2523,9 @@ podzemní dráze mysli.
 * 121.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:121-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:121-cs
   :END:
 
 
@@ -2549,9 +2544,9 @@ Nejsladší je prach
 * 122.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:122-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:122-cs
   :END:
 
 
@@ -2568,9 +2563,9 @@ svým vlastním Motem:
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HN:123e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: hn:123e1-cs
   :END:
 
 
@@ -2584,9 +2579,9 @@ USA
 * 123.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:123-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:123-cs
   :END:
 
 
@@ -2602,9 +2597,9 @@ svou cestu do země tužeb.
 * 124.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:124-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:124-cs
   :END:
 
 
@@ -2620,9 +2615,9 @@ vztek ze zklamání své mysli.
 * 125.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:125-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:125-cs
   :END:
 
 
@@ -2640,9 +2635,9 @@ do země neposlušnosti Bohu
 * 126.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:126-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:126-cs
   :END:
 
 
@@ -2660,9 +2655,9 @@ oddaně, oduševněle, sebedávajícně
 * 127.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:127-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:127-cs
   :END:
 
 
@@ -2680,9 +2675,9 @@ svůj neomylný původ.
 * 128.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:128-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:128-cs
   :END:
 
 
@@ -2702,9 +2697,9 @@ než srdce touhy lidstva
 * 129.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:129-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:129-cs
   :END:
 
 
@@ -2721,9 +2716,9 @@ stále se přesahujícího Za.
 * 130.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:130-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:130-cs
   :END:
 
 
@@ -2743,9 +2738,9 @@ svému Absolutnímu Pánu Nejvyššímu.
 * 131.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:131-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:131-cs
   :END:
 
 
@@ -2763,9 +2758,9 @@ oduševněle a zbožně přihlížet
 * 132.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:132-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:132-cs
   :END:
 
 
@@ -2782,9 +2777,9 @@ k Přístavu Božího Srdce Nektaru.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HN:133e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: hn:133e1-cs
   :END:
 
 
@@ -2797,9 +2792,9 @@ USA
 * 133.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:133-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:133-cs
   :END:
 
 
@@ -2816,9 +2811,9 @@ je jediným kompasem mého srdce.
 * 134.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:134-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:134-cs
   :END:
 
 
@@ -2837,9 +2832,9 @@ uvnitř Úsměvů Mého Oka Požehnání.“
 * 135.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:135-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:135-cs
   :END:
 
 
@@ -2858,9 +2853,9 @@ uvnitř slz mého srdce vděčnosti.
 * 136.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:136-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:136-cs
   :END:
 
 
@@ -2880,9 +2875,9 @@ mořské vlny světla a blaženosti
 * 137.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:137-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:137-cs
   :END:
 
 
@@ -2902,9 +2897,9 @@ a srdce aspiruje
 * 138.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:138-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:138-cs
   :END:
 
 
@@ -2921,9 +2916,9 @@ hladovění lidstva po vnitřním míru.
 * 139.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:139-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:139-cs
   :END:
 
 
@@ -2943,9 +2938,9 @@ pro Jeho plné Projevení
 * 140.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:140-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:140-cs
   :END:
 
 
@@ -2962,9 +2957,9 @@ aby objaly Jeho Nohy Božskosti.
 * 141.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:141-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:141-cs
   :END:
 
 
@@ -2982,9 +2977,9 @@ Bůh mi dá svá Vlastnictví:
 * 142.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:142-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:142-cs
   :END:
 
 
@@ -3001,9 +2996,9 @@ Soucitem zaplaveného Oka.
 * 143.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:143-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:143-cs
   :END:
 
 
@@ -3022,9 +3017,9 @@ pýcha, nejistota, strach a pochybnost.
 * 144.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:144-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:144-cs
   :END:
 
 
@@ -3046,9 +3041,9 @@ Jeho univerzálnímu Naplnění.
 * 145.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:145-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:145-cs
   :END:
 
 
@@ -3070,9 +3065,9 @@ pro Mé úplné projevení
 * 146.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:146-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:146-cs
   :END:
 
 
@@ -3089,9 +3084,9 @@ s nocí nevědomosti.
 * 147.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:147-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:147-cs
   :END:
 
 
@@ -3108,9 +3103,9 @@ zásobárnou víry v Boha.
 * 148.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:148-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:148-cs
   :END:
 
 
@@ -3127,9 +3122,9 @@ jako den služby Bohu.
 * 149.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:149-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:149-cs
   :END:
 
 
@@ -3147,9 +3142,9 @@ do Pokoje Božího Srdce.
 * 150.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:150-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:150-cs
   :END:
 
 
@@ -3166,9 +3161,9 @@ na milión kousků.
 * 151.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:151-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:151-cs
   :END:
 
 
@@ -3186,9 +3181,9 @@ výšky uspokojení Boha.
 * 152.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:152-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:152-cs
   :END:
 
 
@@ -3205,9 +3200,9 @@ aby mi překážela na mé cestě k Bohu.
 * 153.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:153-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:153-cs
   :END:
 
 
@@ -3223,9 +3218,9 @@ dárek svého vděčného srdce.
 * 154.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:154-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:154-cs
   :END:
 
 
@@ -3241,9 +3236,9 @@ musím ukončit všechny
 * 155.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:155-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:155-cs
   :END:
 
 
@@ -3264,9 +3259,9 @@ Jen aby mi požehnal a korunoval mne.
 * 156.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:156-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:156-cs
   :END:
 
 
@@ -3284,9 +3279,9 @@ A Bůh mi dává, co je:
 * 157.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:157-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:157-cs
   :END:
 
 
@@ -3307,9 +3302,9 @@ abych od Něj odvrátil
 * 158.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:158-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:158-cs
   :END:
 
 
@@ -3326,9 +3321,9 @@ všechny světy tužeb.
 * 159.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:159-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:159-cs
   :END:
 
 
@@ -3348,9 +3343,9 @@ nekonečně více.
 * 160.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:160-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:160-cs
   :END:
 
 
@@ -3367,9 +3362,9 @@ svých neaspirujících dní.
 * 161.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:161-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:161-cs
   :END:
 
 
@@ -3386,9 +3381,9 @@ na děti připoutané k Jeho Srdci.
 * 162.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:162-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:162-cs
   :END:
 
 
@@ -3406,9 +3401,9 @@ a můj slib projevení Boha
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HN:163e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: hn:163e1-cs
   :END:
 
 
@@ -3422,9 +3417,9 @@ Reykjavik, Island
 * 163.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:163-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:163-cs
   :END:
 
 
@@ -3441,9 +3436,9 @@ zcela vlastní.
 * 164.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:164-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:164-cs
   :END:
 
 
@@ -3462,9 +3457,9 @@ naprosto neposkvrněný.
 * 165.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:165-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:165-cs
   :END:
 
 
@@ -3482,9 +3477,9 @@ do Zahrady Božího Srdce.
 * 166.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:166-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:166-cs
   :END:
 
 
@@ -3502,9 +3497,9 @@ k trvalému štěstí.
 * 167.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:167-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:167-cs
   :END:
 
 
@@ -3523,9 +3518,9 @@ k projevení Boží Vůle
 * 168.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:168-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:168-cs
   :END:
 
 
@@ -3542,9 +3537,9 @@ v Moři Srdce Božího Odpuštění.
 * 169.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:169-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:169-cs
   :END:
 
 
@@ -3560,9 +3555,9 @@ pod Stromem Božího Odpuštění.
 * 170.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:170-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:170-cs
   :END:
 
 
@@ -3578,9 +3573,9 @@ za porážku mých sebepochybností.
 * 171.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:171-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:171-cs
   :END:
 
 
@@ -3597,9 +3592,9 @@ svého Kormidelníka Nejvyššího.
 * 172.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:172-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:172-cs
   :END:
 
 
@@ -3615,9 +3610,9 @@ hledajícím s koncentrovanou myslí.
 * 173.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:173-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:173-cs
   :END:
 
 
@@ -3633,9 +3628,9 @@ stavitelem srdce meditace.
 * 174.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:174-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:174-cs
   :END:
 
 
@@ -3651,9 +3646,9 @@ kdo se těší ze života zasvěcení.
 * 175.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:175-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:175-cs
   :END:
 
 
@@ -3669,9 +3664,9 @@ bojovníkem v řešení problémů.
 * 176.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:176-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:176-cs
   :END:
 
 
@@ -3689,9 +3684,9 @@ každý jednotlivý den.
 * 177.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:177-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:177-cs
   :END:
 
 
@@ -3709,9 +3704,9 @@ věrně následovat Boží Vůli
 * 178.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:178-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:178-cs
   :END:
 
 
@@ -3728,9 +3723,9 @@ svou svět porážející
 * 179.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:179-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:179-cs
   :END:
 
 
@@ -3749,9 +3744,9 @@ a ne je zcela zničit.
 * 180.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:180-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:180-cs
   :END:
 
 
@@ -3768,9 +3763,9 @@ vnitřním slunečním svitem.
 * 181.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:181-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:181-cs
   :END:
 
 
@@ -3789,9 +3784,9 @@ mé srdce získává radost z hledání Boha.
 * 182.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:182-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:182-cs
   :END:
 
 
@@ -3809,9 +3804,9 @@ jako naléhavou nezbytnost.
 * 183.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:183-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:183-cs
   :END:
 
 
@@ -3828,9 +3823,9 @@ své duše realizace Boha.
 * 184.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:184-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:184-cs
   :END:
 
 
@@ -3847,9 +3842,9 @@ v hlubinách bezzvukého ticha.
 * 185.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:185-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:185-cs
   :END:
 
 
@@ -3867,9 +3862,9 @@ Slunce Síly
 * 186.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:186-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:186-cs
   :END:
 
 
@@ -3887,9 +3882,9 @@ Boží zkoušky plného projevení
 * 187.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:187-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:187-cs
   :END:
 
 
@@ -3906,9 +3901,9 @@ na stále se přesahující stožár své duše.
 * 188.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:188-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:188-cs
   :END:
 
 
@@ -3925,9 +3920,9 @@ zanedlouho mě přenese přes všechna
 * 189.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:189-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:189-cs
   :END:
 
 
@@ -3945,9 +3940,9 @@ vždy vyhradí
 * 190.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:190-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:190-cs
   :END:
 
 
@@ -3967,9 +3962,9 @@ hojnou vděčnost,
 * 191.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:191-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:191-cs
   :END:
 
 
@@ -3988,9 +3983,9 @@ ale ta absolutně nejkratší cesta
 * 192.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:192-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:192-cs
   :END:
 
 
@@ -4011,9 +4006,9 @@ těsně před tím, než upadnu.
 * 193.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:193-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:193-cs
   :END:
 
 
@@ -4031,9 +4026,9 @@ bezvýhradnou Víru v mé schopnosti.
 * 194.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:194-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:194-cs
   :END:
 
 
@@ -4051,9 +4046,9 @@ aby neodcházely.
 * 195.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:195-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:195-cs
   :END:
 
 
@@ -4071,9 +4066,9 @@ po Obloze Srdce
 * 196.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:196-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:196-cs
   :END:
 
 
@@ -4091,9 +4086,9 @@ závislost na mé oddanosti Bohu.
 * 197.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:197-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:197-cs
   :END:
 
 
@@ -4113,9 +4108,9 @@ Bůh miluje mistrovské ovládání
 * 198.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:198-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:198-cs
   :END:
 
 
@@ -4134,9 +4129,9 @@ z Krásy a Vůně
 * 199.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:199-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:199-cs
   :END:
 
 
@@ -4155,9 +4150,9 @@ schopnosti mého srdce.
 * 200.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:200-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:200-cs
   :END:
 
 
@@ -4175,9 +4170,9 @@ neboť mé srdce sebedávajícně
 * 201.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:201-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:201-cs
   :END:
 
 
@@ -4195,9 +4190,9 @@ a mým dusícím vitálnem.
 * 202.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:202-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:202-cs
   :END:
 
 
@@ -4216,9 +4211,9 @@ A mému životu: „Vzchop se!“
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HN:203e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: hn:203e1-cs
   :END:
 
 
@@ -4232,9 +4227,9 @@ Cambridge, Anglie
 * 203.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:203-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:203-cs
   :END:
 
 
@@ -4251,9 +4246,9 @@ každým jistým krokem.
 * 204.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:204-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:204-cs
   :END:
 
 
@@ -4271,9 +4266,9 @@ svého egoistického vitálna.
 * 205.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:205-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:205-cs
   :END:
 
 
@@ -4290,9 +4285,9 @@ schopností nevědomosti a hlouposti.
 * 206.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:206-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:206-cs
   :END:
 
 
@@ -4309,9 +4304,9 @@ a srdcem těšícím Boha.
 * 207.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:207-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:207-cs
   :END:
 
 
@@ -4330,9 +4325,9 @@ pak se musím spřátelit
 * 208.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:208-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:208-cs
   :END:
 
 
@@ -4351,9 +4346,9 @@ Vůní Srdce Odpuštění.
 * 209.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:209-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:209-cs
   :END:
 
 
@@ -4371,9 +4366,9 @@ svět blízkosti Bohu.
 * 210.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:210-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:210-cs
   :END:
 
 
@@ -4391,9 +4386,9 @@ a Boží Vítězství vyzvánějící zvon.
 * 211.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HN:211-cs
+  :genre: poem
+  :keywords:
+  :cite-key: hn:211-cs
   :END:
 
 
@@ -4406,18 +4401,3 @@ a otevřených a bezvýhradných
 	pozdravů Boha.
 
 #+END_VERSE
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

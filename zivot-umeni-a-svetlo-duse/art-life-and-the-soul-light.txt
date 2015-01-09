@@ -1,12 +1,7 @@
-#+TITLE: Život umění a světlo duše
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Život umění a světlo duše
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: note
   :keywords:
-  :cite-key: ALSL:1e1-cs
+  :cite-key: alsl:1e1-cs
   :END:
 
 
@@ -39,7 +34,7 @@
   :PROPERTIES:
   :genre: note
   :keywords:
-  :cite-key: ALSL:1e2-cs
+  :cite-key: alsl:1e2-cs
   :END:
 
 
@@ -50,7 +45,7 @@
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:1-cs
+  :cite-key: alsl:1-cs
   :date-event: 1974-09-17
   :END:
 
@@ -64,7 +59,7 @@
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:2-cs
+  :cite-key: alsl:2-cs
   :date-event: 1974-09-17
   :END:
 
@@ -78,7 +73,7 @@
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:3-cs
+  :cite-key: alsl:3-cs
   :date-event: 1974-09-17
   :END:
 
@@ -92,7 +87,7 @@
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:4-cs
+  :cite-key: alsl:4-cs
   :date-event: 1974-09-17
   :END:
 
@@ -108,7 +103,7 @@ Umění je pozemský cestovatel, poutník, a duchovnost je cesta. Jestliže oba
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:5-cs
+  :cite-key: alsl:5-cs
   :date-event: 1974-09-17
   :END:
 
@@ -122,7 +117,7 @@ Umění je pozemský cestovatel, poutník, a duchovnost je cesta. Jestliže oba
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:6-cs
+  :cite-key: alsl:6-cs
   :date-event: 1974-09-17
   :END:
 
@@ -136,7 +131,7 @@ Umění je pozemský cestovatel, poutník, a duchovnost je cesta. Jestliže oba
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:7-cs
+  :cite-key: alsl:7-cs
   :date-event: 1974-09-17
   :END:
 
@@ -152,7 +147,7 @@ Ve tvém případě, pokud máš dvě nebo tři umělecké schopnosti, měla by 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:8-cs
+  :cite-key: alsl:8-cs
   :date-event: 1974-09-17
   :END:
 
@@ -166,7 +161,7 @@ Ve tvém případě, pokud máš dvě nebo tři umělecké schopnosti, měla by 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:9-cs
+  :cite-key: alsl:9-cs
   :date-event: 1974-09-17
   :END:
 
@@ -180,12 +175,12 @@ Ve tvém případě, pokud máš dvě nebo tři umělecké schopnosti, měla by 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:10-cs
+  :cite-key: alsl:10-cs
   :date-event: 1974-09-17
   :END:
 
 
-/Sri Chinmoy:/ Ano! Veškeré umění je zcela jistě projevením Krásy Nejvyššího. Umění je krása a krása je umění. Umění, krása a radost jsou jako tři bratři. Když Keats řekl, že „krásná věc je radost navěky“, měl úplnou pravdu, protože radost je krása sama. Keats řekl ještě něco nesmírně důležitého: „Krása je pravda, pravda krása.“
+/Sri Chinmoy:/ ano! veškeré umění je zcela jistě projevením krásy nejvyššího. umění je krása a krása je umění. umění, krása a radost jsou jako tři bratři. když keats řekl, že „krásná věc je radost navěky“, měl úplnou pravdu, protože radost je krása sama. keats řekl ještě něco nesmírně důležitého: „Krása je pravda, pravda krása.“
 
 Pravda představuje to Nejvyšší. Když se Krása stane jedním s Pravdou, Krása se přirozeně stane rovněž tím Nejvyšším, což není nic jiného než Bůh. Umění je Božím výtvorem, projevením Boha. Jestliže myslíte na umění a na Boží Krásu, uvidíte, že jsou jako rub a líc téže mince; nelze je oddělit.
 
@@ -196,7 +191,7 @@ Pravda představuje to Nejvyšší. Když se Krása stane jedním s Pravdou, Kr
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:11-cs
+  :cite-key: alsl:11-cs
   :date-event: 1974-09-17
   :END:
 
@@ -212,7 +207,7 @@ Když nás někdo, kdo je nadřízený, nás používá svým vlastním způsobe
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:12-cs
+  :cite-key: alsl:12-cs
   :date-event: 1974-09-17
   :END:
 
@@ -227,7 +222,7 @@ Když nás někdo, kdo je nadřízený, nás používá svým vlastním způsobe
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:13-cs
+  :cite-key: alsl:13-cs
   :date-event: 1974-09-17
   :END:
 
@@ -241,7 +236,7 @@ Když nás někdo, kdo je nadřízený, nás používá svým vlastním způsobe
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:14-cs
+  :cite-key: alsl:14-cs
   :date-event: 1974-09-17
   :END:
 
@@ -257,7 +252,7 @@ Když mi bylo čtrnáct nebo patnáct, Sarasvatí ke mně jednou přišla a hr�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:15-cs
+  :cite-key: alsl:15-cs
   :date-event: 1974-09-17
   :END:
 
@@ -271,14 +266,14 @@ Když mi bylo čtrnáct nebo patnáct, Sarasvatí ke mně jednou přišla a hr�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:16-cs
+  :cite-key: alsl:16-cs
   :date-event: 1974-09-17
   :END:
 
 
-/Sri Chinmoy:/ Existují dva hlavní důvody. První důvod je ten, že když cítíte nějakou báseň, zpochybňujete ji; pochybujete, zda je skutečná či nikoli. Říkáte si: „Jak mohu mít tak krásný pocit? Před pěti minutami jsem lhala, před deseti minutami jsem na někoho žárlila, takže to je nemožné nyní něco takového cítit.“ Avšak to, co jste cítili před pěti minutami, nemá nic společného s tím, co cítíte teď. Mysl je tak chytrá. Když máte úžasný zážitek, velmi dobrý, vysoký zážitek, vaše mysl na něj okamžitě chrstne studenou vodu, protože nechce, abyste měli radost v její čisté podobě. Vaše mysl se vás okamžitě zeptá, jak můžete takovou věc zažívat, když jste se ještě před malou chvílí chovali tak nebožsky. Mysl vám řekne, že je to vše jen mentální halucinace. A v okamžiku, když se toho zážitku vzdáte, vám stejná mysl řekne: „Vidíš, jaký jsi blázen! Všechno jsi ztratil, všechno jsi zahodil. Jen Bůh sám ví, kolik měsíců to bude trvat, než získáš tento zážitek znovu.“
+/Sri Chinmoy:/ existují dva hlavní důvody. první důvod je ten, že když cítíte nějakou báseň, zpochybňujete ji; pochybujete, zda je skutečná či nikoli. Říkáte si: „jak mohu mít tak krásný pocit? před pěti minutami jsem lhala, před deseti minutami jsem na někoho žárlila, takže to je nemožné nyní něco takového cítit.“ avšak to, co jste cítili před pěti minutami, nemá nic společného s tím, co cítíte teď. mysl je tak chytrá. když máte úžasný zážitek, velmi dobrý, vysoký zážitek, vaše mysl na něj okamžitě chrstne studenou vodu, protože nechce, abyste měli radost v její čisté podobě. vaše mysl se vás okamžitě zeptá, jak můžete takovou věc zažívat, když jste se ještě před malou chvílí chovali tak nebožsky. mysl vám řekne, že je to vše jen mentální halucinace. a v okamžiku, když se toho zážitku vzdáte, vám stejná mysl řekne: „Vidíš, jaký jsi blázen! Všechno jsi ztratil, všechno jsi zahodil. Jen Bůh sám ví, kolik měsíců to bude trvat, než získáš tento zážitek znovu.“
 
-Druhý důvod, proč nedokážete vyjádřit báseň, kterou máte uvnitř sebe, je, že existuje propast mezi vašimi pocity a tím, čím se stáváte. Když něco cítíte, pokud se tou věcí okamžitě nestanete, vaše vitální bytost se vzbouří. Vitální bytost má pocit, že jste pozvali cizince, který do vás má vstoupit, a začne žárlit. Chová se přesně jako dítě, když vidí, že matka s otcem někoho pozvali, aby s nimi pobyl v domě. Přirozeně začne žárlit, protože cítí, že nyní mu nebudou jeho rodiče schopni věnovat takovou pozornost jako předtím. Pokud v sobě něco cítíte, znamená to, že jste někoho nebo něco pozvali do svého domu, on však ještě nevstoupil. Jakmile jednou vstoupí, projevení je prakticky dosaženo, avšak než vstoupí, dítě se může vzpouzet. Může začít plakat a říkat: „Nechci ho, nechci ho.“ Avšak pokud rodiče zvážní a řeknou: „Pozvali jsme jej a on zde rozhodně zůstane,“ je po všem. Jestliže se jednou stanete tím, co cítíte, obtíž je překonána. Toto jsou dvě věci, které vám brání projevovat ve svém vnějším životě to, co cítíte uvnitř sebe.
+Druhý důvod, proč nedokážete vyjádřit báseň, kterou máte uvnitř sebe, je, že existuje propast mezi vašimi pocity a tím, čím se stáváte. Když něco cítíte, pokud se tou věcí okamžitě nestanete, vaše vitální bytost se vzbouří. Vitální bytost má pocit, že jste pozvali cizince, který do vás má vstoupit, a začne žárlit. Chová se přesně jako dítě, když vidí, že matka s otcem někoho pozvali, aby s nimi pobyl v domě. Přirozeně začne žárlit, protože cítí, že nyní mu nebudou jeho rodiče schopni věnovat takovou pozornost jako předtím. Pokud v sobě něco cítíte, znamená to, že jste někoho nebo něco pozvali do svého domu, on však ještě nevstoupil. Jakmile jednou vstoupí, projevení je prakticky dosaženo, avšak než vstoupí, dítě se může vzpouzet. Může začít plakat a říkat: „nechci ho, nechci ho.“ avšak pokud rodiče zvážní a řeknou: „Pozvali jsme jej a on zde rozhodně zůstane,“ je po všem. Jestliže se jednou stanete tím, co cítíte, obtíž je překonána. Toto jsou dvě věci, které vám brání projevovat ve svém vnějším životě to, co cítíte uvnitř sebe.
 
 
 
@@ -287,7 +282,7 @@ Druhý důvod, proč nedokážete vyjádřit báseň, kterou máte uvnitř sebe,
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:17-cs
+  :cite-key: alsl:17-cs
   :date-event: 1974-09-17
   :END:
 
@@ -301,12 +296,12 @@ Druhý důvod, proč nedokážete vyjádřit báseň, kterou máte uvnitř sebe,
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:18-cs
+  :cite-key: alsl:18-cs
   :date-event: 1974-09-17
   :END:
 
 
-/Sri Chinmoy:/ Tehdy mělo v sobě umění více duše a smysluplnosti než umění současné. V tom, co mnozí moderní umělci dělají, nevidím hlavu ani patu. Odvětí, že jsem člověk neznalý věci, a co vůbec vím o umění. Já však jednoduše řeknu: „Ano, nic o tom nevím, to je pravda. Ale když přede mne dáte práce Leonarda da Vinci nebo Michelangela a svou práci dáte hned vedle, proč mě jejich umění přitahuje a inspiruje, a vaše ne? Je to tatáž osoba, která soudí; mám tytéž oči, stejné srdce, stejné vnitřní vlastnosti a stejný nedostatek vědomostí.“ Neříkám, že všichni moderní umělci jsou špatní umělci. Zdaleka ne. Existují někteří vynikající moderní umělci. Avšak všeobecně nejsou moderní umělci tolik inspirující nebo povznášející jako umělci renesančního období. V oblasti tvůrčího umění byla ta doba daleko pokrokovější, duchovnější a duši více povznášející než současná.
+/Sri Chinmoy:/ tehdy mělo v sobě umění více duše a smysluplnosti než umění současné. v tom, co mnozí moderní umělci dělají, nevidím hlavu ani patu. odvětí, že jsem člověk neznalý věci, a co vůbec vím o umění. já však jednoduše řeknu: „Ano, nic o tom nevím, to je pravda. Ale když přede mne dáte práce Leonarda da Vinci nebo Michelangela a svou práci dáte hned vedle, proč mě jejich umění přitahuje a inspiruje, a vaše ne? Je to tatáž osoba, která soudí; mám tytéž oči, stejné srdce, stejné vnitřní vlastnosti a stejný nedostatek vědomostí.“ Neříkám, že všichni moderní umělci jsou špatní umělci. Zdaleka ne. Existují někteří vynikající moderní umělci. Avšak všeobecně nejsou moderní umělci tolik inspirující nebo povznášející jako umělci renesančního období. V oblasti tvůrčího umění byla ta doba daleko pokrokovější, duchovnější a duši více povznášející než současná.
 
 Před několika měsíci jsem nakreslil sérii obrazů, ve kterých nikdo nic neviděl. Dal jsem jim však bombastická jména, abych dokázal, že jsou všechny duchovní! Většina moderních umělců dělá totéž. Co malují, ví jen Bůh. Když se jich však zeptáte, co vidí ve svém umění, jedná se o absolutní odhalení a projevení, absolutní kosmickou vizi. Když však Leonardo da Vinci maloval vědomí Mony Lisy, zachytil jej celé naprosto živě -- Hrdost Věčnosti. Díváte se na Monu Lisu a vidíte, že je Božským Světlem a Nesmrtelným Životem.
 
@@ -319,7 +314,7 @@ Když je někdo velmi ošklivý, snaží se oblékat si ty nejdražší, nejkrá
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:19-cs
+  :cite-key: alsl:19-cs
   :date-event: 1974-09-17
   :END:
 
@@ -333,7 +328,7 @@ Když je někdo velmi ošklivý, snaží se oblékat si ty nejdražší, nejkrá
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:20-cs
+  :cite-key: alsl:20-cs
   :date-event: 1974-09-17
   :END:
 
@@ -349,12 +344,12 @@ Vrána k vráně sedá. Neaspirující hudba a neaspirující hudebníci jdou 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:21-cs
+  :cite-key: alsl:21-cs
   :date-event: 1974-09-17
   :END:
 
 
-/Sri Chinmoy:/ Zajisté! Duše sama je umělec a její schopnost je neomezená. Duše je starší bratr, který učí mladšího bratra, zatímco on maluje. Potom tato duše řekne svému mladšímu bratrovi, tělu: „Pracujme společně; ukažme své umění společně.“ Lidé se přijdou podívat na umění velkého, dobře známého umělce, pokud je však nějaký aspirující umělec neznámý, nikdo se na jeho práci nepřijde podívat. Pokud se však tento nevýznamný umělec chce učit od toho pokročilého, vstoupí schopnost pokročilého umělce do toho druhého. Tímto způsobem vstupuje schopnost duše do těla. Je to jako oceán, jenž vstupuje do kapky. Nekonečné vstupuje do konečného a konečné vstupuje do Nekonečného. Je to jako mít jeden dolar a jednu penci. Jakmile se stanou jedním, máte sto a jeden cent, a vy to vše dohromady nabídnete k Nohám Nejvyššího.
+/Sri Chinmoy:/ zajisté! duše sama je umělec a její schopnost je neomezená. duše je starší bratr, který učí mladšího bratra, zatímco on maluje. potom tato duše řekne svému mladšímu bratrovi, tělu: „Pracujme společně; ukažme své umění společně.“ Lidé se přijdou podívat na umění velkého, dobře známého umělce, pokud je však nějaký aspirující umělec neznámý, nikdo se na jeho práci nepřijde podívat. Pokud se však tento nevýznamný umělec chce učit od toho pokročilého, vstoupí schopnost pokročilého umělce do toho druhého. Tímto způsobem vstupuje schopnost duše do těla. Je to jako oceán, jenž vstupuje do kapky. Nekonečné vstupuje do konečného a konečné vstupuje do Nekonečného. Je to jako mít jeden dolar a jednu penci. Jakmile se stanou jedním, máte sto a jeden cent, a vy to vše dohromady nabídnete k Nohám Nejvyššího.
 
 
 
@@ -364,7 +359,7 @@ Vrána k vráně sedá. Neaspirující hudba a neaspirující hudebníci jdou 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:22-cs
+  :cite-key: alsl:22-cs
   :date-event: 1974-09-17
   :END:
 
@@ -380,7 +375,7 @@ Avšak i když používáš svou svobodu dobrým způsobem, nezískáš plné u
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:23-cs
+  :cite-key: alsl:23-cs
   :date-event: 1974-09-17
   :END:
 
@@ -389,7 +384,7 @@ Avšak i když používáš svou svobodu dobrým způsobem, nezískáš plné u
 
 Řekněme, že dokonce i po získání titulu se stále chcete učit. Přestože postrádáte schopnost učit, pořád chcete jít výše. Dokonce i po získání doktorátu chodíte do knihovny a čtete stovky knih. Vašemu učení není konce. Protože se nezastavíte na určité hranici, pouhý váš pohyb se vyvine ve schopnost do určité míry projevovat. Je to jako řeka, která nepřichází k žádnému konci. Zatímco plyne, plyne a plyne, rozlévá vodu hned tím směrem a hned zase druhým; projevuje své vědomí. Je-li to rybník, vše se zastavilo. Je-li to nádrž, pohyb se zastavil. Pokud se to však stane řekou, ta stále plyne a projevuje se. Schopnost tvořit tedy může nakonec přerůst ve schopnost projevit, pokud člověk neustále tvoří a tvoří. I když někdo schopnost projevovat nemá od samotného začátku, je docela možné si tuto schopnost rozvinout.
 
-Někteří duchovní Mistři, kteří realizovali Boha, nechtějí lidstvu pomoci. Setkání se světskými lidmi se k smrti děsí. Říkají: „Světští lidé jsou horší než zvířata. Když se s nimi budeme stýkat, všechny jejich zvířecí vlastnosti vstoupí do nás. Ze zvířecí říše jsme vystoupili s největšími obtížemi, tak proč se s nimi stýkat?“ Avšak někteří Mistři říkají: „Ne, my jsme silnější než zvířata, proto se s nimi můžeme stýkat, zkrotit je a přeměnit je.“ A někteří ze soucitu říkají: „Kdysi dávno jsme byli také jako oni. Jen proto, že jsme vystoupili ze zvířecí říše duchovním cvičením, máme nechat své mladší bratry na holičkách? Ne, pokusíme se jim pomoci. Pokud nás zastihne nevědomost, zatímco budeme svým bratrům a sestrám pomáhat, nevadí. Koneckonců, jestliže je starší bratr skutečně připraven dát svůj život, aby zachránil mladšího bratra, Bůh jím bude opravdově potěšen a řekne: ‚Dobře, protože ses pokoušel zachránit svého mladšího bratra, dám ti nový život.‘“
+Někteří duchovní Mistři, kteří realizovali Boha, nechtějí lidstvu pomoci. Setkání se světskými lidmi se k smrti děsí. Říkají: „světští lidé jsou horší než zvířata. když se s nimi budeme stýkat, všechny jejich zvířecí vlastnosti vstoupí do nás. ze zvířecí říše jsme vystoupili s největšími obtížemi, tak proč se s nimi stýkat?“ avšak někteří mistři říkají: „ne, my jsme silnější než zvířata, proto se s nimi můžeme stýkat, zkrotit je a přeměnit je.“ a někteří ze soucitu říkají: „kdysi dávno jsme byli také jako oni. jen proto, že jsme vystoupili ze zvířecí říše duchovním cvičením, máme nechat své mladší bratry na holičkách? ne, pokusíme se jim pomoci. pokud nás zastihne nevědomost, zatímco budeme svým bratrům a sestrám pomáhat, nevadí. koneckonců, jestliže je starší bratr skutečně připraven dát svůj život, aby zachránil mladšího bratra, bůh jím bude opravdově potěšen a řekne: ‚Dobře, protože ses pokoušel zachránit svého mladšího bratra, dám ti nový život.‘“
 
 
 
@@ -398,7 +393,7 @@ Někteří duchovní Mistři, kteří realizovali Boha, nechtějí lidstvu pomoc
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:24-cs
+  :cite-key: alsl:24-cs
   :date-event: 1974-09-17
   :END:
 
@@ -413,7 +408,7 @@ Někteří duchovní Mistři, kteří realizovali Boha, nechtějí lidstvu pomoc
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:25-cs
+  :cite-key: alsl:25-cs
   :date-event: 1974-09-17
   :END:
 
@@ -429,7 +424,7 @@ Když se díváš na umění, snaž se uvnitř něj vidět Umělce. Toto udělá
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:26-cs
+  :cite-key: alsl:26-cs
   :date-event: 1974-09-17
   :END:
 
@@ -445,7 +440,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:27-cs
+  :cite-key: alsl:27-cs
   :date-event: 1974-09-17
   :END:
 
@@ -459,7 +454,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: note
   :keywords:
-  :cite-key: ALSL:28e1-cs
+  :cite-key: alsl:28e1-cs
   :END:
 
 
@@ -468,7 +463,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:28-cs
+  :cite-key: alsl:28-cs
   :date-event: 1974-09-24
   :END:
 
@@ -482,7 +477,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:29-cs
+  :cite-key: alsl:29-cs
    :date-event: 1974-09-24
  :END:
 
@@ -496,7 +491,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:30-cs
+  :cite-key: alsl:30-cs
    :date-event: 1974-09-24
  :END:
 
@@ -510,7 +505,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:31-cs
+  :cite-key: alsl:31-cs
   :date-event: 1974-09-24
   :END:
 
@@ -524,7 +519,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:32-cs
+  :cite-key: alsl:32-cs
   :date-event: 1974-09-24
   :END:
 
@@ -538,7 +533,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:33-cs
+  :cite-key: alsl:33-cs
   :date-event: 1974-09-24
   :END:
 
@@ -553,7 +548,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:34-cs
+  :cite-key: alsl:34-cs
   :date-event: 1974-09-24
   :END:
 
@@ -566,7 +561,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:35-cs
+  :cite-key: alsl:35-cs
   :date-event: 1974-09-24
   :END:
 
@@ -580,7 +575,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:36-cs
+  :cite-key: alsl:36-cs
   :date-event: 1974-09-24
   :END:
 
@@ -594,7 +589,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:37-cs
+  :cite-key: alsl:37-cs
   :date-event: 1974-09-24
   :END:
 
@@ -608,7 +603,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:38-cs
+  :cite-key: alsl:38-cs
   :date-event: 1974-09-24
   :END:
 
@@ -622,7 +617,7 @@ Samozřejmě, pokud dokážete oceňovat něco dobrého na druhých, je vám to 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:39-cs
+  :cite-key: alsl:39-cs
   :date-event: 1974-09-24
   :END:
 
@@ -639,7 +634,7 @@ Existují lidé, kteří se nezajímají o umění jako je hudba, malba či tan
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:40-cs
+  :cite-key: alsl:40-cs
   :date-event: 1974-09-24
   :END:
 
@@ -655,7 +650,7 @@ Pokud chci být malířem, půjdu ke konkrétnímu božstvu, které má určitou
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:41-cs
+  :cite-key: alsl:41-cs
   :date-event: 1974-09-24
   :END:
 
@@ -669,7 +664,7 @@ Pokud chci být malířem, půjdu ke konkrétnímu božstvu, které má určitou
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:42-cs
+  :cite-key: alsl:42-cs
   :date-event: 1974-09-24
   :END:
 
@@ -685,7 +680,7 @@ Protože vy jste hledající, dva roky čekat nemusíte. Vivékánanda říkáva
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:43-cs
+  :cite-key: alsl:43-cs
   :date-event: 1974-09-24
   :END:
 
@@ -699,7 +694,7 @@ Protože vy jste hledající, dva roky čekat nemusíte. Vivékánanda říkáva
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:44-cs
+  :cite-key: alsl:44-cs
   :date-event: 1974-09-24
   :END:
 
@@ -713,12 +708,12 @@ Protože vy jste hledající, dva roky čekat nemusíte. Vivékánanda říkáva
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:45-cs
+  :cite-key: alsl:45-cs
   :date-event: 1974-09-24
   :END:
 
 
-/Sri Chinmoy:/ Jestliže chcete psát jako Shakespeare, pak je-li jeho duše ještě ve světě duší a vy jeho duši dokážete vzývat a dosáhnout jí, tato duše vám může dát něco ze svých schopností. To je naprostá pravda. Nebo pokud je ten člověk stále naživu, i tehdy můžete jeho duši vzývat. Ale pouze tím, že budete vzývat například duši velkého spisovatele nebo zpěváka, nemůžete získat jeho nejvyšší dosažení. Pokud se předtím, než začnete zpívat, budete modlit k Nejvyššímu a řeknete: „Teď se chystám zpívat. Byl bych Ti tolik vděčný, kdybys mi dal ten nejoduševnělejší hlas, jako měli ten nebo ta,“ je to ta nejúčinnější metoda. Pokud se snažíte vzývat duši někoho, kdo je dobrý zpěvák, vaše mysl může okamžitě myslet na jeho nebo její nebožské vlastnosti. Víte, že někdo dobře zpívá, ale možná byste nemohli ocenit vnitřní život toho člověka. Oceňujete pouze určitou schopnost, kterou chcete, ale vaše fyzická mysl je tak špatná, že vám nedovolí oddělit duši tohoto člověka od života na fyzické úrovni. Chcete myslet na duši, ale na mysl vám přijde okamžitě tělo. A jakmile přijde tělo, myslíte ihned na dvacet špatných věcí tohoto člověka, takže od něj mnoho pomoci nezískáte.
+/Sri Chinmoy:/ jestliže chcete psát jako shakespeare, pak je-li jeho duše ještě ve světě duší a vy jeho duši dokážete vzývat a dosáhnout jí, tato duše vám může dát něco ze svých schopností. to je naprostá pravda. nebo pokud je ten člověk stále naživu, i tehdy můžete jeho duši vzývat. ale pouze tím, že budete vzývat například duši velkého spisovatele nebo zpěváka, nemůžete získat jeho nejvyšší dosažení. pokud se předtím, než začnete zpívat, budete modlit k nejvyššímu a řeknete: „Teď se chystám zpívat. Byl bych Ti tolik vděčný, kdybys mi dal ten nejoduševnělejší hlas, jako měli ten nebo ta,“ je to ta nejúčinnější metoda. Pokud se snažíte vzývat duši někoho, kdo je dobrý zpěvák, vaše mysl může okamžitě myslet na jeho nebo její nebožské vlastnosti. Víte, že někdo dobře zpívá, ale možná byste nemohli ocenit vnitřní život toho člověka. Oceňujete pouze určitou schopnost, kterou chcete, ale vaše fyzická mysl je tak špatná, že vám nedovolí oddělit duši tohoto člověka od života na fyzické úrovni. Chcete myslet na duši, ale na mysl vám přijde okamžitě tělo. A jakmile přijde tělo, myslíte ihned na dvacet špatných věcí tohoto člověka, takže od něj mnoho pomoci nezískáte.
 
 Modlete se k Nejvyššímu a představujte si Jej přímo před sebou. Řekněte: „Nejvyšší, modlím se k tobě, abys mi dal takovou a takovou pěveckou schopnost.“ V tu chvíli vkládáte Nejvyššího mezi sebe a druhou osobu, jejíž skvělý hlas chcete mít. Tehdy získáte schopnost a ta vám nemůže nijak uškodit. Neznamená to však, že získáte stejnou schopnost nebo stejnou výšku jako ta druhá osoba. Než jdou vojáci v Indii do boje, myslí na Bhímu nebo Ardžunu nebo nějakého jiného proslulého bojovníka. Dělají to, aby získali jeho sílu a srdnatost. Často se však stane něco jiného. Bhíma byl velmi silný a mocný, ale zároveň měl mnoho nebožských kvalit. Když jej budete vzývat, spolu s jeho sílou do vás mohou vstoupit také tyto nebožské kvality. Pokud se však modlíte k pánu Kršnovi a požádáte o Bhímovu schopnost, potom vám Kršna dokáže dát pouze Bhímovy božské kvality, a vy je podle své vnímavosti přijmete. Toto je docela možné.
 
@@ -729,7 +724,7 @@ Modlete se k Nejvyššímu a představujte si Jej přímo před sebou. Řekně
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:46-cs
+  :cite-key: alsl:46-cs
   :date-event: 1974-09-24
   :END:
 
@@ -743,7 +738,7 @@ Modlete se k Nejvyššímu a představujte si Jej přímo před sebou. Řekně
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:47-cs
+  :cite-key: alsl:47-cs
   :date-event: 1974-09-24
   :END:
 
@@ -757,7 +752,7 @@ Modlete se k Nejvyššímu a představujte si Jej přímo před sebou. Řekně
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:48-cs
+  :cite-key: alsl:48-cs
   :date-event: 1974-09-24
   :END:
 
@@ -773,7 +768,7 @@ Pokud máte radost ze srdce, je tam ztotožnění; pokud je to však radost v m
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:49-cs
+  :cite-key: alsl:49-cs
   :date-event: 1974-09-24
   :END:
 
@@ -790,7 +785,7 @@ Ve chvíli, kdy řekneme: „Ó Nejvyšší, ať je ve mně a skrze mě každou
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:50-cs
+  :cite-key: alsl:50-cs
   :date-event: 1974-09-24
   :END:
 
@@ -806,7 +801,7 @@ Duchovnost neznamená přebývat uvnitř jeskyně či na vrcholku Himálají. Ne
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:51-cs
+  :cite-key: alsl:51-cs
   :date-event: 1974-09-24
   :END:
 
@@ -822,7 +817,7 @@ Můžete se zeptat, proč nedal Bůh stejný hlad všem. Odpověď je, že Bůh 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:52-cs
+  :cite-key: alsl:52-cs
   :date-event: 1974-09-24
   :END:
 
@@ -837,7 +832,7 @@ Můžete se zeptat, proč nedal Bůh stejný hlad všem. Odpověď je, že Bůh 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:53-cs
+  :cite-key: alsl:53-cs
   :date-event: 1974-09-24
   :END:
 
@@ -851,7 +846,7 @@ Můžete se zeptat, proč nedal Bůh stejný hlad všem. Odpověď je, že Bůh 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:54-cs
+  :cite-key: alsl:54-cs
   :date-event: 1974-09-24
   :END:
 
@@ -867,7 +862,7 @@ Jinak když se dotknete hmotného předmětu, který považujete za nebožský, 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:55-cs
+  :cite-key: alsl:55-cs
   :date-event: 1974-09-24
   :END:
 
@@ -881,7 +876,7 @@ Jinak když se dotknete hmotného předmětu, který považujete za nebožský, 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:56-cs
+  :cite-key: alsl:56-cs
   :date-event: 1974-09-24
   :END:
 
@@ -895,7 +890,7 @@ Jinak když se dotknete hmotného předmětu, který považujete za nebožský, 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:57-cs
+  :cite-key: alsl:57-cs
   :date-event: 1974-09-24
   :END:
 
@@ -909,7 +904,7 @@ Jinak když se dotknete hmotného předmětu, který považujete za nebožský, 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:58-cs
+  :cite-key: alsl:58-cs
   :date-event: 1974-09-24
   :END:
 
@@ -927,7 +922,7 @@ Jestliže umělec vytvoří něco, co má určitou úroveň vědomí, musí sám
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:59-cs
+  :cite-key: alsl:59-cs
   :date-event: 1974-09-24
   :END:
 
@@ -941,7 +936,7 @@ Jestliže umělec vytvoří něco, co má určitou úroveň vědomí, musí sám
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:60-cs
+  :cite-key: alsl:60-cs
   :date-event: 1974-09-24
   :END:
 
@@ -957,12 +952,12 @@ Mistrova jednota s žákem a žákova jednota s Mistrem je tím nejvyšším. Kd
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:61-cs
+  :cite-key: alsl:61-cs
   :date-event: 1974-09-24
   :END:
 
 
-/Sri Chinmoy:/ Musíte vědět, jaký druh umění tvoří. Předpokládejme, že jsem umělec a že jsem nakreslil okurku. Je to skvělá okurka, protože mám okurky velmi rád. Okamžitě vidíte, že je to okurka; i slepý to může vidět. Avšak bez ohledu na to, jak dokonale jsem tu okurku nakreslil, nemůže mi dát realizaci. To je nemožné! Předpokládejme, že jsem nakreslil úžasné křeslo. I dítě dokáže říci: „Ano, to je krásné křeslo!“ Ale tím, že nakreslím toto křeslo, nerealizuji Boha. Každý řekne, že je dokonalé; i když jej bude zkoumat truhlář, řekne, že je dokonalé. Dokonalost tam je, ale tato dokonalost mi nedá realizaci Boha. 
+/Sri Chinmoy:/ musíte vědět, jaký druh umění tvoří. předpokládejme, že jsem umělec a že jsem nakreslil okurku. je to skvělá okurka, protože mám okurky velmi rád. okamžitě vidíte, že je to okurka; i slepý to může vidět. avšak bez ohledu na to, jak dokonale jsem tu okurku nakreslil, nemůže mi dát realizaci. to je nemožné! předpokládejme, že jsem nakreslil úžasné křeslo. i dítě dokáže říci: „Ano, to je krásné křeslo!“ Ale tím, že nakreslím toto křeslo, nerealizuji Boha. Každý řekne, že je dokonalé; i když jej bude zkoumat truhlář, řekne, že je dokonalé. Dokonalost tam je, ale tato dokonalost mi nedá realizaci Boha. 
 
 Když vytvářím umění, musím vědět, kolik mám výšky duše. Můžu být velmi špatný umělec, nejhorší umělec na světě, a nemusím vůbec dobře kreslit. Důležité však je, kolik je v mém úsilí tvořit mé intenzivní aspirace. Ne tvoření samotné, ale to, kolik jsem použil aspirace, mě přivede k Bohu.
 
@@ -973,7 +968,7 @@ Když vytvářím umění, musím vědět, kolik mám výšky duše. Můžu být
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:62-cs
+  :cite-key: alsl:62-cs
   :date-event: 1974-09-24
   :END:
 
@@ -993,7 +988,7 @@ Aspirant musí být velmi opatrný, když začíná pohyb těla. Obtíž je v t
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:63-cs
+  :cite-key: alsl:63-cs
   :date-event: 1974-09-24
   :END:
 
@@ -1007,7 +1002,7 @@ Aspirant musí být velmi opatrný, když začíná pohyb těla. Obtíž je v t
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:64-cs
+  :cite-key: alsl:64-cs
   :date-event: 1974-09-24
   :END:
 
@@ -1023,7 +1018,7 @@ V jiných světech vidíte Gandharvy -- nebeské hudebníky jako je Nárada, kt
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:65-cs
+  :cite-key: alsl:65-cs
   :date-event: 1974-09-24
   :END:
 
@@ -1037,7 +1032,7 @@ V jiných světech vidíte Gandharvy -- nebeské hudebníky jako je Nárada, kt
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:66-cs
+  :cite-key: alsl:66-cs
   :date-event: 1974-09-24
   :END:
 
@@ -1052,7 +1047,7 @@ V jiných světech vidíte Gandharvy -- nebeské hudebníky jako je Nárada, kt
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:67-cs
+  :cite-key: alsl:67-cs
   :date-event: 1974-09-24
   :END:
 
@@ -1068,7 +1063,7 @@ Nejlepší formou umění je sebedávání s jasnou vizí toho, komu se dává�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:68-cs
+  :cite-key: alsl:68-cs
   :date-event: 1974-09-24
   :END:
 
@@ -1086,7 +1081,7 @@ V indických posvátných spisech se říká, že kosmický banyán je odlišn�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:69-cs
+  :cite-key: alsl:69-cs
   :date-event: 1974-09-24
   :END:
 
@@ -1100,7 +1095,7 @@ V indických posvátných spisech se říká, že kosmický banyán je odlišn�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:70-cs
+  :cite-key: alsl:70-cs
   :date-event: 1974-09-24
   :END:
 
@@ -1116,7 +1111,7 @@ Váš Milovaný Nejvyšší na vás čeká. Pláče, pláče pro vás, abyste Je
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:71-cs
+  :cite-key: alsl:71-cs
   :date-event: 1974-09-24
   :END:
 
@@ -1130,7 +1125,7 @@ Váš Milovaný Nejvyšší na vás čeká. Pláče, pláče pro vás, abyste Je
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:72-cs
+  :cite-key: alsl:72-cs
   :date-event: 1974-09-24
   :END:
 
@@ -1145,24 +1140,9 @@ Váš Milovaný Nejvyšší na vás čeká. Pláče, pláče pro vás, abyste Je
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: ALSL:73-cs
+  :cite-key: alsl:73-cs
   :date-event: 1974-09-24
   :END:
 
 
 /Sri Chinmoy:/ Pro hledajícího je nejvyšším uměním života realizovat nejvyšší absolutní Pravdu. Pro realizovanou duši, která je věčným hledajícím, je nejvyšším uměním aspirujícího života stát se částí a součástí univerzálního Vědomí a zpřístupnit jej všem, kdo to potřebují.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

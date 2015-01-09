@@ -1,12 +1,7 @@
-#+TITLE: Jdu ven, vcházím dovnitř
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Jdu ven, vcházím dovnitř
 
   :PROPERTIES:
+  :language: cs
   :book-number:
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: note
   :keywords:
-  :cite-key: IGOI:1e1-cs
+  :cite-key: igoi:1e1-cs
   :END:
 
 
@@ -39,7 +34,7 @@ Dřívější vydání této knihy pod stejným názvem bylo vydáno 19. února 
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:1-cs
+  :cite-key: igoi:1-cs
   :END:
 
 
@@ -59,7 +54,7 @@ jsem všude.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:2-cs
+  :cite-key: igoi:2-cs
   :END:
 
 
@@ -79,7 +74,7 @@ Vcházím dovnitř
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:3-cs
+  :cite-key: igoi:3-cs
   :END:
 
 
@@ -101,7 +96,7 @@ abych znovu získal to,
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:4-cs
+  :cite-key: igoi:4-cs
   :END:
 
 
@@ -123,7 +118,7 @@ a čisté srdce.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:5-cs
+  :cite-key: igoi:5-cs
   :END:
 
 
@@ -143,7 +138,7 @@ moudře objevovat.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:6-cs
+  :cite-key: igoi:6-cs
   :END:
 
 
@@ -163,7 +158,7 @@ cenit si přirozenosti Božskosti.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:7-cs
+  :cite-key: igoi:7-cs
   :END:
 
 
@@ -183,7 +178,7 @@ můj je tichem spoutaný cíl.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:8-cs
+  :cite-key: igoi:8-cs
   :END:
 
 
@@ -205,7 +200,7 @@ základ míru.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:9-cs
+  :cite-key: igoi:9-cs
   :END:
 
 
@@ -227,7 +222,7 @@ ještě jednou.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:10-cs
+  :cite-key: igoi:10-cs
   :END:
 
 
@@ -247,7 +242,7 @@ najdu, co potřebuji.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:11-cs
+  :cite-key: igoi:11-cs
   :END:
 
 
@@ -267,7 +262,7 @@ piji med.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:12-cs
+  :cite-key: igoi:12-cs
   :END:
 
 
@@ -287,7 +282,7 @@ abych zpíval vzývání svého srdce.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:13-cs
+  :cite-key: igoi:13-cs
   :END:
 
 
@@ -307,7 +302,7 @@ jen abych cítil, co jsem.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:14-cs
+  :cite-key: igoi:14-cs
   :END:
 
 
@@ -327,7 +322,7 @@ abych vešel dovnitř.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:15-cs
+  :cite-key: igoi:15-cs
   :END:
 
 
@@ -347,7 +342,7 @@ když vcházíš dovnitř.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:16-cs
+  :cite-key: igoi:16-cs
   :END:
 
 
@@ -367,7 +362,7 @@ toužím po Neznámém.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:17-cs
+  :cite-key: igoi:17-cs
   :END:
 
 
@@ -387,7 +382,7 @@ abych se stal Srdcem Boha.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:18-cs
+  :cite-key: igoi:18-cs
   :END:
 
 
@@ -407,7 +402,7 @@ stávám se žárem.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:19-cs
+  :cite-key: igoi:19-cs
   :END:
 
 
@@ -429,7 +424,7 @@ Bůh mi říká:
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:20-cs
+  :cite-key: igoi:20-cs
   :END:
 
 
@@ -449,7 +444,7 @@ stávám se radostným jelenem.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:21-cs
+  :cite-key: igoi:21-cs
   :END:
 
 
@@ -469,7 +464,7 @@ plavím se na lodi svého srdce.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:22-cs
+  :cite-key: igoi:22-cs
   :END:
 
 
@@ -489,7 +484,7 @@ vcházím dovnitř.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:23-cs
+  :cite-key: igoi:23-cs
   :END:
 
 
@@ -511,7 +506,7 @@ svůj Zdroj, svého Boha.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:24-cs
+  :cite-key: igoi:24-cs
   :END:
 
 
@@ -530,7 +525,7 @@ abych cítil, co potřebuji.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:25-cs
+  :cite-key: igoi:25-cs
   :END:
 
 
@@ -551,7 +546,7 @@ Bůh a já se navzájem překvapujeme.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:26-cs
+  :cite-key: igoi:26-cs
   :END:
 
 
@@ -573,7 +568,7 @@ aby ode mě něco slyšel.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:27-cs
+  :cite-key: igoi:27-cs
   :END:
 
 
@@ -593,7 +588,7 @@ a zvětšuji sílu svého srdce.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:28-cs
+  :cite-key: igoi:28-cs
   :END:
 
 
@@ -613,7 +608,7 @@ abych viděl Nekonečnost vesmíru.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:29-cs
+  :cite-key: igoi:29-cs
   :END:
 
 
@@ -633,7 +628,7 @@ abych cítil lásku dobroty.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:30-cs
+  :cite-key: igoi:30-cs
   :END:
 
 
@@ -653,7 +648,7 @@ milovat svět.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:31-cs
+  :cite-key: igoi:31-cs
   :END:
 
 
@@ -673,7 +668,7 @@ abych se moudře odnaučil.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:32-cs
+  :cite-key: igoi:32-cs
   :END:
 
 
@@ -693,7 +688,7 @@ Vcházím dovnitř říci:
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: IGOI:33-cs
+  :cite-key: igoi:33-cs
   :END:
 
 
@@ -706,16 +701,3 @@ Když vejdu dovnitř,
 mé srdce vzývá.
 
 #+END_VERSE
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

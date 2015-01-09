@@ -1,13 +1,8 @@
-#+TITLE: Mé ranní modlitby k tělu a duši, část 12
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Mé ranní modlitby k tělu a duši, část 12
 
 
   :PROPERTIES:
+  :language: cs
   :book-number:
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -23,8 +18,8 @@
 * 1. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:708-cs
+  :genre: prayer
+  :cite-key: mp:708-cs
   :date-event: 2000-01-01
   :END:
 
@@ -44,8 +39,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 1. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:709-cs
+  :genre: prayer
+  :cite-key: mp:709-cs
   :date-event: 2000-01-01
   :END:
 
@@ -66,8 +61,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 1. ledna 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:710-cs
+  :genre: prayer
+  :cite-key: mp:710-cs
   :date-event: 2000-01-01
   :END:
 
@@ -87,8 +82,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 1. ledna 2000 (IV)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:711-cs
+  :genre: prayer
+  :cite-key: mp:711-cs
   :date-event: 2000-01-01
   :END:
 
@@ -107,8 +102,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 2. ledna 2000 (I)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:712-cs
+  :genre: prayer
+  :cite-key: mp:712-cs
   :date-event: 2000-01-02
   :END:
 
@@ -131,8 +126,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 2. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:713-cs
+  :genre: prayer
+  :cite-key: mp:713-cs
   :date-event: 2000-01-02
   :END:
 
@@ -151,8 +146,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 2. ledna 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:714-cs
+  :genre: prayer
+  :cite-key: mp:714-cs
   :date-event: 2000-01-02
   :END:
 
@@ -171,8 +166,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 3. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:715-cs
+  :genre: prayer
+  :cite-key: mp:715-cs
   :date-event: 2000-01-03
   :END:
 
@@ -192,8 +187,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 3. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:716-cs
+  :genre: prayer
+  :cite-key: mp:716-cs
   :date-event: 2000-01-03
   :END:
 
@@ -211,8 +206,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 3. ledna 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:717-cs
+  :genre: prayer
+  :cite-key: mp:717-cs
   :date-event: 2000-01-03
   :END:
 
@@ -233,8 +228,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 5. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:718-cs
+  :genre: prayer
+  :cite-key: mp:718-cs
   :date-event: 2000-01-05
   :END:
 
@@ -254,8 +249,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 5. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:719-cs
+  :genre: prayer
+  :cite-key: mp:719-cs
   :date-event: 2000-01-05
   :END:
 
@@ -276,8 +271,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 5. ledna 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:720-cs
+  :genre: prayer
+  :cite-key: mp:720-cs
   :date-event: 2000-01-05
   :END:
 
@@ -296,8 +291,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 5. ledna 2000 (IV)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:721-cs
+  :genre: prayer
+  :cite-key: mp:721-cs
   :date-event: 2000-01-05
   :END:
 
@@ -317,8 +312,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 7. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:722-cs
+  :genre: prayer
+  :cite-key: mp:722-cs
   :date-event: 2000-01-07
   :END:
 
@@ -339,8 +334,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 7. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:723-cs
+  :genre: prayer
+  :cite-key: mp:723-cs
   :date-event: 2000-01-07
   :END:
 
@@ -365,8 +360,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 8. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:724-cs
+  :genre: prayer
+  :cite-key: mp:724-cs
   :date-event: 2000-01-08
   :END:
 
@@ -386,8 +381,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 8. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:725-cs
+  :genre: prayer
+  :cite-key: mp:725-cs
   :date-event: 2000-01-08
   :END:
 
@@ -407,8 +402,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 8. ledna 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:726-cs
+  :genre: prayer
+  :cite-key: mp:726-cs
   :date-event: 2000-01-08
   :END:
 
@@ -427,8 +422,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 9. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:727-cs
+  :genre: prayer
+  :cite-key: mp:727-cs
   :date-event: 2000-01-09
   :END:
 
@@ -448,8 +443,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 9. ledna 2000 (II) 
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:728-cs
+  :genre: prayer
+  :cite-key: mp:728-cs
   :date-event: 2000-01-09
   :END:
 
@@ -468,8 +463,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 9. ledna 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:729-cs
+  :genre: prayer
+  :cite-key: mp:729-cs
   :date-event: 2000-01-09
   :END:
 
@@ -488,8 +483,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 9. ledna 2000 (IV)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:730-cs
+  :genre: prayer
+  :cite-key: mp:730-cs
   :date-event: 2000-01-09
   :END:
 
@@ -508,8 +503,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 11. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:731-cs
+  :genre: prayer
+  :cite-key: mp:731-cs
   :date-event: 2000-01-11
   :END:
 
@@ -527,8 +522,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 11. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:732-cs
+  :genre: prayer
+  :cite-key: mp:732-cs
   :date-event: 2000-01-11
   :END:
 
@@ -547,8 +542,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 11. ledna 2000 (III) 
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:733-cs
+  :genre: prayer
+  :cite-key: mp:733-cs
   :date-event: 2000-01-11
   :END:
 
@@ -568,8 +563,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 13. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:734-cs
+  :genre: prayer
+  :cite-key: mp:734-cs
   :date-event: 2000-01-13
   :END:
 
@@ -587,8 +582,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 13. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:735-cs
+  :genre: prayer
+  :cite-key: mp:735-cs
   :date-event: 2000-01-13
   :END:
 
@@ -606,8 +601,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 13. ledna 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:736-cs
+  :genre: prayer
+  :cite-key: mp:736-cs
   :date-event: 2000-01-13
   :END:
 
@@ -626,8 +621,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 14. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:737-cs
+  :genre: prayer
+  :cite-key: mp:737-cs
   :date-event: 2000-01-14
   :END:
 
@@ -646,8 +641,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 14. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:738-cs
+  :genre: prayer
+  :cite-key: mp:738-cs
   :date-event: 2000-01-14
   :END:
 
@@ -667,8 +662,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 14. ledna 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:739-cs
+  :genre: prayer
+  :cite-key: mp:739-cs
   :date-event: 2000-01-14
   :END:
 
@@ -688,8 +683,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 14. ledna 2000 (IV)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:740-cs
+  :genre: prayer
+  :cite-key: mp:740-cs
   :date-event: 2000-01-14
   :END:
 
@@ -714,8 +709,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 15. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:741-cs
+  :genre: prayer
+  :cite-key: mp:741-cs
   :date-event: 2000-01-15
   :END:
 
@@ -735,8 +730,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 15. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:742-cs
+  :genre: prayer
+  :cite-key: mp:742-cs
   :date-event: 2000-01-15
   :END:
 
@@ -755,8 +750,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 18. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:743-cs
+  :genre: prayer
+  :cite-key: mp:743-cs
   :date-event: 2000-01-18
   :END:
 
@@ -774,8 +769,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 18. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:744-cs
+  :genre: prayer
+  :cite-key: mp:744-cs
   :date-event: 2000-01-18
   :END:
 
@@ -795,8 +790,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 18. ledna 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:745-cs
+  :genre: prayer
+  :cite-key: mp:745-cs
   :date-event: 2000-01-18
   :END:
 
@@ -816,8 +811,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 18. ledna 2000 (IV)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:746-cs
+  :genre: prayer
+  :cite-key: mp:746-cs
   :date-event: 2000-01-18
   :END:
 
@@ -837,8 +832,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 20. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:747-cs
+  :genre: prayer
+  :cite-key: mp:747-cs
   :date-event: 2000-01-20
   :END:
 
@@ -857,8 +852,8 @@ než kdokoliv jiný.
 * 20. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:748-cs
+  :genre: prayer
+  :cite-key: mp:748-cs
   :date-event: 2000-01-20
   :END:
 
@@ -882,8 +877,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 20. ledna 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:749-cs
+  :genre: prayer
+  :cite-key: mp:749-cs
   :date-event: 2000-01-20
   :END:
 
@@ -902,8 +897,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 20. ledna 2000 (IV)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:750-cs
+  :genre: prayer
+  :cite-key: mp:750-cs
   :date-event: 2000-01-20
   :END:
 
@@ -922,8 +917,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 21. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:751-cs
+  :genre: prayer
+  :cite-key: mp:751-cs
   :date-event: 2000-01-21
   :END:
 
@@ -941,8 +936,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 21. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:752-cs
+  :genre: prayer
+  :cite-key: mp:752-cs
   :date-event: 2000-01-21
   :END:
 
@@ -962,8 +957,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 23. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:753-cs
+  :genre: prayer
+  :cite-key: mp:753-cs
   :date-event: 2000-01-23
   :END:
 
@@ -981,8 +976,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 23. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:754-cs
+  :genre: prayer
+  :cite-key: mp:754-cs
   :date-event: 2000-01-23
   :END:
 
@@ -1002,8 +997,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 26. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:755-cs
+  :genre: prayer
+  :cite-key: mp:755-cs
   :date-event: 2000-01-26
   :END:
 
@@ -1022,8 +1017,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 26. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:756-cs
+  :genre: prayer
+  :cite-key: mp:756-cs
   :date-event: 2000-01-26
   :END:
 
@@ -1042,8 +1037,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 26. ledna 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:757-cs
+  :genre: prayer
+  :cite-key: mp:757-cs
   :date-event: 2000-01-26
   :END:
 
@@ -1061,8 +1056,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 27. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:758-cs
+  :genre: prayer
+  :cite-key: mp:758-cs
   :date-event: 2000-01-27
   :END:
 
@@ -1083,8 +1078,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 27. ledna 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:759-cs
+  :genre: prayer
+  :cite-key: mp:759-cs
   :date-event: 2000-01-27
   :END:
 
@@ -1106,8 +1101,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 27. ledna 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:760-cs
+  :genre: prayer
+  :cite-key: mp:760-cs
   :date-event: 2000-01-27
   :END:
 
@@ -1128,8 +1123,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 27. ledna 2000 (IV)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:761-cs
+  :genre: prayer
+  :cite-key: mp:761-cs
   :date-event: 2000-01-27
   :END:
 
@@ -1148,8 +1143,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 28. ledna 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:762-cs
+  :genre: prayer
+  :cite-key: mp:762-cs
   :date-event: 2000-01-28
   :END:
 
@@ -1168,8 +1163,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 28. ledna 2000 (II) 
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:763-cs
+  :genre: prayer
+  :cite-key: mp:763-cs
   :date-event: 2000-01-28
   :END:
 
@@ -1189,8 +1184,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 3. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:764-cs
+  :genre: prayer
+  :cite-key: mp:764-cs
   :date-event: 2000-02-03
   :END:
 
@@ -1210,8 +1205,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 3. února 2000 (II) 
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:765-cs
+  :genre: prayer
+  :cite-key: mp:765-cs
   :date-event: 2000-02-03
   :END:
 
@@ -1230,8 +1225,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 3. února 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:766-cs
+  :genre: prayer
+  :cite-key: mp:766-cs
   :date-event: 2000-02-03
   :END:
 
@@ -1249,8 +1244,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 5. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:767-cs
+  :genre: prayer
+  :cite-key: mp:767-cs
   :date-event: 2000-02-05
   :END:
 
@@ -1270,8 +1265,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 5. února 2000 (II) 
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:768-cs
+  :genre: prayer
+  :cite-key: mp:768-cs
   :date-event: 2000-02-05
   :END:
 
@@ -1291,8 +1286,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 5. února 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:769-cs
+  :genre: prayer
+  :cite-key: mp:769-cs
   :date-event: 2000-02-05
   :END:
 
@@ -1312,8 +1307,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 7. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:770-cs
+  :genre: prayer
+  :cite-key: mp:770-cs
   :date-event: 2000-02-07
   :END:
 
@@ -1332,8 +1327,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 7. února 2000 (II) 
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:771-cs
+  :genre: prayer
+  :cite-key: mp:771-cs
   :date-event: 2000-02-07
   :END:
 
@@ -1353,8 +1348,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 7. února 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:772-cs
+  :genre: prayer
+  :cite-key: mp:772-cs
   :date-event: 2000-02-07
   :END:
 
@@ -1373,8 +1368,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 8. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:773-cs
+  :genre: prayer
+  :cite-key: mp:773-cs
   :date-event: 2000-02-08
   :END:
 
@@ -1394,8 +1389,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 8. února 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:774-cs
+  :genre: prayer
+  :cite-key: mp:774-cs
   :date-event: 2000-02-08
   :END:
 
@@ -1414,8 +1409,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 8. února 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:775-cs
+  :genre: prayer
+  :cite-key: mp:775-cs
   :date-event: 2000-02-08
   :END:
 
@@ -1433,8 +1428,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 10. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:776-cs
+  :genre: prayer
+  :cite-key: mp:776-cs
   :date-event: 2000-02-10
   :END:
 
@@ -1452,8 +1447,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 10. února 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:777-cs
+  :genre: prayer
+  :cite-key: mp:777-cs
   :date-event: 2000-02-10
   :END:
 
@@ -1474,8 +1469,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 10. února 2000 (III) 
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:778-cs
+  :genre: prayer
+  :cite-key: mp:778-cs
   :date-event: 2000-02-10
   :END:
 
@@ -1495,8 +1490,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 12. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:779-cs
+  :genre: prayer
+  :cite-key: mp:779-cs
   :date-event: 2000-02-12
   :END:
 
@@ -1515,8 +1510,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 12. února 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:780-cs
+  :genre: prayer
+  :cite-key: mp:780-cs
   :date-event: 2000-02-12
   :END:
 
@@ -1537,8 +1532,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 12. února 2000 (III) 
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:781-cs
+  :genre: prayer
+  :cite-key: mp:781-cs
   :date-event: 2000-02-12
   :END:
 
@@ -1558,8 +1553,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 14. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:782-cs
+  :genre: prayer
+  :cite-key: mp:782-cs
   :date-event: 2000-02-14
   :END:
 
@@ -1579,8 +1574,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 14. února 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:783-cs
+  :genre: prayer
+  :cite-key: mp:783-cs
   :date-event: 2000-02-14
   :END:
 
@@ -1600,8 +1595,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 14. února 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:784-cs
+  :genre: prayer
+  :cite-key: mp:784-cs
   :date-event: 2000-02-14
   :END:
 
@@ -1621,8 +1616,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 16. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:785-cs
+  :genre: prayer
+  :cite-key: mp:785-cs
   :date-event: 2000-02-16
   :END:
 
@@ -1640,8 +1635,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 16. února 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:786-cs
+  :genre: prayer
+  :cite-key: mp:786-cs
   :date-event: 2000-02-16
   :END:
 
@@ -1659,8 +1654,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 16. února 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:787-cs
+  :genre: prayer
+  :cite-key: mp:787-cs
   :date-event: 2000-02-16
   :END:
 
@@ -1680,8 +1675,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 18. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:788-cs
+  :genre: prayer
+  :cite-key: mp:788-cs
   :date-event: 2000-02-18
   :END:
 
@@ -1699,8 +1694,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 18. února 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:789-cs
+  :genre: prayer
+  :cite-key: mp:789-cs
   :date-event: 2000-02-18
   :END:
 
@@ -1722,8 +1717,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 18. února 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:790-cs
+  :genre: prayer
+  :cite-key: mp:790-cs
   :date-event: 2000-02-18
   :END:
 
@@ -1743,8 +1738,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 19. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:791-cs
+  :genre: prayer
+  :cite-key: mp:791-cs
   :date-event: 2000-02-19
   :END:
 
@@ -1770,8 +1765,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 19. února 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:792-cs
+  :genre: prayer
+  :cite-key: mp:792-cs
   :date-event: 2000-02-19
   :END:
 
@@ -1789,8 +1784,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 21. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:793-cs
+  :genre: prayer
+  :cite-key: mp:793-cs
   :date-event: 2000-02-21
   :END:
 
@@ -1812,8 +1807,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 23. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:794-cs
+  :genre: prayer
+  :cite-key: mp:794-cs
   :date-event: 2000-02-23
   :END:
 
@@ -1834,8 +1829,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 23. února 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:795-cs
+  :genre: prayer
+  :cite-key: mp:795-cs
   :date-event: 2000-02-23
   :END:
 
@@ -1856,8 +1851,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 24. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:796-cs
+  :genre: prayer
+  :cite-key: mp:796-cs
   :date-event: 2000-02-24
   :END:
 
@@ -1879,8 +1874,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 24. února 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:797-cs
+  :genre: prayer
+  :cite-key: mp:797-cs
   :date-event: 2000-02-24
   :END:
 
@@ -1900,8 +1895,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 24. února 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:798-cs
+  :genre: prayer
+  :cite-key: mp:798-cs
   :date-event: 2000-02-24
   :END:
 
@@ -1920,8 +1915,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 25. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:799-cs
+  :genre: prayer
+  :cite-key: mp:799-cs
   :date-event: 2000-02-25
   :END:
 
@@ -1942,8 +1937,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 25. února 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:800-cs
+  :genre: prayer
+  :cite-key: mp:800-cs
   :date-event: 2000-02-25
   :END:
 
@@ -1962,8 +1957,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 25. února 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:801-cs
+  :genre: prayer
+  :cite-key: mp:801-cs
   :date-event: 2000-02-25
   :END:
 
@@ -1982,8 +1977,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 26. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:802-cs
+  :genre: prayer
+  :cite-key: mp:802-cs
   :date-event: 2000-02-26
   :END:
 
@@ -2003,8 +1998,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 26. února 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:803-cs
+  :genre: prayer
+  :cite-key: mp:803-cs
   :date-event: 2000-02-26
   :END:
 
@@ -2026,8 +2021,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 26. února 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:804-cs
+  :genre: prayer
+  :cite-key: mp:804-cs
   :date-event: 2000-02-26
   :END:
 
@@ -2048,8 +2043,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 28. února 2000
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:805-cs
+  :genre: prayer
+  :cite-key: mp:805-cs
   :date-event: 2000-02-28
   :END:
 
@@ -2067,8 +2062,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 28. února 2000 (II)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:806-cs
+  :genre: prayer
+  :cite-key: mp:806-cs
   :date-event: 2000-02-28
   :END:
 
@@ -2086,8 +2081,8 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * 28. února 2000 (III)
 
   :PROPERTIES:
-  :GENRE: prayer
-  :cite-key: MP:807-cs
+  :genre: prayer
+  :cite-key: mp:807-cs
   :date-event: 2000-02-28
   :END:
 
@@ -2110,16 +2105,16 @@ Můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 * Poznámky
 
   :PROPERTIES:
-  :GENRE: section
-  :cite-key: MP:808e1-cs
+  :genre: section
+  :cite-key: mp:808e1-cs
   :END:
 
 
 * Poznámky editora
 
   :PROPERTIES:
-  :GENRE: note
-  :cite-key: MP:808e2-cs
+  :genre: note
+  :cite-key: mp:808e2-cs
   :END:
 
 
@@ -2130,8 +2125,8 @@ Následující stránka popisuje, jaké cvičení Sri Chinmoy prováděl daný d
 * Poznámky ke zvedání
 
   :PROPERTIES:
-  :GENRE: note
-  :cite-key: MP:808e3-cs
+  :genre: note
+  :cite-key: mp:808e3-cs
   :END:
 
 
@@ -2536,17 +2531,3 @@ souběžné zvednutí pažemi
 
 28. února 2000 (III) \\
 9:19 ráno, před provedením 61 zdvihů jednou rukou se závažím 317,51 kg (27 pravá, 34 levá)
-
-
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-
-
-

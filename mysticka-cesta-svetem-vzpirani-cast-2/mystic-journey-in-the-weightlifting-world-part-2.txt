@@ -1,18 +1,14 @@
-#+TITLE: Mystická cesta světem vzpírání, část 2
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-* Index
+* Mystická cesta světem vzpírání, část 2
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: MJWW-2-cs
-  :GENRE: anecdote-autobiography
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2007
+  :publisher: Madal Bal
+  :cite-key: MJWW-2-cs
+  :genre: anecdote-autobiography
   :END:
 
 
@@ -20,9 +16,9 @@
 * Více než spokojen
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:30-cs
-  :DATE-EVENT: 1998-10-06
+  :genre: anecdote-autobiography
+  :cite-key: mjww:30-cs
+  :date-event: 1998-10-06
   :END:
 
 Dnes jsem poprvé od té doby, co jsem před několika lety znovu začal vzpírat, zvedl 200 liber (přepočet na kilogramy je uveden na konci knihy) jednou rukou. Nejprve jsem je zvedl pravou rukou a pak levou. Z nějakého důvodu mi mysl říkala, že jsem je nezvedl moc vysoko, proto jsem je zvedl ještě každou rukou dvakrát. Kdybych věděl, že jsem poprvé zvedl tak vysoko, nezabíjel bych se a znovu už bych nezvedal. 
@@ -38,9 +34,9 @@ Poprvé jsem zvedl 200 liber jednou rukou 6. března 1986 -- před téměř 12 l
 * Síla diety
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:31-cs
-  :DATE-EVENT: 1998-10-08
+  :genre: anecdote-autobiography
+  :cite-key: mjww:31-cs
+  :date-event: 1998-10-08
   :END:
 
 Dnes večer jsem asi před dvaceti svědky zvedl desetkrát 300 liber na břiše. Před dvěma lety jsem takové věci dělal, když jsme měli klub Duhových snílků. Jsem si jistý, že lidé dokážou vidět, jak se závaží pohybuje. Dnes jsem snědl jen 549 kalorií a vážil jsem 146 liber. Lidé říkají, že bych měl být z diet slabší, ale v mém případě dieta posiluje mé břicho!
@@ -52,9 +48,9 @@ Dnes večer jsem asi před dvaceti svědky zvedl desetkrát 300 liber na břiše
 * Můj konečný cíl
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:32-cs
-  :DATE-EVENT: 1998-10-10
+  :genre: anecdote-autobiography
+  :cite-key: mjww:32-cs
+  :date-event: 1998-10-10
   :END:
 
 Dnes vážím 142,5 libry. Nejlegračnější je, že jsem včera jedl a jedl, a ještě jsem shodil 1,5 libry. Mým konečným cílem je 140 liber. Mou tajnou touhou je, aby se loď mého těla plavila mezi 140 a 145 librami. Teď se cítím velmi, velmi, velmi lehký. 
@@ -69,9 +65,9 @@ Když došlo na zvedání jednou rukou, zvedl jsem padesátkrát 120 liber jen l
 * Nejobtížnější zdvih
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:33-cs
-  :DATE-EVENT: 1998-10-11
+  :genre: anecdote-autobiography
+  :cite-key: mjww:33-cs
+  :date-event: 1998-10-11
   :END:
 
 Nejobtížnější ze zdvihů, které dělám, je zdvih břichem. Po tomto zvedání patnáct až dvacet minut nevím, ani jak se jmenuji. Musím se hned něčeho napít a není mi do řeči. 
@@ -85,9 +81,9 @@ Dnes ráno jsem zvedl na břiše třicetkrát 300 liber.
 * Nemám správný úchop
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:34-cs
-  :DATE-EVENT: 1998-10-15
+  :genre: anecdote-autobiography
+  :cite-key: mjww:34-cs
+  :date-event: 1998-10-15
   :END:
 
 Dnes jsem začal zvedat už po třetí hodině ráno. Když došlo na 120 liber oběma rukama, zkusil jsem to dvakrát, a nepodařilo se. Když jsem zkusil zvednout činky zvlášť, šly nahoru, ale nedokázal jsem je zvednout současně. Zkusil jsem to ještě nejméně čtyřikrát. 
@@ -101,8 +97,8 @@ Myslím, že jsme udělali chybu, když jsme na zem dali dřevěnou desku. Teď 
 * Dramatický výkon
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:35-cs
+  :genre: anecdote-autobiography
+  :cite-key: mjww:35-cs
   :END:
 
 Když jsem dnes dělal dvacet opakování se 145 librami, zkusil jsem něco nového. Místo toho, abych se držel boku konstrukce, ruku, kterou nezvedám, jsem volně spustil. Můžete vidět, že mi visí podél těla. Tak to bude dramatičtější, protože se ničeho nedržím. Je to mnohem těžší. Dnes večer se pokusím zvednout 145 liber stokrát. Jak to, že nás to nenapadlo hned na začátku -- pustit ruku, kterou nezvedám? Tento styl je mnohem působivější, protože nemám žádnou oporu. Také jsem tehdy marnil čas vyměňováním rukou po každém zdvihu.
@@ -113,9 +109,9 @@ Když jsem dnes dělal dvacet opakování se 145 librami, zkusil jsem něco nov�
 * Úplně spokojen
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:36-cs
-  :DATE-EVENT: 1998-10-23
+  :genre: anecdote-autobiography
+  :cite-key: mjww:36-cs
+  :date-event: 1998-10-23
   :END:
 
 Dnes ráno jsem poprvé zvedl 270 liber od té doby, co jsem znovu začal zvedat. Zvedl jsem je čtyřikrát pravou rukou a čtyřikrát levou rukou a tyto zdvihy byly vyšší, než když jsem zvedal 250 liber! Jsem úplně spokojen. Od zítřka budu trénovat 300 liber. V roce 1986 jsem dvěstětřináctkrát neuspěl, než jsem je zvedl. Teď si myslím, že budu potřebovat 50 pokusů. Myslím, že budu schopen je zvednout za týden. Mám měsíc a deset dnů do odjezdu na Vánoční výlet. Jsem připraven na 300 liber!
@@ -127,9 +123,9 @@ Dnes ráno jsem poprvé zvedl 270 liber od té doby, co jsem znovu začal zvedat
 * Je zapotřebí nějakého kouzla
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:37-cs
-  :DATE-EVENT: 1998-10-24
+  :genre: anecdote-autobiography
+  :cite-key: mjww:37-cs
+  :date-event: 1998-10-24
   :END:
 
 Dnes jsem zvedl dvakrát 130 liber oběma rukama najednou. Je pravda, že oba zdvihy jsou lepší než včera, ale ještě s nimi nejsem spokojen. Jen Bůh ví, co dělám špatně. Každý jiný zdvih zvládám zázračně, ale jakmile dojde na obě ruce, je zapotřebí nějakého kouzla. Skutečně bych měl rád trochu lepší výsledky. 
@@ -141,9 +137,9 @@ Dnes jsem zvedl dvakrát 130 liber oběma rukama najednou. Je pravda, že oba zd
 * Neschopen zvedat
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:38-cs
-  :DATE-EVENT: 1998-10-26
+  :genre: anecdote-autobiography
+  :cite-key: mjww:38-cs
+  :date-event: 1998-10-26
   :END:
 
 Dnes ráno jsem nemohl nic dělat, protože mě bolely nohy. Šel jsem do Annam Brahmy, aby mě doktor Chu ošetřil. Když jdu, nejsem schopen natáhnout nohu, protože to velmi bolí. Potom jsem si dělal legraci z jedné ze svých žaček, že mé nohy jsou v tak špatném stavu jako její duše. 
@@ -157,9 +153,9 @@ Dnes jsem řekl Ketanovi, že chci co nejdříve zvednout šest letadel. Čím d
 * Postup dál
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:39-cs
-  :DATE-EVENT: 1998-10-29
+  :genre: anecdote-autobiography
+  :cite-key: mjww:39-cs
+  :date-event: 1998-10-29
   :END:
 
 Dnes jsem ke své spokojenosti zvedl na třetí pokus 130 liber oběma rukama. Konečně, konečně, konečně! Teď se chystám na 135 liber. Zítra postoupím dál. 
@@ -171,9 +167,9 @@ Dnes jsem ke své spokojenosti zvedl na třetí pokus 130 liber oběma rukama. K
 * Myslet na tolik věcí
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:40-cs
-  :DATE-EVENT: 1998-10-29
+  :genre: anecdote-autobiography
+  :cite-key: mjww:40-cs
+  :date-event: 1998-10-29
   :END:
 
 Dnes jsem zvedl osmkrát 300 liber jednou rukou. V jeden okamžik spadl ukazatel na zem a já jsem ho musel vrátit zpátky. Pak jsem musel myslet na tolik věcí -- zavolat sestře a tak dále. Proto jsem nebyl schopen se správně soustředit. Navzdory tomu si nemyslím, že jsem před dvanácti lety zvedl 300 liber tak vysoko. Čím jsem starší, tím jsem silnější!
@@ -185,9 +181,9 @@ Dnes jsem zvedl osmkrát 300 liber jednou rukou. V jeden okamžik spadl ukazate
 * Věc, kterou jsem nejvíc nenáviděl
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:41-cs
-  :DATE-EVENT: 1998-10-31
+  :genre: anecdote-autobiography
+  :cite-key: mjww:41-cs
+  :date-event: 1998-10-31
   :END:
 
 Dokážete si to představit! Vzpírání byla věc, kterou jsem v Indii nenáviděl ze všeho nejvíc. Bůh se mi tehdy smál. Celou svou atletickou kariéru jsem absolvoval bez vzpírání. Nelíbily se mi velké svaly. Teď mám velké svaly rád, ale nedostanu je!
@@ -199,9 +195,9 @@ Dokážete si to představit! Vzpírání byla věc, kterou jsem v Indii nenáv
 * Dávám jen 70%
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:42-cs
-  :DATE-EVENT: 1998-11-02
+  :genre: anecdote-autobiography
+  :cite-key: mjww:42-cs
+  :date-event: 1998-11-02
   :END:
 
 Dnes ráno jsem desetkrát zvedl 300 liber jednou rukou. Ale nemělo to opravdovost. Silně cítím, že jsem nevyužil svou schopnost naplno. Věnuji tomu jen 70% své pozornosti. Nevím proč, ale toto zvedání mi nedává inspiraci ani radost. Dnes se mi dokonce ani nechtělo zvedat každou rukou čtyřikrát, ale zvedl jsem každou rukou pětkrát. To ukazuje na to, že má mysl nebyla přítomna. 
@@ -215,9 +211,9 @@ Dnes ráno jsem desetkrát zvedl 300 liber jednou rukou. Ale nemělo to opravdov
 * Mé svaly tancovaly
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:43-cs
-  :DATE-EVENT: 1998-11-06
+  :genre: anecdote-autobiography
+  :cite-key: mjww:43-cs
+  :date-event: 1998-11-06
   :END:
 
 Dnes jsem byl velmi šťastný, že jsem zvedl v New Jersey letadlo. Bylo velké. Na jedné straně bylo palivo. Šla výše než druhá strana. Pak, při druhém zdvihu, se k letadlu přidalo šest lidí a váha byla 10 527 liber. Tento zdvih byl skutečně obtížný. Mé ramenní a lýtkové svaly tancovaly! Celé mé tělo se třáslo. 
@@ -231,9 +227,9 @@ Toto letadlo bylo těžké, ale já jsem chtěl zvednout ještě těžší. Pož
 * Kouzelný zdvih
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:44-cs
-  :DATE-EVENT: 1998-11-11
+  :genre: anecdote-autobiography
+  :cite-key: mjww:44-cs
+  :date-event: 1998-11-11
   :END:
 
 Minulou noc jsem byl velmi nemocný! Můj žaludek byl v plamenech, má hlava byla v plamenech. Ve 3 hodiny v noci jsem na dvacet minut usnul. Pak jsem se cítil lépe. Celé ranní zvedání jsem absolvoval jako obvykle, ale nepoužíval jsem video. Vím, že když je zapnutá kamera, mám pokušení snažit se o nejlepší výkony. 
@@ -253,9 +249,9 @@ Za pár hodin odlétám do Finska, abych jej slavnostně prohlásil za Sri Chinm
 * Nejslabší článek
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:45-cs
-  :DATE-EVENT: 1998-11-15
+  :genre: anecdote-autobiography
+  :cite-key: mjww:45-cs
+  :date-event: 1998-11-15
   :END:
 
 Dnes jsem chtěl na břiše zvednout 367 liber, abych vyrovnal svůj rekord, ale nedokázal jsem překonat 200 liber. Dva chlapci jsou potřeba k tomu, aby mi závaží dali na břicho, a já jsem viděl, že jeden z nich je slabý. Třásly se mu ruce a já jsem se bál, aby ho neupustil. 
@@ -267,9 +263,9 @@ Dnes jsem chtěl na břiše zvednout 367 liber, abych vyrovnal svůj rekord, ale
 * Na bitevním poli
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:46-cs
-  :DATE-EVENT: 1998-11-15
+  :genre: anecdote-autobiography
+  :cite-key: mjww:46-cs
+  :date-event: 1998-11-15
   :END:
 
 Dnes jsem měl dvě rozcvičky s činkami -- jednu ráno a jednu večer. Během večerní rozcvičky jsem zvedl 300 liber a také 200 liber jednou rukou. Nevynaložil jsem veškeré své úsilí, nemyslím, že to bylo víc než 80%. Není dobré cvičit každý den na 100%. Můžete se zranit a vaše mysl se vyčerpává. Ale když zvedám 145 liber v každé ruce současně, zabíjím se. V tu chvíli jsem na skutečném bitevním poli. Lhal bych, kdybych tvrdil, že nevynakládám při zvedání dvou činek najednou 100% úsilí. Je to 110% úsilí!
@@ -283,9 +279,9 @@ Dnes jsem zvedl 145 liber v každé ruce současně poprvé. Celkově to bylo 2
 * V této inkarnaci už to stačí
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:47-cs
-  :DATE-EVENT: 1998-11-18
+  :genre: anecdote-autobiography
+  :cite-key: mjww:47-cs
+  :date-event: 1998-11-18
   :END:
 
 Dnes jsem zvedl proudové letadlo Lear vážící přes 22 000 liber. Před tím, než jsem odjel, jsem se vážil. Mám 144,5 liber. Byl jsem velmi potěšen a vzrušen. Ale v mé vizi se přede mnou okamžitě objevil můj bratr Chitta. Byl velmi smutný. Řekl mi: „Skutečně chci, abys vážil mezi 150 a 155 librami, nechoď s vahou pod 150 liber.“ Tak jsem mu slíbil, že si budu držet váhu mezi 145 a 150 librami. Byl částečně šťastný. Nemyslím si, že když budu vážit pod 143 liber, dokážu si udržet sílu. Dnes se cítím velmi silný.
@@ -307,9 +303,9 @@ Nyní mohu říci, že to pro tuto inkarnaci stačí!
 * Oblek pilota
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:48-cs
-  :DATE-EVENT: 1998-11-18
+  :genre: anecdote-autobiography
+  :cite-key: mjww:48-cs
+  :date-event: 1998-11-18
   :END:
 
 Když jsem zvedal letadlo, znovu jsem měl na sobě oblek pilota. Tyto šaty jsou milé a mám z nich radost, ale nezískávám z nich okamžitě sílu, jako získávám, když nosím své obyčejné kalhoty a tričko. Když mám na sobě kalhoty pilota, cítím, že jsou velmi slabé, skoro ženské. Vůbec nepřispívají mé síle. Vlastně cítím, že sílu jim dávám já. Když si oblékám košili, barva je slabá, všechno je slabé. Když mám své obyčejné oblečení, získávám velkou sílu. Mé obyčejné oblečení se hodí k mému tělu. 
@@ -321,9 +317,9 @@ Když jsem zvedal letadlo, znovu jsem měl na sobě oblek pilota. Tyto šaty jso
 * Prošel jsem zkouškou
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:49-cs
-  :DATE-EVENT: 1998-11-22
+  :genre: anecdote-autobiography
+  :cite-key: mjww:49-cs
+  :date-event: 1998-11-22
   :END:
 
 Dnes jsem zvedl 145 liber v každé ruce současně. Mohl jsem je zvednout výš, kdybych ještě zatlačil, ale byl jsem spokojen. Pak jsem jen upustil činky. Zabíjím se zvedáním takových vah, ale když je zvednu do určité výšky, stačí mi to, abych prošel svou zkouškou. Jinak bych mohl činky zvednout o 2,5 až 5 centimetrů výše. 
@@ -337,9 +333,9 @@ Dnes jsem také stokrát zvedl 145 liber jednou rukou za 6 minut a 36 sekund. Zk
 * Vypadám jako Lee Haney
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:50-cs
-  :DATE-EVENT: 1998-11-25
+  :genre: anecdote-autobiography
+  :cite-key: mjww:50-cs
+  :date-event: 1998-11-25
   :END:
 
 Dnes jsem zvedl 145 liber oběma rukama docela vysoko. Je legrační, že když zvedám, můj obličej je podobný na Lee Haneyho!
@@ -353,9 +349,9 @@ Za dva dny se odehraje má vzpěračská přehlídka. Můj plán je nechat si te
 * Zvedání tryskáče
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:51-cs
-  :DATE-EVENT: 1998-11-26
+  :genre: anecdote-autobiography
+  :cite-key: mjww:51-cs
+  :date-event: 1998-11-26
   :END:
 
 Dnes, na Den díkůvzdání, jsem svou pokornou službu položil k Nohám Boha. Vrátil jsem se na MacArthurovo letiště, abych zvedl mnohem větší tryskáč. Zvedl jsem ho dvakrát. Podruhé bylo v letadle dvacet jedna pasažérů včetně majitele letadla. Vážilo 31 000 liber a majitel řekl, že cítil, jak se letadlo zatřáslo. Řekl: „Ani se nebudu snažit tomu rozumět.“
@@ -381,9 +377,9 @@ Když jsem se vrátil domů, okamžitě jsem telefonoval sestře. Měla velmi do
 * Nahromadění tuku
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:52-cs
-  :DATE-EVENT: 1998-11-21
+  :genre: anecdote-autobiography
+  :cite-key: mjww:52-cs
+  :date-event: 1998-11-21
   :END:
 
 Dnes jsem udělal nový rekord na Sumadhurově a Bishwasově přístroji pro dvouručný zdvih v sedě. Zvedl jsem každou rukou desetkrát 110 liber. 
@@ -397,9 +393,9 @@ Před několika dny jsme měli soutěž břich. Běda, čím více cvičím své
 * Běžte k očnímu lékaři
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:53-cs
-  :DATE-EVENT: 1998-12-23
+  :genre: anecdote-autobiography
+  :cite-key: mjww:53-cs
+  :date-event: 1998-12-23
   :END:
 
 Chtivost nikdy neskončí! Dnes jsem po zvednutí 120 liber v každé ruce najednou vestoje pokračoval se 130 librami. Savyasachi váží 132 liber. Jeho váhu dokážu zvednout oběma rukama. 
@@ -417,9 +413,9 @@ Ti lidé, kteří pro mě mají upřímné pochopení, mi rozumí nehledě na to
 * Vracím se z Indie
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:54-cs
-  :DATE-EVENT: 1998-12-28
+  :genre: anecdote-autobiography
+  :cite-key: mjww:54-cs
+  :date-event: 1998-12-28
   :END:
 
 Bylo to ode mě velmi hloupé myslet na zvedání těžkých závaží, hned co jsem se dnes vrátil z Indie. Snažil jsem se zvednout 400 liber, což jsem nedělal čtyři nebo pět dnů. Nenapadlo mě požádat Unmilana, aby snížil hmotnost. 
@@ -435,9 +431,9 @@ Nyní zvedám 400 liber tak vysoko jako 300 liber. Příští rok mi bude 68 let
 * Ovlivněn vedrem
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:55-cs
-  :DATE-EVENT: 1998-12-28
+  :genre: anecdote-autobiography
+  :cite-key: mjww:55-cs
+  :date-event: 1998-12-28
   :END:
 
 Dobrá zpráva je, že jsem zhubl ze 154 liber na 149,5 liber. Indické vedro mě velmi, velmi oslabilo. Navíc místo toho, aby vedro pomohlo mým kolenům, z nějakého důvodu způsobilo, že mě bolí více. V Honolulu jsem každý den chodil 3,5 míle, ale dnes jsem zvládl chodit jen pět minut. 
@@ -449,9 +445,9 @@ Dobrá zpráva je, že jsem zhubl ze 154 liber na 149,5 liber. Indické vedro m�
 * Váha, která lhala
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:56-cs
-  :DATE-EVENT: 1998-12-29
+  :genre: anecdote-autobiography
+  :cite-key: mjww:56-cs
+  :date-event: 1998-12-29
   :END:
 
 V mém hotelovém pokoji je váha. Dnes mi váha řekla, že vážím 120 liber! Jak je to možné? Včera jsem vážil 149,5 libry. V tom musí být nějaká chyba. Proto jsme Savyasachi a já šli koupit novou váhu. Byli jsme na nejrůznějších místech a každá váha říkala něco jiného. Doma mám lékařskou váhu, vím, že je přesná na 100%. 
@@ -463,9 +459,9 @@ V mém hotelovém pokoji je váha. Dnes mi váha řekla, že vážím 120 liber
 * Počítání v bengálštině
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:57-cs
-  :DATE-EVENT: 1998-12-31
+  :genre: anecdote-autobiography
+  :cite-key: mjww:57-cs
+  :date-event: 1998-12-31
   :END:
 
 Když dělám mnoho opakování, počítám si bengálsky. Na angličtinu zapomínám. Dnes jsem zvedal 400 liber jednou rukou dvě stě krát. Podívejte se na spodní část kotouče. Uvidíte, že se zvedá. Já to vidím velmi jasně. Dnes obdivuji sám sebe! Nemohu vidět zdvih, když ho dělám. Vidím ho, až když se dívám na videu. 
@@ -477,9 +473,9 @@ Když dělám mnoho opakování, počítám si bengálsky. Na angličtinu zapom
 * Můj lehký den
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:58-cs
-  :DATE-EVENT: 1999-01-01
+  :genre: anecdote-autobiography
+  :cite-key: mjww:58-cs
+  :date-event: 1999-01-01
   :END:
 
 Dnes mám svůj lehký tréninkový den, ne svůj těžký tréninkový den. Na Sumadurově a Bishwasově přístroji jsem zvedal jen do 90 liber oběma rukama. 90 liber je teď pro mě tak snadných. Je to skoro jako pití vody. Ale když to dojde na 110 liber, zabíjí mě to. 
@@ -493,9 +489,9 @@ Mám jeden den lehký, jeden den těžký.
 * Postupně se zvyšující úsilí
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:59-cs
-  :DATE-EVENT: 1999-01-01
+  :genre: anecdote-autobiography
+  :cite-key: mjww:59-cs
+  :date-event: 1999-01-01
   :END:
 
 Dnes jsem zvedl 210 liber pravou rukou a potom levou rukou. Ačkoliv hlučím už od začátku, postupně zvyšuji své úsilí. Pokud budu používat maximální úsilí už od začátku, zraním se. 
@@ -507,9 +503,9 @@ Dnes jsem zvedl 210 liber pravou rukou a potom levou rukou. Ačkoliv hlučím u�
 * Ošetření kolene
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:60-cs
-  :DATE-EVENT: 1999-01-02
+  :genre: anecdote-autobiography
+  :cite-key: mjww:60-cs
+  :date-event: 1999-01-02
   :END:
 
 Utratil jsem během let tisíce dolarů za injekce a další léčbu pro svá kolena. Nyní mám vynikající výsledky z protahování noh s pětilibrovým závažím kolem kotníků. 
@@ -521,9 +517,9 @@ Utratil jsem během let tisíce dolarů za injekce a další léčbu pro svá ko
 * Fyzické a duchovní
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:61-cs
-  :DATE-EVENT: 1999-01-06
+  :genre: anecdote-autobiography
+  :cite-key: mjww:61-cs
+  :date-event: 1999-01-06
   :END:
 
 Nyní jste viděli video, kde zvedám 140 liber v každé ruce najednou. Fyzické a duchovní mohou jít společně. Tady je důkaz. Duchovní pracuje velmi mocně v hmotném a jeho prostřednictvím. 
@@ -535,9 +531,9 @@ Nyní jste viděli video, kde zvedám 140 liber v každé ruce najednou. Fyzick
 * Neočekávaný neúspěch
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:62-cs
-  :DATE-EVENT: 1999-01-10
+  :genre: anecdote-autobiography
+  :cite-key: mjww:62-cs
+  :date-event: 1999-01-10
   :END:
 
 Dnes jsem nebyl schopen zvednout 110 liber oběma rukama najednou. Třikrát jsem to zkoušel a třikrát jsem neuspěl. Byl jsem šokován, když se mi to nepodařilo. Řekl jsem: „Jak jsem mohl přes noc ztratit sílu?“ Později jsem zjistil, že chlapci dali na zem navíc 2,5 centimetrovou desku. Někdo jim to poradil. Já jsem se tak nemohl dostat do správné pozice. 
@@ -549,9 +545,9 @@ Dnes jsem nebyl schopen zvednout 110 liber oběma rukama najednou. Třikrát jse
 * Má mysl byla někde jinde
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:63-cs
-  :DATE-EVENT: 1999-01-23
+  :genre: anecdote-autobiography
+  :cite-key: mjww:63-cs
+  :date-event: 1999-01-23
   :END:
 
 Dnes má mysl nebyla při zvedání přítomna. Měl jsem spoustu problémů. Dělal jsem všechno jedině díky rutině, ale dnešní výkon byl velmi špatný. Když došlo na zvedání 160 liber oběma rukama na Sumadurově a Bishwasově přístroji, po prvním zdvihu jsem si myslel, že se mi to podaří lépe. Běda, další tři zdvihy byly ještě horší. 
@@ -563,9 +559,9 @@ Dnes má mysl nebyla při zvedání přítomna. Měl jsem spoustu problémů. D�
 * Odrazující zkušenost
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:64-cs
-  :DATE-EVENT: 1999-02-20
+  :genre: anecdote-autobiography
+  :cite-key: mjww:64-cs
+  :date-event: 1999-02-20
   :END:
 
 Dnes zvedám po tolika dnech. Mnoho dnů jsem se necítil dobře. Vzpírám jeden den a pak jsem nucen čtyři nebo pět dnů odpočívat, všechno kvůli oslabenému tělu. Mé tělo se zcela bouří. 
@@ -579,9 +575,9 @@ Jsem velmi nespokojen s 300 librami. Proto jsem je nenatáčel na video. Je to 
 * Mechanici a pilot
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:65-cs
-  :DATE-EVENT: 1999-02-21
+  :genre: anecdote-autobiography
+  :cite-key: mjww:65-cs
+  :date-event: 1999-02-21
   :END:
 
 Dnes jsem v sedě zvedl 130 liber oběma rukama najednou. To je velká legrace! Jak víte, tento stroj vyrobili Sumadur a Bishwas. Je to jako mechanici a pilot. Mechanici bez pilota nemohou letadlem letět. A bez mechaniků nemůže letět pilot. Takže Sumadur a Bishwas jsou mechanici a já jsem pilot. Nemůžeme dělat práci toho druhého. 
@@ -593,9 +589,9 @@ Dnes jsem v sedě zvedl 130 liber oběma rukama najednou. To je velká legrace!
 * Skvělý výkon
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:66-cs
-  :DATE-EVENT: 1999-02-22
+  :genre: anecdote-autobiography
+  :cite-key: mjww:66-cs
+  :date-event: 1999-02-22
   :END:
 
 Dnes jsem poprvé zvedl 140 liber oběma rukama najednou vsedě. Pro mě je to skvělý výkon -- jako běh na 100 metrů. Nejdůležitější věcí je zápěstí. Pokud neudělám ten správný vztlak ze zápěstí, pak končím.
@@ -607,9 +603,9 @@ Dnes jsem poprvé zvedl 140 liber oběma rukama najednou vsedě. Pro mě je to s
 * Abakashovo osvícení
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:67-cs
-  :DATE-EVENT: 1999-02-22
+  :genre: anecdote-autobiography
+  :cite-key: mjww:67-cs
+  :date-event: 1999-02-22
   :END:
 
 Dnes jsem zvedl 140 liber ve stoje dvourukým zdvihem. V těchto dnech při zvedání tolik nesténám. Cítím, že dokážu jít na 150 liber.
@@ -624,9 +620,9 @@ Abakash je tak moudrý.
 * Vítězná trofej
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:68-cs
-  :DATE-EVENT: 1999-03-04
+  :genre: anecdote-autobiography
+  :cite-key: mjww:68-cs
+  :date-event: 1999-03-04
   :END:
 
 Dnes jsem poprvé zvedl 150 liber v každé ruce. Celkově je to 300 liber. Dvěma rukama je to těžší než jednou, protože musíte rozdělit svou koncentraci. Když jsem viděl video, vypadalo to, jako když držím vítěznou trofej.
@@ -638,9 +634,9 @@ Dnes jsem poprvé zvedl 150 liber v každé ruce. Celkově je to 300 liber. Dv�
 * Vidět dvojitého Pulaka
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:69-cs
-  :DATE-EVENT: 1999-03-15
+  :genre: anecdote-autobiography
+  :cite-key: mjww:69-cs
+  :date-event: 1999-03-15
   :END:
 
 Dnes jsem poprvé zvedl 155 liber v každé ruce najednou. Můžete vidět, že mé nohy trochu pruží. Představit si zvednutí 155 liber oběma rukama najednou -- samotná ta myšlenka mě mate. Tolik váží Pulak. Tak teď můžete vidět dvojitého Pulaka!
@@ -654,9 +650,9 @@ Kolik odhodlání je v mém obličeji! Pokud dokážu zvednout 170 liber oběma
 * Nový dvouruký rekord
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:70-cs
-  :DATE-EVENT: 1999-03-16
+  :genre: anecdote-autobiography
+  :cite-key: mjww:70-cs
+  :date-event: 1999-03-16
   :END:
 
 Dnes jsem zvedl 160 liber v každé ruce najednou na první pokus. I jen pomyšlení na 160 liber v každé ruce mě skutečně děsí. Týden budu zvedat 160 liber a pak se pokusím o 165. 
@@ -670,9 +666,9 @@ Je velmi těžké udržet rovnováhu, když jsou ruce oddělené. Když máte je
 * Atypický Ind
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:71-cs
-  :DATE-EVENT: 1999-03-16
+  :genre: anecdote-autobiography
+  :cite-key: mjww:71-cs
+  :date-event: 1999-03-16
   :END:
 
 Jsem podivuhodný indický voják. Obvykle nás v padesáti letech Bůh zve, abychom se k Němu v Nebi připojili. Mně bude 68. Před deseti lety jsem se snažil zvednout 160 liber každou rukou a nepodařilo se mi to. Nedokázal jsem činky zvednout ani o 2 centimetry. A pokoušel jsem se osmkrát. V té době jsem byl ve druhé polovině padesátky.
@@ -686,9 +682,9 @@ Dnes jsem zkusil stejnou váhu a na první pokus jsem činku snadno zvedl více 
 * Můj obvyklý den
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:72-cs
-  :DATE-EVENT: 1999-03-16
+  :genre: anecdote-autobiography
+  :cite-key: mjww:72-cs
+  :date-event: 1999-03-16
   :END:
 
 Minulou noc jsem si šel lehnout deset minut po třetí hodině. Trochu jsem spal a těsně před čtvrtou hodinou jsem vstával. Hodinu jsem se protahoval, pak jsem cvičil na osmi různých přístrojích, ani jednou jsem nepoužil video. Udělal jsem mnoho cviků. V pět hodin jsem zapnul video a začal jsem s hlavními cviky.
@@ -704,9 +700,9 @@ Toto je má obvyklá práce. Proto mohu během dne několik minut spát.
 * Není v tom ukryto žádné kouzlo
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:73-cs
-  :DATE-EVENT: 1999-03-17
+  :genre: anecdote-autobiography
+  :cite-key: mjww:73-cs
+  :date-event: 1999-03-17
   :END:
 
 Dnes Mridanga změnil úhel videokamery, abyste viděli mé nohy, když zvedám 160 liber každou rukou zároveň. Tak mohou lidé poznat, že v mých nohách není žádné kouzlo. Dnes zvedám 160 liber rozhodně výš než včera. Od zítřka budu zkoušet 170 liber a uvidím, jak dlouho mi to bude trvat. 
@@ -718,9 +714,9 @@ Dnes Mridanga změnil úhel videokamery, abyste viděli mé nohy, když zvedám 
 * Proroctví Mika Katze se vyplňuje
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:74-cs
-  :DATE-EVENT: 1999-03-18
+  :genre: anecdote-autobiography
+  :cite-key: mjww:74-cs
+  :date-event: 1999-03-18
   :END:
 
 Když Mike Katz uslyšel, že jsem zvedl 160 liber v každé ruce, řekl: „Jsem udiven, ale ne překvapen. Sri Chinmoy by mě totiž nepřekvapil ani se 170 či 180 librovou činkou v každé ruce.“
@@ -736,9 +732,9 @@ Je pravda, že za tisíc let budou lidé pochybovat, zda jsem byl jeden člověk
 * Podstata zázraku
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:75-cs
-  :DATE-EVENT: 1999-03-18
+  :genre: anecdote-autobiography
+  :cite-key: mjww:75-cs
+  :date-event: 1999-03-18
   :END:
 
 Pro mě je zázrak, když deset milionů lidí nemůže něco dokázat a pak přijde jeden, který to dokáže. Je to zázrak, když miliony a miliony lidí nemohou něco udělat -- na jakékoliv úrovni -- a pak to jeden člověk dokáže. Naše mysl se ale zasekne, proto to slovo nepoužíváme. Když jedna osoba napíše nesmrtelnou píseň, píseň, která přichází z jiného světa -- jako „Ave Maria“ -- pak je to podle mě zázrak. Podívejte se na všechny ty nepředstavitelné věci, které dokázali prezident Gorbačov a prezident Mandela -- nejsou tyto věci zázraky? Sudhahotových devět zlatých medailí -- není toto nesmrtelné dosažení zázrakem? Na každém poli se odehrávají zázraky, pokud máme oči je vidět.
@@ -750,9 +746,9 @@ Pro mě je zázrak, když deset milionů lidí nemůže něco dokázat a pak př
 * Tolik věcí k zapamatování
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:76-cs
-  :DATE-EVENT: 1999-03-19
+  :genre: anecdote-autobiography
+  :cite-key: mjww:76-cs
+  :date-event: 1999-03-19
   :END:
 
 Když zvedám 170 liber v každé ruce, na kolik věcí musím pamatovat! Nejprve musím rozsvítit světla a zapnout dva videopřístroje. Pak dávám modlitbu. Pak stojím pod závažím a dlouho medituji. Můžete vidět, jak hluboko jsem ponořený. Pak musím zapnout automatickou kameru. Když jsem dnes ráno zapnul kameru, začala velmi hlasitě cvakat. Myslel jsem si: „Čas běží!“ Proto jsem musel dýchat a dělat všechno velmi rychle. Kvůli kameře jsem nemohl pokračovat v obvyklém rytmu. Musel jsem zrychlit. Ale, i přes nevýhody, byl dnešní zdvih vyšší. Necháváme z toho dělat zvětšeniny.
@@ -766,26 +762,11 @@ Než jsem viděl video, obával jsem se, obával. Skutečně se to zvedlo? Dokud
 * Co Bůh dokáže
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MJWW:77-cs
-  :DATE-EVENT: 1999-03-19
+  :genre: anecdote-autobiography
+  :cite-key: mjww:77-cs
+  :date-event: 1999-03-19
   :END:
 
 Když jsem pozval žáky, aby se podívali na dnešní ranní video, řekl jsem: „Nyní můžete vidět, jak Bůh dokáže proměnit básníka ve vzpěrače!“
 
 /19. března 1999/
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

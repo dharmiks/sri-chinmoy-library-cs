@@ -1,20 +1,15 @@
-#+TITLE: Moje konzulární léta
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Moje konzulární léta
 
  :PROPERTIES:
- :BOOK-NUMBER:
- :AUTHOR: Sri Chinmoy
- :ORIGINAL-EDITION: Nil
- :YEAR: 1998
- :PUBLISHER: Madal Bal
- :CITE-KEY: MCY-cs
- :GENRE: anecdote-biographical, poem
- :KEYWORDS:
+ :language: cs
+ :book-number:
+ :author: Sri Chinmoy
+ :original-edition: Nil
+ :year: 1998
+ :publisher: Madal Bal
+ :cite-key: MCY-cs
+ :genre: anecdote-biographical, poem
+ :keywords:
  :END:
 
 
@@ -23,9 +18,9 @@
 * Část I -- Moje konzulární léta
 
  :PROPERTIES:
- :GENRE: section
- :CITE-KEY: MCY:1e1-cs
- :KEYWORDS:
+ :genre: section
+ :cite-key: mcy:1e1-cs
+ :keywords:
  :END:
 
 
@@ -33,9 +28,9 @@
 * Žádám o místo na indickém konzulátě
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:1-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:1-cs
+ :keywords:
  :END:
 
 
@@ -43,7 +38,7 @@ Když jsem 13. dubna 1964 přijel poprvé do Ameriky, byl jsem značně zmatený
 
 Měl jsem ještě jednoho sponzora, a sice paní Annu Harrisonovou. Její sestra Jean měla dům v Baltimoru. Řekla mi, že bych tam mohl meditovat a Anna by tam mohla zvát hledající a žáky. To mě velmi potěšilo a byl jsem připraven jet do Baltimoru a žít tam.
 
-Nicméně Kailash-ben, moje duchovní sestra z Ašrámu Sri Aurobinda na to řekla: „Ne, ne, ty musíš pracovat na indickém konzulátě.“ Řekl jsem jí: „Nemám žádné akademické vzdělání“, Ona sama jej totiž měla. 
+Nicméně Kailash-ben, moje duchovní sestra z Ašrámu Sri Aurobinda na to řekla: „ne, ne, ty musíš pracovat na indickém konzulátě.“ Řekl jsem jí: „Nemám žádné akademické vzdělání“, Ona sama jej totiž měla. 
 
 „Ujišťuji tě, že tam dostaneš práci.“ „To je nemožné“, odporoval jsem, „Indická vláda bude přinejmenším požadovat, abych byl bakalářem, jinak mi nedovolí, abych tam pracoval.“ „Alespoň to zkus“, ona na to.
 
@@ -64,9 +59,9 @@ Když jsem nastoupil do práce, řekli mi, že mě později znovu vyzkouší z p
 * Stávám se stálým zaměstnancem
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:2-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:2-cs
+ :keywords:
  :END:
 
 
@@ -88,9 +83,9 @@ Proč mi to Dhawan řekl před všemi ostatními kolegy? Snad jim chtěl znepř�
 * Oddělení pasů a víz
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:3-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:3-cs
+ :keywords:
  :END:
 
 V našem oddělení jsem obvykle sedával vedle pana Ramamoorthyho a kromě nás dvou tam bylo ještě sedm lidí. Nebylo to tam větší než moje nynější meditační místnost. Dva nebo tři lidé sdíleli jeden stůl. Pan Mehrotra měl vlastní kancelář, protože byl konzulem pasů a víz. Ve své kanceláři měl jeden velký stůl a dvě židle.
@@ -104,9 +99,9 @@ Od prvního dne jsem kontroloval pasy, zda jsou správně vyplněny. Můj plat �
 * Moje mentální aritmetika
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:4-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:4-cs
+ :keywords:
  :END:
 
 Už pouhé jméno Dhawan nahánělo každému strach. Jednou jsem v oddělení pana Shivaramy vykazoval vydanou částku peněz. Dhawan viděl, jak počítám zpaměti a řekl: „Už to chápu! Zde je důkaz, že jste nestudoval! Kdybyste studoval, použil byste kalkulátor a nepočítal z hlavy!“ Dhawan si ze mne dělal legraci, protože všichni ostatní používali kalkulátory a jen já jsem počítal z hlavy. Někdy jsem počítal nahlas v bengálštině a oni se smáli.
@@ -115,9 +110,9 @@ Už pouhé jméno Dhawan nahánělo každému strach. Jednou jsem v oddělení p
 * Účast pana Mehrotry
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:5-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:5-cs
+ :keywords:
  :END:
 
 Pracoval jsem na konzulátě již tři měsíce, když byl pan Mehrotra na dva nebo tři měsíce poslán služebně na Kubu. Indické velvyslanectví nemělo na Kubě svého velvyslance, a tak jej požádali, aby tam na čas odjel.
@@ -133,9 +128,9 @@ Pan Mehrotra se ptal na všechno možné. Od samého začátku byl ke mně výji
 * Moje první přednáška o hinduismu
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:6-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:6-cs
+ :keywords:
  :END:
 
 Jeden z mých přátel na konzulátě se jmenoval Ananda Mohan. Pracoval v přízemí v informačním oddělení. Často jsme spolu mluvili o náboženství.
@@ -148,21 +143,21 @@ Měl jsem jen pět dní či týden na přípravu. Svou přednášku jsem nazval 
 
 Ananda Mohan byl můj velmi dobrý přítel. Snad byl šťasten, že nemusel dělat tu přednášku. Je velmi dobrým řečníkem a vynikajícím spisovatelem. Napsal knihu o Indiře Gandhi a pár let poté pochvalný článek o jedné mé velké akrylové malbě.
 
-/[Pozn.: Přednáška „Hinduismus: Cesta duše Indie“ byla vytištěna v knize Yoga and the spiritual Life (Jóga a duchovní život)]/
+/[Pozn.: přednáška „hinduismus: Cesta duše Indie“ byla vytištěna v knize Yoga and the spiritual Life (Jóga a duchovní život)]/
 
 
 
 * Zábavná příhoda
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:7-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:7-cs
+ :keywords:
  :END:
 
-Na mé přednášce v synagóze se stala legrační věc. Dovezl mě tam můj Bholanath, jenž byl ke mně mimořádně laskav a obvykle mě všude vozil. Bholanath je Židem a jeho občanské jméno je Clive Weinmann. Jakmile jej uviděl rabín, zeptal se ho: „Ty jsi jeho žákem?“ Bholanath na to: „Ó nikoli, jsem jenom jeho řidič. Jenom jsem ho sem dovezl.“
+Na mé přednášce v synagóze se stala legrační věc. Dovezl mě tam můj Bholanath, jenž byl ke mně mimořádně laskav a obvykle mě všude vozil. Bholanath je Židem a jeho občanské jméno je Clive Weinmann. Jakmile jej uviděl rabín, zeptal se ho: „ty jsi jeho žákem?“ bholanath na to: „Ó nikoli, jsem jenom jeho řidič. Jenom jsem ho sem dovezl.“
 
-Vnitřně jsem se jenom smál a smál. Bholanath byl mým nejoddanějším žákem! Jednou mi to sám otevřeně řekl. Byl večer a stáli jsme spolu na stanici 14. ulice. Díval jsem se, jak Bholanath nastupuje. Náhle vystoupil z vlaku a objal mě před tisícovým davem lidí. Řekl mi, že když byl uvnitř vozu, uviděl moji duši. Byl jsem hluboce dojat. Po tomto zážitku mi říkával: „Jsem tvým prvním opravdovým žákem.“ Poprvé jsem se s Bholanathem setkal asi čtyři nebo pět dní po mém příjezdu do Ameriky, v bytu mého sponzora Sama Spaniera. Pak se stal mým tak oddaným, skutečným žákem. Ale v tom okamžiku v synagóze obrátil. Řekl: „Jsem jenom řidič.“
+Vnitřně jsem se jenom smál a smál. Bholanath byl mým nejoddanějším žákem! Jednou mi to sám otevřeně řekl. Byl večer a stáli jsme spolu na stanici 14. ulice. Díval jsem se, jak Bholanath nastupuje. Náhle vystoupil z vlaku a objal mě před tisícovým davem lidí. Řekl mi, že když byl uvnitř vozu, uviděl moji duši. Byl jsem hluboce dojat. Po tomto zážitku mi říkával: „jsem tvým prvním opravdovým žákem.“ poprvé jsem se s bholanathem setkal asi čtyři nebo pět dní po mém příjezdu do ameriky, v bytu mého sponzora sama spaniera. pak se stal mým tak oddaným, skutečným žákem. ale v tom okamžiku v synagóze obrátil. Řekl: „Jsem jenom řidič.“
 
 Když jsme po přednášce odjížděli, povídám mu: „Takže ty ses stal mým řidičem!“
 
@@ -177,9 +172,9 @@ Bholanath byl ke mně laskav na miliony různých způsobů. Všude mě vozil. T
 * Bholanathův otec
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:8-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:8-cs
+ :keywords:
  :END:
 
 Bholanathův otec byl právníkem. Uplynulo několik let a naskytla se mu příležitost pomoci nám s koupí našeho současného domu. Řekl svému synovi, že ode mne nepřijme žádné peníze. Nicméně po té, co koupě proběhla, přišel za mnou a řekl: „Udělal jsem pro vás toto a tamto. Ušetřil jsem vám z ceny toho domu dva tisíce dolarů, takže mi je můžete dát.“ A tak jsem podepsal šek na dva tisíce dolarů.
@@ -195,9 +190,9 @@ Potom se Bholanath se svým otcem smířil.
 * Setkání ve výtahu
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:9-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:9-cs
+ :keywords:
  :END:
 
 Když se pan Mehrotra vrátil z Kuby, odjel náš hlavní konzul, S.K. Roy, nazpět do Indie. Tak jako před Dhawanem i před ním se všichni pracovníci třásli. V Dhawanově případu to bylo ale ze strachu, kdežto v případě hlavního konzula to bylo z respektu. Všichni jsme měli před S.K. Royem uctivou bázeň. Vyhlížel velmi přísně. Vždy rázně pochodoval. On snad ani neuměl chodit pomalu. 
@@ -211,12 +206,12 @@ Vrátil jsem se a nastoupil do výtahu. Povídá mi: „Řekněte mi, jsem snad 
 * Velkorysost pana Mehrotry
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:10-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:10-cs
+ :keywords:
  :END:
 
-Jednoho dne jsem šel kolem stolu sekretářky pana Mehrotry, která něco psala. Řekla mi: „Ghosi, nechtěl byste si něco přečíst?“ Pan Mehrotra si připravoval přednášku o buddhismu a hinduismu. Přečetl jsem si ji a moc se mi líbila. Na dvou místech jsem ale objevil dvě nevýznamné gramatické chyby. Řekl jsem o nich sekretářce a pak jsem dodal: „Jenom to proboha neříkejte panu Mehrotrovi, jinak přijdu o práci!“
+Jednoho dne jsem šel kolem stolu sekretářky pana Mehrotry, která něco psala. Řekla mi: „ghosi, nechtěl byste si něco přečíst?“ pan mehrotra si připravoval přednášku o buddhismu a hinduismu. přečetl jsem si ji a moc se mi líbila. na dvou místech jsem ale objevil dvě nevýznamné gramatické chyby. Řekl jsem o nich sekretářce a pak jsem dodal: „Jenom to proboha neříkejte panu Mehrotrovi, jinak přijdu o práci!“
 
 Pan Mehrotra byl zvyklý své projevy diktovat a tak je možné, že ty chyby udělala sama sekretářka. V každém případě jsem ji prosil, aby to panu Mehrotrovi neříkala. Ona ale znala povahu pana Mehrotry, a proto šla za ním a on ty chyby ihned opravil. Tím jsem získal milou práci. Kdykoli měl pan Mehrotra nějakou přednášku, dostal jsem její koncept, abych mohl říci své podněty. Pan Mehrotra ve mně něco viděl -- snad nadějného budoucího spisovatele.
 
@@ -227,9 +222,9 @@ Pan Mehrotra byl zvyklý své projevy diktovat a tak je možné, že ty chyby ud
 * Naše opětné shledání v San Franciscu
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:11-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:11-cs
+ :keywords:
  :END:
 
    V roce 1977 vystavovalo San Franciské centrum mé malby. Žáci navštívili tamní indický konzulát s informací o této výstavě. Hlavním konzulem byl tehdy pan Mehrotra. Když o mně mí žáci začali panu Mehrotrovi vyprávět, řekl jim k jejich velkému úžasu: „Znám Ghose. Pracoval se mnou. Velice rád bych se s ním setkal.“
@@ -243,9 +238,9 @@ Pan Mehrotra byl zvyklý své projevy diktovat a tak je možné, že ty chyby ud
 * Zpívám francouzskou hymnu
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:12-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:12-cs
+ :keywords:
  :END:
 
    V roce 1966 pozval pan Mehrotra kolegy z našeho oddělení na večeři k sobě do bytu na Manhattanu. V úřadě se k němu všichni chovali s respektem, ale v jeho domě všichni jenom žertovali. Byl tak okouzlující. V jednu chvíli všichni zpívali a já jsem zazpíval francouzskou státní hymnu. Uměl jsem ji dobře ještě v Indii.
@@ -255,9 +250,9 @@ Pan Mehrotra byl zvyklý své projevy diktovat a tak je možné, že ty chyby ud
 * Kolegové z konzulátu
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:13-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:13-cs
+ :keywords:
  :END:
 
    Všichni mí kolegové z konzulátu byli ke mně laskaví a musím říci, že pan Ramamoorthy se ke mně choval opravdu velmi pěkně. Byl vynikajícím kuchařem a několikrát mě pozval k sobě domů na večeři. Jeho dal byl prostě skvělý. (Dal je v češtině doslova „čočka“ a zde se tím míní oblíbené indické jídlo, jehož hlavní součástí je čočka. Existuje velké množství receptů, ale Indové rádi improvizují a umění pana Ramamoorthyho zřejmě spočívalo ve vytříbené kombinaci surovin a koření -- pozn. překl.) Jednou jsem mu řekl, že si chci půjčit z banky nějaké peníze a on mi ihned nabídl své ručení.
@@ -270,7 +265,7 @@ Pan Mehrotra byl zvyklý své projevy diktovat a tak je možné, že ty chyby ud
 
 /Pan B. Ramamoorthy:/
 
-   /Krishan Dhanda škádlil Gurua jako nikdo jiný. Tropit si z někoho žerty a škádlit jej měl přímo v povaze. Guru třeba za mnou přišel a řekl: „Pane Ramamoorthy, Dhanda řekl to a to.“ A já na to: „Buďte bez obav Ghosi. Postarám se o to.“
+   /Krishan Dhanda škádlil Gurua jako nikdo jiný. Tropit si z někoho žerty a škádlit jej měl přímo v povaze. Guru třeba za mnou přišel a řekl: „pane ramamoorthy, dhanda řekl to a to.“ a já na to: „Buďte bez obav Ghosi. Postarám se o to.“
 
    Dhanda si z lidí utahoval dokonce i když byl nemocný. Měl ledvinové kameny a byl několikrát hospitalizován. Sestřičky si ho oblíbily právě proto, že stále žertoval. Jednou jsem ho tam vezl, když měl bolesti. Sestry se ho ptaly: „Krishane, vy se k nám vracíte?“ „Ne, jen jsem vás přišel pozdravit“ zněla jeho odpověď. Netřeba říkat, že ho právě ten den přijali!
 
@@ -287,9 +282,9 @@ Pan Mehrotra byl zvyklý své projevy diktovat a tak je možné, že ty chyby ud
 * Počátky manifestace
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:14-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:14-cs
+ :keywords:
  :END:
 
 V současnosti mluvíme o manifestaci každou sekundu, ale začal to můj nejdražší přítel pan Ramamoorthy v září roku 1965. Poslal kopii prvního čísla časopisu AUM prezidentu Indie, doktorovi Radhakrishnanovi, který mu poslal velmi pěknou pochvalnou odpověď.
@@ -301,12 +296,12 @@ Tento zážitek je pro mne velmi drahocenný. Pan Ramamoorthy ve mně tenkrát c
 * Ghose si z nikoho neutahuje
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:15-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:15-cs
+ :keywords:
  :END:
 
-Jedna sekretářka v našem oddělení se jmenovala Carol Coutinhoe. Byl snad někdo kromě mne, komu nevyhubovala? Dhandovi obvykle říkala: „Dhando, nezapomínej, že jsem vdaná! Neměl bys na mne tolik mluvit!“ Moji kolegové si z ní také tropili žerty a ona je za to nemilosrdně hubovala. V mém případě ale říkala: „Ghose je tak milý. Ghose si ze mne nikdy neutahuje.“
+Jedna sekretářka v našem oddělení se jmenovala Carol Coutinhoe. Byl snad někdo kromě mne, komu nevyhubovala? Dhandovi obvykle říkala: „dhando, nezapomínej, že jsem vdaná! neměl bys na mne tolik mluvit!“ moji kolegové si z ní také tropili žerty a ona je za to nemilosrdně hubovala. v mém případě ale říkala: „Ghose je tak milý. Ghose si ze mne nikdy neutahuje.“
 
 V době, kdy jsem začal chodit do OSN, tam pracoval na stálém velvyslanectví její manžel. Bylo to v roce 1971 nebo 1972.
 
@@ -315,9 +310,9 @@ V době, kdy jsem začal chodit do OSN, tam pracoval na stálém velvyslanectví
 * Dva bratři
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:16-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:16-cs
+ :keywords:
  :END:
 
 Shivaram a já jsme byli opravdoví přátelé. Jednou jsme se po práci procházeli a povídali si o Sri Rámakrišnovi, Vivekanandovi a mnoha dalších věcech. Kdo by si pomyslel, že se Shivaram jednou stane mým žákem? Podívejte se na jeho božskost!
@@ -333,9 +328,9 @@ V roce 1990 přivedl Shivaram svoji matku a bratra na náš tenisový kurt a já
 * Mezi přáteli
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:17-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:17-cs
+ :keywords:
  :END:
 
 Když slyším o tom, jak se lidé v kanceláři hádají a bojují mezi sebou, myslím na to, jaké jsem měl štěstí, že jsem pracoval na indickém konzulátu. Neměl jsem ani jediného nepřítele. Všichni byli velmi laskaví a milí. Všichni měli dobré srdce.
@@ -351,9 +346,9 @@ Na konzulátě jsme se nikdy neoslovovali křestními jmény. Vždy jsme si ří
 * Dávám své první duchovní jméno na Západě
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:18-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:18-cs
+ :keywords:
  :END:
 
 Jiný kolega, starší úředník, se jmenoval Acharya. Když jeho manželka porodila holčičku, měli už pro ni vybrané jméno, ale Acharya přesto chtěl, abych jí dal jméno já. Ptal se mě, jestli bych mohl dát jméno jeho dítěti. Řekl jsem mu: „Mohu jí dát jméno, ale nikdo jí tak nebude říkat.“
@@ -362,7 +357,7 @@ On na to: „Já jsem otec.“
 
 Dal jsem jí tedy jméno Bela, což znamená „Čas -- ta která půjde za čas.“
 
-Acharya řekl: „Ghosovo jméno je nejlepší“ a použili jméno, které jsem navrhl. O mnoho let později, během function na Manhattanu jsem svého bývalého kolegu vyzvedl nad hlavu. Zeptal se mě: „Jak je možné, že se mě neptáš na moji dceru? Dal jsi jí jméno, je to jméno od tebe, od nikoho jiného než od tebe a ty už jsi na to úplně zapomněl?“
+Acharya řekl: „ghosovo jméno je nejlepší“ a použili jméno, které jsem navrhl. o mnoho let později, během function na manhattanu jsem svého bývalého kolegu vyzvedl nad hlavu. zeptal se mě: „Jak je možné, že se mě neptáš na moji dceru? Dal jsi jí jméno, je to jméno od tebe, od nikoho jiného než od tebe a ty už jsi na to úplně zapomněl?“
 
    Tím mi připomněl jeho dceru. Požádal jsem potom naše zpěváky, aby zazpívali moji píseň „Bela chale jai“ a on byl velmi šťasten.
 
@@ -374,9 +369,9 @@ Acharya řekl: „Ghosovo jméno je nejlepší“ a použili jméno, které jsem
 * Nabízím svým kolegům pohoštění
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:19-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:19-cs
+ :keywords:
  :END:
 
 Zpočátku jsem vydělával 230 dolarů měsíčně. Později to bylo o trochu více -- o deset dolarů za rok!
@@ -388,9 +383,9 @@ Vedoucí našeho oddělení mi dovolil, abych každý pátek ve čtyři hodiny o
 * Můj křesťanský přítel
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:20-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:20-cs
+ :keywords:
  :END:
 
 Na poště v Bloomingdale pracoval jako poštovní úředník jeden velmi milý černý muž. Byl na mne tak laskav. Občas jsem se s poštou opozdil a on na mne čekal. Říkával mi: „Ty jsi takový hodný hoch. Náš kněz by tě měl rád. Musím tě vzít do našeho kostela.“ Sliboval jsem a sliboval, ale nikdy jsem tam nešel.
@@ -402,9 +397,9 @@ Kamkoliv jsem tehdy přišel, všude se mě snažili obrátit na svou víru.
 * Problém s výslovností
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:21-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:21-cs
+ :keywords:
  :END:
 
 Jednou mi ten černý muž na Bloomingdaleské poště nabídl vitamínovou tabletu. Já jsem vyslovoval slovo „vitamin“ s krátkým „i“, kdežto on s dlouhým. Vůbec jsem mu nerozuměl. Potom jsem náhle pochopil, co řekl. „Vy máte na mysli vitamin“ říkám svou výslovností.
@@ -416,9 +411,9 @@ Jednou mi ten černý muž na Bloomingdaleské poště nabídl vitamínovou tabl
 * Žádám o další práci v Bloomingdale
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:22-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:22-cs
+ :keywords:
  :END:
 
 Ach, ty chudobou poznamenané dny! Třikrát nebo čtyřikrát jsem v noci navštívil Bloomingdale, abych zkusil požádat o vedlejší práci -- o přenášení těžkých beden a vykládání nákladních automobilů. Nejprve mě nechtěli vzít, protože si mysleli, že nejsem na takovou těžkou práci dost silný. Potom mi řekli: „Jste sice silný, ale k tomu, abychom vás mohli najmout, musíte mít číslo sociálního pojištění.“
@@ -430,9 +425,9 @@ Já chudák! Když pracujete na indickém konzulátě, nedostanete číslo soci�
 * Náš výplatní zvyk
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:23-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:23-cs
+ :keywords:
  :END:
 
 V den, kdy jsme dostávali výplatu, což bylo obvykle každého prvního dne v měsíci, jsme chodili do indické restaurace. Byla to naše oblíbená restaurace. Chodili tam tři nebo čtyři naši přátelé z oddělení. Většinou jsem byl dostatečně velkorysý, abych za ně za všechny zaplatil.
@@ -444,9 +439,9 @@ Pan Ramamoorthy tam s námi nechodil, ale zval nás na jídlo k sobě domů. Chu
 * Klidné místo pro oběd
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:24-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:24-cs
+ :keywords:
  :END:
 
 Přímo před naším oddělením, pět nebo šest metrů od dveří, byla zasklená telefonní budka. Mnohokrát jsem v ní jedl svůj oběd, který pro mne připravovala Alo. Na oběd jsem měl jen deset nebo patnáct minut.
@@ -468,9 +463,9 @@ Tím měl Guru na mysli, že bychom mohli jít do parku, sednout si na lavičku 
 * Zmrzlinář
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:25-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:25-cs
+ :keywords:
  :END:
 
 Na protější straně ulice, než stál konzulát, chodíval každé odpoledne starý muž s malým vozíkem prodávat zmrzlinu. Slyšeli jsme ho, jak hraje jeho hudba, a chodili si kupovat zmrzlinu. Oblíbil jsem si nanuk s kokosovou příchutí, který se jmenoval „Dobrá nálada“. Stával obvykle jen deset centů. Kupoval jsem si ho skoro každý den. V zimě ale ten starý muž nechodil.
@@ -482,14 +477,14 @@ Během doby, kdy jsem měl obzvláště málo peněz, byl ten nanuk i mým oběd
 * Dopis hlavnímu konzulovi
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:26-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:26-cs
+ :keywords:
  :END:
 
 Jednoho dne mi zavolal hlavní konzul, S.K. Roy, abych za ním ihned přišel. „Copak jsem asi udělal špatně?“ myslel jsem si.
 
-Vstoupil jsem do jeho kanceláře a on říká: „Posaďte se, Ghosi.“ Díval se na mne velmi soucitně. Potom řekl: „Přišel dopis z Sri Aurobindova ašrámu, kde se píše, jak jste neschopný, a ptají se, proč jsem vám dal práci, že je to pro indický konzulát hanba. Píše se v něm všechno možné. Chtějí, abych vás propustil.“
+Vstoupil jsem do jeho kanceláře a on říká: „posaďte se, ghosi.“ díval se na mne velmi soucitně. potom řekl: „Přišel dopis z Sri Aurobindova ašrámu, kde se píše, jak jste neschopný, a ptají se, proč jsem vám dal práci, že je to pro indický konzulát hanba. Píše se v něm všechno možné. Chtějí, abych vás propustil.“
 
 Seděl jsem tam, bezmocný, sklíčený chudobou a ještě k tomu jsem měl přijít o práci. Vydělával jsem jen 230 dolarů měsíčně, šedesát nebo sedmdesát dolarů stálo nájemné a bydlel jsem v malé místnosti v bytě se dvěma dalšími kolegy. Délka mého pokoje byla jen o stopu větší, než já sám. Občas jsem se poranil, když jsem někam neopatrně šlápl. Pláču, když si vzpomenu na svoji tehdejší chudobu.
 
@@ -514,9 +509,9 @@ Na to před mýma očima roztrhal ten dopis na kousky a hodil je do koše. Ani m
 * Pocházím z Chittagongu
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:27-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:27-cs
+ :keywords:
  :END:
 
 Naším indickým velvyslancem v OSN byl tehdy pan B.N. Chakravarty. Jeho kanceláře byly také v India House. Jeden z mých kolegů mi řekl: „Je to Bengálec. Běž za ním a popovídej si s ním.“ „Ó ne, to je vysoce postavený člověk,“ řekl jsem.
@@ -533,7 +528,7 @@ Jednoho dne jsem ho viděl v parku, jak čte noviny. Šel jsem za ním a postavi
 
 „Odkud pocházíte?“
 
-Když jsem řekl: „Z Chittagongu“, vybuchl: „Chittagong! Nenávidím Chittagong! Moje matka zemřela v Chittagongu, ve vaší nemocnici. Nikdy Chittagongu neodpustím.“
+Když jsem řekl: „z chittagongu“, vybuchl: „Chittagong! Nenávidím Chittagong! Moje matka zemřela v Chittagongu, ve vaší nemocnici. Nikdy Chittagongu neodpustím.“
 
 To stačilo. Naše konverzace na tomto skončila.
 
@@ -546,9 +541,9 @@ Vyprávěl mi jeden ze svých osobních zážitků. Jednoho dne šel vedle Pandi
 * Moje první harmonium
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:28-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:28-cs
+ :keywords:
  :END:
 
 V India House byl naším vrátným, nebo můžeme také říci strážcem, božský Sher Singh. Vlastnil harmonium a jednoho dne mi řekl: „Hrajete na harmonium?“ Chtěl mi ho prodat za šest dolarů.
@@ -563,7 +558,7 @@ Vzal si tedy sedm dolarů a vrátil mi jeden dolar, nevím proč. Potom mi dal t
 
 /Sher Singh:/
 
-/Pokud mě paměť neklame, byl jsem na konzulátě prvním člověkem, kterého Chinmoy Ghose potkal, když šel žádat o práci. Zaskakoval jsem za recepčního, pana Mehrua, který byl na obědě. Dovnitř vstoupil mladý Ind a já se ho coby strážce zeptal: „Jaké je vaše jméno?“ „Chinmoy Ghose“, odpověděl. Potom říkám: „Mohu vám nějak pomoci?“ Posadil se vedle recepčního pultu a pověděl mi svůj příběh. Řekl, že chce zůstat v New Yorku, ale aby zde mohl zůstat, potřebuje práci./
+/Pokud mě paměť neklame, byl jsem na konzulátě prvním člověkem, kterého Chinmoy Ghose potkal, když šel žádat o práci. Zaskakoval jsem za recepčního, pana Mehrua, který byl na obědě. Dovnitř vstoupil mladý Ind a já se ho coby strážce zeptal: „jaké je vaše jméno?“ „chinmoy ghose“, odpověděl. potom říkám: „Mohu vám nějak pomoci?“ Posadil se vedle recepčního pultu a pověděl mi svůj příběh. Řekl, že chce zůstat v New Yorku, ale aby zde mohl zůstat, potřebuje práci./
 
 /Sher Singh:/
 
@@ -588,9 +583,9 @@ Vzal si tedy sedm dolarů a vrátil mi jeden dolar, nevím proč. Potom mi dal t
 * Moje první hudební vystoupení
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:29-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:29-cs
+ :keywords:
  :END:
 
 V červnu 1965 potřebovala Asijská společnost někoho, kdo by napsal melodii a zazpíval tři písně. Šlo o básně bengálských básníků z dávných časů. Konzulát mi to dal za úkol -- týden před vystoupením. Zda jsem z toho byl šťasten, či nikoli, Bůh ví.
@@ -606,12 +601,12 @@ Byl jsem tam hodinu před začátkem. Díval jsem se branou na pouliční lampy,
 * Spoluviník
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:30-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:30-cs
+ :keywords:
  :END:
 
-Jednoho dne mě Sher Singh poprosil, abych s ním šel do kanceláře pana Mehrotry. A tak jsem šel. Když jsme k té místnosti přišli, řekl: „Stoupni si prosím tě ke dveřím.“ Potom vstoupil dovnitř a sedl si na židli pana Mehrotry. Byl tak ležérní. Položil si jednu nohu na stůl a začal mě komandovat. Stal se konzulem. Také ovšem řekl: „Hlídej prosím tě pečlivě ty dveře. Jinak, kdyby sem přišel pan Mehrotra ...!“
+Jednoho dne mě Sher Singh poprosil, abych s ním šel do kanceláře pana Mehrotry. A tak jsem šel. Když jsme k té místnosti přišli, řekl: „stoupni si prosím tě ke dveřím.“ potom vstoupil dovnitř a sedl si na židli pana mehrotry. byl tak ležérní. položil si jednu nohu na stůl a začal mě komandovat. stal se konzulem. také ovšem řekl: „Hlídej prosím tě pečlivě ty dveře. Jinak, kdyby sem přišel pan Mehrotra ...!“
 
 Když mě prosil, abych s ním šel, myslel jsem si, že to má nějaký účel. Ó Bože! A on byl přitom jen vrátný!
 
@@ -622,12 +617,12 @@ Tento příběh jsem vyprávěl panu Mehrotrovi v roce 1989, když mne pozval na
 * Významná osobnost z Indie
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:31-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:31-cs
+ :keywords:
  :END:
 
-Jednoho dne jsme se dozvěděli, že je na cestě z Indie do USA významná osobnost. Ten muž se jmenoval Surendra Mohan Ghose. Kdysi byl prezidentem Calcutta Commission. V roce 1965 zastával velmi vysoký post ve vládě. Mezi lidmi se šířily dohady: „Půjde ho na letiště přivítat hlavní konzul, nebo to přísluší Dhawanovi?“ Ani hlavní konzul, ani Dhawan se na toto setkání necítili. Jednou odpoledne přišel Dhawan do našeho oddělení a já na něm viděl, že je trochu skleslý a zeptal jsem se proto Dhandy: „Co se to dnes s Dhawanem stalo? Vůbec nezuří.“
+Jednoho dne jsme se dozvěděli, že je na cestě z Indie do USA významná osobnost. Ten muž se jmenoval Surendra Mohan Ghose. Kdysi byl prezidentem Calcutta Commission. V roce 1965 zastával velmi vysoký post ve vládě. Mezi lidmi se šířily dohady: „půjde ho na letiště přivítat hlavní konzul, nebo to přísluší dhawanovi?“ ani hlavní konzul, ani dhawan se na toto setkání necítili. jednou odpoledne přišel dhawan do našeho oddělení a já na něm viděl, že je trochu skleslý a zeptal jsem se proto dhandy: „Co se to dnes s Dhawanem stalo? Vůbec nezuří.“
 
 Dhanda mi odpověděl: „Je vyděšený. Dnes večer musí na letišti přivítat jednoho velmi důležitého poslance indického parlamentu. Jmenuje se Surendra Mohan Ghose.“
 
@@ -637,7 +632,7 @@ Moji kolegové věděli, že nikdy nelžu. Proto mě moji přátelé vzali váž
 
 Dhawan za mnou přišel. Nekřičel, ale mluvil velmi úsečně. Zeptal se mě: „Opravdu ho znáte? Jste si jistý? Je to velmi vážná věc!“
 
-Řekl jsem: „Ano pane, znám ho docela dobře. Pomohl mi získat pas a hezky o mně psal. Mnohokrát jsem s ním mluvil.“ Vypadalo to, že Dhawan zašel za hlavním konzulem a řekl mu: „Ghose říká, že Surendru Mohana Ghose dobře zná.“
+Řekl jsem: „ano pane, znám ho docela dobře. pomohl mi získat pas a hezky o mně psal. mnohokrát jsem s ním mluvil.“ vypadalo to, že dhawan zašel za hlavním konzulem a řekl mu: „Ghose říká, že Surendru Mohana Ghose dobře zná.“
 
 „Ghose?“
 
@@ -677,7 +672,7 @@ Když jsem konečně přijel domů, zazvonil telefon. Zvedl jsem ho a slyším: 
 
 Pan Mehrotra byl na mne hrdý. Někteří významní lidé si stěžují, když se s nimi dobře nezachází při jejich návštěvách na indických konzulátech a to může přinést vážné potíže.
 
-Tento člověk byl ke mně tak milý. V jednom ze svých dopisů, které mi poslal do Ameriky napsal: „Nikdo neudělá pro světový mír tolik, kolik uděláte vy.“ Jindy řekl: „Do OSN přišlo mnoho indických velvyslanců, ale skutečným kulturním velvyslancem Indie je Chinmoy.“
+Tento člověk byl ke mně tak milý. V jednom ze svých dopisů, které mi poslal do Ameriky napsal: „nikdo neudělá pro světový mír tolik, kolik uděláte vy.“ jindy řekl: „Do OSN přišlo mnoho indických velvyslanců, ale skutečným kulturním velvyslancem Indie je Chinmoy.“
 
 Když četl jednu z mých knih v angličtině -- „Mother of the Golden All“, citoval jeden velmi známý verš:
 
@@ -700,9 +695,9 @@ Surendra Mohan Ghose mě potom požádal, abych za ním přišel a byl ke mně v
 * Piknik v Den Indie
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:32-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:32-cs
+ :keywords:
  :END:
 
 Jednou za rok lidé z Darienu, ze státu Connecticut zvali indické občany, aby s nimi strávili jeden den. Chtěli s Indy navázat přátelství. V roce 1965 jsem tam jel. Každý měl svého hostitele a moji hostitelé byli velmi milí. Pro mne to byl ten nejšťastnější den. Večer se všichni sešli na shromáždění a já jsem odpovídal na mnoho otázek o Indii a o indickém náboženství.
@@ -716,9 +711,9 @@ Pověděl jsem Alo svůj smutný příběh. Starala se o všechno a pečovala ta
 * Jak to, že můj manžel zemřel?
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:33-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:33-cs
+ :keywords:
  :END:
 
 Jednoho dne koncem pracovní doby začal mít náš účetní menší bolesti. O něco později on a ještě jeden přítel z konzulátu čekali společně na autobus. Tehdy dostal velké bolesti. Jeho přítel ho odvezl do nemocnice a informoval jeho manželku. Stalo se to kolem půl sedmé večer. Po osmi nebo deseti hodinách účetní zemřel. Měl těžký infarkt.
@@ -736,9 +731,9 @@ Plakal jsem. Vychrlila na mne veškerou svou zlobu a zklamání. Šílela zlobou
 * Vyděšený tajemník
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:34-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:34-cs
+ :keywords:
  :END:
 
 Hlavní konzul měl tři tajemníky. Hlavní tajemník, starší pán jménem Ganesh vstoupil na naši cestu, stal se mým žákem. Ale jednoho dne, když jsme v Centru meditovali, začala jedna starší paní uprostřed meditace křičet, omdlévat a vyvádět scény. Byla to jen přetvářka, chtěla na sebe upoutat pozornost. Konzulův tajemník se nicméně polekal. Dvakrát nebo třikrát jsem ho potom potkal na ulici a pokaždé se mi pln úcty poklonil, přestože už dál nepřicházel.
@@ -748,9 +743,9 @@ Hlavní konzul měl tři tajemníky. Hlavní tajemník, starší pán jménem Ga
 * Nemohu vás poznat
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:35-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:35-cs
+ :keywords:
  :END:
 
 Mladším tajemníkem hlavního konzula byl pan Ramanathan. Často přednášel o hinduismu a zval mě na své přednášky.
@@ -774,9 +769,9 @@ Během představení za mnou přišel jeden Ind a řekl: „Ghosi, poznáváte m
 * Ztráta hlavního konzula
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:36-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:36-cs
+ :keywords:
  :END:
 
 Jednou v neděli jsem šel na konzulát. Ten byl zavřený, ale já jsem stál venku. Náhle vidím hlavního konzula, S.K. Roye, jak vychází z budovy. Nevěnoval mi pozornost, ale všiml jsem si, že jeho tvář byla velmi vážná. Zeptal jsem se: „Pane, co se stalo? Budete se vracet?“
@@ -792,9 +787,9 @@ Následující den jsem přišel do práce a koho to nevidím? Hlavní konzul. A
 * Rozloučení s hlavním konzulem
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:37-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:37-cs
+ :keywords:
  :END:
 
 Když se vracel S.K. Roy zpět do Indie, uspořádali jsme rozlučkový večírek. Jako obvykle jsem napsal báseň. Tyto rozlučkové večírky si budu vždy pamatovat. Všichni se navzájem bavili, povídali, zpívali -- řadoví členové stejně jako naši nadřízení a jejich manželky. Na tento večírek přijel z Washingtonu velvyslanec B.K. Nehru. Byl to bratranec pandita Nehrua.
@@ -810,9 +805,9 @@ Manželka S.K. Roye byla islámské víry, třebaže on byl římský katolík. 
 * Můj první fotoaparát
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:38-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:38-cs
+ :keywords:
  :END:
 
 
@@ -829,9 +824,9 @@ To byla v té době moje první a poslední zkušenost s fotoaparátem. O někol
 * Diplomatická privilegia
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:39-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:39-cs
+ :keywords:
  :END:
 
 /Pan B. Ramamoorthy:/
@@ -855,9 +850,9 @@ Jednou ale na moji domácí adresu přišel telegram. To bylo tehdy, když zemř
 * Představení v Indickém kulturním centru
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:40-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:40-cs
+ :keywords:
  :END:
 
 Jeden z mých kolegů, N.C. Acharya znal moji lásku k hudbě a požádal mě, abych uspořádal koncert. Tak došlo k mému koncertu v Indickém kulturním centru. Odpovědný člověk kulturního centra poskytl zdarma halu a datum konání bylo určeno na 20. března 1966. Přišlo několik set lidí. Tehdy pro mne více jak sto lidí na koncertě už něco znamenalo. Ale přišli a moje hudba se jim líbila.
@@ -869,9 +864,9 @@ Zpíval jsem zbožné písně v sanskrtu a v bengálštině a ke každé písni 
 * Vše se mění
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:41-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:41-cs
+ :keywords:
  :END:
 
 V India House pracoval také Dr. Mishra. Později začal pracovat v OSN. Pan Mehrotra mne tenkrát při velmi výjimečných příležitostech za ním pro něco posílal. Nohy pana Dr. Mishry ležely na stole a on sám si užíval potěšení z cigarety.
@@ -885,9 +880,9 @@ Jeho přivítání bylo velmi pěkné. Ale všechno se mění. Třikrát či čt
 * Opětné shledání na Dálném východě
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:42-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:42-cs
+ :keywords:
  :END:
 
 Dr. S. Gupta nastoupil na místo hlavního konzula po S.K. Royovi. Po té, co jsem opustil konzulát, jsem o něm neslyšel mnoho let. Později, v Thajsku v roce 1988, přišel ten samý Dr. Gupta do hotelu, kde jsem bydlel, aby mi vyjádřil svou úctu. Byl hlavním konzulem Indie v Bangkoku. Tehdy jsem už byl významným člověkem!
@@ -897,9 +892,9 @@ Dr. S. Gupta nastoupil na místo hlavního konzula po S.K. Royovi. Po té, co js
 * Naše cesty se dál kříží
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:43-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:43-cs
+ :keywords:
  :END:
 
 Když byl pan Mehrotra přeložen do Moskvy jako první tajemník indického velvyslanectví, nastoupil na jeho místo Alan Nazareth. Pan Nazareth byl velmi mladý, slibný, dynamický a energický.
@@ -913,9 +908,9 @@ On i jeho žena přišli v roce 1987 do OSN na náš program. O dva roky pozděj
 * Všichni skvělí kuřáci
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:44-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:44-cs
+ :keywords:
  :END:
 
 Jak jen ti zaměstnanci kouřili! V našem oddělení kouřili všichni. Snad bez cigarety nemohli dosáhnout míru mysli. Když všichni kouří, co jeden zmůže?
@@ -929,9 +924,9 @@ Kouření je tak strašná věc! Jestliže kouří tři lidé, co můžete děla
 * Poprvé a naposledy!
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:45-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:45-cs
+ :keywords:
  :END:
 
 Jednoho dne mě přítel z konzulátu pozval na dostihy koní. To byl zážitek! Za prvé, jeli jsme sto nebo sto deseti kilometrovou rychlostí. V jednom místě nás zastavila policie. Potom, na zpáteční cestě, jsme píchli pneumatiku. Domů jsem se nakonec dostal kolem druhé hodiny ráno. Stalo se to v červenci nebo v srpnu 1964. Už jsem tam víckrát nejel. Jedenkrát bylo více než dost!
@@ -941,9 +936,9 @@ Jednoho dne mě přítel z konzulátu pozval na dostihy koní. To byl zážitek!
 * Moje náboženství je nejlepší
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:46-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:46-cs
+ :keywords:
  :END:
 
 Konzul pro informace byl můj vážený přítel Nirmaljit Singh. Byl to sikh. Chlubil se přede mnou, že sikhismus je lepší než hinduismus a já se zase chvástal, že hinduismus je lepší než sikhismus. Byla to všechno jen legrace a vtip. Velmi hezky jsme si spolu povídali. Měli jsme potěšení z toho, když jsme jeden před druhým říkali: „Moje náboženství je lepší než to tvoje.“ On věděl, že já to tak nemyslím a i já jsem věděl, že on to nemyslí vážně. Ananda Mohan se toho také účastnil. Posílali pro mne, abych přišel do jejich oddělení. Jak jinak by se mohl mladší úředník odvážit přijít za konzulem a povídat si s ním?
@@ -953,9 +948,9 @@ Konzul pro informace byl můj vážený přítel Nirmaljit Singh. Byl to sikh. C
 * Vnitřní požehnání
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:47-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:47-cs
+ :keywords:
  :END:
 
 Ve stejném oddělení jako já pracovala indická dívka jménem Vijaya. Pocházela z Jižní Indie, z Keraly, z rodiště našeho božského Shivaramy. Chovala se ke mně velmi hezky a laskavě, měla mě velmi ráda. Nějaký čas po té, co jsem opustil konzulát, se vdala a odešla ze zaměstnání. Když se jí narodilo dítě, chtěla, abych mu požehnal, protože podle ní jsem byl opravdový svámí, opravdový světec. Přinesla své dítě do mého domu, abych mu požehnal. Řekla: „Podívejte se, byli jsme v jednom oddělení a vy jste se teď stal svatým, stal jste se svámím.“ Byla velmi hrdá na to, že jsem Ind. Byla velmi milá a já jsem jejímu dítěti požehnal.
@@ -971,9 +966,9 @@ Dokonce i tenkrát, když jsem byl stejně jako ona mladším úředníkem, ve m
 * Trocha rad
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:48-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:48-cs
+ :keywords:
  :END:
 
 Na konzulátě jsem měl ještě jednoho přítele, který se jmenoval Kapoor. Byl to přítel a také můj velký obdivovatel. Odešel z konzulátu a začal pracovat u jedné letecké společnosti. Potom odešel do Oaklandu, do Kalifornie.
@@ -985,9 +980,9 @@ Každou sobotu večer mi volal, aby si se mnou popovídal a aby získal nějakou
 * Strýčku, strýčku!
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:49-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:49-cs
+ :keywords:
  :END:
 
 Před pár lety jsem byl v Marine Midland Bank, když tu za mnou přiběhl malý černoušek, asi tří či čtyřletý a řekl: „Kaku, kaku!“
@@ -1003,9 +998,9 @@ Poslal svého malého chlapce, aby na mne zavolal: „Strýčku, strýčku!“
 * Spatřila ve mně Indii
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:50-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:50-cs
+ :keywords:
  :END:
 
 Jiný kolega byl na mě také velmi laskav. Jmenoval se Vincent Jovial. Chtěl se stát knězem. Jednou mě vzal s sebou, abych viděl jeho strýce, který byl knězem. Jeho strýc se mne pokoušel obrátit na svou víru. Naneštěstí byl tento kněz darebák. O pár týdnů později vydal velmi mnoho falešných šeků. Potom ho přivítalo vězení! Předtím chtěl publikovat moji knihu o Tákurovi. Naštěstí jsem ji dostal zpátky.
@@ -1021,9 +1016,9 @@ To byla moje první soukromá přednáška.
 * Žádné peníze, žádné peníze!
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:51-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:51-cs
+ :keywords:
  :END:
 
 V Shivaramově oddělení pracoval Gujarati, který se jmenoval Ashok Choksi. Připravoval naše výplatní šeky. Jeho sestra byla první sekretářkou pana Mehrotry, ale odešla dříve, než jsem nastoupil. Otevřela si v San Franciscu restauraci, která se jmenovala „Malvi“.
@@ -1035,9 +1030,9 @@ Jednou jsem tam jel, abych ji navštívil. Restaurace se otevírala o půl šest
 * Vy sem nepatříte
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:52-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:52-cs
+ :keywords:
  :END:
 
 Vedoucí našeho oddělení, pan Anil Mukherjee se mnou vždy hovořil velmi vlídně. Stále mi říkal: „Ghosi, vy sem nepatříte. Proč jste tady? Tento druh práce není míněn pro vás. Začněte kázat. Přidám se k vám.“
@@ -1051,9 +1046,9 @@ Potom byl skutečně šťasten, když jsem konzulát konečně opustil.
 * Jak jsem zmeškal příležitost k setkání s Jacqueline Kennedyovou
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:53-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:53-cs
+ :keywords:
  :END:
 
 V roce 1964, když jsem ještě pracoval na indickém konzulátě, přišel do našeho oddělení jeden přítel a řekl, že nedaleko odtud v jedné malé galerii je Jacqueline Kennedyová. Přišlo se na ní podívat stěží třicet, čtyřicet lidí. Z konzulátu tam běželo mnoho lidí, ale já jsem tam nešel. Proč? Cítil jsem vůči ní nejvyšší obdiv, ale byl jsem znechucen těmi kresbami, které se tam vystavovaly. Viděl jsem je již předtím a byl jsem toho názoru, že jsou velmi hloupé, a tak jsem nešel. Kdyby byla někde jinde, šel bych.
@@ -1065,9 +1060,9 @@ Teď se tomu směji. Jak snadno jsem ji mohl vidět, kdybych šel do té galerie
 * Zvláštní přítel
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:54-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:54-cs
+ :keywords:
  :END:
 
 V roce 1977 jsem musel jít na indický konzulát, abych si vyřídil svůj pas. Stál jsem u přepážky a najednou kdosi vystoupil z výtahu a začal křičet: „Ó Bože!“ Nejprve jsem ho nemohl poznat, ale potom jsem v něm poznal jednoho z mých bývalých kolegů. Byl velmi potěšen, že mě vidí. Položil mi ruku na ramena a potom přeměřil můj pas. „Vyrostl jsi do výšky a tady jsi také vyrostl!“
@@ -1089,9 +1084,9 @@ Tento přítel mě má velmi rád. Opravdu si mě váží. Bůh ví, kolik hodin
 * Nesete dva světy
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:55-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:55-cs
+ :keywords:
  :END:
 
 V roce 1984 jsem měl Mírový koncert v Torontu. Zde jsem se setkal s Krishanem Chandrou, který nahradil ve funkci referenta oddělení pana Mukherjee. Předtím dělal asistenta vedoucímu našeho oddělení. Jakmile jsem sestoupil z koncertního pódia, kdosi ke mně přišel a vrhl se mi k nohám se slovy: „Poznávám vás“.
@@ -1113,12 +1108,12 @@ Jak jsou ti lidé ke mně milí. Lidé, se kterými jsem pracoval na indickém k
 * Je to ten stejný Chinmoy?
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:56-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:56-cs
+ :keywords:
  :END:
 
-V srpnu roku 1996 si jedna paní na Manhattanu všimla našeho plakátu. Přišla na naše setkání a zeptala se jednoho žáka: „Je to ten stejný Chinmoy, který pracoval na Indickém konzulátě?“ Potom řekla, že tam ve stejnou dobu pracovala jako sekretářka. Nejprve jsem ji nemohl poznat, ale jakmile řekla své jméno, hned jsem si na ni vzpomněl. Vídával jsem ji, jak nosila kávu nebo čaj pro své nadřízené. Jmenuje se Marjorie Johnson a pochází z Karibské oblasti, z Jamajky. Byla sekretářkou Nirmaljita Singha v informačním oddělení. Řekla tomu žákovi: „Chinmoy byl vnitřně vždy tím, kým je dnes.“
+V srpnu roku 1996 si jedna paní na Manhattanu všimla našeho plakátu. Přišla na naše setkání a zeptala se jednoho žáka: „je to ten stejný chinmoy, který pracoval na indickém konzulátě?“ potom řekla, že tam ve stejnou dobu pracovala jako sekretářka. nejprve jsem ji nemohl poznat, ale jakmile řekla své jméno, hned jsem si na ni vzpomněl. vídával jsem ji, jak nosila kávu nebo čaj pro své nadřízené. jmenuje se marjorie johnson a pochází z karibské oblasti, z jamajky. byla sekretářkou nirmaljita singha v informačním oddělení. Řekla tomu žákovi: „Chinmoy byl vnitřně vždy tím, kým je dnes.“
 
 /Marjorie Johnson:/
 
@@ -1129,9 +1124,9 @@ V srpnu roku 1996 si jedna paní na Manhattanu všimla našeho plakátu. Přišl
 * Dopis k mé rezignaci
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:57-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:57-cs
+ :keywords:
  :END:
 
 13. června 1967\\
@@ -1186,9 +1181,9 @@ New York, 9. června 1967/ \\
 * Část II -- Z bytu do bytu 
 
  :PROPERTIES:
- :GENRE: section
- :CITE-KEY: MCY:e3-cs
- :KEYWORDS:
+ :genre: section
+ :cite-key: mcy:e3-cs
+ :keywords:
  :END:
 
 
@@ -1196,9 +1191,9 @@ New York, 9. června 1967/ \\
 * Špinavá chudoba 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:58-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:58-cs
+ :keywords:
  :END:
 
 Po té, co jsem získal místo na indickém konzulátě, jsem si najal malý pokoj v bytě na 108. ulici, poblíž Columbia University. Za nájem jsem myslím platil čtyřicet pět dolarů měsíčně. Tento byt se mnou sdíleli dva další zaměstnanci z konzulátu. Ti měli velké pokoje, ale já jsem měl tak malý pokoj, že kdybych byl o stopu vyšší, tak bych se ležíc na zemi dotkl protilehlých stěn! Byla tam dlouhá chodba a můj pokoj byl na jejím konci. Všude byli švábi. Bylo to tak špatné, tak špatné!
@@ -1216,9 +1211,9 @@ V tom parku jsem napsal své slavné básně „Jsem zloděj“, „Jsem hlupák
 * Krátká cesta na konzulát
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:59-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:59-cs
+ :keywords:
  :END:
 
 Po bytu na 108. ulici jsem bydlel na jiném místě a o pár měsíců později jsem se stěhoval na 76. západní ulici. Bylo to blízko Amerického přírodovědného muzea. Ke konzulátu to byla odtud jen krátká procházka přes Central Park. Ráno jsem vždy šel rychle, nebo jsem klusal či běžel. Trvalo mi to jen pět minut. V tom bytě jsem napsal mnoho básní.
@@ -1235,9 +1230,9 @@ Jednoho dne jsem se chystal, že se půjdu podívat do Přírodovědného muzea 
 * Byt vedle železniční tratě 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:60-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:60-cs
+ :keywords:
  :END:
 
 V roce 1965 jsem se přestěhoval na New Utrecht Avenue do Brooklynu. Ten byt byl docela dobrý. Udělal jsem pokrok, tentokrát jsem myslím platil za nájem sedmdesát pět dolarů. V přízemí byl obchod s květinami a na protější straně ulice byla tiskárna, kde jsem křičíval na tiskaře. Byl to můj velmi drahý přítel.
@@ -1249,9 +1244,9 @@ Vlak projížděl jen dva či tři metry od našeho domu. Ne přes ulici! Jezdil
 * Zachráněn mojí Matkou Kali 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:61-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:61-cs
+ :keywords:
  :END:
 
 Jednoho večera v našem Brooklynském bytě někdo po centerní meditaci omylem zapomněl zhasnout svíčky na oltáři. Byl jsem ve svém pokoji a náhle jsem spatřil kouř. Utíkal jsem do meditační místnosti. V té chvíli už byl stav požáru vážný. Celá místnost byla v plamenech. Záclony již shořely a plameny dosahovaly k vrcholu oltáře. 
@@ -1273,9 +1268,9 @@ O mnoho let později vyrobil Mahavishnu trůn do mé meditační místnosti a um
 * Tlustá hlídka
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:62-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:62-cs
+ :keywords:
  :END:
 
 Nejlegračnější věc se stala ve chvíli, kdy si na práh dveří do domu, kde jsem bydlel, sedla mladá dívka. Byla tlustší než nejtlustší a nechtěla dovolit lidem, aby vstoupili dovnitř. Musel jsem jet v noci jet třemi vlaky, abych se dostal z Manhattanu domů a potom se dohadovat s tou dívkou, aby mi dovolila vejít dovnitř. Nebyl jsem sám, komu nedovolila vstoupit. A přitom v tom domě ani nebydlela! Jak ta byla tlustá! Snad měla nějakou nemoc. Nikdy jsem ji jíst neviděl, ale jen Bůh ví, co jedla doma!
@@ -1285,21 +1280,21 @@ Nejlegračnější věc se stala ve chvíli, kdy si na práh dveří do domu, kd
 * Opravy duší v horním patře!
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:63-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:63-cs
+ :keywords:
  :END:
 
-Naše první centrum v New Yorku začínalo v Brooklynu na Hamilton Parkway. Druhé centrum bylo na Manhattanu. Na budově, ve které jsme měli centrum, byla velká tabule s nápisem: „OPRAVY AUTOMOBILOVÝCH KAROSÉRIÍ“. Hledající, kteří sem chodili meditovat a zejména Karuna, která nedávno zemřela, říkala: „Přízemí, opravy těl. První patro, opravy duší!“
+Naše první centrum v New Yorku začínalo v Brooklynu na Hamilton Parkway. Druhé centrum bylo na Manhattanu. Na budově, ve které jsme měli centrum, byla velká tabule s nápisem: „opravy automobilovÝch karosÉriÍ“. hledající, kteří sem chodili meditovat a zejména karuna, která nedávno zemřela, říkala: „Přízemí, opravy těl. První patro, opravy duší!“
 
 
 
 * Část III -- Mé zážitky z metra 
 
  :PROPERTIES:
- :GENRE: section
- :CITE-KEY: MCY:e4-cs
- :KEYWORDS:
+ :genre: section
+ :cite-key: mcy:e4-cs
+ :keywords:
  :END:
 
 /Většinu těchto příběhů z metra vyprávěl Sri Chinmoy v roce 1972 a potom vyšly v malé knížce. Příběhy se staly také předlohou dvou krátkých filmů./
@@ -1309,9 +1304,9 @@ Naše první centrum v New Yorku začínalo v Brooklynu na Hamilton Parkway. Dru
 * Roztržitý hrdina 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:64-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:64-cs
+ :keywords:
  :END:
 
 Koupil jsem si token (malá mince ze světlé slitiny s pětiúhelníkovým otvorem uprostřed v hodnotě 1.5 dolaru, která se používá jako platidlo pro vstup do metra a také pro autobusy městské hromadné dopravy -- pozn. překl.) a vsunul jej do otvoru na sloupku turniketu. Díky své nepřítomné mysli jsem jej nicméně vložil do sloupku pro vedlejší turniket. Nemusím říkat, že můj turniket mě nechtěl pustit dál, ale já jsem to nechápal.
@@ -1325,9 +1320,9 @@ Při jiné příležitosti se stala úplně stejná věc. Znovu jsem vložil tok
 * Šílený vlak versus Boží Vůle 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:65-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:65-cs
+ :keywords:
  :END:
 
 Byl to místní vlak linky IRT směrem z Manhattanu, který jel o půl jedné ráno. Náš vlak měl normálně zastavovat v každé stanici, ale od 42. ulice, od Times Square, začalo to, co se mělo stát šílenou jízdou. Vlak letěl jako příšera utržená z řetězu a odmítal zastavit. Předpokládal jsem, že vystoupím na 79. ulici, ale vlak měl svůj vlastní plán. Každou stanici ignoroval a projížděl ji nejvyšší rychlostí. Náš vlak překonal i expres, který zastavuje jen na hlavních uzlech. Odmítal zpomalit, natož zastavit, a jel dál jako šílený slon.
@@ -1347,9 +1342,9 @@ Na naší cestě byla jediným člověkem pozvána smrt, ale Boží Milost chtě
 * Indové neumí lhát 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:66-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:66-cs
+ :keywords:
  :END:
 
 Jel jsem zrovna do bytu mé duchovní sestry a žákyně Kailash-ben, jejíž náklonnost může být jen procítěna, nikoli však popsána. Vstoupil jsem do metra na 14. ulici a koupil si token. Zasunul jsem jej do sloupku na turniketu, ale ten se nepohnul. Zcela zmaten jsem se chystal jít nazpět k náčelníkovi stanice koupit si nový token, ale ten již zpozoroval mé obtíže. Přišel ke mně a ptá se:
@@ -1371,9 +1366,9 @@ Když jsem nastupoval do vlaku, tekly mi z očí slzy a děkoval jsem Božskému
 * Dva revolvery 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:67-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:67-cs
+ :keywords:
  :END:
 
 Na večer 15. srpna 1964 mě pozval můj duchovní bratr a žák, Joseph Heil, do svého domu na meditaci při příležitosti narozenin Sri Aurobinda. Byla tam také ještě jedna žákyně, Dr. Masha Karryová, dermatoložka, která k nám chovala velkou náklonnost. Měli jsme hlubokou meditaci a dlouhou, vážnou rozpravu, která skončila až o půl třetí ráno. Protože jsem ještě New York neznal, doprovodila mne Dr. Karryová ke vchodu do metra na 59. ulici. Opustila mne, když jsem byl ještě nahoře na ulici.
@@ -1395,9 +1390,9 @@ Ačkoli jsem s jeho filozofií tak docela nesouhlasil, byl jsem hluboce pohnut j
 * Nepřijaté odevzdání 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:68-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:68-cs
+ :keywords:
  :END:
 
 Ve voze podzemní dráhy nás jelo více než sedmdesát. Mladé dívky četly laciné romány, milenci seděli tváří v tvář; vlak jel plnou rychlostí.
@@ -1415,9 +1410,9 @@ Mnoha bolestivými zraněními muselo být zaplaceno za záchranu jednoho život
 * Děsivá cesta 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:69-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:69-cs
+ :keywords:
  :END:
 
 Když jsem bydlel v Brooklynu, zabrala mi cesta na Manhattan na konzulát čtyřicet pět minut. 8. srpna 1965, jsem jako obvykle šel na stanici podzemní dráhy „Fort Hamilton Parkway“ a nasedl do vlaku.
@@ -1435,23 +1430,23 @@ Naštěstí byly vypraveny autobusy, které nás dopravily k jiné lince podzemn
 * Můj skotský otec, můj indický syn 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:70-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:70-cs
+ :keywords:
  :END:
 
 Během téhož dne mne trápila představa o mé zpáteční cestě a moje obavy se spolehlivě vyplnily. Zpáteční cesta byla bolestivým opakováním ranní noční můry. Večer, ve stanici na 59.ulici na Lexington Avenue, byla moje pozornost upoutána ke křehkému osmdesátiletému starci. Přitahoval veškerou moji sympatii svým kouzelným, soucit budícím pohledem. Naprosto ztratil směr své cesty a v tom davu byl zcela bezmocný. Co se týče povědomí o směru další cesty, jsem nebyl o mnoho šťastnější než on, ale moje sympatie směle překonala mou rozvahu. Když jsem se dozvěděl, kam jede, vzal jsem jej za ruku a vedl k vlaku, který jsem považoval za správný. Zvládli jsme to jen s vypětím všech sil. Tlačením a pomocí loktů jsem se svým bývalým atletickým srdcem dokázal opatřit místo k sezení pro toho starého muže.
 
-Jen si sedl, zeptal se ho jiný starý muž, dívaje se na mne: „Kdo je to?“ Okamžitě odpověděl: „Můj syn, můj indický syn.“ Užasl jsem nad jeho laskavými slovy a blažilo mě, že uhodl moji národnost. Jeho vděčnost nemohla zůstat nečinná. Tiše a kousek po kousku protlačoval vedle sebe místo. Mladá dívka, která seděla vedle něj, nemohla pochopit jeho podivné chování. Takto se snažil asi dvacet minut, dokud neuvolnil dost místa, abych si mohl sednout vedle něj. Vskutku velký byl jeho triumf, když mě se skotským přízvukem vyzval, abych si sedl. „Opravdový otec,“ promluvilo nahlas mé vděčné srdce. „Můj skotský otec!“ 
+Jen si sedl, zeptal se ho jiný starý muž, dívaje se na mne: „kdo je to?“ okamžitě odpověděl: „Můj syn, můj indický syn.“ Užasl jsem nad jeho laskavými slovy a blažilo mě, že uhodl moji národnost. Jeho vděčnost nemohla zůstat nečinná. Tiše a kousek po kousku protlačoval vedle sebe místo. Mladá dívka, která seděla vedle něj, nemohla pochopit jeho podivné chování. Takto se snažil asi dvacet minut, dokud neuvolnil dost místa, abych si mohl sednout vedle něj. Vskutku velký byl jeho triumf, když mě se skotským přízvukem vyzval, abych si sedl. „Opravdový otec,“ promluvilo nahlas mé vděčné srdce. „Můj skotský otec!“ 
 
 
 
 * Ztracen
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:71-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:71-cs
+ :keywords:
  :END:
 
 Občas jsem o víkendech jezdil metrem k mé duchovní sestře Kailash-ben. Často zvala na návštěvu několik indických přátel. K jejímu bytu jsem byl schopen dojet bez potíží. Jak je možné, že jsem na zpáteční cestě vždy zabloudil?
@@ -1466,9 +1461,9 @@ Pokaždé jsem nastoupil do nesprávného vlaku.
 * Dojíždění z Brooklynu
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:72-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:72-cs
+ :keywords:
  :END:
 
 Když jsem bydlel v Brooklynu na New Utrecht Avenue, musel jsem do práce jet třemi vlaky. Dovedete si to představit? Jedním vlakem jsem jel jen pět bloků, potom jsem musel přestupovat. Druhý vlak zastavoval na Manhattanu, ale nejel k Páté Avenue, a tak jsem musel znovu přestupovat, abych se dostal ke konzulátu. Já jsem byl ale šťastný, protože jsem měl hodně času na meditaci. Vždy jsem seděl na straně průvodčího. Poslední vlak mne zavezl na opačnou stranu Central Parku. Potom jsem šel na konzulát ještě pět minut přes park.
@@ -1480,9 +1475,9 @@ V lednu roku 1966 byla dvoutýdenní generální dopravní stávka, a díky tomu
 Část IV -- Přátelé a obdivovatelé z ranných dob 
 
  :PROPERTIES:
- :GENRE: section
- :CITE-KEY: MCY:e5-cs
- :KEYWORDS:
+ :genre: section
+ :cite-key: mcy:e5-cs
+ :keywords:
  :END:
 
 
@@ -1490,9 +1485,9 @@ V lednu roku 1966 byla dvoutýdenní generální dopravní stávka, a díky tomu
 * Moje přednáška pro zdi 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:73-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:73-cs
+ :keywords:
  :END:
 
 
@@ -1509,9 +1504,9 @@ V mém případě to bylo stejné. Přednášel jsem, zatímco Ida seděla celou
 * Napaden nepřátelskými silami 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:74-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:74-cs
+ :keywords:
  :END:
 
 
@@ -1526,9 +1521,9 @@ Ráno jsem řekl své hostitelce: „Co se stalo vašemu manželovi, Ido?“ Ten
 * Věřil ve Světlo, ne v Boha
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:75-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:75-cs
+ :keywords:
  :END:
 
 
@@ -1541,9 +1536,9 @@ Tím naše argumentování skončilo. Jeho filozofie byla podobná filozofii bud
 * Právníkův slib 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:76-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:76-cs
+ :keywords:
  :END:
 
 
@@ -1558,9 +1553,9 @@ To je tedy příběh o právníkovi, který se stal tak oddaným, že mi chtěl 
 * Můj způsob zpěvu Óm
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:77-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:77-cs
+ :keywords:
  :END:
 
 
@@ -1575,9 +1570,9 @@ V Minneapolisu mě potkalo tolik zábavných příhod, hned od prvního večera!
 * Prohlídka Minneapolisu 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:78-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:78-cs
+ :keywords:
  :END:
 
 
@@ -1590,9 +1585,9 @@ Jednou jsme si s mojí hostitelkou Idou Pattersonovou vyjeli na prohlídku měst
 * Cosi v mých očích
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:79-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:79-cs
+ :keywords:
  :END:
 
 
@@ -1607,9 +1602,9 @@ Potom jsem se s ní spřátelil. Před třicetičtyřmi lety cosi viděla v oč�
 * Opětné shledání s Idou Pattersonovou 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:80-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:80-cs
+ :keywords:
  :END:
 
 
@@ -1624,9 +1619,9 @@ Odpověděla: „To jste byl ještě mladý muž. Řekl jste mi, že když jste 
 * Můj milovaný Woodstock 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:81-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:81-cs
+ :keywords:
  :END:
 
 
@@ -1646,9 +1641,9 @@ Jednou jeden z mých sponzorů, paní Ann Harrisonová, přišla a položila mi 
 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:82-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:82-cs
+ :keywords:
  :END:
 
 
@@ -1671,9 +1666,9 @@ Policista obdivoval moji hloupou naivitu a ani mi nedal pokutu.
 * Píšu na ubrousek 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:83-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:83-cs
+ :keywords:
  :END:
 
 
@@ -1688,9 +1683,9 @@ Rudy měl v New Yorku obchod se starožitnostmi, kde měl mnoho krásných soch 
 * Časový rozdíl 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:84-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:84-cs
+ :keywords:
  :END:
 
 
@@ -1709,9 +1704,9 @@ O mnoho let později přišla její přítelkyně na naši meditaci. Patřila k 
 * Učím se ve Woodstocku řídit auto 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:85-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:85-cs
+ :keywords:
  :END:
 
 
@@ -1726,9 +1721,9 @@ Potom jsme měli zelenou a její panenka jí řekla, aby zůstala stát. Řidič
 * Zlatý Purusha
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:86-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:86-cs
+ :keywords:
  :END:
 
 
@@ -1739,10 +1734,10 @@ Zde v Americe jsem jednou viděl Supreme jako Zlatého Purushu. A víte kde? Ve 
 * Srdce a duše Woodstocku[fn:: MCY 87. Promluva při příležitosti inaugurace Mírové míle ve Woodstocku, 3. června 1988]
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:87-cs
- :KEYWORDS:
- :DATE-EVENT: 1988-06-03
+ :genre: anecdote-biographical
+ :cite-key: mcy:87-cs
+ :keywords:
+ :date-event: 1988-06-03
  :END:
 
 
@@ -1762,9 +1757,9 @@ Nemohu přiměřeně vyjádřit mé vnitřní cítění. Mohu pouze říci toto:
 * Jízda na eskalátoru v OSN
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:88-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:88-cs
+ :keywords:
  :END:
 
 
@@ -1779,13 +1774,13 @@ I nyní se stává, že jsem zmaten a použiji nesprávného eskalátoru. Docela
 * Nekončící vděčnost 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:89-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:89-cs
+ :keywords:
  :END:
 
 
-Jednou jsem s Ericem Hughesem, přítelem mého sponzora, navštívil jeho rodiče v Pittsburghu, v Pensylvánii. Bylo to při příležitosti Dne Díkuvzdání. Před jídlem mě Ericova matka požádala, abych řekl poděkování. Nevěděl jsem, co tím slovem „poděkování“ myslí. Potom řekla: „Řekni nějakou modlitbu.“ Moje modlitba tedy začala. Naneštěstí neměla žádného konce! Všichni čekali, kdy už se pustíme do jídla a moje modlitba pokračovala a pokračovala. Ale Ericova maminka byla na mne velmi laskavá. Oslovoval jsem ji jako svoji maminku. Řekla mi: „Řekni jen krátké poděkování. Nemusí být tak dlouhé!“
+Jednou jsem s Ericem Hughesem, přítelem mého sponzora, navštívil jeho rodiče v Pittsburghu, v Pensylvánii. Bylo to při příležitosti Dne Díkuvzdání. Před jídlem mě Ericova matka požádala, abych řekl poděkování. Nevěděl jsem, co tím slovem „poděkování“ myslí. Potom řekla: „Řekni nějakou modlitbu.“ moje modlitba tedy začala. naneštěstí neměla žádného konce! všichni čekali, kdy už se pustíme do jídla a moje modlitba pokračovala a pokračovala. ale ericova maminka byla na mne velmi laskavá. oslovoval jsem ji jako svoji maminku. Řekla mi: „Řekni jen krátké poděkování. Nemusí být tak dlouhé!“
 
 Když jsem podruhé navštívil Ericovy rodiče, byl jsem tam tři nebo čtyři dny. Znovu mě prosila, abych přednesl poděkování. „Ne, já to nechci říci.“ řekl jsem.
 
@@ -1796,16 +1791,16 @@ Když jsem podruhé navštívil Ericovy rodiče, byl jsem tam tři nebo čtyři 
 * Nemohu jíst maso 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:90-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:90-cs
+ :keywords:
  :END:
 
 Když jsem poprvé navštívil Ericovy rodiče, bylo to v Den Díkuvzdání, a proto se všude jedl krocan. Jeho matka mě prosila, abych ho jedl, ale já jsem zdvořile odmítl.
 
 Potom řekla: „Kdybych byla tvoje maminka, poslechl bys mne?“
 
-Odpověděl jsem: „I kdybyste byla mojí maminkou, neposlechl bych vás. Ostatní vaše žádosti určitě splním, ale maso jíst nemohu. Když jsem za ní přijel s Ericem podruhé, už mě neprosila, abych jedl maso. Ericova maminka byla jako moje skutečná matka. Oslovoval jsem ji tak. Byla na mne tak laskavá. Jmenovala se Caroline Hughesová. Vzala mě do několika obchodů. Kdosi z jejích přátel se jí zeptal: „Kdo je to?“ Velmi statečně odpověděla: „To je můj indický syn.“
+Odpověděl jsem: „i kdybyste byla mojí maminkou, neposlechl bych vás. ostatní vaše žádosti určitě splním, ale maso jíst nemohu. když jsem za ní přijel s ericem podruhé, už mě neprosila, abych jedl maso. ericova maminka byla jako moje skutečná matka. oslovoval jsem ji tak. byla na mne tak laskavá. jmenovala se caroline hughesová. vzala mě do několika obchodů. kdosi z jejích přátel se jí zeptal: „kdo je to?“ velmi statečně odpověděla: „To je můj indický syn.“
 
 Ericův otec byl prakticky chromý. Měl televizor a u svého křesla cosi zmáčknul a televizor se sám zapnul. Řekl jsem: „Jak je to možné?“
 
@@ -1817,9 +1812,9 @@ Nyní mám stejné dálkové ovládání.
 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:91-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:91-cs
+ :keywords:
  :END:
 
 
@@ -1830,9 +1825,9 @@ Jednou jsem jel navštívit Ericovy rodiče do Pittsburghu sám. Když jsem se v
 * Nepotřebuji žádný pozemský titul 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:92-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:92-cs
+ :keywords:
  :END:
 
 
@@ -1847,9 +1842,9 @@ Můj přítel John Kelly měl ke mně upřímnou lítost. Řekl jsem: „Mým c�
 * Deseticentový obchod 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:93-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:93-cs
+ :keywords:
  :END:
 
 
@@ -1866,9 +1861,9 @@ Minulý měsíc jsem byl v Greenwich Village u doktora, aby se mi podíval na no
 * Šaty ze second-handu
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:94-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:94-cs
+ :keywords:
  :END:
 
 
@@ -1879,9 +1874,9 @@ Když jsem pracoval na konzulátě, mnohokrát jsem nosil obleky a saka, které 
 * Arturova duchovní matka 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:95-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:95-cs
+ :keywords:
  :END:
 
 
@@ -1910,9 +1905,9 @@ Artur Gregor měl velmi blízké spojení s indickým velvyslancem v OSN, s Rikh
 * Přednes mých básní v přepychové restauraci 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:96-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:96-cs
+ :keywords:
  :END:
 
 
@@ -1929,9 +1924,9 @@ To byla moje první a poslední zkušenost s čtením básní v restauraci. Bylo
 * Druhé pozvání
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:97-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:97-cs
+ :keywords:
  :END:
 
 
@@ -1948,9 +1943,9 @@ Potom mě požádala, abych přednesl něco z mých básní. V tomto případě 
 * Na kluzišti
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:98-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:98-cs
+ :keywords:
  :END:
 
 
@@ -1963,13 +1958,13 @@ Já chudák! Jenom jsem se díval a díval.
 * Hitler se postaral o jeho otce 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:99-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:99-cs
+ :keywords:
  :END:
 
 
-Jednoho dne jsme se s panem Gruberem procházeli v Central Parku. Ptal se mě na moje rodiče. Řekl jsem: „Ztratil jsem své rodiče, když jsem byl ještě docela mladý, v deseti nebo jedenácti letech.“ Potom jsem mu řekl: „A co vaši rodiče? Co váš otec?“
+Jednoho dne jsme se s panem Gruberem procházeli v Central Parku. Ptal se mě na moje rodiče. Řekl jsem: „ztratil jsem své rodiče, když jsem byl ještě docela mladý, v deseti nebo jedenácti letech.“ potom jsem mu řekl: „A co vaši rodiče? Co váš otec?“
 
 Můj otec?“ řekl, „Hitler byl tak soucitný k mému otci. Postaral se o něj.“ Tímto způsobem jsem se dozvěděl, že jeho otec byl zabit za války.
 
@@ -1978,9 +1973,9 @@ Můj otec?“ řekl, „Hitler byl tak soucitný k mému otci. Postaral se o ně
 * Žák-zubař 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:100-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:100-cs
+ :keywords:
  :END:
 
 
@@ -1992,9 +1987,9 @@ Jednou Guruovi vypadl zub. Byl to zub z horní čelisti na boční straně. Byl 
 * Moje první tiskárna 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:101-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:101-cs
+ :keywords:
  :END:
 
 
@@ -2015,9 +2010,9 @@ Potom mi začal vyprávět, jak věděl, že se jednoho dne stanu velkým.
 * Stále si pamatuji pana Custera 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:102-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:102-cs
+ :keywords:
  :END:
 
 
@@ -2038,9 +2033,9 @@ A tak vytiskl jednu knihu.
 * Moje adoptovaná babička 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:103-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:103-cs
+ :keywords:
  :END:
 
 
@@ -2053,9 +2048,9 @@ Co se s ní potom stalo? Kam šla? Odešla z mého života.
 * Jedu do Vietnamu
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:104-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:104-cs
+ :keywords:
  :END:
 
 
@@ -2084,9 +2079,9 @@ Naneštěstí taková zkušenost nikdy nikomu nezmění jeho přirozenost. Ta se
 * Můj letmý úsměv
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:105-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:105-cs
+ :keywords:
  :END:
 
 
@@ -2105,9 +2100,9 @@ Můj úsměv odnesl všechna jeho trápení.
 * Setkání s Paulem Richardem 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:106-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:106-cs
+ :keywords:
  :END:
 
 
@@ -2132,9 +2127,9 @@ Paul Richard byl vynikajícím spisovatelem. Napsal o Indii mnoho knih a v Indii
 * Božský bojovník 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:107-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:107-cs
+ :keywords:
  :END:
 
 
@@ -2149,19 +2144,19 @@ Nolini byl v ašrámu mým bezprostředním nadřízeným.
 * Dostávám zelenou kartu 
 
  :PROPERTIES:
- :GENRE: anecdote-biographical
- :CITE-KEY: MCY:108-cs
- :KEYWORDS:
+ :genre: anecdote-biographical
+ :cite-key: mcy:108-cs
+ :keywords:
  :END:
 
 
 Trvalo mi tři roky, než jsem dostal zelenou kartu. Pomáhali mi Dulal, Madhuri a Sudha. Potom se neočekávaně zapojila jedna žákyně v Centru v Portoriku. Jmenovala se Rose. Dal jsem jí jméno Mukti. Jednoho večera jsme měli setkání v centru a ona byla meditací velmi, velmi dojata. Přišla potom ke mně a řekla: „Můj bratr Sol je asistentem na přistěhovaleckém úřadě v New Yorku. Jestli ti mohu nějak pomoci, dej mi prosím vědět.“
 
-Zavolala svému bratrovi a já jsem po návratu do New Yorku za ním zašel. Řekla mi, že její bratr by pro ni udělal cokoliv. Byl jsem tehdy jen mladší úředník, ale jednal se mnou velmi hezky. Jmenoval se Sol Mark. Dulalovo jméno bylo Sol Montlack. Pomohl mi s vyplněním všech formulářů a s mnoha dalšími věcmi, které jsem musel udělat. Ještě předtím mi pověření úředníci napsali, že musím nejdříve mít dopis ze Sri Aurobindova ašrámu, ve kterém by bylo potvrzeno, že jsem kvalifikován vyučovat. Řekl jsem Solovi: „Nemohu je o to požádat, protože jsem odešel proti jejich vůli.“ Jen se usmál a tento požadavek zrušil. On sám odpověděl mým jménem na mnoho otázek. Jeho poslední otázka zněla: „Takže, kdy plánujete cestu do Ruska nebo do Číny?“ Řekl jsem: „Neplánuji takovou cestu.“ Na to mi dal svůj široký úsměv. Později jsem se dozvěděl, že americké imigrační úřady nedovolují lidem se zelenou kartou cesty do Ruska a do Číny.
+Zavolala svému bratrovi a já jsem po návratu do New Yorku za ním zašel. Řekla mi, že její bratr by pro ni udělal cokoliv. Byl jsem tehdy jen mladší úředník, ale jednal se mnou velmi hezky. Jmenoval se Sol Mark. Dulalovo jméno bylo Sol Montlack. Pomohl mi s vyplněním všech formulářů a s mnoha dalšími věcmi, které jsem musel udělat. Ještě předtím mi pověření úředníci napsali, že musím nejdříve mít dopis ze Sri Aurobindova ašrámu, ve kterém by bylo potvrzeno, že jsem kvalifikován vyučovat. Řekl jsem Solovi: „nemohu je o to požádat, protože jsem odešel proti jejich vůli.“ jen se usmál a tento požadavek zrušil. on sám odpověděl mým jménem na mnoho otázek. jeho poslední otázka zněla: „takže, kdy plánujete cestu do ruska nebo do Číny?“ Řekl jsem: „Neplánuji takovou cestu.“ Na to mi dal svůj široký úsměv. Později jsem se dozvěděl, že americké imigrační úřady nedovolují lidem se zelenou kartou cesty do Ruska a do Číny.
 
 Obvykle chodí lidé na přistěhovalecký úřad nejméně třikrát, ale já tam byl jen jednou. Na konci našeho rozhovoru mi Sol Mark řekl, abych neriskoval a ještě dva nebo tři měsíce pracoval na konzulátě. Pracoval jsem do poloviny června 1967 a potom jsem odešel z práce a odjel do Portorika.
 
-Z Portorika jsem chtěl jet na Jamajku, na Karibské ostrovy, ale to jsem bez zelené karty nemohl. Zavolal jsem tedy Solu Markovi z Portorika. Řekl: „Kdy chcete jet na Jamajku?“ Řekl jsem mu datum. On odpověděl: „Zajistím to.“ Tím rozhovor skončil.
+Z Portorika jsem chtěl jet na Jamajku, na Karibské ostrovy, ale to jsem bez zelené karty nemohl. Zavolal jsem tedy Solu Markovi z Portorika. Řekl: „kdy chcete jet na jamajku?“ Řekl jsem mu datum. on odpověděl: „Zajistím to.“ Tím rozhovor skončil.
 
 Myslel jsem si, že o něm uslyším tak za deset nebo jedenáct dní, ale už za dva dny přišla poštou zelená karta. Na obálce bylo jeho jméno. Vypadal jako Ashritův otec. Obvykle byl velice přísný, ale kvůli své sestře byl na mne velmi milý. To je to, co mohou po sobě bratr a sestra požadovat.
 
@@ -2176,9 +2171,9 @@ Jsem Rose tak vděčný. Ona mne zachránila, byla hlavním nástrojem pro získ
 * Část V -- Prvá poselství 
 
  :PROPERTIES:
- :GENRE: section
- :CITE-KEY: MCYe6-cs
- :KEYWORDS:
+ :genre: section
+ :cite-key: MCYe6-cs
+ :keywords:
  :END:
 
 
@@ -2186,9 +2181,9 @@ Jsem Rose tak vděčný. Ona mne zachránila, byla hlavním nástrojem pro získ
 * Novoroční poselství pro rok 1966
 
  :PROPERTIES:
- :GENRE: message
- :CITE-KEY: MCY:109-cs
- :KEYWORDS:
+ :genre: message
+ :cite-key: mcy:109-cs
+ :keywords:
  :END:
 
 Nechť lidstvo vystoupí o jednu příčku výše na stupnici božského růstu a uvědomí si ve své duši Sladkost, Radost a Mír Supreme.
@@ -2211,10 +2206,10 @@ New York/
 * Motto AUM Center[fn:: MCY 110. Motto AUM Center se poprvé objevilo ve vydání „AUM Magazine“ z 27. dubna 1966] 
 
  :PROPERTIES:
- :GENRE: poem
- :CITE-KEY: MCY:110-cs
- :KEYWORDS:
- :DATE-EVENT: 1966-04-27
+ :genre: poem
+ :cite-key: mcy:110-cs
+ :keywords:
+ :date-event: 1966-04-27
  :END:
 
 
@@ -2231,9 +2226,9 @@ New York/
 * Novoroční poselství pro rok 1967
 
  :PROPERTIES:
- :GENRE: message
- :CITE-KEY: MCY:111-cs
- :KEYWORDS:
+ :genre: message
+ :cite-key: mcy:111-cs
+ :keywords:
  :END:
 
 #+BEGIN_VERSE
@@ -2263,9 +2258,9 @@ v tomto tvém životě zde na zemi.
 * Poselství k příjezdu 13. dubna 1967
 
  :PROPERTIES:
- :GENRE: message
- :CITE-KEY: MCY:112-cs
- :KEYWORDS:
+ :genre: message
+ :cite-key: mcy:112-cs
+ :keywords:
  :END:
 
 #+BEGIN_VERSE
@@ -2283,9 +2278,9 @@ Je to s vámi, pro vás a ve vás, že existuji zde na zemi.
 Část VI -- Časový přehled
 
  :PROPERTIES:
- :GENRE: note
- :CITE-KEY: MCY:e7-cs
- :KEYWORDS:
+ :genre: note
+ :cite-key: mcy:e7-cs
+ :keywords:
  :END:
 
 /13. dubna 1964/
@@ -2350,9 +2345,9 @@ Zkomponována Invocation.
 * Část VII -- Dodatek 
 
  :PROPERTIES:
- :GENRE: section
- :CITE-KEY: MCY:e8-cs
- :KEYWORDS:
+ :genre: section
+ :cite-key: mcy:e8-cs
+ :keywords:
  :END:
 
 /Sestaveno s neocenitelnou a soucitnou pomocí
@@ -2363,9 +2358,9 @@ pana B. Ramamoorthyho./
 * Někteří členové indického konzulátu z let 1964-1967
 
  :PROPERTIES:
- :GENRE: note
- :CITE-KEY: MCY:e9-cs
- :KEYWORDS:
+ :genre: note
+ :cite-key: mcy:e9-cs
+ :keywords:
  :END:
 
 /Pan S.K. Roy/
@@ -2489,9 +2484,9 @@ Sekretářka.
 * Někteří členové stálé mise Indie v OSN z let 1966-1967
 
  :PROPERTIES:
- :GENRE: note
- :CITE-KEY: MCY:e10-cs
- :KEYWORDS:
+ :genre: note
+ :cite-key: mcy:e10-cs
+ :keywords:
  :END:
 
 /Pan B.N. Chakravarty/
@@ -2508,9 +2503,9 @@ Asistent. Několikrát navštívil Sri Chinmoye v roce 1992 a 1993.
 * Předmluva editora k prvnímu vydání
 
  :PROPERTIES:
- :GENRE: preface
- :CITE-KEY: MCY:e1-cs
- :KEYWORDS:
+ :genre: preface
+ :cite-key: mcy:e1-cs
+ :keywords:
  :END:
 
 
@@ -2518,14 +2513,3 @@ Asistent. Několikrát navštívil Sri Chinmoye v roce 1992 a 1993.
 
 
 /Ačkoliv už proběhly tři desetiletí, Sri Chinmoy často vykládá svým žákům své neuvěřitelně sladké a čerstvé vzpomínky z těchto let. Nedávno řekl: “Tehdy na mě udeřila chudoba, ale mé srdce bylo plné radosti. V těch dnech jsem si hrál v zahradě naděje; mé srdce naděje rozkvétalo.”/
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

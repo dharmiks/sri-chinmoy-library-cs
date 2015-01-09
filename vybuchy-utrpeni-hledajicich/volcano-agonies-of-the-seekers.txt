@@ -1,12 +1,7 @@
-#+TITLE: Výbuchy utrpení hledajících
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Výbuchy utrpení hledajících
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -23,7 +18,7 @@
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:1-cs
+  :cite-key: vas:1-cs
   :END:
 
 
@@ -55,7 +50,7 @@ na Mě."
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:2-cs
+  :cite-key: vas:2-cs
   :END:
 
 
@@ -73,7 +68,7 @@ mysl plnou temnoty?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:3-cs
+  :cite-key: vas:3-cs
   :END:
 
 
@@ -93,7 +88,7 @@ tak nemilosrdně?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:4-cs
+  :cite-key: vas:4-cs
   :END:
 
 
@@ -112,7 +107,7 @@ se skládají z nesnesitelných souženích?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:5-cs
+  :cite-key: vas:5-cs
   :END:
 
 
@@ -135,7 +130,7 @@ proč tohle děláš?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:6-cs
+  :cite-key: vas:6-cs
   :END:
 
 
@@ -157,7 +152,7 @@ Pro mě nejsi nic než Kazatel!
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:7-cs
+  :cite-key: vas:7-cs
   :END:
 
 
@@ -176,7 +171,7 @@ modlitbám mého nevinného srdce?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:8-cs
+  :cite-key: vas:8-cs
   :END:
 
 
@@ -195,7 +190,7 @@ muka mého srdce?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:9-cs
+  :cite-key: vas:9-cs
   :END:
 
 
@@ -216,7 +211,7 @@ slabě dohořívat?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:10-cs
+  :cite-key: vas:10-cs
   :END:
 
 
@@ -240,7 +235,7 @@ Sám, bezmocný, bezcenný a zbytečný!
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:11-cs
+  :cite-key: vas:11-cs
   :END:
 
 
@@ -263,7 +258,7 @@ tyto dvě mantry!
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:12-cs
+  :cite-key: vas:12-cs
   :END:
 
 
@@ -282,7 +277,7 @@ z Tvé Nepřítomnosti.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:13-cs
+  :cite-key: vas:13-cs
   :END:
 
 
@@ -302,7 +297,7 @@ v proudících slzách.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:14-cs
+  :cite-key: vas:14-cs
   :END:
 
 
@@ -323,7 +318,7 @@ Své Uši zcela zavřené.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:15-cs
+  :cite-key: vas:15-cs
   :END:
 
 
@@ -348,7 +343,7 @@ odlišným světům.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:16-cs
+  :cite-key: vas:16-cs
   :END:
 
 
@@ -371,7 +366,7 @@ ani špetku lásky?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:17-cs
+  :cite-key: vas:17-cs
   :END:
 
 
@@ -390,7 +385,7 @@ k pozorování a čekání?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:18-cs
+  :cite-key: vas:18-cs
   :END:
 
 
@@ -410,7 +405,7 @@ nikdy nezačnou fungovat.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:19-cs
+  :cite-key: vas:19-cs
   :END:
 
 
@@ -429,7 +424,7 @@ když Tě nazvu
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:20-cs
+  :cite-key: vas:20-cs
   :END:
 
 
@@ -453,7 +448,7 @@ ze svého Života hladomoru Soucitu?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:21-cs
+  :cite-key: vas:21-cs
   :END:
 
 
@@ -473,7 +468,7 @@ do konce.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:22-cs
+  :cite-key: vas:22-cs
   :END:
 
 
@@ -492,7 +487,7 @@ před tímto světem?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:23-cs
+  :cite-key: vas:23-cs
   :END:
 
 
@@ -511,7 +506,7 @@ jak Tvůj Soucit chrápe.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:24-cs
+  :cite-key: vas:24-cs
   :END:
 
 
@@ -532,7 +527,7 @@ neobsahuje slovo
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:25-cs
+  :cite-key: vas:25-cs
   :END:
 
 
@@ -552,7 +547,7 @@ odmítáš slyšet.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:26-cs
+  :cite-key: vas:26-cs
   :END:
 
 
@@ -572,7 +567,7 @@ jak jsou zcela ztraceny.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:27-cs
+  :cite-key: vas:27-cs
   :END:
 
 
@@ -598,7 +593,7 @@ s naprosto neplodnými bolestmi neúspěchu.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:28-cs
+  :cite-key: vas:28-cs
   :END:
 
 
@@ -640,7 +635,7 @@ uvnitř místnosti pokoření mé pýchy.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:29-cs
+  :cite-key: vas:29-cs
   :END:
 
 
@@ -661,7 +656,7 @@ raději než abys mě nezachránil vůbec!
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:30-cs
+  :cite-key: vas:30-cs
   :END:
 
 
@@ -682,7 +677,7 @@ Všichni mě opustili.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:31-cs
+  :cite-key: vas:31-cs
   :END:
 
 
@@ -705,7 +700,7 @@ než jsem já?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:32-cs
+  :cite-key: vas:32-cs
   :END:
 
 
@@ -727,7 +722,7 @@ strávit moudřeji a plodněji.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:33-cs
+  :cite-key: vas:33-cs
   :END:
 
 
@@ -753,7 +748,7 @@ a nehynoucího zmaření.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: VAS:34-cs
+  :cite-key: vas:34-cs
   :END:
 
 
@@ -785,11 +780,3 @@ dále než nejdále!
 
 
 #+END_VERSE
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

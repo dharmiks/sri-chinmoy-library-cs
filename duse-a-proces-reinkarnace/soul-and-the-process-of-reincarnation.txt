@@ -1,52 +1,47 @@
-#+TITLE: Duše a proces reinkarnace
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Duše a proces reinkarnace
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 1999
-  :PUBLISHER: (knižně nevydáno)
-  :CITE-KEY: SPR-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 1999
+  :publisher: (knižně nevydáno)
+  :cite-key: SPR-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
 * DUŠE A POSMRTNÝ ŽIVOT
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SPR:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: spr:1e1-cs
   :END:
 
 
 * Co se děje po té, když někdo zemře?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:1-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:1-cs
   :END:
 
 
 /Co se děje po té, když někdo zemře?/
 
-/Sri Chinmoy:/ Každá lidská bytost je složena z pěti částí: z těla, vitálna, mysli, srdce a duše. Když zemřeme, těchto pět částí vstoupí do svých příslušných obalů a duše se postupně vrátí zpět do světa duše. Svoji cestu začne od jemného fyzického. Z jemného fyzického vstoupí do srdce a do psychické oblasti. Nakonec se vrátí do svého vlastního světa. Tam po nějaký čas odpočívá, možná šest let, nebo deset let, nebo čtyřicet let; to zcela závisí na Vůli Boha. Potom se duše znovu vrací do světa; převezme nové tělo a zkouší na zemi projevit božskost.
+/Sri Chinmoy:/ každá lidská bytost je složena z pěti částí: z těla, vitálna, mysli, srdce a duše. Když zemřeme, těchto pět částí vstoupí do svých příslušných obalů a duše se postupně vrátí zpět do světa duše. Svoji cestu začne od jemného fyzického. Z jemného fyzického vstoupí do srdce a do psychické oblasti. Nakonec se vrátí do svého vlastního světa. Tam po nějaký čas odpočívá, možná šest let, nebo deset let, nebo čtyřicet let; to zcela závisí na Vůli Boha. Potom se duše znovu vrací do světa; převezme nové tělo a zkouší na zemi projevit božskost.
 
 
 * Když jdeme po opuštění těla na onen svět...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:2-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:2-cs
   :END:
 
 
@@ -58,9 +53,9 @@
 * Co se stane s dušemi, které odešly...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:3-cs
   :END:
 
 
@@ -72,9 +67,9 @@
 * Co se stane duši zvířete...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:4-cs
   :END:
 
 
@@ -86,9 +81,9 @@
 * Opouští někdy naše duše...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:5-cs
   :END:
 
 
@@ -100,9 +95,9 @@
 * Co se stane s duší nějakého...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:6-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:6-cs
   :END:
 
 
@@ -118,9 +113,9 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
 * Když někdo zemře násilnou smrtí...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:7-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:7-cs
   :END:
 
 
@@ -132,23 +127,23 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
 * Když někdo spáchá sebevraždu...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:8-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:8-cs
   :END:
 
 
 /Když někdo spáchá sebevraždu, aby předešel smrti z rukou svého nepřítele, trpí ve vnitřním světě stejným osudem, jako jiný člověk, který si vzal život?/
 
-/Sri Chinmoy:/ Mnohokrát se stalo, že spolu bojovali dva válečníci a když jeden z nich s určitostí věděl, že je to záležitost minuty nebo sekundy, než ho ten druhý zabije, ihned ukončil svůj život. Mnohokrát byli zajati králové, kteří nechtěli být zabiti svými nepřáteli. Zabili se tedy sami. Řekli: „Protože je předurčeno, že nás máš zabít, je pro nás lepší, když se zabijeme sami.“ Když udělali toto, jednali správně. Nebudou trpět stejným osudem jako někdo jiný, jenž spáchal sebevraždu.
+/Sri Chinmoy:/ mnohokrát se stalo, že spolu bojovali dva válečníci a když jeden z nich s určitostí věděl, že je to záležitost minuty nebo sekundy, než ho ten druhý zabije, ihned ukončil svůj život. mnohokrát byli zajati králové, kteří nechtěli být zabiti svými nepřáteli. zabili se tedy sami. Řekli: „Protože je předurčeno, že nás máš zabít, je pro nás lepší, když se zabijeme sami.“ Když udělali toto, jednali správně. Nebudou trpět stejným osudem jako někdo jiný, jenž spáchal sebevraždu.
 
 
 * Bude trpět duše člověka...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:9-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:9-cs
   :END:
 
 
@@ -160,9 +155,9 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
 * Když někdo učiní téměř nemožný pokus...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:10-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:10-cs
   :END:
 
 
@@ -174,9 +169,9 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
 * Když občas popisuješ Nebe...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:11-cs
   :END:
 
 
@@ -188,9 +183,9 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
 * Může jít do Nebe někdo...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:12-cs
   :END:
 
 
@@ -202,9 +197,9 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
 * Je možné, abychom my byli v Nebi...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:13-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:13-cs
   :END:
 
 
@@ -216,9 +211,9 @@ V duchovním životě je to tak, že když jdeme k duchovnímu Mistrovi a vidím
 * Co se stane vitálnu...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:14-cs
   :END:
 
 
@@ -234,18 +229,18 @@ Když je vitálno ve vitálním obalu, může značně trpět. Pokud je vitálno
 * DUŠE A PROCES REINKARNACE
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SPR:15e2-cs
+  :genre: section
+  :keywords:
+  :cite-key: spr:15e2-cs
   :END:
 
 
 * Když se duše vrátí zpátky...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:15-cs
   :END:
 
 
@@ -257,9 +252,9 @@ Když je vitálno ve vitálním obalu, může značně trpět. Pokud je vitálno
 * Mají všichni vitálno a mysl...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:16-cs
   :END:
 
 
@@ -271,9 +266,9 @@ Když je vitálno ve vitálním obalu, může značně trpět. Pokud je vitálno
 * Proč by si měla duše vybrat ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:17-cs
   :END:
 
 
@@ -285,9 +280,9 @@ Když je vitálno ve vitálním obalu, může značně trpět. Pokud je vitálno
 * Mohla by se duše pokusit ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:18-cs
   :END:
 
 
@@ -301,9 +296,9 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
 * Co se děje, když mysl...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:19-cs
   :END:
 
 
@@ -315,9 +310,9 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
 * Ztrácí mysl určité podrobnosti...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:20-cs
   :END:
 
 
@@ -329,9 +324,9 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
 * Co dělají mentální bytosti...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:21-cs
   :END:
 
 
@@ -343,23 +338,23 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
 * Když si duše vybere mysl nebo vitálno...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:22-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:22-cs
   :END:
 
 
 /Když si duše vybere mysl nebo vitálno, ví už, jaký bude mít život?/
 
-/Sri Chinmoy:/ To souvisí s možnostmi. Bůh ví všechno, budoucnost však zakrývá. Ani Bůh nepoužívá svoji konečnou Vizi neustále; jinak by to nebyla hra. Dejme tomu, že hra skončí za čtyřicet pět minut. Bůh může těch čtyřicet pět minut přinést okamžitě před Svou Mysl. Řekněme, že dnes bude počítat od jedné do pětačtyřiceti a bude počítat každé číslo; jedna, dvě, tři, čtyři, pět, šest a tak dále. Když však druhý den řekne „jedna“ a hned skočí na „čtyřicet pět“ řeknou lidé: „Jaký má smysl s Tebou hrát, když ty můžeš skočit od jedničky rovnou na pětačtyřicítku a my ne?“ To je důvod, proč Bůh takto nehraje.
+/Sri Chinmoy:/ to souvisí s možnostmi. bůh ví všechno, budoucnost však zakrývá. ani bůh nepoužívá svoji konečnou vizi neustále; jinak by to nebyla hra. dejme tomu, že hra skončí za čtyřicet pět minut. bůh může těch čtyřicet pět minut přinést okamžitě před svou mysl. Řekněme, že dnes bude počítat od jedné do pětačtyřiceti a bude počítat každé číslo; jedna, dvě, tři, čtyři, pět, šest a tak dále. když však druhý den řekne „jedna“ a hned skočí na „čtyřicet pět“ řeknou lidé: „Jaký má smysl s Tebou hrát, když ty můžeš skočit od jedničky rovnou na pětačtyřicítku a my ne?“ To je důvod, proč Bůh takto nehraje.
 
 
 * Reinkarnují se někdy ženy ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:23-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:23-cs
   :END:
 
 
@@ -371,9 +366,9 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
 * Když sdílí nová duše lidské tělo...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:24-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:24-cs
   :END:
 
 
@@ -385,9 +380,9 @@ Je to jako s čistým srdcem. Čisté srdce trpí prostě proto, protože je či
 * Když někdo z nás dostane novou duši...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:25-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:25-cs
   :END:
 
 
@@ -401,9 +396,9 @@ Ten jedinec však bude jednat odlišně, třebaže nebude vědět proč. Bude n�
 * Jaký je rozdíl mezi získáním ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:26-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:26-cs
   :END:
 
 
@@ -415,9 +410,9 @@ Ten jedinec však bude jednat odlišně, třebaže nebude vědět proč. Bude n�
 * Proč se to stává?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:27-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:27-cs
   :END:
 
 
@@ -429,9 +424,9 @@ Ten jedinec však bude jednat odlišně, třebaže nebude vědět proč. Bude n�
 * Je možné, aby lidská bytost ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:28-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:28-cs
   :END:
 
 
@@ -443,15 +438,15 @@ Ten jedinec však bude jednat odlišně, třebaže nebude vědět proč. Bude n�
 * Jaký je vztah mezi individuální ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:29-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:29-cs
   :END:
 
 
 /Jaký je vztah mezi individuální duší a duší země, do které se narodila?/
 
-/Sri Chinmoy:/ Existuje mnoho zemí. Proč vstoupí určitá duše do určité země? Jsou dva základní důvody: buď to bylo duši nařízeno Nejvyšším, nebo má tuto zemi ve zvláštní oblibě. Proč se duše zajímá o určitou zemi? Protože má své vlastní vnitřní sklony. Cítí, že má nějakou zvláštní vnitřní schopnost nebo jinou kvalitu, kterou může vnést do projevení, pokud si vezme inkarnaci v určité zemi. Má-li nějaká duše dynamiku, pokusí se inkarnovat v Americe a ne v Indii. Pokud naproti tomu pláče po vnitřní harmonii a míru, pokusí se inkarnovat v Indii. Chce-li duše nesmírnost a kombinaci mysli a srdce v mentálním a psychickém probuzení, pak se inkarnuje v Austrálii. Individuální duše může chtít určitou zemi, musíš však vědět, že i duše země si přeje určitý druh duše, aby mohla být projevena její vlastní skutečnost. Každá duše má něco zvláštního, co může nabídnout své zemi. Duše každé země tedy medituje na nejvyšší Skutečnost, aby dostala duše, které jí budou pomáhat.
+/Sri Chinmoy:/ existuje mnoho zemí. proč vstoupí určitá duše do určité země? jsou dva základní důvody: buď to bylo duši nařízeno Nejvyšším, nebo má tuto zemi ve zvláštní oblibě. Proč se duše zajímá o určitou zemi? Protože má své vlastní vnitřní sklony. Cítí, že má nějakou zvláštní vnitřní schopnost nebo jinou kvalitu, kterou může vnést do projevení, pokud si vezme inkarnaci v určité zemi. Má-li nějaká duše dynamiku, pokusí se inkarnovat v Americe a ne v Indii. Pokud naproti tomu pláče po vnitřní harmonii a míru, pokusí se inkarnovat v Indii. Chce-li duše nesmírnost a kombinaci mysli a srdce v mentálním a psychickém probuzení, pak se inkarnuje v Austrálii. Individuální duše může chtít určitou zemi, musíš však vědět, že i duše země si přeje určitý druh duše, aby mohla být projevena její vlastní skutečnost. Každá duše má něco zvláštního, co může nabídnout své zemi. Duše každé země tedy medituje na nejvyšší Skutečnost, aby dostala duše, které jí budou pomáhat.
 
 Jestliže se duši líbí nějaká země, může Nejvyšší její volbu přijmout nebo odmítnout. V devadesáti devíti případech ze sta však Nejvyšší výběr duše schválí. Pokud však učiní volbu Nejvyšší, potom obvykle individuální duše nemůže změnit Vůli Nejvyššího. Na druhou stranu, tak jako my někdy neposlechneme našeho nadřízeného, může to udělat i duše. Obvykle však individuální duše Nejvyššího poslouchá, protože má více světla, než pozemsky spoutané bytosti.
 
@@ -463,9 +458,9 @@ Jakou roli hraje individuální duše? Je to role květu na stromě. Je-li na st
 * Co máš na mysli, když říkáš...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:30-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:30-cs
   :END:
 
 
@@ -481,18 +476,18 @@ V dnešní době je na západě nemálo upřímných hledajících. Mnozí z nic
 * POSLÁNÍ DUŠE
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SPR:31e3-cs
+  :genre: section
+  :keywords:
+  :cite-key: spr:31e3-cs
   :END:
 
 
 * Věděly naše duše...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:31-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:31-cs
   :END:
 
 
@@ -504,9 +499,9 @@ V dnešní době je na západě nemálo upřímných hledajících. Mnozí z nic
 * Vybere si duše pokaždé...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:32-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:32-cs
   :END:
 
 
@@ -518,9 +513,9 @@ V dnešní době je na západě nemálo upřímných hledajících. Mnozí z nic
 * Když nějaký žák opustí ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:33-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:33-cs
   :END:
 
 
@@ -532,23 +527,23 @@ V dnešní době je na západě nemálo upřímných hledajících. Mnozí z nic
 * Když přijde žák do Centra...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:34-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:34-cs
   :END:
 
 
 /Když přijde žák do Centra, dostane od tebe jeho duše pokaždé něco, i když je on sám v nízkém vědomí?/
 
-/Sri Chinmoy:/ Duše nemusí přijít do Centra; duše dostane světlo bez ohledu na to, kde je. Krmím duše ve vnitřním světě. Tvoje duše dostane světlo přímo ode mne. Tvá duše má však úžasný soucit se svými malými bratry a sestrami, vitálnem a myslí. Duše říká: „Tolik jsem toho dostala. Ať také oni něco dostanou.“ To je důvod, proč duše naléhavě prosí bratry a sestry: „Přijmi světlo, přijmi světlo.“ Vitálno a mysl však vždy váhají. Duše je jako žebrák; pořád úpěnlivě prosí tvé vitálno a mysl, aby naslouchali.
+/Sri Chinmoy:/ duše nemusí přijít do centra; duše dostane světlo bez ohledu na to, kde je. krmím duše ve vnitřním světě. tvoje duše dostane světlo přímo ode mne. tvá duše má však úžasný soucit se svými malými bratry a sestrami, vitálnem a myslí. duše říká: „tolik jsem toho dostala. ať také oni něco dostanou.“ to je důvod, proč duše naléhavě prosí bratry a sestry: „Přijmi světlo, přijmi světlo.“ Vitálno a mysl však vždy váhají. Duše je jako žebrák; pořád úpěnlivě prosí tvé vitálno a mysl, aby naslouchali.
 
 
 * Guru, jak můžeš vědět ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:35-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:35-cs
   :END:
 
 
@@ -560,9 +555,9 @@ Právě teď žiješ ve fyzickém těle. Všechny tvé problémy jsou tedy ve fy
 
 Slib duše, její jediný slib, je v každém okamžiku odhalit, projevit a naplnit Nejvyššího způsobem Jemu vlastním. Odhalit a projevit Boha na zemi nanejvýš dokonale je jediný slib, který činí duše každého člověka. Tento slib činí vědomě a trvale. Jednotlivec však odhaluje a projevuje podle své vnímavosti, podle schopnosti své duše. Zůstaň tedy v duši a pociťuj, že jsi duše a budeš zcela jistě vědět, co bylo, je a navždy bude slibem tvé duše.
 
-Na druhou stranu však musíš být moudrý. Pokud si myslíš, že můžeš dělat všechny možné nebožské věci a ihned uniknout tím, že řekneš: „Já jsem duše, já jsem duše,“ potom budeš jenom klamat sám sebe. Když řídíš taxi a otočíš taxametrem tak, že se jízdné prudce zvýší, potom v takovou chvíli nemůžeš říci: „Jsem nad tím, já jsem duše.“ Ne, to je absurdní.
+Na druhou stranu však musíš být moudrý. Pokud si myslíš, že můžeš dělat všechny možné nebožské věci a ihned uniknout tím, že řekneš: „já jsem duše, já jsem duše,“ potom budeš jenom klamat sám sebe. když řídíš taxi a otočíš taxametrem tak, že se jízdné prudce zvýší, potom v takovou chvíli nemůžeš říci: „Jsem nad tím, já jsem duše.“ Ne, to je absurdní.
 
-V této chvíli musíš mít pouze na mysli, že jsi vybraným nástrojem; všichni žáci jsou vybranými nástroji. Nyní se modlíš k Nejvyššímu, aby ti dal Světlo, abys mohl vyjít z nevědomosti. Můžeš říci, že jsi duše, ale když na tebe někdo zakřičí, tvoje realizace duše zmizí. Pro tvoji mysl tedy nestačí říci: „Já jsem duše, já jsem duše.“ Pocítit, že opravdu jsi duše, můžeš pouze tehdy, když máš důležité zážitky nejvyšší Výšky a když tyto zážitky budou v tvých každodenních činnostech stálé. Jinak, pokud je realitou tvého života veškerá nevědomost, pak jen proto, že jsi v knize četl, že vše je Brahma, nemůžeš říci: „Já jsem Brahma. Já jsem nejvyšší Výška.“
+V této chvíli musíš mít pouze na mysli, že jsi vybraným nástrojem; všichni žáci jsou vybranými nástroji. Nyní se modlíš k Nejvyššímu, aby ti dal Světlo, abys mohl vyjít z nevědomosti. Můžeš říci, že jsi duše, ale když na tebe někdo zakřičí, tvoje realizace duše zmizí. Pro tvoji mysl tedy nestačí říci: „já jsem duše, já jsem duše.“ pocítit, že opravdu jsi duše, můžeš pouze tehdy, když máš důležité zážitky nejvyšší výšky a když tyto zážitky budou v tvých každodenních činnostech stálé. jinak, pokud je realitou tvého života veškerá nevědomost, pak jen proto, že jsi v knize četl, že vše je brahma, nemůžeš říci: „Já jsem Brahma. Já jsem nejvyšší Výška.“
 
 Jestliže tedy pro tebe není přirozené a spontánní cítit, že jsi duše, zkus použít svoji představivost. Potom se modli nanejvýš upřímně, medituj nanejvýš upřímně a oddaně a zkus z tohoto pocitu ve svém životě udělat něco trvalého.
 
@@ -570,9 +565,9 @@ Jestliže tedy pro tebe není přirozené a spontánní cítit, že jsi duše, z
 * Má vedle poslání duše ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:36-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:36-cs
   :END:
 
 
@@ -588,15 +583,15 @@ Tak jako se musí tělo, vitálno a mysl odevzdat duši, tak se i my jako jednot
 * Můžeš mi říci, jak mohu ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:37-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:37-cs
   :END:
 
 
 /Můžeš mi říci, jak mohu pocítit svoji duši?/
 
-/Sri Chinmoy:/ Očekávat, že budeš právě teď, na samém počátku, cítit duši, je jako přijít do školy a očekávat, že dostaneš přes noc akademický titul. Učitel řekne: „Ještě jsi neprošel základní a střední školou, jak ti mohu dát akademický titul?“
+/Sri Chinmoy:/ očekávat, že budeš právě teď, na samém počátku, cítit duši, je jako přijít do školy a očekávat, že dostaneš přes noc akademický titul. učitel řekne: „Ještě jsi neprošel základní a střední školou, jak ti mohu dát akademický titul?“
 
 Abys cítil přítomnost duše, musíš pár roků meditovat. V tuto chvíli není nezbytné cítit přítomnost duše. To, co je pro začátečníka nejdůležitější, je aspirace. Chceš dorazit do svého cíle, ale zrovna teď nemáš peníze, aby sis mohl koupit lístek. Zde je místo peněz aspirace. Když zvětšíš svoji aspiraci, můžeš si ten lístek koupit. Nepokouším se zchladit tvé nadšení. Pouze si přeji říci, že závod vyhraješ tehdy, když půjdeš pomalu a jistě. Nyní neumím ani pořádně chodit. Když neumím pořádně chodit, jak mohu čekat, že budu velmi rychle běžet? Musím dosáhnout svého cíle; to je můj nejvyšší záměr. Teď je však mým záměrem vstát a naučit se chodit. Potom, když budu moci chodit, se pokusím pochodovat; když budu moci pochodovat, pokusím se běžet; když budu moci běžet, pokusím se běžet co nejrychleji. Jedině tak dosáhnu svého cíle.
 
@@ -605,18 +600,18 @@ Abys cítil přítomnost duše, musíš pár roků meditovat. V tuto chvíli nen
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SPR:38e4-cs
+  :genre: section
+  :keywords:
+  :cite-key: spr:38e4-cs
   :END:
 
 
 * Guru, jaký je rozdíl mezi...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:38-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:38-cs
   :END:
 
 
@@ -628,9 +623,9 @@ Abys cítil přítomnost duše, musíš pár roků meditovat. V tuto chvíli nen
 * Je to duše, kdo realizuje...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:39-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:39-cs
   :END:
 
 
@@ -646,9 +641,9 @@ Lidská bytost tedy musí realizovat Boha, ne však vlastní duše. Vlastní du�
 * Může mysl osvítit duši?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:40-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:40-cs
   :END:
 
 
@@ -660,9 +655,9 @@ Lidská bytost tedy musí realizovat Boha, ne však vlastní duše. Vlastní du�
 * Jaký je rozdíl mezi osvobozenou ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:41-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:41-cs
   :END:
 
 
@@ -682,9 +677,9 @@ Také je veliký rozdíl mezi Jogínem a Avatárem. Když se někdo stane Jogín
 * Je možné získat osvobození, aniž bychom...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:42-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:42-cs
   :END:
 
 
@@ -698,9 +693,9 @@ Na západě se mluví o spáse. Spása je mnohem níže než osvobození. Spása
 * Cítí realizovaná duše...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:43-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:43-cs
   :END:
 
 
@@ -714,9 +709,9 @@ Obyčejná osvobozená duše se však neodváží projevit hněv. Obává se hn�
 * Když byl nějaký Avatár ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:44-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:44-cs
   :END:
 
 
@@ -728,18 +723,18 @@ Obyčejná osvobozená duše se však neodváží projevit hněv. Obává se hn�
 * NEBESA
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SPR:45e5-cs
+  :genre: section
+  :keywords:
+  :cite-key: spr:45e5-cs
   :END:
 
 
 * Ve své poezii hovoříš o netečnosti...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:45-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:45-cs
   :END:
 
 
@@ -751,7 +746,7 @@ Pro mladšího je velmi těžké přijít za Otcem bez prostřednictví starší
 
 Někdo vyšplhal na strom a ty jsi u paty stromu. Neumíš šplhat, a ten na stromě tedy sleze dolů a naučí tě to, a ty začneš šplhat. Než dosáhneš určité výšky, se vrátí na své původní místo a čeká na tebe. Když se dostaneš k němu, tak ti nepomůže jít dál. Tato osoba se nedotkla nejvyšší výšky a je nejistá. Včera jsi byl na zemi a neuměl jsi šplhat, a on tě to naučil. Teď se ho chystáš překonat, tak proč by ti to měl dovolit? Když je však moudrý, řekne díky své jednotě: „On je můj malý bratr, dovolím mu tedy jít dál. Jeho dosažení je také mým dosažením.“ 
 
-Zde se říká: „Každý chce získat vítězství, ale ne prostřednictvím syna nebo dcery.“ Kolik je na tom pravdy, ví Bůh. V Americe jsem se naučil něco, co jsem v Indii nikdy nepoznal. Amerika mne naučila, že matky mohou být opravdu žárlivé na své dcery a otcové mohou být skutečně žárliví na své syny. Ne všechny matky a ne všichni otcové, ale mnoho, mnoho těch, kteří přišli do našeho Centra, přímo nebo nepřímo žárlili na své děti. Je zjevné, že naučili své děti jak studovat, jak obětavě plnit své povinnosti. Řeknou světu: „Moje dcera udělala toto, můj syn udělal tamto.“ Když potom svět jejich děti obdivuje, mohou být občas upřímně potěšeni. Občas ale jejich srdce hoří, protože oni sami nezískali nejvyšší vzdělání, nebo neudělali to, co udělaly jejich děti. To se děje díky jejich pocitu oddělenosti. 
+Zde se říká: „každý chce získat vítězství, ale ne prostřednictvím syna nebo dcery.“ kolik je na tom pravdy, ví bůh. v americe jsem se naučil něco, co jsem v indii nikdy nepoznal. amerika mne naučila, že matky mohou být opravdu žárlivé na své dcery a otcové mohou být skutečně žárliví na své syny. ne všechny matky a ne všichni otcové, ale mnoho, mnoho těch, kteří přišli do našeho centra, přímo nebo nepřímo žárlili na své děti. je zjevné, že naučili své děti jak studovat, jak obětavě plnit své povinnosti. Řeknou světu: „Moje dcera udělala toto, můj syn udělal tamto.“ Když potom svět jejich děti obdivuje, mohou být občas upřímně potěšeni. Občas ale jejich srdce hoří, protože oni sami nezískali nejvyšší vzdělání, nebo neudělali to, co udělaly jejich děti. To se děje díky jejich pocitu oddělenosti. 
 
 Jak můžeš dobře vrhnout koulí, když chceš oddělovat své prsty jeden od druhého? Malíček má velmi málo síly, kdežto ostatní prsty mají ohromnou sílu. Na vrhu koulí však musí všechny prsty spolupracovat. Pokud cítíš, že je lepší nemít malíček, když cítíš, že je zbytečný, pak brzo zjistíš, že bez něj jsi bezmocný. Když se silnější nechce stýkat se slabšími, potom trpí všichni.
 
@@ -761,23 +756,23 @@ Na začátku se silnější vytahuje. Když slabší získá nějaké schopnosti
 * Jak vypadá nejkrásnější místo ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:46-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:46-cs
   :END:
 
 
 /Jak vypadá nejkrásnější místo v Nebi?/
 
-/Sri Chinmoy:/ Krása Nebes nemůže být vyjádřena lidským jazykem nebo pocítěna lidským srdcem. Nemůžete to vyjádřit, protože je to jiná dimenze. V Nebi má každý kosmický bůh svoji vlastní úroveň. Také skuteční duchovní Mistři mají každý svoji. Lidé, kteří jsou oddáni nějakému Mistrovi řeknou, že jeho úroveň je nejkrásnější, protože tu krásu vidí skrze Mistrovy oči a Mistrovo srdce. I zde, když lidé přijdou do Centra a vidí-li Centrum skrze mne, tak se jim líbí. Když vidí mne skrze Centrum, tak v tu chvíli naleznou miliony chyb. Pokud však vidí Centrum skrze mne, bude se jim líbit. Jestliže jste se dobře chovali, dám vám až zemřete místo ve svém domě. Řeknete: „Ó to je tak překrásné,“ právě tak, jak říkáte: „Ó, Jamajka je tak překrásná.“
+/Sri Chinmoy:/ krása nebes nemůže být vyjádřena lidským jazykem nebo pocítěna lidským srdcem. nemůžete to vyjádřit, protože je to jiná dimenze. v nebi má každý kosmický bůh svoji vlastní úroveň. také skuteční duchovní mistři mají každý svoji. lidé, kteří jsou oddáni nějakému mistrovi řeknou, že jeho úroveň je nejkrásnější, protože tu krásu vidí skrze mistrovy oči a mistrovo srdce. i zde, když lidé přijdou do centra a vidí-li centrum skrze mne, tak se jim líbí. když vidí mne skrze centrum, tak v tu chvíli naleznou miliony chyb. pokud však vidí centrum skrze mne, bude se jim líbit. jestliže jste se dobře chovali, dám vám až zemřete místo ve svém domě. Řeknete: „Ó to je tak překrásné,“ právě tak, jak říkáte: „Ó, Jamajka je tak překrásná.“
 
 
 * Je v Nebi noc a den?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:47-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:47-cs
   :END:
 
 
@@ -789,9 +784,9 @@ Na začátku se silnější vytahuje. Když slabší získá nějaké schopnosti
 * Jsou v Nebi stejné barvy ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:48-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:48-cs
   :END:
 
 
@@ -803,37 +798,37 @@ Na začátku se silnější vytahuje. Když slabší získá nějaké schopnosti
 * Opustí nás v Nebi ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:49-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:49-cs
   :END:
 
 
 /Opustí nás v Nebi naše nedokonalosti?/
 
-/Sri Chinmoy:/ Takové to nebude, až se tam dostaneš. Dívej se na to takto: když jdeš spát, tak si nemusíš obléci všechno své oblečení. Nemusíš si oblékat sárí, halenku, svetr a tak dále. V Nebi nemáš fyzické tělo jako tady. Tam vstupuje světlo do světla. Když se vracíš zpátky na zem, tehdy se oblékáš do různých oděvů: do vitálního světa, tohoto světa, tamtoho světa. Některé z těch oděvů mohou být nečisté, špinavé. Je tu však jistý druh dokonalosti, kterou nakonec budeš mít: dokonalost všeho, co budeš na zemi používat. To se nazývá integrální dokonalostí.
+/Sri Chinmoy:/ takové to nebude, až se tam dostaneš. dívej se na to takto: když jdeš spát, tak si nemusíš obléci všechno své oblečení. nemusíš si oblékat sárí, halenku, svetr a tak dále. v nebi nemáš fyzické tělo jako tady. tam vstupuje světlo do světla. když se vracíš zpátky na zem, tehdy se oblékáš do různých oděvů: do vitálního světa, tohoto světa, tamtoho světa. některé z těch oděvů mohou být nečisté, špinavé. je tu však jistý druh dokonalosti, kterou nakonec budeš mít: dokonalost všeho, co budeš na zemi používat. To se nazývá integrální dokonalostí.
 
 
 * Budeme v Nebi všichni ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:50-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:50-cs
   :END:
 
 
 / Budeme v Nebi všichni s tebou?/
 
-/Sri Chinmoy:/ Lidé, kteří mne těší zde na zemi, určitě půjdou do mého domova v Nebi. Když mne však tady těšit nebudete, budu takový pošetilec, abych věřil, že mne budete těšit v Nebi? Tady řeknete: „Guru, prosím tě, vezmi mne do Afriky, do Austrálie. Pak budu tvým nejlepším žákem. Tady tě kvůli své žárlivosti nemohu potěšit.“ Potom začne po cestě v letadle vaše mysl přemýšlet o někom jiném a vaše žárlivost začne znovu. Lidé, kteří mne těší zde na zemi, nepůjdou pouze do Nebe, budou se mnou všude. Ať jsem kdekoliv, on nebo ona, každý, kdo je v mém vědomí, tam bude také. Uvnitř cestuji na různé úrovně. Těšíte-li mne, můžete jít na vnitřní úrovni kamkoliv, nejenom do Nebe.
+/Sri Chinmoy:/ lidé, kteří mne těší zde na zemi, určitě půjdou do mého domova v nebi. když mne však tady těšit nebudete, budu takový pošetilec, abych věřil, že mne budete těšit v nebi? tady řeknete: „Guru, prosím tě, vezmi mne do Afriky, do Austrálie. Pak budu tvým nejlepším žákem. Tady tě kvůli své žárlivosti nemohu potěšit.“ Potom začne po cestě v letadle vaše mysl přemýšlet o někom jiném a vaše žárlivost začne znovu. Lidé, kteří mne těší zde na zemi, nepůjdou pouze do Nebe, budou se mnou všude. Ať jsem kdekoliv, on nebo ona, každý, kdo je v mém vědomí, tam bude také. Uvnitř cestuji na různé úrovně. Těšíte-li mne, můžete jít na vnitřní úrovni kamkoliv, nejenom do Nebe.
 
 
 * Proč občas některé bytosti klesají...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:51-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:51-cs
   :END:
 
 
@@ -845,18 +840,18 @@ Na začátku se silnější vytahuje. Když slabší získá nějaké schopnosti
 * KOSMIČTÍ BOHOVÉ
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SPR:52e6-cs
+  :genre: section
+  :keywords:
+  :cite-key: spr:52e6-cs
   :END:
 
 
 * Jaký má vztah má k modernímu světu...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:52-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:52-cs
   :END:
 
 
@@ -878,9 +873,9 @@ Zde na západě, pokud někdo trochu ovládá astrologii, může vzývat planetu
 * Guru, mohl bys říci pár slov ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:53-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:53-cs
   :END:
 
 
@@ -898,9 +893,9 @@ Jeden aspekt je tedy samá láska, samý soucit. Tady je spokojen a potěšen ka
 * Přichází někdy Kálí ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:54-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:54-cs
   :END:
 
 
@@ -912,23 +907,23 @@ Jeden aspekt je tedy samá láska, samý soucit. Tady je spokojen a potěšen ka
 * Jakým způsobem ti Kálí...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:55-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:55-cs
   :END:
 
 
 /Jakým způsobem ti Kálí a ostatní kosmičtí bohové a bohyně pomáhají?/
 
-/Sri Chinmoy:/ Mohou mi dát náklonnost, lásku a starostlivost a odejmout některé mé bolesti hlavy. Když jsem zklamán, řeknou mi: „Ne, jen běž dál. Takový je život. Jsi určen k tomu, abys pro Nejvyššího dosáhl něčeho opravdu velkého. Samozřejmě pro to musíš tvrdě pracovat.“ Poskytují mi takovou útěchu a účast. Je to jako s matkou. Nejprve bylo dítě slabé a matka mu pomáhala. Potom se dítě stalo ve všem mnohem silnější než matka. Ale matka stále dává najevo svoji starostlivost. O tom mi řekl Nolini v ašrámu: „Dítě matky je vždy dítětem až do posledního dosažení a naplnění.“ Můžeš říci, že posledním dosažením je realizace. Ale i po té musíš říkat matce: „Matko.“
+/Sri Chinmoy:/ mohou mi dát náklonnost, lásku a starostlivost a odejmout některé mé bolesti hlavy. když jsem zklamán, řeknou mi: „ne, jen běž dál. takový je život. jsi určen k tomu, abys pro nejvyššího dosáhl něčeho opravdu velkého. samozřejmě pro to musíš tvrdě pracovat.“ poskytují mi takovou útěchu a účast. je to jako s matkou. nejprve bylo dítě slabé a matka mu pomáhala. potom se dítě stalo ve všem mnohem silnější než matka. ale matka stále dává najevo svoji starostlivost. o tom mi řekl nolini v ašrámu: „dítě matky je vždy dítětem až do posledního dosažení a naplnění.“ můžeš říci, že posledním dosažením je realizace. ale i po té musíš říkat matce: „Matko.“
 
 
 * Je pravda, že si kosmičtí bohové osvojují ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:56-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:56-cs
   :END:
 
 
@@ -942,9 +937,9 @@ Mistr se také může zjevit s různými tvářemi, nebo může způsobit, že s
 * Proč vídáme bohy a bohyně ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:57-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:57-cs
   :END:
 
 
@@ -956,9 +951,9 @@ Mistr se také může zjevit s různými tvářemi, nebo může způsobit, že s
 * Jsou rodinná božstva ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:58-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:58-cs
   :END:
 
 
@@ -970,15 +965,15 @@ Mistr se také může zjevit s různými tvářemi, nebo může způsobit, že s
 * Bývají lidské bytosti často zklamány...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:59-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:59-cs
   :END:
 
 
 /Bývají lidské bytosti často zklamány výškou kosmických bohů, když je spatří?/
 
-/Sri Chinmoy:/ Aspirant nebude s výškou kosmických bohů nespokojený. Právě teď slyšel duchovního Mistra říkat, že kosmičtí bohové nejsou v nejvyšším. Protože cítí, že kosmičtí bohové jsou vysoko, avšak ne na nejvyšším stupni, řekne: „Nechci jejich výšku,“ nebo „Půjdu daleko za ni.“ Občas hledající řekne: „Buď půjdu daleko za kosmické bohy, nebo se o to ani nepokusím.“ To se také může stát. Hledající říká tyto věci, protože je žákem duchovního Mistra. Protože Mistr řekl, že bohové nejsou na vrcholku stromu, žák cítí, že je lepší než bohové. To je však směšné. Hledající ještě ani neví, jak šplhat, a už se srovnává s kosmickými bohy, kteří došli velmi, velmi vysoko. Někteří hledající se také rádi srovnávají s velkými duchovními Mistry z minulosti, protože si myslí, že tito Mistři nebyli plně realizovaní. To je ale absurdní. Zde jsou od realizace vzdáleni milióny mil a srovnávají se s velkými duchovními Mistry.
+/Sri Chinmoy:/ aspirant nebude s výškou kosmických bohů nespokojený. právě teď slyšel duchovního mistra říkat, že kosmičtí bohové nejsou v nejvyšším. protože cítí, že kosmičtí bohové jsou vysoko, avšak ne na nejvyšším stupni, řekne: „nechci jejich výšku,“ nebo „půjdu daleko za ni.“ občas hledající řekne: „Buď půjdu daleko za kosmické bohy, nebo se o to ani nepokusím.“ To se také může stát. Hledající říká tyto věci, protože je žákem duchovního Mistra. Protože Mistr řekl, že bohové nejsou na vrcholku stromu, žák cítí, že je lepší než bohové. To je však směšné. Hledající ještě ani neví, jak šplhat, a už se srovnává s kosmickými bohy, kteří došli velmi, velmi vysoko. Někteří hledající se také rádi srovnávají s velkými duchovními Mistry z minulosti, protože si myslí, že tito Mistři nebyli plně realizovaní. To je ale absurdní. Zde jsou od realizace vzdáleni milióny mil a srovnávají se s velkými duchovními Mistry.
 
 Pro hledajícího je nemožné znát schopnosti kosmických bohů. Když máš bolest zubů, tak ti to může kosmický bůh dát do pořádku. Pokud však jde o přeměnu přirozenosti, pokud musíš porazit žárlivost, pochybnosti a tak podobně, tehdy to bude skutečně těžká práce, mají-li se s tím vypořádat kosmičtí bohové. Kosmičtí bohové budou muset velmi tvrdě pracovat, protože nemají nejvyšší schopnosti, které má duchovní Mistr.
 
@@ -986,9 +981,9 @@ Pro hledajícího je nemožné znát schopnosti kosmických bohů. Když máš b
 * Bude kdy nějaká lidská bytost přeměněna...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:60-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:60-cs
   :END:
 
 
@@ -1004,9 +999,9 @@ Takže duše kosmických bohů se liší od duší lidských bytostí. Na druhou
 * Musí někdy duchovní Mistři jednat ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:61-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:61-cs
   :END:
 
 
@@ -1018,9 +1013,9 @@ Takže duše kosmických bohů se liší od duší lidských bytostí. Na druhou
 * Mohl bys nám něco říci ...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:62-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:62-cs
   :END:
 
 
@@ -1034,27 +1029,12 @@ Ve světě Brahmy je svrchovaným aspektem síla. Ve světě Višnua je svrchova
 * Když se hledající dostane do bodu...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SPR:63-cs
+  :genre: qa
+  :keywords:
+  :cite-key: spr:63-cs
   :END:
 
 
 /Když se hledající dostane do bodu, kdy je vyzván kosmickými bohy, pozná to?/
 
 /Sri Chinmoy:/ Snadno pozná, kdo jej vyzývá.
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

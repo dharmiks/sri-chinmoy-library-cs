@@ -1,12 +1,7 @@
-#+TITLE: Sri Chinmoy odpovídá, část 09
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index :noexport:
+* Sri Chinmoy odpovídá, část 09
 
   :PROPERTIES:
+  :language: cs
   :book-number:
   :author: Sri Chinmoy
   :original-edition: nil
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:346e1-cs
+  :cite-key: sca:346e1-cs
   :date-event: 1998-12-09
   :END:
   
@@ -35,7 +30,7 @@
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:346-cs
+  :cite-key: sca:346-cs
   :date-event: 1998-12-09
   :END:
 
@@ -66,12 +61,12 @@ Odpusťte mi, toto není odpověď na vaši otázku, jenom jsem se snažil vyjá
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:347-cs
+  :cite-key: sca:347-cs
   :date-event: 1998-12-09
   :END:
 
 
-/Sri Chinmoy:/ Každý hledající má svoji pravdu. Nemohu říci, že to, co já cítím o matce Kálí, je naprosto správné, a že vaše představa o ní je zcela špatná. To by byl vrchol mé hlouposti a absurdity. Já mohu mluvit jenom o tom, co mám ve svém pokoji, ve svém bytě. Nevím, co mají jiní ve svých bytech a ani se to nesnažím zjistit. Pro mě Matka Kálí představuje moc Nekonečna. Jmenuje se Kálí. Kálí znamená „čas“ a „čas světa za“. Ona nese poselství Nekonečna, Věčnosti a Nesmrtelnosti. Také transcenduje to, co má a čím je. Ona je Absolutním v ženské podobě všude tam, kam sahá moje vnitřní realizace. Můžete říci, že ona je Absolutním. Ztělesňuje aspekt moci. Jakožto Matka ztělesňuje všechno: mír, světlo, blaženost a všechny ostatní božské kvality. Také všechno urychluje. V určité rodině je mnoho členů. Když o něco požádáte jednoho člena, aby pro vás něco udělal, může to tomu člověku trvat pět let; pokud požádáte někoho jiného, můžete to dostat během okamžiku, pokud je ovšem váš pláč nebo vaše aspirace upřímná. 
+/Sri Chinmoy:/ každý hledající má svoji pravdu. nemohu říci, že to, co já cítím o matce kálí, je naprosto správné, a že vaše představa o ní je zcela špatná. to by byl vrchol mé hlouposti a absurdity. já mohu mluvit jenom o tom, co mám ve svém pokoji, ve svém bytě. nevím, co mají jiní ve svých bytech a ani se to nesnažím zjistit. pro mě matka kálí představuje moc nekonečna. jmenuje se kálí. kálí znamená „čas“ a „čas světa za“. ona nese poselství nekonečna, věčnosti a nesmrtelnosti. také transcenduje to, co má a čím je. ona je absolutním v ženské podobě všude tam, kam sahá moje vnitřní realizace. můžete říci, že ona je absolutním. ztělesňuje aspekt moci. jakožto matka ztělesňuje všechno: mír, světlo, blaženost a všechny ostatní božské kvality. Také všechno urychluje. V určité rodině je mnoho členů. Když o něco požádáte jednoho člena, aby pro vás něco udělal, může to tomu člověku trvat pět let; pokud požádáte někoho jiného, můžete to dostat během okamžiku, pokud je ovšem váš pláč nebo vaše aspirace upřímná. 
 
 Tato Matka, Matka Kálí, představuje aspekt Absolutního Nejvyššího a zároveň je sama Nejvyšším. Jestliže chceme oddělit části našeho těla, můžeme říci: „toto jsou mé ruce, toto jsou mé nohy, toto jsou mé oči,“ a tak dále. Ale všechny jsou nedílnou součástí téhož těla. Kdybych neměl nohy nebo ruce nebo oči, byl bych nedokonalý. Mé tělo se skládá ze všech svých částí současně. Ona je tedy současně určitou částí Absolutního Nejvyššího a zároveň je Absolutním Nejvyšším. Je také Matkou rychlosti. Všechno dělá rychleji než nejrychleji.
 
@@ -83,11 +78,11 @@ Na druhou stranu, dokonalost nemá pevně stanovené hranice. Dokonalost neustá
 
 Řekněme, že jste během let udělal mnoho věcí špatně, právě protože jste nedokonalý. Budete-li se modlit k Matce Kálí, budete-li plakat a plakat a plakat, ona osvítí všechny vaše nedokonalosti. 
 
-V naší indické filozofii má Bůh, Nejvyšší, tři aspekty: Boha Stvořitele, Boha Ochránce a Boha Přeměnitele. Mnoho a mnoho staletí jsme místo slova „přeměna“ používali slovo „zkáza“. Naše indická trojice se skládá z Brahmy, Višnua a Šivy: Brahma je Bůh -- Stvořitel, Višnu je Bůh -- Ochránce a Šiva je Bůh -- Přeměnitel. Nic neničíme; pouze přeměňujeme. Kdybychom ničili, co by nám v životě zbylo? Řekněme, že jsem udělal něco špatného, na někoho se zlobím a dal jsem mu pořádný políček. Podařilo by se mi snad napravit moji chybu tím, že bych si odřízl ruku? Ne! Ten špatný čin přišel z mé mysli. Musím používat svoji mysl správným způsobem, abych nikomu neubližoval. Naopak, dám najevo pouze svoji náklonnost a soucit. Takže třetím aspektem Boha je přeměna, nikoli zkáza. 
+V naší indické filozofii má Bůh, Nejvyšší, tři aspekty: boha stvořitele, boha ochránce a boha přeměnitele. mnoho a mnoho staletí jsme místo slova „přeměna“ používali slovo „zkáza“. naše indická trojice se skládá z brahmy, višnua a Šivy: Brahma je Bůh -- Stvořitel, Višnu je Bůh -- Ochránce a Šiva je Bůh -- Přeměnitel. Nic neničíme; pouze přeměňujeme. Kdybychom ničili, co by nám v životě zbylo? Řekněme, že jsem udělal něco špatného, na někoho se zlobím a dal jsem mu pořádný políček. Podařilo by se mi snad napravit moji chybu tím, že bych si odřízl ruku? Ne! Ten špatný čin přišel z mé mysli. Musím používat svoji mysl správným způsobem, abych nikomu neubližoval. Naopak, dám najevo pouze svoji náklonnost a soucit. Takže třetím aspektem Boha je přeměna, nikoli zkáza. 
 
 Když Matka Kálí jedná s lidskými bytostmi, s hledajícími nebo aspiranty, někteří mají veliký strach z jejího aspektu moci. Mají pocit, že za ta léta udělali mnoho špatných věcí, a že jim Matka Kálí nedá najevo soucit, nýbrž je zničí. Ale ona neničí, pouze přeměňuje. 
 
-Božská Matka má čtyři aspekty: Maheshwari, Mahakali, Mahalakshmi a Mahasaraswati. Z těchto čtyř aspektů je Matka Kálí určena pro nejvyšší rychlost a výšku. Můžeme dokonce říci, že nás může vzít na nejvyšší úroveň dříve než nejdříve. Ostatní aspekty Božské Matky mají pocit, že závod lze vyhrát tehdy, když běžíte pomalu a jistě, ale tato Matka říká: „Dokonce i když poběžíš nejvyšší rychlostí, rychleji než nejrychleji, neznamená to, že upadneš.“
+Božská Matka má čtyři aspekty: maheshwari, mahakali, mahalakshmi a mahasaraswati. z těchto čtyř aspektů je matka kálí určena pro nejvyšší rychlost a výšku. můžeme dokonce říci, že nás může vzít na nejvyšší úroveň dříve než nejdříve. ostatní aspekty božské matky mají pocit, že závod lze vyhrát tehdy, když běžíte pomalu a jistě, ale tato matka říká: „Dokonce i když poběžíš nejvyšší rychlostí, rychleji než nejrychleji, neznamená to, že upadneš.“
 
 Na druhou stranu, toto všechno říkám ze svého vlastního úhlu pohledu, z mé vlastní realizace. Každý člověk má svůj vlastní způsob jak se dívat na Matku Kálí.
 
@@ -98,12 +93,12 @@ Na druhou stranu, toto všechno říkám ze svého vlastního úhlu pohledu, z m
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:348-cs
+  :cite-key: sca:348-cs
   :date-event: 1998-12-09
   :END:
 
 
-/Sri Chinmoy:/ Koho měl za svého Gurua člověk, který jako první na zemi realizoval Boha? Přišel za ním někdo na fyzické úrovni a řekl mu: „Já jsem Bůh“? Ne! Získal svoji realizaci od neviditelného Boha. Podobným způsobem realizovalo Boha mnoho, mnoho hledajících studiem Bible nebo naší Bhagavadgíty. Neměli žijícího Gurua. Pán Krišna a Spasitel Kristus už nejsou na fyzické úrovni. Ano, mohou se projevit v jemném těle, ale i kdybyste plakali po Pánu Krišnovi, neobjeví se před vámi ve fyzickém těle, aby vás učil. Na druhou stranu, učení Pána Krišny a učení Ježíše Krista, Bible, se staly nedílnou součástí životního dechu lidstva. 
+/Sri Chinmoy:/ koho měl za svého gurua člověk, který jako první na zemi realizoval boha? přišel za ním někdo na fyzické úrovni a řekl mu: „Já jsem Bůh“? Ne! Získal svoji realizaci od neviditelného Boha. Podobným způsobem realizovalo Boha mnoho, mnoho hledajících studiem Bible nebo naší Bhagavadgíty. Neměli žijícího Gurua. Pán Krišna a Spasitel Kristus už nejsou na fyzické úrovni. Ano, mohou se projevit v jemném těle, ale i kdybyste plakali po Pánu Krišnovi, neobjeví se před vámi ve fyzickém těle, aby vás učil. Na druhou stranu, učení Pána Krišny a učení Ježíše Krista, Bible, se staly nedílnou součástí životního dechu lidstva. 
 
 Když čtete Evangelia, Bhagavadgítu nebo jiné posvátné knihy, musíte cítit, jak velké ztotožnění si dokážete rozvinout. Studujete nějaké poselství v Bibli, a pokud jej dokážete praktikovat v každodenním životě, proč byste potom potřebovali jakéhokoliv Mistra na fyzické úrovni? Musíte však vědět, zda dokážete aplikovat to, co jste si přečetli v knize. Může se stát, že si něco přečtete, získáte ohromnou inspiraci a aspiraci, ale jakmile vstoupíte do zmatku všedního života, na všechno zapomenete. Něco jste přečetli a za dvě hodiny uděláte cosi diametrálně odlišného. Toto my, lidské bytosti, děláme často. 
 
@@ -123,7 +118,7 @@ Když půjdete za jiným opravdovým duchovním Mistrem, nebude to z vaší stra
 
 Hledající musí cítit žijící přítomnost Mistra. Váš Mistr možná není na fyzické úrovni, ale pokud s ním dokážete navázat přímé spojení, bude to perfektní. Velice často je to však obtížné, protože naše mysl vyjde do popředí a řekne: „Ach ne, on neřekl toto, on neřekl tamto.“
 
-Jestli máte žijícího Mistra, dostal jste zvláštní příležitost. Žijící Mistr mluví vaším jazykem a řekne vám: „Toto děláš správně, tamto děláš špatně.“ Potom je na vás, jestli jej přijmete nebo odmítnete. Pokud váš Mistr není na fyzické úrovni a vy nejste vysoce pokročilý, vaše mysl může převrátit poselství, které dostanete. V tomto okamžiku dostanete nějaký nápad a vaše mysl řekne, že je perfektní. Uděláte dva kroky a okamžitě začnete o svém nápadu pochybovat. Po několika dalších krocích řeknete: „Kdo jsem já, abych posuzoval, který nápad je správný a který nikoli? Jsem zmatený. Nevím, pro co se mám rozhodnout.“ Když ale máte žijícího Mistra a máte v něj bezvýhradnou víru, uslyšíte jeho slova a řeknete: „Toto je správné.“ Máte-li v něj víru, půjdete kupředu jeho způsobem. Mít žijícího Mistra tedy představuje významnou výhodu.
+Jestli máte žijícího Mistra, dostal jste zvláštní příležitost. Žijící Mistr mluví vaším jazykem a řekne vám: „toto děláš správně, tamto děláš špatně.“ potom je na vás, jestli jej přijmete nebo odmítnete. pokud váš mistr není na fyzické úrovni a vy nejste vysoce pokročilý, vaše mysl může převrátit poselství, které dostanete. v tomto okamžiku dostanete nějaký nápad a vaše mysl řekne, že je perfektní. uděláte dva kroky a okamžitě začnete o svém nápadu pochybovat. po několika dalších krocích řeknete: „kdo jsem já, abych posuzoval, který nápad je správný a který nikoli? jsem zmatený. nevím, pro co se mám rozhodnout.“ když ale máte žijícího mistra a máte v něj bezvýhradnou víru, uslyšíte jeho slova a řeknete: „Toto je správné.“ Máte-li v něj víru, půjdete kupředu jeho způsobem. Mít žijícího Mistra tedy představuje významnou výhodu.
 
 Jestliže však nemáte žádnou víru, začnete mít problémy. Pokud máte víru a máte nezdolnou sílu vůle, nepotřebujete Mistra na fyzické úrovni. Jestliže jste již studoval nějaké náboženské knihy, duchovní knihy, knihy napsané duchovními Mistry, kteří již nejsou na fyzické úrovni a již jste si vybudoval intenzivní vnitřní cit mezi svou aspirací a jejich soucitem, nepotřebujete žijícího Mistra. Potíž je v tom, že si něco přečtete, získáte inspiraci a potom, když jste s přáteli nebo když vstoupíte do zmatku každodenního vnějšího života, naprosto na svoji inspiraci zapomenete. Může se stát, že ten cit nebudete schopen udržet, kdežto s žijícím duchovním Mistrem to všechno uvidíte na vlastí oči a pocítíte svým srdcem. Díky tomu to vydrží déle. 
 
@@ -140,7 +135,7 @@ Takže když vidíme skupinu lidí, kteří se modlí a meditují, jsme-li ve sp
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:349-cs
+  :cite-key: sca:349-cs
   :date-event: 1998-12-09
   :END:
 
@@ -159,7 +154,7 @@ Ticho a zvuk jsou jako rub a líc téže mince, jako krása a vůně květiny. L
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:350-cs
+  :cite-key: sca:350-cs
   :date-event: 1998-12-09
   :END:
 
@@ -176,9 +171,9 @@ Někteří lidé ve mně něco vidí a někteří nikoli. Pokud ve mně něco vi
 
 Abychom se však vrátili k vaší otázce, zkuste prosím zjistit, zda cítíte, že můžete vést hledající. Vždy by měl být nějaký vedoucí. Není-li vedoucí, nic neporoste. Vedoucí musí zásobovat hledající světlem, blažeností, energií, mírem a poselstvím vyšších a vnitřních světů. Odpusťte, že to tak říkám, ale pokud bude vedoucí jenom jeden ze skupiny ostatních, nebude to fungovat. Tady jsme všichni demokraté, všichni jsme si rovni. To je pravda, ale vědomí vedoucího musí být vyšší a hlubší, aby mohl sloužit ostatním ve skupině. Ve školní třídě je učitel. Kdyby v ní byli jenom žáci a každý z nich by začal učit zbytek třídy, vznikl by naprostý zmatek. Někdo musí vědět více než ostatní. Někdo musí mít více vnitřní moudrosti a vnitřního světla, aby mohl sloužit hledajícím. 
 
-Tím vás nechci kritizovat, ale pokud máte nějakou skupinu, měl by v ní být někdo, kdo má dostatek schopností, aby vedl a inspiroval ostatní. Jinak ostatní uvidí, že nemají žádného vedoucího a skupina neporoste. Buď musí mít víru ve vás, nebo v někoho jiného. Aby někdo mohl hrát úlohu vedoucího, musí být více duchovně vyvinutý. V opačném případě přijdou lidé, kteří žízní a mají vnitřní hlad, položí vám nějakou otázku a vy možná odpovíte: „Čtěte Bibli, tam je všechno.“ Oni potom řeknou: „Já čtu Bibli, ale nedostávám patřičnou odpověď, takže jsem přišel za vámi.“ Co uděláte potom? Jak je uspokojíte, nebo jak oni uspokojí vás?
+Tím vás nechci kritizovat, ale pokud máte nějakou skupinu, měl by v ní být někdo, kdo má dostatek schopností, aby vedl a inspiroval ostatní. Jinak ostatní uvidí, že nemají žádného vedoucího a skupina neporoste. Buď musí mít víru ve vás, nebo v někoho jiného. Aby někdo mohl hrát úlohu vedoucího, musí být více duchovně vyvinutý. V opačném případě přijdou lidé, kteří žízní a mají vnitřní hlad, položí vám nějakou otázku a vy možná odpovíte: „Čtěte bibli, tam je všechno.“ oni potom řeknou: „Já čtu Bibli, ale nedostávám patřičnou odpověď, takže jsem přišel za vámi.“ Co uděláte potom? Jak je uspokojíte, nebo jak oni uspokojí vás?
 
-Toto není osobní kritika; pochopte mne prosím správně. Jde jenom o to, že vedoucí musí být pokročilejší; jinak vzniká chaos. Nikdo nebude poslouchat; budou si navzájem odporovat a řeknou: „Co vy víte?“ Ale někdo, kdo má autoritu, někdo, kdo něco ví o duchovnosti řekne: „Buď následujte můj způsob, nebo následujte způsob někoho jiného. Existují i jiné způsoby, které můžete následovat, ale musíte kráčet po jedné konkrétní cestě.“ Všechny cesty vedou do Říma, ale musíte jít po jedné cestě. Nemůžete měnit cestu každý den. Nikam byste se nedostali! Cíl by pro vás přestal existovat. Kdybyste dnes následovali jednoho Mistra, zítra jiného a pozítří dalšího, cíl by pro vás neexistoval.
+Toto není osobní kritika; pochopte mne prosím správně. Jde jenom o to, že vedoucí musí být pokročilejší; jinak vzniká chaos. Nikdo nebude poslouchat; budou si navzájem odporovat a řeknou: „co vy víte?“ ale někdo, kdo má autoritu, někdo, kdo něco ví o duchovnosti řekne: „Buď následujte můj způsob, nebo následujte způsob někoho jiného. Existují i jiné způsoby, které můžete následovat, ale musíte kráčet po jedné konkrétní cestě.“ Všechny cesty vedou do Říma, ale musíte jít po jedné cestě. Nemůžete měnit cestu každý den. Nikam byste se nedostali! Cíl by pro vás přestal existovat. Kdybyste dnes následovali jednoho Mistra, zítra jiného a pozítří dalšího, cíl by pro vás neexistoval.
 
 
 
@@ -188,7 +183,7 @@ Toto není osobní kritika; pochopte mne prosím správně. Jde jenom o to, že 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:351-cs
+  :cite-key: sca:351-cs
   :date-event: 1998-12-09
   :END:
 
@@ -210,7 +205,7 @@ Abych to zopakoval, nejprve musíte mít mysl naprosto tichou, klidnou a prázdn
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: SCA:352-cs
+  :cite-key: sca:352-cs
   :date-event: 1998-12-09
   :END:
 
@@ -230,7 +225,7 @@ můj Nejvyšší, můj Nejvyšší, můj Nejvyšší!
 
 Použijeme-li srdce, budeme vědět, co je to odpuštění. Jakmile mi odpustí Nejvyšší Absolutní, jsem plně uspokojen. V opačném případě se může stát, že v tomto okamžiku jsem plně ztotožněn s Nejvyšším, ale potom můj pocit ztotožnění zmizí. Dokonce i když mi On ukáže něco nového, dokonce i když mi ukáže svoji Jednotu, svoji Nekonečnost, svoji Nesmrtelnost nebo Věčnost, nemusím být spokojen. Ale když vidím, že On mi odpustil, dostanu bezmeznou radost. V takové chvíli cítím, že jsem se opravdu stal projevením jeho Vůle. Použijeme-li mysl, nikdy tomuto poselství neporozumíme. Ale když použijeme srdce, okamžitě pocítíme jeho význam.
 
-/Hledajícímu, jenž je žákem súfického Mistra Pira Vilayata Khana:/ Chovám nejhlubší uznání, obdiv, úctu a lásku, lásku a lásku k mému nejdražšímu Bratrovi-Příteli Pirovi, Pirovi Vilayatovi Khanovi. On a já jsme si vybudovali velikou jednotu, neoddělitelnou jednotu, ve vnitřním i vnějším světě. Nabídl jsem mu jméno: Saumitra. Znamená to přítel, univerzální přítel, dobrý, božský a dokonalý přítel, přítel univerzálního vědomí. Před mnoha lety jsem byl u něj na návštěvě s mými studenty, kteří mu zazpívali píseň, kterou jsem pro něj složil. Pir Vilyat Khan a já jsme si vybudovali jednotu srdce, jednotu duše a jednotu skutečnosti života. Nedávno mi poslal svoji lásku plnou požehnání.
+/Hledajícímu, jenž je žákem súfického Mistra Pira Vilayata Khana:/ chovám nejhlubší uznání, obdiv, úctu a lásku, lásku a lásku k mému nejdražšímu bratrovi-příteli pirovi, pirovi vilayatovi khanovi. on a já jsme si vybudovali velikou jednotu, neoddělitelnou jednotu, ve vnitřním i vnějším světě. nabídl jsem mu jméno: Saumitra. Znamená to přítel, univerzální přítel, dobrý, božský a dokonalý přítel, přítel univerzálního vědomí. Před mnoha lety jsem byl u něj na návštěvě s mými studenty, kteří mu zazpívali píseň, kterou jsem pro něj složil. Pir Vilyat Khan a já jsme si vybudovali jednotu srdce, jednotu duše a jednotu skutečnosti života. Nedávno mi poslal svoji lásku plnou požehnání.
 
 
 
@@ -240,7 +235,7 @@ Použijeme-li srdce, budeme vědět, co je to odpuštění. Jakmile mi odpustí 
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:353e1-cs
+  :cite-key: sca:353e1-cs
   :date-event: 1998-12-10
   :END:
 
@@ -252,7 +247,7 @@ Použijeme-li srdce, budeme vědět, co je to odpuštění. Jakmile mi odpustí 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:353-cs
+  :cite-key: sca:353-cs
   :date-event: 1998-12-10
   :END:
 
@@ -268,12 +263,12 @@ To je velice dobré. Počínáš si správně, když vzýváš Nejvyššího, kd
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:354-cs
+  :cite-key: sca:354-cs
   :date-event: 1998-12-10
   :END:
 
 
-/Sri Chinmoy:/ Řekl jsem, že si neceníme Novosti, Jednoty nebo Plnosti Nejvyššího? Řekl jsem, že tyto kvality mě neuspokojují. Nezískávám tu nejvyšší radost z Novosti, Jednoty nebo Plnosti Nejvyššího. Já cítím, že jsem během života udělal milióny, miliardy a bilióny věcí špatně. Takže když vidím, že mi Nejvyšší odpustil, dostanu ohromnou radost. Snadno se mohu postavit před Mistra, dívat se do jeho očí, ale mohu říci: „Necítím tvoji Novost. Tvoje jednota trvá jenom jednu sekundu, když se díváš na mě. Potom se podíváš na Paree, potom na Kautahali a kohokoliv dalšího, tak co je to za jednotu?“
+/Sri Chinmoy:/ Řekl jsem, že si neceníme novosti, jednoty nebo plnosti nejvyššího? Řekl jsem, že tyto kvality mě neuspokojují. nezískávám tu nejvyšší radost z novosti, jednoty nebo plnosti nejvyššího. já cítím, že jsem během života udělal milióny, miliardy a bilióny věcí špatně. takže když vidím, že mi nejvyšší odpustil, dostanu ohromnou radost. snadno se mohu postavit před mistra, dívat se do jeho očí, ale mohu říci: „Necítím tvoji Novost. Tvoje jednota trvá jenom jednu sekundu, když se díváš na mě. Potom se podíváš na Paree, potom na Kautahali a kohokoliv dalšího, tak co je to za jednotu?“
 
 Když ale nějaký člověk přijde k Bohu a získá odpuštění, v tu chvíli je vztah mezi ním a Bohem přímý. Rozumíš tomu? Udělal jsem něco špatného, takže potřebuji od Boha odpuštění. Cítím, že když mi odpustí, získám tu největší radost, protože potom budu naprosto osvobozený od noci nevědomosti. To je největší radost a úleva. Všechno se vyprázdní. Stane se ze mě nová nádoba. Když mi Bůh odpustí, všechno špatné z mého systému zmizí. Potom budu připravený začít znovu a budu se moci stát vybraným nástrojem.
 
@@ -286,7 +281,7 @@ Takový nový, blízký pocit přichází tehdy, když cítíme, že nám Nejvy�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:355-cs
+  :cite-key: sca:355-cs
   :date-event: 1998-12-10
   :END:
 
@@ -301,7 +296,7 @@ I když se tedy podíváme na ten stejný strom nebo rostlinu nebo dům, budeme 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:356-cs
+  :cite-key: sca:356-cs
   :date-event: 1998-12-10
   :END:
 
@@ -323,7 +318,7 @@ Takže tvůj způsob, jak být zvláštní, bude jenom v tom, že přijmeš kaž
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:357-cs
+  :cite-key: sca:357-cs
   :date-event: 1998-12-10
   :END:
 
@@ -336,7 +331,7 @@ Nuže, už jste mě viděli milionkrát. Jestliže mě chcete vidět kvůli insp
 
 Až se vrátíte do New Yorku, možná budu v Singapuru nebo někde jinde, ale snažte si představit, že stojím přímo před vámi. Co je na tom špatného? Není to mentální halucinace. Jestliže mám nějakého blízkého člověka, ať už je to matka, otec, nebo někdo jiný, chci toho člověka vidět. Je pravda, že ho možná nebudu schopen vidět právě teď vidět svýma fyzickýma očima, ale snadno si ho mohu představit, jak stojí přede mnou. Potom toho člověka udělám pro svůj život velice skutečného, velice konkrétního. 
 
-Teď sedím před vámi, někteří lidé získali inspiraci, ale jiní jsou tady jenom aby zjistili, kdo ještě přišel, jestli je tady on nebo ona. Nebo si říkají: „Co by si o mně pomysleli ostatní, kdybych nepřišel?“ Takže každý má svůj vlastní důvod, proč je v Mistrově přítomnosti. Jiní lidé si zase řeknou: „Nezajímá mě, jestli přišel ještě někdo jiný, nebo ne. To není moje starost. Jediným mým úkolem je být tady s mým Guruem a získat od něj inspiraci.“
+Teď sedím před vámi, někteří lidé získali inspiraci, ale jiní jsou tady jenom aby zjistili, kdo ještě přišel, jestli je tady on nebo ona. Nebo si říkají: „co by si o mně pomysleli ostatní, kdybych nepřišel?“ takže každý má svůj vlastní důvod, proč je v mistrově přítomnosti. jiní lidé si zase řeknou: „Nezajímá mě, jestli přišel ještě někdo jiný, nebo ne. To není moje starost. Jediným mým úkolem je být tady s mým Guruem a získat od něj inspiraci.“
 
 Teď si povídáme. Na jednu stranu vám říkám velice, velice vznešené věci. Na druhou stranu můžete vidět, jak mluvím úplně normálním způsobem. Jenom si povídáme. Naproti tomu, vy mi kladete vážné otázky a já odpovídám velice vážně a seriózně. Tobě říkám, dobré děvče, bez ohledu na to, kde jsi, prostě mě tam dones. Když opakujeme „Nejvyšší, Nejvyšší,“ kde cítíme jeho Přítomnost? Cítíme ji uvnitř našeho srdce, nebo přímo před námi. Když říkáme „Nejvyšší, Nejvyšší, Nejvyšší,“ a Nejvyšší je skutečně výše než nejvýše, cítíme ho někde na vrcholku Himálají? Ne! Je přímo tady. Protože velice upřímně opakujeme „Nejvyšší, Nejvyšší,“ cítíme ho tady v našem srdci nebo přímo před námi, velice blízko. Takto mě můžete přivést přímo před svoje oči nebo přímo před své třetí oko - bez ohledu na to, kde se právě nacházím - a získat inspiraci.
 
@@ -351,12 +346,12 @@ Pokud jde o tebe, říkám ti, i když jsi ode mě fyzicky daleko, když jsem v 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:358-cs
+  :cite-key: sca:358-cs
   :date-event: 1998-12-10
   :END:
 
 
-/Sri Chinmoy:/ Pokud víme, že máme udělat něco dobrého, musíme brát naši neochotu jako zlobivého chlapce, jako malého zlobivého bratra. Svému malému čtyřletému bratrovi řekneš: „Pojď jíst, máš tady jídlo,“ ale on jenom pobíhá kolem a nechce jíst. Co tedy uděláš? Chytíš ho a řekneš: „Musíš jíst. Jinak ti nedovolím tady zůstat.“ Napřed začne zlobit. Plácne tě, kopne tě a bude dělat všechno možné. Ale když pochopí, že jsi mnohem silnější než on, podřídí se. Takže neochotu musíme brát jako člověka, jako velice, velice zlobivého a darebného chlapce.
+/Sri Chinmoy:/ pokud víme, že máme udělat něco dobrého, musíme brát naši neochotu jako zlobivého chlapce, jako malého zlobivého bratra. svému malému čtyřletému bratrovi řekneš: „pojď jíst, máš tady jídlo,“ ale on jenom pobíhá kolem a nechce jíst. co tedy uděláš? chytíš ho a řekneš: „Musíš jíst. Jinak ti nedovolím tady zůstat.“ Napřed začne zlobit. Plácne tě, kopne tě a bude dělat všechno možné. Ale když pochopí, že jsi mnohem silnější než on, podřídí se. Takže neochotu musíme brát jako člověka, jako velice, velice zlobivého a darebného chlapce.
 
 Musíš cítit, že tvoje vnitřní síla je nekonečně větší než síla toho malého zlobivého chlapce. Ty víš, že tvoje síla -- tvoje fyzická, vitální a mentální síla, tvoje síla na všech úrovních - zdaleka překonává sílu toho malého hocha. Takže ho chytíš. Napřed bude zlobit, kopne tě. Potom se unaví. Zjistí, že jsi silnější, nekonečně silnější a potom zjistí, že to, co říkáš, je správné. Když je nevědomý, nechce se chovat správně, ale potom to udělá rád. Na neochotu musíš být velice, velice přísná. Brzo ráno, když máš vstát v šest hodin, ale přijde za tebou neochota a letargie, prostě na posteli vyskoč a začni zvedat ruce a nohy. Musíš na neochotu zaútočit prudce, rychleji než nejrychleji! Neochota je něco, co se v nás rozvíjí velice pomalu a je velice, velice ničivá. Zdrojem neochoty je mysl, nikoli tělo nebo vitálno. Pochází z mysli, která zlenivěla a je v ní letargie. Takže brzo ráno, nebo kdykoliv jindy, vynes na povrch srdce a dej sama sobě pocítit, že síla tvého srdce je daleko mocnější, než síla tvé neochotné mysli. 
 
@@ -373,18 +368,18 @@ K., teď máš šanci se na něco zeptat.
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:359-cs
+  :cite-key: sca:359-cs
   :date-event: 1998-12-10
   :END:
 
 
-/Sri Chinmoy:/ To je naprosto skvělá otázka! Samotná skutečnost, že jsi dychtivá mě potěšit, mě těší jako nic jiného. Kolik lidí se odváží říci, byť i jenom ve své nejdivočejší fantazii, „Jak tě mohu více potěšit?“ Oni ztratili tuto možnost. Musí říci: „Budu tě někdy opět schopen potěšit?“ Rozumíte mé angličtině? Stovky a stovky žáků si musí položit tuto otázku: „Ach Guru, budu tě v této inkarnaci ještě jednou schopen potěšit tak, jak jsem tě těšil před třiceti lety?“ Existují stovky žáků, kteří jsou s námi více než dvacet let a kteří by si měli a musí položit tuto otázku: „Dáš mi schopnosti na to, nebo dá mi Nejvyšší schopnosti na to, abych tě znovu potěšil tím způsobem, jakým jsem tě těšil před pětadvaceti nebo třiceti lety?“ Oni se nikdy neodváží položit mi otázku: „Jak tě mohu více potěšit?“ Netěší mě vůbec, takže jak by se mohli ptát, jak mě mají těšit více? Já jsem velmi krutý! Okamžitě mohu říci: „Začni od začátku!“
+/Sri Chinmoy:/ to je naprosto skvělá otázka! samotná skutečnost, že jsi dychtivá mě potěšit, mě těší jako nic jiného. kolik lidí se odváží říci, byť i jenom ve své nejdivočejší fantazii, „jak tě mohu více potěšit?“ oni ztratili tuto možnost. musí říci: „budu tě někdy opět schopen potěšit?“ rozumíte mé angličtině? stovky a stovky žáků si musí položit tuto otázku: „ach guru, budu tě v této inkarnaci ještě jednou schopen potěšit tak, jak jsem tě těšil před třiceti lety?“ existují stovky žáků, kteří jsou s námi více než dvacet let a kteří by si měli a musí položit tuto otázku: „dáš mi schopnosti na to, nebo dá mi nejvyšší schopnosti na to, abych tě znovu potěšil tím způsobem, jakým jsem tě těšil před pětadvaceti nebo třiceti lety?“ oni se nikdy neodváží položit mi otázku: „jak tě mohu více potěšit?“ netěší mě vůbec, takže jak by se mohli ptát, jak mě mají těšit více? já jsem velmi krutý! okamžitě mohu říci: „Začni od začátku!“
 
 Říkám ti, tvoje otázka je naprosto upřímná. Ty víš, že jsi udělala jisté správné kroky a cítíš, že mě těšíš, což je naprostá pravda. Nepochybně mě těšíš a chceš mě těšit více. Ale kolik lidí mi může položit otázku: „Jak tě mohu více potěšit?“ Jestliže mě netěší vůbec ničím a nemají s čím začít, jak by se mohli odvážit se zeptat, jak by mě mohli těšit více?
 
-Na druhou stranu, neupřímnost vychází na povrch. Lidé řeknou: „Ano, ano, těším svého Gurua.“ Když chtějí klamat sami sebe, kdo jim v tom může zabránit? Mohou se zeptat: „Jak tě mohu více potěšit?“ aby dali světu pocítit, že už mě něčím těší. Mohou si myslet, že mají právo položit svému Guruovi takovou otázku. 
+Na druhou stranu, neupřímnost vychází na povrch. Lidé řeknou: „ano, ano, těším svého gurua.“ když chtějí klamat sami sebe, kdo jim v tom může zabránit? mohou se zeptat: „Jak tě mohu více potěšit?“ aby dali světu pocítit, že už mě něčím těší. Mohou si myslet, že mají právo položit svému Guruovi takovou otázku. 
 
-Mám z tebe velikou, velikou radost, jsi šikovná. V obyčejném životě existuje něco, čemu se říká: „příliš mnoho“. Pokud dokážu sníst bez přejídání jenom jeden lilkový sendvič a přesto sním dva nebo tři, bude mě bolet žaludek a budu mít nejrůznější potíže. U všeho materiálního nebo pozemského musíme vědět, že i když je to dobré, musíme být velice, velice opatrní. Ale u duchovních věcí to tak není. Jestliže se modlíš k Bohu, aby ti dal bezmezný mír, ničeho se neboj a neříkej: „Ach ne! Vydržím jenom špetku míru.“ Když Bůh dává, uvědomuje si, jestli dokážeš zpracovat špetku míru nebo bezmezný či nekonečný mír. 
+Mám z tebe velikou, velikou radost, jsi šikovná. V obyčejném životě existuje něco, čemu se říká: „příliš mnoho“. pokud dokážu sníst bez přejídání jenom jeden lilkový sendvič a přesto sním dva nebo tři, bude mě bolet žaludek a budu mít nejrůznější potíže. u všeho materiálního nebo pozemského musíme vědět, že i když je to dobré, musíme být velice, velice opatrní. ale u duchovních věcí to tak není. jestliže se modlíš k bohu, aby ti dal bezmezný mír, ničeho se neboj a neříkej: „Ach ne! Vydržím jenom špetku míru.“ Když Bůh dává, uvědomuje si, jestli dokážeš zpracovat špetku míru nebo bezmezný či nekonečný mír. 
 
 Tvoje otázka tedy zní: „Jak tě mohu více potěšit?“ Podívej se na věci, které nyní děláš, od chvíle, kdy ses vrátila na naší cestu. Děláš mnoho dobrých věcí, kdežto před několika lety jsi byla někde jinde, někde jinde! Teď, když se ti tak daří, znáš ty dobré věci, které děláš. Jestliže na mě v nějakou konkrétní dobu myslíš, pozoruj ve své mysli, kolik cítíš upřímnosti, čistoty, blízkosti a jednoty a potom tyto kvality zvětši. Potom, až získáš trochu radosti, ať už se na tebe usmívám nebo procházíš kolem mě, nebo když o tobě tví přátelé říkají pěkné věci, prostě tu radost zvětši. Všude je akce a reakce. Děláš něco dobrého a to je důvod, proč získáváš božské pocity. Jsi dobrá, těšíš mě, takže musíš cítit, že dokážeš udělat o jeden krok více. 
 
@@ -403,7 +398,7 @@ Potom musíte cítit, že se neusmíváte na sebe, ale na mě. V tuto chvíli ne
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:360e1-cs
+  :cite-key: sca:360e1-cs
   :date-event: 1998-12-14
   :END:
 
@@ -415,7 +410,7 @@ Potom musíte cítit, že se neusmíváte na sebe, ale na mě. V tuto chvíli ne
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:360-cs
+  :cite-key: sca:360-cs
   :date-event: 1998-12-14
   :END:
 
@@ -433,7 +428,7 @@ Pokud zcela závisíte na fyzickém těle, vitálnu nebo mysli, všechno je omez
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:361-cs
+  :cite-key: sca:361-cs
   :date-event: 1998-12-14
   :END:
 
@@ -449,7 +444,7 @@ Duha je složena ze sedmi barev a sedmi paprsků. Duha vždycky znamená úspěc
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:362-cs
+  :cite-key: sca:362-cs
   :date-event: 1998-12-14
   :END:
 
@@ -475,7 +470,7 @@ Co je to však oběť? Existuje-li jednota, neexistuje nic takového jako oběť
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:363-cs
+  :cite-key: sca:363-cs
   :date-event: 1998-12-14
   :END:
 
@@ -490,7 +485,7 @@ Co je to však oběť? Existuje-li jednota, neexistuje nic takového jako oběť
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:364-cs
+  :cite-key: sca:364-cs
   :date-event: 1998-12-14
   :END:
 
@@ -501,7 +496,7 @@ Když se díváme na květinu, musíme se ponořit hluboko dovnitř. Potom se be
 
 Tady na Havaji by příroda mohla velice pomoci. Příroda je vždy připravená pomoci. Ale lidé se sem nepřicházejí modlit nebo meditovat, nepřicházejí sem proto, aby získali vnitřní světlo nebo vnitřní krásu. Přicházejí sem proto, aby se potěšili vnější krásou. Takže toto místo je jako matka nebo jako ten slavný strom, který plní přání. Když takový strom požádáte o naplnění nějakého přání, on vám to splní. Požádáte-li o naplnění vaší aspirace, strom ji naplní. Dostanete cokoliv, co chcete. 
 
-Je to jako s Pánem Šivou. Pán Šiva je připraven vám dát cokoliv, co chcete. Když chcete mít takovou moc, abyste mohli někoho zničit jenom tím, že mu položíte ruku na hlavu, Pán Šiva řekne: „Dobře, tady je, vezmi si ji.“ Když se naproti tomu modlíte k témuž Pánu Šivovi: „Dej mi realizaci tak brzo, jak je to jen možné“, řekne: „Dobře, vezmi si ji.“ Tatáž osoba dá oba takové dary! Takže musíme použít naši moudrost. Když požádám o něco nedobrého, musím nést následky. Pán Šiva řekne: „Je to tvoje chyba. Ty jsi mě o to požádal, takže jsem ti to dal.“ Krása přírody je právě taková. Záleží na tom, co od té krásy chcete. Jestliže chceme vstoupit do srdce krásy, modlíme se a meditujeme. Pokud ale chceme vidět a obdivovat tělo krásy, jsme ztraceni.
+Je to jako s Pánem Šivou. Pán Šiva je připraven vám dát cokoliv, co chcete. Když chcete mít takovou moc, abyste mohli někoho zničit jenom tím, že mu položíte ruku na hlavu, Pán Šiva řekne: „dobře, tady je, vezmi si ji.“ když se naproti tomu modlíte k témuž pánu Šivovi: „dej mi realizaci tak brzo, jak je to jen možné“, řekne: „dobře, vezmi si ji.“ tatáž osoba dá oba takové dary! takže musíme použít naši moudrost. když požádám o něco nedobrého, musím nést následky. pán Šiva řekne: „Je to tvoje chyba. Ty jsi mě o to požádal, takže jsem ti to dal.“ Krása přírody je právě taková. Záleží na tom, co od té krásy chcete. Jestliže chceme vstoupit do srdce krásy, modlíme se a meditujeme. Pokud ale chceme vidět a obdivovat tělo krásy, jsme ztraceni.
 
 
 
@@ -512,7 +507,7 @@ Je to jako s Pánem Šivou. Pán Šiva je připraven vám dát cokoliv, co chcet
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:365-cs
+  :cite-key: sca:365-cs
   :date-event: 1998-12-14
   :END:
 
@@ -527,9 +522,9 @@ Pokud mě nedokážete dosáhnout na velmi vysoké úrovni, dosáhněte mě ales
 
 Pokud lidé nejsou připraveni pro studium nějakého vyššího kurzu, mohou studovat něco velice snadného. Mohou postupovat krok za krokem. Jestliže lidé uvěří, že dokážu udělat jednu věc, pokusí se uvěřit i v mé ostatní schopnosti. Potom uvidí moji dynamiku a moje nadšení a možná se připojí k Peace Runu nebo k nějaké naší jiné činnosti. Mnoho lidí, kteří obdivují moje zvedání, ani neslyšelo, že jsem také duchovní Mistr. 
 
-Když lidé mají v jednom bodě víru, mohou udělat jeden krok vpřed. Zeptají se: „Má ještě něco jiného, co by mohl nabídnout?“ Když jdete do obchodu a něco se vám tam líbí, zeptáte se majitele: „Máte ještě něco jiného?“ Ale pokud se vám tam nic nelíbí, odejdete odtud pryč. Půjdete tam ještě někdy? Ne!
+Když lidé mají v jednom bodě víru, mohou udělat jeden krok vpřed. Zeptají se: „má ještě něco jiného, co by mohl nabídnout?“ když jdete do obchodu a něco se vám tam líbí, zeptáte se majitele: „Máte ještě něco jiného?“ Ale pokud se vám tam nic nelíbí, odejdete odtud pryč. Půjdete tam ještě někdy? Ne!
 
-Sri Rámakrišna jednou řekl: „Proč by vám měl někdo naslouchat, když nemáte moc?“ Taková moc však není mocí zkázy, je to moc jednoty. Pokud ostatní nevidí nebo necítí vaši vnitřní moc, musíte ukázat nějaké projevení takové moci. Když Svámí Vivékánanda odjel do Chicaga, ukázal sílu jednoty svého srdce. V tom okamžiku, kdy řekl: „Moje sestry a mí bratři,“ jeho slova okamžitě vstoupila do dynamického vitálna lidstva. Potom se stal nesmrtelným. To byla jeho moc. Moc nebo síla je jako nůž. Jak už jsem mnohokrát řekl, s nožem můžete ublížit sobě nebo jiným, nebo s ním můžete nakrájet ovoce a podělit se s ostatními. 
+Sri Rámakrišna jednou řekl: „proč by vám měl někdo naslouchat, když nemáte moc?“ taková moc však není mocí zkázy, je to moc jednoty. pokud ostatní nevidí nebo necítí vaši vnitřní moc, musíte ukázat nějaké projevení takové moci. když svámí vivékánanda odjel do chicaga, ukázal sílu jednoty svého srdce. v tom okamžiku, kdy řekl: „Moje sestry a mí bratři,“ jeho slova okamžitě vstoupila do dynamického vitálna lidstva. Potom se stal nesmrtelným. To byla jeho moc. Moc nebo síla je jako nůž. Jak už jsem mnohokrát řekl, s nožem můžete ublížit sobě nebo jiným, nebo s ním můžete nakrájet ovoce a podělit se s ostatními. 
 
 Díky síle, kterou předvádím při zvedání těžkých závaží, o mně lidé říkají velice pěkné věci. Jakmile mají lidé víru v jeden aspekt mého života, pokusí se mít víru i v další a další aspekty. Nakonec řeknou: „Ach můj Bože, v tomto aspektu může světu nabídnout ještě více.“ Potom vstoupí do mého srdce a do mé duše. Vnitřní svět se s vnějším světem nedá srovnávat. Ve vnějším světě zvednu 300 liber, ale ve vnitřním světě to nic není! Je to jako kapka ve srovnání s tím, co mohu zvednout ve vnitřním světě. Ve vnitřním světě můžete dát dohromady několik oceánů a já mám na to patřičnou sílu. Někteří ovšem řeknou, že se vytahuji, protože ve vnějším světě mě stačí zabít jediná kapka!
 
@@ -537,22 +532,10 @@ Moje vzpírání je určitá příležitost, kterou mně a mým žákům dal Nej
 
 Naše putování můžeme začít brzo z rána. Co se ale děje v šest, sedm nebo osm hodin ráno? Většina světa spí. Dokážeme-li vstát brzo ráno, s pomocí Boží Milosti můžeme dosáhnout mnoha věcí. Dnes ráno jsem v půl druhé volal do Indie a mluvil se sestrou. Potom jsem trochu meditoval. O čtvrt na čtyři jsem začal cvičit. Když cvičím, myslím na Boha, mého Milovaného Nejvyššího. Každý den strávím hezkých pár hodin fyzickým cvičením. Potom skládám písně. Dělám řadu věcí na mentální i duchovní úrovni. Začínám brzo z rána.
 
-Každé ráno složte vážný slib sami sobě, že budete lepším člověkem, než jste byli včera. Pokud jste dobří, buďte ještě lepší. Každého dalšího dne složte slib: „Dnes budu lepším člověkem.“ Dalšího dne si opět řekněte: „Budu lepším člověkem.“
+Každé ráno složte vážný slib sami sobě, že budete lepším člověkem, než jste byli včera. Pokud jste dobří, buďte ještě lepší. Každého dalšího dne složte slib: „dnes budu lepším člověkem.“ dalšího dne si opět řekněte: „Budu lepším člověkem.“
 
 Fyzické tělo je velice důležité. Existuje jedna stará indická teorie: „Nemysli na tělo. Nech tělo, ať se postará samo o sebe. Mysli jen na duši a srdce. Tělo můžeš zanedbat.“ Já bych ale rád řekl, že pokud nebudeme věnovat pozornost chrámu, jak budeme moci udržet v dobrém stavu jeho oltář? Copak vítr nerozfouká oltář, když nemáme chrám? Musíme udržovat fyzické tělo v dobré kondici. Tím nechci říci, abychom se všichni stali dalším Muhammadem Alim. Ne! Ale fyzická kondice a zároveň nadšení, dychtivost, dynamismus a bdělost jsou velice důležité. Můžete kráčet, můžete klusat, můžete běžet, ale kde je vaše nadšení, dynamismus, kde je připravenost přijmout světlo?
 
 Vraťme se však k tvé otázce -- vždycky říkám, že pokud nedokážete v zahradě ocenit jednu květinu, je zde mnoho dalších. Když se vám líbí jedna květina, něco přijímáte. Něco je lepší než nic! Pokud lidé ode mě nedokáží přijmout duchovní světlo, alespoň se pokusí získat nějaké nadšení z mých fyzických činností.
 
 Všichni se snažíme získat štěstí. Jsme-li šťastní, nebudeme se hádat, nebudeme mezi sebou bojovat. Tady zvedám těžká závaží. Věnuj se něčemu, co mi dělá radost, a vy pozorujete něco, co dělá radost vám. Takže když zde na fyzické úrovni mohu dát nějakou radost a vy ji dokážete přijmout, děláme něco opravdu významného.
-
-
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

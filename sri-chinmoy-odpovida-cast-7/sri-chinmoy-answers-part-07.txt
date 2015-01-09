@@ -1,20 +1,15 @@
-#+TITLE: Sri Chinmoy odpovídá, část 07
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 07
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2014
-  :PUBLISHER: (knižně nevydáno)
-  :CITE-KEY: SCA-7-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2014
+  :publisher: (knižně nevydáno)
+  :cite-key: SCA-7-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Část I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:242e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:242e1-cs
   :END:
   
   
@@ -32,9 +27,9 @@
 * Stalo se už někdy, že duše změní svůj záměr v určité reinkarnaci poté, co se dítě narodí a proto dítě zemře?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:242-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:242-cs
   :END:
 
 
@@ -45,9 +40,9 @@
 * Pokud duše už vstoupila do těla a rozhodne se odejít, mohla by ji jiná duše nahradit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:243-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:243-cs
   :END:
 
 
@@ -58,9 +53,9 @@
 * Změnil někdy Mistr pohlaví jednotlivce?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:244-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:244-cs
   :END:
 
 
@@ -71,9 +66,9 @@
 * Mohl by Mistr úplně přemístit mysl určitého člověka a vložit jinou mysl na její místo, pokud je ta osoba dospělá.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:245-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:245-cs
   :END:
 
 
@@ -88,9 +83,9 @@ Ale věci jako přemisťování mysli se dějí velmi, velmi zřídka, protože 
 * Pokud dvě duše mají spojení, reinkarnují se často společně?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:246-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:246-cs
   :END:
 
 
@@ -101,9 +96,9 @@ Ale věci jako přemisťování mysli se dějí velmi, velmi zřídka, protože 
 * Když řekneš, že dva lidé jsou duše-dvojčata, znamená to, že byly dvojčata v předešlé inkarnaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:247-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:247-cs
   :END:
 
 
@@ -114,9 +109,9 @@ Ale věci jako přemisťování mysli se dějí velmi, velmi zřídka, protože 
 * Co jsou to skupinové duše?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:248-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:248-cs
   :END:
 
 
@@ -129,9 +124,9 @@ Vnějšně mohly cítit nejistotu nebo žárlivost jedna k druhé a mít všechn
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:249-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:249-cs
   :END:
 
 
@@ -142,9 +137,9 @@ Vnějšně mohly cítit nejistotu nebo žárlivost jedna k druhé a mít všechn
 * Když si duše bere inkarnaci, jsou astrologické síly také vybrány nebo jsou duše více či méně uvízlé v astrologických podmínkách, které náhodně převažují, když sestupuje?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:250-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:250-cs
   :END:
 
 
@@ -160,22 +155,22 @@ Když duše sestupuje, nezve lidi, aby ji pozorovali a psali knihu. Podle planet
 * Takže hvězdy nepracují ve spojení s planetami?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:251-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:251-cs
   :END:
 
 
-/Sri Chinmoy:/ Duše přicházejí z úrovně nekonečně vyšší než je dosah planet. Není to tak, že by duše měly schůzky s hvězdami a planetami, aby se rozhodly, jak budou pracovat společně. Ne! Předtím než sestoupí na zem, bude mít duše rozhovor se Supreme, s Nejvyšším, týkající se toho, kolik dosáhne ve své další inkarnaci. Nejvyšší řekne duši, co On očekává, aby udělala v této další inkarnaci. V této chvíli je duše doprovázena buď Samotným Nejvyšším, nebo Jeho posly. Duše slibuje, že udělá to a to pro Nejvyššího, zatímco bude na zemi a Nejvyšší říká:“ Doufám, že to uděláš. Mám v tebe víru.“ Tak duše udělá slib Nejvyššímu a Naděje Nejvyššího spočívá ve slibu duše.
+/Sri Chinmoy:/ duše přicházejí z úrovně nekonečně vyšší než je dosah planet. není to tak, že by duše měly schůzky s hvězdami a planetami, aby se rozhodly, jak budou pracovat společně. ne! předtím než sestoupí na zem, bude mít duše rozhovor se supreme, s nejvyšším, týkající se toho, kolik dosáhne ve své další inkarnaci. nejvyšší řekne duši, co on očekává, aby udělala v této další inkarnaci. v této chvíli je duše doprovázena buď samotným nejvyšším, nebo jeho posly. duše slibuje, že udělá to a to pro nejvyššího, zatímco bude na zemi a nejvyšší říká:“ Doufám, že to uděláš. Mám v tebe víru.“ Tak duše udělá slib Nejvyššímu a Naděje Nejvyššího spočívá ve slibu duše.
 
 
 
 * Když dáš žákovi jméno jeho duše, je to spojeno se slibem, který dala duše Bohu ve světě duší?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:252-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:252-cs
   :END:
 
 
@@ -187,9 +182,9 @@ Když duše sestupuje, nezve lidi, aby ji pozorovali a psali knihu. Podle planet
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:253-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:253-cs
   :END:
 
 
@@ -200,9 +195,9 @@ Když duše sestupuje, nezve lidi, aby ji pozorovali a psali knihu. Podle planet
 * Co je důležitější pro duši ve výběru inkarnace: rodina nebo místo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:254-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:254-cs
   :END:
 
 
@@ -215,13 +210,13 @@ Protože jsem se narodil v malé vesnici, kde jsou náboženství a duchovní ž
 * Co určuje skutečnou chvíli, když duše opustí tělo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:255-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:255-cs
   :END:
 
 
-/Sri Chinmoy:/ Duše nebo nějaká bytost nebo zástupce Nejvyššího hrají poslední notu písně. Je to stejné, jako když vypnete stroj v továrně. Je spousta pracovníků, kteří vědí, jak vypnout stroj. Stroj pracoval po dlouhou dobu a potom vedoucí řekne, „ Nyní někdo z vás vypněte stroj!“ Neukáže na někoho konkrétního, kterému řekne: „Udělej to okamžitě!“ Pouze řekne, „ Nyní ho vypněme!“ Někdy uplyne i několik dnů nebo dokonce měsíců než se toto stane.
+/Sri Chinmoy:/ duše nebo nějaká bytost nebo zástupce nejvyššího hrají poslední notu písně. je to stejné, jako když vypnete stroj v továrně. je spousta pracovníků, kteří vědí, jak vypnout stroj. stroj pracoval po dlouhou dobu a potom vedoucí řekne, „ nyní někdo z vás vypněte stroj!“ neukáže na někoho konkrétního, kterému řekne: „Udělej to okamžitě!“ Pouze řekne, „ Nyní ho vypněme!“ Někdy uplyne i několik dnů nebo dokonce měsíců než se toto stane.
 
 V některých případech vedoucí řekne, „Udělejte to hned!“ V tomto případě může smrt přijít neočekávaně. Ale v ostatních případech řekne, „Jeden z vás vypněte stroj života“ Pracovníci si dávají na čas a vedoucí není příliš přísný. Potom, za nějakou dobu jeden nebo dva pracovníci řeknou, „Vedoucí řekl, abychom zastavili stroj. Udělejme to; jinak se zblázní.“ Potom jeden z nich jde a vypne stroj.
 
@@ -230,9 +225,9 @@ V některých případech vedoucí řekne, „Udělejte to hned!“ V tomto př�
 * Takto je to v případě, když někdo umírá pomalu. Ale co v případě zřícení letadla, nebo když to zahrnuje mnoho lidí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:256-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:256-cs
   :END:
 
 
@@ -243,9 +238,9 @@ V některých případech vedoucí řekne, „Udělejte to hned!“ V tomto př�
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:257-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:257-cs
   :END:
 
 
@@ -258,9 +253,9 @@ Když srdce neposlouchá duši, nebo když se mysl nebo vitálno nebo tělo vzbo
 * Pokud člověk dostane nové srdce, mysl nebo vitálno, uvědomuje si to vědomě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:258-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:258-cs
   :END:
 
 
@@ -272,9 +267,9 @@ Jednotlivec zná svou vlastní mysl. Jaký druh mysli měl před dvěma lety neb
 * Určití žáci mají neuvěřitelnou vzájemnou jednotu. Mají jejich duše spojení od narození nebo je to něco, co se rozvinulo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:259-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:259-cs
   :END:
 
 
@@ -285,9 +280,9 @@ Jednotlivec zná svou vlastní mysl. Jaký druh mysli měl před dvěma lety neb
 * Jak pomáháš duši?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:260-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:260-cs
   :END:
 
 
@@ -298,9 +293,9 @@ Jednotlivec zná svou vlastní mysl. Jaký druh mysli měl před dvěma lety neb
 * Když jsme v noci v dobrém vědomí, můžeme cítit, když přijdeš, abys pomohl našim duším?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:261-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:261-cs
   :END:
 
 
@@ -312,9 +307,9 @@ Potom si představte určitou barvu. Pokud chcete cítit Boží nekonečnou Lás
 * Mělo by se výročí odchodu duše z úrovně země oslavovat stejně jako narozeniny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:262-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:262-cs
   :END:
 
 
@@ -331,9 +326,9 @@ Ale pokud ti, co jsou na zemi, jsou hledající, nemusí čekat rok předtím, n
 * Bere si duše obvykle stejnou mysl, když se reinkarnuje?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:263-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:263-cs
   :END:
 
 
@@ -344,9 +339,9 @@ Ale pokud ti, co jsou na zemi, jsou hledající, nemusí čekat rok předtím, n
 * S jakou pravděpodobností si duše vezme stejnou mysl?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:264-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:264-cs
   :END:
 
 
@@ -357,9 +352,9 @@ Ale pokud ti, co jsou na zemi, jsou hledající, nemusí čekat rok předtím, n
 * Když si jiná duše vezme mysl, nese si mysl karmu s předešlé inkarnace?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:265-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:265-cs
   :END:
 
 
@@ -372,9 +367,9 @@ Takže mysl většinu času trpí. Pouze pokud člověk zemřel náhodnou smrtí
 * Cožpak není vitálno stejně tak ničivé jako mysl?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:266-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:266-cs
   :END:
 
 
@@ -387,9 +382,9 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
 * Jak se může mysl rozvíjet?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:267-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:267-cs
   :END:
 
 
@@ -400,9 +395,9 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
 * Z které části bytosti dostává většina lidí svůj pocit ztotožnění?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:268-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:268-cs
   :END:
 
 
@@ -413,22 +408,22 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
 * Když opustíme tělo, je zde pocit návaznosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:269-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:269-cs
   :END:
 
 
-/Sri Chinmoy:/ Ano, ale je to návaznost duše. Je to všechno zkušenost duše, která je tím božským v nás. Duše je sto procentně božská, zatímco srdce, mysl a vitálno nejsou plně božské. V každé inkarnaci se duše pokouší osvítit srdce, mysl a vitálno. Duše přijala výzvu, aby zdokonalila všechny členy rodiny. Někdy je to bolestivé: duše žebrá po mysli, aby byla více božská, ale mysl neposlouchá.
+/Sri Chinmoy:/ ano, ale je to návaznost duše. je to všechno zkušenost duše, která je tím božským v nás. duše je sto procentně božská, zatímco srdce, mysl a vitálno nejsou plně božské. v každé inkarnaci se duše pokouší osvítit srdce, mysl a vitálno. duše přijala výzvu, aby zdokonalila všechny členy rodiny. někdy je to bolestivé: duše žebrá po mysli, aby byla více božská, ale mysl neposlouchá.
 
 
 
 * Proč lidé, kteří mají propojené duše, vypadají podobně?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:270-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:270-cs
   :END:
 
 
@@ -439,9 +434,9 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
 * Proč je duše zasažena vnějšími okolnostmi?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:271-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:271-cs
   :END:
 
 
@@ -452,9 +447,9 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
 * Část II [fn:SCA-272-278] 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:272e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:272e1-cs
   :END:
 
 
@@ -462,9 +457,9 @@ To je důvod proč Mistři shledávají velmi obtížným jednat s duševními l
 * Když soud vydá verdikt, hraje zde roli karma, pokud je shledán vinným někdo, kdo je možná nevinný, nebo naopak?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:272-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:272-cs
   :END:
 
 
@@ -477,9 +472,9 @@ Pokud jste nejvyšší činitel v jednání s někým a uděláte chybu, protož
 * Nikdy jsem nemeditoval vědomě na svou duši; pouze medituji na Nejvyššího. Je to chyba?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:273-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:273-cs
   :END:
 
 
@@ -504,9 +499,9 @@ Toto tělo odejde, toto vitálno odejde, tato mysl odejde; všechno nás opustí
 * Když můj první manžel zemřel, cítila jsem, že do mě vstoupila jeho duše.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:274-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:274-cs
   :END:
 
 
@@ -518,9 +513,9 @@ Ve vašem případě, co jste cítila, nebyla duše vašeho manžela, ale dobré
 * Když zemřel, cítila jsem, že jsem napůl mrtvá.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:275-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:275-cs
   :END:
 
 
@@ -531,9 +526,9 @@ Ve vašem případě, co jste cítila, nebyla duše vašeho manžela, ale dobré
 * Jak vlastně poznáme, že se blížíme k realizaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:276-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:276-cs
   :END:
 
 
@@ -548,9 +543,9 @@ Duchovní Mistři, kteří realizovali Nejvyšší, pokud chtějí, mohou přika
 * Má Nejvyšší stejnou kapacitu nekonečné Spravedlnosti, jako má nekonečného Soucitu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:277-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:277-cs
   :END:
 
 
@@ -567,9 +562,9 @@ Den za dnem pokračujeme v dělání špatných věcí a myslíme si, že Bůh s
 * Zmenšuje se časem pro člověka Boží Soucit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:278-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:278-cs
   :END:
 
 
@@ -586,9 +581,9 @@ Zatímco meditujeme, pokud se můžeme ponořit hluboko dovnitř na několik vte
 * Část III [fn:SCA-279-282] 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:279e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:279e1-cs
   :END:
   
   
@@ -599,9 +594,9 @@ Zatímco meditujeme, pokud se můžeme ponořit hluboko dovnitř na několik vte
 * Zdá se jako by dnes člověk věci pouze vysvětloval. Kdy se toto zastaví?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:279-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:279-cs
   :END:
 
 
@@ -618,9 +613,9 @@ Bůh si s námi hraje přesně stejným způsobem. Když se pokoušíme použít
 * Jak se dostaneme za mysl?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:280-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:280-cs
   :END:
 
 
@@ -631,9 +626,9 @@ Bůh si s námi hraje přesně stejným způsobem. Když se pokoušíme použít
 * Jak můžeme zakusit sladkost a čistotu Matky Přírody, když žijeme v místě jako je New York?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:281-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:281-cs
   :END:
 
 
@@ -646,9 +641,9 @@ Mnoho lidí chodí do kostela, ale jejich mysl a srdce jsou někde jinde. Může
 * Proč lidstvo znečišťuje a ničí Matku Přírodu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:282-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:282-cs
   :END:
 
 
@@ -662,9 +657,9 @@ Protože my lidské bytosti vidíme nepřátele kolem nás, protože se bojíme,
 * Část IV [fn:SCA-283-284] 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:283e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:283e1-cs
   :END:
   
   
@@ -677,9 +672,9 @@ Protože my lidské bytosti vidíme nepřátele kolem nás, protože se bojíme,
 * /Pí.Strongová:/ Úpadek země je právě teď tak pokročilý, že velcí mystici, šamani a duchovní lidé říkají, že jsme již protnuli čáru, kde není návratu, co se týče oceánů, půdy a lesů. Jaký je váš názor?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:283-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:283-cs
   :END:
 
 
@@ -694,9 +689,9 @@ Protože my lidské bytosti vidíme nepřátele kolem nás, protože se bojíme,
 * Ve filmu „Apollo 13“ se lidé věnovali všem těm strojům a odchodu od přírody. Je to pro lidi dobré věnovat se tak strojům? Je pro lidi dobré létat do vesmíru a dělat věci, které jsou nepřirozené? Je to pro ně užitečné?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:284-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:284-cs
   :END:
 
 
@@ -712,9 +707,9 @@ Vědci mohou sestoupit na měsíc a vidět několik kamenů, ale nezískají vě
 * Část V [fn:SCA-285-295] 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:285e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:285e1-cs
   :END:
   
   
@@ -725,9 +720,9 @@ Vědci mohou sestoupit na měsíc a vidět několik kamenů, ale nezískají vě
 * Je duchovní život snazší nebo méně přísný dnes než byl v dávných časech?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:285-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:285-cs
   :END:
 
 
@@ -739,9 +734,9 @@ Dnes je všechno levné -- tak levné jako voda. Znovu, voda je život. Pokud ne
 * Duchovně, postupuje svět dopředu nebo zpátky?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:286-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:286-cs
   :END:
 
 
@@ -756,9 +751,9 @@ Takže dnes jsou tu výhody i nevýhody; ale celkově je to mnohem snazší dnes
 * Co tím myslíš, když mluvíš o naší nejvyšší meditaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:287-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:287-cs
   :END:
 
 
@@ -772,9 +767,9 @@ Když nás vnější svět pokouší nebo nás láká, musíme si pamatovat tyto
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:288-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:288-cs
   :END:
 
 
@@ -790,9 +785,9 @@ Znovu, je možné mít pomíjivou realizaci. Když měl Ardžuna vizi Krišnova 
 * Jak bychom měli zacházet se svými nedostatky?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:289-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:289-cs
   :END:
 
 
@@ -805,9 +800,9 @@ Vše se musí dít krok po kroku. Na začátku nevědomě nebo vědomě chováme
 * Co je poezie?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:290-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:290-cs
   :END:
 
 
@@ -820,9 +815,9 @@ Poezie je intuitivní, takže bychom se neměli pokoušet porozumět jí. Není 
 * Jaký je vztah mezi dychtivostí a vytrvalostí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:291-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:291-cs
   :END:
 
 
@@ -837,9 +832,9 @@ Mnoho lidí je dychtivých, ale po dvou dnech jejich dychtivost zmizí. Dva dny 
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:292-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:292-cs
   :END:
 
 
@@ -858,9 +853,9 @@ Existuje ještě jedna cesta. Pokaždé, když někoho kritizujete, ciťte, že 
 * Někdy svět snižuje moje vědomí.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:293-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:293-cs
   :END:
 
 
@@ -873,9 +868,9 @@ Ale pokud během meditace myslíme na zítřejší snídani nebo na toho, kdo n�
 * Řekl jste, že průběh úspěšné realizace Boha je devadesát pět procent Boží Milosti a pět procent osobního úsilí. Ale pokud realizujeme Boha, říkáte, uvědomíme si, že dokonce našich pět procent byla Boží Milost. To je případ, jak může být hledající zodpovědný za svůj úspěch nebo neúspěch?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:294-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:294-cs
   :END:
 
 
@@ -891,9 +886,9 @@ Co to znamená? Předpokládejme, že jste očekával, že se něco stane vašim
 * Jak důležitý je zdravý rozum?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:295-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:295-cs
   :END:
 
 
@@ -903,9 +898,9 @@ Co to znamená? Předpokládejme, že jste očekával, že se něco stane vašim
 * Část VI [fn:SCA-296-304] 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:296e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:296e1-cs
   :END:
   
   
@@ -916,9 +911,9 @@ Co to znamená? Předpokládejme, že jste očekával, že se něco stane vašim
 * Často nám vyprávíš příběh, kdy Pán Krišna požádal Ardžunu o barvu některého ovoce na blízkém stromě. Pokaždé když Krišna řekl odlišnou barvu, a Ardžuna okamžitě změnil názor, aby souhlasil s Krišnou. Když s tebou jednáme, jak můžeme vědět, kdy bychom s tebou měli souhlasit a kdy bychom měli nabídnout svůj vlastní osobní názor?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:296-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:296-cs
   :END:
 
 
@@ -941,9 +936,9 @@ Problém je, že naprosto každý si vytvořil určité představy na mentální
 * Během bitvy na Kurukšetře, Krišna vyšel z vozu, aby bojoval, ačkoliv dal slib, že vůbec nebude bojovat. Uvažoval jsem nad tím, co to vypovídá o Krišnově osobnosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:297-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:297-cs
   :END:
 
 
@@ -970,9 +965,9 @@ Mahábhárata je sladší než nejsladší a zároveň hlubší než nejhlubší
 * Postavil se někdo z Kuruovců vědomě na stranu Pánduovců?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:298-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:298-cs
   :END:
 
 
@@ -984,9 +979,9 @@ Slyšíc tato slova, jeden z Durjodhanových vlastních bratrů přiběhl a řek
 * Pokud je někdo spojený s určitým bohem nebo bohyní, ukazují tento bůh nebo bohyně zvláštní zájem pro tohoto člověka?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:299-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:299-cs
   :END:
 
 
@@ -1001,9 +996,9 @@ Stejně tak, pokud má někdo duchovního Mistra, kosmičtí bohové se neúčas
 * Proč bohové a bohyně stojí někomu v cestě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:300-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:300-cs
   :END:
 
 
@@ -1014,9 +1009,9 @@ Stejně tak, pokud má někdo duchovního Mistra, kosmičtí bohové se neúčas
 * Mají kosmičtí bohové a bohyně kapacitu dělat duchovní pokrok?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:301-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:301-cs
   :END:
 
 
@@ -1031,9 +1026,9 @@ Ve srovnání s kosmickými bohy, jsou nyní lidské bytosti jako malé děti. D
 * Proklínají stále kosmičtí bohové jeden druhého a bojují vzájemně tak, jak to dělali v Puránách?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:302-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:302-cs
   :END:
 
 
@@ -1049,9 +1044,9 @@ Mnoho věcí bylo vloženo do Purán, jen aby příběhy měli více šťávy. P
 * V jedné z tvých básní říkáš, že Bůh pro nás udělá všechno, pokud náš dech ztělesňuje dušeplnou vděčnost. Tento druh vděčnosti se zdá daleko za naším dosažením. Jak ho můžeme docílit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:303-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:303-cs
   :END:
 
 
@@ -1066,9 +1061,9 @@ Jiný způsob, jak mít vděčnost je myslet si, čím bychom se stali, kdyby n�
 * Jak můžeme být sladší?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:304-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:304-cs
   :END:
 
 
@@ -1082,7 +1077,7 @@ Jiný způsob, jak mít vděčnost je myslet si, čím bychom se stali, kdyby n�
   :PROPERTIES:
   :genre: note
   :keywords:
-  :cite-key: SCA:305e1-cs
+  :cite-key: sca:305e1-cs
   :END:
   
 
@@ -1096,16 +1091,3 @@ Jiný způsob, jak mít vděčnost je myslet si, čím bychom se stali, kdyby n�
 [fn:SCA-285-295] /Následující otázky byly položeny na Maui 25-26 ledna 1995/
 
 [fn:SCA-296-304] /Následující otázky byly položeny v dubnu a květnu 1995/
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

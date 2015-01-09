@@ -1,20 +1,15 @@
-#+TITLE: Vůně mírových květů, část 1.
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Vůně mírových květů, část 1.
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 1995
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: PBF-1-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 1995
+  :publisher: Madal Bal
+  :cite-key: PBF-1-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * 1 Boží Oko mě děsí...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:1-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:1-cs
   :END:
 
 
@@ -41,9 +36,9 @@ Boží Oko mě děsí
 * 2 Dobrota...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:2-cs
   :END:
 
 
@@ -58,9 +53,9 @@ je kapkou míru.
 * 3 Jednota ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:3-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:3-cs
   :END:
 
 
@@ -75,9 +70,9 @@ je mořem míru.
 * 4 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:4-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:4-cs
   :END:
 
 
@@ -93,9 +88,9 @@ bez říznutí.
 * 5 Oko míru...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:5-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:5-cs
   :END:
 
 
@@ -110,9 +105,9 @@ je mikroskopické.
 * 6 Srdce míru...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:6-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:6-cs
   :END:
 
 
@@ -127,9 +122,9 @@ je teleskopické.
 * 7 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:7-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:7-cs
   :END:
 
 
@@ -146,9 +141,9 @@ a uspokojením světa.
 * 8 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:8-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:8-cs
   :END:
 
 
@@ -164,9 +159,9 @@ ztřeštěnosti.
 * 9 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:9-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:9-cs
   :END:
 
 
@@ -182,9 +177,9 @@ všepronikavosti.
 * 10 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:10-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:10-cs
   :END:
 
 
@@ -199,9 +194,9 @@ je v hledání Boha.
 * 11 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:11-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:11-cs
   :END:
 
 
@@ -216,9 +211,9 @@ je v sebedobývání.
 * 12 Vítězství duše...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:12-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:12-cs
   :END:
 
 
@@ -234,9 +229,9 @@ je mír.
 * 13 Neobjevení se touhy...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:13-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:13-cs
   :END:
 
 
@@ -252,9 +247,9 @@ je mír.
 * 14 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:14-cs
   :END:
 
 
@@ -270,9 +265,9 @@ ve své zvířeckosti.
 * 15 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:15-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:15-cs
   :END:
 
 
@@ -288,9 +283,9 @@ ve své svatosti.
 * 16 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:16-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:16-cs
   :END:
 
 
@@ -305,9 +300,9 @@ není v okultní bouři.
 * 17 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:17-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:17-cs
   :END:
 
 
@@ -322,9 +317,9 @@ je v duchovním vánku.
 * 18 Chtivost majetku...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:18-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:18-cs
   :END:
 
 
@@ -339,9 +334,9 @@ je hladověním míru.
 * 19 Bůh se stává vlastníkem míru...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:19-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:19-cs
   :END:
 
 
@@ -356,9 +351,9 @@ jen když se usmívám a zpívám.
 * 20 Bůh ztrácí mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:20-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:20-cs
   :END:
 
 
@@ -373,9 +368,9 @@ jen když pláču a vzdychám.
 * 21 Člověk - univerzální Bůh...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:21-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:21-cs
   :END:
 
 
@@ -390,9 +385,9 @@ je květinou míru.
 * 22 Bůh - transcendentální člověk -...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:22-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:22-cs
   :END:
 
 
@@ -407,9 +402,9 @@ je vůní míru.
 * 23 Hnízdo mého srdce míru...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:23-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:23-cs
   :END:
 
 
@@ -425,9 +420,9 @@ dokonalého Uspokojení.
 * 24 Neuchopitelný...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:24-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:24-cs
   :END:
 
 
@@ -442,9 +437,9 @@ je můj mír radosti z poslušnosti Boha.
 * 25 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:25-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:25-cs
   :END:
 
 
@@ -459,9 +454,9 @@ není v královském bohatství.
 * 26 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:26-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:26-cs
   :END:
 
 
@@ -477,9 +472,9 @@ je v tichu svobody.
 * 27 Má meditace rozkvětu ticha...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:27-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:27-cs
   :END:
 
 
@@ -495,9 +490,9 @@ než znásobení mé svobody míru.
 * 28 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:28-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:28-cs
   :END:
 
 
@@ -514,9 +509,9 @@ horizontu mé duše.
 * 29 Studenti lásky...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:29-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:29-cs
   :END:
 
 
@@ -532,9 +527,9 @@ profesory míru.
 * 30 Nadřazenost rozdělující mysli...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:30-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:30-cs
   :END:
 
 
@@ -549,9 +544,9 @@ nezná žádný mír.
 * 31 Důvěrnost znásobení srdce...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:31-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:31-cs
   :END:
 
 
@@ -566,9 +561,9 @@ nezná nic než mír.
 * 32 Těším se z míru...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:32-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:32-cs
   :END:
 
 
@@ -584,9 +579,9 @@ změnit svou trvdohlavou mysl.
 * 33 Když dám Bohu...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:33-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:33-cs
   :END:
 
 
@@ -604,9 +599,9 @@ celé své vlastnictví:
 * 34 Když myslím na mír ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:34-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:34-cs
   :END:
 
 
@@ -621,9 +616,9 @@ má mysl těžce vzdychá.
 * 35 Když se modlím pro mír ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:35-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:35-cs
   :END:
 
 
@@ -638,9 +633,9 @@ mé srdce lítostivě pláče.
 * 36 Když medituji na mír ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:36-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:36-cs
   :END:
 
 
@@ -655,9 +650,9 @@ má duše se hrdě usmívá.
 * 37 Mír mého srdce vděčnosti...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:37-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:37-cs
   :END:
 
 
@@ -674,9 +669,9 @@ ale bude také žít navždy.
 * 38 Žádný mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:38-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:38-cs
   :END:
 
 
@@ -691,9 +686,9 @@ v prázdnotě mé mysli bez Boha.
 * 39 Veškerý mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:39-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:39-cs
   :END:
 
 
@@ -708,9 +703,9 @@ v bláznovství mého srdce po Bohu.
 * 40 Běžec lásky k Bohu...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:40-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:40-cs
   :END:
 
 
@@ -728,9 +723,9 @@ pochodeň míru.
 * 41 Má mír postrádající mysl...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:41-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:41-cs
   :END:
 
 
@@ -745,9 +740,9 @@ zdvojnásobuje Boží Slzy.
 * 42 Mé mírem oplývající srdce...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:42-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:42-cs
   :END:
 
 
@@ -762,9 +757,9 @@ ztrojnásobuje Boží Úsměvy.
 * 43 Úplná upřímnost mé mysli...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:43-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:43-cs
   :END:
 
 
@@ -779,9 +774,9 @@ je Božím Mírem.
 * 44 Boží bezpodmínečná Jednota...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:44-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:44-cs
   :END:
 
 
@@ -796,9 +791,9 @@ je mírem mé mysli.
 * 45 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:45-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:45-cs
   :END:
 
 
@@ -813,9 +808,9 @@ je jedinou volbou mého vnitřního života.
 * 46 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:46-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:46-cs
   :END:
 
 
@@ -830,9 +825,9 @@ není stromem představivosti mé mysli.
 * 47 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:47-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:47-cs
   :END:
 
 
@@ -847,9 +842,9 @@ je plodem skutečnosti mého srdce.
 * 48 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:48-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:48-cs
   :END:
 
 
@@ -864,9 +859,9 @@ není úleva útěkem ze světa.
 * 49 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:49-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:49-cs
   :END:
 
 
@@ -881,9 +876,9 @@ je vírou v přeměnu světa.
 * 50 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:50-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:50-cs
   :END:
 
 
@@ -899,9 +894,9 @@ hladem po Božím Soucitu.
 * 51 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:51-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:51-cs
   :END:
 
 
@@ -917,9 +912,9 @@ hostinou Božího Uspokojení.
 * 52 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:52-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:52-cs
   :END:
 
 
@@ -935,9 +930,9 @@ duchovní Krásou.
 * 53 Mír se rodí...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:53-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:53-cs
   :END:
 
 
@@ -952,9 +947,9 @@ jen v hojnosti lásky jednoty.
 * 54 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:54-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:54-cs
   :END:
 
 
@@ -972,9 +967,9 @@ a mou bezednou hlubinou.
 * 55 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:55-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:55-cs
   :END:
 
 
@@ -990,9 +985,9 @@ mé duše Boží jednoty.
 * 56 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:56-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:56-cs
   :END:
 
 
@@ -1008,9 +1003,9 @@ mého srdce Boží aspirace.
 * 57 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:57-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:57-cs
   :END:
 
 
@@ -1026,9 +1021,9 @@ v mé mysli uvědomění si Boha.
 * 58 Bůh chce...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:58-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:58-cs
   :END:
 
 
@@ -1047,9 +1042,9 @@ přijít a zpívat Své Mírové Písně.
 * 59 Ó má mysli...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:59-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:59-cs
   :END:
 
 
@@ -1067,9 +1062,9 @@ nesmyslná noční můra?
 * 60 Má mysl by ráda věděla...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:60-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:60-cs
   :END:
 
 
@@ -1086,9 +1081,9 @@ pro mír.
 * 61 Mého srdce uznání Boha...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:61-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:61-cs
   :END:
 
 
@@ -1103,9 +1098,9 @@ je nejrychlejším přinašečem míru.
 * 62 Ó můj Pane...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:62-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:62-cs
   :END:
 
 
@@ -1123,9 +1118,9 @@ každý den.
 * 63 Mezi básněmi mého srdce...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:63-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:63-cs
   :END:
 
 
@@ -1141,9 +1136,9 @@ je zdaleka nejlepší.
 * 64 Chci více...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:64-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:64-cs
   :END:
 
 
@@ -1161,9 +1156,9 @@ aby byl můj život zaplaven mírem.
 * 65 Nechť se urychlí...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:65-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:65-cs
   :END:
 
 
@@ -1181,9 +1176,9 @@ z Nebe.
 * 66 Nezastavuj pláč svého srdce...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:66-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:66-cs
   :END:
 
 
@@ -1200,9 +1195,9 @@ v celé tvé bytosti.
 * 67 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:67-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:67-cs
   :END:
 
 
@@ -1218,9 +1213,9 @@ pro pochybami zamořené lidstvo.
 * 68 Míre, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:68-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:68-cs
   :END:
 
 
@@ -1236,9 +1231,9 @@ východu slunce mého uspokojení Boha.
 * 69 Vidět Boha nestačí...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:69-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:69-cs
   :END:
 
 
@@ -1255,9 +1250,9 @@ do trvalého míru.
 * 70 Můj vitále, má mysli...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:70-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:70-cs
   :END:
 
 
@@ -1274,9 +1269,9 @@ jak klepe na dveře mého srdce.
 * 71 Žiji jen za jedním účelem:...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:71-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:71-cs
   :END:
 
 
@@ -1291,9 +1286,9 @@ projevení míru zde na zemi.
 * 72 Ne klamáním nevědomosti...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:72-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:72-cs
   :END:
 
 
@@ -1310,9 +1305,9 @@ můžeme mít hojnost míru.
 * 73 Bůh nikdy neučinil...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:73-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:73-cs
   :END:
 
 
@@ -1329,9 +1324,9 @@ Je to nepochybně
 * 74 Začne-li docházet...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:74-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:74-cs
   :END:
 
 
@@ -1348,9 +1343,9 @@ je nucen běžet pomalu.
 * 75 Nemáš-li mír mysli...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:75-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:75-cs
   :END:
 
 
@@ -1367,9 +1362,9 @@ jež nikam nevede.
 * 76 Kéž slunce míru mého aspirujícího srdce...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:76-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:76-cs
   :END:
 
 
@@ -1384,9 +1379,9 @@ je bezesně na vzestupu.
 * 77 Mé životní dosažení míru...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:77-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:77-cs
   :END:
 
 
@@ -1404,9 +1399,9 @@ nevyhnutelnosti.
 * 78 Vnitřní rychlost srdce...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:78-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:78-cs
   :END:
 
 
@@ -1422,9 +1417,9 @@ na bezesně se usmívajícím míru.
 * 79 Ticho mé meditace...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:79-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:79-cs
   :END:
 
 
@@ -1440,9 +1435,9 @@ mou zpáteční cestu do Domova Božího Míru.
 * 80 Mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:80-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:80-cs
   :END:
 
 
@@ -1459,9 +1454,9 @@ Božím vlastním Úsměvem.
 * 81 Úplné sebeodevzdání...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:81-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:81-cs
   :END:
 
 
@@ -1476,9 +1471,9 @@ je dokonalý Boží Mír.
 * 82 Slunce štěstí mé mysli...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:82-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:82-cs
   :END:
 
 
@@ -1496,9 +1491,9 @@ dokonalým nástrojem Boha.
 * 83 Nyní, když žiji...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:83-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:83-cs
   :END:
 
 
@@ -1515,9 +1510,9 @@ mě volá.
 * 84 Nyní, když jsem se stal...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:84-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:84-cs
   :END:
 
 
@@ -1534,9 +1529,9 @@ mír ke mně pospíchá.
 * 85 Protože jsem se narodil...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:85-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:85-cs
   :END:
 
 
@@ -1553,9 +1548,9 @@ si mohou bezustání hrát s mírem.
 * 86 Bůh obklopuje můj život...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:86-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:86-cs
   :END:
 
 
@@ -1572,9 +1567,9 @@ svou bezdechou láskou.
 * 87 Neulpívej...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:87-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:87-cs
   :END:
 
 
@@ -1592,9 +1587,9 @@ Mír bude zcela tvůj.
 * 88 Ó hledající pravdy a milovníku Boha...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:88-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:88-cs
   :END:
 
 
@@ -1612,9 +1607,9 @@ naživu.
 * 89 Člověk míru...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:89-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:89-cs
   :END:
 
 
@@ -1631,9 +1626,9 @@ mistrovským dílem Soucitu.
 * 90 Tam, kde je...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:90-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:90-cs
   :END:
 
 
@@ -1650,9 +1645,9 @@ své viditelné vzezření.
 * 91 Ó hledající...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:91-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:91-cs
   :END:
 
 
@@ -1669,9 +1664,9 @@ druhým jejich blízkost Božímu Srdci?
 * 92 Ó má mysli...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:92-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:92-cs
   :END:
 
 
@@ -1691,9 +1686,9 @@ mír zevnitř.
 * 93 Stal jsem se...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:93-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:93-cs
   :END:
 
 
@@ -1711,9 +1706,9 @@ na květinu vděčnosti svého srdce.
 * 94 Pokud dovolíme své mysli...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:94-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:94-cs
   :END:
 
 
@@ -1731,9 +1726,9 @@ ani špetku míru.
 * 95 Nemůžeš mít nic jiného než mír...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:95-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:95-cs
   :END:
 
 
@@ -1752,9 +1747,9 @@ a ve všem, čím se stáváš.
 * 96 Vždy žij životem...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:96-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:96-cs
   :END:
 
 
@@ -1771,9 +1766,9 @@ a spřátelí se s tebou.
 * 97 Zeptej se lidí starých časů...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:97-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:97-cs
   :END:
 
 
@@ -1790,9 +1785,9 @@ a nic jiného.
 * 98 Zeptej se lidí dneška...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:98-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:98-cs
   :END:
 
 
@@ -1809,9 +1804,9 @@ a určitě ne mír.
 * 99 Ó má mysli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:99-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:99-cs
   :END:
 
 
@@ -1830,9 +1825,9 @@ dotazy a podezřeními?
 * 100 Můj mír je...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PBF:100-cs
+  :genre: poem
+  :keywords:
+  :cite-key: pbf:100-cs
   :END:
 
 
@@ -1844,12 +1839,3 @@ mého Pána
 ve mně a pro mne.
 
 #+END_VERSE
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

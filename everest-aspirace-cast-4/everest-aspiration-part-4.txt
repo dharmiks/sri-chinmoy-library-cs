@@ -1,19 +1,14 @@
-#+TITLE: Everest aspirace, část 4.
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Everest aspirace, část 4.
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:Nil
-  :YEAR: 2003
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: EA-4-cs
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition:Nil
+  :year: 2003
+  :publisher: Madal Bal
+  :cite-key: EA-4-cs
+  :keywords:
   :END:
 
 
@@ -21,10 +16,10 @@
 * Má božská pouť
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:76-cs
-  :DATE-EVENT: 1977-07-18
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:76-cs
+  :date-event: 1977-07-18
   :END:
 
 
@@ -50,10 +45,10 @@ Norwalk, Connecticut
 * Pane mého života, Příteli mého srdce
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:77-cs
-  :DATE-EVENT: 1977-07-17
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:77-cs
+  :date-event: 1977-07-17
   :END:
 
 Můj Milovaný Nejvyšší, mám pro Tebe nějaké dárky. Můj první dárek je můj oduševnělý pláč. Můj druhý dárek je můj plodný úsměv. Můj třetí a speciální dárek je má jednota srdce. Můj čtvrtý a můj extra speciální dárek je můj plamen vděčnosti. 
@@ -68,10 +63,10 @@ Na cestě z Jamaiky, New York do Washington, D.C.
 * Přijetí
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: EA:78-cs
-  :DATE-EVENT: 1977-07-19
+  :genre: poem
+  :keywords:
+  :cite-key: ea:78-cs
+  :date-event: 1977-07-19
   :END:
 
 
@@ -113,10 +108,10 @@ Jamaica, New York
 * Prázdné chvíle
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:79-cs
-  :DATE-EVENT: 1977-07-19
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:79-cs
+  :date-event: 1977-07-19
   :END:
 
 
@@ -136,10 +131,10 @@ Jamaica, New York
 * Chceš být dokonalý?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:80-cs
-  :DATE-EVENT: 1977-07-19
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:80-cs
+  :date-event: 1977-07-19
   :END:
 
 
@@ -156,10 +151,10 @@ Jamaica, New York
 * Kde jsou?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:81-cs
-  :DATE-EVENT: 1977-07-19
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:81-cs
+  :date-event: 1977-07-19
   :END:
 
 
@@ -185,10 +180,10 @@ Bronx, New York
 * Nikdy není příliš pozdě
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:82-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:82-cs
+  :date-event: 1977-07-20
   :END:
 
 
@@ -218,10 +213,10 @@ Jamaica, New York
 * Bůh stvořil tento svět kulatý
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:83-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:83-cs
+  :date-event: 1977-07-20
    :END:
 
 
@@ -239,10 +234,10 @@ Jamaica, New York
 * Dávám?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:84-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:84-cs
+  :date-event: 1977-07-20
    :END:
 
 
@@ -264,10 +259,10 @@ Jamaica, New York
 * Je to můj osud?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:85-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:85-cs
+  :date-event: 1977-07-20
    :END:
 
 "Můj Pane Nejvyšší, je to můj osud, že nebudu mít žádnou zkratku k mému cíli-uspokojení? Každý ví, že vede zkratka k cíli, ale v mém případě jsem tuto zkratku ještě nenašel. Chceš, abych milovat svět, chceš, abych světu sloužil, protože uvnitř světa je Tvá vlastní skutečnost Bytí. Ale tento Tvůj svět nebyl připraven, není připraven a možná nikdy nebude připraven na vybrané nástroje, svrchovaně vybrané nástroje k probuzení spícího lidského života. Ne! Žádná duchovní postava nikdy neuspěla podle Tvého vnitřního Přání.
@@ -286,10 +281,10 @@ Jamaica, New York
 * Co dělám?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:86-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:86-cs
+  :date-event: 1977-07-20
    :END:
 
 
@@ -313,10 +308,10 @@ Jamaica, New York
 * Bez člověka a bez Boha
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:87-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:87-cs
+  :date-event: 1977-07-20
   :END:
 
 Mohu udělat něco bez člověka? Ano, mohu. Bez člověka mohu udělat mnoho, mnoho věcí, ne-li úplně všechno. Když se budu modlit k Bohu, aby mi dal schopnost udělat všechno bez pomoci lidstva, jsem si jistý, že mi vyhoví.
@@ -336,10 +331,10 @@ Jamaica, New York
 * Má promluva od srdce k srdci
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:88-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:88-cs
+  :date-event: 1977-07-20
    :END:
 
 
@@ -363,13 +358,13 @@ Jamaica, New York
 * Nikdy nedávej vnější slib
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:89-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:89-cs
+  :date-event: 1977-07-20
    :END:
 
-Můj bratr Chitta mi říkával: "Nikdy, nikdy nedávej vnější slib. Slibuj jen vnitřně sám, co chceš dělat ve svém životě a s životy druhých. V okamžiku, kdy navenek sdělíš světu, co budeš dělat, nebo co očekáváš, že ostatní udělají pro tebe, pro ostatní nebo pro sebe, nepřátelské síly na tebe vždy přímo zaútočí. Pak se do tebe pokusí vstoupit další nebožské síly: lidská žárlivost, lidská nejistota, lidské pochyby a mnoho špatných sil.
+Můj bratr Chitta mi říkával: "nikdy, nikdy nedávej vnější slib. slibuj jen vnitřně sám, co chceš dělat ve svém životě a s životy druhých. v okamžiku, kdy navenek sdělíš světu, co budeš dělat, nebo co očekáváš, že ostatní udělají pro tebe, pro ostatní nebo pro sebe, nepřátelské síly na tebe vždy přímo zaútočí. pak se do tebe pokusí vstoupit další nebožské síly: lidská žárlivost, lidská nejistota, lidské pochyby a mnoho špatných sil.
 
 Když je tvůj slib učiněn ve vnitřním světě, nebožské síly zůstávají nečinné. Myslí si, že je to jen zbožné přání. Když k sobě mluvíš v duchu, myslí si, že to není skutečný slib. Ale když otevřeš svá ústa, aby tě slyšela veřejnost, aby tě slyšelo lidstvo, pak jsi odhalen. V každém okamžiku musí vyjít do popředí tvá vnitřní vůle splnit svůj slib; jinak, pokud nejsi schopen svůj slib splnit, budeš napadán sebepochybnostmi a sebeposměchem. Svět tě nesmí zesměšňovat. Ty sám, tvá vlastní upřímnost, se ti bude posmívat. Takže je lepší, abys udržoval svůj slib uvnitř svého srdce: neposlat ho ani k tvému jazyku, ani ho neudržovat dokonce na špičce svého jazyka."
 
@@ -385,10 +380,10 @@ Jamaica, New York
 * Boj
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:90-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:90-cs
+  :date-event: 1977-07-20
    :END:
 
 "Můj Pane Nejvyšší, schvaluješ můj bojovný život? Souhlasíš s pokrokem, který dělám skrze bojování? Mám pocit, že dělám pokrok, jen když bojuji; cítím, že dělám pokrok, jen když musím překonávat překážky."
@@ -401,7 +396,7 @@ Tak vždy říkám svým žákům, aby byli opatrní. Život boje neznamená ži
 
 Když se dítě usmívá, i když je to jen malý úsměv, matka cítí, že dostala celý svět. Podobně, když se matka usmívá, nebo otec se usmívá, dítě cítí, že dostalo celý svět. Matka je prosebník a dítě je také prosebník. Zde také, Bůh Stvořitel a Bůh stvoření jsou stejní prosebníci. Nebo můžete říct, že se mohou stát kompletní, integrální a celí jen tehdy, když si vymění své vzájemné úsměvy.
 
-Jako hledající musíte nabídnout váš úsměv spontánním jednáním, protože spontánní jednání samo o sobě je úsměvem. Takže vyrůstejte jen v tom úsměvu. Chovejte se jako dítě: buďte spontánní ve všem, co děláte a říkáte. Uvnitř této spontánnosti uvidíte svůj úsměv, a uvnitř úsměvu uvidíte svou spontánnost. Váš úsměv a Boží úsměv se udržují navzájem naživu. A budou to dělat celou věčnost. Co Bůh a člověk od sebe potřebují, je oduševnělý úsměv, plodný úsměv. Uvnitř tohoto malého semínka úsměvu existuje celý kosmický Strom Života. Takže se nemusíte snažit budovat svůj život prostřednictvím boje. To je špatná cesta. Nenásledujte cestu boje: následujte pouze cestu spontánnosti, způsob spontánního úsměvu, který je jedinou potravou, jediným naplněním Boha a člověka.
+Jako hledající musíte nabídnout váš úsměv spontánním jednáním, protože spontánní jednání samo o sobě je úsměvem. Takže vyrůstejte jen v tom úsměvu. Chovejte se jako dítě: buďte spontánní ve všem, co děláte a říkáte. uvnitř této spontánnosti uvidíte svůj úsměv, a uvnitř úsměvu uvidíte svou spontánnost. váš úsměv a boží úsměv se udržují navzájem naživu. a budou to dělat celou věčnost. co bůh a člověk od sebe potřebují, je oduševnělý úsměv, plodný úsměv. uvnitř tohoto malého semínka úsměvu existuje celý kosmický strom Života. takže se nemusíte snažit budovat svůj život prostřednictvím boje. to je špatná cesta. nenásledujte cestu boje: následujte pouze cestu spontánnosti, způsob spontánního úsměvu, který je jedinou potravou, jediným naplněním Boha a člověka.
 
 12:15
 20. července 1977
@@ -413,10 +408,10 @@ Jamaica, New York
 * Zvláštní poselství
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:91-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:91-cs
+  :date-event: 1977-07-20
   :END:
 
 
@@ -432,7 +427,7 @@ Tvé mlčení mi říká, že nemáš pro Nejvyššího žádné zvláštní pos
 
 Jeho mlčení mi dává najevo, že dnes nemá pro Nejvyššího žádné zvláštní poselství, ale já bych mu rád řekl, že má zvláštní poselství, přestože si toho není vědom. Jeho duše, která je tím skutečným v něm, má pro Nejvyššího zvláštní poselství a já toto poselství přináším do jeho vnější mysli. Zvláštní poselství, které má jeho duše pro Nejvyššího, zní takto: od této chvíle se vědomě, oduševněle a bezpodmínečně stane čistým a spolehlivým nástrojem Nejvyššího. Takový je jeho slib našemu Milovanému Nejvyššímu.
 
-I já mám pro Nejvyššího zvláštní poselství. Jsem si plně vědom svého vlastního zvláštního poselství, které zní takto: Chci žít pouze pro Něj. Až bude smrt nezbytná, chci zemřít pouze pro Něj. V nejhlubších zákoutích svého srdce však vím, že můj Pán je Životem Nekonečnosti, Životem Věčnosti a Životem Nesmrtelnosti. Naplním-li Jej Jeho vlastním Způsobem, vstoupím do nekonečného, věčného, nesmrtelného Života. Pak pro mne smrt nebude moci existovat. Toto je ono zvláštní poselství, které chci nabídnout svému Milovanému Nejvyššímu: že žiji pouze pro Něj a že zemřu pouze pro Něj.
+I já mám pro Nejvyššího zvláštní poselství. Jsem si plně vědom svého vlastního zvláštního poselství, které zní takto: chci žít pouze pro něj. až bude smrt nezbytná, chci zemřít pouze pro něj. v nejhlubších zákoutích svého srdce však vím, že můj pán je Životem nekonečnosti, Životem věčnosti a Životem nesmrtelnosti. naplním-li jej jeho vlastním způsobem, vstoupím do nekonečného, věčného, nesmrtelného Života. pak pro mne smrt nebude moci existovat. toto je ono zvláštní poselství, které chci nabídnout svému milovanému nejvyššímu: že žiji pouze pro Něj a že zemřu pouze pro Něj.
 
 Každé zvláštní poselství je předzvěstí nového úsvitu, nového odhalení, nového naplnění. Každé zvláštní poselství je oduševnělým a plodným poselstvím. Každé poselství začíná nový život sebeuzdravování ze světa nevědomosti. Každé poselství je sebeobjevováním ve světě uvědomování. Každé poselství je procesem sebenabízení, které nakonec přesáhne naši nejvyšší představivost. Každé poselství je naší proměnou do samotného obrazu Boha.
 
@@ -448,10 +443,10 @@ Jamaica, New York
 * Přeměna
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:92-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:92-cs
+  :date-event: 1977-07-20
   :END:
 
 
@@ -481,10 +476,10 @@ Jamaica, New York
 * Proč se nedělím??
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:93-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:93-cs
+  :date-event: 1977-07-20
   :END:
 
 
@@ -510,10 +505,10 @@ Jamaica, New York
 * Náhradníci
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:94-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:94-cs
+  :date-event: 1977-07-20
   :END:
 
 
@@ -537,10 +532,10 @@ Jamaica, New York
 * Nyní
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:95-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:95-cs
+  :date-event: 1977-07-20
   :END:
 
 
@@ -560,10 +555,10 @@ Jamaica, New York
 * Dál jsem se modlil
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:96-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:96-cs
+  :date-event: 1977-07-20
   :END:
 
 
@@ -591,10 +586,10 @@ Jamaica, New York
 * Novost
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:97-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:97-cs
+  :date-event: 1977-07-20
   :END:
 
 Včera jsem tě potkal. Dnes tě vidím podruhé. To znamená, že už pro mne nejsi nový, už pro mne nejsi cizí. Stal ses mým přítelem; ty a já jsme se stali starými přáteli. Ty jsi zestárl a já také.
@@ -619,10 +614,10 @@ Jamaica, New York
 * Proč pospícháš?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:98-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:98-cs
+  :date-event: 1977-07-20
   :END:
 
 
@@ -646,10 +641,10 @@ Jamaica, New York
 * Snění a plánování
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:99-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:99-cs
+  :date-event: 1977-07-20
   :END:
 
 Spíš? Pak spi. Sníš? Pak se probuď. Plánuješ? Pak vzhlédni, rozhlédni se kolem.
@@ -686,10 +681,10 @@ Jamaica, New York
 * Jsi lampou Boha?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:100-cs
-  :DATE-EVENT: 1977-07-20
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:100-cs
+  :date-event: 1977-07-20
   :END:
 
 
@@ -729,9 +724,9 @@ Greenwich, Connecticut
 * Dělat něco pro Boha
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:101-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:101-cs
   :END:
 
 Ó sladký Milovaný Pane mého života, ó veliký a dobrý Příteli mého srdce, já vím, já vím, milovat Tě znamená něco pro Tebe dělat. Protože pro Tebe nic nedělám, znamená to, že Tě nemiluji doopravdy. 
@@ -743,18 +738,3 @@ Greenwich, Connecticut
 Ó sladký Pane, říci vnitřnímu světu, že Tě bezesně potřebuji, znamená něco pro Tebe dělat. Říci vnějšímu světu, že Tě zoufale potřebuje, stejně jako Tě potřebuji já, znamená něco pro Tebe dělat. Ale běda, protože pro Tebe nic nedělám ani ve vnitřním světě, ani ve vnějším světě, znamená to, že Tě nepotřebuji; nevyhnutelně budu těšit pouze sám sebe svým vlastním způsobem.
 
 Avšak slavnostním slibem mé duše bylo potěšit Tebe a naplnit Tebe Tvým vlastním Způsobem. Potěšit Tebe a naplnit Tebe Tvým vlastním Způsobem znamená nezůstávat stále ve světě teorie, ale stát se samotnou praxí - praxí té skutečnosti, kterou Ty chceš a potřebuješ. Konat v praxi znamená něco pro Tebe dělat, můj Pane. V mém praktickém konání můžeš projevit, co pro mne a pro celé lidstvo máš a čím pro mne a pro lidstvo jsi. To, co pro mne a pro celé lidstvo máš, je Tvé vnitřní Světlo Stvoření. To, čím pro mne a pro celé lidstvo jsi, je vědomý, neustálý a neoddělitelný Pláč Jednoty ve vnitřním světě a Úsměv Jednoty ve vnějším světě. Jednoho dne, brzy, ó Milovaný Pane Nejvyšší, pro Tebe dozajista budu oduševněle, oddaně a bezpodmínečně něco dělat v každém okamžiku svého života.
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

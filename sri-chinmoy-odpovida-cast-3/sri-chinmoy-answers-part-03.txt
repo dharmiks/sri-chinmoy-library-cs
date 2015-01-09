@@ -1,20 +1,15 @@
-#+TITLE: Sri Chinmoy odpovídá, část 03
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 03
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2001
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: SCA-3-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2001
+  :publisher: Madal Bal
+  :cite-key: SCA-3-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -23,9 +18,9 @@
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:55e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:55e1-cs
   :END:
 
 
@@ -34,10 +29,10 @@
 * Reportér: Mají práce pop artu nějakou souvislost s vaším uměním -- jinými slovy, s čistě duchovním uměním?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:55-cs
-  :DATE-EVENT: 1993-08-03
+  :genre: interview
+  :keywords:
+  :cite-key: sca:55-cs
+  :date-event: 1993-08-03
   :END:
 
 
@@ -52,10 +47,10 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 * Reportér: To je skvělé! Je zjevné, že to nepotřebujete.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:56-cs
-  :DATE-EVENT: 1993-08-03
+  :genre: interview
+  :keywords:
+  :cite-key: sca:56-cs
+  :date-event: 1993-08-03
   :END:
 
 
@@ -71,9 +66,9 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 * Část II[fn:: SCA 57-64. Otázky a odpovědi na výstavě „Jharna Kala“ 3. srpna 1993, Soho, New York]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:57e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:57e1-cs
   :END:
 
 
@@ -81,10 +76,10 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 * Kde berete čas na kreslení, psaní a vůbec na vše, co děláte?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:57-cs
-  :DATE-EVENT: 1993-08-03
+  :genre: qa
+  :keywords:
+  :cite-key: sca:57-cs
+  :date-event: 1993-08-03
   :END:
 
 
@@ -94,10 +89,10 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 * Všiml jsem si, že na obrazech jsou samí ptáčci. Proč právě ptáčci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:58-cs
-  :DATE-EVENT: 1993-08-03
+  :genre: qa
+  :keywords:
+  :cite-key: sca:58-cs
+  :date-event: 1993-08-03
   :END:
 
 
@@ -108,10 +103,10 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 * Pocházím z Portorika a zajímalo by mě proto, jestli byste mohl říct něco o španělské kultuře.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:59-cs
-  :DATE-EVENT: 1993-08-03
+  :genre: qa
+  :keywords:
+  :cite-key: sca:59-cs
+  :date-event: 1993-08-03
   :END:
 
 
@@ -121,10 +116,10 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 * Když jste poprvé přišel do Portorika, bylo těžké pro lidi vás přijmout či obtížné pro vás zvyknout si na ně?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:60-cs
-  :DATE-EVENT: 1993-08-03
+  :genre: qa
+  :keywords:
+  :cite-key: sca:60-cs
+  :date-event: 1993-08-03
   :END:
 
 
@@ -135,10 +130,10 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 * Co vám dává nejvyšší uspokojení?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:61-cs
-  :DATE-EVENT: 1993-08-03
+  :genre: qa
+  :keywords:
+  :cite-key: sca:61-cs
+  :date-event: 1993-08-03
   :END:
 
 
@@ -149,10 +144,10 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 * Jsou mezi vašimi žáky lidé, kteří nejen sdílejí vaši víru, ale jste na ně také hrdý?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:62-cs
-  :DATE-EVENT: 1993-08-03
+  :genre: qa
+  :keywords:
+  :cite-key: sca:62-cs
+  :date-event: 1993-08-03
   :END:
 
 
@@ -163,10 +158,10 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 * V průběhu 24 hodin jednoho dne, kolik hodin meditujete, kolik hodin kreslíte, kolik píšete a kolik hodin vám zbývá na oddech?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:63-cs
-  :DATE-EVENT: 1993-08-03
+  :genre: qa
+  :keywords:
+  :cite-key: sca:63-cs
+  :date-event: 1993-08-03
   :END:
 
 
@@ -176,22 +171,22 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 * Jaké je nejdůležitější poselství, které byste chtěl nabídnout lidstvu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:64-cs
-  :DATE-EVENT: 1993-08-03
+  :genre: qa
+  :keywords:
+  :cite-key: sca:64-cs
+  :date-event: 1993-08-03
   :END:
 
 
-/Sri Chinmoy:/ Přeji si nabídnout pouze jedno poselství: Modlete se k Nejvyššímu, meditujte na Pána Nejvyššího, našeho Nebeského Otce, abyste byli k jeho službám, co nejoduševněleji, nejodevzdaněji a bezpodmínečně. Každý člověk se modlí k Bohu svým vlastním způsobem, ale obvykle je tam nějaká podmínka: „Bože, když pro mě uděláš tohle, potom se k Tobě budu modlit.“ Někdo se modlí k Bohu, jen aby naplnil své vlastní cíle -- aby se stal nejlepším zpěvákem či nejlepším umělcem. Takže většinu času se modlíme s podmínkami. Ale my se musíme modlit k Bohu bezpodmínečně a zrovna tak na něj meditovat, abychom naplnili Boha Jeho Vlastním Způsobem. Potom je na Bohu, zda chce či nechce naplnit naše modlitby. Neměli bychom se modlit k Bohu, aby nás učinil skvělými a jedinečnými. Ale naším cílem musí být potěšit Boha Jeho vlastním Způsobem. Tohle je moje nejvyšší poselství. Bylo stejné včera, je stejné dnes a bude stejné zítra: potěšit Boha a naplnit Jej Jeho vlastním Způsobem. 
+/Sri Chinmoy:/ přeji si nabídnout pouze jedno poselství: modlete se k nejvyššímu, meditujte na pána nejvyššího, našeho nebeského otce, abyste byli k jeho službám, co nejoduševněleji, nejodevzdaněji a bezpodmínečně. každý člověk se modlí k bohu svým vlastním způsobem, ale obvykle je tam nějaká podmínka: „bože, když pro mě uděláš tohle, potom se k tobě budu modlit.“ někdo se modlí k bohu, jen aby naplnil své vlastní cíle -- aby se stal nejlepším zpěvákem či nejlepším umělcem. takže většinu času se modlíme s podmínkami. ale my se musíme modlit k bohu bezpodmínečně a zrovna tak na něj meditovat, abychom naplnili boha jeho vlastním způsobem. potom je na bohu, zda chce či nechce naplnit naše modlitby. neměli bychom se modlit k bohu, aby nás učinil skvělými a jedinečnými. ale naším cílem musí být potěšit boha jeho vlastním způsobem. tohle je moje nejvyšší poselství. bylo stejné včera, je stejné dnes a bude stejné zítra: potěšit Boha a naplnit Jej Jeho vlastním Způsobem. 
 
 
 * Část III[fn:: SCA 65-72. Rozhovor pro časopis „New Yorker“ na výstavě „70 000 Dream-Freedom-Peace-Birds“ Soho, New York]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:65e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:65e1-cs
   :END:
   
   
@@ -200,10 +195,10 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 * Reportér: Existuje něco, co vás inspirovalo k namalování všech těchto malých ptáčků?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:65-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: interview
+  :keywords:
+  :cite-key: sca:65-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -214,10 +209,10 @@ Všechno, co dělám, je zcela výsledkem Boží Milosti. Ze svého nekonečnéh
 * Reportér: Tato inspirace vám tedy dala pocit, že byste měl tvořit právě ptáčky?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:66-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: interview
+  :keywords:
+  :cite-key: sca:66-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -230,10 +225,10 @@ Když si koupíme klec a dáme dovnitř ptáka, tento pták je omezován. Ale kd
 * Reportér: Tím, že se podělíte o tyto ptáčky s veřejností, se snažíte inspirovat lidi tímto poselstvím?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:67-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: interview
+  :keywords:
+  :cite-key: sca:67-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -250,10 +245,10 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
 * Reportér: Dělá vám radost, když vidíte lidi, jak si prohlíží vaše exponáty a procházejí se?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:68-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: interview
+  :keywords:
+  :cite-key: sca:68-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -264,10 +259,10 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
 * Reportér: Je to tu velmi míruplné navzdory skutečnosti, že je to uprostřed New Yorku.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:69-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: interview
+  :keywords:
+  :cite-key: sca:69-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -278,10 +273,10 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
 * Reportér: Když jsem vás před chvílí oslovil, seděl jste a kreslil. Je to způsob, jak většina těchto kreseb vznikla -- jen tak vsedě?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:70-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: interview
+  :keywords:
+  :cite-key: sca:70-cs
+  :date-event: 1993-08-00
   :END:
 
 /Sri Chinmoy:/ Ano, jen vsedě. Obvykle když kreslím, snažím se být v kontemplativní náladě -- v oduševnělém vědomí plném modlitby -- a nemluvím. Obvykle kreslím brzy ráno, když jsem jen sám se sebou, nebo když jsem v autě. Ale někdy kreslím, i když jsou okolo lidé a já jsem uprostřed shonu každodenního života.
@@ -291,10 +286,10 @@ Přesně tím samým způsobem se my lidé pohybujeme z jednoho místa na druhé
 * Reportér: Máte na mysli nějakého ptáka, když kreslíte?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:71-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: interview
+  :keywords:
+  :cite-key: sca:71-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -316,10 +311,10 @@ Tito ptáci zrcadlí jednotu srdce. Představují jednotu v mnohosti. Každý pt
 * Reportér: Máte nějakou představu o vašem dalším projektu, až tohle dokončíte?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:72-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: interview
+  :keywords:
+  :cite-key: sca:72-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -334,21 +329,21 @@ Tito ptáci zrcadlí jednotu srdce. Představují jednotu v mnohosti. Každý pt
 * Část IV[fn:: SCA 73-77. 6. ledna 1994 proběhl se Sri Chinmoyem živý rozhovor po telefonu v rozhlasovém pořadu „As It Happens“ kanadské rozhlasové stanice CBC. Následující pasáž je přepisem tohoto rozhovoru]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:73e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:73e1-cs
   :END:
   
   
 
-* Reportér: Sri Chinmoy není váš obyčejný, každodenní Guru. On a jeho žáci jsou známi uskutečňováním projektů úžasných rozměrů. Dosažení rekordů ve vytrvalosti patří mezi způsoby, o jakými Sri Chinmoy a jeho stoupenci usilují o vnitřní klid. Poslední výkon byl právě dokončen: jeden milion kreseb a každá z nich přestavuje ptáka -- milion ptáčků míru. Sri Chinmoy dokončil tyto kresby na počest narozenin Raisy Gorbačovové. Mezinárodního umělce a mírového velvyslance Sri Chinmoye jsme zastihli v Suvě na Fidži.
+* Reportér: sri chinmoy není váš obyčejný, každodenní guru. on a jeho žáci jsou známi uskutečňováním projektů úžasných rozměrů. dosažení rekordů ve vytrvalosti patří mezi způsoby, o jakými sri chinmoy a jeho stoupenci usilují o vnitřní klid. poslední výkon byl právě dokončen: jeden milion kreseb a každá z nich přestavuje ptáka -- milion ptáčků míru. Sri Chinmoy dokončil tyto kresby na počest narozenin Raisy Gorbačovové. Mezinárodního umělce a mírového velvyslance Sri Chinmoye jsme zastihli v Suvě na Fidži.
 Pane Sri Chinmoyi, musíte být velmi potěšen, že jste úspěšně nakreslil milion ptáčků. Jste určitě rád, že už je vše hotovo.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:73-cs
-  :DATE-EVENT: 1994-01-06
+  :genre: interview
+  :keywords:
+  :cite-key: sca:73-cs
+  :date-event: 1994-01-06
   :END:
 
 
@@ -359,10 +354,10 @@ Pane Sri Chinmoyi, musíte být velmi potěšen, že jste úspěšně nakreslil 
 * Reportér: Můžete mi říct, jak vás napadl tento projekt? Jak je to dlouho a proč jste se rozhodl právě pro tohle?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:74-cs
-  :DATE-EVENT: 1994-01-06
+  :genre: interview
+  :keywords:
+  :cite-key: sca:74-cs
+  :date-event: 1994-01-06
   :END:
 
 
@@ -375,10 +370,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Reportér: Jste si jist, že to je právě milion ptáčků? Jak jste to počítal?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:75-cs
-  :DATE-EVENT: 1994-01-06
+  :genre: interview
+  :keywords:
+  :cite-key: sca:75-cs
+  :date-event: 1994-01-06
   :END:
 
 
@@ -396,10 +391,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Reportér: Věnoval jste všechny ptáčky Raise Gorbačovové?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:76-cs
-  :DATE-EVENT: 1994-01-06
+  :genre: interview
+  :keywords:
+  :cite-key: sca:76-cs
+  :date-event: 1994-01-06
   :END:
 
 
@@ -411,10 +406,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Reportér: : Proč jste prvních 100 000 ptáčků věnoval paní Gorbačovové?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:77-cs
-  :DATE-EVENT: 1994-01-06
+  :genre: interview
+  :keywords:
+  :cite-key: sca:77-cs
+  :date-event: 1994-01-06
   :END:
 
 /Sri Chinmoy:/ Ona a prezident Gorbačov jsou mí blízcí přátelé. Politice vůbec nerozumím, jsem pouze hledajícím pravdy a milovníkem Boha. Ale cítím, že prezident Gorbačov je rovněž upřímným hledajícím a opravdovým člověkem míru. Proto jej nanejvýš obdivuji a miluji. Setkal jsem se s ním pětkrát nebo šestkrát. Mé první setkání s ním se odehrálo shodou okolností před čtyřmi lety v Ottawě.
@@ -431,9 +426,9 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Část V[fn:: SCA 78-88. Otázky a odpovědi z výstavy kreseb „Dream-Freedom-Peace-Bird“]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:78e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:78e1-cs
   :END:
 
 
@@ -441,10 +436,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Jak se můžeme vznášet jako tví ptáčci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:78-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: qa
+  :keywords:
+  :cite-key: sca:78-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -455,10 +450,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Jak mohu nejlépe meditovat na tvé kresby ptáčků?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:79-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: qa
+  :keywords:
+  :cite-key: sca:79-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -469,10 +464,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Co nás tihle ptáčci učí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:80-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: qa
+  :keywords:
+  :cite-key: sca:80-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -483,10 +478,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Jak tví ptáčci změní vědomí země?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:81-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: qa
+  :keywords:
+  :cite-key: sca:81-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -497,10 +492,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Jsou tvoji ptáčci stvořeni z lidské aspirace, nebo z nějaké jiné úrovně?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:82-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: qa
+  :keywords:
+  :cite-key: sca:82-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -510,10 +505,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Jak můžeme cítit tvé ptáčky v našem každodenním životě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:83-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: qa
+  :keywords:
+  :cite-key: sca:83-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -524,10 +519,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Jak se můžeme více podobat tvým ptáčkům?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:84-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: qa
+  :keywords:
+  :cite-key: sca:84-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -538,10 +533,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Jak ti mohu dát tolik radosti, co tvoji ptáčci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:85-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: qa
+  :keywords:
+  :cite-key: sca:85-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -552,10 +547,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Má každý z tvých ptáčků svou konkrétní úlohu či cíl?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:86-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: qa
+  :keywords:
+  :cite-key: sca:86-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -565,10 +560,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Co říkají tví nejvyšší přátelé ve vnitřním světě o tvých ptáčcích?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:87-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: qa
+  :keywords:
+  :cite-key: sca:87-cs
+  :date-event: 1993-08-00
   :END:
 
 
@@ -579,10 +574,10 @@ Rád bych řekl, že Kanada má v mém uměleckém životě velmi zvláštní m�
 * Co jsou tvoji ptáčci a co znamenají?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:88-cs
-  :DATE-EVENT: 1993-08-00
+  :genre: qa
+  :keywords:
+  :cite-key: sca:88-cs
+  :date-event: 1993-08-00
   :END:
   
 
@@ -597,9 +592,9 @@ Z pohledu lidí je milion ptáčků víc než dost. Ale v čemkoliv, co je dobr�
 * Část VI[fn:: SCA 89-91. 16. června 1994 se Sri Chinmoy setkal s Lindsayem Clennellem, filmovým scénáristou a producentem, v restauraci Annam Brahma v Queensu. Následují výňatky z jejich rozhovoru]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:89e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:89e1-cs
   :END:
 
 
@@ -607,20 +602,20 @@ Z pohledu lidí je milion ptáčků víc než dost. Ale v čemkoliv, co je dobr�
 * /(Sri Chinmoy podepisuje jednu ze svých kreseb pro pana Clennellyho.)/
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:89-cs
-  :DATE-EVENT: 1994-06-16
+  :genre: interview
+  :keywords:
+  :cite-key: sca:89-cs
+  :date-event: 1994-06-16
   :END:
 
 
 /Mr. Clennell:/ Děkuji mnohokrát. Tahle kresba je opravdovou inspirací. Síla inspirace, kterou nabízíte lidem, je velmi, velmi důležitá.
 
-/Sri Chinmoy:/ Já to považuji za bezpodmínečný Boží soucit, jež jedná ve mně a skrze mě. Snažím se být láskyplně, oddaně a oduševněle k Jeho službám. Říkám Bohu: „Chci být jen Tvůj kopací míč. Kopni mě, kam se Ti zachce, a tak silně, jak je to jen možné. Mou jedinou radostí je, když mě kopneš.“ A tak mě kope doprava, doleva a tímto způsobem získávám radost. Tyto kresby pocházejí z Jeho požehnaných Kopanců. Bůh se mě zeptal, kde chci být. Řekl: „Chceš se dívat na mé Oči, nebo na mé Nohy?“ Já odpověděl: „Dostanu více radosti, když se budu dívat na tvé Nohy než na tvé Oči.“ V Mahábháratě, našem indickém eposu, chtěli být Kuruovci u hlavy Krišny, zatímco Pánduovci chtěli být u Krišnových nohou. Pokud jde o mě, získávám nekonečně více radosti, pokud jsem u Nohou Boha. Dávám přednost oddanému životu. Nedávno jsem četl Purány, což je jedna z indických posvátných knih. Tam Krišna říká: „Jsem připraven ti dát osvobození, protože dát ti osvobození je snazší, než dát ti oddanost.“ Skrze osvobození jde hledající svou vlastní cestou; pták odletí pryč. Ale v oddanosti existuje magnetická přitažlivost mezi mistrem a žákem -- ten nejsladší pocit -- a mistr si hraje s ptákem duše žáka tím nejhezčím způsobem. Takže cítím, že sladkost oddanosti dalece přesahuje velikost osvobození.
+/Sri Chinmoy:/ já to považuji za bezpodmínečný boží soucit, jež jedná ve mně a skrze mě. snažím se být láskyplně, oddaně a oduševněle k jeho službám. Říkám bohu: „chci být jen tvůj kopací míč. kopni mě, kam se ti zachce, a tak silně, jak je to jen možné. mou jedinou radostí je, když mě kopneš.“ a tak mě kope doprava, doleva a tímto způsobem získávám radost. tyto kresby pocházejí z jeho požehnaných kopanců. bůh se mě zeptal, kde chci být. Řekl: „chceš se dívat na mé oči, nebo na mé nohy?“ já odpověděl: „dostanu více radosti, když se budu dívat na tvé nohy než na tvé oči.“ v mahábháratě, našem indickém eposu, chtěli být kuruovci u hlavy krišny, zatímco pánduovci chtěli být u krišnových nohou. pokud jde o mě, získávám nekonečně více radosti, pokud jsem u nohou boha. dávám přednost oddanému životu. nedávno jsem četl purány, což je jedna z indických posvátných knih. tam krišna říká: „Jsem připraven ti dát osvobození, protože dát ti osvobození je snazší, než dát ti oddanost.“ Skrze osvobození jde hledající svou vlastní cestou; pták odletí pryč. Ale v oddanosti existuje magnetická přitažlivost mezi mistrem a žákem -- ten nejsladší pocit -- a mistr si hraje s ptákem duše žáka tím nejhezčím způsobem. Takže cítím, že sladkost oddanosti dalece přesahuje velikost osvobození.
 
 /L. Clennell/: To, co říkáte, je moc krásné.
 
-/Sri Chinmoy:/ Chci sladkost. Mám raději krásnou květinu než obrovskou stavbu. Co je pro mě dobrého na tom, když vidím obrovskou budovu se spoustou místností? Ale když vidím krásnou květinu, okamžitě si řeknu, jak je krásná, čistá, prostá, jak sladká! Tohle jsou vlastnosti, které chci ve svém životě rozvinout: sladkost, čistota, jednoduchost. Mysl je přitahována rozlehlostí, ale srdce chce vždy vidět něco velmi, velmi sladkého a milujícího.
+/Sri Chinmoy:/ chci sladkost. mám raději krásnou květinu než obrovskou stavbu. co je pro mě dobrého na tom, když vidím obrovskou budovu se spoustou místností? ale když vidím krásnou květinu, okamžitě si řeknu, jak je krásná, čistá, prostá, jak sladká! tohle jsou vlastnosti, které chci ve svém životě rozvinout: sladkost, čistota, jednoduchost. Mysl je přitahována rozlehlostí, ale srdce chce vždy vidět něco velmi, velmi sladkého a milujícího.
 
 Proto říkám Bohu: „Kopej mě tak silně, jak je to jen možné. Jen potom Tě mohu považovat za svého vlastního. Když mi dáš svobodu, jenom ji zneužiji. Stane se ze mě býk v obchodě s porcelánem a vše zničím. Ale čím víc mě kopneš, tím se stanu čistším. Je to jako zlatá miska, která je tím jasnější, čím více do ní zlatotepec uhodí.
 
@@ -630,10 +625,10 @@ Proto říkám Bohu: „Kopej mě tak silně, jak je to jen možné. Jen potom T
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:90-cs
-  :DATE-EVENT: 1994-06-16
+  :genre: qa
+  :keywords:
+  :cite-key: sca:90-cs
+  :date-event: 1994-06-16
   :END:
 
 
@@ -647,14 +642,14 @@ Mysl nám říká, že můžeme dosáhnout jen určité výšky, ale jak víme, 
 * L. Clennell: Ano, to dává jasný smysl. Je to o duchovnosti a neomezenosti. Tím, že prolomíme bariéry a považujeme nakreslení tří milionů ptáčků za možné, vynášíme do popředí duchovní realitu. Je to tak?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:91-cs
-  :DATE-EVENT: 1994-06-16
+  :genre: qa
+  :keywords:
+  :cite-key: sca:91-cs
+  :date-event: 1994-06-16
   :END:
 
 
-/Sri Chinmoy:/ Ano, musím cítit, že nejsem plavecký bazén či jezero. Bůh po mě chce, abych byl bublající tekoucí řeka, plynoucí z vnitřního zdroje do vnější reality. Pokud chci být vyjádřením tohoto zdroje, nemohu oddělit svou vnitřní a vnější existenci. Nejdůležitější je vynést do popředí neomezené možnosti, jež mám hluboko uvnitř. Z tohoto hlediska už jen hovořit o třech milionech ptáčků, je svazující. Duchovnost není něco nenormálního či nepřirozeného. Duchovnost je normálnější a přirozenější než cokoliv jiného. Bůh je neomezený, nekonečný, nesmrtelný, a já se chci stát vědomě součástí Jeho existence, abych Mu mohl sloužit Jeho vlastním způsobem. Zároveň Ten, kdo je nekonečný, věčný a nesmrtelný, se snaží vyjádřit sám sebe v mých a skrze má omezení. Říká: „Nyní chci vyjádřit sám sebe skrze tvůj umělecký život. Chci se projevit skrze tvůj život poezie a život sportu.“ Může to ale dělat jen podle mé vnímavosti. Matka dá svému tříletému dítěti sladkosti a řekne mu, aby dal něco svým kamarádům. Když potom vidí, že to dítě udělalo, dá mu spoustu dalších sladkostí, aby nakrmilo stovky dalších lidí. Tímto způsobem nabízí matka tyto sladkosti dalším lidem skrze své dítě. 
+/Sri Chinmoy:/ ano, musím cítit, že nejsem plavecký bazén či jezero. bůh po mě chce, abych byl bublající tekoucí řeka, plynoucí z vnitřního zdroje do vnější reality. pokud chci být vyjádřením tohoto zdroje, nemohu oddělit svou vnitřní a vnější existenci. nejdůležitější je vynést do popředí neomezené možnosti, jež mám hluboko uvnitř. z tohoto hlediska už jen hovořit o třech milionech ptáčků, je svazující. duchovnost není něco nenormálního či nepřirozeného. duchovnost je normálnější a přirozenější než cokoliv jiného. bůh je neomezený, nekonečný, nesmrtelný, a já se chci stát vědomě součástí jeho existence, abych mu mohl sloužit jeho vlastním způsobem. zároveň ten, kdo je nekonečný, věčný a nesmrtelný, se snaží vyjádřit sám sebe v mých a skrze má omezení. Říká: „Nyní chci vyjádřit sám sebe skrze tvůj umělecký život. Chci se projevit skrze tvůj život poezie a život sportu.“ Může to ale dělat jen podle mé vnímavosti. Matka dá svému tříletému dítěti sladkosti a řekne mu, aby dal něco svým kamarádům. Když potom vidí, že to dítě udělalo, dá mu spoustu dalších sladkostí, aby nakrmilo stovky dalších lidí. Tímto způsobem nabízí matka tyto sladkosti dalším lidem skrze své dítě. 
 
 Vždy říkám, že Nejvyšší vyjadřuje sám sebe ve mně a skrze mě podle mé vnímavosti. Já nejsem tím, kdo koná. Nemohu považovat tyto tři miliony ptáčků za své vlastní a ani je za své považovat nechci. Jsem vděčný Nejvyššímu, že mi dal zlatou příležitost, abych mu sloužil Jeho vlastním Způsobem. Má poezie, má hudba, mé výtvarné umění a cokoliv dalšího, co dělám, jsou jen projevením Někoho, kdo ve mně a skrze mě působí. On v každém okamžiku vidí, kolik mám v sobě čistoty, pokory, upřímnosti a dychtivosti. Podle toho je schopen se skrze mě vyjádřit. 
 
@@ -673,9 +668,9 @@ Mé tělo má ruce, nohy, oči a tak dále. Mám upřednostňovat pouze své ruc
 * Část VII[fn:: SCA 92-112. Následující básně nazvané „Mé umění“ napsal Sri Chinmoy 1. a 2. listopadu 1993 na oslavu otevření výstavy „100 000 Dream-Freedom-Peace-Birds“ v kanadské Ottawě]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:92e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:92e1-cs
   :END:
 
 
@@ -683,10 +678,10 @@ Mé tělo má ruce, nohy, oči a tak dále. Mám upřednostňovat pouze své ruc
 * 1. Mé umění není žádné umění… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:92-cs
-  :DATE-EVENT: 1993-11-01   
+  :genre: poem
+  :keywords:
+  :cite-key: sca:92-cs
+  :date-event: 1993-11-01   
   :END:
 
 
@@ -701,10 +696,10 @@ bez světla v mé duši.
 * 2. Mé umění není žádné umění… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:93-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:93-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -720,10 +715,10 @@ bez čistoty v mém srdci.
 * 3. Mé umění není žádné umění…
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:94-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:94-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -738,10 +733,10 @@ bez prostoty mé mysli.
 * 4. Mé umění je hra na schovávanou… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:95-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:95-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -757,10 +752,10 @@ a proudícími slzami mého srdce.
 * 5. Umělec, jenž je ve mně… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:96-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:96-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -778,10 +773,10 @@ a život plnosti.
 * 6. Srdce mého umění… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:97-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:97-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -800,10 +795,10 @@ závislá na sobě bezesně.
 * 7. Má mysl říká, že cokoliv dělám… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:98-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:98-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -829,10 +824,10 @@ Netřeba říkat,
 * 8. Mé umění se nechce podepsat… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:99-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:99-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -849,10 +844,10 @@ vládne světu.
 * 9. Mé umění žije… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:100-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:100-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -869,10 +864,10 @@ pro snem zaplavené Pobřeží Skutečnosti.
 * 10. Když maluji nebo kreslím… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:101-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:101-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -888,10 +883,10 @@ udržuji zahradu své mysli
 * 11. Mohu oddělit svůj umělecký život… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:102-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:102-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -908,10 +903,10 @@ a rozpuků mé meditace.
 * 12. Ve chvíli, kdy začnu malovat… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:103-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:103-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -928,10 +923,10 @@ plameny mého aspirujícího srdce.
 * 13. První věci první:… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:104-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:104-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -949,10 +944,10 @@ do rychlíku aspirace svého srdce.
 * 14. Skutečně, ve svém umění chci spatřit…
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:105-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:105-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -970,10 +965,10 @@ víc, nekonečně víc.
 * 15. Umělec-člověk ve mně říká:… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:106-cs
-  :DATE-EVENT: 1993-11-01  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:106-cs
+  :date-event: 1993-11-01  
   :END:
 
 
@@ -1002,10 +997,10 @@ mého umění.
 
 * 16. Uvnitř mého uměleckého života… 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:107-cs
-  :DATE-EVENT: 1993-11-02  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:107-cs
+  :date-event: 1993-11-02  
   :END:
 
 
@@ -1036,10 +1031,10 @@ ve všech mých činnostech.“
 * 17. Nechci, aby lidstvo opakovalo… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:108-cs
-  :DATE-EVENT: 1993-11-02  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:108-cs
+  :date-event: 1993-11-02  
   :END:
 
 
@@ -1061,10 +1056,10 @@ jeho cíle sebepřekonávání.
 * 18. Během své hluboké meditace… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:109-cs
-  :DATE-EVENT: 1993-11-02  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:109-cs
+  :date-event: 1993-11-02  
   :END:
 
 
@@ -1084,10 +1079,10 @@ prohlíží mé umělecké výtvory.
 * 19. Ó můj trpasličí rozume… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:110-cs
-  :DATE-EVENT: 1993-11-02  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:110-cs
+  :date-event: 1993-11-02  
   :END:
 
 
@@ -1113,10 +1108,10 @@ v mém životě umění.
 * 20. Každý pták mého srdce… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:111-cs
-  :DATE-EVENT: 1993-11-02  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:111-cs
+  :date-event: 1993-11-02  
   :END:
 
 
@@ -1132,10 +1127,10 @@ mírových květů.
 * 21. Ó mí nesčetní ptáčci srdce… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:112-cs
-  :DATE-EVENT: 1993-11-02  
+  :genre: poem
+  :keywords:
+  :cite-key: sca:112-cs
+  :date-event: 1993-11-02  
   :END:
 
 
@@ -1158,17 +1153,17 @@ po nekonečné Obloze Svobody.
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:113e1
+  :cite-key: sca:113e1
   :END: 
 
 
 * Nejvyšší, můj Nejvyšší, můj Pane Nejvyšší…
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: SCA:113-cs
-  :DATE-EVENT: 1994-01-05  
+  :genre: prayer
+  :keywords:
+  :cite-key: sca:113-cs
+  :date-event: 1994-01-05  
   :END:
 
 
@@ -1195,18 +1190,3 @@ Tví ptáčci zpívají
 ve Věčném Míru, Míru, Míru.
 
 #+END_VERSE
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

@@ -1,20 +1,15 @@
-#+TITLE: Smrt a znovuzrození
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Smrt a znovuzrození
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 1994
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: DR-cs
-  :GENRE: QA
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 1994
+  :publisher: Madal Bal
+  :cite-key: DR-cs
+  :genre: QA
+  :keywords:
   :END:
 
 
@@ -23,9 +18,9 @@
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DR:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: dr:1e1-cs
   :END:
 
 
@@ -33,9 +28,9 @@
 * Proč je smrt nezbytná? Proč nemůže duše pokračovat v pokroku a vývoji v jednom těle?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:1-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:1-cs
   :END:
 
 
@@ -50,9 +45,9 @@ Obyčejný člověk, jenž na svých bedrech nesl dvacet, třicet nebo čtyřice
 * Může žijící člověk poznat smrt tím, že do ní vstoupí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:2-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:2-cs
   :END:
 
 
@@ -65,9 +60,9 @@ Někdy dokonce můžeme následovat duši, když opouští tělo, a tehdy můž
 * Mohl byste nám vysvětlit duchovní význam takové techniky nebo její potřebu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:3-cs
   :END:
 
 
@@ -78,9 +73,9 @@ Někdy dokonce můžeme následovat duši, když opouští tělo, a tehdy můž
 * Je smrt bolestivá?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:4-cs
   :END:
 
 
@@ -97,9 +92,9 @@ Pokud jsme spoutáni pouty nevědomosti, budeme mít v okamžiku fyzické smrti
 * Proč musí tolik lidí před smrtí setrvávat ve velkých bolestech?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:5-cs
   :END:
 
 
@@ -114,9 +109,9 @@ Zemře-li naproti tomu někdo na náhlé selhání srdce, nemusí to nezbytně z
 * Je možné, aby duchovní člověk, který umírá bolestivou smrtí, přeměnil meditací bolest na radost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:6-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:6-cs
   :END:
 
 
@@ -129,9 +124,9 @@ Zemře-li naproti tomu někdo na náhlé selhání srdce, nemusí to nezbytně z
 * V jedné knize meditací na každý den jste zmínil, že smrt je překážka. Vždy jsem si myslel, že považujete smrt za pouhý přechod, který nám umožní nové zrození a další pokrok.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:7-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:7-cs
   :END:
 
 
@@ -152,9 +147,9 @@ S výjimkou dětských let většinou není nic ztraceno. Je však lepší real
 * Co bychom měli dělat, když umíráme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:8-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:8-cs
   :END:
 
 
@@ -169,9 +164,9 @@ Pokud však mluvíš o ostatních lidech, pak jestliže chceš vědět, co je p
 * Je nějaký zvláštní způsob, jak bychom měli meditovat na umírajícího člověka?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:9-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:9-cs
   :END:
 
 
@@ -184,9 +179,9 @@ Nejprve si zkus představit v jeho srdci kruh a potom se pokus cítit, že ten
 * Když někdo umírá, jaký by měl být postoj jeho nejbližších?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:10-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:10-cs
   :END:
 
 
@@ -194,7 +189,7 @@ Nejprve si zkus představit v jeho srdci kruh a potom se pokus cítit, že ten
 
 Pokud jsme přijali duchovní život a chceme mít opravdovou radost, musíme vědět, že ji získáme pouze odevzdáním svého života Vůli Nejvyššího. V této chvíli možná nevíme, jaká je Vůle Nejvyššího, ale víme, co je to odevzdání. Chce-li Nejvyšší někoho odebrat z našeho života, musíme to přijmout. „Nechť se stane Vůle Tvá.“ Máme-li takový přístup, potom budeme mít největší radost. A právě tato radost bude největší službou tomu, kdo se chystá odejít. Když se naprosto odevzdáme Nejvyššímu, stane se takové odevzdání doplňující silou pro odcházející duši, která zde trpí spoutáním. A tak odevzdáme-li svou vůli Vůli Nejvyššího, toto odevzdání skutečně přinese mír, nepomíjející mír duši, která se chystá opustit pozemskou scénu.
 
-Lidé, kteří začali s meditací a koncentrací, získávají letmé vzpomínky na své předchozí inkarnace. Jestliže věříme, že jsme měli minulost, a víme, že máme přítomnost, potom můžeme cítit, že také budeme mít nějakou budoucnost. Pokud víme toto, musíme si být stále vědomi významné pravdy: žádná smrt neexistuje. V Bhagavadgítě se praví: „Tak jako člověk odkládá staré šaty a obléká si nové, tak i duše opouští fyzické tělo a vstupuje do nového.“ Když víme, že umírající člověk jenom odkládá staré tělo do doby, než přijme nové, a když to ví i on sám, jak potom můžeme mít strach? 
+Lidé, kteří začali s meditací a koncentrací, získávají letmé vzpomínky na své předchozí inkarnace. Jestliže věříme, že jsme měli minulost, a víme, že máme přítomnost, potom můžeme cítit, že také budeme mít nějakou budoucnost. Pokud víme toto, musíme si být stále vědomi významné pravdy: žádná smrt neexistuje. v bhagavadgítě se praví: „Tak jako člověk odkládá staré šaty a obléká si nové, tak i duše opouští fyzické tělo a vstupuje do nového.“ Když víme, že umírající člověk jenom odkládá staré tělo do doby, než přijme nové, a když to ví i on sám, jak potom můžeme mít strach? 
 
 Nevíme, co smrt doopravdy je -- proto chceme zůstat na zemi tak dlouho, jak je to jen možné. Skutečnou smrtí však není zánik fyzického těla. Opravdová smrt, duchovní smrt, je cosi jiného.
 
@@ -202,37 +197,37 @@ Nevíme, co smrt doopravdy je -- proto chceme zůstat na zemi tak dlouho, jak je
 * Měl jsem jednoho mladého přítele, který před šesti týdny zemřel. Den před svou smrtí řekl svému otci, že příštího dne zemře, a potom skutečně zemřel. Jak to mohl vědět?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:11-cs
   :END:
 
 
-/Sri Chinmoy:/ Proč ne? Není snad Božím dítětem? Když někdo v čase smrti stále myslí na Boha, může mu o tom podat zprávu jeho vlastní vnitřní bytost. Když umírala moje matka, byl jsem zrovna v domě svého strýce šest mil od ní. Moje matka trpěla onemocněním štítné žlázy. Jednou brzy ráno řekla: „Dnes ráno opustím tělo. Kam šel Madal? Pošlete pro něho.“ Tuto zprávu mi donesl můj bratranec a já jsem přišel. Vzala mě za ruku a usmála se na mě; byl to její poslední úsměv. Odešla minutu poté, co jsem přišel, jako by na mě čekala. Musím však říci celou pravdu. Moje matka byla velmi, velmi duchovní a žila vnitřním životem v nejhlubším smyslu toho slova. Ale zpátky k tvému příteli, musím říci, že stovky a tisíce lidí vědělo dopředu, kdy zemřou. A pro duchovní lidi je to velmi snadné. Často to vědí několik měsíců předem.
+/Sri Chinmoy:/ proč ne? není snad božím dítětem? když někdo v čase smrti stále myslí na boha, může mu o tom podat zprávu jeho vlastní vnitřní bytost. když umírala moje matka, byl jsem zrovna v domě svého strýce šest mil od ní. moje matka trpěla onemocněním štítné žlázy. jednou brzy ráno řekla: „Dnes ráno opustím tělo. Kam šel Madal? Pošlete pro něho.“ Tuto zprávu mi donesl můj bratranec a já jsem přišel. Vzala mě za ruku a usmála se na mě; byl to její poslední úsměv. Odešla minutu poté, co jsem přišel, jako by na mě čekala. Musím však říci celou pravdu. Moje matka byla velmi, velmi duchovní a žila vnitřním životem v nejhlubším smyslu toho slova. Ale zpátky k tvému příteli, musím říci, že stovky a tisíce lidí vědělo dopředu, kdy zemřou. A pro duchovní lidi je to velmi snadné. Často to vědí několik měsíců předem.
 
 
 
 * Když je někdo nemocen a z lékařského hlediska pro něj již není naděje, je dobré mu říci, že umírá, a pomoci mu připravit se na odchod?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:12-cs
   :END:
 
 
-/Sri Chinmoy:/ To je velmi složitá otázka; každý případ se musí zvažovat samostatně. Většina lidí chce žít; nechtějí zemřít, protože nevědí, co je to smrt. Myslí si, že smrt je tyran, který je bude mučit všemi možnými způsoby a nakonec je zničí. Má-li člověk, jehož karma je uzavřena a u nějž si Nejvyšší přeje, aby opustil tělo, nějaký vitální hlad a nějaké nesplněné touhy -- přestože jeho duše tyto touhy nemá -- tehdy chce zůstat na zemi. Nechce poslechnout Vůli Nejvyššího. Co dělat s člověkem, který je na takové úrovni? Když mu řeknete, že si Bůh již nepřeje, aby byl dále na zemi, že už v tomto těle dosáhl všech nezbytných zkušeností, nepochopí vás. Řekne: „Bůh nechce, abych opustil tělo, to ty chceš, abych zemřel.“ Bude si myslet, že jste krutí a nemilosrdní. Takže pokud víte, že je to Vůle Nejvyššího, aby opustil svět, je nejlepší tiše promluvit k duši toho člověka a pokusit se jej inspirovat, aby se řídil Boží Vůlí.
+/Sri Chinmoy:/ to je velmi složitá otázka; každý případ se musí zvažovat samostatně. většina lidí chce žít; nechtějí zemřít, protože nevědí, co je to smrt. myslí si, že smrt je tyran, který je bude mučit všemi možnými způsoby a nakonec je zničí. má-li člověk, jehož karma je uzavřena a u nějž si nejvyšší přeje, aby opustil tělo, nějaký vitální hlad a nějaké nesplněné touhy -- přestože jeho duše tyto touhy nemá -- tehdy chce zůstat na zemi. nechce poslechnout vůli nejvyššího. co dělat s člověkem, který je na takové úrovni? když mu řeknete, že si bůh již nepřeje, aby byl dále na zemi, že už v tomto těle dosáhl všech nezbytných zkušeností, nepochopí vás. Řekne: „Bůh nechce, abych opustil tělo, to ty chceš, abych zemřel.“ Bude si myslet, že jste krutí a nemilosrdní. Takže pokud víte, že je to Vůle Nejvyššího, aby opustil svět, je nejlepší tiše promluvit k duši toho člověka a pokusit se jej inspirovat, aby se řídil Boží Vůlí.
 
-Je-li to však velmi duchovní člověk a upřímný hledající, potom on sám řekne svým příbuzným a blízkým: „Modlete se k Bohu, aby si mě odvedl. Moje hra na zemi skončila. Čtěte mi duchovní knihy -- Písma, Bibli, Gítu. Chci slyšet pouze božské věci, duchovní věci, které mi pomohou vydat se na mou cestu.“ V Indii je mnoho, mnoho lidí, kteří jakmile cítí, že jejich dny jsou sečteny, říkají: „Čím dříve si mě Nejvyšší vezme, tím lépe.“ Když umírala moje matka, četla během svých posledních dní neustále Gítu s jedinou myšlenkou: „Nyní odcházím k Věčnému Otci. Musím se na to připravit.“ Takový pacient získává poznáním a uposlechnutím Vůle Nejvyššího největší radost.
+Je-li to však velmi duchovní člověk a upřímný hledající, potom on sám řekne svým příbuzným a blízkým: „modlete se k bohu, aby si mě odvedl. moje hra na zemi skončila. Čtěte mi duchovní knihy -- písma, bibli, gítu. chci slyšet pouze božské věci, duchovní věci, které mi pomohou vydat se na mou cestu.“ v indii je mnoho, mnoho lidí, kteří jakmile cítí, že jejich dny jsou sečteny, říkají: „Čím dříve si mě nejvyšší vezme, tím lépe.“ když umírala moje matka, četla během svých posledních dní neustále gítu s jedinou myšlenkou: „Nyní odcházím k Věčnému Otci. Musím se na to připravit.“ Takový pacient získává poznáním a uposlechnutím Vůle Nejvyššího největší radost.
 
 
 
 * Je možné silou vůle odložit okamžik smrti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:13-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:13-cs
   :END:
 
 
@@ -243,13 +238,13 @@ Je-li to však velmi duchovní člověk a upřímný hledající, potom on sám
 * A je možné ho odkládat neomezeně?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:14-cs
   :END:
 
 
-/Sri Chinmoy:/ Pokud je to Vůle Boha, duchovní Mistři mohou odkládat okamžik smrti neomezeně. Duchovní člověk tuto sílu dostane, když dospěje k duchovní Dokonalosti, neboť tehdy se naprosto odevzdá Bohu. Žák přichází ke Guruovi a zcela se mu odevzdá. Stejně tak Guru se musí naprosto odevzdat Bohu Nekonečnému. Tímto odevzdáním se s Bohem ztotožní. Neporuší Boží Zákon, snaží se jej naplnit. Když Bůh řekne: „Chci, abys teď opustil tělo,“ opustí tělo. Pokud ovšem vidí, že na něj útočí nějaké nepřátelské síly, které chtějí, aby předčasně zemřel, potom použije svou sílu, protože Bůh si přeje, aby byl na zemi a pomáhal lidstvu.
+/Sri Chinmoy:/ pokud je to vůle boha, duchovní mistři mohou odkládat okamžik smrti neomezeně. duchovní člověk tuto sílu dostane, když dospěje k duchovní dokonalosti, neboť tehdy se naprosto odevzdá bohu. Žák přichází ke guruovi a zcela se mu odevzdá. stejně tak guru se musí naprosto odevzdat bohu nekonečnému. tímto odevzdáním se s bohem ztotožní. neporuší boží zákon, snaží se jej naplnit. když bůh řekne: „Chci, abys teď opustil tělo,“ opustí tělo. Pokud ovšem vidí, že na něj útočí nějaké nepřátelské síly, které chtějí, aby předčasně zemřel, potom použije svou sílu, protože Bůh si přeje, aby byl na zemi a pomáhal lidstvu.
 
 Vlastnit tuto sílu nemá žádný smysl, pokud chcete být na zemi dvě stě nebo tři sta let a žít obyčejným, zvířecím životem. Želva žije stovky let, ale to neznamená, že je lepší než lidská bytost. To, co potřebujeme, je přímé osvícení, poznání Pravdy, poznání Světla a poznání Boha. Důležité nejsou roky, ale dosažení.
 
@@ -258,9 +253,9 @@ Vlastnit tuto sílu nemá žádný smysl, pokud chcete být na zemi dvě stě ne
 * Musel jsi někdy opravdu bojovat se silami smrti, abys zachránil něčí život?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:15-cs
   :END:
 
 
@@ -272,9 +267,9 @@ Právě minulou neděli jsem přišel velmi pozdě ranní meditaci. Tehdy si vě
 * Pracuji v nemocnici v oddělení rakoviny, kde se lidé často umírají. Někdy, když lidé umírají, vidím kvalitu nebo výraz v jejich tváři, který je velmi podobný něčemu, co vidím ve tvé tváři. Můžeš mi říct proč?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:16-cs
   :END:
 
 /Sri Chinmoy:/ Když jsem spojen s Univerzálním Vědomím, jsem v každém. Existuje na světě mnoho lidí, kteří nejsou moji žáci, ale jsou upřímní hledající. A realizované duše první třídy uvidí, když se upřímní hledající ve chvíli své smrti, nebo když jsou jejich dny sečteny, modlí k Bohu. Říkám vám, že pokud se modlí k Bohu nebo Kristu nebo komukoliv, pokud skutečně upřímně klepou na Boží dveře, mohou vyzařovat moji tvář, Buddhovu tvář, Kršnovu tvář -- kvůli našemu Univerzálnímu Vědomí.
@@ -287,13 +282,13 @@ Jsou chvíle, kdy na mne moji žáci meditují nejvíce oduševněle a identifik
 * Někdy se lidé upalují na protest proti válce. Čeho dosáhnou z duchovního hlediska?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:17-cs
   :END:
 
 
-/Sri Chinmoy:/ V rodině se mezi sebou bratři často hádají. Matka potom řekne: „Jestli toho nenecháte, spáchám sebevraždu.“ Znám mnoho případů, kdy rodiče spáchali sebevraždu, protože zjistili, že v rodině nedokáží udržet soulad. Děti se poté ihned změnily. Když viděly, že jejich rodiče zemřeli kvůli jejich hádkám, ihned začaly nový život. To však nevydrželo dlouho a brzy se začaly hádat znovu.
+/Sri Chinmoy:/ v rodině se mezi sebou bratři často hádají. matka potom řekne: „Jestli toho nenecháte, spáchám sebevraždu.“ Znám mnoho případů, kdy rodiče spáchali sebevraždu, protože zjistili, že v rodině nedokáží udržet soulad. Děti se poté ihned změnily. Když viděly, že jejich rodiče zemřeli kvůli jejich hádkám, ihned začaly nový život. To však nevydrželo dlouho a brzy se začaly hádat znovu.
 
 Z duchovního pohledu sebevražda ničemu neposlouží. Matka se obětovala kvůli dětem. Myslela si, že když obětuje své fyzické bytí, obnoví harmonii, ale ve vitálním světě pro ni není žádného úniku, žádného odpuštění. Za svou hloupost se dostane do vitálního světa a už tam zůstane. Proč neměla tolik moudrosti, aby viděla, že její děti nepatří jí, ale Bohu? Děti jí dal Bůh, proč tedy nešla k Bohu, aby osvítil jejich vědomí? Proč se nemodlila k Bohu za jejich usmíření a harmonii?
 
@@ -304,9 +299,9 @@ Svět zůstane nevědomý, dokud a pokud Nejvyšší neosvítí pozemské vědo
 * Může někdo, kdo spáchal sebevraždu, realizovat v příští inkarnaci Boha?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:18-cs
   :END:
 
 /Sri Chinmoy:/ Po spáchání sebevraždy nebo po násilné smrti /je/ možné realizovat Boha. Ale Bůh ví, kolik inkarnací to bude trvat. Pouze v případě duchovních mistrů je to přípustné. Duchovní mistři někdy spáchají sebevraždu; jsou tak znechuceni zemí, že vědomě a úmyslně opustí tělo před tím, než by se tak stalo v běžném sledu života. Ale v jejich případě to Nejvyšší dovoluje, protože Ho již realizovali a pracovali pro Něj velmi tvrdě.
@@ -315,9 +310,9 @@ Svět zůstane nevědomý, dokud a pokud Nejvyšší neosvítí pozemské vědo
 * Vaše filozofie říká, že duše dělá neustále pokrok, jak se ale vyrovnáváte s faktem, že když někdo spáchá sebevraždu, jeho duše upadne?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:19-cs
   :END:
 
 
@@ -334,13 +329,13 @@ Nemůžete říci kosmickým silám: „Udělal jsem něco špatného, ale to ne
 * Jaký je rozdíl mezi kremací a běžným pohřbem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:20-cs
   :END:
 
 
-/Sri Chinmoy:/ Vnější rozdíl znáte: při kremaci je tělo spáleno, při pohřbu je uloženo do rakve a zakopáno. Zejména Indové jsou uctívateli ohně. Cítí, že oheň nejenom všechno stráví, ale také očistí. Pro oheň máme boha, jenž se jmenuje Agni. K Agnimu se modlíme pro očištění a sebepoznání a odevzdáváme mu také své mrtvé.
+/Sri Chinmoy:/ vnější rozdíl znáte: při kremaci je tělo spáleno, při pohřbu je uloženo do rakve a zakopáno. Zejména Indové jsou uctívateli ohně. Cítí, že oheň nejenom všechno stráví, ale také očistí. Pro oheň máme boha, jenž se jmenuje Agni. K Agnimu se modlíme pro očištění a sebepoznání a odevzdáváme mu také své mrtvé.
 
 Víme, že z duchovního pohledu vzniklo tělo z pěti elementů: země, vody, vzduchu, éteru a energie. Z těchto pěti elementů vznikl fyzický obal a s pomocí ohně se znovu na tyto elementy rozloží. Při kremaci se fyzické tělo rozloží s největším očištěním, které zde znamená transformaci.
 
@@ -351,9 +346,9 @@ Lidé, kteří tady na Západě dávají přednost pohřbu, mají také svůj du
 * Mluvil jste o fyzické smrti. Mohl byste také říci něco o smrti a znovuzrození, ke kterému dochází v duchovním životě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:21-cs
   :END:
 
 
@@ -368,9 +363,9 @@ Jedno z tajemství duchovního života je, že v každém okamžiku umíráme 
 * Ve skutečnosti jsem myslel spíše na znovuzrození. Jak se mohu stát znovu dítětem a dosáhnout tohoto duchovního znovuzrození?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:22-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:22-cs
   :END:
 
 
@@ -383,9 +378,9 @@ Každý, kdo vstoupil do duchovního života, musí nevyhnutelně ještě v tom
 * Můžete říci něco o Věčnosti a Věčném životě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:23-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:23-cs
   :END:
 
 
@@ -400,9 +395,9 @@ Během svého pozemského života se můžeme přenést do říše Věčného ž
 * Kapitola druhá: Příběh ze světa Za
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DR:24e2-cs
+  :genre: section
+  :keywords:
+  :cite-key: dr:24e2-cs
   :END:
 
 
@@ -410,9 +405,9 @@ Během svého pozemského života se můžeme přenést do říše Věčného ž
 * Příběh ze světa Za
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DR:24-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dr:24-cs
   :END:
 
 
@@ -420,15 +415,15 @@ Během svého pozemského života se můžeme přenést do říše Věčného ž
 
 /Na podzim 1968 zemřel jeden z žáků Sri Chinmoye. Následuje záznam promluvy Sri Chinmoye, kterou dal v New York Centru krátce po smrti tohoto žáka./
 
-Rád bych řekl pár věcí o odchodu Buddyho. V den, kdy opustil fyzické tělo, se mě jeho malý synovec zeptal: "Kde je náš strýc Buddy?" Řekl jsem, "On je teď v nebi s Bohem." Pak se zeptal: "Můžeme tam jít?" Řekl jsem, "Jistě, můžeš tam jít, ale pouze tehdy, když tě pozve tvůj Otec, tvůj věčný Otec. Když tě tvůj fyzický otec požádá, abys k němu přišel, přiběhneš; ale když je v jiné místnosti a nevolá tě, nepůjdeš k němu. Podobně když Bůh, věčný Otec, zavolá některého svého syna, syn přijde." Pak se zeptal: "Proč tam nemůžeme jít?" Řekl jsem, "Ty tam nemůžeš jít, protože to místo je velmi, velmi, velmi daleko, a potřebuješ tam zvláštní jízdenku. Pokud se tady chceš dostat z jednoho místa na druhé, koupíš si letenku a jsi tam. Na tamto místo je třeba speciální jízdenka a speciální peníze, takže když je máš, můžeš na toto místo jet." Pak se zeptal: "Myslí na nás?" Řekl jsem, "On na tebe myslí neustále. Myslí na tebe a dává ti požehnání, a jeho duše ti bude pomáhat a vést tě."
+Rád bych řekl pár věcí o odchodu Buddyho. V den, kdy opustil fyzické tělo, se mě jeho malý synovec zeptal: "kde je náš strýc buddy?" Řekl jsem, "on je teď v nebi s bohem." pak se zeptal: "můžeme tam jít?" Řekl jsem, "jistě, můžeš tam jít, ale pouze tehdy, když tě pozve tvůj otec, tvůj věčný otec. když tě tvůj fyzický otec požádá, abys k němu přišel, přiběhneš; ale když je v jiné místnosti a nevolá tě, nepůjdeš k němu. podobně když bůh, věčný otec, zavolá některého svého syna, syn přijde." pak se zeptal: "proč tam nemůžeme jít?" Řekl jsem, "ty tam nemůžeš jít, protože to místo je velmi, velmi, velmi daleko, a potřebuješ tam zvláštní jízdenku. pokud se tady chceš dostat z jednoho místa na druhé, koupíš si letenku a jsi tam. na tamto místo je třeba speciální jízdenka a speciální peníze, takže když je máš, můžeš na toto místo jet." pak se zeptal: "Myslí na nás?" Řekl jsem, "On na tebe myslí neustále. Myslí na tebe a dává ti požehnání, a jeho duše ti bude pomáhat a vést tě."
 
 Když dostal Buddy smrtelný útok poprvé, jeho matka Karuna mi brzo ráno telefonovala. Soustředil jsem se na něj a ve chvíli, kdy jsem to udělal, tak jsem zjistil, že jeho smrt byla od něj jen pár minut. Tak jsem okamžitě vstoupil do svého nejvyššího transcendentálního vědomí a vzýval Nejvyššího a Jeho sestupující Milost. Později ten večer, asi v šest hodin, bylo kritické období za námi a on byl zachráněn. V tuto hodinu jsem pak viděl jeho duši vstoupit do mého pokoje, když jsem meditoval. Řekl: "Zachraň mě, zachraň mě." Řekl jsem, "Ty jsi již zachráněn. Nejvyšší tě zachránil."
 
-Můžete říci, "Tehdy byl zachráněn, tak jak to, že nyní, o měsíc později opustil tělo?" Moje odpověď je tato: existuje kosmický Plán a Bůh má právo tento kosmický Plán měnit podle Své vlastní Vůle. Poprvé duše Buddyho s neústupnou vůlí bojovala, aby zůstali na zemi, a my jsme se ztotožnili s jeho duší. S naší modlitbou, s naší koncentrací, se silou, kterou jsme dali do fyzického, s naším pláčem duše zůstal na zemi. Ale jeho duše viděla, že poté, co byl vyléčen, nebude toto fyzické tělo schopno splnit vysoké poslání, které si před sebe postavila. Když mu jeho duše předložila tuto vysokou, vyšší, nejvyšší vizi přímo před nos, zpočátku se jeho tělo bálo tuto vizi a realitu přijmout. Ale duše přesvědčila tělo, že ne s tímto tělem, ale s jinou formou, s jiným tělem může naplnit sebe, může naplnit Boha a může naplnit lidstvo. V 10:15 ráno se Supreme a jeho duše rozhodli, že může opustit tělo. Bezprostředně poté jsem vstoupil do okultního světa a ověnčil ho garlandou se svým zájmem duše, požehnáním a s celou svou láskou a sladkostí. O hodinu později jeho duše skutečně odletěla z klece.
+Můžete říci, "Tehdy byl zachráněn, tak jak to, že nyní, o měsíc později opustil tělo?" Moje odpověď je tato: existuje kosmický plán a bůh má právo tento kosmický plán měnit podle své vlastní vůle. poprvé duše buddyho s neústupnou vůlí bojovala, aby zůstali na zemi, a my jsme se ztotožnili s jeho duší. s naší modlitbou, s naší koncentrací, se silou, kterou jsme dali do fyzického, s naším pláčem duše zůstal na zemi. ale jeho duše viděla, že poté, co byl vyléčen, nebude toto fyzické tělo schopno splnit vysoké poslání, které si před sebe postavila. když mu jeho duše předložila tuto vysokou, vyšší, nejvyšší vizi přímo před nos, zpočátku se jeho tělo bálo tuto vizi a realitu přijmout. ale duše přesvědčila tělo, že ne s tímto tělem, ale s jinou formou, s jiným tělem může naplnit sebe, může naplnit boha a může naplnit lidstvo. v 10:15 ráno se Supreme a jeho duše rozhodli, že může opustit tělo. Bezprostředně poté jsem vstoupil do okultního světa a ověnčil ho garlandou se svým zájmem duše, požehnáním a s celou svou láskou a sladkostí. O hodinu později jeho duše skutečně odletěla z klece.
 
 Nyní o dva nebo o tři dny před tím jeho matka cítila, že jí Buddy říká sbohem. Cítila to, protože její tělo, mysl, srdce a duše byly zcela zajedno s jejím dítětem. Rozhodnutí se provedlo přesně v 10:15 ráno, ale matčino srdce vidělo pravdu dříve, než pravda vůbec vstoupila do existence. Kvůli své psychické jednotě s Buddym jí dal její intuitivní pocit vědět ještě předtím, než Bůh udělal rozhodnutí.
 
-Budu-li se chovat jako každý obyčejný člověk, který se neztotožňuje s Nejvyšší Vůlí, pak ze samé hloubky svého srdce jsem připraven říci, že Buddyho smrt byla hrozná porážka. Prohráli jsme na bojišti života, kde každou vteřinu existuje pro duši příležitost k dosažení, zhmotnění, projevení se zde na zemi. Protože jsem se s ním ztotožnil, plakal jsem a plakal ze samé hloubky svého srdce. Věřte mi, já osobně mohu být ve svém nejvyšším a stejně tak mohu být ve svém nejnižším. Když jsem ve fyzickém, trpím. První věc, kterou jsem řekl, bylo: "Je to moje porážka, moje porážka, protože jsem na něj vložil tolik koncentrace, tolik síly." Ale z duchovního hlediska tato ztráta, tato porážka není porážkou. Když se ztotožníme s Vůlí Nejvyššího, cítíme, že Jeho Vůle je veškerým Soucitem a veškerým Naplněním. V okamžiku, kdy jsme všechno odevzdali Vůli Nejvyššího, Buddy opustil fyzické. Jeho matka, sestra, on a já jsme všichni vstoupili do vůle Nejvyššího a řekli: "Staň se Vůle Tvá."
+Budu-li se chovat jako každý obyčejný člověk, který se neztotožňuje s Nejvyšší Vůlí, pak ze samé hloubky svého srdce jsem připraven říci, že Buddyho smrt byla hrozná porážka. Prohráli jsme na bojišti života, kde každou vteřinu existuje pro duši příležitost k dosažení, zhmotnění, projevení se zde na zemi. Protože jsem se s ním ztotožnil, plakal jsem a plakal ze samé hloubky svého srdce. Věřte mi, já osobně mohu být ve svém nejvyšším a stejně tak mohu být ve svém nejnižším. Když jsem ve fyzickém, trpím. První věc, kterou jsem řekl, bylo: "je to moje porážka, moje porážka, protože jsem na něj vložil tolik koncentrace, tolik síly." ale z duchovního hlediska tato ztráta, tato porážka není porážkou. když se ztotožníme s vůlí nejvyššího, cítíme, že jeho vůle je veškerým soucitem a veškerým naplněním. v okamžiku, kdy jsme všechno odevzdali vůli nejvyššího, buddy opustil fyzické. jeho matka, sestra, on a já jsme všichni vstoupili do vůle nejvyššího a řekli: "Staň se Vůle Tvá."
 
 A teď, proč je to, že se zpočátku neodevzdáme Vůli Nejvyššího? Za prvé, v tomto světě jsme se ztotožnili s fyzickým. Snažíme se mít své nejdražší tak dlouho, jak to jde. A za druhé, máme pocit, že může být Boží Vůlí aby žil a jeho duše mohla získat další vnitřní zkušenosti na poli manifestace. Ale naše nejvyšší Já je vždy zajedno s Nejvyšším, a odtud vidíme věčnou Vizi a věčnou Skutečnost. Když jsme zajedno s Nejvyšším, cítíme věčnost jako svou zcela vlastní. Buddy byl na zemi čtyřicet dva let, ale jeho duchovní jméno, Asim, znamená věčný, nespoutaný, nekonečný život. Je to nekonečný život, který duše vlastní a opatruje.
 
@@ -446,9 +441,9 @@ Právě teď je duše Buddyho v měsíčním světě, který je považován za j
 * Kapitola třetí: Život po smrti: vyšší a nižší světy
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DR:25e3-cs
+  :genre: section
+  :keywords:
+  :cite-key: dr:25e3-cs
   :END:
 
 
@@ -456,9 +451,9 @@ Právě teď je duše Buddyho v měsíčním světě, který je považován za j
 * Určují okolnosti smrti člověka to, kam odejde, až opustí tělo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:25-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:25-cs
   :END:
 
 
@@ -473,13 +468,13 @@ Naproti tomu byly jiné vdovy, které byly k tomuto činu přinuceny zákonem. 
 * Slyšel jsem, že duše, která opouští tento život, má velkou radost, když vidí v očích příbuzných a přátel slzy. Je to pravda?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:26-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:26-cs
   :END:
 
 
-/Sri Chinmoy:/ Obecně existují tři druhy lidských duší: za prvé duše zcela obyčejné, neosvícené, potom dobré, ale běžné duše, a nakonec velké, mimořádné duše. Když zemře obyčejný člověk, pozoruje, zda pro něj jeho drazí a blízcí pláčí. Vidí‑li, že pro něj nikdo nepláče, je velmi sklíčený a říká si: „Celý život jsem jim všemožně pomáhal. Teď se podívejte na ten nevděk!“ Tyto obyčejné duše jsou natolik připoutány ke svým blízkým a k zemi, že je sužuje, když vidí, že jejich blízcí v tento poslední okamžik neocení jejich dřívější lásku a oběť. Jsou dokonce i některé neosvícené duše, které když vidí, že pro ně příbuzní netruchlí, ze zlomyslnosti se poté, co opustily tělo, vracejí v nehmotné podobě a straší je. Pokud jsou v rodině děti, mohou si na sebe vzít tu nejošklivější podobu a chodit je strašit. 
+/Sri Chinmoy:/ obecně existují tři druhy lidských duší: za prvé duše zcela obyčejné, neosvícené, potom dobré, ale běžné duše, a nakonec velké, mimořádné duše. když zemře obyčejný člověk, pozoruje, zda pro něj jeho drazí a blízcí pláčí. vidí‑li, že pro něj nikdo nepláče, je velmi sklíčený a říká si: „Celý život jsem jim všemožně pomáhal. Teď se podívejte na ten nevděk!“ Tyto obyčejné duše jsou natolik připoutány ke svým blízkým a k zemi, že je sužuje, když vidí, že jejich blízcí v tento poslední okamžik neocení jejich dřívější lásku a oběť. Jsou dokonce i některé neosvícené duše, které když vidí, že pro ně příbuzní netruchlí, ze zlomyslnosti se poté, co opustily tělo, vracejí v nehmotné podobě a straší je. Pokud jsou v rodině děti, mohou si na sebe vzít tu nejošklivější podobu a chodit je strašit. 
 
 Další druh jsou lidé milí a příjemní, lidé, kteří velmi ochotně pomáhají všem členům rodiny a kteří při odchodu ze světa cítí, že by jejich svazek lásky a připoutání měl trvat navždy. Takoví lidé nechtějí opustit pozemskou sféru. Cítí, že jenom připoutání může udržet spojení mezi tímto a oním světem, a tak se snaží získat od svých blízkých a drahých tu největší náklonnost, soucit a účast. Když vidí, že jejich drazí a blízcí neprojevují žádný soucit a lítost nad jejich ztrátou, že hořce nepláčí, mají obrovské bolesti ve svém vnitřním bytí. Říkají si: „Chci tady založit něco trvalého a členové mé rodiny nespolupracují a vůbec mi nepomáhají.“ Není to však takzvaná lidská láska, není to lidské připoutání, co by mohlo vytvořit věčné božské pouto mezi duší zemřelého a dušemi žijících lidí. Láska, která spoutává lidské bytosti, nikdy nemůže vydržet; je jako provaz vyrobený z písku. Je to pouze božská láska, která dokáže překonat všechny překážky. 	
 
@@ -492,9 +487,9 @@ Jistě, žáci mohou být na chvíli smutní, protože ztratili svého Mistra, p
 * Proč lidé několik hodin nebo i několik dní uchovávají tělo, když už duše odešla?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:27-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:27-cs
   :END:
 
 
@@ -505,13 +500,13 @@ Jistě, žáci mohou být na chvíli smutní, protože ztratili svého Mistra, p
 * Pokud hledající nerealizoval Boha, dokud byl na zemi, uvidí nebo realizuje jeho duše Boha poté, co opustí tělo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:28-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:28-cs
   :END:
 
 
-/Sri Chinmoy:/ Každá duše dozajista spatří Boha, protože každá duše musí přijít přímo od Něj. Jakmile duše opustí tělo, odchází postupně do vitálního, mentálního a psychického světa a nakonec do světa duší. Tady nějaký čas odpočívá. Než potom opět sestoupí dolů do další inkarnace, má rozhovor s Bohem. Duše musí předstoupit před Nejvyššího a říci, kolik toho dosáhla v minulé inkarnaci. Spatří možnosti své nadcházející inkarnace a složí slib Nejvyššímu. Cíle a ideály, které duše předloží pro svou roli ve světě odhalení a projevení, musí schválit Nejvyšší. Někdy sám Nejvyšší řekne: „Očekávám od tebe to a to. Pokus se to pro Mne na zemi vykonat.“
+/Sri Chinmoy:/ každá duše dozajista spatří boha, protože každá duše musí přijít přímo od něj. jakmile duše opustí tělo, odchází postupně do vitálního, mentálního a psychického světa a nakonec do světa duší. tady nějaký čas odpočívá. než potom opět sestoupí dolů do další inkarnace, má rozhovor s bohem. duše musí předstoupit před nejvyššího a říci, kolik toho dosáhla v minulé inkarnaci. spatří možnosti své nadcházející inkarnace a složí slib nejvyššímu. cíle a ideály, které duše předloží pro svou roli ve světě odhalení a projevení, musí schválit nejvyšší. někdy sám nejvyšší řekne: „Očekávám od tebe to a to. Pokus se to pro Mne na zemi vykonat.“
 
 Duše, která vidí Boha a mluví s Ním, nám připadá jako cosi zvláštního, protože většina z nás na zemi duši dosud nespatřila. Dokud k duši nemáme volný přístup, dokud neslyšíme její hlas a nepokoušíme se naslouchat jejímu vnitřnímu naléhání, je pro nás prostě nemožné realizovat Boha. Každá duše po opuštění těla spatří Boha úplně stejně, jako já vidím vás díky tomu, že stojím před vámi. Je to něco naprosto jiného, než když někdo realizuje Boha tady na zemi ve fyzickém těle. Tehdy celé vědomí -- fyzické vědomí, individuální vědomí -- splyne s nekonečným Světlem a Blažeností. Když čteme duchovní knihy nebo někomu nasloucháme, můžeme cítit, že Bůh je náš. Vědomá jednota je však něco jiného. Když vědomě cítíme Boha jako svého zcela vlastního, cítíme nezměrný mír v každém okamžiku svého vnitřního života, svého vnitřního bytí. Navenek můžeme být vzrušení nebo můžeme mluvit, ale v našem vnitřním životě je moře míru, světla a blaženosti. Když toto moře míru, světla a blaženosti vstoupí do naší fyzické bytosti, do našeho fyzického vědomí, může se tady na zemi projevit naše vnitřní božskost. V Nebi nemůžeme nic projevit ani realizovat. Pokud duše nerealizovala Boha tady na zemi, v poutech konečného, ve svém vlastním světě Jej nerealizuje. Realizace se dá dosáhnout jen prostřednictvím fyzického.
 
@@ -520,21 +515,21 @@ Duše, která vidí Boha a mluví s Ním, nám připadá jako cosi zvláštní
 * Guru, spatříme tě, až budeme opouštět tělo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:29-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:29-cs
   :END:
 
 
-/Sri Chinmoy:/ Pokud jste mými opravdovými žáky, pak mě ve chvíli, kdy budete opouštět tělo, určitě uvidíte. To vám mohu zaručit. Jste-li mými skutečnými žáky, nebudete moci zemřít bez mého vědomí a souhlasu. V tu chvíli budu stát přímo před vámi a odvezu vás ve svém kočáře. Odvezu vás ve zlatém, stříbrném nebo bronzovém kočáře. Uvidíte. Toto je slib, jenž dávají velcí duchovní Mistři: že přijdou a odvedou duše svých žáků.
+/Sri Chinmoy:/ pokud jste mými opravdovými žáky, pak mě ve chvíli, kdy budete opouštět tělo, určitě uvidíte. to vám mohu zaručit. jste-li mými skutečnými žáky, nebudete moci zemřít bez mého vědomí a souhlasu. v tu chvíli budu stát přímo před vámi a odvezu vás ve svém kočáře. odvezu vás ve zlatém, stříbrném nebo bronzovém kočáře. uvidíte. toto je slib, jenž dávají velcí duchovní mistři: že přijdou a odvedou duše svých žáků.
 
 
 * Uvidíme tě, až ty opustíš tělo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:30-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:30-cs
   :END:
 
 
@@ -545,9 +540,9 @@ Duše, která vidí Boha a mluví s Ním, nám připadá jako cosi zvláštní
 * Uvidí tě po smrti ve vnitřním světě každý člověk?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:31-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:31-cs
   :END:
 
 
@@ -558,9 +553,9 @@ Duše, která vidí Boha a mluví s Ním, nám připadá jako cosi zvláštní
 * Nedávno zemřela jedna moje přítelkyně, velmi duchovní paní. Přijdou ji v krásném Nebi přivítat její přátelé?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:32-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:32-cs
   :END:
 
 
@@ -575,9 +570,9 @@ Když otec jiné žákyně zemřel, šel na velmi vysoké místo, ale nebyl tam 
 * Může duše získat nějaký druh zkušeností ve světech, kam se dostane po odchodu z těla?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:33-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:33-cs
   :END:
 
 
@@ -592,9 +587,9 @@ Do světa duší odcházíme pro odpočinek. Pokud však bude naše duše ve spo
 * Řekl jste, že duše po odchodu z těla vstupuje do vitální oblasti. Co je to vitální oblast?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:34-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:34-cs
   :END:
 
 
@@ -607,9 +602,9 @@ Vitálno, které jsme přijali v tomto fyzickém těle, je cosi pevného. Svým
 * Jak to vypadá ve vitálním světě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:35-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:35-cs
   :END:
 
 
@@ -620,24 +615,24 @@ Vitálno, které jsme přijali v tomto fyzickém těle, je cosi pevného. Svým
 * Je peklo opravdu nějaké místo ve vitálních světech, nebo je to jenom stav vědomí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:36-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:36-cs
   :END:
 
 
-/Sri Chinmoy:/ Na fyzicko-mentální úrovni je peklo určité místo. Existuje pro zkušenost duše. Pokud vedete špatný život, budete se tam muset odebrat. Jsou tam opravdová muka, nepředstavitelná muka. Zejména pro ty, kteří spáchali sebevraždu, je utrpení nekonečně horší než smažení zaživa v oleji. Utrpení, kterým procházejí sebevrazi v jemném fyzickém a jemném vitálnu, je nepředstavitelné a nesnesitelné. Velmi dlouho nedostanou další inkarnaci. Až po mnoha letech utrpení ve vitálním světě dostanou inkarnaci, ve které budou postižení: slepí, chromí, mongoloidní a tak dále. A to nejen na jednu inkarnaci. Pokud jim neodpustí nějaký duchovní Mistr nebo Boží Milost, pokračuje to řadu dalších inkarnací. Kromě toho vytvoří od samého začátku velké problémy pro celou rodinu, ve které se narodili. Když se například inkarnuje sebevrah a zešílí, způsobí celé rodině velké potíže. Tyto duše také dost často zhoršují svou špatnou karmu, protože znovu pokračují stejným způsobem a nemění se. Pokud ale zapůsobí Boží Milost nebo zasáhne duchovní Mistr, duše dostane pomoc.
+/Sri Chinmoy:/ na fyzicko-mentální úrovni je peklo určité místo. existuje pro zkušenost duše. pokud vedete špatný život, budete se tam muset odebrat. jsou tam opravdová muka, nepředstavitelná muka. zejména pro ty, kteří spáchali sebevraždu, je utrpení nekonečně horší než smažení zaživa v oleji. utrpení, kterým procházejí sebevrazi v jemném fyzickém a jemném vitálnu, je nepředstavitelné a nesnesitelné. velmi dlouho nedostanou další inkarnaci. až po mnoha letech utrpení ve vitálním světě dostanou inkarnaci, ve které budou postižení: slepí, chromí, mongoloidní a tak dále. A to nejen na jednu inkarnaci. Pokud jim neodpustí nějaký duchovní Mistr nebo Boží Milost, pokračuje to řadu dalších inkarnací. Kromě toho vytvoří od samého začátku velké problémy pro celou rodinu, ve které se narodili. Když se například inkarnuje sebevrah a zešílí, způsobí celé rodině velké potíže. Tyto duše také dost často zhoršují svou špatnou karmu, protože znovu pokračují stejným způsobem a nemění se. Pokud ale zapůsobí Boží Milost nebo zasáhne duchovní Mistr, duše dostane pomoc.
 
 Pokud tedy žijeme v hrubém fyzickém vědomí nebo ve vědomí těla, je peklo skutečně určité místo. Musíme si však uvědomit, že na nejvyšší duchovní úrovni je peklo stejně jako Nebe jen stavem vědomí. Nebe i peklo začíná v mysli. Ve chvíli, kdy myslíme na něco dobrého, kdy se modlíme a meditujeme, kdy se pokoušíme nabízet vnitřní světlo, které jsme získali z naší meditace a modliteb, začínáme žít v Nebi. V okamžiku, kdy o někom špatně smýšlíme, kdy někoho kritizujeme a máme o něm špatné myšlenky, vstupujeme do pekla. Nebe vytváříme my; peklo vytváříme my. Svými božskými myšlenkami vytváříme Nebe. Hloupými, nedobrými a nebožskými myšlenkami si v sobě vytváříme peklo. Nebe i peklo jsou stavy vědomí hluboko uvnitř nás. Když jdeme hluboko dovnitř, spatříme v sobě celý vesmír. Uvnitř tohoto fyzického těla je jemné tělo a uvnitř jemného těla, v srdci, najdeme příbytek duše. Když odtud jdeme hluboko dovnitř, spatříme celý vesmír.
 
 
 
-* Kapitola čvrtá: Znovuzrození: Velká pouť
+* Kapitola čvrtá: znovuzrození: Velká pouť
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DR:37e4-cs
+  :genre: section
+  :keywords:
+  :cite-key: dr:37e4-cs
   :END:
 
 
@@ -645,9 +640,9 @@ Pokud tedy žijeme v hrubém fyzickém vědomí nebo ve vědomí těla, je pekl
 * Co je účelem znovuzrození?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:37-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:37-cs
   :END:
 
 
@@ -668,9 +663,9 @@ Přijde den, kdy bude duše moci použít své božské vlastnosti a dát mysli
 * Zlepší se nakonec celý svět díky evoluci, jež probíhá prostřednictvím reinkarnace?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:38-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:38-cs
   :END:
 
 
@@ -681,9 +676,9 @@ Přijde den, kdy bude duše moci použít své božské vlastnosti a dát mysli
 * Jak může duchovní Mistr jako vy přesvědčit lidi, kteří nevěří v reinkarnaci, že je skutečná?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:39-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:39-cs
   :END:
 
 
@@ -698,9 +693,9 @@ Jednou se mě zeptal jeden mladý chlapec, který nebyl mým žákem, na svou mi
 * Žije-li někdo dobrý život a dosáhne Nirvány, znamená to, že se už znovu nezrodí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:40-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:40-cs
   :END:
 
 
@@ -715,13 +710,13 @@ Jsou však takové duše, které se chtějí Boží Lily, božské Hry, vědomě
 * Může se duše po smrti reinkarnovat v jiných světech?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:41-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:41-cs
   :END:
 
 
-/Sri Chinmoy:/ Duše, která vstoupila do lidského těla, se nemůže a také nebude reinkarnovat v jiných světech. Duše může projít různými úrovněmi: fyzickým, vitálním, mentálním a psychickým obalem. Jakmile opustí tělo, prochází těmito úrovněmi do svého vlastního světa. V nich se ale duše neinkarnuje. Tato místa jsou součástí objevitelské pouti duše a duše jimi pouze prochází. Navštíví je, ale neinkarnuje se v nich. Duše se reinkarnuje pouze ve fyzickém světě na zemi. Jenom tady může projevit svou božskost.
+/Sri Chinmoy:/ duše, která vstoupila do lidského těla, se nemůže a také nebude reinkarnovat v jiných světech. duše může projít různými úrovněmi: fyzickým, vitálním, mentálním a psychickým obalem. Jakmile opustí tělo, prochází těmito úrovněmi do svého vlastního světa. V nich se ale duše neinkarnuje. Tato místa jsou součástí objevitelské pouti duše a duše jimi pouze prochází. Navštíví je, ale neinkarnuje se v nich. Duše se reinkarnuje pouze ve fyzickém světě na zemi. Jenom tady může projevit svou božskost.
 
 Existuje sedm vyšších a sedm nižších světů a duše každého člověka do nich cestuje během spánku nebo v meditaci. Může procházet jedním světem za druhým až do nejvyššího světa; může jít také do nižších světů. Obyčejný člověk není schopen spatřit duši nebo pocítit její pohyby, ale velký aspirant nebo duchovní Mistr může zjistit, co duše dělá a na které úrovni se nachází. Reinkarnace se však odehrává jenom tady na zemi, v tomto světě.
 
@@ -730,9 +725,9 @@ Existuje sedm vyšších a sedm nižších světů a duše každého člověka
 * Potřebuje duše ke znovuzrození pokaždé fyzické rodiče?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:42-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:42-cs
   :END:
 
 
@@ -744,9 +739,9 @@ Existuje sedm vyšších a sedm nižších světů a duše každého člověka
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:43-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:43-cs
   :END:
 
 
@@ -757,9 +752,9 @@ Existuje sedm vyšších a sedm nižších světů a duše každého člověka
 * Co se stane s duchovním srdcem, když se duše reinkarnuje do nového těla? Prochází také jedním životem za druhým jako duše?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:44-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:44-cs
   :END:
 
 
@@ -770,9 +765,9 @@ Existuje sedm vyšších a sedm nižších světů a duše každého člověka
 * Je možné, aby mělo dítě, které se inkarnuje do nějaké rodiny, méně vyvinutou duši než jeho rodiče?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:45-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:45-cs
   :END:
 
 
@@ -783,9 +778,9 @@ Existuje sedm vyšších a sedm nižších světů a duše každého člověka
 * Má duše možnost nějakého výběru prostředí a těla, do kterého se reinkarnuje?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:46-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:46-cs
   :END:
 
 
@@ -797,13 +792,13 @@ Existuje sedm vyšších a sedm nižších světů a duše každého člověka
 Můžeš mi pomoci opustit tělo co nejdříve, a pomoct mi reinkarnovat se v místě, které je vysoko a velmi chladné, s dostatkem mlhy a sněhu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:47-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:47-cs
   :END:
 
 
-/Sri Chinmoy:/ Mám sílu udělat to, o co mě žádáš. Ale když půjdu k Nejvyššímu s tvým návrhem, okamžitě se mi bude smát a řekne: "Co to máš za žáka, který sotva právě začíná otevírat oči, chce je znovu zavřít?" Klima nemá nic co do činění s realizací Boha. Šrí Ramana Maharshi a Sri Aurobindo byli z jižní Indie, která má velmi horké klima, ale to jim nebránilo v realizaci Boha. Existuje mnoho aspirantů, kteří žijí v jeskyních vysoko v Himalájích, ve věčném sněhu, kteří nebyli schopni realizovat Boha. Klima s tím nemá nic do činění. Je to vnitřní teplo z aspirace, které může přinést realizaci Boha, ne vnější klimatické podmínky.
+/Sri Chinmoy:/ mám sílu udělat to, o co mě žádáš. ale když půjdu k nejvyššímu s tvým návrhem, okamžitě se mi bude smát a řekne: "Co to máš za žáka, který sotva právě začíná otevírat oči, chce je znovu zavřít?" Klima nemá nic co do činění s realizací Boha. Šrí Ramana Maharshi a Sri Aurobindo byli z jižní Indie, která má velmi horké klima, ale to jim nebránilo v realizaci Boha. Existuje mnoho aspirantů, kteří žijí v jeskyních vysoko v Himalájích, ve věčném sněhu, kteří nebyli schopni realizovat Boha. Klima s tím nemá nic do činění. Je to vnitřní teplo z aspirace, které může přinést realizaci Boha, ne vnější klimatické podmínky.
 
 Tagore, náš největší básník, obvykle psal šest nebo osm básní denně. Jednou si myslel, že kdyby odešel do ústraní, mohl by napsat mnohem lepší básně. Takže opustil svůj dům a odebral se na pusté místo v horách. Zatímco tam byl, nebyl schopen napsat jedinou báseň. Zjistil, že nejdůležitější není prostředí, ale vnitřní inspirace.
 
@@ -814,9 +809,9 @@ Pokud vás trápí vaše předchozí jednání v této inkarnaci, chci vám ří
 * Je veškeré utrpení důsledkem špatné karmy, ať už z tohoto života, nebo z minulého?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:48-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:48-cs
   :END:
 
 
@@ -831,9 +826,9 @@ Pokud neustále vedeme duchovní život, stojíme v poli božské Síly, která
 * Mohl byste nám prosím vysvětlit, jak na nás v tomto životě působí zákon karmy a jak nás bude ovlivňovat v příštím životě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:49-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:49-cs
   :END:
 
 
@@ -848,9 +843,9 @@ Když se v příští inkarnaci vrátíme, přirozeně musíme začít svou ces
 * Jestliže žák nerealizuje Boha, zatímco je jeho Guru je v těle, jak bude Guru schopen pomoci žákovi v jeho příští inkarnaci, pokud by tam nebyl žádný jiný žijící Guru, jehož prostřednictvím by mohl pracovat? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:50-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:50-cs
   :END:
 
 
@@ -869,9 +864,9 @@ Když se velcí Mistři přicházejí na zem, výrazně urychlují pokrok svých
 * Jak si s námi budeš udržovat kontakt poté, co opustíš tělo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:51-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:51-cs
   :END:
 
 
@@ -881,7 +876,7 @@ Když se velcí Mistři přicházejí na zem, výrazně urychlují pokrok svých
 
 Když Jyotishovi bylo asi dvacet pět let, pět žen se do něj zamilovalo, ale on se s žádnou z nich nikdy neoženil. Vzhledem k jejich předchozí karmě všechny zahynuly při lodním neštěstí. On byl v době nehody v Barmě. A tak těchto pět žen bylo také ve světě duší s jeho matkou.
 
-Když jsem mu řekl, že bych mohl přinést také zprávy od jeho přítelkyň, řekl: "Jak víš, kdo jsou, když jsem ti neřekl jejich jména?" Řekl jsem mu, "Vstoupím do tvé duše a jejich jména ti přinesu. Nyní v tichosti uvnitř zopakuj jména těch dívek. Každé dám otázku a ty dostaneš odpověď." Byl tak chytrý; myslel si, že by mě mohl oklamat. U tří myslel na skutečná jména, ale u dalších dvou myslel na naprosto falešná jména. Už jsem se chystal říct tato falešná jména, když v té chvíli se přede mě postavila jeho duše a řekla mi pravdu. Jeho duše mě zachránila. Řekl jsem: "Ach, ty se mě snažíš u posledních dvou jmen oklamat!" A on padl na zem k mým nohám.
+Když jsem mu řekl, že bych mohl přinést také zprávy od jeho přítelkyň, řekl: "jak víš, kdo jsou, když jsem ti neřekl jejich jména?" Řekl jsem mu, "vstoupím do tvé duše a jejich jména ti přinesu. nyní v tichosti uvnitř zopakuj jména těch dívek. každé dám otázku a ty dostaneš odpověď." byl tak chytrý; myslel si, že by mě mohl oklamat. u tří myslel na skutečná jména, ale u dalších dvou myslel na naprosto falešná jména. už jsem se chystal říct tato falešná jména, když v té chvíli se přede mě postavila jeho duše a řekla mi pravdu. jeho duše mě zachránila. Řekl jsem: "Ach, ty se mě snažíš u posledních dvou jmen oklamat!" A on padl na zem k mým nohám.
 
 Pak začaly v ášramu klepy. Odkud kam jsme ten den sestoupili! Druhý den Jyotish tuto příhodu pověděl svému blízkému příteli a zeptal se ho, "Věříš tomu?" Přítel řekl, "Možná, že jste byli opilí. On je vždy opilý. Pouze opilci můžou dělat takové věci! To, že zná vše o svých přátelích, jaký to má přínos?" Vnitřně tomu jeho přítel věřil, ale navenek předstíral, že ne.
 
@@ -892,9 +887,9 @@ Když zemřel jeden z mých žáků, řekl jsem jeho malému synovci, že bychom
 * Bude příští inkarnace duchovního člověka odlišná od té, kterou bude mít normální člověk?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:52-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:52-cs
   :END:
 
 
@@ -907,9 +902,9 @@ Pokud však jde o opravdu velkého aspiranta, který se blíží k realizaci B
 * Řekl jste, že každá inkarnace je odrazovým můstkem k realizaci Boha. Znamená to, že nemůžeme dosáhnout Boha v tomto životě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:53-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:53-cs
   :END:
 
 
@@ -920,9 +915,9 @@ Pokud však jde o opravdu velkého aspiranta, který se blíží k realizaci B
 * Ustane veškerá zodpovědnost a práce hledajícího v době mezi jeho smrtí a dalším zrozením? Anebo bude schopen do chvíle svého návratu na zem vědomě pracovat či nějak jinak pokračovat v práci, kterou začal?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:54-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:54-cs
   :END:
 
 
@@ -938,13 +933,13 @@ Až se však duše vrátí zpět do vyšších světů, už nebude mít žádné
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:55-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:55-cs
   :END:
 
 
-/Sri Chinmoy:/ To záleží na aspiraci a potřebě. Můžete mít aspiraci, abyste něco udělali, ale Bůh zároveň nemusí cítit, že je to pro vás nezbytné. Z vaší strany je aspirace nezbytná. Aspirujete na to, abyste se vrátili a ihned začali hru. Jako byste hráli hodinu a půl a teď měli krátkou přestávku. Když už nechcete odpočívat, řeknete: „Dej mi příležitost, abych dokončil hru a vrátil se zpět.“ Bůh však může říci: „Ne, chci, aby sis odpočinul delší dobu.“ V tu chvíli se nemůžete vrátit. Jakmile se však vaše aspirace a Boží potřeba shodnou, jistě se budete moci vrátit zpět.
+/Sri Chinmoy:/ to záleží na aspiraci a potřebě. můžete mít aspiraci, abyste něco udělali, ale bůh zároveň nemusí cítit, že je to pro vás nezbytné. z vaší strany je aspirace nezbytná. aspirujete na to, abyste se vrátili a ihned začali hru. jako byste hráli hodinu a půl a teď měli krátkou přestávku. když už nechcete odpočívat, řeknete: „dej mi příležitost, abych dokončil hru a vrátil se zpět.“ bůh však může říci: „Ne, chci, aby sis odpočinul delší dobu.“ V tu chvíli se nemůžete vrátit. Jakmile se však vaše aspirace a Boží potřeba shodnou, jistě se budete moci vrátit zpět.
 
 Některé duše se reinkarnují téměř okamžitě, aniž by šly do světa duší. Dejme tomu, že někdo předčasně zahynul při nějaké nehodě. Tehdy může duše odejít jen do vitálního obalu, a pokud zasáhne duchovní postava nebo božská Milost, může se odtud po sedmi nebo osmi měsících inkarnovat do nové rodiny.
 
@@ -954,13 +949,13 @@ Většina obyčejných duší se vrací po šesti, sedmi nebo nanejvýš dvaceti
 * Je-li někdo v něčem nadaný, znamená to, že byla jeho duši dána taková schopnost, nebo se o to pokoušel v mnoha životech a teprve teď toho dosáhl?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:56-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:56-cs
   :END:
 
 
-/Sri Chinmoy:/ Potenciál má každý, stejně jako hrouda jílu. Jeden hrnčíř z ní vytvaruje překrásnou nádobu, kdežto jiný hrnčíř z ní vytvaruje něco méně krásného. Základ obou nádob byl stejný -- jíl. Podobným způsobem jsme i my v duchu stejní. Když ale něco modeluje tento hrnčíř, můžete se zeptat: „Jak to, že tuto nádobu vymodeloval tak krásně?“ V tomto hrnčíři je něco, čemu se říká vědomá aspirace. V každém jiném ohledu je má podstata, vaše podstata, podstata kohokoli jiného stejná. Když však tento hrnčíř něco tvaruje, je v něm něco, co mu dává příležitost vytvořit cosi jedinečného.
+/Sri Chinmoy:/ potenciál má každý, stejně jako hrouda jílu. jeden hrnčíř z ní vytvaruje překrásnou nádobu, kdežto jiný hrnčíř z ní vytvaruje něco méně krásného. základ obou nádob byl stejný -- jíl. podobným způsobem jsme i my v duchu stejní. když ale něco modeluje tento hrnčíř, můžete se zeptat: „Jak to, že tuto nádobu vymodeloval tak krásně?“ V tomto hrnčíři je něco, čemu se říká vědomá aspirace. V každém jiném ohledu je má podstata, vaše podstata, podstata kohokoli jiného stejná. Když však tento hrnčíř něco tvaruje, je v něm něco, co mu dává příležitost vytvořit cosi jedinečného.
 
 Není to tedy tak, že by byl někomu od samého začátku dán určitý předpoklad. Ne, každému člověku byla přisouzena jen malá svoboda, která počala přímo na začátku stvoření. Tato svoboda znamená určitou možnost. Někteří ji použijí pro duchovní život, někteří pro hudbu, někteří pro poezii a tak dále. Někteří ji nepoužijí vůbec. Možnost se však nevyvine ve skutečnost, dokud a pokud ji její majitel nevynese na povrch a nerozvine.
 
@@ -969,9 +964,9 @@ Není to tedy tak, že by byl někomu od samého začátku dán určitý předpo
 * Občas se svým bratrancem meditujeme tak, že se díváme navzájem do očí, a někdy se přitom stává, že na tváři toho druhého vidíme změny, někdy se změní i barva vlasů. Rád bych věděl, co to znamená.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:57-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:57-cs
   :END:
 
 
@@ -984,9 +979,9 @@ Je velmi riskantní, aby se dva žáci vzájemně koncentrovali na své oči a 
 * Pomáhá nám, když víme, jakým jsme byli zvířetem nebo co jsme byli za člověka ve svých minulých inkarnacích?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:58-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:58-cs
   :END:
 
 
@@ -994,13 +989,13 @@ Je velmi riskantní, aby se dva žáci vzájemně koncentrovali na své oči a 
 
 Dejme tomu, že víme, že jsme byli ve své poslední zvířecí inkarnaci jelenem. Jedinou výhodou, kterou tím získáme, je, že můžeme pomyslet na svou rychlost a říci: „Ve zvířecí inkarnaci jsem běžel tak rychle, a to jsem ještě neměl tak vyvinutou duši, jako mám teď. V této inkarnaci poběžím ještě rychleji!“ Jakmile si vzpomeneme, že jsme v minulé inkarnaci běželi rychle, pocítíme inspiraci k rychlému běhu i v této inkarnaci. Pokud známe svou předchozí inkarnaci, můžeme toho pozitivně využít; v tu chvíli se velmi rychle objeví inspirace. Když někdo ví, že byl hledajícím, získá trochu radosti a jistoty. „Svou cestu jsem začal v minulé inkarnaci, ale byla to velmi dlouhá a svízelná pouť. V této inkarnaci jdu po stejné cestě, ale tentokrát už nemusím jít tak dlouho. Je to také snazší, protože se mi dostalo jisté pomoci. Mám schopnosti. Mám ochotu. Mám zkušenosti. S duchovním Mistrem, který mě povede, snadno dosáhnu cíle.“
 
-Svou znalost minulých inkarnací však můžeme vhodně využít jen ve velmi vzácných případech. Většinou nám nedá vůbec žádné povzbuzení. Získáme nějakou inspiraci nebo aspiraci, když budeme vědět, že jsme byli v minulé inkarnaci zlodějem nebo někým nebožským? Ne! Ihned si pomyslíme: „Ach, tak já jsem byl zlodějem a teď se pokouším být světcem. To je nemožné! Pokoušet se o duchovnost je v tomto životě beznadějné.“ Dokonce i když v této inkarnaci uděláme několik špatných věcí, trvá velmi dlouho, než se utiší naše zoufalství. Myslíme si: „Jsem tak špatný. Udělal jsem tohle. Udělal jsem tamto. Jak bych se teď mohl očistit? Jak teď budu moci realizovat Boha?“ Dokáže nás trápit i to, co jsme udělali před čtyřmi roky.
+Svou znalost minulých inkarnací však můžeme vhodně využít jen ve velmi vzácných případech. Většinou nám nedá vůbec žádné povzbuzení. Získáme nějakou inspiraci nebo aspiraci, když budeme vědět, že jsme byli v minulé inkarnaci zlodějem nebo někým nebožským? Ne! Ihned si pomyslíme: „ach, tak já jsem byl zlodějem a teď se pokouším být světcem. to je nemožné! pokoušet se o duchovnost je v tomto životě beznadějné.“ dokonce i když v této inkarnaci uděláme několik špatných věcí, trvá velmi dlouho, než se utiší naše zoufalství. myslíme si: „Jsem tak špatný. Udělal jsem tohle. Udělal jsem tamto. Jak bych se teď mohl očistit? Jak teď budu moci realizovat Boha?“ Dokáže nás trápit i to, co jsme udělali před čtyřmi roky.
 
 Řekněme však, že víme, že jsme v minulé inkarnaci byli někým velmi významným, a teď jsme bezvýznamní. Budeme se cítit uboze. Budeme proklínat Boha i sami sebe. Řekneme si: „Když jsem byl tak velký, jak to, že teď jsem tak zbytečný? Jakou nepředstavitelnou věc jsem provedl, že jsem si zasloužil takový osud? Bůh je tvrdý; nezajímá se o mě.“ To však Boha špatně chápeme. Bůh chce mít prostřednictvím naší inkarnace jinou zkušenost, a my si myslíme, že Bůh je prostě bezcitný.
 
 Aspirant chce vnitřní radost, radost, která naplní jeho samého a která naplní Boha. Tu nikdy nezíská z minulých inkarnací. I kdyby vstoupil do minulé inkarnace a zjistil, že byl prezidentem Spojených států, nepřinese mu to žádné uspokojení. Uvidí, že jeho život prezidenta byl plný strádání, zklamání a všeho možného utrpení. Aby aspirant získal opravdovou radost, musí pomocí své vlastní aspirace, vnitřního pláče, a pomocí své vlastní meditace a koncentrace postupovat kupředu ve svém duchovním životě.
 
-Pro nás je nejlépe nemyslet na minulost. Náš cíl není za námi; je před námi. Směřujeme kupředu, ne dozadu. Duchovnímu člověku vždy říkám: „Minulost je prach.“ Říkám to, protože minulost nám nedala to, co chceme. Chceme realizaci Boha. Znalost našich minulých inkarnací nám k realizaci Boha nepomůže. Realizace Boha zcela závisí na našem vnitřním pláči. Není důležitá minulost, ale přítomnost. Musíme říci: „Nemám minulost. Z Boží Milosti a díky své aspiraci začínám zde a nyní. Nyní začnu běžet. Není podstatné, jak daleko jsem doběhl v minulosti. Budu myslet jenom na to, kolik uběhnu v tomto životě.“
+Pro nás je nejlépe nemyslet na minulost. Náš cíl není za námi; je před námi. Směřujeme kupředu, ne dozadu. Duchovnímu člověku vždy říkám: „minulost je prach.“ Říkám to, protože minulost nám nedala to, co chceme. chceme realizaci boha. znalost našich minulých inkarnací nám k realizaci boha nepomůže. realizace boha zcela závisí na našem vnitřním pláči. není důležitá minulost, ale přítomnost. musíme říci: „Nemám minulost. Z Boží Milosti a díky své aspiraci začínám zde a nyní. Nyní začnu běžet. Není podstatné, jak daleko jsem doběhl v minulosti. Budu myslet jenom na to, kolik uběhnu v tomto životě.“
 
 V současnosti vnímáme minulost jako něco naprosto odlišného od současnosti a současnost jako něco naprosto odlišného od budoucnosti. Jakmile realizujeme Boha, bude minulost, současnost a budoucnost totéž. Utvoří kruh, což je naše vnitřní bytost, celý náš život. V takové chvíli se můžeme snadno podívat na své minulé inkarnace a zjistit, čím jsme byli.
 
@@ -1011,26 +1006,26 @@ Rád bych řekl ještě jednu věc mým žákům. Nyní mi dovolte trochu se poc
 * Pokud je nějaký člověk pokročilým hledajícím a rozvine si schopnost poznat své minulé inkarnace, nezabrání to potom jeho dalšímu pokroku? Jinak řečeno, není škodlivé odhalit, že jsem byl v minulosti zlodějem nebo něčím podobným?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:59-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:59-cs
   :END:
 
 
-/Sri Chinmoy:/ Jestliže v tomto životě velmi upřímně meditujete, automaticky si vyvinete vnitřní sílu a dostanete se do bodu, kdy vás nerozruší ani poznání, že jste byli ve své předchozí inkarnaci tím nejhorším možným zločincem. Víte, že jste sem přišli, abyste přeměnili sami sebe, abyste došli k Božskému. Pán Buddha své minulé inkarnace odhalil: byl kozou a vším možným. Pro něj bylo snadné říci, čím byl ve svých minulých zrozeních, protože realizoval Boha a vstoupil do nejvyšší Pravdy. Bylo pro něj nepodstatné, jestli byl ve svých předchozích inkarnacích zcela obyčejný.
+/Sri Chinmoy:/ jestliže v tomto životě velmi upřímně meditujete, automaticky si vyvinete vnitřní sílu a dostanete se do bodu, kdy vás nerozruší ani poznání, že jste byli ve své předchozí inkarnaci tím nejhorším možným zločincem. víte, že jste sem přišli, abyste přeměnili sami sebe, abyste došli k božskému. pán buddha své minulé inkarnace odhalil: byl kozou a vším možným. Pro něj bylo snadné říci, čím byl ve svých minulých zrozeních, protože realizoval Boha a vstoupil do nejvyšší Pravdy. Bylo pro něj nepodstatné, jestli byl ve svých předchozích inkarnacích zcela obyčejný.
 
 
 
 * Zemře-li člověk, který měl velmi rád psa nebo nějaké jiné zvíře a měl s tímto zvířetem soucit, nezpůsobí to, že se stane v další inkarnaci zvířetem? Dozvěděl jsem se, že v Indii jeden velký mudrc, který meditoval v lese, našel zraněné jehně. Začal o něj pečovat a měl je velmi rád, a kvůli tomu se potom inkarnoval jako jehně.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:60-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:60-cs
   :END:
 
 
-/Sri Chinmoy:/ Nejvýznamnější indický duchovní spis, který je zároveň nejrozsáhlejším spisem na světě, se jmenuje Mahábhárata. V Mahábháratě je řada příběhů, ve kterých se člověk později inkarnuje jako zvíře. Existuje jeden slavný příběh o králi Bharatovi, jenž měl velmi rád jelena a v další inkarnaci se narodil jako jelen. Velký duchovní Mistr Rámakrišna měl velmi rád svého nejdražšího žáka, Svámího Vivékánandu. Často ho vyhledával a mluvil s ním a lidé si mysleli, že se zbláznil. Jednoho dne mu proto Vivékánanda řekl: „Co to děláš? Neznáš příběh o králi Bharatovi, který měl tak rád jelena, že se jím stal ve své další inkarnaci? Tvůj osud bude podobný, když budeš neustále myslet na takovou obyčejnou lidskou bytost, jako jsem já.“ Rámakrišna vzal Vivékánandu vážně a zeptal se Matky Kálí: „Je to pravda, že můj osud bude podobný, jako byl osud krále Bharaty?“ Řekla mu: „To je hloupost! Máš Narena (Vivékánandu) rád, protože v něm vidíš Boha. Není to proto, že je krásný, nebo pro něco podobného. Ne! Máš ho rád, protože je v něm vyjádřeno projevení Boha. To je důvod, proč máš takovou radost, když ho vidíš.“
+/Sri Chinmoy:/ nejvýznamnější indický duchovní spis, který je zároveň nejrozsáhlejším spisem na světě, se jmenuje mahábhárata. v mahábháratě je řada příběhů, ve kterých se člověk později inkarnuje jako zvíře. existuje jeden slavný příběh o králi bharatovi, jenž měl velmi rád jelena a v další inkarnaci se narodil jako jelen. velký duchovní mistr rámakrišna měl velmi rád svého nejdražšího žáka, svámího vivékánandu. Často ho vyhledával a mluvil s ním a lidé si mysleli, že se zbláznil. jednoho dne mu proto vivékánanda řekl: „co to děláš? neznáš příběh o králi bharatovi, který měl tak rád jelena, že se jím stal ve své další inkarnaci? tvůj osud bude podobný, když budeš neustále myslet na takovou obyčejnou lidskou bytost, jako jsem já.“ rámakrišna vzal vivékánandu vážně a zeptal se matky kálí: „je to pravda, že můj osud bude podobný, jako byl osud krále bharaty?“ Řekla mu: „To je hloupost! Máš Narena (Vivékánandu) rád, protože v něm vidíš Boha. Není to proto, že je krásný, nebo pro něco podobného. Ne! Máš ho rád, protože je v něm vyjádřeno projevení Boha. To je důvod, proč máš takovou radost, když ho vidíš.“
 
 Dáme-li tedy najevo soucit k někomu, neznamená to, že se staneme tímto člověkem. Přijde-li za vámi žebrák pro almužnu a vy mu ze svého nejvyššího soucitu dáte nějaké peníze nebo jídlo, neznamená to, že se sami stanete žebrákem. Máte-li psa, můžete mu dávat najevo svou lásku, protože je nesmírně věrný. To však neznamená, že se stanete psem, protože obdivujete vlastnosti svého milovaného psa. Dobré vlastnosti, které váš pes má, věrnost, kterou má, můžete mít v lidské podobě, aniž byste si museli brát zvířecí inkarnaci. Nestanete se zvířetem jen tím, že dáte najevo připoutání k nějakému zvířeti. Vy už jste tímto stadiem prošli. Už jste získali dobré vlastnosti onoho zvířete.
 
@@ -1039,9 +1034,9 @@ Dáme-li tedy najevo soucit k někomu, neznamená to, že se staneme tímto čl
 * Může si duše člověka vzít zvířecí podobu ve své další inkarnaci poté, co byla člověkem v této inkarnaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:61-cs
+  :genre: qa
+  :keywords:
+  :cite-key: dr:61-cs
   :END:
 
 
@@ -1052,18 +1047,3 @@ Jestliže osoba právě vstoupila do lidského života, je-li to její první ne
 Jiným důvodem je, že nižší vitál.--.nespokojený, nenaplněný vitál -- způsobuje obyčejnému člověku nesnesitelné utrpení a bolest, když cítí, že v živočišné říši existuje více příležitostí potěšit nejnižší vitál hrubým fyzickým požitkem. Potom tato duše vstoupí do říše zvířat na několik měsíců, aby si zcela volně užila nejhrubšího požitku. Není to na rok nebo dva, ale jen na velmi krátkou dobu. Když požitek skončí, když skončí nezbytné zkušenosti, duše znovu vstoupí do lidského světa.
 
 Člověk překonal zvíře, ale ne zcela. Uvnitř nás je zvíře. S naší vědomou modlitbou a meditací se snažíme zvíře plně překonat. Z těch, kteří se zde shromáždili, nebude v dalších životech nikdo zvířetem, protože jsme mnohem vyvinutější. Ve chvíli, kdy začíná aspirace, je duše příliš vysoce vyvinutá, než aby se vrátila do říše zvířat. Ani jedna z přítomných duší, které jsou tady dnes večer, nebude mít žádné další zvířecí inkarnace.
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

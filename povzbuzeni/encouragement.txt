@@ -1,11 +1,7 @@
-#+TITLE: Povzbuzení
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-* Index
+* Povzbuzení
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -21,8 +17,8 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:1-cs
+  :genre: aphorism
+  :cite-key: encr:1-cs
   :END:
 
 Povzbuzení je pomocníkem osvícení.
@@ -31,8 +27,8 @@ Povzbuzení je pomocníkem osvícení.
 * 2.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:2-cs
+  :genre: aphorism
+  :cite-key: encr:2-cs
   :END:
 
 Povzbuzujeme-li druhé, zvětšujeme tím své vlastní božské vlastnosti.
@@ -40,8 +36,8 @@ Povzbuzujeme-li druhé, zvětšujeme tím své vlastní božské vlastnosti.
 * 3.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:3-cs
+  :genre: aphorism
+  :cite-key: encr:3-cs
   :END:
 
 Povzbuzení je srdcem nové cesty.
@@ -50,8 +46,8 @@ Povzbuzení je srdcem nové cesty.
 * 4.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:4-cs
+  :genre: aphorism
+  :cite-key: encr:4-cs
   :END:
 
 Povzbuzení zkracuje vzdálenost ke Zlatému Břehu.
@@ -60,8 +56,8 @@ Povzbuzení zkracuje vzdálenost ke Zlatému Břehu.
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:5-cs
+  :genre: aphorism
+  :cite-key: encr:5-cs
   :END:
 
 Povzbuzení urychluje naše úspěchy.
@@ -70,8 +66,8 @@ Povzbuzení urychluje naše úspěchy.
 * 6.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:6-cs
+  :genre: aphorism
+  :cite-key: encr:6-cs
   :END:
 
 Povzbuzení je předání síly.
@@ -80,8 +76,8 @@ Povzbuzení je předání síly.
 * 7.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:7-cs
+  :genre: aphorism
+  :cite-key: encr:7-cs
   :END:
 
 Povzbuzení je neustále zapotřebí jak ve vnitřním světě pokroku, tak ve vnějším světě úspěchu.
@@ -90,8 +86,8 @@ Povzbuzení je neustále zapotřebí jak ve vnitřním světě pokroku, tak ve v
 * 8.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:8-cs
+  :genre: aphorism
+  :cite-key: encr:8-cs
   :END:
 
 Povzbuzení probouzí tělo, dodává energii vitálnu, posiluje mysl a rozšiřuje srdce.
@@ -100,8 +96,8 @@ Povzbuzení probouzí tělo, dodává energii vitálnu, posiluje mysl a rozšiř
 * 9.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:9-cs
+  :genre: aphorism
+  :cite-key: encr:9-cs
   :END:
 
 Povzbuzení je odhalením a projevením naší vnitřní radosti.
@@ -110,8 +106,8 @@ Povzbuzení je odhalením a projevením naší vnitřní radosti.
 * 10.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:10-cs
+  :genre: aphorism
+  :cite-key: encr:10-cs
   :END:
 
 Povzbuzováním nabízíme lidstvu svou božskost.
@@ -120,8 +116,8 @@ Povzbuzováním nabízíme lidstvu svou božskost.
 * 11.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:11-cs
+  :genre: aphorism
+  :cite-key: encr:11-cs
   :END:
 
 Ti, kdo povzbuzují, jsou vybranými nástroji Boha.
@@ -130,8 +126,8 @@ Ti, kdo povzbuzují, jsou vybranými nástroji Boha.
 * 12.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:12-cs
+  :genre: aphorism
+  :cite-key: encr:12-cs
   :END:
 
 Povzbuzení je krásou nezištné služby.
@@ -140,8 +136,8 @@ Povzbuzení je krásou nezištné služby.
 * 13.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:13-cs
+  :genre: aphorism
+  :cite-key: encr:13-cs
   :END:
 
 Povzbuzení je od samého začátku zdrojem uspokojení Boha.
@@ -150,8 +146,8 @@ Povzbuzení je od samého začátku zdrojem uspokojení Boha.
 * 14.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:14-cs
+  :genre: aphorism
+  :cite-key: encr:14-cs
   :END:
 
 Povzbuzení je vůní naší duše.
@@ -160,8 +156,8 @@ Povzbuzení je vůní naší duše.
 * 15.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:15-cs
+  :genre: aphorism
+  :cite-key: encr:15-cs
   :END:
 
 Povzbuzení je projevením naší lásky k potěšení srdce lidstva.
@@ -170,8 +166,8 @@ Povzbuzení je projevením naší lásky k potěšení srdce lidstva.
 * 16.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:16-cs
+  :genre: aphorism
+  :cite-key: encr:16-cs
   :END:
 
 Když povzbuzuji ostatní, cítím, že létám a zpívám na rozlehlé obloze.
@@ -180,8 +176,8 @@ Když povzbuzuji ostatní, cítím, že létám a zpívám na rozlehlé obloze.
 * 17.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:17-cs
+  :genre: aphorism
+  :cite-key: encr:17-cs
   :END:
 
 Povzbuzení posiluje víru ostatních v sebe sama, aby dosáhli svých předurčených cílů.
@@ -190,8 +186,8 @@ Povzbuzení posiluje víru ostatních v sebe sama, aby dosáhli svých předurč
 * 18.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:18-cs
+  :genre: aphorism
+  :cite-key: encr:18-cs
   :END:
 
 Povzbuzení nám dává nové srdce, novou mysl a nový život.
@@ -200,8 +196,8 @@ Povzbuzení nám dává nové srdce, novou mysl a nový život.
 * 19.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:19-cs
+  :genre: aphorism
+  :cite-key: encr:19-cs
   :END:
 
 Povzbuzení způsobuje radost rychlostí blesku.
@@ -210,8 +206,8 @@ Povzbuzení způsobuje radost rychlostí blesku.
 * 20.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:20-cs
+  :genre: aphorism
+  :cite-key: encr:20-cs
   :END:
 
 Povzbuzení dokáže svým světlem zaplavit celý svět.
@@ -220,8 +216,8 @@ Povzbuzení dokáže svým světlem zaplavit celý svět.
 * 21.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:21-cs
+  :genre: aphorism
+  :cite-key: encr:21-cs
   :END:
 
 Blaženost povzbuzení není možné zapomenout.
@@ -230,8 +226,8 @@ Blaženost povzbuzení není možné zapomenout.
 * 22.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:22-cs
+  :genre: aphorism
+  :cite-key: encr:22-cs
   :END:
 
 Povzbuzení stoupá od světla ke světlu a od blaženosti k blaženosti.
@@ -240,8 +236,8 @@ Povzbuzení stoupá od světla ke světlu a od blaženosti k blaženosti.
 * 23.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:23-cs
+  :genre: aphorism
+  :cite-key: encr:23-cs
   :END:
 
 Povzbuzení je okamžitým tvůrcem úsměvu.
@@ -250,8 +246,8 @@ Povzbuzení je okamžitým tvůrcem úsměvu.
 * 24.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:24-cs
+  :genre: aphorism
+  :cite-key: encr:24-cs
   :END:
 
 Povzbuzení sestřelí temnou beznaděj.
@@ -260,8 +256,8 @@ Povzbuzení sestřelí temnou beznaděj.
 * 25.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:25-cs
+  :genre: aphorism
+  :cite-key: encr:25-cs
   :END:
 
 Povzbuzení má nezměrnou schopnost odkrývat svou vlastní krásu.
@@ -270,8 +266,8 @@ Povzbuzení má nezměrnou schopnost odkrývat svou vlastní krásu.
 * 26.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:26-cs
+  :genre: aphorism
+  :cite-key: encr:26-cs
   :END:
 
 Povzbuzení je ryzí dychtivostí pomáhat světu.
@@ -280,8 +276,8 @@ Povzbuzení je ryzí dychtivostí pomáhat světu.
 * 27.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:27-cs
+  :genre: aphorism
+  :cite-key: encr:27-cs
   :END:
 
 Povzbuzení je soucit a zájem v činu.
@@ -290,8 +286,8 @@ Povzbuzení je soucit a zájem v činu.
 * 28.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:28-cs
+  :genre: aphorism
+  :cite-key: encr:28-cs
   :END:
 
 Povzbuzení nám neuvěřitelně pomáhá dosáhnout cíle.
@@ -300,8 +296,8 @@ Povzbuzení nám neuvěřitelně pomáhá dosáhnout cíle.
 * 29.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:29-cs
+  :genre: aphorism
+  :cite-key: encr:29-cs
   :END:
 
 Povzbuzení je střelkou ukazující k Polárce.
@@ -310,8 +306,8 @@ Povzbuzení je střelkou ukazující k Polárce.
 * 30.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:30-cs
+  :genre: aphorism
+  :cite-key: encr:30-cs
   :END:
 
 Povzbuzení je světlo, které šíří božské vlastnosti našeho srdce.
@@ -320,8 +316,8 @@ Povzbuzení je světlo, které šíří božské vlastnosti našeho srdce.
 * 31.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:31-cs
+  :genre: aphorism
+  :cite-key: encr:31-cs
   :END:
 
 Povzbuzení nevěří v život neúspěchu.
@@ -330,8 +326,8 @@ Povzbuzení nevěří v život neúspěchu.
 * 32.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:32-cs
+  :genre: aphorism
+  :cite-key: encr:32-cs
   :END:
 
 Povzbuzení je slavností našeho vnitřního světla.
@@ -340,8 +336,8 @@ Povzbuzení je slavností našeho vnitřního světla.
 * 33.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:33-cs
+  :genre: aphorism
+  :cite-key: encr:33-cs
   :END:
 
 Povzbuzení je srdce souznějící s Božím oceněním.
@@ -350,8 +346,8 @@ Povzbuzení je srdce souznějící s Božím oceněním.
 * 34.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:34-cs
+  :genre: aphorism
+  :cite-key: encr:34-cs
   :END:
 
 Povzbuzení je pták naděje, který letí na křídlech příslibu.
@@ -360,8 +356,8 @@ Povzbuzení je pták naděje, který letí na křídlech příslibu.
 * 35.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:35-cs
+  :genre: aphorism
+  :cite-key: encr:35-cs
   :END:
 
 Povzbuzení nám propůjčuje zářící víru.
@@ -370,8 +366,8 @@ Povzbuzení nám propůjčuje zářící víru.
 * 36.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:36-cs
+  :genre: aphorism
+  :cite-key: encr:36-cs
   :END:
 
 Povzbuzení nám říká, jak rozmlouvat se zarmouceným světem.
@@ -380,8 +376,8 @@ Povzbuzení nám říká, jak rozmlouvat se zarmouceným světem.
 * 37.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:37-cs
+  :genre: aphorism
+  :cite-key: encr:37-cs
   :END:
 
 Bez povzbuzení může naše vnitřní vůle zůstat navždy nevyužita.
@@ -390,8 +386,8 @@ Bez povzbuzení může naše vnitřní vůle zůstat navždy nevyužita.
 * 38.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:38-cs
+  :genre: aphorism
+  :cite-key: encr:38-cs
   :END:
 
 Povzbuzení je velmi zvláštním světlem, zrozeným ze sebenabízení.
@@ -400,8 +396,8 @@ Povzbuzení je velmi zvláštním světlem, zrozeným ze sebenabízení.
 * 39.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:39-cs
+  :genre: aphorism
+  :cite-key: encr:39-cs
   :END:
 
 Bůh mě povzbuzuje, abych byl dokonalý. Já povzbuzuji Boha, aby mi dal trochu více času.
@@ -412,8 +408,8 @@ Bůh mě povzbuzuje, abych byl dokonalý. Já povzbuzuji Boha, aby mi dal trochu
 * 40.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:40-cs
+  :genre: aphorism
+  :cite-key: encr:40-cs
   :END:
 
 Povzbuzení nám dodává odvahu, abychom v životě vítězili.
@@ -422,8 +418,8 @@ Povzbuzení nám dodává odvahu, abychom v životě vítězili.
 * 41.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:41-cs
+  :genre: aphorism
+  :cite-key: encr:41-cs
   :END:
 
 Povzbuzení je přemožitelem pochybnosti, strachu a úzkosti.
@@ -432,8 +428,8 @@ Povzbuzení je přemožitelem pochybnosti, strachu a úzkosti.
 * 42.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:42-cs
+  :genre: aphorism
+  :cite-key: encr:42-cs
   :END:
 
 Povzbuzení je vědomé a osvěcující rozšíření srdce jednoty.
@@ -442,8 +438,8 @@ Povzbuzení je vědomé a osvěcující rozšíření srdce jednoty.
 * 43.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:43-cs
+  :genre: aphorism
+  :cite-key: encr:43-cs
   :END:
 
 Povzbuzení vyzařuje lásku, zájem a pocit jednoty.
@@ -452,8 +448,8 @@ Povzbuzení vyzařuje lásku, zájem a pocit jednoty.
 * 44.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:44-cs
+  :genre: aphorism
+  :cite-key: encr:44-cs
   :END:
 
 Povzbuzení je splnění zodpovědnosti za jednotu.
@@ -462,8 +458,8 @@ Povzbuzení je splnění zodpovědnosti za jednotu.
 * 45.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:45-cs
+  :genre: aphorism
+  :cite-key: encr:45-cs
   :END:
 
 Mé povzbuzení je radostným nabídnutím mého srdce a ruky.
@@ -472,8 +468,8 @@ Mé povzbuzení je radostným nabídnutím mého srdce a ruky.
 * 46.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:46-cs
+  :genre: aphorism
+  :cite-key: encr:46-cs
   :END:
 
 Povzbuzení je krásou a vůní pramene srdce.
@@ -482,8 +478,8 @@ Povzbuzení je krásou a vůní pramene srdce.
 * 47.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:47-cs
+  :genre: aphorism
+  :cite-key: encr:47-cs
   :END:
 
 Mé povzbuzení je mou horlivostí pro zlepšení celého světa.
@@ -493,8 +489,8 @@ Mé povzbuzení je mou horlivostí pro zlepšení celého světa.
 * 48.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:48-cs
+  :genre: aphorism
+  :cite-key: encr:48-cs
   :END:
 
 Pokaždé, když povzbudím svět, mi Bůh pomáhá běžet rychleji, ponořit se hlouběji a letět výše.
@@ -503,8 +499,8 @@ Pokaždé, když povzbudím svět, mi Bůh pomáhá běžet rychleji, ponořit s
 * 49.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:49-cs
+  :genre: aphorism
+  :cite-key: encr:49-cs
   :END:
 
 Povzbuzení potřebuje každý, zvláště snílci o světovém míru.
@@ -513,8 +509,8 @@ Povzbuzení potřebuje každý, zvláště snílci o světovém míru.
 * 50.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:50-cs
+  :genre: aphorism
+  :cite-key: encr:50-cs
   :END:
 
 Ó fontáno povzbuzení, jsi mou vnitřní radostí a mou vnější pýchou.
@@ -523,22 +519,8 @@ Povzbuzení potřebuje každý, zvláště snílci o světovém míru.
 * 51.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: ENCR:51-cs
+  :genre: aphorism
+  :cite-key: encr:51-cs
   :END:
 
 Zdrojem povzbuzení je srdce jednoty Světa Za.
-
-
-
-
-
-#+SETUPFILE: ~/.org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-
-
-
-

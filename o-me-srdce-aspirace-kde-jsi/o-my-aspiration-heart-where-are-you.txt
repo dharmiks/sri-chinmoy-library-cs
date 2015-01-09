@@ -1,20 +1,15 @@
-#+TITLE: Ó mé srdce aspirace, kde jsi?
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Ó mé srdce aspirace, kde jsi?
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2009
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: MAHW-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2009
+  :publisher: Madal Bal
+  :cite-key: MAHW-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,19 +17,19 @@
 * Ó mé srdce aspirace[fn:: MAHW 1 -34. Následujících 34 básní bylo napsáno 23. a 24. srpna 1993 v New Yorku. ]
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MAHW:1e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: mahw:1e1-cs
   :END:
 
 
 * 1. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:1-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:1-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -51,10 +46,10 @@ jak se na mě Bůh usmívá.
 * 2. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:2-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:2-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -70,10 +65,10 @@ víry v Boha.
 * 3. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:3-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:3-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -91,10 +86,10 @@ ale také uspokojit Nepoznané.
 * 4. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:4-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:4-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +107,10 @@ zde na zemi.
 * 5. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:5-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:5-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -135,10 +130,10 @@ pláčou pro tebe?
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:6-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:6-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -155,10 +150,10 @@ neskončil.
 * 7. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:7-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:7-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -174,10 +169,10 @@ je klid moře ticha mé duše.
 * 8. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:8-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:8-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -195,10 +190,10 @@ ke zbytečné nicotnosti.
 * 9. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:9-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:9-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -217,10 +212,10 @@ Věř mi.
 * 10. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:10-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:10-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -239,10 +234,10 @@ v každém směru.
 * 11. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:11-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:11-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -259,10 +254,10 @@ rozechvívající melodii Boha.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:12-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:12-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -279,10 +274,10 @@ Přijď okamžitě na moji záchranu!
 * 13. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:13-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:13-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -300,10 +295,10 @@ objevení Boha.
 * 14. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:14-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:14-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -321,10 +316,10 @@ a Božím Okem Slibu.
 * 15. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:15-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:15-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -344,10 +339,10 @@ našeho Pána Milovaného Nejvyššího.
 * 16. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:16-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:16-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -365,10 +360,10 @@ tebe i tvůj sen.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:17-cs
-  :DATE-EVENT: 1993-08-23
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:17-cs
+  :date-event: 1993-08-23
   :END:
 
 #+BEGIN_VERSE
@@ -391,10 +386,10 @@ s tvojí a mou pomocí.
 * 18. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:18-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:18-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -424,10 +419,10 @@ s Bohem.
 * 19. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:19-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:19-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -443,10 +438,10 @@ po tvých plamenech jídla aspirace.
 * 20. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:20-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:20-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -462,10 +457,10 @@ svůj palác naplnění naděje.
 * 21. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:21-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:21-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -484,10 +479,10 @@ vyrušovat tě.
 * 22. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:22-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:22-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -504,10 +499,10 @@ své vlastní schopnosti.
 * 23. Ó mé srdce aspirace, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:23-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:23-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -525,10 +520,10 @@ mé přátelství jednoty víry v Boha.
 * 24. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:24-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:24-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -548,10 +543,10 @@ abych viděl Boha usmívat se na mě.
 * 25. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:25-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:25-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -570,10 +565,10 @@ do tvého života ticha ceněného Bohem.
 * 26. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:26-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:26-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -591,10 +586,10 @@ jak patřit pouze Bohu.
 * 27. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:27-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:27-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -611,10 +606,10 @@ moji nejrychlejší rychlost vzývání Boha.
 * 28. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:28-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:28-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -631,10 +626,10 @@ tvou nesrovnatelnou krásu růže.
 * 29. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:29-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:29-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -653,10 +648,10 @@ a pro mě.
 * 30. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:30-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:30-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -676,10 +671,10 @@ než se objeví.
 * 31. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:31-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:31-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -699,10 +694,10 @@ mé pozemské existence.
 * 32. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:32-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:32-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -721,10 +716,10 @@ dychtivosti a podpory.
 * 33. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:33-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:33-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -743,10 +738,10 @@ a života uspokojení Boha.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:34-cs
-  :DATE-EVENT: 1993-08-24
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:34-cs
+  :date-event: 1993-08-24
   :END:
 
 #+BEGIN_VERSE
@@ -769,9 +764,9 @@ na vlnách Věčné Blaženosti.
 * Neuvěřitelné zprávy[fn:: MAHW 35-55. Následujících 21 básní bylo napsáno v červnu a srpnu 1982 na Floridě a v New Yorku.. ]
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MAHW:35e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: mahw:35e1-cs
   :END:
 
 /Následujících 21 básní bylo napsáno v červnu a srpnu 1982 na Floridě a v New Yorku./
@@ -782,10 +777,10 @@ na vlnách Věčné Blaženosti.
 * 35. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:35-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:35-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -802,10 +797,10 @@ plus, stane se moudřejší.
 * 36. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:36-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:36-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -822,10 +817,10 @@ medituje s mým srdcem.
 * 37. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:37-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:37-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -844,10 +839,10 @@ jako je mé srdce.
 * 38. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:38-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:38-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -863,10 +858,10 @@ mé duše.
 * 39. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:39-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:39-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -882,10 +877,10 @@ má nyní v duši veškerou víru.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:40-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:40-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -903,10 +898,10 @@ ze strany mé mysli.
 * 41. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:41-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:41-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -922,10 +917,10 @@ ani na letmou vteřinu.
 * 42. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:42-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:42-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -940,10 +935,10 @@ mému srdci.
 * 43. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:43-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:43-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -958,10 +953,10 @@ v prázdnotu.
 * 44. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:44-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:44-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -977,10 +972,10 @@ brát přísahu úplného ticha.
 * 45. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:45-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:45-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -997,10 +992,10 @@ nejhorším nepřítelem mé mysli.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:46-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:46-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -1019,10 +1014,10 @@ je uspokojení jednoty."
 * 47. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:47-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:47-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -1038,10 +1033,10 @@ něco zcela nového --
 * 48. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:48-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:48-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -1056,10 +1051,10 @@ nad mým starým vitálnem.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:49-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:49-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -1078,10 +1073,10 @@ mé věčně moudré duše.
 * 50. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:50-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:50-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -1098,10 +1093,10 @@ odstraňování nákladu starých problémů.
 * 51. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:51-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:51-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -1116,10 +1111,10 @@ svým minulým životem složitosti.
 * 52. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:52-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:52-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -1137,10 +1132,10 @@ a zůstat u jeho nohou navždy.
 * 53. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:53-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:53-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -1159,10 +1154,10 @@ oduševněle a bezpodmínečně.
 * 54. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:54-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:54-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -1177,10 +1172,10 @@ bázlivý dům strachu.
 * 55. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MAHW:55-cs
-  :DATE-EVENT: 1982
+  :genre: poem
+  :keywords:
+  :cite-key: mahw:55-cs
+  :date-event: 1982
   :END:
 
 #+BEGIN_VERSE
@@ -1198,14 +1193,3 @@ ke svému konečnému Cíli:
 Mému zlatomodrému Břehu Uspokojení." 
 
 #+END_VERSE
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

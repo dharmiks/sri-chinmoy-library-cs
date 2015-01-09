@@ -1,20 +1,15 @@
-#+TITLE: Můj Pane Nejvyšší, usínám
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Můj Pane Nejvyšší, usínám
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: MLSA-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2007
+  :publisher: Madal Bal
+  :cite-key: MLSA-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * 1 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:1-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:1-cs
   :END:
 
 
@@ -42,9 +37,9 @@ Dobrota znamená ,Ty jsi‘.“
 * 2 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:2-cs
   :END:
 
 
@@ -63,9 +58,9 @@ To božské v tobě potřebuje překonání.“
 * 3 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:3-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:3-cs
   :END:
 
 
@@ -89,9 +84,9 @@ odevzdání Bohu.“
 * 4 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:4-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:4-cs
   :END:
 
 
@@ -112,9 +107,9 @@ svou skutečností extáze.“
 * 5 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:5-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:5-cs
   :END:
 
 
@@ -136,9 +131,9 @@ je hlasité hučení tvé mysli.“
 * 6 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:6-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:6-cs
   :END:
 
 
@@ -160,9 +155,9 @@ jsem se rozhodl stvořit nový ráj.“
 * 7 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:7-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:7-cs
   :END:
 
 
@@ -184,9 +179,9 @@ tvé oči aspirace.“
 * 8 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:8-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:8-cs
   :END:
 
 
@@ -213,9 +208,9 @@ vždy přesahujícího Za.“
 * 9 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:9-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:9-cs
   :END:
 
 
@@ -243,9 +238,9 @@ a s láskou ti dám, co potřebuješ.“
 * 10 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:10-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:10-cs
   :END:
 
 
@@ -265,9 +260,9 @@ kde ji naučím, jak se odnaučit.“
 * 11 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:11-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:11-cs
   :END:
 
 
@@ -289,9 +284,9 @@ světla moudrosti.“
 * 12 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:12-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:12-cs
   :END:
 
 
@@ -312,9 +307,9 @@ Mě donutí plakat nanejvýš žalostně.“
 * 13 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:13-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:13-cs
   :END:
 
 
@@ -335,9 +330,9 @@ Mě donutí okamžitě zemřít.“
 * 14 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:14-cs
   :END:
 
 
@@ -356,9 +351,9 @@ mnohem víc, než si dovedeš představit.“
 * 15 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:15-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:15-cs
   :END:
 
 
@@ -385,9 +380,9 @@ tak soucitné srdce jako to tvoje?“
 * 16 Můj Pane Nejvyšší, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLSA:16-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlsa:16-cs
   :END:
 
 
@@ -471,16 +466,3 @@ Udělám pro tebe vše.
 Ty si užívej svůj sladký spánek.“
 
 #+END_VERSE
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

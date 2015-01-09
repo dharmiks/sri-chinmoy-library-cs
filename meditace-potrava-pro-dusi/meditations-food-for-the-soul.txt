@@ -1,20 +1,15 @@
-#+TITLE: Meditace: potrava pro duši
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Meditace: potrava pro duši
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :BOOK-YEAR:1998 
-  :PUBLISHER: SCC Praha
-  :CITE-KEY: MFS-cs
-  :GENRE: aphorism
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :book-year:1998 
+  :publisher: SCC Praha
+  :cite-key: MFS-cs
+  :genre: aphorism
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Leden
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MFS:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: mfs:1e1-cs
   :END:
 
 
@@ -32,9 +27,9 @@
 * 1. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:1-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:1-cs
   :END:
 
 
@@ -44,9 +39,9 @@ Tři sta šedesát pět příležitostí realizovat Nejvyššího, odhalit Nejvy
 * 2. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:2-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:2-cs
   :END:
 
 
@@ -62,9 +57,9 @@ Mohu nechat Boha, aby mě učinil tak božským a dokonalým, jako je On.
 * 3. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:3-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:3-cs
   :END:
 
 
@@ -80,9 +75,9 @@ Spolupracuji s nejčistší upřímností svého srdce.
 * 4. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:4-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:4-cs
   :END:
 
 
@@ -96,9 +91,9 @@ Smrt chce, abych se probudil a pospíšil si.
 * 5. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:5-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:5-cs
   :END:
 
 
@@ -109,9 +104,9 @@ Bůh mi sdělil nejšťastnější novinku, že mě miluje, i když se nezajím�
 * 6. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:6-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:6-cs
   :END:
 
 
@@ -134,9 +129,9 @@ nevím, kdo jsem a proč tu jsem.
 * 7. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:7-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:7-cs
   :END:
 
 
@@ -150,9 +145,9 @@ a možnost měním na nevyhnutelnost.
 * 8. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:8-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:8-cs
   :END:
 
 
@@ -166,9 +161,9 @@ Tam, kde je Naplnění, tam je Bůh, jen tam.
 * 9. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:9-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:9-cs
   :END:
 
 
@@ -182,9 +177,9 @@ Ano mluví skrze mé srdce:
 * 10. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:10-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:10-cs
   :END:
 
 
@@ -198,9 +193,9 @@ Dívám se zpět. Plýtvám časem.
 * 11. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:11-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:11-cs
   :END:
 
 
@@ -213,9 +208,9 @@ Vlastnit lidstvo znamená přivítat Mnohost.
 * 12. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:12-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:12-cs
   :END:
 
 
@@ -231,9 +226,9 @@ Hle, svět mě miluje a Bůh mi žehná.
 * 13. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:13-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:13-cs
   :END:
 
 
@@ -249,9 +244,9 @@ Nevědomost mi říká: „Klamal jsi mě.“
 * 14. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:14-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:14-cs
   :END:
 
 
@@ -265,9 +260,9 @@ Miluj Boha s pocitem, že Bůh je svět. Zvěčníš pravdu.
 * 15. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:15-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:15-cs
   :END:
 
 
@@ -284,9 +279,9 @@ ale nakonec se budu muset stát Bohem.
 * 16. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:16-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:16-cs
   :END:
 
 
@@ -298,9 +293,9 @@ Bůh poslouchá rozkaz mé sněhobílé oddanosti.
 * 17. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:17-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:17-cs
   :END:
 
 
@@ -318,9 +313,9 @@ Bůh se stává tvým Osvobozením.
 * 18. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:18-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:18-cs
   :END:
 
 
@@ -335,9 +330,9 @@ Lidská trpělivost se projevuje prostřednictvím jeho dlouho opožděné moudr
 * 19. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:19-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:19-cs
   :END:
 
 Vědění říká, že toto je správné a tamto je špatné. 
@@ -348,9 +343,9 @@ Duchovnost ztělesňuje cestu vědění a cíl moudrosti.
 * 20. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:20-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:20-cs
   :END:
 
 
@@ -362,9 +357,9 @@ Až síla lásky nahradí lásku k síle,
 * 21. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:21-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:21-cs
   :END:
 
 
@@ -385,9 +380,9 @@ Jsem nejšťastnější, protože se milujeme navzájem.
 * 22. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:22-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:22-cs
   :END:
 
 
@@ -402,9 +397,9 @@ Jak se stávám dobrým, uvědomuji si, že jsem to nebyl já, kdo se miloval, a
 * 23. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:23-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:23-cs
   :END:
 
 
@@ -421,9 +416,9 @@ Hle, můj sladký Pán je na mne hrdý.
 * 24. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:24-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:24-cs
   :END:
 
 
@@ -433,9 +428,9 @@ Někteří hledající udělají pro svou Seberealizaci cokoliv -- vyjma práce 
 * 25. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:25-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:25-cs
   :END:
 
 
@@ -448,9 +443,9 @@ Spánek mého života byl přeměněn na bdělost mé duše.
 * 26. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:26-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:26-cs
   :END:
 
 
@@ -463,9 +458,9 @@ Tvé objevování nemá konce.
 * 27. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:27-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:27-cs
   :END:
 
 
@@ -477,9 +472,9 @@ Ale chrámovými dveřmi, hlavními dveřmi, je aspirace.
 * 28. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:28-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:28-cs
   :END:
 
 
@@ -495,9 +490,9 @@ Když jsem aspiroval, Bůh řekl: „Jsi mým vybraným dítětem. Jsi mou pých
 * 29. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:29-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:29-cs
   :END:
 
 
@@ -508,9 +503,9 @@ Nechť žádného člověka nepomlouvám. Budu-li nějakého člověka pomlouvat
 * 30. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:30-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:30-cs
   :END:
 
 
@@ -523,9 +518,9 @@ Bůh myslí na člověka, protože ví, jak myslet láskyplně.
 * 31. ledna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:31-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:31-cs
   :END:
 
 
@@ -540,9 +535,9 @@ Hle, můj vždy soucitný Bůh mi žehná v mé moudrosti i v mé nevědomosti.
 * Únor
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MFS:32e2-cs
+  :genre: section
+  :keywords:
+  :cite-key: mfs:32e2-cs
   :END:
 
 
@@ -550,9 +545,9 @@ Hle, můj vždy soucitný Bůh mi žehná v mé moudrosti i v mé nevědomosti.
 * 1. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:32-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:32-cs
   :END:
 
 
@@ -568,9 +563,9 @@ Bůh mi s úsměvem řekl: „Mé dítě, nelezl jsi také mne.“
 * 2. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:33-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:33-cs
   :END:
 
 
@@ -584,9 +579,9 @@ Božskost Boha živí naši duchovnost tím, co je: záplavou soucitu Nekonečna
 * 3. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:34-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:34-cs
   :END:
 
 
@@ -601,9 +596,9 @@ Duchovnost ospravedlňuje svou činnost tím, že říká, že svět potřebuje 
 * 4. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:35-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:35-cs
   :END:
 
 
@@ -617,9 +612,9 @@ Hle, napravuje tě a zdokonaluje tě.
 * 5. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:36-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:36-cs
   :END:
 
 
@@ -634,9 +629,9 @@ Dávej jen proto, abys objevil a uvědomil si, že tobě již bylo dáno.
 * 6. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:37-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:37-cs
   :END:
 
 
@@ -650,9 +645,9 @@ Sloužím Bohu se světlem svého odevzdání.
 * 7. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:38-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:38-cs
   :END:
 
 
@@ -665,9 +660,9 @@ Jeho božská cena je absolutní Pravda jeho vnitřního Já.
 * 8. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:39-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:39-cs
   :END:
 
 
@@ -682,9 +677,9 @@ Můj pozemský neúspěch existuje právě proto,
 * 9. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:40-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:40-cs
   :END:
 
 
@@ -697,9 +692,9 @@ Popírat Boží Milost znamená růst do Tváře Zkázy.
 * 10. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:41-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:41-cs
   :END:
 
 
@@ -707,15 +702,15 @@ Popírat Boží Milost znamená růst do Tváře Zkázy.
 Bůh říká: „Skvělé, mé dítě, to je prostě skvělé. Ty spasíš svět.“
 Hle, svět v mžiku pohltí člověka a jeho pošetilou pýchu. 
 Ubohý Bůh teď musí spasit samozvaného Spasitele. 
-Svět říká Bohu: „Otče ty jsi můj Stvořitel, ty jsi můj Ochránce, ty jsi můj Přeměňovatel. Nepotřebuji žádnou lidskou pomoc. A také, modlím se, ani na mě neuvaluj žádnou lidskou pomoc.“ Bůh s úsměvem říká: „Není nic takového jako lidská pomoc. Je to pouze nejtemnější marnost lidské hlouposti.
+Svět říká Bohu: „otče ty jsi můj stvořitel, ty jsi můj ochránce, ty jsi můj přeměňovatel. nepotřebuji žádnou lidskou pomoc. a také, modlím se, ani na mě neuvaluj žádnou lidskou pomoc.“ bůh s úsměvem říká: „Není nic takového jako lidská pomoc. Je to pouze nejtemnější marnost lidské hlouposti.
 
 
 * 11. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:42-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:42-cs
   :END:
 
 
@@ -727,9 +722,9 @@ Co je odříkání? Odříkání je Bohem určená, odpoutaná a disciplinovaná
 * 12. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:43-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:43-cs
   :END:
 
 
@@ -741,9 +736,9 @@ Chci, aby můj život byl integrální a nepřetržitý, transformující mou po
 * 13. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:44-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:44-cs
   :END:
 
 
@@ -758,9 +753,9 @@ Nejlepší je sloužit nejprve Božskému a pak sloužit lidstvu.
 * 14. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:45-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:45-cs
   :END:
 
 
@@ -773,9 +768,9 @@ Inspirace Nejvyššího je mé spasení.
 * 15. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:46-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:46-cs
   :END:
 
 
@@ -791,9 +786,9 @@ Já říkám, že ztělesňuje a odhaluje Pravdu.
 * 16. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:47-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:47-cs
   :END:
 
 
@@ -807,9 +802,9 @@ Já se musím připravit k přijetí vítězství.
 * 17. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:48-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:48-cs
   :END:
 
 
@@ -819,9 +814,9 @@ ale ten, kdo cítí, že Bůh je pro někoho jiného.
 * 18. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:49-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:49-cs
   :END:
 
 
@@ -837,9 +832,9 @@ Hle, myslím bez mysli.
 * 19. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:50-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:50-cs
   :END:
 
 
@@ -852,9 +847,9 @@ Můj život je čistým osvícením, když Bůh chce zdokonalit a zdokonaluje m�
 * 20. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:51-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:51-cs
   :END:
 
 
@@ -867,9 +862,9 @@ aby můj život byl životem nesobeckého darování.
 * 21. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:52-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:52-cs
   :END:
 
 
@@ -881,9 +876,9 @@ Bůh mne vidí jako dalšího Boha.
 * 22. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:53-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:53-cs
   :END:
 
 
@@ -901,9 +896,9 @@ Já mám v Bohu svou Nejvyšší Skutečnost.
 * 23. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:54-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:54-cs
   :END:
 
 
@@ -918,9 +913,9 @@ Pro Boha jsem Jeho oddanou zárukou.
 * 24. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:55-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:55-cs
   :END:
 
 
@@ -933,9 +928,9 @@ Protože miluji Pravdu, skutečně a opravdově miluji sám sebe.
 * 25. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:56-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:56-cs
   :END:
 
 
@@ -950,9 +945,9 @@ ještě více vzájemné zasvěcení.
 * 26. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:57-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:57-cs
   :END:
 
 
@@ -963,9 +958,9 @@ Nejsem nikdy šťastný, kromě toho, když pláči -- pláči k Nejvyššímu p
 * 27. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:58-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:58-cs
   :END:
 
 
@@ -976,9 +971,9 @@ Beru si největší lekci od soucitu -- odebírá z mého života všechnu domý
 * 28. února
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:59-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:59-cs
   :END:
 
 
@@ -990,9 +985,9 @@ Ale i toto velmi málo se raději naučím od Boha.
 * Březen
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MFS:60e3-cs
+  :genre: section
+  :keywords:
+  :cite-key: mfs:60e3-cs
   :END:
 
 
@@ -1000,9 +995,9 @@ Ale i toto velmi málo se raději naučím od Boha.
 * 1. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:60-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:60-cs
   :END:
 
 
@@ -1015,9 +1010,9 @@ Mým cílem je dát to, co jsem dosud nedal: svůj dech Bohu a Boží Dech lidst
 * 2. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:61-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:61-cs
   :END:
 
 
@@ -1031,9 +1026,9 @@ Abych miloval lidstvo, potřebuji jednu věc: duši Pokory.
 * 3. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:62-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:62-cs
   :END:
 
 
@@ -1044,9 +1039,9 @@ Abych miloval lidstvo, potřebuji jednu věc: duši Pokory.
 * 4. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:63-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:63-cs
   :END:
 
 
@@ -1060,9 +1055,9 @@ Ale je to pravda. Otec a syn jsou jedním. Otec je Realizací syna. Syn je Odhal
 * 5. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:64-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:64-cs
   :END:
 
 
@@ -1076,9 +1071,9 @@ Hle, to co vidíš a cítíš je tvé Pravé Já, tvá vlastní Transcendentáln
 * 6. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:65-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:65-cs
   :END:
 
 
@@ -1090,9 +1085,9 @@ Má frustrace je násobící silou promlouvání destrukce a činu destrukce v m
 * 7. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:66-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:66-cs
   :END:
 
 
@@ -1106,9 +1101,9 @@ a stát se jedním s živoucím, rozvíjejícím se a vyvíjejícím se během �
 * 8. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:67-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:67-cs
   :END:
 
 
@@ -1122,9 +1117,9 @@ Jsi Odhalením Boha.
 * 9. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:68-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:68-cs
   :END:
 
 
@@ -1140,9 +1135,9 @@ Svou Jednotu se mnou, aby nahradila mou nevědomost.
 * 10. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:69-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:69-cs
   :END:
 
 
@@ -1158,9 +1153,9 @@ Osvobození.
 * 11. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:70-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:70-cs
   :END:
 
 
@@ -1174,9 +1169,9 @@ V mém tichu je Dech Života mé Skutečnosti.
 * 12. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:71-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:71-cs
   :END:
 
 
@@ -1194,9 +1189,9 @@ jak mohu být Pravdou.
 * 13. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:72-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:72-cs
   :END:
 
 
@@ -1209,9 +1204,9 @@ Obětování je člověkem věčnosti.
 * 14. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:73-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:73-cs
   :END:
 
 
@@ -1225,9 +1220,9 @@ jestliže chci.
 * 15. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:74-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:74-cs
   :END:
 
 
@@ -1239,9 +1234,9 @@ Získejme jich tolik, kolik chceme.
 * 16. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:75-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:75-cs
   :END:
 
 
@@ -1254,9 +1249,9 @@ Božská láska nás osvěcuje.
 * 17. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:76-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:76-cs
   :END:
 
 
@@ -1270,9 +1265,9 @@ Jednota říká: „Pak vstup do mne.“
 * 18. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:77-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:77-cs
   :END:
 
 
@@ -1288,9 +1283,9 @@ Potřebuji Boha a jen Boha abych miloval a byl milován.
 * 19. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:78-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:78-cs
   :END:
 
 
@@ -1304,9 +1299,9 @@ Tvé božské kvality jsou víra, láska, oddanost a odevzdání.
 * 20. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:79-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:79-cs
   :END:
 
 Čas mě chce tlačit do budoucnosti. 
@@ -1323,9 +1318,9 @@ Nechť pouze složím své pozemské bytí do klína Univerzálního Času.
 * 21. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:80-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:80-cs
   :END:
 
 
@@ -1337,9 +1332,9 @@ Získat Boha znamená překonat pýchu smrti a Úsměv Nesmrtelnosti.
 * 22. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:81-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:81-cs
   :END:
 
 
@@ -1354,9 +1349,9 @@ neboť je přítel všech a celý svět je jeho.
 * 23. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:82-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:82-cs
   :END:
 
 
@@ -1369,9 +1364,9 @@ Manifestace a zbožštění si jsou úměrné.
 * 24. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:83-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:83-cs
   :END:
 
 
@@ -1387,9 +1382,9 @@ Jakmile jednou budeš mít odevzdání, budeš si ho opatrovat.
 * 25. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:84-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:84-cs
   :END:
 
 
@@ -1401,9 +1396,9 @@ Meditace sytí tvé aspirující srdce.
 * 26. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:85-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:85-cs
   :END:
 
 
@@ -1417,9 +1412,9 @@ Mé ticho je nejvyšší Hrdostí Boha.
 * 27. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:86-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:86-cs
   :END:
 
 
@@ -1434,9 +1429,9 @@ Mé tělo je zodpovědné za můj usilující život.
 * 28. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:87-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:87-cs
   :END:
 
 
@@ -1450,9 +1445,9 @@ Náš vnitřní život to odhaluje.
 * 29. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:88-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:88-cs
   :END:
 
 
@@ -1466,9 +1461,9 @@ když vidím celý svět uvnitř sebe.
 * 30. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:89-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:89-cs
   :END:
 
 
@@ -1481,9 +1476,9 @@ pokud a dokud ji nenabídneš ostatním.
 * 31. března
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:90-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:90-cs
   :END:
 
 
@@ -1497,9 +1492,9 @@ a života Nesmrtelnosti zde na zemi.
 * Duben 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MFS:91e4-cs
+  :genre: section
+  :keywords:
+  :cite-key: mfs:91e4-cs
   :END:
 
 
@@ -1507,9 +1502,9 @@ a života Nesmrtelnosti zde na zemi.
 * 1. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:91-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:91-cs
   :END:
 
 
@@ -1521,9 +1516,9 @@ Duchovnost je naprosté potvrzení života a úplné popření smrti.
 * 2. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:92-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:92-cs
   :END:
 
 
@@ -1537,9 +1532,9 @@ Když odevzdám svůj život Bohu, tehdy On koná ve mě, se mnou, skrze mne a p
 * 3. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:93-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:93-cs
   :END:
 
 
@@ -1552,9 +1547,9 @@ Vidět v něm Nejvyššího znamená vidět v lidstvu rozkvétání univerzáln�
 * 4. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:94-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:94-cs
   :END:
 
 
@@ -1567,9 +1562,9 @@ Potřebuješ Jeho odpuštění a osvícení.
 * 5. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:95-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:95-cs
   :END:
 
 
@@ -1585,9 +1580,9 @@ Blaženost ustanovuje vládu našeho božsky plodného života.
 * 6. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:96-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:96-cs
   :END:
 
 
@@ -1598,9 +1593,9 @@ Není nemoudré cenit si sám sebe. Můžeš si cenit sám sebe právě proto, �
 * 7. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:97-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:97-cs
   :END:
 
 
@@ -1612,9 +1607,9 @@ Mahátma Gándhí říká: „Pro člověka s prázdným žaludkem je jídlo Boh
 * 8. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:98-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:98-cs
   :END:
 
 
@@ -1625,9 +1620,9 @@ Já vidím Nejvyššího a jen Nejvyššího v duši každého jednotlivce na Ze
 * 9. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:99-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:99-cs
   :END:
 
 
@@ -1640,9 +1635,9 @@ a vědomé jednotě mé duše s Nejvyšším.
 * 10. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:100-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:100-cs
   :END:
 
 
@@ -1652,9 +1647,9 @@ Má myšlenka proběhne škálu lidského zájmu, když učiním Boha svou jedin
 * 11. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:101-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:101-cs
   :END:
 
 
@@ -1667,9 +1662,9 @@ Mým rozhodnutím je být vždy zasvěceným dechem v naplnění Božího vesmí
 * 12. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:102-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:102-cs
   :END:
 
 
@@ -1682,9 +1677,9 @@ Vidět vždy sám sebe s usmívající se tváří a nezlomnou vůlí je trvalý
 * 13. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:103-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:103-cs
   :END:
 
 
@@ -1698,9 +1693,9 @@ svůj život zasvěcené služby a jednoty.
 * 14. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:104-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:104-cs
   :END:
 
 
@@ -1715,9 +1710,9 @@ Já jsem přijal Nový svět s vnitřní naléhavostí své duše.
 * 15. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:105-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:105-cs
   :END:
 
 
@@ -1736,9 +1731,9 @@ Oběť je neomylný pocit jednoty.
 * 16. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:106-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:106-cs
   :END:
 
 
@@ -1751,9 +1746,9 @@ než vždy oddaným služebníkem Boží Lásky a Světla.
 * 17. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:107-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:107-cs
   :END:
 
 
@@ -1766,9 +1761,9 @@ Svou Vůlí se stávám dechem svého života.
 * 18. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:108-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:108-cs
   :END:
 
 
@@ -1782,9 +1777,9 @@ Buď si jist, jsi vždy obdařen vírou.
 * 19. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:109-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:109-cs
   :END:
 
 
@@ -1795,9 +1790,9 @@ Neobávej se svých myšlenek. Používej je. Tvé myšlenky v tobě mohou vytvo
 * 20. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:110-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:110-cs
   :END:
 
 
@@ -1812,9 +1807,9 @@ Když žijeme v Tichu, cítíme, že Bůh je jen další jméno pro naše pozems
 * 21. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:111-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:111-cs
   :END:
 
 
@@ -1830,9 +1825,9 @@ Ve Vědomí, Bůh /je/.
 * 22. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:112-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:112-cs
   :END:
 
 
@@ -1843,9 +1838,9 @@ Bůh změní mou minulost, jestliže se nebudu obávat o  svou budoucnost, tu bu
 * 23. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:113-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:113-cs
   :END:
 
 
@@ -1860,9 +1855,9 @@ Vnějším jménem Boha je Sláva.
 * 24. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:114-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:114-cs
   :END:
 
 
@@ -1873,9 +1868,9 @@ Bůh stvořil pouze jedinou nemožnost v celém Svém stvoření a tou nemožnos
 * 25. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:115-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:115-cs
   :END:
 
 
@@ -1889,9 +1884,9 @@ než aby svět milovala a objímala.
 * 26. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:116-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:116-cs
   :END:
 
 
@@ -1909,9 +1904,9 @@ a současně nejvroucněji miluje lež.
 * 27. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:117-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:117-cs
   :END:
 
 
@@ -1925,9 +1920,9 @@ Hněv má jen jediného přítele: Destrukci.
 * 28. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:118-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:118-cs
   :END:
 
 
@@ -1938,9 +1933,9 @@ Dokonalá poctivost a naprostá jistota mohou být nejsnadněji a nejúčinněji
 * 29. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:119-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:119-cs
   :END:
 
 
@@ -1951,9 +1946,9 @@ Naše mysl chce ovládat tělo, ačkoliv velmi dobře ví, že láska a zájem d
 * 30. dubna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:120-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:120-cs
   :END:
 
 
@@ -1968,8 +1963,8 @@ a proto se těším z Krásy Věčné, Krásy Nekonečné a Krásy Nesmrtelné.
 * Květen
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MFS:121e5-cs
+  :genre: section
+  :cite-key: mfs:121e5-cs
   :END:
 
 
@@ -1977,9 +1972,9 @@ a proto se těším z Krásy Věčné, Krásy Nekonečné a Krásy Nesmrtelné.
 * 1. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:121-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:121-cs
   :END:
 
 
@@ -1994,9 +1989,9 @@ Intuice odhaluje dokonalou jednotu Transcendentální Vize a Skutečnosti Absolu
 * 2. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:122-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:122-cs
   :END:
 
 
@@ -2011,9 +2006,9 @@ Vidět Boha v lidské mysli znamená objevit Slávu Boha.
 * 3. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:123-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:123-cs
   :END:
 
 
@@ -2027,9 +2022,9 @@ Spontánnost je jménem mé duše.
 * 4. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:124-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:124-cs
   :END:
 
 
@@ -2044,9 +2039,9 @@ v Nektarovém proudu mé spontánnosti.
 * 5. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:125-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:125-cs
   :END:
 
 
@@ -2058,9 +2053,9 @@ Ten, kdo žije v srdci lidstva, aby v Božskosti sloužil, osvětloval, transfor
 * 6. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:126-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:126-cs
   :END:
 
 
@@ -2071,9 +2066,9 @@ Ten, kdo žije v srdci lidstva, aby v Božskosti sloužil, osvětloval, transfor
 * 7. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:127-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:127-cs
   :END:
 
 
@@ -2091,9 +2086,9 @@ Je s božskou Láskou Boha a se svým lidským strachem.
 * 8. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:128-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:128-cs
   :END:
 
 
@@ -2106,9 +2101,9 @@ a Transcendentální Blaženost jsou stále vzdáleným pláčem.
 * 9. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:129-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:129-cs
   :END:
 
 
@@ -2122,9 +2117,9 @@ Vědomí „JÁ JSEM“ odhaluje pravdu, že mé bytí a já jsme jedním.
 * 10. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:130-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:130-cs
   :END:
 
 
@@ -2137,9 +2132,9 @@ aby okusili všeposilující Blaženost.
 * 11. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:131-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:131-cs
   :END:
 
 
@@ -2149,9 +2144,9 @@ To, co sám nepoužíváš, nedávej druhým. Například rady.
 * 12. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:132-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:132-cs
   :END:
 
 
@@ -2163,9 +2158,9 @@ tvá odpověď „Ne“ je tou skutečnou odpovědí.
 * 13. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:133-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:133-cs
   :END:
 
 
@@ -2179,9 +2174,9 @@ Má duše miluje pravdu jednoduše proto, že pravda existuje.
 * 14. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:134-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:134-cs
   :END:
 
 
@@ -2199,9 +2194,9 @@ Protože On je jedinou Láskou.
 * 15. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:135-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:135-cs
   :END:
 
 
@@ -2215,9 +2210,9 @@ a tvé planoucí ideály na všenaplňující NEKONEČNOST.
 * 16. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:136-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:136-cs
   :END:
 
 
@@ -2232,9 +2227,9 @@ co neděláš.
 * 17. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:137-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:137-cs
   :END:
 
 
@@ -2252,9 +2247,9 @@ Bůh je tam, kde jsem já.
 * 18. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:138-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:138-cs
   :END:
 
 
@@ -2270,9 +2265,9 @@ a vnitřní pláč člověka pro více míru, světla a blaženosti.
 * 19. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:139-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:139-cs
   :END:
 
 
@@ -2283,9 +2278,9 @@ Je Bůh udiven naší hloupostí, neupřímností a nevědomostí? Ne. Proč? Pr
 * 20. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:140-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:140-cs
   :END:
 
 
@@ -2301,9 +2296,9 @@ Je to ta nerychlejší cesta k Osvobození.
 * 21. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:141-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:141-cs
   :END:
 
 
@@ -2320,9 +2315,9 @@ kdy v našem srdci vytryskne láska k Bohu.
 * 22. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:142-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:142-cs
   :END:
 
 
@@ -2335,9 +2330,9 @@ Musí pouze cítit a uvědomit si,
 * 23. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:143-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:143-cs
   :END:
 
 
@@ -2351,9 +2346,9 @@ A kdo je zodpovědný za tento strach?
 * 24. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:144-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:144-cs
   :END:
 
 
@@ -2366,9 +2361,9 @@ a jeho život prostý slibu.
 * 25. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:145-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:145-cs
   :END:
 
 
@@ -2378,9 +2373,9 @@ Lidská osobnost a realizace Boha spolu navzájem nemluví. NIKDY.
 * 26. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:146-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:146-cs
   :END:
 
 
@@ -2391,9 +2386,9 @@ Jen když cítíme, že Bůh /je/ a Jeho nepřítomnost není nic jiného než n
 * 27. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:147-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:147-cs
   :END:
 
 
@@ -2407,9 +2402,9 @@ Naše aspirující srdce pláče pro Boha Spasení.
 * 28. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:148-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:148-cs
   :END:
 
 
@@ -2422,9 +2417,9 @@ Ego je šálek.
 * 29. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:149-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:149-cs
   :END:
 
 
@@ -2436,9 +2431,9 @@ Uvězněná mysl se chová jako blázen, když si myslí, že může žít bez s
 * 30. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:150-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:150-cs
   :END:
 
 
@@ -2453,9 +2448,9 @@ DUŠEVNÍHO ZDRAVÍ mysli.
 * 31. května
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:151-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:151-cs
   :END:
 
 
@@ -2477,8 +2472,8 @@ Chci být stromem trpělivosti.
 * Červen
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MFS:152e6-cs
+  :genre: section
+  :cite-key: mfs:152e6-cs
   :END:
 
 
@@ -2486,9 +2481,9 @@ Chci být stromem trpělivosti.
 * 1. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:152-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:152-cs
   :END:
 
 
@@ -2503,9 +2498,9 @@ a lidská zázračná síla.
 * 2. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:153-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:153-cs
   :END:
 
 
@@ -2521,9 +2516,9 @@ Bůh ohlašuje Člověka, Světlo Nekonečna.
 * 3. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:154-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:154-cs
   :END:
 
 
@@ -2537,9 +2532,9 @@ Oddanost nese Boha do srdce člověka.
 * 4. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:155-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:155-cs
   :END:
 
 
@@ -2555,9 +2550,9 @@ Mé odhalení mi říká,
 * 5. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:156-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:156-cs
   :END:
 
 
@@ -2567,9 +2562,9 @@ Atom mě naučil, že malé věci se počítají -- /nejvíce/.
 * 6. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:157-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:157-cs
   :END:
 
 
@@ -2582,9 +2577,9 @@ Tato moudrost je zároveň příčinou a následkem mé spontánní a dušeplné
 * 7. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:158-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:158-cs
   :END:
 
 
@@ -2596,9 +2591,9 @@ Vše milující a vše objímající hojnost mé duše mě samotná může vzít
 * 8. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:159-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:159-cs
   :END:
 
 
@@ -2611,9 +2606,9 @@ když jsem o lidstvu mluvil špatně, abych potěšil Boha.
 * 9. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:160-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:160-cs
   :END:
 
 
@@ -2625,9 +2620,9 @@ Naopak, o nečistotu mého srdce dobře pečuje neustálý Soucit Boha.
 * 10. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:161-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:161-cs
   :END:
 
 
@@ -2642,9 +2637,9 @@ a přesto cítím,
 * 11. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:162-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:162-cs
   :END:
 
 
@@ -2654,9 +2649,9 @@ Jestliže si tě svět nevšímá, hanobí tě a nenávidí tě proto, že miluj
 * 12. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:163-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:163-cs
   :END:
 
 
@@ -2669,9 +2664,9 @@ A také konám proto, abych toho stejného Otce projevil na zemi.
 * 13. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:164-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:164-cs
   :END:
 
 
@@ -2682,9 +2677,9 @@ Nevyhnutelné nebezpečí odsouzení mi nezabrání v zabíjení druhých. Nevyh
 * 14. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:165-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:165-cs
   :END:
 
 
@@ -2697,9 +2692,9 @@ nebo v naprostém projevení Boha.
 * 15. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:166-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:166-cs
   :END:
 
 
@@ -2711,9 +2706,9 @@ Jóga mi říká, co jsou lidské problémy a jak mohou být vyřešeny.
 * 16. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:167-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:167-cs
   :END:
 
 
@@ -2723,9 +2718,9 @@ Nic nemůže zdokonalit a nezdokonalí vzdělání bez dokonalosti v Seberealiza
 * 17. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:168-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:168-cs
   :END:
 
 
@@ -2740,9 +2735,9 @@ Jóga a život jsou neoddělitelné tak jako Stvořitel a Jeho Stvoření.
 * 18. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:169-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:169-cs
   :END:
 
 
@@ -2757,9 +2752,9 @@ Dnešní fyzický svět je bez duchovnosti zbytečný.
 * 19. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:170-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:170-cs
   :END:
 
 
@@ -2776,9 +2771,9 @@ V mžiku si uvědomíme,
 * 20. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:171-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:171-cs
   :END:
 
 
@@ -2791,9 +2786,9 @@ Sebedokonalost je následována absolutním projevením Boha.
 * 21. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:172-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:172-cs
   :END:
 
 
@@ -2806,9 +2801,9 @@ To musíš nazývat praktickou zkušeností.
 * 22. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:173-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:173-cs
   :END:
 
 
@@ -2821,9 +2816,9 @@ Miluji ho, a právě proto, že ho miluji, nechci, aby vstoupil do hlubší nev�
 * 23. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:174-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:174-cs
   :END:
 
 
@@ -2836,9 +2831,9 @@ Také mne inspirují, abych zdokonalil svou nedokonalou přirozenost.
 * 24. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:175-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:175-cs
   :END:
 
 
@@ -2849,9 +2844,9 @@ Když dávám almužnu, dovolím své levé ruce, aby věděla, co dělá má pr
 * 25. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:176-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:176-cs
   :END:
 
 
@@ -2863,9 +2858,9 @@ Modlím se v chrámech, kostelech, synagogách, na ulicích a v restauracích ne
 * 26. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:177-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:177-cs
   :END:
 
 
@@ -2879,9 +2874,9 @@ když opakuji jeho jméno.
 * 27. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:178-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:178-cs
   :END:
 
 
@@ -2894,9 +2889,9 @@ ale proto, že mému soudu nutně musí chybět vnitřní uspokojení a čistá 
 * 28. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:179-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:179-cs
   :END:
 
 
@@ -2908,9 +2903,9 @@ Boží Soucit, jedině Boží Soucit.
 * 29. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:180-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:180-cs
   :END:
 
 
@@ -2923,9 +2918,9 @@ Když mé duchovní děti dělají něco špatně, cítím, že jsem to já, kdo
 * 30. června
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:181-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:181-cs
   :END:
 
 
@@ -2938,8 +2933,8 @@ Autor je skutečným čtenářem myšlenek. Ukradl tajemství, ale ne posvátnou
 * Červenec
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MFS:182e7-cs
+  :genre: section
+  :cite-key: mfs:182e7-cs
   :END:
 
 
@@ -2947,9 +2942,9 @@ Autor je skutečným čtenářem myšlenek. Ukradl tajemství, ale ne posvátnou
 * 1. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:182-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:182-cs
   :END:
 
 
@@ -2961,9 +2956,9 @@ Chce vést člověka skrze objetí.
 * 2. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:183-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:183-cs
   :END:
 
 
@@ -2977,9 +2972,9 @@ Hle, můj spontánní pláč mě nese k Němu.
 * 3. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:184-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:184-cs
   :END:
 
 
@@ -2991,9 +2986,9 @@ Odříkání je objetím všenaplňujícího světla svobody.
 * 4. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:185-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:185-cs
   :END:
 
 
@@ -3006,9 +3001,9 @@ zlo kráčí ve šlépějích dobra.
 * 5. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:186-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:186-cs
   :END:
 
 
@@ -3019,9 +3014,9 @@ Můj student ke mně přišel a řekl, že spáchal osudný hřích. Také se mo
 * 6. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:187-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:187-cs
   :END:
 
 
@@ -3034,9 +3029,9 @@ Zlo tě brzo opustí, neboť zlo na dobro nesmírně žárlí.
 * 7. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:188-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:188-cs
   :END:
 
 
@@ -3049,9 +3044,9 @@ a končí v plné obnaženosti pravdy.
 * 8. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:189-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:189-cs
   :END:
 
 
@@ -3063,9 +3058,9 @@ Ve svém neustálém prožitku duše dokážu zabít a zabiji všechna nebezpeč
 * 9. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:190-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:190-cs
   :END:
 
 
@@ -3078,9 +3073,9 @@ co jsem se zcela nabídl Boží Vůli.
 * 10. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:191-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:191-cs
   :END:
 
 
@@ -3093,9 +3088,9 @@ ve mně nachází dokonalou dokonalost.
 * 11. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:192-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:192-cs
   :END:
 
 
@@ -3108,9 +3103,9 @@ a zkušenost hlouposti svého těla.
 * 12. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:193-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:193-cs
   :END:
 
 
@@ -3125,9 +3120,9 @@ a Soucit Božího Srdce.
 * 13. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:194-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:194-cs
   :END:
 
 
@@ -3138,9 +3133,9 @@ V mé činnosti je Boží zodpovědnost.
 * 14. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:195-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:195-cs
   :END:
 
 
@@ -3151,9 +3146,9 @@ Bůh je vždy dychtivý podělit se se mnou o to, co má -- Nekonečnost, Věčn
 * 15. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:196-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:196-cs
   :END:
 
 
@@ -3168,9 +3163,9 @@ Přeměním ji na svůj ráj.
 * 16. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:197-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:197-cs
   :END:
 
 
@@ -3182,9 +3177,9 @@ Bůh nás miluje, protože Jeho srdce ho přinutilo nedělat nic jiného než n�
 * 17. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:198-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:198-cs
   :END:
 
 
@@ -3196,9 +3191,9 @@ Je to vnitřní stav vědomí, který cítí čistou radost ve svém vyjádřen�
 * 18. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:199-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:199-cs
   :END:
 
 
@@ -3212,9 +3207,9 @@ protože jsem dušeplně pokorný.
 * 19. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:200-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:200-cs
   :END:
 
 
@@ -3225,9 +3220,9 @@ Ale láska je zákonem.
 * 20. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:201-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:201-cs
   :END:
 
 
@@ -3238,9 +3233,9 @@ Ale pravda je krásou.
 * 21. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:202-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:202-cs
   :END:
 
 
@@ -3252,9 +3247,9 @@ Ale Bůh je Milostí.
 * 22. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:203-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:203-cs
   :END:
 
 
@@ -3266,9 +3261,9 @@ Ale člověk je nevědomostí.
 * 23. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:204-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:204-cs
   :END:
 
 
@@ -3280,9 +3275,9 @@ kdokoliv se může odvážit být mým pánem.
 * 24. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:205-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:205-cs
   :END:
 
 
@@ -3296,9 +3291,9 @@ Bůh chce, abych byl svobodný od všeho.
 * 25. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:206-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:206-cs
   :END:
 
 
@@ -3312,9 +3307,9 @@ která hledá pouze Boha.
 * 26. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:207-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:207-cs
   :END:
 
 
@@ -3326,9 +3321,9 @@ Miluji Boha, protože jen Bůh ví a říká mi,
 * 27. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:208-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:208-cs
   :END:
 
 
@@ -3342,9 +3337,9 @@ Po té, co bude Nekonečné vlastnit, si uvědomí,
 * 28. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:209-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:209-cs
   :END:
 
 
@@ -3356,9 +3351,9 @@ Neporozumět Pravdě znamená zmařit Pravdu.
 * 29. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:210-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:210-cs
   :END:
 
 
@@ -3370,9 +3365,9 @@ Miluj Božské a pak dělej cokoliv, co Božské chce, abys dělal.
 * 30. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:211-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:211-cs
   :END:
 
 
@@ -3386,9 +3381,9 @@ Lidstvo nám slouží se svým zasvěceným pocitem jednoty.
 * 31. července
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:212-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:212-cs
   :END:
 
 
@@ -3402,8 +3397,8 @@ Mám vše a jsem ve všem.
 * Srpen
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MFS:213e8-cs
+  :genre: section
+  :cite-key: mfs:213e8-cs
   :END:
 
 
@@ -3411,9 +3406,9 @@ Mám vše a jsem ve všem.
 * 1. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:213-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:213-cs
   :END:
 
 
@@ -3425,9 +3420,9 @@ Své plačící tělo nabízím Zájmu svého Boha.
 * 2. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:214-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:214-cs
   :END:
 
 
@@ -3440,9 +3435,9 @@ potřebuji aspiraci a meditaci.
 * 3. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:215-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:215-cs
   :END:
 
 
@@ -3456,9 +3451,9 @@ když miluji život světa.
 * 4. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:216-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:216-cs
   :END:
 
 
@@ -3471,9 +3466,9 @@ Je moudrostí světla naší duše.
 * 5. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:217-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:217-cs
   :END:
 
 
@@ -3490,9 +3485,9 @@ K mému největšímu překvapení Bůh řekl,
 * 6. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:218-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:218-cs
   :END:
 
 
@@ -3502,9 +3497,9 @@ Odevzdání se Boží Vůli je nejvyšším uvědoměním si naší skryté síl
 * 7. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:219-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:219-cs
   :END:
 
 
@@ -3518,9 +3513,9 @@ To probudí tvé dušeplné, duchovní vědomí.
 * 8. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:220-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:220-cs
   :END:
 
 
@@ -3533,9 +3528,9 @@ Jeho růst je dokonale rozvinut v odevzdání.
 * 9. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:221-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:221-cs
   :END:
 
 
@@ -3548,9 +3543,9 @@ Odevzdání násobí dokonalost.
 * 10. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:222-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:222-cs
   :END:
 
 
@@ -3562,9 +3557,9 @@ Tato dokonalá dokonalost neomezuje ani není omezena pozemskými či nebeským 
 * 11. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:223-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:223-cs
   :END:
 
 
@@ -3576,9 +3571,9 @@ pak od Boha přichází osvobození.
 * 12. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:224-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:224-cs
   :END:
 
 
@@ -3590,9 +3585,9 @@ a oslabuje svazek blízkosti a jednoty člověka s Bohem.
 * 13. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:225-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:225-cs
   :END:
 
 
@@ -3605,9 +3600,9 @@ Své zodpovědnosti jsem nabídl Bohu.
 * 14. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:226-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:226-cs
   :END:
 
 
@@ -3619,9 +3614,9 @@ Zodpovědnost je možností příležitosti vrcholící v nevyhnutelném napln�
 * 15. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:227-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:227-cs
   :END:
 
 
@@ -3636,9 +3631,9 @@ Můžeš ji mít pouze tím,
 * 16. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:228-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:228-cs
   :END:
 
 
@@ -3651,9 +3646,9 @@ ve kterém leží pravé lidské naplnění.
 * 17. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:229-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:229-cs
   :END:
 
 
@@ -3666,9 +3661,9 @@ Duše potřebuje tichý rozhovor.
 * 18. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:230-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:230-cs
   :END:
 
 
@@ -3682,9 +3677,9 @@ Bůh Soucit, Bůh Zájem a Bůh Dokonalost.
 * 19. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:231-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:231-cs
   :END:
 
 
@@ -3696,9 +3691,9 @@ Bůh je to ”já jsem” v člověku.
 * 20. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:232-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:232-cs
   :END:
 
 
@@ -3710,9 +3705,9 @@ Smrt je překážka.
 * 21. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:233-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:233-cs
   :END:
 
 
@@ -3726,9 +3721,9 @@ Bůh s celou Svou slávou bude navždy tvůj.
 * 22. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:234-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:234-cs
   :END:
 
 
@@ -3741,9 +3736,9 @@ Obětí Boha je Jeho Soucit.
 * 23. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:235-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:235-cs
   :END:
 
 
@@ -3756,9 +3751,9 @@ Jednota je jazykem božskosti.
 * 24. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:236-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:236-cs
   :END:
 
 
@@ -3773,9 +3768,9 @@ Můžeme se osvobodit z toho, že žijeme poloviční život.
 * 25. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:237-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:237-cs
   :END:
 
 
@@ -3788,9 +3783,9 @@ Mysticismus je také vnějším vyjádřením vnitřního proudění života čl
 * 26. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:238-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:238-cs
   :END:
 
 
@@ -3804,9 +3799,9 @@ To, co má Bůh je neselhávající Láska.
 * 27. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:239-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:239-cs
   :END:
 
 
@@ -3819,9 +3814,9 @@ Je pouze jedna pravda a tato pravda se nazývá naplnění v sebenabízení.”
 * 28. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:240-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:240-cs
   :END:
 
 
@@ -3835,9 +3830,9 @@ Já naplním tvůj život svým světem zářící oběti.
 * 29. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:241-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:241-cs
   :END:
 
 
@@ -3851,9 +3846,9 @@ Realizací pozítří.
 * 30. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:242-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:242-cs
   :END:
 
 
@@ -3867,9 +3862,9 @@ V životě se mystika rozvíjí do jistoty.
 * 31. srpna
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:243-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:243-cs
   :END:
 
 
@@ -3884,8 +3879,8 @@ Změněn navždy.
 * Září
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MFS:244e9-cs
+  :genre: section
+  :cite-key: mfs:244e9-cs
   :END:
 
 
@@ -3893,9 +3888,9 @@ Změněn navždy.
 * 1. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:244-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:244-cs
   :END:
 
 
@@ -3906,9 +3901,9 @@ Je pouze jedna beznadějná úloha a tou úlohou je snažit se pochopit tajemstv
 * 2. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:245-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:245-cs
   :END:
 
 
@@ -3919,9 +3914,9 @@ Není špatné se ptát. Ale tázající se mysl musí být ochotna se odevzdat 
 * 3. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:246-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:246-cs
   :END:
 
 
@@ -3933,9 +3928,9 @@ Budu mít něco navíc, čím se stát a být.
 * 4. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:247-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:247-cs
   :END:
 
 
@@ -3947,9 +3942,9 @@ a pravda je dechem blaženosti.
 * 5. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:248-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:248-cs
   :END:
 
 
@@ -3962,9 +3957,9 @@ Naše duše pouze miluje oddaně a věčně.
 * 6. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:249-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:249-cs
   :END:
 
 
@@ -3978,9 +3973,9 @@ Mé vrůstání do pravdy je nejjistějším faktem mého života.
 * 7. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:250-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:250-cs
   :END:
 
 
@@ -3993,9 +3988,9 @@ je nepochybně pravou vlastí duše.
 * 8. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:251-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:251-cs
   :END:
 
 
@@ -4007,9 +4002,9 @@ Na rozdíl od říše Vůle, je říše myšlenky v našem denním životě nej
 * 9. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:252-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:252-cs
   :END:
 
 
@@ -4023,9 +4018,9 @@ Pověst je tvůj vytoužený cíl.
 * 10. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:253-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:253-cs
   :END:
 
 
@@ -4036,9 +4031,9 @@ Ideálním životem je život oběti. V oběti samotné leží pravé naplněn�
 * 11. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:254-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:254-cs
   :END:
 
 
@@ -4050,9 +4045,9 @@ Bůh říká: ”Jsem v samotném tvém dechu a nikde jinde.”
 * 12. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:255-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:255-cs
   :END:
 
 
@@ -4067,9 +4062,9 @@ Vždy.
 * 13. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:256-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:256-cs
   :END:
 
 
@@ -4080,9 +4075,9 @@ Když vidíme přírodu lidským okem, vidíme přírodu jako neuspokojivé vyj�
 * 14. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:257-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:257-cs
   :END:
 
 
@@ -4094,9 +4089,9 @@ Je již mučen, protože je pro něj těžké komukoliv věřit.
 * 15. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:258-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:258-cs
   :END:
 
 
@@ -4107,9 +4102,9 @@ Je a může být pouze jediná definice dnešního člověka: ”Člověk Bůh z
 * 16. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:259-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:259-cs
   :END:
 
 
@@ -4123,9 +4118,9 @@ a ve vnějším světě nesmrtelným.
 * 17. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:260-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:260-cs
   :END:
 
 
@@ -4139,9 +4134,9 @@ Ačkoliv je Bůh všepřesahující, dostává radost z toho,
 * 18. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:261-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:261-cs
   :END:
 
 
@@ -4153,9 +4148,9 @@ Osobnost dám já Jemu v okamžiku své smrti.
 * 19. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:262-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:262-cs
   :END:
 
 
@@ -4168,9 +4163,9 @@ Transformace mé přirozenosti je nejvznešenějším ujištěním Boha.
 * 20. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:263-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:263-cs
   :END:
 
 
@@ -4184,9 +4179,9 @@ Nevědomost mě pohlcuje, když říkám,
 * 21. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:264-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:264-cs
   :END:
 
 
@@ -4202,9 +4197,9 @@ Nevyhnutelnost létá.
 * 22. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:265-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:265-cs
   :END:
 
 
@@ -4218,9 +4213,9 @@ V jistotě člověka je Boží Skutečnost.
 * 23. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:266-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:266-cs
   :END:
 
 
@@ -4233,9 +4228,9 @@ a Boží láska k člověku.
 * 24. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:267-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:267-cs
   :END:
 
 
@@ -4252,9 +4247,9 @@ Co více potřebuji dodat ke své slávě, hrdosti, dosažení a naplnění?
 * 25. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:268-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:268-cs
   :END:
 
 
@@ -4268,9 +4263,9 @@ Můj Bůh již pro mne vše udělal tím,
 * 26. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:269-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:269-cs
   :END:
 
 
@@ -4283,9 +4278,9 @@ okamžitě spatřím,
 * 27. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:270-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:270-cs
   :END:
 
 
@@ -4300,9 +4295,9 @@ Ale nemohu očekávat, že budu omlouván provždy.
 * 28. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:271-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:271-cs
   :END:
 
 
@@ -4315,9 +4310,9 @@ Ve světě Boha mám svou vlastní místnost: ”Vděčnost.”
 * 29. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:272-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:272-cs
   :END:
 
 
@@ -4332,9 +4327,9 @@ a dokonalé projevení Boha v průběhu stávání se.
 * 30. září
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:273-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:273-cs
   :END:
 
 
@@ -4348,9 +4343,9 @@ Ty mi dáváš pouze jedinou věc: sílu odevzdání.
 * Říjen
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MFS:274e10-cs
+  :genre: section
+  :keywords:
+  :cite-key: mfs:274e10-cs
   :END:
 
 
@@ -4358,9 +4353,9 @@ Ty mi dáváš pouze jedinou věc: sílu odevzdání.
 * 1. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:274-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:274-cs
   :END:
 
 
@@ -4373,9 +4368,9 @@ Pokora je příležitostí něčím být.
 * 2. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:275-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:275-cs
   :END:
 
 
@@ -4387,9 +4382,9 @@ Hle, Bůh se na tebe usmívá a máš všechny důvody očekávat věčnou Rados
 * 3. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:276-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:276-cs
   :END:
 
 
@@ -4401,9 +4396,9 @@ Pochyby jsou srdečním selháním aspirace.
 * 4. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:277-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:277-cs
   :END:
 
 
@@ -4417,9 +4412,9 @@ Znamená to, že jsem dnes nekonečně moudřejší, než jsem byl včera.
 * 5. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:278-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:278-cs
   :END:
 
 
@@ -4432,9 +4427,9 @@ se kterým se budu muset postavit před svět.
 * 6. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:279-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:279-cs
   :END:
 
 
@@ -4447,9 +4442,9 @@ ale i v Dechu Svého Života.
 * 7. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:280-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:280-cs
   :END:
 
 
@@ -4469,9 +4464,9 @@ Hle, tvůj život roste do Boží nejvyšší hrdosti.
 * 8. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:281-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:281-cs
   :END:
 
 
@@ -4484,9 +4479,9 @@ Mezi realizací a odhalením vol obojí.
 * 9. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:282-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:282-cs
   :END:
 
 
@@ -4500,9 +4495,9 @@ Buď opatrný!
 * 10. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:283-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:283-cs
   :END:
 
 
@@ -4516,9 +4511,9 @@ je mou jedinou předností.
 * 11. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:284-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:284-cs
   :END:
 
 
@@ -4532,9 +4527,9 @@ co jsme si uvědomili,
 * 12. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:285-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:285-cs
   :END:
 
 
@@ -4548,9 +4543,9 @@ spřátel se s božskostí.
 * 13. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:286-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:286-cs
   :END:
 
 
@@ -4567,9 +4562,9 @@ musíme být oduševněle vědomí, dbalí a opatrní.
 * 14. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:287-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:287-cs
   :END:
 
 
@@ -4583,9 +4578,9 @@ Tato evoluce je vlastní evolucí Boha ve mně a skrze mě.
 * 15. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:288-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:288-cs
   :END:
 
 
@@ -4596,9 +4591,9 @@ K tvému velkému překvapení tě polapí oni svou zdlouhavou nevědomostí.
 * 16. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:289-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:289-cs
   :END:
 
 
@@ -4612,9 +4607,9 @@ a božskost sousedí s lidstvem.
 * 17. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:290-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:290-cs
   :END:
 
 
@@ -4628,9 +4623,9 @@ tentýž Sen a Skutečnost.
 * 18. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:291-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:291-cs
   :END:
 
 
@@ -4644,9 +4639,9 @@ Bůh je Pravda.
 * 19. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:292-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:292-cs
   :END:
 
 
@@ -4660,9 +4655,9 @@ Bůh je činností v člověku.
 * 20. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:293-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:293-cs
   :END:
 
 
@@ -4676,9 +4671,9 @@ Když jsem v těle, mé stáří určuje kalendář.
 * 21. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:294-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:294-cs
   :END:
 
 
@@ -4695,9 +4690,9 @@ Nakonec budeš překvapen objevem,
 * 22. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:295-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:295-cs
   :END:
 
 
@@ -4711,9 +4706,9 @@ pak nabídni všechno své ticho.
 * 23. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:296-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:296-cs
   :END:
 
 
@@ -4726,9 +4721,9 @@ Má učitelka Zkušenost mě vlídně naučila tuto pravdu.
 * 24. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:297-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:297-cs
   :END:
 
 
@@ -4741,9 +4736,9 @@ Láska říká: „Činnost je nejsnadnější.“
 * 25. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:298-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:298-cs
   :END:
 
 
@@ -4757,9 +4752,9 @@ Já mu říkám, že je mým jediným CÍLEM.
 * 26. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:299-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:299-cs
   :END:
 
 
@@ -4773,9 +4768,9 @@ když chci milovat svět.
 * 27. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:300-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:300-cs
   :END:
 
 
@@ -4790,9 +4785,9 @@ musí mít alespoň nějakou víru v nevědomost.
 * 28. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:301-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:301-cs
   :END:
 
 
@@ -4810,9 +4805,9 @@ Svět cítil, že to není dost,
 * 29. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:302-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:302-cs
   :END:
 
 
@@ -4825,9 +4820,9 @@ a že nepotřebuji Boha.
 * 30. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:303-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:303-cs
   :END:
 
 
@@ -4841,9 +4836,9 @@ Aspirace je blázen, když si myslí,
 * 31. října
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:304-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:304-cs
   :END:
 
 
@@ -4857,9 +4852,9 @@ co Nejvyšší chce, abys dělal.
 * Listopad
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MFS:305e11-cs
+  :genre: section
+  :keywords:
+  :cite-key: mfs:305e11-cs
   :END:
 
 
@@ -4867,9 +4862,9 @@ co Nejvyšší chce, abys dělal.
 * 1. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:305-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:305-cs
   :END:
 
 
@@ -4881,9 +4876,9 @@ Aspirace musí poslouchat.
 * 2. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:306-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:306-cs
   :END:
 
 
@@ -4896,9 +4891,9 @@ a realizace je projevením.
 * 3. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:307-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:307-cs
   :END:
 
 
@@ -4911,9 +4906,9 @@ bezpodmínečnému odevzdání před svými vytouženými a slavnými dosažení
 * 4. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:308-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:308-cs
   :END:
 
 
@@ -4924,9 +4919,9 @@ je jeho spontánně oduševnělé oceňování.
 * 5. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:309-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:309-cs
   :END:
 
 
@@ -4938,9 +4933,9 @@ a musí spolu žít navěky.
 * 6. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:310-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:310-cs
   :END:
 
 
@@ -4952,9 +4947,9 @@ pak můžeš nanejvýš mocně vysílat sám sebe k Bohu.
 * 7. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:311-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:311-cs
   :END:
 
 
@@ -4967,9 +4962,9 @@ Když obětuješ to, co máš, staneš se tím, čím je Bůh.
 * 8. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:312-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:312-cs
   :END:
 
 
@@ -4988,9 +4983,9 @@ pak řekni světu,
 * 9. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:313-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:313-cs
   :END:
 
 
@@ -5002,9 +4997,9 @@ Podstatou mé božské Individuality je Bůh, věčně Milovaný.
 * 10. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:314-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:314-cs
   :END:
 
 
@@ -5019,9 +5014,9 @@ a nechat ji přeměnit na božské poznání.
 * 11. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:315-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:315-cs
   :END:
 
 
@@ -5035,9 +5030,9 @@ Projevení naplňuje Pravdu.
 * 12. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:316-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:316-cs
   :END:
 
 
@@ -5049,9 +5044,9 @@ ale myslet stále na vnitřní sílu člověka je nekonečně lepší.
 * 13. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:317-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:317-cs
   :END:
 
 
@@ -5065,9 +5060,9 @@ a dá ti rychlejší a lepší výsledky.
 * 14. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:318-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:318-cs
   :END:
 
 
@@ -5078,9 +5073,9 @@ ale božský důraz je na míru.
 * 15. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:319-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:319-cs
   :END:
 
 
@@ -5094,9 +5089,9 @@ ba jen při vzácných příležitostech.
 * 16. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:320-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:320-cs
   :END:
 
 
@@ -5108,9 +5103,9 @@ Aspirující osoba dosahuje podle toho, čemu věří.
 * 17. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:321-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:321-cs
   :END:
 
 
@@ -5125,9 +5120,9 @@ než jsi dosud udělal.
 * 18. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:322-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:322-cs
   :END:
 
 
@@ -5144,9 +5139,9 @@ a ty, co plní sliby.
 * 19. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:323-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:323-cs
   :END:
 
 
@@ -5158,9 +5153,9 @@ Neaspirující duše miluje Boha pro to, o čem si myslí, že Bůh má.
 * 20. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:324-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:324-cs
   :END:
 
 
@@ -5174,9 +5169,9 @@ Neomylně bude potvrzovat tvé četné ctnosti.
 * 21. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:325-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:325-cs
   :END:
 
 
@@ -5190,9 +5185,9 @@ je jistě nebezpečným přepychem.
 * 22. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:326-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:326-cs
   :END:
 
 
@@ -5206,9 +5201,9 @@ než si nevědomost bere od něj.
 * 23. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:327-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:327-cs
   :END:
 
 
@@ -5221,9 +5216,9 @@ Neupřímný člověk je více neupřímný, než si myslí.
 * 24. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:328-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:328-cs
   :END:
 
 
@@ -5237,9 +5232,9 @@ Má duše miluje mé vitálno pro to, co může být.
 * 25. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:329-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:329-cs
   :END:
 
 
@@ -5253,9 +5248,9 @@ Pokora ztracena, celý tvůj vnitřní svět je ztracen.
 * 26. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:330-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:330-cs
   :END:
 
 
@@ -5268,9 +5263,9 @@ než jsme se dostali na cestu meditace.
 * 27. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:331-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:331-cs
   :END:
 
 
@@ -5282,9 +5277,9 @@ a měj pod kontrolou svou upřímnost.
 * 28. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:332-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:332-cs
   :END:
 
 
@@ -5299,9 +5294,9 @@ a svou usmívající se a soucitnou tvář neupřímným žákům.
 * 29. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:333-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:333-cs
   :END:
 
 
@@ -5314,9 +5309,9 @@ a srdce nesmí s radostí pomlouvat mysl.
 * 30. listopadu
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:334-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:334-cs
   :END:
 
 
@@ -5331,9 +5326,9 @@ Lidstvo tě bude uctívat a Božské tě bude opatrovat.
 * Prosinec
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MFS:335e12-cs
+  :genre: section
+  :keywords:
+  :cite-key: mfs:335e12-cs
   :END:
 
 
@@ -5341,9 +5336,9 @@ Lidstvo tě bude uctívat a Božské tě bude opatrovat.
 * 1. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:335-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:335-cs
   :END:
 
 
@@ -5357,9 +5352,9 @@ mám svobodnou volbu.
 * 2. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:336-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:336-cs
   :END:
 
 
@@ -5372,9 +5367,9 @@ Krása ve vnitřním světě je dokonalým uvědoměním si vlastní božské Sk
 * 3. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:337-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:337-cs
   :END:
 
 
@@ -5387,9 +5382,9 @@ Upřímnost pozoruje pravdu.
 * 4. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:338-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:338-cs
   :END:
 
 
@@ -5409,9 +5404,9 @@ co jsi pro něj neudělal.
 * 5. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:339-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:339-cs
   :END:
 
 
@@ -5431,9 +5426,9 @@ podruhé, když říká,
 * 6. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:340-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:340-cs
   :END:
 
 
@@ -5447,9 +5442,9 @@ Staneš se nejjistějším člověkem.
 * 7. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:341-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:341-cs
   :END:
 
 
@@ -5465,9 +5460,9 @@ je Boží nejhlubší požehnané uspokojení.
 * 8. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:342-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:342-cs
   :END:
 
 
@@ -5483,9 +5478,9 @@ ale výtka je to, co dostaneš.
 * 9. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:343-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:343-cs
   :END:
 
 
@@ -5496,9 +5491,9 @@ protože má tak málo vnějšího soupeření.
 * 10. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:344-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:344-cs
   :END:
 
 
@@ -5511,9 +5506,9 @@ Když miluji Boha, stěžuji si na svou jistou neupřímnost.
 * 11. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:345-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:345-cs
   :END:
 
 
@@ -5525,9 +5520,9 @@ Slunce Poznání živí naše nekonečné potřeby.
 * 12. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:346-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:346-cs
   :END:
 
 
@@ -5541,9 +5536,9 @@ i když požehnané příležitosti klepou přímo na jeho dveře.
 * 13. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:347-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:347-cs
   :END:
 
 
@@ -5559,9 +5554,9 @@ ani když to nezbytnost vyžaduje.
 * 14. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:348-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:348-cs
   :END:
 
 
@@ -5575,9 +5570,9 @@ pak buď ujištěn,
 * 15. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:349-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:349-cs
   :END:
 
 
@@ -5594,9 +5589,9 @@ nevědomost.
 * 16. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:350-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:350-cs
   :END:
 
 
@@ -5608,9 +5603,9 @@ Zeptal jsem se Boha, co hledá.
 * 17. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:351-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:351-cs
   :END:
 
 
@@ -5624,9 +5619,9 @@ když je duše jistá.
 * 18. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:352-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:352-cs
   :END:
 
 
@@ -5638,9 +5633,9 @@ Duchovní rodiče je vědomě vrací Bohu.
 * 19. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:353-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:353-cs
   :END:
 
 
@@ -5653,9 +5648,9 @@ musí nutně hladovět.
 * 20. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:354-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:354-cs
   :END:
 
 
@@ -5668,9 +5663,9 @@ a kupuji ho zpět, když žiji ve světle trpělivosti.
 * 21. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:355-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:355-cs
   :END:
 
 
@@ -5682,9 +5677,9 @@ Dokonce i bývalý prezident Spojených států je tím, co „už bylo". Jestli
 * 22. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:356-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:356-cs
   :END:
 
 
@@ -5703,9 +5698,9 @@ Tvá duše má sílu zaplavit tvé srdce nekonečnou Radostí."
 * 23. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:357-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:357-cs
   :END:
 
 
@@ -5716,9 +5711,9 @@ Intelektuální diskuse byla dobrá a užitečná předtím, než jste vstoupili
 * 24. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:358-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:358-cs
   :END:
 
 
@@ -5734,9 +5729,9 @@ Zbavil jsem svůj život problémů.
 * 25. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:359-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:359-cs
   :END:
 
 
@@ -5750,9 +5745,9 @@ Od té doby Pravda žije a dýchá na zemi.
 * 26. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:360-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:360-cs
   :END:
 
 
@@ -5764,9 +5759,9 @@ Největší byla Jeho oběť.
 * 27. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:361-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:361-cs
   :END:
 
 
@@ -5777,9 +5772,9 @@ Při Jeho ukřižování Jej svět realizoval poprvé.
 * 28. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:362-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:362-cs
   :END:
 
 
@@ -5792,9 +5787,9 @@ co rty Svého Syna hodlal říci.
 * 29. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:363-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:363-cs
   :END:
 
 
@@ -5812,9 +5807,9 @@ a vykonavatelem Své Nekonečné Milosti.
 * 30. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:364-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:364-cs
   :END:
 
 
@@ -5827,9 +5822,9 @@ Nevědomost mého života končí.
 * 31. prosince
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MFS:365-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: mfs:365-cs
   :END:
 
 
@@ -5837,17 +5832,3 @@ Rok skončil.
 Úloha mého malého „já" konečně skončila. 
 Můj Nejvyšší mě teď učí, 
 jak se usmívat Jeho všepřesahujícím Úsměvem. 
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

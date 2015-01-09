@@ -1,20 +1,15 @@
-#+TITLE: Žákovská síla lásky
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Žákovská síla lásky
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2014
-  :PUBLISHER: (knižně nevydáno)
-  :CITE-KEY: DSLP-cs
-  :GENRE: story
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2014
+  :publisher: (knižně nevydáno)
+  :cite-key: DSLP-cs
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Bílá lež
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DSLP:1-cs
+  :genre: story
+  :keywords:
+  :cite-key: dslp:1-cs
   :END:
 
 
@@ -44,7 +39,7 @@ Když své matce popravdě řekneš ‚mami, místo do kostela chodím do centra
 
 „Ale pokud je to jen trochu možné, neměli bychom říkat pravdu?” zeptala se dívka. 
 
-Mistr odpověděl: „Když své matce řekneš pravdu, nebudeš moci chodit do centra a nebudeš moci dělat pokrok způsobem, kterým tvá duše chce. Co je důležitější: naslouchat své vnitřní bytosti, pláči svého srdce, nebo poslouchat matku? V situaci jako je tato, musíme tzv. běžnou pravdu přesáhnout; jinak pro tebe bude nesmírně obtížné učinit jakýkoli pokrok. Ale jestli je tvá matka také duchovní a řekne, že je na tobě, jestli budeš chodit do kostela nebo do centra, pak vůbec nemusíš lhát. Můžeš a měla bys své matce říct pravdu. 
+Mistr odpověděl: „když své matce řekneš pravdu, nebudeš moci chodit do centra a nebudeš moci dělat pokrok způsobem, kterým tvá duše chce. co je důležitější: naslouchat své vnitřní bytosti, pláči svého srdce, nebo poslouchat matku? V situaci jako je tato, musíme tzv. běžnou pravdu přesáhnout; jinak pro tebe bude nesmírně obtížné učinit jakýkoli pokrok. Ale jestli je tvá matka také duchovní a řekne, že je na tobě, jestli budeš chodit do kostela nebo do centra, pak vůbec nemusíš lhát. Můžeš a měla bys své matce říct pravdu. 
 
 Připodobním ti to-- jeden muž pronásleduje druhého s nožem a snaží se jej zabít. Pronásledovaný muž se ukryje v něčím domě. Když tam člověk s nožem dorazí, zeptá se majitele domu, jestli se tam oběť ukryla. Co může majitel dělat? Když řekne ‚ano‘, pak muž s nožem toho druhého určitě zabije. Ale když řekne ‚ne, neviděl jsem ho‘, zachrání lidský život.”
 
@@ -60,11 +55,11 @@ V našem každodenním životě se vždy budeme snažit mluvit pravdu. Ale musí
 
 Mistr se usmál a řekl: „Pravda, která tě posiluje, pravda, která tě nakonec učiní nesmrtelnou, pravda, která tě vezme k tvému konečnému, naprostému, určenému Cíli -- to je pravda, ke které musíš směřovat. Jinak pokud se neustále přátelíš s takzvanou pravdou nižší úrovně, tvůj duchovní život nejvyšší výšky nikdy nenastane.”
 
-Někteří další žáci a hledající naslouchali jejich hovoru a zjišťovali, jak jej uplatnit ve svých vlastních životech. Mistr se k nim otočil a řekl: „vy, mladí chlapci a dívky, nebudete nikdy schopni přijít k duchovnímu Mistru nebo na duchovní cestě v žádné podobě, pokud se neustále obáváte druhých. Pokud posloucháte své rodiče, i když jsou proti vašemu duchovnímu životu, možná budete na realizaci Boha čekat miliony let, protože jejich způsob přibližování se k Bohu se od toho vašeho liší. Řeknou vám: ‚Udělej toto, pokud chceš být Bohu blízký.‘ Ale oni sami si Boha ještě neuvědomili, tak jak vás mohou poučovat? Pouze tehdy, pokud člověk zná Pravdu samotnou, můžete v něj mít víru.”
+Někteří další žáci a hledající naslouchali jejich hovoru a zjišťovali, jak jej uplatnit ve svých vlastních životech. Mistr se k nim otočil a řekl: „vy, mladí chlapci a dívky, nebudete nikdy schopni přijít k duchovnímu mistru nebo na duchovní cestě v žádné podobě, pokud se neustále obáváte druhých. pokud posloucháte své rodiče, i když jsou proti vašemu duchovnímu životu, možná budete na realizaci boha čekat miliony let, protože jejich způsob přibližování se k bohu se od toho vašeho liší. Řeknou vám: ‚Udělej toto, pokud chceš být Bohu blízký.‘ Ale oni sami si Boha ještě neuvědomili, tak jak vás mohou poučovat? Pouze tehdy, pokud člověk zná Pravdu samotnou, můžete v něj mít víru.”
 
 Nová žačka nato řekla: „Ale druzí si uvědomili Pravdu způsobem, který naši rodiče navrhují.”
 
-Mistr této nové žačce nabídl sladký úsměv: „Pravda, Bůh odhaluje Sám sebe miliony způsobů. Ale Bůh chce, abys sis Pravdu uvědomila jiným způsobem. Pokud zevnitř přijde poselství následovat určitou cestu, musíš následovat tu cestu a musíš být plně připravena setkat se s odporem tvých rodičů nebo nadřízených. Chceš dosáhnout nejvyššího Cíle, jež se zakládá na Boží Pravdě a ne na takzvané lidské nebo mravní pravdě. To neznamená, že vás, lidé, žádám, abyste byli nemravní. Vůbec ne! Ale někdy takzvaná mravní pravda odporuje nejvyšší, naprosté Pravdě. Proto zřeci z našich Upanišád říkávali Bohu: ‚Odevzdávám Ti všechnu svou mravnost i nemravnost, svou temnotu i světlo.‘
+Mistr této nové žačce nabídl sladký úsměv: „pravda, bůh odhaluje sám sebe miliony způsobů. ale bůh chce, abys sis pravdu uvědomila jiným způsobem. pokud zevnitř přijde poselství následovat určitou cestu, musíš následovat tu cestu a musíš být plně připravena setkat se s odporem tvých rodičů nebo nadřízených. chceš dosáhnout nejvyššího cíle, jež se zakládá na boží pravdě a ne na takzvané lidské nebo mravní pravdě. to neznamená, že vás, lidé, žádám, abyste byli nemravní. vůbec ne! ale někdy takzvaná mravní pravda odporuje nejvyšší, naprosté pravdě. proto zřeci z našich upanišád říkávali bohu: ‚Odevzdávám Ti všechnu svou mravnost i nemravnost, svou temnotu i světlo.‘
 
 Zatímco Mistr mluvil, ani se na mladou dívku nepodíval, ale ona začala mít pocit, že jeho slova vstupují do samotného jejího srdce.  Celý její výraz a projev se začaly měnit a najednou padla k Mistrovým nohám. 
 
@@ -77,9 +72,9 @@ Mistr položil svou ruku na její hlavu a řekl: „Mé dítě, vždy budeš mý
 * Žáci fotografové
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DSLP:2-cs
+  :genre: story
+  :keywords:
+  :cite-key: dslp:2-cs
   :END:
 
 
@@ -122,9 +117,9 @@ Na té fotce jsi vypadal tak divně,” řekl mladý žák. „ Celé tvé tělo
 * Tři tygři
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DSLP:3-cs
+  :genre: story
+  :keywords:
+  :cite-key: dslp:3-cs
   :END:
 
 
@@ -179,9 +174,9 @@ Samozřejmě, že od ašrámu budu očekávat pouze tolik, kolik mají schopnost
 * Dary žáků
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DSLP:4-cs
+  :genre: story
+  :keywords:
+  :cite-key: dslp:4-cs
   :END:
 
 
@@ -211,7 +206,7 @@ Nyní se tvůj Guru trochu pochlubí. Právě teď jsem jako umělec neznámý. 
 
 „Co tím myslíš, Mistře?” zeptal se mladík. 
 
-„Povím ti příhodu, která se stala velmi dávno v jednom našem Centru,” odpověděl Mistr. „Jeden náš božský žák, kterého každý považoval za blázna, měl čtyřicet tři dolarů a nějaké drobné. Podívej na něj! Po setkání se chystal dát čtyřicet tři dolarů na /love-offering/ a nechat si pouze drobné, aby zaplatil mýtné, až pojede domů. Odmítl jsem, ale on řekl: ‚Nepotřebuji peníze. Velmi brzy dostanu svůj plat a jím zadarmo, protože pracuji v jednom božském podniku.‘ Zeptal jsem se ho, kdy dostane plat a on řekl: ‚Za den nebo za dva.‘ Nato jsem řekl: ‚Můžeš dát třicet tři dolary, ale nedovolím čtyřicet tři.‘
+„Povím ti příhodu, která se stala velmi dávno v jednom našem Centru,” odpověděl Mistr. „Jeden náš božský žák, kterého každý považoval za blázna, měl čtyřicet tři dolarů a nějaké drobné. Podívej na něj! Po setkání se chystal dát čtyřicet tři dolarů na /love-offering/ a nechat si pouze drobné, aby zaplatil mýtné, až pojede domů. Odmítl jsem, ale on řekl: ‚nepotřebuji peníze. velmi brzy dostanu svůj plat a jím zadarmo, protože pracuji v jednom božském podniku.‘ zeptal jsem se ho, kdy dostane plat a on řekl: ‚za den nebo za dva.‘ nato jsem řekl: ‚Můžeš dát třicet tři dolary, ale nedovolím čtyřicet tři.‘
 
 Podívej na jeho srdce! Měl čtyřicet tři dolarů a nějaké drobné a chtěl mi dát čtyřicet tři. Neříkám, abys dělal takové věci. Vůbec ne! Jen ti vyprávím tuto příhodu, abych ti ukázal, jak daleko dokáže zajít srdce. Na druhou stranu když má někdo jiný čtyřicet tři dolarů a nějaké drobné, může se stát, že čtyřicet tři dolarů jde s ním domů v kapse a drobné vhodí na /love-offering/. Není-li ochota, žáci dávají jen tolik, aby se neztrapnili.”
 
@@ -239,7 +234,7 @@ A jsou neustálé neštěstí: lidé jsou nemocní, mají nehodu, dostávají se
 
 Žák nevěřícně zakroutil hlavou. „Jediná propiska dokáže všechno toto, Mistře?”
 
-Mistr se usmál. „Tvé materiální dárky mohou stát třeba jen dolar, ale odhalí a projeví tvou jednotu se mnou. Nebo mi můžeš dát něco jen proto, abys spatřil můj úsměv. Vidět úsměv svého Gurua je pro žáka to největší požehnání. Když mi něco dáš, měj pocit, že se okamžitě usměji, když se té věci dotknu. A kdo získá můj úsměv plný požehnání? Ne propiska, ale tvá duše, která je uvnitř mého milujícího srdce. Když se usmívám na tvůj dárek, okamžitě ke mně přichází tvá duše. Je jako dítě, které přichází ke svému otci s květinou. Dítě vyskočí před otce a říká: ‚Přišlo jsem, přišlo jsem.‘ A otec řekne: ‚Mé dítě, pojď; pojď si se mnou povídat, posaď se vedle.‘
+Mistr se usmál. „Tvé materiální dárky mohou stát třeba jen dolar, ale odhalí a projeví tvou jednotu se mnou. Nebo mi můžeš dát něco jen proto, abys spatřil můj úsměv. Vidět úsměv svého Gurua je pro žáka to největší požehnání. Když mi něco dáš, měj pocit, že se okamžitě usměji, když se té věci dotknu. A kdo získá můj úsměv plný požehnání? Ne propiska, ale tvá duše, která je uvnitř mého milujícího srdce. Když se usmívám na tvůj dárek, okamžitě ke mně přichází tvá duše. Je jako dítě, které přichází ke svému otci s květinou. Dítě vyskočí před otce a říká: ‚přišlo jsem, přišlo jsem.‘ a otec řekne: ‚Mé dítě, pojď; pojď si se mnou povídat, posaď se vedle.‘
 
 V mém případě vám často nejsem schopen navenek poděkovat. Ale myslíš si, že vám nejsem vděčný? Myslíš si, že na vás nejsem pyšný? V okamžiku, kdy se dotknu toho, co jste mi dali, vstoupí do vás má vděčnost, protože na mě myslíte a milujete mě svým vlastním způsobem.”
 
@@ -254,9 +249,9 @@ Mladík se uklonil svému Mistru. „Jsi mým vždy soucitným přítelem a Mist
 * Těžký náklad
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DSLP:5-cs
+  :genre: story
+  :keywords:
+  :cite-key: dslp:5-cs
   :END:
 
 
@@ -280,7 +275,7 @@ Je to jako toto. Předtím, než začal náš duchovní život, byli jsme v živ
 
 Mistr požehnal své mladé žačce a pak se otočil ke zbytku žáků a řekl: „Někteří z vás mi neustále ukazují smutnou, sklíčenou tvář, protože nezískáváte božské vlastnosti nebo věci, které chcete. Nebo možná máte pocit, že jsem vám vzal všechnu vaši radost a blaženost. Ale oba způsoby jsou mylné. Protože se modlíte a meditujete, určitě získáte božské vlastnosti, které chcete. Ale musíte vědět, že každá věc má svůj vlastní čas. Zemědělec nezíská úžasnou sklizeň hned; poté, co zaseje, musí čekat na božskou Milost, která se nazývá voda. Pak, po nějaké době, sklidí úrodu a jeho touha je naplněna. 
 
-Také musíte vědět, že když něco máte, já vám to nevezmu. Velký duchovní Mistr byl jednou nařčen z toho, že odebírá zážitky svých žáků. Jeho žáci mu řekli: ‚Mistře, když ti říkáme o svých zážitcích, už je nezažíváme. Určitě nám je odebíráš.‘ Mistr řekl: ‚Podívejte, jíte velmi, velmi drobnou rybičku a já jím větší než největší rybu. Myslíte si, že se zajímám o vaši drobnou rybičku? Nebojte se, sním pouze svou velkou rybu. A jednoho dne, až budete schopni sníst takovou rybu, dám velkou rybu vám.‘”
+Také musíte vědět, že když něco máte, já vám to nevezmu. Velký duchovní Mistr byl jednou nařčen z toho, že odebírá zážitky svých žáků. Jeho žáci mu řekli: ‚mistře, když ti říkáme o svých zážitcích, už je nezažíváme. určitě nám je odebíráš.‘ mistr řekl: ‚Podívejte, jíte velmi, velmi drobnou rybičku a já jím větší než největší rybu. Myslíte si, že se zajímám o vaši drobnou rybičku? Nebojte se, sním pouze svou velkou rybu. A jednoho dne, až budete schopni sníst takovou rybu, dám velkou rybu vám.‘”
 
 Jeden žák řekl: „Mistře, myslím si, že někteří lidé mají pocit, že dokáží potěšit Nejvyššího nebo potěšit tebe tím, že ukazují vážnou tvář.”
 
@@ -301,9 +296,9 @@ A tak se vždy snažte být šťastní. Jste-li v duchovním životě šťastní
 * Žákovská síla lásky
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DSLP:6-cs
+  :genre: story
+  :keywords:
+  :cite-key: dslp:6-cs
   :END:
 
 
@@ -344,9 +339,9 @@ Mistr pak k sobě zavolal každého ze svých žáků -- mužů, jednoho po druh
 * Manželský život žáků
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DSLP:7-cs
+  :genre: story
+  :keywords:
+  :cite-key: dslp:7-cs
   :END:
 
 
@@ -415,17 +410,3 @@ Ve vnitřním světě si mi manžel někdy stěžuje, že je mu manželka nevěr
 Někdy je nutné o těchto věcech mluvit. Pokaždé, když takto mluvím k nějaké skupině, okamžitě vědomí všech stoupne. A teď si přeji, aby se všechny páry chovaly jako hrdinové. Využijete-li manželství správně, budete mít mou radou čtyři oči a čtyři ruce. Veškeré naděje mám ve svých duchovních dětech. Ale tak jako vy očekáváte věci ode mne, já mám ve vás také velká očekávání. Vy jste mi dali mnoho a já jsem mnoho dal vám. Ale naše dávání neskončí. A tak se zkusme navzájem potěšit všemi způsoby.”
 
 Poté Mistr ztichl a několik minut meditoval. Později zavolal každého ze zadaných dvojic k sobě a požehnal jim. 
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

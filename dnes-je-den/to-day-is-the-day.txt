@@ -1,28 +1,24 @@
-#+TITLE: Dnes je den
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-* Index
+* Dnes je den
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2001
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: TID-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2001
+  :publisher: Madal Bal
+  :cite-key: TID-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
 * 1 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:1-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:1-cs
   :END:
 
 
@@ -38,9 +34,9 @@ mého života.
 * 2 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:2-cs
   :END:
 
 
@@ -56,9 +52,9 @@ mého srdce.
 * 3 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:3-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:3-cs
   :END:
 
 
@@ -74,9 +70,9 @@ mé mysli.
 * 4 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:4-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:4-cs
   :END:
 
 
@@ -92,9 +88,9 @@ mého vitálna.
 * 5 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:5-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:5-cs
   :END:
 
 
@@ -110,9 +106,9 @@ mého těla.
 * 6 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:6-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:6-cs
   :END:
 
 
@@ -129,9 +125,9 @@ ze slz mé vděčnosti Bohu.
 * 7 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:7-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:7-cs
   :END:
 
 
@@ -148,9 +144,9 @@ v důvěru v Boha.
 * 8 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:8-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:8-cs
   :END:
 
 
@@ -166,9 +162,9 @@ zpívat všechny své písně.
 * 9 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:9-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:9-cs
   :END:
 
 
@@ -184,9 +180,9 @@ vyroste v Boží Úsměv Sladkosti.
 * 10 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:10-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:10-cs
   :END:
 
 
@@ -204,9 +200,9 @@ a bezdeché uspokojení Boha.
 * 11 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:11-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:11-cs
   :END:
 
 
@@ -223,9 +219,9 @@ si nikdy nemůže dovolit vzít volno.
 * 12 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:12-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:12-cs
   :END:
 
 
@@ -242,9 +238,9 @@ kladivem neoblomné víry srdce v Boha.
 * 13 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:13-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:13-cs
   :END:
 
 
@@ -262,9 +258,9 @@ abych dobyl Boží Srdce.
 * 14 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:14-cs
   :END:
 
 
@@ -281,9 +277,9 @@ z exilu útlaku mé mysli.
 * 15 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:15-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:15-cs
   :END:
 
 
@@ -300,9 +296,9 @@ svého vnitřního slunce.
 * 16 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:16-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:16-cs
   :END:
 
 
@@ -317,9 +313,9 @@ mé mysli a ega.
 
 * 17 Dnes je den ...
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:17-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:17-cs
   :END:
 
 
@@ -335,9 +331,9 @@ realizace Boha.
 
 * 18 Dnes je den ...
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:18-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:18-cs
   :END:
 
 
@@ -353,9 +349,9 @@ které bude každý den mládnout.
 * 19 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:19-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:19-cs
   :END:
 
 
@@ -372,9 +368,9 @@ do Svého Paláce.
 * 20 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:20-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:20-cs
   :END:
 
 
@@ -393,9 +389,9 @@ po celém světě.
 * 21 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:21-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:21-cs
   :END:
 
 
@@ -412,9 +408,9 @@ jasmínově sladkým srdcem oddanosti.
 * 22 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:22-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:22-cs
   :END:
 
 
@@ -432,9 +428,9 @@ Jeho Stromu Soucitu.
 * 23 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:23-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:23-cs
   :END:
 
 
@@ -451,9 +447,9 @@ dech míru Nebe.
 * 24 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:24-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:24-cs
   :END:
 
 
@@ -472,9 +468,9 @@ a stálou nepřítomnost.
 * 25 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:25-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:25-cs
   :END:
 
 
@@ -491,9 +487,9 @@ všemi nespočetnými překážkami.
 * 26 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:26-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:26-cs
   :END:
 
 
@@ -510,9 +506,9 @@ vždy rostoucími úsměvy mého srdce.
 * 27 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:27-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:27-cs
   :END:
 
 
@@ -529,9 +525,9 @@ abych se stal vítězným hrdinou
 * 28 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:28-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:28-cs
   :END:
 
 
@@ -547,9 +543,9 @@ zamést cestu své mysli.
 * 29 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:29-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:29-cs
   :END:
 
 
@@ -566,9 +562,9 @@ má Jeho Dech Věčnosti.
 * 30 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:30-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:30-cs
   :END:
 
 
@@ -585,9 +581,9 @@ svého Cíle Božího Domova.
 * 31 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:31-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:31-cs
   :END:
 
 
@@ -604,9 +600,9 @@ bezpodmínečného odevzdání Bohu.
 * 32 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:32-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:32-cs
   :END:
 
 
@@ -623,9 +619,9 @@ všechny mé sliby projevení Boha.
 * 33 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:33-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:33-cs
   :END:
 
 
@@ -642,9 +638,9 @@ všechny Své nektarem zaplavené Písně Srdce.
 * 34 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:34-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:34-cs
   :END:
 
 
@@ -660,9 +656,9 @@ nevkročím do špinavých kaluží života.
 * 35 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:35-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:35-cs
   :END:
 
 
@@ -680,9 +676,9 @@ naplnění Jeho Vize zde na zemi.
 * 36 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:36-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:36-cs
   :END:
 
 
@@ -699,9 +695,9 @@ na Jeho Věčnost, Nekonečnost a Nesmrtelnost.
 * 37 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:37-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:37-cs
   :END:
 
 
@@ -717,9 +713,9 @@ kdy začíná můj sen
 * 38 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:38-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:38-cs
   :END:
 
 
@@ -736,9 +732,9 @@ kamkoli půjde.
 * 39 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:39-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:39-cs
   :END:
 
 
@@ -755,9 +751,9 @@ schoulil do Božího vlastního elysejského klína.
 * 40 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:40-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:40-cs
   :END:
 
 
@@ -774,9 +770,9 @@ až po své realizaci Boha.
 * 41 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:41-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:41-cs
   :END:
 
 
@@ -795,9 +791,9 @@ je Jeho vnější Hlas.
 * 42 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:42-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:42-cs
   :END:
 
 
@@ -815,9 +811,9 @@ o světovém míru.
 * 43 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:43-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:43-cs
   :END:
 
 
@@ -836,9 +832,9 @@ Jeho přímé zástupce zde na zemi.
 * 44 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:44-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:44-cs
   :END:
 
 
@@ -856,9 +852,9 @@ nikdy nezapadá.
 * 45 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:45-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:45-cs
   :END:
 
 
@@ -877,9 +873,9 @@ Jeho neustále odpouštějící Srdce.
 * 46 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:46-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:46-cs
   :END:
 
 
@@ -896,9 +892,9 @@ a zářících Úsměvů Jeho Srdce.
 * 47 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:47-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:47-cs
   :END:
 
 
@@ -915,9 +911,9 @@ a ne příběhy mé mysli.
 * 48 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:48-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:48-cs
   :END:
 
 
@@ -934,9 +930,9 @@ projevení Boha.
 * 49 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:49-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:49-cs
   :END:
 
 
@@ -955,9 +951,9 @@ po stezce touhy.
 * 50 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:50-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:50-cs
   :END:
 
 
@@ -976,9 +972,9 @@ Domova své Nesmrtelnosti.
 * 51 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:51-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:51-cs
   :END:
 
 
@@ -995,9 +991,9 @@ upřímností zaplavené slzy mého srdce.
 * 52 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:52-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:52-cs
   :END:
 
 
@@ -1014,9 +1010,9 @@ neupřímností zaplavené úsměvy mé mysli.
 * 53 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:53-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:53-cs
   :END:
 
 
@@ -1033,9 +1029,9 @@ s mými slzami srdce vděčnosti.
 * 54 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:54-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:54-cs
   :END:
 
 
@@ -1052,9 +1048,9 @@ před Dveřmi Jeho Srdce.
 * 55 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:55-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:55-cs
   :END:
 
 
@@ -1073,9 +1069,9 @@ Krásy Jeho Oka Soucitu.
 * 56 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:56-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:56-cs
   :END:
 
 
@@ -1094,9 +1090,9 @@ na
 * 57 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:57-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:57-cs
   :END:
 
 
@@ -1113,9 +1109,9 @@ je úplně prostý Boha.
 * 58 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:58-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:58-cs
   :END:
 
 
@@ -1131,9 +1127,9 @@ mé dvě o světě pochybující oči.
 * 59 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:59-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:59-cs
   :END:
 
 
@@ -1149,9 +1145,9 @@ mé svět objímající srdce.
 * 60 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:60-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:60-cs
   :END:
 
 
@@ -1167,9 +1163,9 @@ mého v nevědomosti si hovícího života.
 * 61 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:61-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:61-cs
   :END:
 
 
@@ -1186,9 +1182,9 @@ a získal Boží Partnerství Jednoty.
 * 62 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:62-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:62-cs
   :END:
 
 
@@ -1206,9 +1202,9 @@ a ne před Ním.
 * 63 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:63-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:63-cs
   :END:
 
 
@@ -1226,9 +1222,9 @@ než Jeho Světlo Spravedlnosti.
 * 64 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:64-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:64-cs
   :END:
 
 
@@ -1245,9 +1241,9 @@ s úsměvy mé duše.
 * 65 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:65-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:65-cs
   :END:
 
 
@@ -1263,9 +1259,9 @@ s Okem bezpodmínečného Soucitu Svého Srdce.
 * 66 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:66-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:66-cs
   :END:
 
 
@@ -1286,9 +1282,9 @@ Boží hrdá Odpověď je:
 * 67 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:67-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:67-cs
   :END:
 
 
@@ -1304,9 +1300,9 @@ trvalý rozkvět srdce aspirace.
 * 68 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:68-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:68-cs
   :END:
 
 
@@ -1324,9 +1320,9 @@ Oceán Něžnosti z Jeho Srdce.
 * 69 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:69-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:69-cs
   :END:
 
 
@@ -1344,9 +1340,9 @@ Jeho vlastním Domovem Srdce.
 * 70 Dnes je den ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TID:70-cs
+  :genre: poem
+  :keywords:
+  :cite-key: tid:70-cs
   :END:
 
 
@@ -1373,15 +1369,3 @@ Právě jsi to udělalo.
 Právě jsi to udělalo.“ 
 
 #+END_VERSE
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

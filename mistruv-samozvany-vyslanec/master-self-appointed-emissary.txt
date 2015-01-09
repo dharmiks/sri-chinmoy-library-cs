@@ -1,12 +1,7 @@
-#+TITLE: Mistrův samozvaný vyslanec
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Mistrův samozvaný vyslanec
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: MSAE:1-cs
+  :cite-key: msae:1-cs
   :END:
 
 
@@ -60,7 +55,7 @@ Později, když už meditace skončila a žáci se začali rozcházet, přistoup
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: MSAE:2-cs
+  :cite-key: msae:2-cs
   :END:
 
 
@@ -90,7 +85,7 @@ Na dalším setkání vypadala ruka té paní zázračně vyléčená a ani Rakh
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: MSAE:3-cs
+  :cite-key: msae:3-cs
   :END:
 
 
@@ -120,7 +115,7 @@ Mistr si pomyslel: „Okultní síla, okultní síla, běda. Můj život v New Y
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: MSAE:4-cs
+  :cite-key: msae:4-cs
   :END:
 
 
@@ -132,7 +127,7 @@ Teď zase byla řada na žácích, aby byli v šoku. Zaprvé ještě nikdy nesly
 Jedna z žákyň, žena středního věku, zaprotestovala: „Ale Mistře, jak něco takového můžeš říct? Nevím, co ostatní, ale zatímco jsi byl pryč, meditovala jsem doma každé ráno a přicházela jsem na každou meditaci v Centru.“
 „Ano, meditovala jsi. Ale meditovala jsi na Boha nebo na své přátele? Pravda, meditovala jsi, ale tvá mysl po celou dobu přemítala o novém oblečení a špercích, které tví přátelé nosí.“
 Paní nemohla uvěřit vlastním uším. Podívala se na Mistra s předstíranou oddaností a řekla: „Ale Mistře, jak to můžeš říct? Víš přece, že myslím jen na Boha!“
-Pak se ozvala jedna mladá žena: „Mistře, když jsi byl pryč, oddaně jsem pro tebe pracovala. Upletla jsem ti nádhernou šálu a přitom jsem celou dobu myslela na tebe. Takže můj duchovní život určitě neupadl.“ Mistr odvětil: „Nesobecká služba, oddaná služba Mistrovi, je jeden z nejlepších způsobů, jak si udržet dobré vědomí. Když si ale myslíš, že co děláš, není důležité, zatímco někdo jiný dělá něco mnohem důležitějšího, když tohle cítíš, pak ti tvá nesobecká služba vůbec nepomůže. Když jsi pletla, myslela sis, že jsi zbytečná. Myslela jsi na krásné básně a malby, které ostatní vytvářejí, a považovala jsi své vlastní dosažení za bezvýznamné. Nesobecká služba je velmi dobrá, musíš ale při ní cítit, že ji nabízíš podle svých vnitřních schopností, které ti Nejvyšší dal, a někdo jiný ji zase provádí podle svých schopností.“
+Pak se ozvala jedna mladá žena: „mistře, když jsi byl pryč, oddaně jsem pro tebe pracovala. upletla jsem ti nádhernou šálu a přitom jsem celou dobu myslela na tebe. takže můj duchovní život určitě neupadl.“ mistr odvětil: „Nesobecká služba, oddaná služba Mistrovi, je jeden z nejlepších způsobů, jak si udržet dobré vědomí. Když si ale myslíš, že co děláš, není důležité, zatímco někdo jiný dělá něco mnohem důležitějšího, když tohle cítíš, pak ti tvá nesobecká služba vůbec nepomůže. Když jsi pletla, myslela sis, že jsi zbytečná. Myslela jsi na krásné básně a malby, které ostatní vytvářejí, a považovala jsi své vlastní dosažení za bezvýznamné. Nesobecká služba je velmi dobrá, musíš ale při ní cítit, že ji nabízíš podle svých vnitřních schopností, které ti Nejvyšší dal, a někdo jiný ji zase provádí podle svých schopností.“
 „Ale Mistře, určitě jsem nemyslela na nikoho jiného kromě tebe.“
 A tak to pokračovalo. Každý žák se ptal na svůj vlastní případ a Mistr pokaždé odpověděl něco, o čem ten žák byl přesvědčen, že se ho to netýká. Když diskuze skončila, Mistr řekl: „Když jsem vám teď tak vyhuboval, zkusme teď všichni žít oddanější, duchovnější život. Minulost je prach, jak vždycky říkám. Zapomeňme na ni a od zítřka začněme vést čistší, božštější život.“ Pak své žáky, jednoho po druhém, zavolal a požehnal jim.
 Když setkání skončilo, začali se žáci mezi sebou bavit a probírali, co Mistr řekl. Někteří z nich byli ještě pořád pobouření a rozzlobení. Takhle s nimi Mistr ještě nikdy nemluvil. Jedna paní prohlásila: „Mistr musel chytit nějakou mentální horečku, když byl pryč. Všimli jste si, jak vypadal unaveně? Půjdu se na něj podívat, jestli se cítí dobře.“
@@ -146,7 +141,7 @@ Ten však s úsměvem řekl: „Ať už si to zasloužím nebo ne, co potřebuji
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: MSAE:5-cs
+  :cite-key: msae:5-cs
   :END:
 
 
@@ -176,7 +171,7 @@ Mistr byl ohromený. Sám nikdy žádné vstupné na svých přednáškách a ve
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: MSAE:6-cs
+  :cite-key: msae:6-cs
   :END:
 
 
@@ -188,7 +183,7 @@ Mistr se na něj soucitně usmál a řekl: „Samozřejmě, mé dítě. Potom ud
 „Je to jako s duchovním životem. Než do něj vstoupíš, můžeš dělat všemožné nebožské věci a necítíš se nešťastně. Jakmile ale skočíš do moře duchovnosti, jakmile poznáš světlo, nemůžeš se už do života nevědomosti vrátit. A když to přesto uděláš, už v něm nenalezneš uspokojení.“
 Mladík odvětil: „Zkusím o tom popřemýšlet. Promluvím si se svým otcem a pak se rozhodnu. Děkuji za poučnou radu.“
 O měsíc později dostal Mistr další dopis od tohoto žáka. Přišel z univerzity vzdálené několik set mil, kde se mladík zapsal ke studiu.
-V dopise vysvětloval: „Mistře, byl jsem tak zmaten, když jsem od tebe odcházel. Teď už je mi ale všechno jasné. Šel jsem hluboko dovnitř, meditoval na celou věc a dostal jsem od tebe vnitřní poselství. Znělo takto: ,Kdyby tvá duše chtěla pokorný život, nedala by ti dobrou mysl. Dala by ti prostou mysl, která by byla šťastná vést prádelnu. Tvá duše od tebe chce rozvinutou mysl a zároveň pokorný život.ʻ“
+V dopise vysvětloval: „mistře, byl jsem tak zmaten, když jsem od tebe odcházel. teď už je mi ale všechno jasné. Šel jsem hluboko dovnitř, meditoval na celou věc a dostal jsem od tebe vnitřní poselství. znělo takto: ,Kdyby tvá duše chtěla pokorný život, nedala by ti dobrou mysl. Dala by ti prostou mysl, která by byla šťastná vést prádelnu. Tvá duše od tebe chce rozvinutou mysl a zároveň pokorný život.ʻ“
 „Takže jsem se, Mistře, rozhodl udělat to následovně. Budu pokračovat ve studiích, abych si rozvinul mysl, jak to má duše chce. A pak se pokusím získat práci na nějaké malé univerzitě a povedu velmi pokorný život, což po mě duše také chce. Tímto způsobem uspokojím svoji duši i svého otce.“
 Mistr dopis dočetl a smutně pokýval hlavou. „Jak je ta lidská mysl chytrá. Jak je pro ni snadné vymyslet si důvody pro dělání toho, co sama chce.“
 Netrvalo dlouho a mladík se natolik zaměstnal v mentálním světě, že začal považovat duchovní život za pošetilost. A než skončil rok, opustil Mistra trvale.
@@ -201,7 +196,7 @@ O tři roky později se tento žák vrátil, aby mu vždy soucitný Mistr odpust
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: MSAE:7-cs
+  :cite-key: msae:7-cs
   :END:
 
 
@@ -214,7 +209,7 @@ Suruchi se naštvala a odmítala se s Mistrem bavit. Tři týdny s ním nepromlu
 Ze všech lidí v Mistrově malém duchovním Centru Suruchi nejvíce nesnášela ženu, v jejímž domě se meditace pořádaly. Nelíbilo se jí, jak je meditační místnost vyzdobená, a bylo tam spoustu věcí, které tam nechtěla. Takže se tyto dvě ženy spolu neustále hádaly.
 Jedna z věcí, která Suruchi obzvláště popuzovala, bylo, že tato žena měla za úkol prodávat Mistrovy knihy. Jednou za měsíc Mistr napsal malou brožurku, kterou tato paní pak prodávala za padesát centů. Suruchi tohle neustále kritizovala. Když byla rozhněvaná, říkala občas Mistrovi: „Vy Indové sem přicházíte, jen abyste nám brali naše peníze.“ V té době Mistr vydělával padesát dolarů týdně, ale Suruchi tohle nezajímalo. Starala se jen o peníze, které Mistr dostával za své publikace.
 Jelikož Suruchi svému manželovi nedovolovala si tuto brožurku kupovat, dával mu Mistr každý měsíc jednu kopii tajně. To zase rozčilovalo paní, která je prodávala. „Když budeš dávat všechno zadarmo, jak mám něco prodávat a vydělat ti nějaké peníze?“
-Takhle to pokračovalo a pro Mistra to znamenalo skutečné mentální mučení. Jednoho dne se Suruchi s touto paní hořce pohádala a odmítla nadále přicházet do jejího domu. Zavolala Mistrovi a řekla: „Mistře, pokud tato žena zůstane, přestanu být tvým žákem.“ Mistr odvětil: „Ona je mým žákem a ty také. Dokud s ní nebudu sám nespokojený, nevyhodím ji.“
+Takhle to pokračovalo a pro Mistra to znamenalo skutečné mentální mučení. Jednoho dne se Suruchi s touto paní hořce pohádala a odmítla nadále přicházet do jejího domu. Zavolala Mistrovi a řekla: „mistře, pokud tato žena zůstane, přestanu být tvým žákem.“ mistr odvětil: „Ona je mým žákem a ty také. Dokud s ní nebudu sám nespokojený, nevyhodím ji.“
 Nato se začala Suruchi s Mistrem dohadovat: „Co ostatně víš o duchovnosti? Ty a ta žena spolu pracujete, jen abyste od nás dostali nějaké peníze. Pokud s tím hned nepřestaneš a nevyhodíš ji z Centra, už mě nikdy neuvidíš.“
 „Výborně!“ zvolal Mistr. „Kdo tě potřebuje? Budu ten nejšťastnější člověk, když přestaneš chodit.“
 Když ale ten večer Mistr přišel na meditaci, koho to nevidí sedět v první řadě? Suruchi. V té době bylo zvykem, že během meditace každý žák dostal od Mistra požehnanou květinu. Když přišla na řadu Suruchi, řekla mu: „Jak se na tebe mohu hněvat? Jsi jen dítě. Když ti neodpustím já, tak kdo?“
@@ -229,7 +224,7 @@ Jelikož Mistr nezareagoval na Suruchiny poznámky, nebyla si jistá, zda ji sly
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: MSAE:8-cs
+  :cite-key: msae:8-cs
   :END:
 
 
@@ -237,7 +232,7 @@ Byl jednou jeden manželský pár, který žil v ašrámu duchovního Mistra. Mu
 Jednou však přišel čas, kdy ten muž nedokázal zůstat své ženě věrný. Když to zjistila, byl to pro ni hrozný šok. Cítila se naprosto bídně. Týdny její manžel nechodil na noc domů. Nechodil ani do práce a nedělal nic, než že zneužíval manželčina soucitu. Žena z toho by velmi nešťastná. Takto to šlo měsíce a měsíce. Nakonec požádala Mistra o rozhovor a po něm se rozhodla pro rozvod.
 Statečně připravila všechny právní kroky, ale když konečně přišla k soudu a uviděla svého manžela, její srdce roztálo. Plakala a plakala. Rozeběhla se, objala manžela a prosila jej o odpuštění.
 Manžel jí přirozeně blahosklonně odpustil, přestože byl sám viníkem. Odpustil jí, ale dal si podmínku: „Vrátím se k tobě, ale musíš být ke mně laskavější.“
-Žena namítla: „Copak jsem k tobě nebyla laskavá? Vždyť jsem k tobě veškerou náklonností!“ Muž odvětil: „Vysvětlím ti to doma.“ A když přišli domů, pokračoval: „Myslel jsem tím, že musíš být krásnější. Když budeš krásnější, nebudu pak myslet na ostatní ženy. Když budeš krásnější, mé vitální problémy budou vyřešeny.“
+Žena namítla: „copak jsem k tobě nebyla laskavá? vždyť jsem k tobě veškerou náklonností!“ muž odvětil: „vysvětlím ti to doma.“ a když přišli domů, pokračoval: „Myslel jsem tím, že musíš být krásnější. Když budeš krásnější, nebudu pak myslet na ostatní ženy. Když budeš krásnější, mé vitální problémy budou vyřešeny.“
 Žena se zeptala: „A jak se mám stát krásnější.“
 Muž nato: „Musíš být krásná uvnitř i navenek.“
 „Modlím se a medituji a dělám všechno pro to, abych se stala uvnitř krásnou,“ namítla žena. „Když moje vnitřní krása vyjde do popředí, uvidíš ve mně víc krásy i navenek.“
@@ -257,7 +252,7 @@ Přiznání není realizace
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: MSAE:9-cs
+  :cite-key: msae:9-cs
   :END:
 
 
@@ -292,7 +287,7 @@ Mistr odpověděl: „Upřímná už jste, nemáte ale dostatek odvahy čelit sk
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: MSAE:10-cs
+  :cite-key: msae:10-cs
   :END:
 
 
@@ -300,7 +295,7 @@ V New Yorku žil jeden velmi intelektuální pár. Muž byl před přistěhován
 Žena brala šedesát dolarů za hodinu léčení. Byla specialistou na sny a byla dobře známá. Vysvětlovala klientům význam jejich snů. Studovala mnoho knih a používala svůj ohromující důvtip. Byla také chytrá jiným způsobem. Vždycky říkala dobré věci, takže ji lidé měli rádi a obdivovali ji, a ona vydělávala spoustu peněz. Přestože dokázala obelstít ostatní, nedokázala obelstít sama sebe. Mívala stovky vlastních snů, jejichž význam si vyložit vůbec neuměla.
 Jednoho dne se doslechla od své známé, že v New Yorku žije indický jogín, který je expertem na sny. Nejprve k němu sama nešla a poslala jen svého manžela. Manžel zašel k Mistrovu domku a požádal, zda by s ním mohl na chvíli mluvit. Jelikož to byl vážený člověk, Mistr s krátkým rozhovorem souhlasil. Začalo to jako nezávazné klábosení. Pak soudce Mistrovi pověděl všechno o své poezii.
 Mistr mu znenadání řekl: „V tomto životě se tolik snažíte, abyste se stal básníkem, ale v jednom z vašich předchozích životů jste významným básníkem byl. Budete-li s psaním pokračovat, jednoho dne se znovu stanete známým.“
-Soudce se zeptal: „Prosím, řekněte mi, kým jsem byl.“ Mistr odvětil: „Osobu, kterou jste byl, vidím hned za vámi. Vidím, jak za vámi stojí Wordsworth.“
+Soudce se zeptal: „prosím, řekněte mi, kým jsem byl.“ mistr odvětil: „Osobu, kterou jste byl, vidím hned za vámi. Vidím, jak za vámi stojí Wordsworth.“
 Soudce to nesmírně dojalo. Řekl: „Mám tolik zážitků s Wordsworthem. Kvůli mému básnickému spojení s Wordsworthem jsem své ženě mnohokrát řekl, že jsem jím byl. Ona tomu ale nevěří. Mohu vám ukázat tři své poznámkové sešity, které jsem podepsal jako „Wordsworth“. Můžete se zeptat mé ženy, jestli to je pravda. Tolik mě vaše odhalení dojalo. Mohl bych spatřit tu postavu, kterou jste uviděl?“
 Mistr zavrtěl hlavou: „Ne, zatímco jste hovořil, tak zmizela. Byla ale přímo tady, za vámi; to vás ujišťuji.“ Potom soudci pověděl ještě další věci o jeho předchozích životech. Tehdy se ještě Mistr nezdráhal o minulých životech hovořit.
 Soudce řekl: „Od dětství jsem neplakal. Dnes jsem na té špatné straně padesátky, ale můžete vidět slzy. Jsou to slzy vděčnosti za to, co jste mi o mých předchozích životech pověděl. Píšu si deník a mohl bych vám dokázat, že některé z těch věcí jsem cítil.“
@@ -327,9 +322,9 @@ Muž i žena se pak stali Mistrovými žáky a po nějaké době jej pozvali k s
 Tento pár se přátelil s jednou francouzskou herečkou. Na jednu stranu ji měli rádi, ale na druhou stranu si mysleli, že je toto přátelství pod jejich důstojnost. Na veřejnosti se s ní neukazovali, k sobě domů si ji však zvali, a tam jim byla nejen přítelkyní, ale mnoha způsoby i služkou.
 Když k nim tedy Mistr přišel na návštěvu, tato herečka tam zrovna také byla. Nešťastný Mistrův osud tomu chtěl, že jak se tam objevil, začala tato paní naříkat: „Vím, že jsem nebyla tak významná, jako tito mí přátelé. Přesto mi prosím řekněte, kým jsem byla ve svých minulých životech. Buďte ale upřímný! Pokud mi neřeknete, že jsem byla nějak slavná, nevadí. Minulou noc, stejně jako mnohokrát dříve, se mi zdálo, že jsem byla Johankou z Arku. Řekněte mi prosím upřímně -- je na tom něco pravdy, nebo mě to napadá jen kvůli tomu, že se stýkám s těmito významnými lidmi?“
 V domě chovali pět koček a tyto kočky Mistra celou dobu obtěžovaly. Řekl tedy: „Nemohu se soustředit, tyto kočky mě obtěžují. Odneste je prosím.“
-V tu chvíli už ale oba Mistrovi žáci začali na svoji přítelkyni žárlit. Obávali se, že když se na ni Mistr bude chvíli soustředit, mohl by herečce říct něco, čím by se jim vyrovnala. Přestože tedy tyto takzvané přátele prosila, aby vzali kočky do vedlejší místnosti a umožnili Mistrovi se soustředit, neudělali to. Mistr nakonec řekl: „Dobrá, co se dá dělat? Zkusím to navzdory tomu obtěžování.“ Silně si prsty zatlačil na třetí oko, jako kdyby se pokoušel do svého čela udělat díru, a přinesl své třetí oko do popředí. Pak se podíval na herečku a řekl: „Ano, máte naprostou pravdu. Byla jste Johankou z Arku. A mohu vám i říct, že jste ten sen měla kolem půl čtvrté ráno.“
+V tu chvíli už ale oba Mistrovi žáci začali na svoji přítelkyni žárlit. Obávali se, že když se na ni Mistr bude chvíli soustředit, mohl by herečce říct něco, čím by se jim vyrovnala. Přestože tedy tyto takzvané přátele prosila, aby vzali kočky do vedlejší místnosti a umožnili Mistrovi se soustředit, neudělali to. Mistr nakonec řekl: „dobrá, co se dá dělat? zkusím to navzdory tomu obtěžování.“ silně si prsty zatlačil na třetí oko, jako kdyby se pokoušel do svého čela udělat díru, a přinesl své třetí oko do popředí. pak se podíval na herečku a řekl: „Ano, máte naprostou pravdu. Byla jste Johankou z Arku. A mohu vám i říct, že jste ten sen měla kolem půl čtvrté ráno.“
 Přisvědčila: „Ano, bylo to časně zrána, ale přesný čas nevím.“
-Mistr ji ujistil: „Ano, jsem si tím stoprocentně jistý. A ještě jednu věc vám povím: vaše matka, z doby, kdy jste byla Johankou z Arku, také žije. I ona si vzala další inkarnaci a je v Paříži. Ještě ji v tomto životě uvidíte.“
+Mistr ji ujistil: „ano, jsem si tím stoprocentně jistý. a ještě jednu věc vám povím: vaše matka, z doby, kdy jste byla Johankou z Arku, také žije. I ona si vzala další inkarnaci a je v Paříži. Ještě ji v tomto životě uvidíte.“
 Herečka byla nadšená: „A jak ji uvidím?“
 „Až pojedete do Paříže, potkáte se s ní. Pozná vás a vy poznáte ji. Ještě teď na vás myslí. Pořád myslí na svoji Johanku z Arku. I v tomto životě má s vámi pevné vnitřní spojení.“
 Když psychiatrička uslyšela, že tato herečka byla Johankou z Arku, její závist dosáhla vrcholu. A soudce si v ní také liboval. Přestali se s tou paní úplně stýkat a opustili i Mistra. Takto tedy skončila jejich role v tomto příběhu, nebo to tak alespoň vypadalo.
@@ -340,18 +335,3 @@ Také řekli, že tento Mistr je zcela bezvýznamný. Kdyby byl opravdu velký, 
 Se svojí žárlivostí a hněvem šli ale ještě dál. Řekli herečce: „Opustili jsme ho. Pokud s ním chceš zůstat ve spojení, nebudeme tě už považovat za přítelkyni.“
 Herečka odpověděla: „Vy žádného indického rošťáka nepotřebujete! A pokud mi slíbíte, že zůstaneme přáteli, také jej nepotřebuji.“
 Takže se všichni tři rozhodli, že už Mistra nikdy nenavštíví. Vzdali se duchovního života a dali přednost obyčejnému lidskému přátelství, které je celé hrou nadřazenosti a podřazenosti, žárlivosti a sobectví.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-
-

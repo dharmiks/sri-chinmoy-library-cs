@@ -1,20 +1,15 @@
-#+TITLE: Stoupám vzhůru, padám dolů
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Stoupám vzhůru, padám dolů
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2007
-  :PUBLISHER: Sri Chinmoy Centrum
-  :CITE-KEY: CUFD-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2007
+  :publisher: Sri Chinmoy Centrum
+  :cite-key: CUFD-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * 1. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:1-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:1-cs
   :END:
 
 
@@ -40,9 +35,9 @@ když miluji jen Boha.
 * 2. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:2-cs
   :END:
 
 
@@ -59,9 +54,9 @@ miloval jen mne.
 * 3. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:3-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:3-cs
   :END:
 
 
@@ -77,9 +72,9 @@ v slzách své aspirace.
 * 4. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:4-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:4-cs
   :END:
 
 
@@ -95,9 +90,9 @@ a mé zasvěcení postrádá úsměvy.
 * 5. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:5-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:5-cs
   :END:
 
 
@@ -116,9 +111,9 @@ a univerzálního partnerství.
 * 6. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:6-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:6-cs
   :END:
 
 
@@ -134,9 +129,9 @@ na ostří nože.
 * 7. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:7-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:7-cs
   :END:
 
 
@@ -152,9 +147,9 @@ hostinou poslušnosti Bohu.
 * 8. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:8-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:8-cs
   :END:
 
 
@@ -171,9 +166,9 @@ vůči Bohu.
 * 9. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:9-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:9-cs
   :END:
 
 
@@ -190,9 +185,9 @@ rostou, září a plynou společně.
 * 10. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:10-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:10-cs
   :END:
 
 
@@ -209,9 +204,9 @@ zmateného života své mysli.
 * 11. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:11-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:11-cs
   :END:
 
 
@@ -228,9 +223,9 @@ svého Pána.
 * 12. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:12-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:12-cs
   :END:
 
 
@@ -248,9 +243,9 @@ a neochoty vůči Bohu.
 * 13. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:13-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:13-cs
   :END:
 
 
@@ -268,9 +263,9 @@ svého srdce.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:14-cs
   :END:
 
 
@@ -288,9 +283,9 @@ své mysli.
 * 15. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:15-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:15-cs
   :END:
 
 
@@ -307,9 +302,9 @@ v Letadle Božího Soucitu.
 * 16. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:16-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:16-cs
   :END:
 
 
@@ -326,9 +321,9 @@ do letadla uspokojení svého ega.
 * 17. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:17-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:17-cs
   :END:
 
 
@@ -345,9 +340,9 @@ andělské sladkosti.
 * 18. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:18-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:18-cs
   :END:
 
 
@@ -364,9 +359,9 @@ satanské hořkosti.
 * 19. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:19-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:19-cs
   :END:
 
 
@@ -383,9 +378,9 @@ po projevení Boha.
 * 20. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:20-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:20-cs
   :END:
 
 
@@ -402,9 +397,9 @@ ze své vůči Bohu lhostejné mysli.
 * 21. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:21-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:21-cs
   :END:
 
 
@@ -420,9 +415,9 @@ po Dechu Božího Uspokojení.
 * 22. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:22-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:22-cs
   :END:
 
 
@@ -438,9 +433,9 @@ sebezveličování své mysli.
 * 23. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:23-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:23-cs
   :END:
 
 
@@ -457,9 +452,9 @@ pochybnosti své mysli.
 * 24. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:24-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:24-cs
   :END:
 
 
@@ -475,9 +470,9 @@ objímá hladomor víry v Boha.
 * 25. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:25-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:25-cs
   :END:
 
 
@@ -493,9 +488,9 @@ na jméno a slávu.
 * 26. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:26-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:26-cs
   :END:
 
 
@@ -511,9 +506,9 @@ jména a slávy.
 * 27. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:27-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:27-cs
   :END:
 
 
@@ -529,9 +524,9 @@ spalovačem svých žádostí.
 * 28. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:28-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:28-cs
   :END:
 
 
@@ -547,9 +542,9 @@ stoupencem svého zklamání.
 * 29. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:29-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:29-cs
   :END:
 
 
@@ -565,9 +560,9 @@ most svých pochybností.
 * 30. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:30-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:30-cs
   :END:
 
 
@@ -584,9 +579,9 @@ stavím most svých pochybností.
 * 31. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:31-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:31-cs
   :END:
 
 
@@ -603,9 +598,9 @@ navštívit Boha.
 * 32. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:32-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:32-cs
   :END:
 
 
@@ -622,9 +617,9 @@ navštívit Boha.
 * 33. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:33-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:33-cs
   :END:
 
 
@@ -640,9 +635,9 @@ v kompas své duše.
 * 34. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:34-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:34-cs
   :END:
 
 
@@ -658,9 +653,9 @@ za svou polárku.
 * 35. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:35-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:35-cs
   :END:
 
 
@@ -676,9 +671,9 @@ se světem.
 * 36. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:36-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:36-cs
   :END:
 
 
@@ -694,9 +689,9 @@ nesoulad.
 * 37. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:37-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:37-cs
   :END:
 
 
@@ -714,9 +709,9 @@ vysoko, výše, nejvýše.
 * 38. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:38-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:38-cs
   :END:
 
 
@@ -733,9 +728,9 @@ hluboko, hlouběji, nejhlouběji.
 * 39. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:39-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:39-cs
   :END:
 
 
@@ -752,9 +747,9 @@ svým srdcem čistoty a jednoty.
 * 40. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:40-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:40-cs
   :END:
 
 
@@ -770,9 +765,9 @@ svou myslí nečistoty a rozdělení.
 * 41. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:41-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:41-cs
   :END:
 
 
@@ -788,9 +783,9 @@ stoupám vzhůru.
 * 42. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:42-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:42-cs
   :END:
 
 
@@ -806,9 +801,9 @@ padám dolů.
 * 43. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:43-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:43-cs
   :END:
 
 
@@ -826,9 +821,9 @@ korunu a trůn svého ega.
 * 44. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:44-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:44-cs
   :END:
 
 
@@ -847,9 +842,9 @@ svého ega.
 * 45. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:45-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:45-cs
   :END:
 
 
@@ -865,9 +860,9 @@ na zvonek aspirace svého srdce.
 * 46. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:46-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:46-cs
   :END:
 
 
@@ -883,9 +878,9 @@ na gong předvádění své mysli.
 * 47. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:47-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:47-cs
   :END:
 
 
@@ -902,9 +897,9 @@ a své srdce víry.
 * 48. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:48-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:48-cs
   :END:
 
 
@@ -921,9 +916,9 @@ a své arogantní vitálno.
 * 49. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:49-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:49-cs
   :END:
 
 
@@ -940,9 +935,9 @@ stoupám vzhůru.
 * 50. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:50-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:50-cs
   :END:
 
 
@@ -959,9 +954,9 @@ padám dolů.
 * 51. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:51-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:51-cs
   :END:
 
 
@@ -977,9 +972,9 @@ stoupám vzhůru.
 * 52. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:52-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:52-cs
   :END:
 
 
@@ -995,9 +990,9 @@ padám dolů.
 * 53. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:53-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:53-cs
   :END:
 
 
@@ -1013,9 +1008,9 @@ stoupám vzhůru.
 * 54. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:54-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:54-cs
   :END:
 
 
@@ -1031,9 +1026,9 @@ padám dolů.
 * 55. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:55-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:55-cs
   :END:
 
 
@@ -1051,9 +1046,9 @@ a já stoupám vzhůru.
 * 56. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:56-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:56-cs
   :END:
 
 
@@ -1070,9 +1065,9 @@ padám dolů.
 * 57. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:57-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:57-cs
   :END:
 
 
@@ -1089,9 +1084,9 @@ stoupám vzhůru.
 * 58. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:58-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:58-cs
   :END:
 
 
@@ -1108,9 +1103,9 @@ padám dolů.
 * 59. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:59-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:59-cs
   :END:
 
 
@@ -1126,9 +1121,9 @@ stoupám vzhůru.
 * 60. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:60-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:60-cs
   :END:
 
 
@@ -1144,9 +1139,9 @@ padám dolů.
 * 61. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:61-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:61-cs
   :END:
 
 
@@ -1162,9 +1157,9 @@ stoupám vzhůru.
 * 62. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:62-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:62-cs
   :END:
 
 
@@ -1180,9 +1175,9 @@ padám dolů.
 * 63. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:63-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:63-cs
   :END:
 
 
@@ -1199,9 +1194,9 @@ do nebe.
 * 64. 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CUFD:64-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cufd:64-cs
   :END:
 
 
@@ -1213,17 +1208,3 @@ padám dolů
 do bezedné propasti.
 
 #+END_VERSE
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

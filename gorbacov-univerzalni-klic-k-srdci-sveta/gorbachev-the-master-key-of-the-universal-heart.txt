@@ -1,20 +1,15 @@
-#+TITLE: Gorbačov: Univerzální klíč k srdci světa
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Gorbačov: Univerzální klíč k srdci světa
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2002
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: GMKU-cs
-  :GENRE: poem, discourse, epistle
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2002
+  :publisher: Madal Bal
+  :cite-key: GMKU-cs
+  :genre: poem, discourse, epistle
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Gorbačov: Univerzální klíč k srdci světa
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: GMKU-e1-cs
-  :KEYWORDS:
+  :genre: section
+  :cite-key: GMKU-e1-cs
+  :keywords:
   :END:
 
 
@@ -32,9 +27,9 @@
 * Jsi nejmilovanějším...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:1-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:1-cs
+  :keywords:
   :END:
 
 
@@ -56,9 +51,9 @@ za tvůj nanejvýš bezpříkladný podíl
 * Jsi transcendentálním vrcholem...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:2-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:2-cs
+  :keywords:
   :END:
 
 
@@ -79,9 +74,9 @@ Jsi bezesnou obětí
 * Dvě Německa vylila...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:3-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:3-cs
+  :keywords:
   :END:
 
 
@@ -98,9 +93,9 @@ do tvého širokého srdce jednoty.
 * Jsi nejvyšší optimista...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:4-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:4-cs
+  :keywords:
   :END:
 
 
@@ -119,9 +114,9 @@ ti však každý den
 * Přichází čas...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:5-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:5-cs
+  :keywords:
   :END:
 
 
@@ -138,9 +133,9 @@ Přicházejí však všichni?
 * Jen tvá důvěra přichází...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:6-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:6-cs
+  :keywords:
   :END:
 
 
@@ -157,9 +152,9 @@ a provází tě a vede
 * Ne jedné, ale mnohým...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:7-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:7-cs
+  :keywords:
   :END:
 
 
@@ -176,9 +171,9 @@ se od tebe učí
 * Jmenujme jenom několik z nich:...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:8-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:8-cs
+  :keywords:
   :END:
 
 
@@ -200,9 +195,9 @@ nikdy se neopozdíš
 * Tvá je mysl...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:9-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:9-cs
+  :keywords:
   :END:
 
 
@@ -218,9 +213,9 @@ která nikdy netrpí
 * Tvé je srdce...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:10-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:10-cs
+  :keywords:
   :END:
 
 
@@ -236,9 +231,9 @@ které odmítá naslouchat
 * Tvůj je život...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:11-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:11-cs
+  :keywords:
   :END:
 
 
@@ -254,9 +249,9 @@ který nikdy neupadá
 * Po míru hladovějící...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:12-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:12-cs
+  :keywords:
   :END:
 
 
@@ -274,9 +269,9 @@ který nikdy neupadá
 * Říkáš každému...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:13-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:13-cs
+  :keywords:
   :END:
 
 
@@ -294,9 +289,9 @@ a ne neomezený prostor.
 * V Adresáři...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:14-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:14-cs
+  :keywords:
   :END:
 
 
@@ -314,9 +309,9 @@ na prvním místě.
 * Jsi nejvyšším pilířem...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:15-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:15-cs
+  :keywords:
   :END:
 
 
@@ -333,9 +328,9 @@ Jsi nejzářivějším světlem
 * Plačící srdce lidstva...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:16-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:16-cs
+  :keywords:
   :END:
 
 
@@ -352,9 +347,9 @@ Usmívající se oko Nebe
 * Každý den...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:17-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:17-cs
+  :keywords:
   :END:
 
 
@@ -370,9 +365,9 @@ se plavíš na lodi své důvěry
 * Srdce sprintéra-hledajícího v tobě...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:18-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:18-cs
+  :keywords:
   :END:
 
 
@@ -389,9 +384,9 @@ rychle a slavně
 * Každý den...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:19-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:19-cs
+  :keywords:
   :END:
 
 
@@ -408,9 +403,9 @@ Každý den
 * Každý den...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:20-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:20-cs
+  :keywords:
   :END:
 
 
@@ -427,9 +422,9 @@ Každý den
 * Tví protivníci...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:21-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:21-cs
+  :keywords:
   :END:
 
 
@@ -448,9 +443,9 @@ Protože jejich život naděje pokroku
 * Deštník tvé víry...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:22-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:22-cs
+  :keywords:
   :END:
 
 
@@ -468,9 +463,9 @@ tvých nepřátel.
 * Horolezec aspirace země...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:23-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:23-cs
+  :keywords:
   :END:
 
 
@@ -487,9 +482,9 @@ k nezmapovanému obzoru.
 * Tvé vrcholné světlo moudrosti...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:24-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:24-cs
+  :keywords:
   :END:
 
 
@@ -505,9 +500,9 @@ všechny kouty zeměkoule.
 * Tázající se svět...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:25-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:25-cs
+  :keywords:
   :END:
 
 
@@ -525,9 +520,9 @@ když jsi každý den nablízku
 * Tvá zářivá duše...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:26-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:26-cs
+  :keywords:
   :END:
 
 
@@ -546,9 +541,9 @@ nejhustší mlhu nevědomosti světa.
 * Každý den jsi ve vnitřním světě...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:27-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:27-cs
+  :keywords:
   :END:
 
 
@@ -565,9 +560,9 @@ nejpřesvědčivějším zvětšovatelem spokojenosti.
 * Vůně písně tvého srdce...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:28-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:28-cs
+  :keywords:
   :END:
 
 
@@ -585,9 +580,9 @@ nenapodobitelně osvěcuje mysl lidstva,
 * Není dne...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:29-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:29-cs
+  :keywords:
   :END:
 
 
@@ -604,9 +599,9 @@ tvou upřímnou a čistou radost.
 * To, co potřebuje...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:30-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:30-cs
+  :keywords:
   :END:
 
 
@@ -623,9 +618,9 @@ je duhové srdce jistoty a naplnění,
 * Jsi věčně neproniknutelným klidem...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:31-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:31-cs
+  :keywords:
   :END:
 
 
@@ -644,9 +639,9 @@ abys řídil loď svého života
 * Posvátnost...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:32-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:32-cs
+  :keywords:
   :END:
 
 
@@ -666,9 +661,9 @@ který tvým prostřednictvím nabízí lidstvu.
 * Z tabulky lidské mysli...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:33-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:33-cs
+  :keywords:
   :END:
 
 
@@ -684,9 +679,9 @@ rozbité naděje minulých generací.
 * Naději krásy ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:34-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:34-cs
+  :keywords:
   :END:
 
 
@@ -704,9 +699,9 @@ ztělesňuješ a odhaluješ
 * Říkáš světu...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:35-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:35-cs
+  :keywords:
   :END:
 
 
@@ -726,9 +721,9 @@ Tvé oko soucitu a srdce soucitu
 * Dva nikdy neselhávající...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:36-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:36-cs
+  :keywords:
   :END:
 
 
@@ -748,9 +743,9 @@ složitý tanec diplomacie.
 * Říkáš celému světu...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:37-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:37-cs
+  :keywords:
   :END:
 
 
@@ -767,9 +762,9 @@ není zející propast.
 * Ve svém vnitřním životě...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:38-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:38-cs
+  :keywords:
   :END:
 
 
@@ -786,9 +781,9 @@ ve vývoji
 * Tajně a posvátně...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:39-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:39-cs
+  :keywords:
   :END:
 
 
@@ -804,9 +799,9 @@ jsi vysušil nekonečné slzy
 * Jsi samostatným farmářem osudu ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:40-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:40-cs
+  :keywords:
   :END:
 
 
@@ -822,9 +817,9 @@ sklízejícím bohatou úrodu
 * Nanejvýš nádherně jsi znázornil...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:41-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:41-cs
+  :keywords:
   :END:
 
 
@@ -841,9 +836,9 @@ a srdce, které projevuje lásku.
 * Učíš svět...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:42-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:42-cs
+  :keywords:
   :END:
 
 
@@ -860,9 +855,9 @@ s dlouhotrvajícími vzdechy mysli
 * Jsi pláčem naděje a aspirace...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:43-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:43-cs
+  :keywords:
   :END:
 
 
@@ -879,9 +874,9 @@ Jsi úsměvem příslibu a naplnění
 * Tvé srdce v sobě chová...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:44-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:44-cs
+  :keywords:
   :END:
 
 
@@ -900,9 +895,9 @@ Tvůj život v sobě chová
 * Nejmenší naděje lidstva...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:45-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:45-cs
+  :keywords:
   :END:
 
 
@@ -918,9 +913,9 @@ na nejrozlehlejší možnosti božskosti.
 * Tvá mysl vždy přijímá nové nápady...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:46-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:46-cs
+  :keywords:
   :END:
 
 
@@ -939,9 +934,9 @@ je světový domov srdce jednoty.
 * Semínka trpělivosti a vnitřního ticha...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:47-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:47-cs
+  :keywords:
   :END:
 
 
@@ -963,9 +958,9 @@ nejen jejich,
 * Říkáš světu:...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:48-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:48-cs
+  :keywords:
   :END:
 
 
@@ -983,9 +978,9 @@ Tento pokrok není a nemůže být
 * Kormidelník Nejvyšší...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:49-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:49-cs
+  :keywords:
   :END:
 
 
@@ -1005,9 +1000,9 @@ sloužit světu s novým dechem.
 * Velmi mladý...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:50-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:50-cs
+  :keywords:
   :END:
 
 
@@ -1025,9 +1020,9 @@ začal jsi prozkoumávat
 * Říkáš světu...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:51-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:51-cs
+  :keywords:
   :END:
 
 
@@ -1045,9 +1040,9 @@ je řešitelem problémů.
 * Pád berlínské zdi:...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:52-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:52-cs
+  :keywords:
   :END:
 
 
@@ -1065,9 +1060,9 @@ následkem byl
 * Ticho Věčnosti:...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:53-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:53-cs
+  :keywords:
   :END:
 
 
@@ -1083,9 +1078,9 @@ tvé srdce aspirace.
 * Zvuk Nekonečnosti:...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:54-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:54-cs
+  :keywords:
   :END:
 
 
@@ -1101,9 +1096,9 @@ tvůj život zasvěcení.
 * Máš jen jednu...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:55-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:55-cs
+  :keywords:
   :END:
 
 
@@ -1121,9 +1116,9 @@ nebo sytíš svou chamtivost?
 * Květina aspirace...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:56-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:56-cs
+  :keywords:
   :END:
 
 
@@ -1142,9 +1137,9 @@ s každým tvým činem.
 * Schopnost přeměny světa...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:57-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:57-cs
+  :keywords:
   :END:
 
 
@@ -1161,9 +1156,9 @@ Vskutku, ty jsi zářným příkladem.
 * Tvé srdce soucitu...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:58-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:58-cs
+  :keywords:
   :END:
 
 
@@ -1181,9 +1176,9 @@ a aby jej potom brzy, velmi brzy,
 * Neochvějná upřímnost...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:59-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:59-cs
+  :keywords:
   :END:
 
 
@@ -1202,9 +1197,9 @@ Proto je pro všechny a pro každého těžké
 * Rychle myslíš....
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:60-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:60-cs
+  :keywords:
   :END:
 
 
@@ -1223,9 +1218,9 @@ vlnami sebepochybnosti.
 * S úsměvem se dotýkáš...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:61-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:61-cs
+  :keywords:
   :END:
 
 
@@ -1245,9 +1240,9 @@ Mocně přeměňuješ
 * Znovu a znovu vztyčuješ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:62-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:62-cs
+  :keywords:
   :END:
 
 
@@ -1264,9 +1259,9 @@ dokonce i v beznadějně nesmiřitelných
 * Bezvýhradně těšíš...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:63-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:63-cs
+  :keywords:
   :END:
 
 
@@ -1284,9 +1279,9 @@ s láskou a obdivem přijme.
 * Ve vnitřním světě...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:64-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:64-cs
+  :keywords:
   :END:
 
 
@@ -1302,9 +1297,9 @@ Bůh-Výška Soucitu.
 * Ve vnějším světě...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:65-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:65-cs
+  :keywords:
   :END:
 
 
@@ -1320,9 +1315,9 @@ Bůh-Světlo Spravedlnosti.
 * Bezesným mučedníkem...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:66-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:66-cs
+  :keywords:
   :END:
 
 
@@ -1341,9 +1336,9 @@ bezedným propůjčovatelem
 * Milovník jednoty v tobě...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:67-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:67-cs
+  :keywords:
   :END:
 
 
@@ -1362,9 +1357,9 @@ Milovník jednoty v tobě
 * Zemětřesení nevědomosti...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:68-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:68-cs
+  :keywords:
   :END:
 
 
@@ -1381,9 +1376,9 @@ ale i obzvlášť nebezpečné.
 * Sebejistě přicházíš...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:69-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:69-cs
+  :keywords:
   :END:
 
 
@@ -1403,9 +1398,9 @@ otráveném rozdělením a podezříváním.
 * Běda, zatímco chceš odstranit...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:70-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:70-cs
+  :keywords:
   :END:
 
 
@@ -1423,9 +1418,9 @@ některé země se těší z toho,
 * Tvá mysl...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:71-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:71-cs
+  :keywords:
   :END:
 
 
@@ -1442,9 +1437,9 @@ maratón ochoty.
 * Tvé srdce...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:72-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:72-cs
+  :keywords:
   :END:
 
 
@@ -1461,9 +1456,9 @@ maratón zájmu.
 * Tvůj život...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:73-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:73-cs
+  :keywords:
   :END:
 
 
@@ -1480,9 +1475,9 @@ maratón vzájemné závislosti.
 * Lhostejnost je začátkem...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:74-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:74-cs
+  :keywords:
   :END:
 
 
@@ -1499,9 +1494,9 @@ Podezřívání je začátkem
 * Svou myslí zaplavenou moudrostí...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:75-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:75-cs
+  :keywords:
   :END:
 
 
@@ -1519,9 +1514,9 @@ a srdcem zaplaveným soucitem
 * Než ses stal...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:76-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:76-cs
+  :keywords:
   :END:
 
 
@@ -1543,9 +1538,9 @@ laskavé dítě Stavropolu!
 * Jsi světlem moudrosti
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: GMKU-e2-cs
-  :KEYWORDS:
+  :genre: section
+  :cite-key: GMKU-e2-cs
+  :keywords:
   :END:
 
 
@@ -1553,9 +1548,9 @@ laskavé dítě Stavropolu!
 * " Nemyslím si mnoho o člověku...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:77-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:77-cs
+  :keywords:
   :END:
 
 #+BEGIN QUOTE
@@ -1583,9 +1578,9 @@ Prezident Gorbačov své protivníky osvěcuje, místo aby je ničil. Tímto nen
 * Dva Mahátmové (velké duše)...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:78-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:78-cs
+  :keywords:
   :END:
 
 
@@ -1606,9 +1601,9 @@ Teorie je jedna věc, ale praxe může být úplně jiná. To, co ovlivňuje lid
 * Někteří tě obviňují...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:80-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:80-cs
+  :keywords:
   :END:
 
 
@@ -1621,9 +1616,9 @@ Ty, kteří se nechtějí pohnout ani o píď, horoucně žádáš, aby se posu
 * Neohroženě jsi zápasil...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:81-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:81-cs
+  :keywords:
   :END:
 
 
@@ -1635,9 +1630,9 @@ Neohroženě jsi zápasil s neochotou svých zarytých protivníků. K naší ob
 * Každý člověk chce být pánem....
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:82-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:82-cs
+  :keywords:
   :END:
 
 
@@ -1647,9 +1642,9 @@ Každý člověk chce být pánem. Říkáš jim, že existuje snadný způsob, 
 * Tvé inspirující srdce utěšuje...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:83-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:83-cs
+  :keywords:
   :END:
 
 
@@ -1660,9 +1655,9 @@ Tvé inspirující srdce utěšuje dříve než nejdříve ty, kteří strádaj�
 * Naneštěstí se některé světové osobnosti...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:84-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:84-cs
+  :keywords:
   :END:
 
 
@@ -1673,9 +1668,9 @@ Naneštěstí se některé světové osobnosti ve věku snícím o míru chtěj�
 * Raisa Maximovna Gorbačovová
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: GMKU-e3-cs
-  :KEYWORDS:
+  :genre: section
+  :cite-key: GMKU-e3-cs
+  :keywords:
   :END:
 
 
@@ -1683,9 +1678,9 @@ Naneštěstí se některé světové osobnosti ve věku snícím o míru chtěj�
 * Raiso, ó duhová královno
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:85-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:85-cs
+  :keywords:
   :END:
 
 
@@ -1710,9 +1705,9 @@ sněhobílá laskavost, jednota
 * Mé sovětské sestry
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:86-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:86-cs
+  :keywords:
   :END:
 
 
@@ -1734,9 +1729,9 @@ poklady v nás.
 * Ne vpředu, ne vzadu
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:87-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:87-cs
+  :keywords:
   :END:
 
 
@@ -1753,9 +1748,9 @@ jednoty a naprosté plnosti.
 * První
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:88-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:88-cs
+  :keywords:
   :END:
 
 
@@ -1785,9 +1780,9 @@ První
 * Raiso Maximovno Gorbačovová, Ó Sestro...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:89-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:89-cs
+  :keywords:
   :END:
 
 
@@ -1806,9 +1801,9 @@ Nyní nám přichází na pomoc prezident Gorbačov se sebejistým krokem vpřed
 * Na výstavě restaurovaných hodin...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:90-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:90-cs
+  :keywords:
   :END:
 
 
@@ -1820,9 +1815,9 @@ S pomocí své osvícené mysli a soucitného srdce učíš svět, jak plavat v
 * Během jejich prvního setkání...
 
   :PROPERTIES:
-  :GENRE: interview
-  :CITE-KEY: GMKU:91-cs
-  :KEYWORDS:
+  :genre: interview
+  :cite-key: gmku:91-cs
+  :keywords:
   :END:
 
 Během jejich prvního setkání řekl autorovi prezident Gorbačov vřele: „Tolik jsem toho slyšel o vás a o vaší práci. Musíme společně pracovat pro světový mír.“ Setkání se odehrálo 29. května 1990 v rezidenci generálního guvernéra Kanady v Ottawě.
@@ -1838,10 +1833,10 @@ Na stejném setkání předává Rabindra David Hamilton, student Sri Chinmoye, 
 * Následují úvodní slova z magnetofonového záznamu...
 
   :PROPERTIES:
-  :GENRE: letter_ckg
-  :CITE-KEY: GMKU:92-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1990-05-29  
+  :genre: letter_ckg
+  :cite-key: gmku:92-cs
+  :keywords:
+  :date-event: 1990-05-29  
   :END:
 
 
@@ -1868,9 +1863,9 @@ Sri Chinmoy
 * Politika a Duchovnost
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:93-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:93-cs
+  :keywords:
   :END:
 
 
@@ -1922,9 +1917,9 @@ bezvýhradně opatruje
 * Věnované písně
 
   :PROPERTIES:
-  :GENRE: songs
-  :CITE-KEY: GMKU:94-cs
-  :KEYWORDS:
+  :genre: songs
+  :cite-key: gmku:94-cs
+  :keywords:
   :END:
 
 
@@ -1932,9 +1927,9 @@ bezvýhradně opatruje
 * Univerzální klíč k srdci světa
 
   :PROPERTIES:
-  :GENRE: song
-  :CITE-KEY: GMKU:95-cs
-  :KEYWORDS:
+  :genre: song
+  :cite-key: gmku:95-cs
+  :keywords:
   :END:
 
 
@@ -1952,9 +1947,9 @@ Univerzální klíč k srdci světa,
 * Můžeme buď společně stoupat...
 
   :PROPERTIES:
-  :GENRE: quote
-  :CITE-KEY: GMKU:96-cs
-  :KEYWORDS:
+  :genre: quote
+  :cite-key: gmku:96-cs
+  :keywords:
   :END:
 
 MŮŽEME BUĎ SPOLEČNĚ STOUPAT
@@ -1987,9 +1982,9 @@ ZBAVILI JSME SE MNOHA POUT
 * Rastrapati Gorbačov
 
   :PROPERTIES:
-  :GENRE: song
-  :CITE-KEY: GMKU:97-cs
-  :KEYWORDS:
+  :genre: song
+  :cite-key: gmku:97-cs
+  :keywords:
   :END:
 
 
@@ -2011,9 +2006,9 @@ vedoucí k nejvyššímu Cíli.
 * Russia Bharat
 
   :PROPERTIES:
-  :GENRE: song
-  :CITE-KEY: GMKU:98-cs
-  :KEYWORDS:
+  :genre: song
+  :cite-key: gmku:98-cs
+  :keywords:
   :END:
 
 
@@ -2040,9 +2035,9 @@ létají na nebi
 * Prezident Gorbačov řekl: „Jedno indické přísloví říká...
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: GMKU:99-cs
-  :KEYWORDS:
+  :genre: poem
+  :cite-key: gmku:99-cs
+  :keywords:
   :END:
 
 
@@ -2060,9 +2055,9 @@ Indický život opatruje tvůj šlechetný život.
 * Moskva
 
   :PROPERTIES:
-  :GENRE: song
-  :CITE-KEY: GMKU:100-cs
-  :KEYWORDS:
+  :genre: song
+  :cite-key: gmku:100-cs
+  :keywords:
   :END:
 
 
@@ -2076,9 +2071,9 @@ sladká, něžná náklonnost putujících duší.
 * Rusko, Rusko...
 
   :PROPERTIES:
-  :GENRE: song
-  :CITE-KEY: GMKU:101-cs
-  :KEYWORDS:
+  :genre: song
+  :cite-key: gmku:101-cs
+  :keywords:
   :END:
 
 
@@ -2103,9 +2098,9 @@ A tei bezesně
 * Inspirující laskavá slova
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: GMKU-e4-cs
-  :KEYWORDS:
+  :genre: section
+  :cite-key: GMKU-e4-cs
+  :keywords:
   :END:
 
 
@@ -2113,9 +2108,9 @@ A tei bezesně
 * Příznivců Sovětského svazu je mnoho...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:102-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:102-cs
+  :keywords:
   :END:
 
 
@@ -2137,9 +2132,9 @@ Zlatého břehu světa Za.
 * Organizace Spojených Národů
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:103-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:103-cs
+  :keywords:
   :END:
 
 
@@ -2153,9 +2148,9 @@ Těchto několik vzácných slov bude navždy zářit v srdci historie OSN. Jeno
 * Premiérka Velké Británie paní Thatcherová...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:104-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:104-cs
+  :keywords:
   :END:
 
 
@@ -2168,9 +2163,9 @@ Když se premiérka Thatcherová na jaře 1987 vrátila do Velké Británie ze s
 * Kanadský premiér Brian Mulroney...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:105-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:105-cs
+  :keywords:
   :END:
 
 
@@ -2183,9 +2178,9 @@ Kanadský premiér Brian Mulroney projevil vrcholně významnou a vysokou intuic
 * Kancléř Německa Helmut Kohl...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:106-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:106-cs
+  :keywords:
   :END:
 
 
@@ -2198,9 +2193,9 @@ Kancléř Kohl řekl: „Pan Gorbačov mě nezpochybnitelně ujistil, že Sovět
 * Prezident Francie Francois Mitterrand...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:107-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:107-cs
+  :keywords:
   :END:
 
 
@@ -2213,9 +2208,9 @@ Prezident Francie, Francois Mitterrand, se odvážně dělí se zbytkem světa o
 * Jedna Evropa....
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: GMKU:108-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: gmku:108-cs
+  :keywords:
   :END:
 
 
@@ -2231,9 +2226,9 @@ Strasbourg, Francie
 * 1990 Nobelova Cena Míru
 
   :PROPERTIES:
-  :GENRE: songs
-  :CITE-KEY: GMKU:109-cs
-  :KEYWORDS:
+  :genre: songs
+  :cite-key: gmku:109-cs
+  :keywords:
   :END:
 
 
@@ -2241,9 +2236,9 @@ Strasbourg, Francie
 * Telegram od Sri Chinmoye...
 
   :PROPERTIES:
-  :GENRE: letter_ckg
-  :CITE-KEY: GMKU:110-cs
-  :KEYWORDS:
+  :genre: letter_ckg
+  :cite-key: gmku:110-cs
+  :keywords:
   :END:
 
 
@@ -2269,9 +2264,9 @@ Sri Chinmoy
 
 
   :PROPERTIES:
-  :GENRE: song
-  :CITE-KEY: GMKU:111-cs
-  :KEYWORDS:
+  :genre: song
+  :cite-key: gmku:111-cs
+  :keywords:
   :END:
 
 
@@ -2285,9 +2280,9 @@ Gorbačove, radosti svobody jsou tvým vnějším pozvednutím.
 * Ó Nejvyšší kormidelníku Sovětského svazu!
 
   :PROPERTIES:
-  :GENRE: song
-  :CITE-KEY: GMKU:112-cs
-  :KEYWORDS:
+  :genre: song
+  :cite-key: gmku:112-cs
+  :keywords:
   :END:
 
 
@@ -2302,9 +2297,9 @@ Tvá duše je přítelem naplnění lásky světa.
 
 
   :PROPERTIES:
-  :GENRE: song
-  :CITE-KEY: GMKU:113-cs
-  :KEYWORDS:
+  :genre: song
+  :cite-key: gmku:113-cs
+  :keywords:
   :END:
 
 
@@ -2316,19 +2311,3 @@ všichni občané světa, milující mír!
 Společně můžeme.
 Společně budeme.
 Společně musíme.
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

@@ -1,12 +1,7 @@
-#+TITLE: Přišli, jen aby odešli
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Přišli, jen aby odešli
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: TCOG:1-cs
+  :cite-key: tcog:1-cs
   :END:
 
 
@@ -34,7 +29,7 @@
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:2-cs
+  :cite-key: tcog:2-cs
   :END:
 
 
@@ -47,7 +42,7 @@ Stalo se, že Mistr nebyl informován, že v tento den má její dcera narozenin
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:3-cs
+  :cite-key: tcog:3-cs
   :END:
 
 
@@ -60,7 +55,7 @@ On a jeho žena nebyli vegetariáni. Mistr to věděl, ale nevěnoval tomu pozor
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:4-cs
+  :cite-key: tcog:4-cs
   :END:
 
 
@@ -75,7 +70,7 @@ Byla to žena středního věku. Jednoho dne přišla do Centra dělat nesobecko
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:5-cs
+  :cite-key: tcog:5-cs
   :END:
 
 
@@ -96,7 +91,7 @@ Astroložka nato řekla Mistrovi: „Jsi nejen prvotřídním okultistou, ale i 
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:6-cs
+  :cite-key: tcog:6-cs
   :END:
 
 
@@ -113,7 +108,7 @@ Ind se na Mistra rozhněval a opustil jej.
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:7-cs
+  :cite-key: tcog:7-cs
   :END:
 
 
@@ -126,7 +121,7 @@ Jednoho dne požádala svého Mistra, aby jí otevřel třetí oko. Mistr řekl,
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:8-cs
+  :cite-key: tcog:8-cs
   :END:
 
 
@@ -146,7 +141,7 @@ Mistr odvětil: „Příležitostně ti mohu pomoci, ale ne pravidelně. Moje vl
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:9-cs
+  :cite-key: tcog:9-cs
   :END:
 
 
@@ -159,7 +154,7 @@ Byla to žena středního věku. Měla bratra, který se k ní nechoval dobře, 
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:10-cs
+  :cite-key: tcog:10-cs
   :END:
 
 
@@ -177,7 +172,7 @@ Mistr řekl svému příteli doktorovi: „Tvůj Mistr přišel na svět, aby by
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:11-cs
+  :cite-key: tcog:11-cs
   :END:
 
 
@@ -198,7 +193,7 @@ A on poznamenal: „Nech si tedy svou upřímnost a já si ponechám tvého man�
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:12-cs
+  :cite-key: tcog:12-cs
   :END:
 
 
@@ -217,7 +212,7 @@ Mistr toho dne nebyl ke své žákyni dostatečně laskavý, a to byla chyba. Mi
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:13-cs
+  :cite-key: tcog:13-cs
   :END:
 
 
@@ -239,7 +234,7 @@ Sestra se jen na svého bratra široce usmála a řekla, že není nic špatnéh
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:14-cs
+  :cite-key: tcog:14-cs
   :END:
 
 
@@ -252,7 +247,7 @@ Byl obchodníkem, co prodává kráječe na zeleninu. Napadlo ho, že by je mohl
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:15-cs
+  :cite-key: tcog:15-cs
   :END:
 
 
@@ -265,24 +260,8 @@ Měl brilantní rozum a tak musel všechno analyzovat. Mysl u něj měla vždy p
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: TCOG:16-cs
+  :cite-key: tcog:16-cs
   :END:
 
 
 Byla to starší dáma, která si myslela, že se Mistr stará jen o mladou generaci. Myslela si, že se o starší generaci vůbec nezajímá. Mistr ji individuálně povzbuzoval a jednou jí projevil zvýšenou pozornost. Běda, tato zvláštní pozornost způsobila v jejím emocionálním a vitálním životě ohromný strach. Proto opustila cestu.
-
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

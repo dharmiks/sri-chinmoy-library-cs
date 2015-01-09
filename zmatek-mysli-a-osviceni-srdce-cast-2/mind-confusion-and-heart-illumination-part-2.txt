@@ -1,12 +1,7 @@
-#+TITLE: Zmatek mysli a osvícení srdce, část 2
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Zmatek mysli a osvícení srdce, část 2
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: MCHI:56e1-cs
+  :cite-key: mchi:56e1-cs
   :END:
 
 
@@ -34,7 +29,7 @@
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:56-cs
+  :cite-key: mchi:56-cs
   :END:
 
 /Sri Chinmoy:/ Myšlení a meditace jsou úplně odlišné věci -- naprosto, radikálně odlišné věci. Myšlení a meditace jsou jako severní pól a jižní pól. Myslící mysl vás nemůže nikdy osvobodit z okovů nevědomosti. Nevědomá osoba neví, jak víc myslet, zná pouze několik myšlenek. Intelektuální člověk přemýšlí dvacet čtyři hodin denně. Ale co jeden i druhý z nich dlouhodobě dokáže? Dlouhodobě nedokáží nic. První se spokojí pouze s několika myšlenkami a druhý se spokojí s tisíci myšlenkami a spoustami mentálních informací. Ale zde oba skončí. Ani jeden nevstoupí do ničeho vyššího.
@@ -48,7 +43,7 @@ Když meditujeme, vůbec nemyslíme. Cílem meditace je osvobodit se od myšlene
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:57-cs
+  :cite-key: mchi:57-cs
   :END:
 
 /Sri Chinmoy:/ Při meditaci bychom neměli přikládat důležitost mysli. Když nepřichází žádné informace, je to dobře. Pravá meditace nejsou informace, je to ztotožnění. Mysl se snaží vytvořit jednotu tím, že tě pohltí a zajme, a proto se můžeš lehce vzbouřit. Ale srdce vytváří jednotu skrze ztotožnění. Mysl se snaží vlastnit. Srdce se rozšiřuje, a když se rozšiřuje, přijímá. Myslí rozdělujeme sami sebe. Mysl se může pokusit něco udělat a okamžitě se tělo nebo vitálno může pokusit tomu zabránit. Ale jestliže chce něco udělat srdce, ať je to jakkoliv obtížné, bude to dokončeno. To proto, že nezíská-li mysl žádné uspokojení, když něco zkusí, řekne, že v tom není žádná skutečnost a vzdá to. Ale když srdce nezíská žádné uspokojení, cítí, že neudělalo věc správně. Tak že zkouší opět a pokračuje ve zkoušení, dokud nakonec uspokojení nevysvitne.
@@ -60,7 +55,7 @@ Když meditujeme, vůbec nemyslíme. Cílem meditace je osvobodit se od myšlene
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:58-cs
+  :cite-key: mchi:58-cs
   :END:
 
 /Sri Chinmoy:/ K utišení mysli pro koncentraci musíš použít sílu své vůle. Jestliže tvá koncentrace je tak rozptýlená, že vůbec nemůžeš přivést mysl pod kontrolu, existuje určité cvičení, které můžeš provádět.
@@ -74,7 +69,7 @@ Udělej na zdi malý černý bod a postav se šest nebo sedm stop od něj a zam�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:59-cs
+  :cite-key: mchi:59-cs
   :END:
 
 /Sri Chinmoy:/ Ptáte se mne na nanejvýš složitou otázku. Jestliže nemáte žádného učitele, musíte začít čtením duchovních knih napsaných skutečnými Mistry. To vám dá inspiraci. Potom, prosím, cvičte koncentraci na Své srdce. Nikdo nemůže popsat způsob, jak meditovat, protože duše každé osoby má svůj vlastní způsob meditace. Musíte jít hluboko dovnitř, abyste našel svůj vlastní způsob. Jestliže nedokážete jít hluboko dovnitř, abyste získal vlastní meditaci, nebo pokud nejste spokojen s meditací, u níž cítíte, že jste ji získal zevnitř, musíte cítit nutnost vhodit mysl do srdce. Neosvícená lidská mysl musí být vhozena do moře božské lásky srdce. Jestliže opravdu chcete meditovat, naučte se koncentrovat v srdci a ne v mysli.
@@ -88,7 +83,7 @@ Neříkám, že mysl je špatná. To zdaleka ne. Ale mysl je omezená, zatímco 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:60-cs
+  :cite-key: mchi:60-cs
   :END:
 
 /Sri Chinmoy:/ Když začínáte svou cestu, pokuste se povolit vstoupit do sebe pouze božským myšlenkám a ne nebožským myšlenkám. Je lepší nemít během meditace vůbec žádné myšlenky, ale pro začátečníka je téměř nemožné mít mysl bez myšlenek. Začátečník se učí, nebude vždy začátečníkem.
@@ -101,10 +96,10 @@ Jak můžete mít úspěšnou meditaci? Snažte se vnitřně plakat, plakat pro 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:61-cs
+  :cite-key: mchi:61-cs
   :END:
 
-/Sri Chinmoy:/ Nevíš o tom, ale děláš tu správou věc. Právě teď je pro tebe tou nejlepší věcí koncentrace. Když se snažíš učinit svou mysl tichou a klidnou, koncentruješ se. Jestliže se dokážeš koncentrovat na uklidnění mysli, je to skvělá věc. Jsi-li úspěšný ve vyhánění všech věcí, které ruší tvou mysl, dříve nebo později vyjde samovolně tvé vnitřní já do popředí a postaví se přímo před tebe jako zářící slunce pročišťující závoj mraků. Právě teď je slunce zakryto mraky: myšlenkami, představami, pochybami, obavami a tak dále. Když je dokážeš vyhnat, spatříš, že toto vnitřní já svítí jasně a zářivě přímo před tebou. Prosím, pokračuj v tom, co děláš. Je to velmi dobrá věc a umožní ti jít dál, výš a hlouběji. Meditaci bude provádět samovolně tvá vnitřní bytost. Pokoušej se pouze o koncentraci pravidelně, věrně a oddaně každý den. Tvé vnitřní já tebou bude nanejvýš potěšeno a dá ti to, co chceš od Boha.
+/Sri Chinmoy:/ nevíš o tom, ale děláš tu správou věc. právě teď je pro tebe tou nejlepší věcí koncentrace. když se snažíš učinit svou mysl tichou a klidnou, koncentruješ se. jestliže se dokážeš koncentrovat na uklidnění mysli, je to skvělá věc. jsi-li úspěšný ve vyhánění všech věcí, které ruší tvou mysl, dříve nebo později vyjde samovolně tvé vnitřní já do popředí a postaví se přímo před tebe jako zářící slunce pročišťující závoj mraků. právě teď je slunce zakryto mraky: myšlenkami, představami, pochybami, obavami a tak dále. Když je dokážeš vyhnat, spatříš, že toto vnitřní já svítí jasně a zářivě přímo před tebou. Prosím, pokračuj v tom, co děláš. Je to velmi dobrá věc a umožní ti jít dál, výš a hlouběji. Meditaci bude provádět samovolně tvá vnitřní bytost. Pokoušej se pouze o koncentraci pravidelně, věrně a oddaně každý den. Tvé vnitřní já tebou bude nanejvýš potěšeno a dá ti to, co chceš od Boha.
 
 
 
@@ -113,7 +108,7 @@ Jak můžete mít úspěšnou meditaci? Snažte se vnitřně plakat, plakat pro 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:62-cs
+  :cite-key: mchi:62-cs
   :END:
 
 /Sri Chinmoy:/ Ber mysl jako opici nebo nezvládnutelné dítě. Samotnou přirozeností opice je kousat tě. Ale ty si toho nemusíš všímat, nebo pokud tě stále obtěžuje, můžeš ji polekat a vystrašit. Ale vždy ji odmítej. Tolikrát, kolikrát k tobě přijde, ji vyžeň, nebo záměrně nasměruj svou vědomou pozornost na něco jiného. Jestliže jí dovolíš, aby tě zneklidnila, získá sílu a bude tě stále mučit.
@@ -127,7 +122,7 @@ Během tvé meditace ti může tvá mysl odporovat a bránit, ale musíš cítit
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:63-cs
+  :cite-key: mchi:63-cs
   :END:
 
 /Sri Chinmoy:/ Jestliže chceme ovládnout mysl svou vůlí, bude to jako žádat opici, aby nás neobtěžovala. Samotnou přirozeností opice je kousat a štípat nás. Je nemožné ji zastavit. Ale můžeme přinést do popředí světlo duše, které má neomezenou sílu. Ve vnějším světě, pokud je někdo nadřazený sílou nebo mocí, bude se snažit toho, kdo jej obtěžuje, potrestat. Ale v duchovním životě světlo duše a světlo srdce nebudou trestat mysl. Naopak, světlo bude konat jako nanejvýš milující matka. Vyjde do popředí a bude se snažit mysl přeměnit. Bude cítit, tak jako matka, že nedokonalost je její vlastní nedokonalostí. Srdce bude cítit nejasnost, nečistotu a temnotu mysli jako své vlastní omezení a zároveň bude povoláno, aby nabídlo své světlo mysli, to světlo, které získává od duše. Abychom ovládli mysl, musíme použít vyšší sílu, světlo duše. Jestliže se pokusíme ovládnout mysl předtím, než přineseme dolů božské Světlo, hluboce selžeme.
@@ -139,7 +134,7 @@ Během tvé meditace ti může tvá mysl odporovat a bránit, ale musíš cítit
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:64-cs
+  :cite-key: mchi:64-cs
   :END:
 
 /Sri Chinmoy:/ Světlo a poznání nepřichází z vnějších zdrojů. Přichází zevnitř. Zaměřoval jsi svou pozornost na určitý předmět a toto je koncentrace. Meditace je něco jiného. Když medituješ, zaměřuješ se na Nekonečno nebo něco velmi rozlehlého, hlubokého, vznešeného. Nevidíš předmět, snažíš se vrůst do nekonečného rozšíření. Při koncentraci se zaměřuješ na něco malého, ale při meditaci vrhneš sám sebe do něčeho velmi rozlehlého.
@@ -153,7 +148,7 @@ Během tvé meditace ti může tvá mysl odporovat a bránit, ale musíš cítit
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:65-cs
+  :cite-key: mchi:65-cs
   :END:
 
 /Sri Chinmoy:/ Ty neužíváš schopnost svého srdce, používáš pouze sílu své mysli. Velmi často, když se na tebe soustředím, vidím, že tvá mysl se otáčí jako kolo. Když mysl krouží, je pro Nejvyššího velmi obtížné pracovat ve tvé mysli. Ale když tvé srdce aspiruje třeba jen jednu sekundu, Nejvyšší otevře dveře.
@@ -164,7 +159,7 @@ Když Bůh přemění vaše žádosti v aspiraci, uvidíte, že jste se stali as
 
 Jestliže meditujeme s intenzívní upřímností dvě minuty, je to lepší, než sedět v tak zvané meditaci dvě hodiny a myslet na své děti, své přátele, své nepřátele, své zaměstnání a cokoliv dalšího.
 
-V Indii existují venkovské ženy, které říkají: „Meditujeme šest nebo sedm hodin každý den. Ale Bůh je tak nelaskavý. Nikdy nevyslyší naše modlitby." Co ale ve skutečnosti dělají? Začnou meditovat a potom začnou myslet na svou krávu. Kráva se pase, a oni myslí na to, zda nevstoupila na pozemek někoho druhého a někdo jí nenatloukl. Jejich mysl se toulá ve světě představivosti a potom řeknou: „Meditovala jsem po tolik hodin." Ale kolikrát třeba pomyslely na Boha, nemluvě o tom, že by pocítily Boží Přítomnost ve svém srdci? Po celou dobu opakovaly Boží Jméno, ale myslely na svou krávu nebo jinou bezvýznamnou věc. Jaký výsledek může člověk očekávat od takového druhu meditace?
+V Indii existují venkovské ženy, které říkají: „meditujeme šest nebo sedm hodin každý den. ale bůh je tak nelaskavý. nikdy nevyslyší naše modlitby." co ale ve skutečnosti dělají? začnou meditovat a potom začnou myslet na svou krávu. kráva se pase, a oni myslí na to, zda nevstoupila na pozemek někoho druhého a někdo jí nenatloukl. jejich mysl se toulá ve světě představivosti a potom řeknou: „Meditovala jsem po tolik hodin." Ale kolikrát třeba pomyslely na Boha, nemluvě o tom, že by pocítily Boží Přítomnost ve svém srdci? Po celou dobu opakovaly Boží Jméno, ale myslely na svou krávu nebo jinou bezvýznamnou věc. Jaký výsledek může člověk očekávat od takového druhu meditace?
 
 Jestliže dokážeme zůstat pět minut bez jakékoliv myšlenky ve své mysli, božské či nebožské, dobré či špatné, potom okamžitě získáme obraz své duše. Duše představuje naši božskou dokonalost v našem vnějším i v našem vnitřním životě. Skrze čistou meditaci bez myšlenek se stáváme schopnými odrážet svou vnitřní božskost.
 
@@ -175,7 +170,7 @@ Jestliže dokážeme zůstat pět minut bez jakékoliv myšlenky ve své mysli, 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:66-cs
+  :cite-key: mchi:66-cs
   :END:
 
 /Sri Chinmoy:/ Ve chvíli, kdy do vaší mysli vstoupí myšlenka, zvláště jakákoliv nebožská myšlenka či špatná myšlenka, vaše aspirace ji musí rozsekat na kousky, protože během meditace je vše velmi intenzívní. Když mluvíte nebo jste zaměstnaní svými běžnými pozemskými činnostmi, můžete mít jakýkoliv druh myšlenek, protože tehdy vaše myšlenky nejsou intenzívní. Ale během meditace, když přijde jakákoliv nebožská myšlenka, síla vaší meditace ji zvětší a zesílí a ona zničí část vaší jemné a duchovní bytosti. Jestliže přijdou dobré myšlenky na nižší úrovni, pokuste se je pozvednout na vyšší úroveň. Ale pokud máte špatné myšlenky, prostě je zastavte, zabijte je.
@@ -187,7 +182,7 @@ Jestliže dokážeme zůstat pět minut bez jakékoliv myšlenky ve své mysli, 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:67-cs
+  :cite-key: mchi:67-cs
   :END:
 
 /Sri Chinmoy:/ Když během meditace přijde špatná myšlenka, snaž se cítit, že tato myšlenka je bezvýznamná jako mravenec. Špatné myšlenky nemohou využít tvou sílu, pokud budeš cítit, že duchovní síla, kterou jsi získal ze své meditace, je nekonečně silnější než síla špatných myšlenek. Někdy, když během meditace přijde špatná myšlenka, cítí člověk, že síla špatné myšlenky je tak mocná, že i když meditoval hodinu nebo dvě nebo tři hodiny, vše je zbytečné. Jedna špatná myšlenka, jedna běžná myšlenka přijde, a cítí se ztracený. Po dvě hodiny meditoval nanejvýš upřímně a božsky, ale v určitém okamžiku přikládá větší důležitost špatným myšlenkám.
@@ -203,7 +198,7 @@ Přeji si říci něco více ohledně této otázky. Před mnoha lety se žák z
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:68-cs
+  :cite-key: mchi:68-cs
   :END:
 
 /Sri Chinmoy:/ Když začneš cítit tlak ve svém čele nebo v hlavě, ciť prosím, že nemedituješ na správném místě. Chceš hrát hru, ale bohužel jsi šel na nesprávné hřiště. Když cítíš během meditace tlak ve své hlavě nebo ve svém čele, znamená to, že tvá mysl přitáhla dolů Světlo a Sílu nad své schopnosti. Tehdy okamžitě zaměř svou pozornost na srdce. Zde budeš cítit mír, radost, lásku, jistotu a vše ostatní, co potřebuješ. Pokaždé, když cítíš tlak, vědomě přesuň svou pozornost na srdce. Potom se snaž několik sekund pomalu a tiše nadechovat a toto napětí zmizí.
@@ -215,7 +210,7 @@ Přeji si říci něco více ohledně této otázky. Před mnoha lety se žák z
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:69-cs
+  :cite-key: mchi:69-cs
   :END:
 
 /Sri Chinmoy:/ Nejprve bys měl být sám k sobě velmi upřímný. Musíš vědět, zda skutečně vstupuješ do srdce nebo do mysli. Když začínáš brzy ráno meditovat, buď vstoupíš do srdce od samého začátku, nebo vstoupíš do srdce poté, co ses snažil půl hodiny nebo patnáct minut meditovat v mysli. Jsi-li rušen negativními myšlenkami a negativními silami, můžeš si být jistý, že nejsi v srdci, ale v mysli. Duchovní srdce je velmi čisté. Špatné síly do něj nepřijdou.
@@ -227,7 +222,7 @@ Přeji si říci něco více ohledně této otázky. Před mnoha lety se žák z
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:70-cs
+  :cite-key: mchi:70-cs
   :END:
 
 /Sri Chinmoy:/ Ano! Pro začátečníky zvlášť je vhodné vždy meditovat na srdeční centrum. Ve skutečnosti, dokonce i když je člověk pokročilý, měl by meditovat zde, protože ze srdečního centra cítíš jednotu s nejvyšším, získáváš radost a stáváš se nedílnou součástí čehokoliv, na co medituješ. Jestliže se koncentruješ na třetí oko, nemusíš mít pocit jednoty. Můžeš spatřit Světlo, ale budeš cítit, že není tvoje. Nejprve budeš cítit, že jsi spatřil Světlo, ale potom si budeš myslet, že to asi nebylo Světlo, ale prostě představa či přelud. Do tvé mysli mohou vstoupit pochybnosti. Když ale používáš své srdce, okamžitě cítíš, že radost, kterou získáváš, je tvoje, mír, který cítíš, je tvůj, cokoliv, co cítíš, se stává tvým. To je schopnost jednoty srdce.
@@ -241,7 +236,7 @@ Je tedy vždy vhodné meditovat nejprve v srdci. Když už jsi vytvořil svou je
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:71-cs
+  :cite-key: mchi:71-cs
   :END:
 
 /Sri Chinmoy:/ Předtím, než se koncentrujete na srdce nebo na cokoliv, přemýšlejte pouze několik minut o mysli namísto toho, že mysli dovolíte myslet na něco jiného. Oddělte se od mysli a pozorujte mysl. Pozorujte, co pro vás udělala a sledujte, zda jste skutečně spokojeni s jejími schopnostmi, Mysl vám dala mnoho věcí, ale stojí za to mít tyto věci v duchovním životě, či nikoliv? V běžném lidském životě má mysl nesmírný význam. Bez ní bychom nebyli pořádně schopni činnosti. Ale když vstoupíte do duchovního života, spatříte, že většina z toho, co vám mysl dala, byly informace a ne osvícení. Mezi těmito dvěma je velký rozdíl. Čtete knihy a mluvíte s lidmi a získáváte od nich mnoho informací. Ale kde je osvícení? Můžete přečíst stovky stran či hovořit se stovkami lidí, ale nezískáte osvícení. A tak, když myslíte na to, co vám dala mysl, myslete zároveň na věc, kterou potřebujete nejvíce a spatříte, že mysl tuto potřebu nenaplnila. Proto že vás mysl zklamala, proč byste se zde měli koncentrovat?
@@ -259,7 +254,7 @@ Nebuďme spokojení s věcmi, které získáme velmi snadno. Plačme pro něco, 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:72-cs
+  :cite-key: mchi:72-cs
   :END:
 
 /Sri Chinmoy:/ Dokážete-li se koncentrovat na špičku vašeho prstu, dokážete se také koncentrovat na své srdce. Stejně tak, jak se koncentrujete na cokoliv -- na obraz, svíčku, plamen, jakýkoliv hmotný předmět -- se také můžete koncentrovat na srdce. Můžete zavřít oči, nebo se dívat na zeď, ale po celou dobu myslíte na srdce jako na svého drahého přítele. Když se toto myšlení stane nejsilnější, když pohltí celou vaši pozornost, potom jste přešli za běžný způsob myšlení a začali jste s koncentrací. Nemůžete fyzicky pohlédnout na duchovní srdce, ale můžete na ně zaměřit celou svou pozornost. Potom postupně síla vaší koncentrace vstoupí do srdce a vytáhne vás úplně z říše myšlení.
@@ -275,7 +270,7 @@ Je-li vaše koncentrace dobrá, potom se pokuste meditovat. Meditace nemusí bý
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:73-cs
+  :cite-key: mchi:73-cs
   :END:
 
 /Sri Chinmoy:/ Začátečník musí cítit, že je dítě, nehledě na to jaký je jeho pozemský věk. Mysl dítěte není rozvinutá. Když má dvanáct nebo třináct let, jeho mysl začne pracovat na intelektuální úrovni, ale před tím je veškerým srdcem. Cokoliv spatří, cítí, že je jeho vlastní. Spontánně se ztotožňuje. To je to, co dělá srdce.
@@ -289,7 +284,7 @@ Cítíte-li, že jste dítě, okamžitě pociťte, že stojíte v květinové za
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:74-cs
+  :cite-key: mchi:74-cs
   :END:
 
 /Sri Chinmoy:/ Je si vědom Milosti, ale nemůže ji pojmout svou myslí. Představivost je v mysli. Když myslíme, že prožíváme něco velmi širokého, velmi rozsáhlého a velmi hlubokého svou myslí, pořád tato myšlenka rozsáhlosti a hloubky je téměř ničím ve srovnání se zkušeností, kterou jsme měli, nebo budeme mít. Jestliže někdo řekne dítěti, že něco je velmi velké, okamžitě pomyslí na slona nebo dům. To je jeho představa velikosti. Když myslíme svou myslí, naše představa rozlehlosti a hloubky je omezená podobně. Mysl nemůže pojmout nekonečnou rozlohu. Nemůže pořádně přijmout dojem nekonečné rozlehlosti. Když tedy aspirující chce snést dolů některé božské vlastnosti svou myslí, musí vědět, že mysl nemůže pořádně pojmout tyto vlastnosti, nemluvě snést je dolů. To proto, že představy lidské mysli jsou omezené, zatímco božské vlastnosti jsou nezměrné.
@@ -301,7 +296,7 @@ Cítíte-li, že jste dítě, okamžitě pociťte, že stojíte v květinové za
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: MCHI:75e1-cs
+  :cite-key: mchi:75e1-cs
   :END:
 
 
@@ -311,7 +306,7 @@ Cítíte-li, že jste dítě, okamžitě pociťte, že stojíte v květinové za
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:75-cs
+  :cite-key: mchi:75-cs
   :END:
 
 /Sri Chinmoy:/ Uvnitř srdce neexistuje žádný konflikt, ale často existuje konflikt mezi srdcem a myslí. Pravé aspirující srdce nemá jinou vůli, než vůli duše. Stále pláče, pláče pro dosažení Nejvyššího. Duchovní srdce má tento druh touhy. Dokud mysl nebude osvícená, srdce nepřestane bojovat, aby ji osvítilo. Bude plakat pro světlo, dokud mysl nebude plakat stále s ním. Musíme dovolit srdci zajmout mysl, a ne dovolit mysli libovat si v pochybách a podezření, které budou jen zdržovat její vlastní pokrok. 
@@ -325,7 +320,7 @@ Vitálno a mysl jsou na jedné straně a srdce a duše jsou na druhé straně. A
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:76-cs
+  :cite-key: mchi:76-cs
   :END:
 
 /Sri Chinmoy:/ Existuje mnoho důvodů, proč říkám lidem, aby zůstali v srdci, a ne v mysli. Srdce ví, jak se ztotožnit s Nejvyšším, s nejzazším, s nejvnitřnějším. V případě mysli tomu tak není. Mysl se snaží ztotožnit s předmětem, s osobou, s něčím omezeným. Ale toto ztotožnění není čisté či úplné. Když se mysl pokouší ztotožnit, pohlíží na předmět okem váhavosti, ne-li skutečného podezření. Ale když se chce s něčím, nebo s někým ztotožnit srdce, využívá cítění lásky a jednoty. Když chce srdce něco vidět, vidí to bezvýhradně. Ale když chce něco vidět mysl, snaží se zdržovat a oddělovat. Srdce zjednodušuje, mysl komplikuje. Mysl nevědomě získává potěšení z věcí, které jsou komplikované a zmatené, ale srdce získává radost z věcí, které jsou jednoduché. Nyní je nám k dispozici lidská, fyzická, pozemsky svázaná mysl. Ale vyšší mysl, nadmysl, intuitivní mysl, supramysl nám právě teď k službám není. V našem každodenním životě používáme pozemsky svázanou mysl, která si stále odporuje. Bohužel, zřídka používáme srdce, které je veškerou láskou, veškerou účastí, veškerým zájmem, vší čistotou, vší harmonií, vší jednotou.
@@ -341,10 +336,10 @@ Jsme vlastníky dvou místností. Jednu místnost známe jako místnost srdce, d
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:77-cs
+  :cite-key: mchi:77-cs
   :END:
 
-/Sri Chinmoy:/ Láska, oddanost, odevzdání: to je naše cesta. Láska je první příčka, oddanost je druhá příčka a odevzdanost je třetí a konečná příčka na našem duchovním žebříku. Jak víte, srdce je sídlem lásky. Lidskou lásku okamžitě následuje zklamání, ale božská láska je rozšířením našeho vědomí. Lidská láska znamená jen jednu věc: vlastnit a být vlastněn. Božská láska znamená jinou věc: osvětlovat a být osvícen, osvobozovat a být osvobozen. Když se snažíme vlastnit druhé, okamžitě jsme vlastněni, když se snažíme druhé osvítit a osvobodit, sami jsme osvíceni a osvobozeni.
+/Sri Chinmoy:/ láska, oddanost, odevzdání: to je naše cesta. láska je první příčka, oddanost je druhá příčka a odevzdanost je třetí a konečná příčka na našem duchovním žebříku. jak víte, srdce je sídlem lásky. lidskou lásku okamžitě následuje zklamání, ale božská láska je rozšířením našeho vědomí. lidská láska znamená jen jednu věc: vlastnit a být vlastněn. božská láska znamená jinou věc: osvětlovat a být osvícen, osvobozovat a být osvobozen. Když se snažíme vlastnit druhé, okamžitě jsme vlastněni, když se snažíme druhé osvítit a osvobodit, sami jsme osvíceni a osvobozeni.
 
 V lidské lásce vidíme významnou věc. Když někoho milujeme, snažíme se strávit svůj drahocenný čas s tou určitou osobou, nebo myšlením na ni. Oddáme se té osobě. V duchovním životě také, pokud skutečně milujeme Boha, nebo nějakého duchovního Mistra, potom přirozeně budeme mít vnitřní nutkání nabídnout mu svou čistou lásku a oddat se mu skrze svou aspiraci a sebezasvěcení. Jinak to, co máme, není pravá láska. Dokonce i lidská láska nabízí svobodně svou službu, aby potěšila milovaného. V duchovním životě musí být toto sebenabízení mnohem intenzivnější. Musíme být připraveni dát vše, co máme a čím jsme Bohu, našemu duchovnímu Mistru, cestě, kterou následujeme. Toto naprosté sebenabízení je oddaností.
 
@@ -361,10 +356,10 @@ Musíme mít v sobě pocit pravé lásky pro Nejvyššího. Potom musíme vědě
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:78-cs
+  :cite-key: mchi:78-cs
   :END:
 
-/Sri Chinmoy:/ Existují dvě cesty, kterými se můžete vydat: jedna je mentální cesta a druhá je psychická cesta. Nejsnazší, nejrychlejší a nejpřesvědčivější cesta je psychická cesta, cesta srdce. Když něco cítíme, jsme přesvědčeni víc, než když něco vidíme. Když něco vidíme svýma lidskýma očima, a když ve skutečnosti přistoupíme k té věci, nebo když se podíváme podruhé, může vypadat odlišně. Ale když něco skutečně cítíme uvnitř srdce, okamžitě je zde jistota. To proto, že za pomoci své mysli nemáme schopnost ztotožňování. Ale za pomoci srdce se ztotožníme okamžitě. 
+/Sri Chinmoy:/ existují dvě cesty, kterými se můžete vydat: jedna je mentální cesta a druhá je psychická cesta. Nejsnazší, nejrychlejší a nejpřesvědčivější cesta je psychická cesta, cesta srdce. Když něco cítíme, jsme přesvědčeni víc, než když něco vidíme. Když něco vidíme svýma lidskýma očima, a když ve skutečnosti přistoupíme k té věci, nebo když se podíváme podruhé, může vypadat odlišně. Ale když něco skutečně cítíme uvnitř srdce, okamžitě je zde jistota. To proto, že za pomoci své mysli nemáme schopnost ztotožňování. Ale za pomoci srdce se ztotožníme okamžitě. 
 
 Když slyší matka pláč dítěte, okamžitě k němu běží, protože se stala jedním s dítětem. Když v duchovním životě dítě -- aspirující -- pláče, okamžitě přiběhne Bůh. Cestu srdce nazýváme sluneční cestou. Na této cestě je pokrok rychlejší než nejrychlejší, protože uvnitř srdce je duše. Duše je veškerým světlem. Je to božský posel, božský představitel Boha. Když skutečně zaklepete na dveře srdce, vše je dosaženo, protože když se dveře srdce otevřou, uvnitř naleznete duši. Koncentrujte se, meditujte a kontemplujte tedy, prosím, na srdce. Vše, co chcete od Boha, v Bohu a pro Boha, přijde určitě přímo odsud.
 
@@ -375,7 +370,7 @@ Když slyší matka pláč dítěte, okamžitě k němu běží, protože se sta
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:79-cs
+  :cite-key: mchi:79-cs
   :END:
 
 /Sri Chinmoy:/ Existují dva způsoby. Jedním způsobem je, aby srdce vstoupilo do mysli. Druhým způsobem je, aby mysl vstoupila do srdce. Považujme srdce za matku a mysl za dítě. Buď musí jít dítě k matce, která je tichá, klidná a plná lásky, nebo matka musí jít k dítěti, které je právě teď nejisté, plné pochyb a neklidné.
@@ -393,7 +388,7 @@ Oba způsoby jsou účinné. Je-li mysl připravena učit se od srdce, srdce je 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:80-cs
+  :cite-key: mchi:80-cs
   :END:
 
 /Sri Chinmoy:/ Člověk nemůže vždy absolutně říci, zda něco přichází z mysli nebo ze srdce. Měli bychom více naslouchat srdci, protože srdce je dětské a čisté. Ale mysl myslí, že srdce je dětinské a nechce mu naslouchat. Stará se pouze o své vlastní vědomosti a ne o moudrost srdce. Netřeba říkat, že bychom se měli snažit vždy vidět svět skrze srdce.
@@ -407,7 +402,7 @@ Vše nemusí jít ze srdce do mysli. To znamená, že srdce se nemusí dorozumí
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:81-cs
+  :cite-key: mchi:81-cs
   :END:
 
 /Sri Chinmoy:/ Odpovídám na otázky, protože vidím, že někdy tvé srdce není schopno přesvědčit tvou mysl o pravdě, kterou tvé srdce již zná. Ale když uslyšíš tuto pravdu ode mě, tvá mysl se pokusí něco uvidět v mém Světle Moudrosti. Jak říkáš, tvé srdce nemá žádné otázky. Ale tvá mysl má docela hodně otázek. Když odpovídám na tvé otázky, síla tvého srdce je posílena, protože mysl začíná přijímat pravdu a světlo z odpovědi a odevzdává se tvému srdci. Když proti tomu mysl příliš nebojuje, srdce se posílí. Proto odpovídám na otázky -- abych přesvědčil mysl. Jinak se mysl bude velmi často bránit, aby viděla světlo nebo cítila světlo nebo se sjednotila se světlem, které srdce nabízí. 
@@ -419,10 +414,10 @@ Vše nemusí jít ze srdce do mysli. To znamená, že srdce se nemusí dorozumí
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:82-cs
+  :cite-key: mchi:82-cs
   :END:
 
-/Sri Chinmoy:/ Musíme znát zdroj svých otázek. Je-li zdrojem otázek intelektuální, důmyslná mysl, či fyzická mysl, potom tyto otázky nemají konečnou hodnotu. Dokonce pokud je na ně odpovězeno nanejvýš přiměřeně, vnitřnímu životu nebudou odpovědi k užitku. Pokud jde o tvé srdce, existuje jen jedna otázka, která může přicházet z nejvnitřnějšího skrytu tvého srdce a tou je: „Kdo jsem já?" To je jediná otázka, na kterou stojí za to se ptát. Je to otázka, která musí být zodpovídána každý den, každou sekundu v naší existenci. Máte-li milióny otázek o Bohu a o sobě, na všechny z nich budete schopni získat na-- nejvýš přiměřenou odpověď tak, že získáte správnou odpověď na tuto jednu otázku: „Kdo jsem já?" Všechny ostatní otázky se točí kolem této. Když znáte odpověď na tuto otázku, problémy vašeho života se vyřeší. Vstoupíte do osvobození, spasení, Seberealizace. Stanete se naprosto a vědomě jedním s Bohem Všemohoucím, Bohem Vševědoucím a Bohem Zcela Dokonalým.
+/Sri Chinmoy:/ musíme znát zdroj svých otázek. je-li zdrojem otázek intelektuální, důmyslná mysl, či fyzická mysl, potom tyto otázky nemají konečnou hodnotu. dokonce pokud je na ně odpovězeno nanejvýš přiměřeně, vnitřnímu životu nebudou odpovědi k užitku. pokud jde o tvé srdce, existuje jen jedna otázka, která může přicházet z nejvnitřnějšího skrytu tvého srdce a tou je: „kdo jsem já?" to je jediná otázka, na kterou stojí za to se ptát. je to otázka, která musí být zodpovídána každý den, každou sekundu v naší existenci. máte-li milióny otázek o bohu a o sobě, na všechny z nich budete schopni získat na-- nejvýš přiměřenou odpověď tak, že získáte správnou odpověď na tuto jednu otázku: „Kdo jsem já?" Všechny ostatní otázky se točí kolem této. Když znáte odpověď na tuto otázku, problémy vašeho života se vyřeší. Vstoupíte do osvobození, spasení, Seberealizace. Stanete se naprosto a vědomě jedním s Bohem Všemohoucím, Bohem Vševědoucím a Bohem Zcela Dokonalým.
 
 Nesnažte se hledat otázky hluboko uvnitř sebe. Většina otázek jsou jako mravenci a brouci. Žádným způsobem nám nepomáhají, abychom se přiblížili k našemu Cíli. Naopak, stojí nám v cestě. Osvětlujících otázek, otázek, které přicházejí z největších hlubin našeho srdce, týkajících se našeho vnitřního pokroku a vnitřního dosažení, naší seberealizace nebo realizace Boha je velmi malý počet. Kromě otázky „Kdo jsem já?", se můžeš chtít dozvědět odpověď na otázku „Proč jsem zde?" Můžeš mít také různé zvláštní otázky o svém duchovním pokroku, které k tobě nutně přicházejí spontánně. Ale jediná skutečně důležitá otázka je: „Kdo jsem já?"
 
@@ -433,7 +428,7 @@ Nesnažte se hledat otázky hluboko uvnitř sebe. Většina otázek jsou jako mr
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:83-cs
+  :cite-key: mchi:83-cs
   :END:
 
 /Sri Chinmoy:/ Nemluvím o lidském srdci, fyzickém srdci, které je jen dalším orgánem, nebo o emocionálním srdci, což je ve skutečnosti vitálno. Mluvím o čistém srdci, duchovním srdci. Někteří duchovní Mistři říkají, že duchovní srdce je ve středu hrudi, někteří říkají, že se nachází trochu nalevo, někteří říkají napravo. Existuje dokonce jeden duchovní učitel, který říká, že srdce je trochu nad středem obočí v místě, které nazýváme třetí oko. Jak může duchovní Mistr toto říkat? Protože osvícené třetí oko je světlem, a osvícené srdce je také světlem. Ale podle mé vlastní realizace se duchovní srdce nachází ve středu hrudi, ve středu našeho bytí.
@@ -447,7 +442,7 @@ Srdce je jako vrchní velitel, zatímco duše je králem. Když začne existovat
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:84-cs
+  :cite-key: mchi:84-cs
   :END:
 
 /Sri Chinmoy:/ Tvé vědomí je nyní v srdečním centru. To je centrum čisté lásky a jednoty. Předtím bylo tvé vědomí v mysli. Dokud zůstáváš v mysli, vše v životě nejspíš vypadá jako suchý kus dřeva. Ale když zůstáváš v srdci, život se dokáže změnit v moře čisté lásky a blaženosti. Protože přicházíš sem, tvé vědomí začalo působit více z tvého srdečního centra než z centra mysli. Jestliže je zde dokážeš udržet, postupně začneš zakoušet spontánní pocit jednoty. Pokud dokážeš obdělávat duchovní půdu srdce, zjistíš, že zde roste spontánní láska, spontánní jednota s Bohem a Božím stvořením.
@@ -461,7 +456,7 @@ Láska v srdci je skutečně čistá a prýští zde hojně. Z pupečního centr
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:85-cs
+  :cite-key: mchi:85-cs
   :END:
 
 /Sri Chinmoy:/ Duchovní sucho je nevyhnutelné, jen když nepřistupujeme k Bohu s dostatečnou láskou a oddaností. Přistupujeme-li k Bohu s myslí, bude sucho existovat. Ale pokud přistupujeme k Bohu se srdcem a duší, nebude existovat žádné sucho, jen neustálá sprška lásky a Milosti. Cítíme, že naše láska proudí k Bohu, a na nás že stále prší Boží Milost. Když se přibližujeme k Bohu s myslí, vidíme, jak dolů proudí Milost možná jednu sekundu. Potom nebude vůbec pršet čtyři dny nebo čtyři měsíce.
@@ -477,7 +472,7 @@ Pokud chcete žít v Boží nekonečné Milosti, potom musíte přistupovat k Bo
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:86-cs
+  :cite-key: mchi:86-cs
   :END:
 
 /Sri Chinmoy:/ Duchovní srdce se nachází přesně ve středu hrudi. Uvnitř srdce přebývá duše. Duše prostupuje celé tělo, ale přebývá v srdci stejně tak, jako člověk žije v domě, ale po většinu času se zdržuje v jedné určité místnosti. Člověk může cítit duchovní srdce, když intenzívně aspiruje a také ji může spatřit třetím okem. Každý aspirující by se měl každý den koncentrovat na srdce a ne na nic jiného. Musí pocítit, že nemá hlavu, nemá nohy, nemá paže; má jen srdce. Aspirující může dosáhnout svého duchovního srdce skrze stálou koncentraci a meditaci.
@@ -489,7 +484,7 @@ Pokud chcete žít v Boží nekonečné Milosti, potom musíte přistupovat k Bo
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:87-cs
+  :cite-key: mchi:87-cs
   :END:
 
 /Sri Chinmoy:/ Existují tři cesty, kterými se můžeš stát svým srdcem. První cestou je cítit, že jsi rozprostřela sítě, do nichž se chytil celý svět. Musíš chytit všechny, ne abys je trestala, ne abys jim ubližovala, ale aby sis s nimi hrála. Dáš jim radost a oni dají radost tobě. Když pomyslíš na hraní, staneš se srdcem. Srdce je radost, hra je radost a hráč je radost. Aby ses stala jen srdcem, musíš cítit, že je zde někdo, kdo si s tebou neustále a věčně hraje, a tou osobou je Bůh. Podle našeho indického pojetí je Bůh věčným Dítětem, a také všichni duchovní Mistři mají dětskou přirozenost. Někdy se říká, že prvním a hlavním znakem duchovního Mistra je, že má srdce dítěte. Samozřejmě, znamená to duchovního dítěte, božského dítěte, osvíceného dítěte a ne běžného dítěte.
@@ -505,10 +500,10 @@ Třetí způsob, jak cítit, že jsi srdcem, je stále cítit svou potřebu a po
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:88-cs
+  :cite-key: mchi:88-cs
   :END:
 
-/Sri Chinmoy:/ Nejprve se pokusme poznat, co znamená duchovní srdce. Duchovní srdce je naší nejsladší a nejdůvěrnější částí. Můžeme očekávat, že má pocit okamžité, neoddělitelné jednoty s Bohem. Právě nyní existuje naše fyzická existence odděleně od našeho vědomí srdce. Také mysl nás používá, a proto srdci není dovoleno vyjít do popředí. Opět, někdy užíváme vitálno a myslíme, že je to srdce, které užíváme. Abychom mohli dát lásku svého srdce Nejvyššímu, musíme se nejprve ztotožnit s pravým srdcem. Dále musíme cítit, že naše srdce se skládá jen z jedné věci: vděčnosti. Musíme cítit svou jednotu se srdcem a musíme cítit, že se musíme stát samou vděčností. Když někdo bude volat naše jméno, naše vnitřní bytost neodpoví. Ale když někdo řekne slovo „vděčnost", okamžitě budeme cítit, že volá nás a nikoho jiného.
+/Sri Chinmoy:/ nejprve se pokusme poznat, co znamená duchovní srdce. duchovní srdce je naší nejsladší a nejdůvěrnější částí. můžeme očekávat, že má pocit okamžité, neoddělitelné jednoty s bohem. právě nyní existuje naše fyzická existence odděleně od našeho vědomí srdce. také mysl nás používá, a proto srdci není dovoleno vyjít do popředí. opět, někdy užíváme vitálno a myslíme, že je to srdce, které užíváme. abychom mohli dát lásku svého srdce nejvyššímu, musíme se nejprve ztotožnit s pravým srdcem. dále musíme cítit, že naše srdce se skládá jen z jedné věci: vděčnosti. Musíme cítit svou jednotu se srdcem a musíme cítit, že se musíme stát samou vděčností. Když někdo bude volat naše jméno, naše vnitřní bytost neodpoví. Ale když někdo řekne slovo „vděčnost", okamžitě budeme cítit, že volá nás a nikoho jiného.
 
 Komu patří tato vděčnost? Patří Nejvyššímu. Ve chvíli, kdy dokážeme cítit, že naše vnitřní vědomí a vnější vědomí mají jen jedno jméno vděčnost, budeme schopni nabízet Nejvyššímu naprosto, bezpodmínečně a nepřetržitě lásku svého srdce. Proč musíme nabízet vděčnost Nejvyššímu? Protože Bůh nám dal největší představitelné požehnání. Dal nám touhu vést duchovní život a uskutečnit Ho. Na zemi existují miliardy lidí, kteří nemají toto nutkání uskutečnit Boha, protože nezískali toto jedinečné požehnání. Svou vědomou vnitřní pouť začínáme dříve než oni a také Cíle dosáhneme mnohem dříve než oni.
 
@@ -519,12 +514,12 @@ Komu patří tato vděčnost? Patří Nejvyššímu. Ve chvíli, kdy dokážeme 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:89-cs
+  :cite-key: mchi:89-cs
   :END:
 
 /Sri Chinmoy:/ Musíte vědět, že existuje velký rozdíl mezi srdcem Ježíše Krista a srdcem běžné lidské bytosti. Ale osoba, která je dnes obyčejná, může mít v Božím zítřku srdce rozlehlé tak jako Ježíš Kristus. Kdo dal Ježíši Kristu toto rozlehlé srdce? Kdo dal Pánu Buddhovi tak rozlehlé srdce? Bůh. Když může Bůh dát Kristovi, Buddhovi a Krišnovi tak rozlehlé srdce, může, pokud chce, dát stejný druh srdce také vám.
 
-Jeden den uvnitř sebe cítíte rozlehlé srdce a chcete se stát jedním se světem a ukázat světu účast. Ale jestliže nemáte druhý den stejný pocit, nebo stejnou schopnost cítit jednotu, neciťte se smutní. Pokud se tak budete cítit, bude to chyba. Z tohoto takzvaného smutku velmi brzo vyjde dopředu žárlivost. Když se stanete žárlivými, začínáte se proklínat a pochybovat o sobě. Říkáte: „Co jsem učinil špatně, že již nemám to, co jsem měl před několika dny?" Potom začnete myslet, že Bůh je zaujatý. Myslíte: „Nedal mi tuto schopnost stále. Nyní dal tuto schopnost někomu jinému."
+Jeden den uvnitř sebe cítíte rozlehlé srdce a chcete se stát jedním se světem a ukázat světu účast. Ale jestliže nemáte druhý den stejný pocit, nebo stejnou schopnost cítit jednotu, neciťte se smutní. Pokud se tak budete cítit, bude to chyba. Z tohoto takzvaného smutku velmi brzo vyjde dopředu žárlivost. Když se stanete žárlivými, začínáte se proklínat a pochybovat o sobě. Říkáte: „co jsem učinil špatně, že již nemám to, co jsem měl před několika dny?" potom začnete myslet, že bůh je zaujatý. myslíte: „Nedal mi tuto schopnost stále. Nyní dal tuto schopnost někomu jinému."
 
 Ale Bůh nenechá nikoho nerealizovaného. Každý musí uskutečnit Nejvyšší. Je to jen otázka času. Vy uskutečníte Boha zítra, někomu jinému to možná bude trvat dvě stě let, jinému to možná bude trvat čtyři sta let. Ale bude-li se ten, kterému to potrvá čtyři sta let cítit smutně, protože vy realizujete Boha zítra, jeho smutek mu ani trochu nepomůže. Pokud zvítězí nejrychlejší běžec, a já budu smutný, když ho budu pozorovat, vůbec mi to nepomůže. On má schopnosti, a tak zvítězí. Já nemám schopnosti, a tak nezvítězím. Ale jestliže dokážu ocenit jeho rychlost, samovolně do mne vstoupí něco z jeho schopností. Skrze upřímné uznání získáváme schopnosti. Když tedy vidíte, že někdo má velké srdce, srdce Krista, a dokážete-li si ho tehdy po celý čas cenit a obdivovat, svým oceňováním a ztotožněním samovolně zvětšíte sílu a schopnosti svého vlastního srdce.
 
@@ -535,7 +530,7 @@ Ale Bůh nenechá nikoho nerealizovaného. Každý musí uskutečnit Nejvyšší
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:90-cs
+  :cite-key: mchi:90-cs
   :END:
 
 /Sri Chinmoy:/ Protože jsem váš duchovní učitel, ciťte prosím, že uvnitř mne je nekonečné Vědomí. Vstoupili jste do duchovního života a v každém okamžiku se dotýkáte vědomí. Mé jméno, ačkoliv mi je dali rodiče, ve skutečnosti znamená „plný božského vědomí". Myslete na mé jméno během dne a ciťte, že když na mě myslíte, myslíte na jednu určitou věc ve svém životě, a tou je vědomí. „Mnou" myslím Nejvyššího ve mně. Když myslíte na vědomí, musíte cítit rozšíření, protože samotnou podstatou vědomí je rozšiřovat se. Když budete myslet na vědomí, okamžitě pocítíte uvnitř sebe rozlehlý oceán nebo rozlehlou oblohu.
@@ -549,7 +544,7 @@ Tvá otázka je, jak můžeš rozšířit své srdce, abys mne mohl mít stále 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:91-cs
+  :cite-key: mchi:91-cs
   :END:
 
 /Sri Chinmoy:/ Celou dobu musíš cítit, že fyzické není vším, ale že vším je duchovní. Uvnitř fyzického je duchovní. Tělo je vně, ale živý jsi jen proto, že uvnitř máš srdce. V duchovním životě jsou nejdůležitější srdce a duše. Uvnitř tebe musí být má přítomnost. Jestliže dokážeš cítit mou přítomnost uvnitř svého srdce, potom nebudeš cítit, že jsem pryč. Tímto způsobem dokážeš udržet své vědomí vysoko po celou dobu.
@@ -561,7 +556,7 @@ Tvá otázka je, jak můžeš rozšířit své srdce, abys mne mohl mít stále 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:92-cs
+  :cite-key: mchi:92-cs
   :END:
 
 /Sri Chinmoy:/ Duchovní život není životem lhostejnosti. Avšak když člověk jedná se světem, musí rozlišovat. Pokud dáš své srdce každému, nehledě na to, kým tato osoba je, potom tě lidé mohou zneužívat. Chce-li zloděj koupit nářadí, se kterým chce loupit, a dá-li mu někdo s velkodušným srdcem peníze, aniž by se ptal, o jaký druh osoby se jedná, nebo proč peníze chce, kdo potom bude za jeho budoucí krádeže částečně odpovědný? Ten člověk, který dal zloději peníze. Duchovní osoba může mít skutečně rozlehlé srdce, ale užívat vlastností srdce s moudrostí je důležitější, než plakat pro rozšíření srdce. Bůh již dal našemu srdci mnoho božských vlastností, ale my je neužíváme, a proto zpomalujeme svůj duchovní pokrok. Velmi málo lidí, musím říci, ví, co je skutečně duchovní srdce. To, co zaměňujeme za srdce, je ve skutečnosti emocionální vitálno. V této chvíli chceme dát vše určité osobě, a v další chvíli si chceme všechno ponechat sami. V tomto okamžiku jsem bez jakéhokoliv důvodu připraven dát ti vše a v dalším okamžiku opět bez jakéhokoliv důvodu jsem připraven vzít ti tvůj život. Tento druh pocitů vůbec nepochází ze srdce. To, co vidíme, je hra našeho požadujícího, nenaplněného vitálna. Když se naše vitálno bude snažit hrát roli srdce, pokusí se ovládat ostatní, nebo jim dát pocítit, že nás nutně potřebují, protože máme moudrost a světlo, zatímco oni ne. Ale samotná existence srdce je založena na ztotožňování. Ztotožnění je světlem. Duchovní srdce se může ztotožnit jen se světlem a blažeností, protože získává nepřetržité světlo a blaženost z duše. Můžeme se ztotožnit s něčím smutkem, ale ve skutečnosti se ztotožňujeme e světlem, které je uvnitř smutku. Uvnitř bolesti, uvnitř utrpení, uvnitř samotné temnoty je světlo. Nakonec se srdce ztotožní se světlem uvnitř. Pokud každý den pláčeme pro své vlastní vnitřní světlo, potom uvidíme, že naše srdce se musí rozšířit. Ale chceme-li rozšířit srdce bez světla, budeme jen rozšiřovat svou nevědomost. Pouze pokud pláčeme pro Nejvyšší, naše srdce se skutečně rozšíří.
@@ -577,7 +572,7 @@ Není vůbec těžké přivést do popředí dobré vlastnosti srdce jako soucit
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:93-cs
+  :cite-key: mchi:93-cs
   :END:
 
 /Sri Chinmoy:/ Jestliže máš velké srdce a chceš pomáhat stovkám lidí, musíš pamatovat na to, komu tito lidé patří. Nepatří tobě, patří Nejvyššímu. Protože jsou Jeho vlastnictvím, musíš se ujistit, že Nejvyšší chce, abys jim pomáhal. Chceš-li jim pomáhat, jen abys ukázal své vnější schopnosti, jediný významný výsledek bude vzrůst tvé pýchy a domýšlivosti. Ale jsi-li pověřen Bohem, Bůh dokáže dát srdce a schopnosti pomáhat nejen stu nebo dvěma stům lidí, ale miliónům lidí najednou.
@@ -597,7 +592,7 @@ Někdy, když cítíme, že jsme víc než připraveni jít a osvítit svět, ne
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:94-cs
+  :cite-key: mchi:94-cs
   :END:
 
 /Sri Chinmoy:/ Nejen, že je to možné, ale děje se to téměř stále. Fyzická mysl zahaluje vděčnost srdce téměř každý den a v některých případech dvacet čtyři hodin denně. Ateisté nevěří v Boha, ačkoliv Bůh jim dal duši, dal jim život, dal jim příležitost a stále se o ně stará a dává jim Soucit a Zájem. Ale pro ně není žádný Bůh. S jejich mentálním rozvojem a složitostí do nich vstoupily pochyby a další nebožské vlastnosti. Pro bohaté lidi Bůh také často neexistuje, ačkoliv Bůh je požehnal Svou Štědrostí. Pro ně jsou jejich Bohem peníze. Jsou vším, oč usilují. Tito lidé mají také srdce, ale vděčnost srdce je zastřena fyzickou myslí.
@@ -613,7 +608,7 @@ Vděčnost srdce můžeme odhalit ve chvíli, když se nám povede přivést do 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: MCHI:95-cs
+  :cite-key: mchi:95-cs
   :END:
 
 /Sri Chinmoy:/ Aspirace je všude, ale abych byl upřímný, v některých zemích je intenzivnější než v jiných. Nesnáz s Evropany je například ta, že většina z nich je příliš mentální. Mysl může být velmi dobrým nástrojem, ale právě nyní jím není. Mysl, kterou používáme nyní, je fyzická mysl, která neustále pochybuje a podezírá. Je velmi omezená a plná temnoty. Ale existuje také vyšší mysl, osvícená mysl, intuitivní mysl, nadmysl. Tyto úrovně mysli právě nyní nepoužíváme. Abychom je začali používat, musíme nejprve žít v srdci a přinést světlo do mysli. Má filozofie je psychická ze srdce, pro mnoho Evropanů je obtížné ocenit ji. Ale Američané žijí buď více v srdci nebo ve vitálnu, a není to tedy pro ně tak obtížné.
@@ -625,18 +620,3 @@ V Americe a na jiných místech, kde jsem spatřil dynamismus, je naděje. Exist
 Věc, kterou v Americe hluboce oceňuji a obdivuji je, že Amerika neví, jak váhat, nebo nehybně stát. To je v duchovním životě výborná vlastnost. Náš Cíl není tam, kde jsme nyní my, náš Cíl je kdesi před námi, proč bychom tedy měli zůstávat na jednom místě? Když známe svůj Cíl, přesto musíme stále běžet. Díky naší dynamické aspiraci vysvitne Boží Soucit a povede nás k našemu Cíli.
 
 Jinou dobrou vlastností, kterou vidím v Američanech je to, že vše dokáži ocenit jako děti. Dítě oceňuje vše a Bůh také vše oceňuje, protože Bůh je božským Dítětem. Amerika má velké srdce a spontánní srdce, srdce dítěte. Amerika dělá chyby. Kdo nedělá chyby? Ale co se týče velkodušnosti srdce a dynamismu vitálna, je Amerika velmi pokročilá.
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

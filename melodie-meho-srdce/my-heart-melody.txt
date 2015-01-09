@@ -1,20 +1,15 @@
-#+TITLE: Melodie mého srdce
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Melodie mého srdce
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :BOOK-YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: HRML-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :book-year: 2007
+  :publisher: Madal Bal
+  :cite-key: HRML-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Otázky a odpovědi[fn:: HRML 1-21. Tato kniha obsahuje odpovědi na otázky, které Sri Chinmoyovi položili jeho žáci, členové pěveckých skupin, 22. a 28. dubna 1994]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HRML:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: hrml:1e1-cs
   :END:
 
 
@@ -32,10 +27,10 @@
 * Mohl bys nám prosím říci, jaký je rozdíl mezi nadějí a očekáváním?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:1-cs
-  :DATE-EVENT: 1994-04-22
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:1-cs
+  :date-event: 1994-04-22
   :END:
 
 /Sri Chinmoy:/ Naděje je něco sladkého a hlubokého, co existuje v Srdci našeho Pána Milovaného Nejvyššího. Očekávání je něco ve fyzické mysli, ve vitálnu, ve fyzickém vědomí. Naděje se zrodila v den, kdy Bůh stvořil Svůj Sen, ale očekávání je výtvorem lidské mysli a vitálna. 
@@ -49,10 +44,10 @@ Naděje je něco sladkého, božského a povzbuzujícího. Ale očekávání je 
 * V překladu tvé písně „Bhulite Diyona“ žádáme Nejvyššího, aby nám nedovolil na Něj zapomenout ani během života, ani po smrti. Je možné zapomenou na Nejvyššího ve světě duší?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:2-cs
-  :DATE-EVENT: 1994-04-22
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:2-cs
+  :date-event: 1994-04-22
   :END:
 
 /Sri Chinmoy:/ Zde na zemi mnoho lidí zapomnělo na slib, který dali Bohu a své vlastní božskosti. Stejně tak je Boží Vědomí ve světě duší, ale kolik duší si to pamatuje? Po šesti letech se většina duší musí vrátit zpět na zem. Některé nechtějí, ale jsou k tomu přinuceny. Jestliže získají zvláštní Boží Milost nebo zvláštní milost Mistra, mohou zůstat ve světě duší natrvalo. Ale obyčejné lidské bytosti se musí vrátit, protože i když jsou ve světě duší, nedělají nic pro Boha ani pro svůj duchovní pokrok. 
@@ -66,13 +61,13 @@ Obyčejné, neaspirující duše mohou na Boha v Nebi určitě zapomenout. Mů�
 * Vyléčí vděčnost všechno?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:3-cs
-  :DATE-EVENT: 1994-04-22
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:3-cs
+  :date-event: 1994-04-22
   :END:
 
-/Sri Chinmoy:/ Ano, vděčnost vyléčí vše, jsou-li v ní zbožné slzy. Pokud jen řeknete: „Jsem ti vděčný,“ pak taková vděčnost není hluboká. Je to, jako když řeknete: „Mnohokrát děkuji.“ Pokud ale vděčnost přichází ze samotné hloubky naší bytosti, z nejvnitřnějších zákoutí našeho srdce, protože Bůh pro nás udělal tolik věcí bezvýhradně, pak jsou v takové vděčnosti kanoucí slzy.
+/Sri Chinmoy:/ ano, vděčnost vyléčí vše, jsou-li v ní zbožné slzy. pokud jen řeknete: „jsem ti vděčný,“ pak taková vděčnost není hluboká. je to, jako když řeknete: „Mnohokrát děkuji.“ Pokud ale vděčnost přichází ze samotné hloubky naší bytosti, z nejvnitřnějších zákoutí našeho srdce, protože Bůh pro nás udělal tolik věcí bezvýhradně, pak jsou v takové vděčnosti kanoucí slzy.
 
 Někdy se stane, že uděláme-li jeden krok směrem k Bohu, on udělá devadesát devět kroků k nám. Někdy dokonce neuděláme ani jeden krok a Bůh udělá sto kroků a přijde až k nám, aby nás probudil a pozvedl. V tu chvíli bychom měli projevit své zbožné slzy a říci, že se staneme lepším člověkem, že se staneme dobrým člověkem a že budeme těšit Boha Jeho vlastním Způsobem. Budeme-li mít takovouto vděčnost, tato vděčnost jistě vyléčí všechny nedostatky a slabosti našeho duchovního života. Taková vděčnost ztělesňuje inspiraci, aspiraci, připravenost, ochotu, sebedávání -- všechno.
 
@@ -81,10 +76,10 @@ Někdy se stane, že uděláme-li jeden krok směrem k Bohu, on udělá devades�
 * Jaký je rozdíl mezí představou a vizí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:4-cs
-  :DATE-EVENT: 1994-04-22
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:4-cs
+  :date-event: 1994-04-22
   :END:
 
 /Sri Chinmoy:/ Vize přichází přímo ze třetího oka. Zdroj vize je nekonečně vyšší než zdroj představy. Bůh stvořil tento svět svou kosmickou Vizí. Představa může být vysoká, vyšší, nejvyšší. Ale dotkne-li se nás Boží nekonečná Milost, můžeme se dozvědět, jaká je Jeho Vize a dokonce můžeme být Boží Vizí obdařeni. Pak snadno uvidíme, že představa je nekonečně, nekonečně níže než Bohem daná vize. Existuje velký rozdíl mezi vnitřní vizí a představou. Představa má svou vlastní skutečnost; může být velmi vysoká, velmi vznešená a velmi hluboká. Představa může pocházet z velmi, velmi vysoké úrovně vědomí. Ale zdroj vize je nekonečně výše, než je i ta nejvyšší úroveň představy. 
@@ -96,15 +91,15 @@ Vize je vysoká jako Himálaje, představa je jako malý kopec. Když si něco p
 * Ovlivňuje aspirace či její nedostatek u nás, tvých žáků, veřejnost nebo lidi, se kterými se nikdy nesetkáme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:5-cs
-  :DATE-EVENT: 1994-04-22
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:5-cs
+  :date-event: 1994-04-22
   :END:
 
 
 
-/Sri Chinmoy:/ Rozhodně to ovlivňuje ostatní. Naše aspirace přináší pozitivní výsledky a nedostatek aspirace nevědomě oslabuje vnitřní sílu nebo některé dobré vlastnosti ostatních. V obou případech to začíná u nejbližších členů rodiny, u našich blízkých a potom se to dále šíří do našeho okolí. Je-li naše aspirace velmi silná, urazí určitou vzdálenost -- míli nebo dvě, dokonce i více. A má-li někdo tu nejintenzivnější aspiraci, její pozitivní působení může urazit velmi, velmi velkou vzdálenost. Jestliže někdo, kdo získá realizaci, aspiruje v lidstvu a prostřednictvím lidstva pro zlepšení a přeměnu světa tím, že se s lidstvem sjednotí, pokryje v tu chvíli aspirace sama celý svět. Projevení Boha je součástí tohoto druhu aspirace. Pokud se rozhodnu: „Nepotřebuji projevení, trpěl jsem dost,“ ihned zaznamenám rozdíl ve světové atmosféře. Ať už je stav světa v tom okamžiku jakýkoli, zhorší se.
+/Sri Chinmoy:/ rozhodně to ovlivňuje ostatní. naše aspirace přináší pozitivní výsledky a nedostatek aspirace nevědomě oslabuje vnitřní sílu nebo některé dobré vlastnosti ostatních. v obou případech to začíná u nejbližších členů rodiny, u našich blízkých a potom se to dále šíří do našeho okolí. je-li naše aspirace velmi silná, urazí určitou vzdálenost -- míli nebo dvě, dokonce i více. a má-li někdo tu nejintenzivnější aspiraci, její pozitivní působení může urazit velmi, velmi velkou vzdálenost. jestliže někdo, kdo získá realizaci, aspiruje v lidstvu a prostřednictvím lidstva pro zlepšení a přeměnu světa tím, že se s lidstvem sjednotí, pokryje v tu chvíli aspirace sama celý svět. projevení boha je součástí tohoto druhu aspirace. pokud se rozhodnu: „Nepotřebuji projevení, trpěl jsem dost,“ ihned zaznamenám rozdíl ve světové atmosféře. Ať už je stav světa v tom okamžiku jakýkoli, zhorší se.
 
 Jestliže si ty jako hledající udržuješ svou nejvyšší aspiraci, rozhodně tím pomáháš svým blízkým a drahým. To se neděje jen ve tvém vlastním Centru. Tvá aspirace může jít a pomoci tvým duchovním bratrům a sestrám v japonském Centru nebo kdekoliv jinde. Proto říkám, že je-li někdo ve svém nejvyšším vědomí, pomáhá svým blízkým, ať jsou kdekoliv. Naši blízcí jsou členy naší duchovní rodiny nejen v jednom Centru, ale také v ostatních Centrech. Aspirace jednotlivce, nezávisle na tom, ke kterému Centru patří, může ohromně pomoci ostatním. A podobně, když se stane něco nešťastného, ihned to sníží vědomí ostatních.
  
@@ -114,10 +109,10 @@ Naše aspirace či nedostatek aspirace rozhodně ovlivňují svět kolem nás --
 * V písni „Bhulite diyona“ jsou zmíněny čtyři aspekty Nejvyššího: Jeho Nohy, Jeho Oči, Jeho Poselství a Jeho Sen. Co bychom si měli představit nebo vizualizovat, když zpíváme jednotlivá slova, a co z nich získáme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:6-cs
-  :DATE-EVENT: 1994-04-22
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:6-cs
+  :date-event: 1994-04-22
   :END:
 
 
@@ -133,16 +128,16 @@ Používám slovo klanět se, ale to není to správné slovo. Klanět se může
 * Řekne nám naše upřímnost vždycky, zda těšíme Boha Jeho vlastním Způsobem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:7-cs
-  :DATE-EVENT: 1994-04-22
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:7-cs
+  :date-event: 1994-04-22
   :END:
 
 
 
 
-/Sri Chinmoy:/ Ne, upřímnost může být oklamána vitálnem. Naše upřímnost je často otrokem vitálna. Vitálno může přimět mysl, aby porozuměla některým věcem velmi zvláštním způsobem. Mysl vám může říci, že uděláte-li něco určitým způsobem, je to upřímný způsob. Ale vitálno umí mysl snadno oklamat a říci: „Ne, toto není upřímný způsob. Ten druhý způsob je upřímný.“
+/Sri Chinmoy:/ ne, upřímnost může být oklamána vitálnem. naše upřímnost je často otrokem vitálna. vitálno může přimět mysl, aby porozuměla některým věcem velmi zvláštním způsobem. mysl vám může říci, že uděláte-li něco určitým způsobem, je to upřímný způsob. ale vitálno umí mysl snadno oklamat a říci: „Ne, toto není upřímný způsob. Ten druhý způsob je upřímný.“
 Musíme vědět, odkud upřímnost pochází. Je-li ze srdce, pak jí pomůže osvícení duše. Ale pochází-li z mysli, pak není spolehlivá. Upřímnost mysli je jako prospěchář: budu k tobě upřímná, pokud mi prokážeš velkou laskavost, ale pokud mi tu laskavost neprokážeš, nebudu upřímná. Mentální upřímnost se velmi často chová jako prvotřídní prospěchář a také lidské vitálno je takový darebák. Když přijde vitálno, snadno může změnit myšlenky mysli, dokonce i když má mysl dobré úmysly. Vitálno může změnit pocit upřímnosti, který mysl má.
 
 Upřímnost nestačí, abychom se dozvěděli, zda těšíme Boha. Upřímnost je první krok. Druhým krokem je odhodlání. Každý den můžeme být k sobě upřímní. Když máme špatné myšlenky, můžeme pak říci: „Mám špatné myšlenky. Poznávám je. Beru to na vědomí. Přiznávám, že mám špatné myšlenky, nebožské myšlenky, škodlivé myšlenky a neaspirující myšlenky. Jsem tak upřímný.“ Ale toto je zbytečné. Je pravda, že se chováme mnohem lépe než ostatní, kteří neberou své špatné myšlenky na vědomí nebo je nepoznají. V našem případě jsme přinejmenším připraveni připustit, že chováme špatné, nebožské, vitální myšlenky. Ale musí přijít odhodlání. Chybí-li odhodlání, neuděláte další krok.
@@ -158,10 +153,10 @@ Jediná věc, která pomáhá, je Boží Milost. Musíte se k Bohu zbožně a se
 * Když vidíš lidi nezabývající se duchovností, vidíš je jako bytosti stejné jako ty - jako by část tebe byla v nich, ale byla zahalena nevědomostí nebo temnotou?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:8-cs
-  :DATE-EVENT: 1994-04-22
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:8-cs
+  :date-event: 1994-04-22
   :END:
 
 
@@ -177,10 +172,10 @@ Takže když někoho vidím, ihned uvnitř něj vidím božský aspekt. Po reali
 * Jak si můžeme nejlépe vyvinout schopnost cítit tvou přítomnost ve svém srdci, jako bychom byli ve tvé fyzické přítomnosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:9-cs
-  :DATE-EVENT: 1994-04-22
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:9-cs
+  :date-event: 1994-04-22
   :END:
 
 
@@ -194,10 +189,10 @@ Když jste v práci, nemusíte si myslet: „Ó, je jedenáct hodin. Guru je bu�
 * Pomáhá to opravdu atmosféře Země, když zpíváme tvé písně nebo když hraješ a zpíváš na koncertech?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:10-cs
-  :DATE-EVENT: 1994-04-22
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:10-cs
+  :date-event: 1994-04-22
   :END:
 
 
@@ -221,10 +216,10 @@ Abych se vrátil k tvé otázce, má hudba rozhodně napomáhá atmosféře Zem�
 * Když tě neposlechneme, jak se zbavíme viny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:11-cs
-  :DATE-EVENT: 1994-04-22
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:11-cs
+  :date-event: 1994-04-22
   :END:
 
 
@@ -235,17 +230,17 @@ Já jsem ta poslední osoba v celém Božím stvoření, která by cokoliv proti
 
 Neupřímní hledající netrpí, když neposlechnou svého Mistra. Když neposlechnou, jsou vzdorní. Pak přichází zrada a oni končí! Ale když mě neposlechnou žáci, kteří jsou nesmírně upřímní, hluboce trpí, dokud se nezbaví viny tím, že mi nabídnou úsměv vděčnosti. Tento úsměv mi mohou nabídnout buď na fyzické úrovni, nebo ho mohou nabídnout mému transcendentálnímu obrazu. Když mě tedy neposlechnete, sedněte si před můj transcendentální obraz a snažte se vynést do popředí úsměv ze svého srdce, mysli, vitálna a těla. Tak se zbavíte smetí uvnitř sebe a také vyjde do popředí můj nekonečný soucit a má nekonečná náklonnost. Tak se můžete zbavit viny.
 
-Máte-li upřímnou vděčnost, Bůh si vezme všechny vaše hříchy -- všechno špatné, co jste udělali. Nemáte-li upřímnou vděčnost, pak můžete trpět do konce svého života. Pokud vděčnost přijde jako ta nejoduševnělejší modlitba nebo meditace, pak ztělesňuje vše. Ale je-li to jen neurčitý pocit, jako říci: „Děkuji,“ pak je tato vděčnost prakticky bezcenná. Někdy je to jen vitální potěšení, ze kterého se radujeme a které sdílíme s ostatními, když říkáme: „Děkuji.“ Tento pocit je miliony a miliardy mil daleko od skutečné vděčnosti.
+Máte-li upřímnou vděčnost, Bůh si vezme všechny vaše hříchy -- všechno špatné, co jste udělali. Nemáte-li upřímnou vděčnost, pak můžete trpět do konce svého života. Pokud vděčnost přijde jako ta nejoduševnělejší modlitba nebo meditace, pak ztělesňuje vše. Ale je-li to jen neurčitý pocit, jako říci: „děkuji,“ pak je tato vděčnost prakticky bezcenná. někdy je to jen vitální potěšení, ze kterého se radujeme a které sdílíme s ostatními, když říkáme: „Děkuji.“ Tento pocit je miliony a miliardy mil daleko od skutečné vděčnosti.
 
 
 
 * Jak si můžeme udržet jemný pocit oduševnělosti, který získáváme při zpěvu duchovních písní, i poté, co je přestaneme zpívat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:12-cs
-  :DATE-EVENT: 1994-04-22
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:12-cs
+  :date-event: 1994-04-22
   :END:
 
 
@@ -261,10 +256,10 @@ Pak si zkuste během večerní meditace vzpomenout na všechny dobré věci, kte
 * Jak můžeme neustále milovat cestu, po které jdeme k Nejvyššímu, a udržovat si k ní hlubokou úctu a vděčnost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:13-cs
-  :DATE-EVENT: 1994-04-28
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:13-cs
+  :date-event: 1994-04-28
   :END:
 
 
@@ -282,10 +277,10 @@ Lidská láska je jako pozemská strava. Když budete nepřetržitě jíst dvě 
 * Jak se ochotně zbavíme svých tužeb?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:14-cs
-  :DATE-EVENT: 1994-04-28
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:14-cs
+  :date-event: 1994-04-28
   :END:
 
 
@@ -306,10 +301,10 @@ Nemyslete tedy na to, jak se zbavit svých tužeb. Tyto touhy přichází z my�
 * Jak se můžeme odpoutat od emocí a přitom si uchovat pocity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:15-cs
-  :DATE-EVENT: 1994-04-28
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:15-cs
+  :date-event: 1994-04-28
   :END:
 
 
@@ -323,10 +318,10 @@ Nemusíte se proto odpoutávat od věcí, které vás povzbuzují a inspirují. 
 * Je dobré být odpoután od lidí, nebo je v pořádku na nich lpět?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:16-cs
-  :DATE-EVENT: 1994-04-28
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:16-cs
+  :date-event: 1994-04-28
   :END:
 
 
@@ -342,15 +337,15 @@ Projevíš tomu člověku náklonnost, protože byla napadená, ale budeš nepř
 * Jak mohu zvětšit svou sebedisciplínu a sílu vůle?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:17-cs
-  :DATE-EVENT: 1994-04-28
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:17-cs
+  :date-event: 1994-04-28
   :END:
 
 
 
-/Sri Chinmoy:/ Můžeš zvýšit svou sebedisciplínu a sílu vůle, pokud víš, co v životě chceš: naplnění Boží Vůle, nebo naplnění své vlastní individuální vůle. Právě teď není tvá individuální vůle Vůlí Boží. Proto se musíš modlit k Bohu: „Tvá Vůle je jediná Vůle, kterou chci.“ V mé tisící knize jsem napsal jednu báseň, která říká:
+/Sri Chinmoy:/ můžeš zvýšit svou sebedisciplínu a sílu vůle, pokud víš, co v životě chceš: naplnění boží vůle, nebo naplnění své vlastní individuální vůle. právě teď není tvá individuální vůle vůlí boží. proto se musíš modlit k bohu: „tvá vůle je jediná vůle, kterou chci.“ v mé tisící knize jsem napsal jednu báseň, která říká:
 
 #+BEGIN_VERSE 
 
@@ -363,7 +358,7 @@ v Něm a pro Něj.
 
 #+END_VERSE 
 
-Protože jsem nevědomý, vždy se mýlím; mám pravdu, jedině když umístím sebe sama do Boha a jsem s Ním a pro Něj. Takový je význam této básně. V každém okamžiku si musíte uvědomit, že jedině Bůh má pravdu, jedině Nejvyšší ve vašem Guruovi má pravdu, jedině vaše duše má pravdu. Mysl bude říkat: „Guru udělal nesprávnou věc.“ Ale zeptáte-li se duše, ta řekne: „Ne, udělal tu správnou věc.“ Zeptáte-li se Boha, Bůh řekne: „Ne, udělal tu správnou věc.“
+Protože jsem nevědomý, vždy se mýlím; mám pravdu, jedině když umístím sebe sama do Boha a jsem s Ním a pro Něj. Takový je význam této básně. V každém okamžiku si musíte uvědomit, že jedině Bůh má pravdu, jedině Nejvyšší ve vašem Guruovi má pravdu, jedině vaše duše má pravdu. Mysl bude říkat: „guru udělal nesprávnou věc.“ ale zeptáte-li se duše, ta řekne: „ne, udělal tu správnou věc.“ zeptáte-li se boha, bůh řekne: „Ne, udělal tu správnou věc.“
 
 Na světě existuje mnoho neduchovních lidí, kteří nevěří v Boha. Nestarají se o Boží Vůli. Starají se jen o svou vlastní vůli a o naplnění svých vlastních tužeb. Chtějí být nejlepším zpěvákem, nejlepším tanečníkem, nejlepším badatelem nebo nejlepším kýmkoliv dalším. Získávají odhodlání z vitálního světa a používají toto odhodlání k tomu, aby disciplinovali sebe sama a dosáhli svého cíle. Ale velmi často se stále cítí nešťastní, i když uspějí a dosáhnou věcí, kterých dosáhnout chtěli. 
 
@@ -377,7 +372,7 @@ Nebyl to váš nápad založit tuto hudební skupinu. Já jsem byl ten, kdo vás
 
 Před několika minutami jsem vás požádal, abyste přišly a zpívaly mi. Proč? Protože vím, co je třeba udělat, aby vzrostla vaše láska, vaše oddanost, vaše odevzdání, vaše vděčnost, vaše pokora a vaše sladkost. Protože jste mě poslechly, tak zatímco jste zpívaly, dělal jsem všechny další věci, které bylo třeba udělat uvnitř vás, abych vynesl do popředí všechny vaše dobré vlastnosti. Celou dobu, co jste zpívaly, jsem do vás vléval všechnu svou sladkost, náklonnost, lásku a vděčnost. 
 
-Když jste byly malé, cítily jste: „Guru udělá, co bude pro nás nejlepší.“ Ale teď, když jste starší, tento pocit zmizel. Teď cítíte: „Guru hraje tenis. Povídá s tím člověkem a tamtím člověkem. Nemůže se starat o mě, a tak se o sebe musím postarat sama.“ Ne, vnitřně mohu dělat stovky a tisíce věcí najednou. Vaše láska a víra ve mě by vám měly říci: „Můj Guru může dělat mnoho, mnoho věcí. Jestliže ho potřebuji, vždycky bude tu, aby mi pomohl.“
+Když jste byly malé, cítily jste: „guru udělá, co bude pro nás nejlepší.“ ale teď, když jste starší, tento pocit zmizel. teď cítíte: „guru hraje tenis. povídá s tím člověkem a tamtím člověkem. nemůže se starat o mě, a tak se o sebe musím postarat sama.“ ne, vnitřně mohu dělat stovky a tisíce věcí najednou. vaše láska a víra ve mě by vám měly říci: „Můj Guru může dělat mnoho, mnoho věcí. Jestliže ho potřebuji, vždycky bude tu, aby mi pomohl.“
 
 Jsem jako restaurace s různými druhy pokrmů. Cokoliv vaše duše chce, jsem připraven vám dát. Cokoliv potřebujete, ihned vám opatřím. Skutečná restaurace může mít jen několik pracovníků, ale já mám tolik vnitřních bytostí, které mohou uvnitř vás sloužit Nejvyššímu. Proto se nemusíte strachovat o disciplínu nebo sílu vůle. Automaticky přijdou, jakmile odevzdáte svou vůli Vůli Boží. To je jediný způsob, jak můžete být opravdově a věčně šťastní. V životě nelze najít štěstí, dokud neučiníte Boha šťastným. Lidé, kteří se snaží být šťastní svým vlastním způsobem, se budou vždy cítit nešťastně. Pokud říkají, že jsou šťastní, pak klamou sami sebe. 
 
@@ -386,10 +381,10 @@ Jsem jako restaurace s různými druhy pokrmů. Cokoliv vaše duše chce, jsem p
 * Jak mohu mít soucit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:18-cs
-  :DATE-EVENT: 1994-04-28
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:18-cs
+  :date-event: 1994-04-28
   :END:
 
 
@@ -411,10 +406,10 @@ Bez upřímné jednoty existuje jen pocit nadřazenosti. Ale existuje-li pocit j
 * Abychom se stali bezpodmínečně odevzdanými, měli bychom bezesně plakat, nebo bychom se měli stát bezesnou vděčností?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:19-cs
-  :DATE-EVENT: 1994-04-28
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:19-cs
+  :date-event: 1994-04-28
   :END:
 
 
@@ -426,9 +421,9 @@ Bez upřímné jednoty existuje jen pocit nadřazenosti. Ale existuje-li pocit j
 * Jak se nejlépe stát radostnými a dynamickými?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:20-cs
   :END:
 
 
@@ -439,32 +434,18 @@ Bez upřímné jednoty existuje jen pocit nadřazenosti. Ale existuje-li pocit j
 * Jak si mohu vypěstovat více trpělivosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: HRML:21-cs
-  :DATE-EVENT: 1994-04-28
+  :genre: qa
+  :keywords:
+  :cite-key: hrml:21-cs
+  :date-event: 1994-04-28
   :END:
 
 
 
-/Sri Chinmoy:/ Musíte cítit, že jste přišli na svět ne pro pozemské nebo vitální potěšení, ale abyste nalezli štěstí. Vydali jste se na duchovní cestu, protože se chcete stát dokonalým nástrojem Boha a chcete, aby na vás byl Bůh věčně hrdý, protože víte, že je to jediný způsob, jak mít trvalé štěstí. Právě teď vás svět netěší a vy netěšíte sami sebe, proto nejste šťastní. Protože nejste šťastní, můžete říci: „Spáchám duchovní sebevraždu. Kdo ví, snad ke mně potom bude Bůh laskavý a dá mi štěstí.“
+/Sri Chinmoy:/ musíte cítit, že jste přišli na svět ne pro pozemské nebo vitální potěšení, ale abyste nalezli štěstí. vydali jste se na duchovní cestu, protože se chcete stát dokonalým nástrojem boha a chcete, aby na vás byl bůh věčně hrdý, protože víte, že je to jediný způsob, jak mít trvalé štěstí. právě teď vás svět netěší a vy netěšíte sami sebe, proto nejste šťastní. protože nejste šťastní, můžete říci: „Spáchám duchovní sebevraždu. Kdo ví, snad ke mně potom bude Bůh laskavý a dá mi štěstí.“
 
 Ale jestliže spácháte duchovní sebevraždu, Bůh jen řekne: „Ty hlupačko, měl jsem v tobě, s tebou a pro tebe Sen a ty jsi teď tento Sen zničila.“ Bůh je jako hrnčíř. Vytvořil s takovou Láskou, Soucitem, Nadšením, Zájmem a Péčí krásnou porcelánovou vázu. Když půjde okolo opice nebo osel a vázu rozbije, Bůh se rozzlobí. Vaše žárlivost, nečistota, nejistota a všechny vaše negativní vlastnosti jsou jako opice nebo osli. Se zlomyslným potěšením ničí Boží Sen, který vás učiní věčně šťastnými. Proto musíte být velmi opatrní, abyste se neztotožňovali s těmito vlastnostmi.
  
 V den, kdy jste se připojili k cestě, jste měli na mysli a v srdci jediný cíl -- učinit sami sebe trvale šťastnými. Nevzdávejte se tohoto snu. Neztotožňujte se s negativními silami uvnitř vás a nepáchejte duchovní sebevraždu. Každý den, každý okamžik se snažte oživovat sen, který jste měli. Zapomeňte na to, kolikrát jste trpěli nebo kolikrát jste způsobili utrpení Bohu, své duši a svému Mistrovi. Jen se vraťte k tomuto snu, se kterým jste začínali -- učinit sami sebe natrvalo šťastnými. Vy víte, že jediný způsob, jak učinit sami sebe opravdu šťastnými, je učinit šťastným Boha. Jestliže se snažíte učinit Boha šťastným a těšit Ho Jeho vlastním Způsobem, pak se snažíte dělat tu správnou věc. 
 
 Neustále si udržujte štěstí ve své mysli, ve svém srdci, ve svém dechu, ve všech svých činech. Váš sen o štěstí vám dá trpělivost a zachrání vás. Dvě míle daleko vidíte zahradu. Musíte si říci: „Nezáleží na tom, jak bude cesta obtížná. Jen když tam dorazím, získám tolik radosti. Jakmile dojdu ke květinám a nadechnu se jejich vůně, budu tím nejšťastnějším člověkem.“ Jestliže si budete v mysli uchovávat štěstí jako cíl, pak si automaticky vyvinete trpělivost.
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

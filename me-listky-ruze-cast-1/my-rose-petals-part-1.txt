@@ -1,20 +1,15 @@
-#+TITLE: Mé lístky růže, část 1.
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Mé lístky růže, část 1.
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2001
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: MRP 1-cs
-  :GENRE: discourse
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2001
+  :publisher: Madal Bal
+  :cite-key: MRP 1-cs
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -36,10 +31,10 @@ Evropské turné Sri Chinmoy začal 8. listopadu 1970. Během dvaceti šesti dn�
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:1-cs
-  :DATE-EVENT: 1970-11-09
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:1-cs
+  :date-event: 1970-11-09
   :END:
 
 
@@ -68,7 +63,7 @@ Mysl a smrt mohou být překonány.
 Srdce a život mohou být rozšířeny.
 Duše a Nesmrtelnost mohou být naplněny.
 
-Až budou mysl a smrt překonány, člověk bude mít nový domov: Světlo, Světlo světa Za. Až budou duše a Nesmrtelnost naplněny, člověk bude mít nový cíl: Blaženost, transcendentální Blaženost.
+Až budou mysl a smrt překonány, člověk bude mít nový domov: světlo, světlo světa za. až budou duše a nesmrtelnost naplněny, člověk bude mít nový cíl: Blaženost, transcendentální Blaženost.
 
 Dnes člověk cítí, že smrt je nevyhnutelnou nezbytností. Zítra bude člověk cítit, že Nesmrtelnost je neklamnou skutečností.
 
@@ -153,10 +148,10 @@ Přijde doba, kdy odpočinek nebude vůbec zapotřebí. Svrchovaně bude vládno
 * Konec veškerého poznání[fn:: MRP 2. University of Nottingham, v úterý, 10. listopadu 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:2-cs
-  :DATE-EVENT: 1970-11-10
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:2-cs
+  :date-event: 1970-11-10
   :END:
 
 
@@ -269,10 +264,10 @@ Koncem veškerého poznání je poznání Boha. Boha musíme spatřit. Existují
 * Cíl dokonalosti[fn:: MRP 3. University of London, ve středu, 11. listopadu 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:3-cs
-  :DATE-EVENT: 1970-11-11
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:3-cs
+  :date-event: 1970-11-11
   :END:
 
 
@@ -370,10 +365,10 @@ Pokud cítíme, že aspirace je jediná věc, kterou potřebujeme, jediná věc,
 * Jak porazit strach[fn:: MRP 4. American College, Paříž, v pátek, 13. listopadu 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:4-cs
-  :DATE-EVENT: 1970-11-13
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:4-cs
+  :date-event: 1970-11-13
   :END:
 
 
@@ -427,9 +422,9 @@ Ve své vnitřní existenci můžeme vyrůst v neoblomnou vůli. A když použí
 * Okultismus[fn:: MRP 5. American Centre for Arts, Paříž, v sobotu, 14. listopadu 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:5-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:5-cs
   :END:
 
 
@@ -501,10 +496,10 @@ Až síla lásky božsky nahradí lásku k síle, člověk bude mít nové jmén
 * Vnitřní slib[fn:: MRP 6. University of Essex, Colchester, v úterý, 17. listopadu 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:6-cs
-  :DATE-EVENT: 1970-11-17
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:6-cs
+  :date-event: 1970-11-17
   :END:
 
 
@@ -534,7 +529,7 @@ Tito hledající vstoupili do duchovního života s nejvyšší upřímností a 
 
 Nejvyšší Pravdu musí realizovat každý, ale ten, kdo aspiruje, dosáhne Cíle přirozeně dříve než ti, kteří jsou dosud ve světě spánku.
 
-Většina z nás je neobyčejně chytrá, ne však moudrá. Pokoušíme se podvádět ostatní lidské bytosti. Nejen to, zacházíme dokonce tak daleko, že se pokoušíme podvádět svého Vnitřního kormidelníka, Boha. I když víme, že Vnitřní kormidelník je vševědoucí, nevědomě, a někdy dokonce i vědomě se Ho snažíme podvádět. Říkáme Bohu: „Ó Bože, když nám dáš nějaké vnitřní bohatství, to jest mír, světlo a blaženost, polovinu z toho dáme lidstvu. Nepoužijeme všechno jen pro sebe.“ Je to, jako kdybychom Bohu řekli: „Když mi dáš dolar, půl dám lidstvu a jen půl si nechám pro sebe.“
+Většina z nás je neobyčejně chytrá, ne však moudrá. Pokoušíme se podvádět ostatní lidské bytosti. Nejen to, zacházíme dokonce tak daleko, že se pokoušíme podvádět svého Vnitřního kormidelníka, Boha. I když víme, že Vnitřní kormidelník je vševědoucí, nevědomě, a někdy dokonce i vědomě se Ho snažíme podvádět. Říkáme Bohu: „Ó bože, když nám dáš nějaké vnitřní bohatství, to jest mír, světlo a blaženost, polovinu z toho dáme lidstvu. nepoužijeme všechno jen pro sebe.“ je to, jako kdybychom bohu řekli: „Když mi dáš dolar, půl dám lidstvu a jen půl si nechám pro sebe.“
 
 Co se potom stane? Bůh nám dá mír, světlo, blaženost a další božské kvality, my však máme pocit, že to množství není dostatečné. Okamžitě říkáme: „Ó Bože, nedal jsi mi tolik, kolik jsem chtěl. Chtěl jsem dolar, Tys mi však dal jen půl dolaru. Jsi velice chytrý. Nechal sis půl dolaru, abys ho dal lidstvu sám. A tak já lidstvu nemusím dávat mír, světlo a blaženost, které jsem od Tebe dostal.“ To je způsob, kterým se snažíme podvádět božskost v lidstvu!
 
@@ -553,10 +548,10 @@ Každý jedinec může dát slavnostní slib sobě i celému lidstvu. Je to slib
 * Vnitřní učení[fn:: MRP 7.  University of Leeds, ve středu, 18. listopadu 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:7-cs
-  :DATE-EVENT: 1970-11-18 
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:7-cs
+  :date-event: 1970-11-18 
   :END:
 
 
@@ -590,7 +585,7 @@ Filozofie není nejlepším řešením duchovního života. Ani náboženství n
 
 Filozofie. Použijme sanskrtské slovo daršan, které znamená ‚předvídat‘ nebo ,vidět‘. Jeden z největších duchovních Mistrů Indie, Sri Rámakrišna, řekl: „V dobách minulých lidé mívali vize. Dnes lidé studují daršan.“ To je rozdíl mezi védskými zřeci, kteří měli tu nejvyšší osvícenou vizi, a těmi, kdo jen studují filozofii.
 
-Náboženství. Když jdeme hluboko do náboženství, určitě získáváme poselství pravdy. My jím však nežijeme. Říkám: „Můj hinduismus je nepochybně nejlepší.“ Okamžitě mi odpovíte: „Přestaň! Přestaň! Žádné srovnávání. Nejlepší je nepochybně křesťanství!“ Stoupenec judaismu pak bude odporovat oběma. A tak to pokračuje, bez konce. To je naše vnější učení. Každý má pravdu svým vlastním omezeným způsobem. My však musíme mít s Bohem a Jeho stvořením vnitřní jednotu, neoddělitelnou jednotu. Této jednoty můžeme vědomě dosáhnout jen pomocí skutečné modlitby, koncentrace, meditace a kontemplace.
+Náboženství. Když jdeme hluboko do náboženství, určitě získáváme poselství pravdy. My jím však nežijeme. Říkám: „můj hinduismus je nepochybně nejlepší.“ okamžitě mi odpovíte: „Přestaň! Přestaň! Žádné srovnávání. Nejlepší je nepochybně křesťanství!“ Stoupenec judaismu pak bude odporovat oběma. A tak to pokračuje, bez konce. To je naše vnější učení. Každý má pravdu svým vlastním omezeným způsobem. My však musíme mít s Bohem a Jeho stvořením vnitřní jednotu, neoddělitelnou jednotu. Této jednoty můžeme vědomě dosáhnout jen pomocí skutečné modlitby, koncentrace, meditace a kontemplace.
 
 Jóga překonává všechna náboženství. Náboženství má pravdu svým vlastním způsobem. Filozofie má pravdu svým vlastním způsobem. Filozofie nás může dovést až ke dveřím. Náboženství nás může v místnosti vést několik kroků. Avšak skutečná meditace a duchovnost, jóga, nás nejen přivádí až k trůnu, ale posazuje nás přímo na něj.
 
@@ -621,10 +616,10 @@ Duši uchvacující flétnu Nesmrtelnosti uslyšíme zde na zemi. Nemusíme chod
 * Vesmír[fn:: MRP 8. Keble College, Oxford, ve čtvrtek, 19. listopadu 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:8-cs
-  :DATE-EVENT: 1970-11-19
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:8-cs
+  :date-event: 1970-11-19
   :END:
 
 
@@ -762,10 +757,10 @@ poběží společně jako tři bratři spěchající k věčnému Otci, Cíli.
 * Zvědavost, nebo potřeba[fn:: MRP 9.  St. Davies College, Lampeter, Wales, v pátek, 20. listopadu 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:9-cs
-  :DATE-EVENT: 1970-11-20
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:9-cs
+  :date-event: 1970-11-20
   :END:
 
 Jsem nesmírně šťastný, pyšný a hrdý na to, že jsem tu dnes večer ve vašem středu. Strávím na britských ostrovech asi měsíc. Mám-li se vrátit do New Yorku, kde žiji, aniž bych složil svůj uctivý hold Walesu, byl by to vrchol mé hlouposti a nevědomosti.
@@ -780,7 +775,7 @@ Zvědavost páchá dva neodpustitelné hříchy. Zabíjí naši spontánní lás
 
 Zvědavost se bojí dvou věcí: nejvyšší Skutečnosti a Božskosti. Když se na zvědavost podívá všepřesahující Skutečnost, zvědavost okamžitě utíká, hledá únik, úkryt, protože cítí, že bude ihned odhalena. Když se na zvědavost podívá Božskost, zvědavost ji kvůli strašlivému strachu prokleje. Má pocit, že do samotného jejího dechu vstupuje naprostý cizinec.
 
-Zvědavost má dva blízké přátele: pochybnost a žárlivost. Pochybnost sytí zvědavost právě ve chvíli, kdy božský mír, láska, blaženost a síla duchovního Mistra chtějí bezpodmínečně pomoci lidstvu. Žárlivost dává zvědavosti pocítit, že je mnohem horší než opravdoví hledající nekonečného Světla. Žárlivost nedovoluje zvědavosti, aby se přátelila s duchovními hledajícími nebo aby od nich přijímala duchovní pomoc. Žárlivost říká: „Je-li ten duchovní hledající nebo Mistr tak velký, co na tom? Zůstanu v síti nevědomosti. Nevadí.“ Žárlivost vede zvědavost k tomu, aby zůstala tam, kde je.
+Zvědavost má dva blízké přátele: pochybnost a žárlivost. pochybnost sytí zvědavost právě ve chvíli, kdy božský mír, láska, blaženost a síla duchovního mistra chtějí bezpodmínečně pomoci lidstvu. Žárlivost dává zvědavosti pocítit, že je mnohem horší než opravdoví hledající nekonečného světla. Žárlivost nedovoluje zvědavosti, aby se přátelila s duchovními hledajícími nebo aby od nich přijímala duchovní pomoc. Žárlivost říká: „Je-li ten duchovní hledající nebo Mistr tak velký, co na tom? Zůstanu v síti nevědomosti. Nevadí.“ Žárlivost vede zvědavost k tomu, aby zůstala tam, kde je.
 
 Zaměřme teď svou pozornost na potřebu, božskou potřebu. Jedinou skutečnou potřebou člověka je duchovnost. Co je to duchovnost? Duchovnost je společným jazykem člověka a Boha. K tomu, aby jeden člověk rozuměl druhému, máme zde na zemi stovky a tisíce jazyků. Co se však týká Boha a člověka, existuje jen jeden jazyk, a tím jazykem je duchovnost. Pokud jde člověk po cestě duchovnosti, může s Bohem snadno mluvit tváří v tvář.
 
@@ -843,10 +838,10 @@ Dnešní aspirace je zítřejší realizací. To je ta nejvýznamnější moudro
 * Vyšší světy[fn:: MRP 10. Kings College, Cambridge, v pondělí, 23. listopadu 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:10-cs
-  :DATE-EVENT: 1970-11-23
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:10-cs
+  :date-event: 1970-11-23
   :END:
 
 Cambridge, skláním se před výškou tvojí aspirace. Skláním se před tvým světlem znalostí. Skláním se před tvou božskou pýchou. Je pravda, že jste z Anglie, jste v Anglii, ale vy patříte širokému světu. Celý svět vás považuje za svého vlastního.
@@ -953,10 +948,10 @@ Bezpodmínečná láska je to, co Bůh je. Bezvýhradná oddanost je to, co člo
 * Jak porazit pochybnost[fn:: MRP 11. University of Dundee, Scotland, ve středu, 25. listopadu 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:11-cs
-  :DATE-EVENT: 1970-11-25
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:11-cs
+  :date-event: 1970-11-25
   :END:
 
 Jeden velký spisovatel kdysi řekl: „Filozof je ten, kdo pochybuje.“ Dle mého nedůležitého názoru jsme všichni filozofové, protože na zemi není nikoho, kdo by alespoň jednou nezapochyboval.
@@ -1042,9 +1037,9 @@ Pochybnost může být poražena. Musí být poražena. Jak? Jedinou odpovědí 
 * Láska, oddanost a odevzdání[fn:: MRP 12. American International School, Zurich, Switzerland, v pátek, 27. listopadu 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:12-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:12-cs
   :END:
 
 Láska je sladká. Oddanost je sladší. Odevzdání je nejsladší.
@@ -1164,10 +1159,10 @@ Nesmrtelnost je všenaplňující.
 * Trvalé a pomíjivé[fn:: MRP 13. University of Bristol, v pondělí, 30. listopadu 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:13-cs
-  :DATE-EVENT: 1970-11-30
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:13-cs
+  :date-event: 1970-11-30
   :END:
 
 
@@ -1239,10 +1234,10 @@ Veď nás od smrti k Nesmrtelnosti,
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:14-cs
-  :DATE-EVENT: 1970-12-01
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:14-cs
+  :date-event: 1970-12-01
   :END:
 
 
@@ -1279,7 +1274,7 @@ Mnoho lidí bohužel mylně cítí, že lpění a oddanost jsou jedno a totéž.
 
 Nelpění je chápáno nesprávně. Máme pocit, že pokud někdo nelpí, je lhostejný. Duchovní hledající dělají tutéž chybu, když si myslí, že nechceme-li být k někomu připoutáni, musíme mu dávat najevo naprostou lhostejnost, až do bodu úplného zapomnění. To není pravda. Když jsme k někomu lhostejní, nic pro něj neděláme. Nemáme co do činění s jeho radostí nebo smutkem, jeho úspěchem nebo neúspěchem. Jestliže však opravdu nelpíme, oddaně a nesobecky pro něj pracujeme a výsledky svých činů dáváme k Nohám Pána Nejvyššího, našeho Vnitřního kormidelníka.
 
-Pokud opravdu nelpíme, nezáleží nám na tom, je-li výsledkem úspěch nebo neúspěch. Když na výsledcích svých upřímných činů vůbec nelpíme, naše vědomí se okamžitě rozšiřuje. Nestaráme-li se o plody svých činů, Nejvyšší nás může odměnit svým vlastním Způsobem. Pán Krišna řekl: „Máš právo činit, ne však na plody činu.“ Upanišady hlásají: „Čin nelpí na člověku.“
+Pokud opravdu nelpíme, nezáleží nám na tom, je-li výsledkem úspěch nebo neúspěch. Když na výsledcích svých upřímných činů vůbec nelpíme, naše vědomí se okamžitě rozšiřuje. Nestaráme-li se o plody svých činů, Nejvyšší nás může odměnit svým vlastním Způsobem. Pán Krišna řekl: „máš právo činit, ne však na plody činu.“ upanišady hlásají: „Čin nelpí na člověku.“
 
 Pracujeme-li oddaně a nesobecky, čin nás nesvazuje. Pracujeme-li, aniž bychom se starali o výsledek, není pro nás těžké pracovat pro Boha. To je to pravé nelpění, to je duchovní nelpění. Pokud se zřekneme činu prováděného jen s nadějí na dosažení vytouženého výsledku, můžeme se pustit do božského činu, který je naším nejvyšším cílem. V něm je vždy dokonalost a naplnění.
 
@@ -1298,10 +1293,10 @@ On nás uchovává v Nebi svého Srdce.
 * Božská povinnost a nejvyšší odměna[fn:: MRP 15. University of Glasgow, Scotland, ve středu, 2.prosince 1970]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRP:15-cs
-  :DATE-EVENT: 1970-12-02
+  :genre: discourse
+  :keywords:
+  :cite-key: mrp:15-cs
+  :date-event: 1970-12-02
   :END:
 
 Bůh myslí na svou Povinnost. Bůh medituje na svou Povinnost.
@@ -1326,7 +1321,7 @@ Božskou odměnou je neustálá Radost, trvalá Radost, která plyne od Boha. Bo
 
 Ve svém neaspirujícím životě plníme povinnosti a cítíme, že povinnost je jen jiným jménem pro práci. Cítíme také, že povinnost je požadavek, zatímco odměna je to nejvytouženější potěšení. V našem aspirujícím životě je povinnost spontánní. Ne, nikdy není povinná. A odměna je posilující radostí nesobecké služby. V našem životě realizace je povinnost naší božskou pýchou a odměnou je naše slavná, všepřesahující výška.
 
-Ve svém neaspirujícím životě a dokonce i ve svém aspirujícím životě vidíme, že povinnost předchází odměně. Nejprve přichází povinnost, pak následuje od-měna. V životě realizace je to obráceně: nejprve odměna, potom povinnost. Jak to? Když dá Bůh někomu plnou realizaci, nabízí mu svou všepřesahující Výšku, své nejvyšší Osvícení. Znamená to, že ho přijal za svůj vybraný nástroj. Samotná skutečnost, že Bůh někoho přijal za svůj vybraný nástroj, ukazuje, že již od Boha získal tu nejvyšší odměnu. Později mu Bůh říká o jeho povinnosti: milovat lidstvo, pracovat pro lidstvo, sloužit božskosti v lidstvu, odhalit na zemi věčný Soucit Boha a projevit věčný Zájem Boha, tady a teď.
+Ve svém neaspirujícím životě a dokonce i ve svém aspirujícím životě vidíme, že povinnost předchází odměně. Nejprve přichází povinnost, pak následuje od-měna. V životě realizace je to obráceně: nejprve odměna, potom povinnost. jak to? když dá bůh někomu plnou realizaci, nabízí mu svou všepřesahující výšku, své nejvyšší osvícení. znamená to, že ho přijal za svůj vybraný nástroj. samotná skutečnost, že bůh někoho přijal za svůj vybraný nástroj, ukazuje, že již od boha získal tu nejvyšší odměnu. později mu bůh říká o jeho povinnosti: milovat lidstvo, pracovat pro lidstvo, sloužit božskosti v lidstvu, odhalit na zemi věčný Soucit Boha a projevit věčný Zájem Boha, tady a teď.
 
 Před mnoha lety se někdo zeptal významného indického vědce P. C. Raye, kolik má dětí. Vytáhl z kapsy dlouhý seznam a začal počítat. Uhádnete, kolik dětí měl? Řekl, že má sedmdesát tři dětí, přestože byl svobodným mládencem v tom nejčistším slova smyslu. Potom svému tazateli řekl: „Podívejte, toto všechno jsou mé děti -- sedmdesát tři vynikajících studentů. Jsou to mé pravé děti. Nejsem ženatý, ale považuji je za své vlastní děti. Daly mi příležitost sloužit lidstvu a to je mou povinností. Tím, že sloužím těmto dětem, plním svou nejvyšší povinnost.“
 
@@ -1349,19 +1344,3 @@ Ty jsi mým Vším.“
 #+END_QUOTE
 
 Když si uvědomíme tuto Pravdu, splníme všechny své povinnosti. Nemůže být žádné větší povinnosti než realizovat Vnitřního kormidelníka. Jeho realizovat, Jemu sloužit, Jeho na zemi projevit -- proto jsme spatřili světlo dne.
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

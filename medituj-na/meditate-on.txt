@@ -1,12 +1,7 @@
-#+TITLE: Medituj na
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Medituj na
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -22,8 +17,8 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:1-cs
+  :genre: aphorism
+  :cite-key: mdo:1-cs
   :END:
 
 
@@ -40,8 +35,8 @@ Medituj na vrcholek hory.
 * 2.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:2-cs
+  :genre: aphorism
+  :cite-key: mdo:2-cs
   :END:
 
 
@@ -58,8 +53,8 @@ Medituj na letícího ptáka.
 * 3.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:3-cs
+  :genre: aphorism
+  :cite-key: mdo:3-cs
   :END:
 
 
@@ -76,8 +71,8 @@ Medituj na veliký košatý strom.
 * 4.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:4-cs
+  :genre: aphorism
+  :cite-key: mdo:4-cs
   :END:
 
 
@@ -94,8 +89,8 @@ Medituj na rozkvétající svítání.
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:5-cs
+  :genre: aphorism
+  :cite-key: mdo:5-cs
   :END:
 
 
@@ -112,8 +107,8 @@ Medituj na smějící se dítě.
 * 6.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:6-cs
+  :genre: aphorism
+  :cite-key: mdo:6-cs
   :END:
 
 
@@ -130,8 +125,8 @@ Medituj na řvoucího lva.
 * 7.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:7-cs
+  :genre: aphorism
+  :cite-key: mdo:7-cs
   :END:
 
 
@@ -148,8 +143,8 @@ Medituj na oči světce.
 * 8.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:8-cs
+  :genre: aphorism
+  :cite-key: mdo:8-cs
   :END:
 
 
@@ -166,8 +161,8 @@ Medituj na pláč hladového dítěte.
 * 9.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:9-cs
+  :genre: aphorism
+  :cite-key: mdo:9-cs
   :END:
 
 
@@ -184,8 +179,8 @@ Medituj na vůni zahrady srdce.
 * 10.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:10-cs
+  :genre: aphorism
+  :cite-key: mdo:10-cs
   :END:
 
 
@@ -202,8 +197,8 @@ Medituj na dědečka a vnuka.
 * 11.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:11-cs
+  :genre: aphorism
+  :cite-key: mdo:11-cs
   :END:
 
 
@@ -220,8 +215,8 @@ Medituj na své oduševnělé oči.
 * 12.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:12-cs
+  :genre: aphorism
+  :cite-key: mdo:12-cs
   :END:
 
 
@@ -238,8 +233,8 @@ Medituj na slepotu lidské bytosti.
 * 13.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:13-cs
+  :genre: aphorism
+  :cite-key: mdo:13-cs
   :END:
 
 
@@ -256,8 +251,8 @@ Medituj na srdce duchovního Mistra.
 * 14.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:14-cs
+  :genre: aphorism
+  :cite-key: mdo:14-cs
   :END:
 
 
@@ -274,8 +269,8 @@ Medituj na bezradnost noci.
 * 15.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:15-cs
+  :genre: aphorism
+  :cite-key: mdo:15-cs
   :END:
 
 
@@ -292,8 +287,8 @@ Medituj na dech, který se od tebe vrací do Nebe.
 * 16.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:16-cs
+  :genre: aphorism
+  :cite-key: mdo:16-cs
   :END:
 
 
@@ -310,8 +305,8 @@ Medituj na něžnou, křehkou rostlinku.
 * 17.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:17-cs
+  :genre: aphorism
+  :cite-key: mdo:17-cs
   :END:
 
 
@@ -328,8 +323,8 @@ Medituj na rostoucí vděčnost svého srdce.
 * 18.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:18-cs
+  :genre: aphorism
+  :cite-key: mdo:18-cs
   :END:
 
 
@@ -346,8 +341,8 @@ Medituj na plně rozkvetlý strom.
 * 19.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:19-cs
+  :genre: aphorism
+  :cite-key: mdo:19-cs
   :END:
 
 
@@ -364,8 +359,8 @@ Medituj na nekonečné hejno ptáků.
 * 20.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:20-cs
+  :genre: aphorism
+  :cite-key: mdo:20-cs
   :END:
 
 
@@ -382,8 +377,8 @@ Medituj na fontánu svého vlastního srdce.
 * 21.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:21-cs
+  :genre: aphorism
+  :cite-key: mdo:21-cs
   :END:
 
 
@@ -400,8 +395,8 @@ Medituj na vědomou ochotu své mysli.
 * 22.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:22-cs
+  :genre: aphorism
+  :cite-key: mdo:22-cs
   :END:
 
 
@@ -418,8 +413,8 @@ Medituj na vytrvalost želvy.
 * 23.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:23-cs
+  :genre: aphorism
+  :cite-key: mdo:23-cs
   :END:
 
 
@@ -436,8 +431,8 @@ Medituj na svůj radostný a sebedávající dech.
 * 24.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:24-cs
+  :genre: aphorism
+  :cite-key: mdo:24-cs
   :END:
 
 
@@ -454,8 +449,8 @@ Medituj na semínko ležící v zemi.
 * 25.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:25-cs
+  :genre: aphorism
+  :cite-key: mdo:25-cs
   :END:
 
 
@@ -472,8 +467,8 @@ Medituj na své srdce novosti, jednoty a plnosti.
 * 26.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:26-cs
+  :genre: aphorism
+  :cite-key: mdo:26-cs
   :END:
 
 
@@ -490,8 +485,8 @@ Medituj na novost své mysli a rozlehlost svého srdce.
 * 27.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:27-cs
+  :genre: aphorism
+  :cite-key: mdo:27-cs
   :END:
 
 
@@ -508,8 +503,8 @@ Medituj na svůj domov jednotného světa.
 * 28.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:28-cs
+  :genre: aphorism
+  :cite-key: mdo:28-cs
   :END:
 
 
@@ -526,8 +521,8 @@ Medituj na strom s květy, listy a plody.
 * 29.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:29-cs
+  :genre: aphorism
+  :cite-key: mdo:29-cs
   :END:
 
 
@@ -544,8 +539,8 @@ Medituj na stoupající plameny.
 * 30.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:30-cs
+  :genre: aphorism
+  :cite-key: mdo:30-cs
   :END:
 
 
@@ -562,8 +557,8 @@ Medituj na tančící dítě.
 * 31.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:31-cs
+  :genre: aphorism
+  :cite-key: mdo:31-cs
   :END:
 
 
@@ -580,8 +575,8 @@ Medituj na zápasníka.
 * 32.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:32-cs
+  :genre: aphorism
+  :cite-key: mdo:32-cs
   :END:
 
 
@@ -598,8 +593,8 @@ Medituj na slzy svého srdce.
 * 33.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:33-cs
+  :genre: aphorism
+  :cite-key: mdo:33-cs
   :END:
 
 
@@ -616,8 +611,8 @@ Medituj na úplněk.
 * 34.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:34-cs
+  :genre: aphorism
+  :cite-key: mdo:34-cs
   :END:
 
 
@@ -633,8 +628,8 @@ Medituj na malinký plamínek.
 * 35.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:35-cs
+  :genre: aphorism
+  :cite-key: mdo:35-cs
   :END:
 
 
@@ -651,8 +646,8 @@ Medituj na dítě, které spontánně poslouchá přání své matky.
 * 36.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:36-cs
+  :genre: aphorism
+  :cite-key: mdo:36-cs
   :END:
 
 
@@ -669,8 +664,8 @@ Medituj na plápolající oheň.
 * 37.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:37-cs
+  :genre: aphorism
+  :cite-key: mdo:37-cs
   :END:
 
 
@@ -687,8 +682,8 @@ Medituj na něžnost dětského srdce.
 * 38.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:38-cs
+  :genre: aphorism
+  :cite-key: mdo:38-cs
   :END:
 
 
@@ -705,8 +700,8 @@ Medituj na úsměv oceánu.
 * 39.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:39-cs
+  :genre: aphorism
+  :cite-key: mdo:39-cs
   :END:
 
 
@@ -723,8 +718,8 @@ Medituj na svůj malíček.
 * 40.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:40-cs
+  :genre: aphorism
+  :cite-key: mdo:40-cs
   :END:
 
 
@@ -741,8 +736,8 @@ Medituj na krávu, která dává mléko.
 * 41.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:41-cs
+  :genre: aphorism
+  :cite-key: mdo:41-cs
   :END:
 
 
@@ -759,8 +754,8 @@ Medituj na rozkvétající ráno.
 * 42.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:42-cs
+  :genre: aphorism
+  :cite-key: mdo:42-cs
   :END:
 
 
@@ -777,8 +772,8 @@ Medituj na nemluvně v kolébce, houpané matkou.
 * 43.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:43-cs
+  :genre: aphorism
+  :cite-key: mdo:43-cs
   :END:
 
 
@@ -795,8 +790,8 @@ Medituj na ranní východ slunce.
 * 44.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:44-cs
+  :genre: aphorism
+  :cite-key: mdo:44-cs
   :END:
 
 
@@ -813,8 +808,8 @@ Medituj na klávesy hudebního nástroje.
 * 45.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:45-cs
+  :genre: aphorism
+  :cite-key: mdo:45-cs
   :END:
 
 
@@ -831,8 +826,8 @@ Medituj na veselost své mysli před tím, než cokoliv uděláš.
 * 46.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:46-cs
+  :genre: aphorism
+  :cite-key: mdo:46-cs
   :END:
 
 
@@ -849,8 +844,8 @@ Medituj na ptačí chmýří.
 * 47.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:47-cs
+  :genre: aphorism
+  :cite-key: mdo:47-cs
   :END:
 
 
@@ -867,8 +862,8 @@ Medituj na tryskový start sprintera.
 * 48.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:48-cs
+  :genre: aphorism
+  :cite-key: mdo:48-cs
   :END:
 
 
@@ -885,8 +880,8 @@ Medituj na jelena.
 * 49.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:49-cs
+  :genre: aphorism
+  :cite-key: mdo:49-cs
   :END:
 
 
@@ -903,8 +898,8 @@ Medituj na prázdnotu života.
 * 50.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:50-cs
+  :genre: aphorism
+  :cite-key: mdo:50-cs
   :END:
 
 
@@ -921,8 +916,8 @@ Medituj na zvětšení svých vlastních božských vlastností.
 * 51.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:51-cs
+  :genre: aphorism
+  :cite-key: mdo:51-cs
   :END:
 
 
@@ -939,8 +934,8 @@ Medituj na přímost svého vyjadřování.
 * 52.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:52-cs
+  :genre: aphorism
+  :cite-key: mdo:52-cs
   :END:
 
 
@@ -957,8 +952,8 @@ Medituj na ticho svého srdce.
 * 53.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:53-cs
+  :genre: aphorism
+  :cite-key: mdo:53-cs
   :END:
 
 
@@ -975,8 +970,8 @@ Medituj na jemný vánek.
 * 54.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:54-cs
+  :genre: aphorism
+  :cite-key: mdo:54-cs
   :END:
 
 
@@ -993,8 +988,8 @@ Medituj na nepřítomnost očekávání.
 * 55.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:55-cs
+  :genre: aphorism
+  :cite-key: mdo:55-cs
   :END:
 
 
@@ -1011,8 +1006,8 @@ Medituj na sladkost své plynoucí myšlenky.
 * 56.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:56-cs
+  :genre: aphorism
+  :cite-key: mdo:56-cs
   :END:
 
 
@@ -1029,8 +1024,8 @@ Medituj na mysl studující ve škole srdce.
 * 57.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:57-cs
+  :genre: aphorism
+  :cite-key: mdo:57-cs
   :END:
 
 
@@ -1047,8 +1042,8 @@ Medituj na závěrečnou zkoušku dobrého studenta.
 * 58.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:58-cs
+  :genre: aphorism
+  :cite-key: mdo:58-cs
   :END:
 
 
@@ -1065,8 +1060,8 @@ Medituj na dětské hřiště.
 * 59.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:59-cs
+  :genre: aphorism
+  :cite-key: mdo:59-cs
   :END:
 
 
@@ -1083,8 +1078,8 @@ Medituj na setkání dvou milých na letišti po velmi dlouhém odloučení.
 * 60.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:60-cs
+  :genre: aphorism
+  :cite-key: mdo:60-cs
   :END:
 
 
@@ -1101,8 +1096,8 @@ Medituj na dítě trhající květinu.
 * 61.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:61-cs
+  :genre: aphorism
+  :cite-key: mdo:61-cs
   :END:
 
 
@@ -1119,8 +1114,8 @@ Medituj na kvetoucí žluté narcisy.
 * 62.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:62-cs
+  :genre: aphorism
+  :cite-key: mdo:62-cs
   :END:
 
 
@@ -1137,8 +1132,8 @@ Medituj na svůj vlastní vynikající studentský život.
 * 63.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:63-cs
+  :genre: aphorism
+  :cite-key: mdo:63-cs
   :END:
 
 
@@ -1155,8 +1150,8 @@ Medituj na neustálé sebedávání.
 * 64.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:64-cs
+  :genre: aphorism
+  :cite-key: mdo:64-cs
   :END:
 
 
@@ -1173,8 +1168,8 @@ Medituj na plavbu měsíční nocí.
 * 65.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:65-cs
+  :genre: aphorism
+  :cite-key: mdo:65-cs
   :END:
 
 
@@ -1191,8 +1186,8 @@ Medituj na nespočetné kapky moře.
 * 66.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:66-cs
+  :genre: aphorism
+  :cite-key: mdo:66-cs
   :END:
 
 
@@ -1211,8 +1206,8 @@ Medituj na maják.
 * 67.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:67-cs
+  :genre: aphorism
+  :cite-key: mdo:67-cs
   :END:
 
 
@@ -1229,8 +1224,8 @@ Medituj na svou schopnost ocenit úspěchy druhých.
 * 68.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:68-cs
+  :genre: aphorism
+  :cite-key: mdo:68-cs
   :END:
 
 
@@ -1247,8 +1242,8 @@ Medituj na jednotu lodi a řeky.
 * 69.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:69-cs
+  :genre: aphorism
+  :cite-key: mdo:69-cs
   :END:
 
 
@@ -1265,8 +1260,8 @@ Medituj na otevřenost svého milujícího srdce.
 * 70.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:70-cs
+  :genre: aphorism
+  :cite-key: mdo:70-cs
   :END:
 
 
@@ -1283,8 +1278,8 @@ Medituj na křehkost rostliny.
 * 71.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:71-cs
+  :genre: aphorism
+  :cite-key: mdo:71-cs
   :END:
 
 
@@ -1301,8 +1296,8 @@ Medituj na rozzářené úsměvy věrných přátel.
 * 72.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:72-cs
+  :genre: aphorism
+  :cite-key: mdo:72-cs
   :END:
 
 
@@ -1318,8 +1313,8 @@ Medituj na hejno ptáků.
 * 73.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:73-cs
+  :genre: aphorism
+  :cite-key: mdo:73-cs
   :END:
 
 
@@ -1335,8 +1330,8 @@ Medituj na nejmenší štěňátko.
 * 74.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:74-cs
+  :genre: aphorism
+  :cite-key: mdo:74-cs
   :END:
 
 
@@ -1353,8 +1348,8 @@ Medituj na smějící se dítě, jež dává květinu své matce.
 * 75.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:75-cs
+  :genre: aphorism
+  :cite-key: mdo:75-cs
   :END:
 
 
@@ -1371,8 +1366,8 @@ Medituj na šepot své duše, plný požehnání.
 * 76.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:76-cs
+  :genre: aphorism
+  :cite-key: mdo:76-cs
   :END:
 
 
@@ -1389,8 +1384,8 @@ Medituj na požehnání jemně mrholícího deště.
 * 77.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:77-cs
+  :genre: aphorism
+  :cite-key: mdo:77-cs
   :END:
 
 
@@ -1407,8 +1402,8 @@ Medituj na neustálou ochotu pomáhat druhým.
 * 78.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:78-cs
+  :genre: aphorism
+  :cite-key: mdo:78-cs
   :END:
 
 
@@ -1425,8 +1420,8 @@ Medituj na rozlehlost zelených polí.
 * 79.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: MDO:79-cs
+  :genre: aphorism
+  :cite-key: mdo:79-cs
   :END:
 
 
@@ -1437,15 +1432,3 @@ Co si přeješ?
 Medituj na světlo své všeosvěcující duše.
 
 Medituj na křídla ptáka letícího do Neznáma.
-
-
-
-
-
-
-#+SETUPFILE: ~/.org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

@@ -1,12 +1,7 @@
-#+TITLE: Chrám mého srdce
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Chrám mého srdce
 
   :PROPERTIES:
+  :language: cs
   :book-number:
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -20,8 +15,8 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:1-cs
+  :genre: poem
+  :cite-key: mht:1-cs
   :END:
 
 
@@ -39,8 +34,8 @@ květ a rozkvět
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:2-cs
+  :genre: poem
+  :cite-key: mht:2-cs
   :END:
 
 
@@ -61,8 +56,8 @@ učinili dokonalý chrám Nejvyššího.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:3-cs
+  :genre: poem
+  :cite-key: mht:3-cs
   :END:
 
 
@@ -81,8 +76,8 @@ vysílá všechny zprávy,
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:4-cs
+  :genre: poem
+  :cite-key: mht:4-cs
   :END:
 
 
@@ -101,8 +96,8 @@ do chrámu tvého srdce.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:5-cs
+  :genre: poem
+  :cite-key: mht:5-cs
   :END:
 
 
@@ -119,8 +114,8 @@ a plameny tvého srdce.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:6-cs
+  :genre: poem
+  :cite-key: mht:6-cs
   :END:
 
 
@@ -137,8 +132,8 @@ rozeznít zvon chrámu svého srdce.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:7-cs
+  :genre: poem
+  :cite-key: mht:7-cs
   :END:
 
 
@@ -156,8 +151,8 @@ a modlit se a meditovat.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:8-cs
+  :genre: poem
+  :cite-key: mht:8-cs
   :END:
 
 
@@ -174,8 +169,8 @@ v chrámu našeho srdce.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:9-cs
+  :genre: poem
+  :cite-key: mht:9-cs
   :END:
 
 
@@ -194,8 +189,8 @@ jako ten nejposvátnější
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:10-cs
+  :genre: poem
+  :cite-key: mht:10-cs
   :END:
 
 
@@ -215,8 +210,8 @@ v chrámu svého srdce
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:11-cs
+  :genre: poem
+  :cite-key: mht:11-cs
   :END:
 
 
@@ -233,8 +228,8 @@ který je tvým jediným domovem.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:12-cs
+  :genre: poem
+  :cite-key: mht:12-cs
   :END:
 
 
@@ -251,8 +246,8 @@ aby probudil můj spící vnitřní život.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:13-cs
+  :genre: poem
+  :cite-key: mht:13-cs
   :END:
 
 
@@ -273,8 +268,8 @@ Milovaným Nejvyšším.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:14-cs
+  :genre: poem
+  :cite-key: mht:14-cs
   :END:
 
 
@@ -299,8 +294,8 @@ abych se stal dalším Bohem.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:15-cs
+  :genre: poem
+  :cite-key: mht:15-cs
   :END:
 
 
@@ -321,8 +316,8 @@ než miluje cokoli jiného
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:16-cs
+  :genre: poem
+  :cite-key: mht:16-cs
   :END:
 
 
@@ -348,8 +343,8 @@ můj Nejvyšší!
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:17-cs
+  :genre: poem
+  :cite-key: mht:17-cs
   :END:
 
 
@@ -366,8 +361,8 @@ posvátného chrámu
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:18-cs
+  :genre: poem
+  :cite-key: mht:18-cs
   :END:
 
 #+BEGIN_VERSE
@@ -394,8 +389,8 @@ Ten, kdo zpívá píseň sebepřekonávání v každém dechu.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:19-cs
+  :genre: poem
+  :cite-key: mht:19-cs
   :END:
 
 #+BEGIN_VERSE
@@ -420,8 +415,8 @@ A on sám projevuje
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:20-cs
+  :genre: poem
+  :cite-key: mht:20-cs
   :END:
 
 #+BEGIN_VERSE
@@ -443,8 +438,8 @@ můj Nejvyšší!
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:21-cs
+  :genre: poem
+  :cite-key: mht:21-cs
   :END:
 
 #+BEGIN_VERSE
@@ -460,8 +455,8 @@ Nepřekážej Bohu.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:22-cs
+  :genre: poem
+  :cite-key: mht:22-cs
   :END:
 
 #+BEGIN_VERSE
@@ -478,8 +473,8 @@ zůstane navždy rozestavěný.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:23-cs
+  :genre: poem
+  :cite-key: mht:23-cs
   :END:
 
 #+BEGIN_VERSE
@@ -495,8 +490,8 @@ bez základů aspirace svého srdce?
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:24-cs
+  :genre: poem
+  :cite-key: mht:24-cs
   :END:
 
 #+BEGIN_VERSE
@@ -512,8 +507,8 @@ chrámu projevení Boha na zemi.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:25-cs
+  :genre: poem
+  :cite-key: mht:25-cs
   :END:
 
 #+BEGIN_VERSE
@@ -529,8 +524,8 @@ z burácení války pochybností.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:26-cs
+  :genre: poem
+  :cite-key: mht:26-cs
   :END:
 
 #+BEGIN_VERSE
@@ -548,8 +543,8 @@ svou Vůní a Krásou.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:27-cs
+  :genre: poem
+  :cite-key: mht:27-cs
   :END:
 
 #+BEGIN_VERSE
@@ -570,8 +565,8 @@ v chrámu svého srdce.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:28-cs
+  :genre: poem
+  :cite-key: mht:28-cs
   :END:
 
 #+BEGIN_VERSE
@@ -587,8 +582,8 @@ v chrámu ticha duše.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:29-cs
+  :genre: poem
+  :cite-key: mht:29-cs
   :END:
 
 #+BEGIN_VERSE
@@ -612,8 +607,8 @@ Nesmrtelnosti.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:30-cs
+  :genre: poem
+  :cite-key: mht:30-cs
   :END:
 
 #+BEGIN_VERSE
@@ -629,8 +624,8 @@ chrámové školy Boha.
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:31-cs
+  :genre: poem
+  :cite-key: mht:31-cs
   :END:
 
 #+BEGIN_VERSE
@@ -647,8 +642,8 @@ jak oceníš Ticho Vize
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:32-cs
+  :genre: poem
+  :cite-key: mht:32-cs
   :END:
 
 #+BEGIN_VERSE
@@ -665,8 +660,8 @@ může stát skutečností.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:33-cs
+  :genre: poem
+  :cite-key: mht:33-cs
   :END:
 
 #+BEGIN_VERSE
@@ -688,8 +683,8 @@ sladké nesmrtelné Výšce.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:34-cs
+  :genre: poem
+  :cite-key: mht:34-cs
   :END:
 
 #+BEGIN_VERSE
@@ -713,8 +708,8 @@ Proto Tě nikde nevidím.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:35-cs
+  :genre: poem
+  :cite-key: mht:35-cs
   :END:
 
 #+BEGIN_VERSE
@@ -731,8 +726,8 @@ v chrámu vděčnosti svého srdce.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:36-cs
+  :genre: poem
+  :cite-key: mht:36-cs
   :END:
 
 #+BEGIN_VERSE
@@ -748,8 +743,8 @@ v chrámu tvého srdce.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:37-cs
+  :genre: poem
+  :cite-key: mht:37-cs
   :END:
 
 #+BEGIN_VERSE
@@ -765,8 +760,8 @@ jako modlitba vonné tyčinky
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:38-cs
+  :genre: poem
+  :cite-key: mht:38-cs
   :END:
 
 #+BEGIN_VERSE
@@ -782,8 +777,8 @@ pomůže proměnit můj život
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:39-cs
+  :genre: poem
+  :cite-key: mht:39-cs
   :END:
 
 #+BEGIN_VERSE
@@ -804,8 +799,8 @@ chceme-li vstoupit
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:40-cs
+  :genre: poem
+  :cite-key: mht:40-cs
   :END:
 
 #+BEGIN_VERSE
@@ -822,8 +817,8 @@ aby dorazil do Paláce Boha.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:41-cs
+  :genre: poem
+  :cite-key: mht:41-cs
   :END:
 
 #+BEGIN_VERSE
@@ -842,8 +837,8 @@ aby ses jenom usmíval.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:42-cs
+  :genre: poem
+  :cite-key: mht:42-cs
   :END:
 
 #+BEGIN_VERSE
@@ -860,8 +855,8 @@ Navštěvuje pouze
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:43-cs
+  :genre: poem
+  :cite-key: mht:43-cs
   :END:
 
 #+BEGIN_VERSE
@@ -877,8 +872,8 @@ mým Boha-uctívajícím stavitelem
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:44-cs
+  :genre: poem
+  :cite-key: mht:44-cs
   :END:
 
 #+BEGIN_VERSE
@@ -894,8 +889,8 @@ svého Milovaného Nejvyššího.
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:45-cs
+  :genre: poem
+  :cite-key: mht:45-cs
   :END:
 
 #+BEGIN_VERSE
@@ -912,8 +907,8 @@ v chrámu svého srdce.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:46-cs
+  :genre: poem
+  :cite-key: mht:46-cs
   :END:
 
 #+BEGIN_VERSE
@@ -929,8 +924,8 @@ svého srdce.
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:47-cs
+  :genre: poem
+  :cite-key: mht:47-cs
   :END:
 
 #+BEGIN_VERSE
@@ -945,8 +940,8 @@ v chrámu srdce sebenabízení.
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:48-cs
+  :genre: poem
+  :cite-key: mht:48-cs
   :END:
 
 #+BEGIN_VERSE
@@ -964,8 +959,8 @@ s nesmírnou radostí a pýchou.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:49-cs
+  :genre: poem
+  :cite-key: mht:49-cs
   :END:
 
 #+BEGIN_VERSE
@@ -981,8 +976,8 @@ v chrámu ticha.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:50-cs
+  :genre: poem
+  :cite-key: mht:50-cs
   :END:
 
 #+BEGIN_VERSE
@@ -998,8 +993,8 @@ do Chrámu Boha.
 * 51.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:51-cs
+  :genre: poem
+  :cite-key: mht:51-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1015,8 +1010,8 @@ aby mé srdce, má mysl, mé vitálno i mé tělo
 * 52.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:52-cs
+  :genre: poem
+  :cite-key: mht:52-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1033,8 +1028,8 @@ a v každém aspirujícím pláči
 * 53.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:53-cs
+  :genre: poem
+  :cite-key: mht:53-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1051,8 +1046,8 @@ abych se modlil, meditoval a sloužil.
 * 54.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:54-cs
+  :genre: poem
+  :cite-key: mht:54-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1068,8 +1063,8 @@ aby nedovolil ani stínu myšlenky
 * 55.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:55-cs
+  :genre: poem
+  :cite-key: mht:55-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1085,8 +1080,8 @@ když pokojně žiji v chrámu svého srdce.
 * 56.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:56-cs
+  :genre: poem
+  :cite-key: mht:56-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1103,8 +1098,8 @@ písně svého chrámu srdce.
 * 57.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:57-cs
+  :genre: poem
+  :cite-key: mht:57-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1121,8 +1116,8 @@ písně svého chrámu srdce.
 * 58.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:58-cs
+  :genre: poem
+  :cite-key: mht:58-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1138,8 +1133,8 @@ hrají na schovávanou.
 * 59.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:59-cs
+  :genre: poem
+  :cite-key: mht:59-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1155,8 +1150,8 @@ svého srdce.
 * 60.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:60-cs
+  :genre: poem
+  :cite-key: mht:60-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1172,8 +1167,8 @@ Bůh si přeje, abych žil v chrámu
 * 61.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:61-cs
+  :genre: poem
+  :cite-key: mht:61-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1188,8 +1183,8 @@ Hlas Boha můžeš slyšet
 * 62.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:62-cs
+  :genre: poem
+  :cite-key: mht:62-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1206,8 +1201,8 @@ Bůh odpoví dokonce dříve,
 * 63.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:63-cs
+  :genre: poem
+  :cite-key: mht:63-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1223,8 +1218,8 @@ pak je to čistota chrámu mého srdce.
 * 64.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:64-cs
+  :genre: poem
+  :cite-key: mht:64-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1240,8 +1235,8 @@ Jsem tak šťastný a tak hrdý, že vím,
 * 65.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:65-cs
+  :genre: poem
+  :cite-key: mht:65-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1257,8 +1252,8 @@ v chrámu svého aspirujícího srdce.
 * 66.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:66-cs
+  :genre: poem
+  :cite-key: mht:66-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1278,8 +1273,8 @@ Aspirující srdce člověka.
  67.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:67-cs
+  :genre: poem
+  :cite-key: mht:67-cs
   :END:
 
 
@@ -1295,8 +1290,8 @@ pravidla chrámu aspirace svého srdce.
 * 68.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:68-cs
+  :genre: poem
+  :cite-key: mht:68-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1313,8 +1308,8 @@ chrám aspirace svého srdce.
 * 69.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:69-cs
+  :genre: poem
+  :cite-key: mht:69-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1331,8 +1326,8 @@ v chrámu aspirace svého srdce.
 * 70.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:70-cs
+  :genre: poem
+  :cite-key: mht:70-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1348,8 +1343,8 @@ rozhlašovat tvé jméno.
 * 71.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:71-cs
+  :genre: poem
+  :cite-key: mht:71-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1365,8 +1360,8 @@ abys meditoval a osvítil sám sebe.
 * 72.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:72-cs
+  :genre: poem
+  :cite-key: mht:72-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1382,8 +1377,8 @@ co radikálně změníš svou mysl.
 * 73.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:73-cs
+  :genre: poem
+  :cite-key: mht:73-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1399,8 +1394,8 @@ abys vedl život dobra a plnosti.
 * 74.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:74-cs
+  :genre: poem
+  :cite-key: mht:74-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1416,8 +1411,8 @@ smazání sebe sama.
 * 75.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:75-cs
+  :genre: poem
+  :cite-key: mht:75-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1433,8 +1428,8 @@ jako chrámový zvon.
 * 76.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:76-cs
+  :genre: poem
+  :cite-key: mht:76-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1457,8 +1452,8 @@ můj Nejvyšší!
 * 77.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:77-cs
+  :genre: poem
+  :cite-key: mht:77-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1475,8 +1470,8 @@ zvláště do chrámu našeho srdce.
 * 78.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:78-cs
+  :genre: poem
+  :cite-key: mht:78-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1492,8 +1487,8 @@ od Pána Nejvyššího.
 * 79.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:79-cs
+  :genre: poem
+  :cite-key: mht:79-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1510,8 +1505,8 @@ pozve tě Bůh,
 * 80.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:80-cs
+  :genre: poem
+  :cite-key: mht:80-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1528,8 +1523,8 @@ aby požehnal našim duším,
 * 81.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:81-cs
+  :genre: poem
+  :cite-key: mht:81-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1545,8 +1540,8 @@ Jen vstup do chrámu svého srdce.
 * 82.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:82-cs
+  :genre: poem
+  :cite-key: mht:82-cs
   :END:
 
 
@@ -1568,8 +1563,8 @@ můj Nejvyšší!
 * 83.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:83-cs
+  :genre: poem
+  :cite-key: mht:83-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1585,8 +1580,8 @@ chrám lásky, soucitu a moudrosti mé duše.
 * 84.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:84-cs
+  :genre: poem
+  :cite-key: mht:84-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1601,8 +1596,8 @@ zbavený předstírání své mysli.
 * 85.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:85-cs
+  :genre: poem
+  :cite-key: mht:85-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1621,8 +1616,8 @@ chrám čistoty už mám.
 * 86.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:86-cs
+  :genre: poem
+  :cite-key: mht:86-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1638,8 +1633,8 @@ mého srdce.
 * 87.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:87-cs
+  :genre: poem
+  :cite-key: mht:87-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1656,8 +1651,8 @@ v chrám písní Boha.
 * 88.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:88-cs
+  :genre: poem
+  :cite-key: mht:88-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1673,8 +1668,8 @@ chrámu srdce.
 * 89.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:89-cs
+  :genre: poem
+  :cite-key: mht:89-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1691,8 +1686,8 @@ v chrámu poslušnosti Bohu.
 * 90.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:90-cs
+  :genre: poem
+  :cite-key: mht:90-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1709,8 +1704,8 @@ chrámu svého srdce.
 * 91.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:91-cs
+  :genre: poem
+  :cite-key: mht:91-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1726,8 +1721,8 @@ pak zameť prach minulosti.
 * 92.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:92-cs
+  :genre: poem
+  :cite-key: mht:92-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1743,8 +1738,8 @@ chrám svého srdce.
 * 93.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:93-cs
+  :genre: poem
+  :cite-key: mht:93-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1760,8 +1755,8 @@ Běda, toužím
 * 94.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:94-cs
+  :genre: poem
+  :cite-key: mht:94-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1777,8 +1772,8 @@ a oltářem mého srdce.
 * 95.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:95-cs
+  :genre: poem
+  :cite-key: mht:95-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1794,8 +1789,8 @@ je nekonečně důležitější
 * 96.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:96-cs
+  :genre: poem
+  :cite-key: mht:96-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1812,8 +1807,8 @@ a milovníky plnosti Nebe.
 * 97.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:97-cs
+  :genre: poem
+  :cite-key: mht:97-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1830,8 +1825,8 @@ oddanosti svého srdce.
 * 98.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:98-cs
+  :genre: poem
+  :cite-key: mht:98-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1847,8 +1842,8 @@ chrámu srdce lidstva.
 * 99.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:99-cs
+  :genre: poem
+  :cite-key: mht:99-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1866,8 +1861,8 @@ naděje svého srdce.
 * 100.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: MHT:100-cs
+  :genre: poem
+  :cite-key: mht:100-cs
   :END:
 
 
@@ -1883,21 +1878,3 @@ můj Nejvyšší,
 můj Nejvyšší!
 
 #+END_VERSE
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# END:
-
-
-
-
-

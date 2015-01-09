@@ -1,20 +1,15 @@
-#+TITLE: Astrologie, nadpřirozeno a svět Za
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Astrologie, nadpřirozeno a svět Za
 
  :PROPERTIES:
- :BOOK-NUMBER: 
- :AUTHOR: Sri Chinmoy
- :ORIGINAL-EDITION: nil
- :YEAR: 1995
- :PUBLISHER: Madal Bal
- :CITE-KEY: ASB-cs
- :GENRE: qa
- :KEYWORDS:
+ :language: cs
+ :book-number: 
+ :author: Sri Chinmoy
+ :original-edition: nil
+ :year: 1995
+ :publisher: Madal Bal
+ :cite-key: ASB-cs
+ :genre: qa
+ :keywords:
  :END:
 
 
@@ -22,9 +17,9 @@
 
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ASB:1e1-cs
+ :genre: section
+ :keywords:
+ :cite-key: asb:1e1-cs
  :END:
 
 
@@ -32,9 +27,9 @@
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:1-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:1-cs
  :END:
 
 /Sri Chinmoy:/ Astrologie je věda. Duchovní hledající ji dokonce nazývají vnitřní, duchovní vědou.
@@ -43,7 +38,7 @@
 
   Pokud však lidé věří sami sobě, s touto vírou mohou astrologii přesáhnout. Proto říkáme, že víra všechno mění pevnou vůlí. Máme-li pevnou vůli, může být osud změněn. Pravda, všechny naše minulé skutky jsou zaznamenány ve hvězdách. Chceme-li však osud vymazat, je to jako vymazání něčeho na magnetofonu. Něco řeknu a je to zaznamenáno, ale pokud to chci smazat, mohu.
 
-   Astrologie je na 100% správná, když je člověk zcela ve fyzickém světě a žije obyčejným lidským životem. Když vstoupí do duchovního života, potom je správnost 60 nebo 70%. Pokud je aspirující vědomě nebo nevědomě ve styku se svou vnitřní bytostí a pokud je jeho vnitřní bytost trvale ve styku se Zdrojem, může se vyhnout mnoha a mnoha špatným věcem. A konečně, když je ve společenství s Bohem, potom pro něj astrologie nefunguje vůbec, protože všechno v jeho životě přijde přímo od Boha. Opravdová jednota s Bohem je daleko za astrologií. Pokud naší intenzivní aspirací řekneme: „Bože, nechci to“, a jsme-li jedním s Bohem, potom Bůh řekne: „Dobře, neber si to.“ To samozřejmě neplatí pro začátečníky v duchovním životě. Jen ti, kteří mají bezprostřední vnitřní spojení s Nejvyšší Bytostí, mohou jít zcela za vliv hvězd. Člověk však nezůstane začátečníkem nastálo. Časem se stane v duchovním životě pokročilejším a více a více imunním vůči silám své minulosti.
+   Astrologie je na 100% správná, když je člověk zcela ve fyzickém světě a žije obyčejným lidským životem. Když vstoupí do duchovního života, potom je správnost 60 nebo 70%. Pokud je aspirující vědomě nebo nevědomě ve styku se svou vnitřní bytostí a pokud je jeho vnitřní bytost trvale ve styku se Zdrojem, může se vyhnout mnoha a mnoha špatným věcem. A konečně, když je ve společenství s Bohem, potom pro něj astrologie nefunguje vůbec, protože všechno v jeho životě přijde přímo od Boha. Opravdová jednota s Bohem je daleko za astrologií. Pokud naší intenzivní aspirací řekneme: „bože, nechci to“, a jsme-li jedním s bohem, potom bůh řekne: „Dobře, neber si to.“ To samozřejmě neplatí pro začátečníky v duchovním životě. Jen ti, kteří mají bezprostřední vnitřní spojení s Nejvyšší Bytostí, mohou jít zcela za vliv hvězd. Člověk však nezůstane začátečníkem nastálo. Časem se stane v duchovním životě pokročilejším a více a více imunním vůči silám své minulosti.
 
    Astrologická předpověď může být ještě přesažena dokonce i tehdy, když člověk není hledajícím. Na hlubší úrovni vždy existuje vyšší síla, zvaná Boží Milost. Boží Milost může změnit osud kohokoliv.
    
@@ -55,7 +50,7 @@
 
    Ještě jednu příhodu chci povědět o Bhrigu systému. Můj strýc zašel k astrologovi, aby měl svůj horoskop podle tohoto systému. On a jeho manželka neměli žádné děti. V horoskopu bylo zmíněno, že tato dvojice nebude mít nikdy děti, protože můj strýc, který byl v předešlé inkarnaci lovcem, zabil srnu, která byla březí. Přitom, co srna vydechla naposled, se její duše pomodlila k Bohu: „Ó Bože, zabil ve mně mé dítě. Prosím, neposkytni mu v jeho příští inkarnaci žádné dítě.“ Bůh modlitbu srny vyslyšel a můj kmotr neměl v této inkarnaci žádné děti. Po své realizaci jsem se koncentroval, abych poznal, zda byl příběh o mém kmotru pravdivý nebo ne a shledal jsem, že byl naprosto pravdivý.
 
-   To však neznamená, že všechno, co astrologové řeknou, je pravdivé. Zdaleka ne. Jedna moje žákyně za mnou přišla s pláčem, že kdosi předpověděl, že její otec tento měsíc zemře. Řekl jsem: „Dobře, pokud má tvůj otec v úmyslu zemřít, zemře podle astrologovy předpovědi.“ Potom jsem se koncentroval a řekl jsem jí: „Neměj strach. Nic nemusím dělat. Nepřináším dolů Boží Milost. Dokonce se ani nemodlím za tvého otce k Bohu, protože předpověď byla nesprávná.“ Věřte mi, nemodlil jsem se k Nejvyššímu, aby anuloval astrologovu předpověď, ale její otec je stále zdravý a silný. Matka další žákyně předpokládala, že zemře, podle předpovědi astrologa, 17. nebo 18. prosince. Moje žákyně hořce plakala. Ale řekl jsem jí, že také tato předpověď je nesprávná. Její matka je stále naživu.
+   To však neznamená, že všechno, co astrologové řeknou, je pravdivé. Zdaleka ne. Jedna moje žákyně za mnou přišla s pláčem, že kdosi předpověděl, že její otec tento měsíc zemře. Řekl jsem: „dobře, pokud má tvůj otec v úmyslu zemřít, zemře podle astrologovy předpovědi.“ potom jsem se koncentroval a řekl jsem jí: „Neměj strach. Nic nemusím dělat. Nepřináším dolů Boží Milost. Dokonce se ani nemodlím za tvého otce k Bohu, protože předpověď byla nesprávná.“ Věřte mi, nemodlil jsem se k Nejvyššímu, aby anuloval astrologovu předpověď, ale její otec je stále zdravý a silný. Matka další žákyně předpokládala, že zemře, podle předpovědi astrologa, 17. nebo 18. prosince. Moje žákyně hořce plakala. Ale řekl jsem jí, že také tato předpověď je nesprávná. Její matka je stále naživu.
 
    V Indii známe mnoho případů, kdy astrologie selhala, zvláště v situacích týkajících se duchovního ašrámu. Astrolog může říci, že když bude dítěti 14 nebo 15 let, jeho rodiče zemřou. Jestliže však předtím, než dítě do tohoto věku doroste, rodiče přijmou duchovní život, mohou žít o mnoho let déle. Mnoho Guruů změnilo osud svých žáků. V Indii je o tom mnoho příběhů. Astrolog například jednou někomu řekl, že zemře v určitý den a danou hodinu. Jedna duchovní postava však tomuto muži řekla, aby přišel k němu. Když dotyčný přišel, učitel jej položil na zem, přikryl jej hlínou, potom usedl a meditoval. Když daná hodina uplynula, Guru odházel hlínu přikrývající jeho nového žáka a řekl: „Teď se jdi ukázat astrologovi, že jsi stále ještě na Zemi.“ Existuje mnoho a mnoho takových autentických příběhů.
 
@@ -69,16 +64,16 @@
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:2-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:2-cs
  :END:
 
 /Sri Chinmoy:/ Když lidé sestavují předpovědi, někdy je předpověď pravdivá a někdy je prostě nesprávná. Předpokládejme, že je vaše třetí oko otevřené a vy víte, že někdo zítra zemře. Pokud mu řeknete, že zítra zemře, ublížíte mu nejvíc, protože strach, který jste v něm vytvořil, mu okamžitě odebere všechnu jeho životní radost, důvěru a ujištění. Během zbývajících hodin již bude díky svému strachu dlít ve sféře smrti. Dokonce i když předpověď ď správná není, stále je napůl mrtvý. Jaké dobro tím uděláte, když mu řeknete, že zemře? Pravděpodobně to nebude mít žádný dobrý dopad.
 
    Lidé velice často sestavují úžasné, pozitivní předpovědi, jako: „budeš oblíben“, „staneš se významným“, „staneš se někým skvělým a celý svět ti bude provolávat slávu“. Když je sestaven tento typ předpovědi, velmi často spatřujeme zlomyslný zásah nepřátelských sil. Člověk, který předpověď sestavil, sice pravdu viděl, ale jeho vize není vizí Všemocného; je to vize někoho, kdo má schopnost vidět pravdu, ale ne vize Jediného, který může pravdu stvořit, který může pravdu projevit. Když má obyčejný člověk schopnost sestavit předpověď, cítí, že stvořil pravdu; to ale není pravda. Jen Bůh stvořil pravdu a jen Bůh má moc anulovat pravdu nebo pravdu přeměnit. Já osobně nerad cokoliv předpovídám, protože v předpovídání budoucnosti velice často ničíme kosmický Zákon. Nedovolíme budoucnosti, aby byla vyjádřena způsobem zamýšleným Bohem.
 
-   Jednou přišel žák za svým Mistrem a pověděl mu, že mu astrolog předpověděl, že by měl právě toho dne zemřít. Mistr se na žáka koncentroval a řekl: „Ano, je to určeno, ale přinesl jsem dolů Milost Všemocného a budu schopen tě zachránit.“ Žák se vrátil k astrologovi a řekl mu: „Můj Mistr řekl, že tvá předpověď není pravdivá.“
+   Jednou přišel žák za svým Mistrem a pověděl mu, že mu astrolog předpověděl, že by měl právě toho dne zemřít. Mistr se na žáka koncentroval a řekl: „ano, je to určeno, ale přinesl jsem dolů milost všemocného a budu schopen tě zachránit.“ Žák se vrátil k astrologovi a řekl mu: „Můj Mistr řekl, že tvá předpověď není pravdivá.“
    
    Astrolog řekl: „Sestavil jsem stovky předpovědí a všechny byly pravdivé. Pokud v tvém případě předpověď pravdivá nebude, stanu se žákem tvého Mistra; pokud pravdivá bude, potom musí tvůj Mistr přijít ke mně a učit se astrologii ode mně.“
    
@@ -91,9 +86,9 @@
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:3-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:3-cs
  :END:
 
 /Sri Chinmoy:/ Svět je plný představivosti. Bůh k nám byl velice laskavý; dal nám představivost v bezmezné míře. Ani Kalifornie, ani Puerto Rico, ani žádná jiná část světa nezanikne. Je to prostě absurdní a nemožné, dokonce i když to prohlásili astrologové. Tato zvěst však vytvořila velkou senzaci. Pokud jde o části země potápějící se do moře, tento druh změny zemského povrchu je vždy možný, nemůže však být předpovězen jakkoliv pečlivým astrologem, protože zde vždy pracují síly, které nemůže vyhodnotit. Ale proč máme myslet na to, zda konkrétní místa vydrží či nikoliv? Mysleme na naši vlastní realizaci. Naším Cílem je realizace Boha. Pokládáním otázky, zda to či ono místo bude existovat, nám v dosažení našeho Cíle nepomůže. Můžeme-li setrvat v Božím Vědomí, jsme nesmrtelní, ale pokud zůstaneme v pozemském vědomí, nebudeme nesmrtelní. Je to zbožštělé vědomí, které nás učiní nesmrtelnými a ne místo, kde žijeme.
@@ -103,9 +98,9 @@
 * Peter Hirkos, který je nyní znám po celém světě, byl obyčejným člověkem předtím, než blízko svého domu spadl ze žebříku a udeřil se do hlavy. Když nabyl vědomí, byl schopen hledět do budoucnosti a říci co se stane. Pomáhal policii nacházet nezvěstné a všelijaké věci. Co myslíte, přihodilo se to tím, že spadl a udeřil se do hlavy?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:4-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:4-cs
  :END:
 
 /Sri Chinmoy:/ Měli bychom vědět něco o jeho minulosti. V tomto životě byl obyčejným člověkem, ale ve své minulé inkarnaci již pravděpodobně měl tuto sílu rozvinutou. V dané hodině tento muž dostal šok a okamžitě si oživil svůj starý život a sílu, kterou měl ve své minulé inkarnaci.
@@ -118,9 +113,9 @@
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:5-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:5-cs
  :END:
 
 /Sri Chinmoy:/ Astrologie nemá sílu změnit náš osud, kdežto duchovnost a jóga tuto sílu má. Rozdílem mezi jógou a astrologií je, že astrologie jen naznačuje; naznačuje budoucnost na základě minulosti, ale nezmění ji. Jóga nicméně může skutečně porazit minulost a vytvářet budoucnost. Astrologie sehrává svoji roli nanejvýš účinně, pokud člověk nevstoupil do hlubší duchovnosti. Tam se astrologie skloní, jako se vy ukloníte přede mnou. Předtím, než člověk přijme duchovnost, je astrologie velice mocná, jako lev. Poté, co vstoupí do hlubšího duchovního života, se astrologie stává drobnou domácí kočkou.
@@ -129,9 +124,9 @@
 * Guru, jednou jsi říkal, že ses pokoušel pomoci třem žákům, o kterých jsi věděl, že jsou předurčeni zemřít. Řekl jsi, že jsi u dvou z nich byl úspěšný, ale u třetího sis nebyl jist dobou. Na čem to záviselo? Na osobní vnímavosti?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:6-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:6-cs
  :END:
 
 /Sri Chinmoy:/ Většinou na vnímavosti. Jsem připraven dávat. Pokud mohou přijmout, budou zdraví; jinak nebudou. Někdy vzdorují nebo nemají žádnou životní energii. Pokud je ještě špetka životní energie a lékař dá injekci, potom možná osoba může obživnout. Je zde přinejmenším možnost a naděje. Je-li však osoba naprosto mrtvá, co dobrého udělá injekce? A podobně, nehledě na to, kolik síly přinesu Shora, je to naprosto beznadějné, pokud je životní energie dotyčného příliš omezena.
@@ -142,9 +137,9 @@
 * Je nějak významné, když se dítě narodí při zatmění slunce nebo měsíce?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:7-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:7-cs
  :END:
 
 /Sri Chinmoy:/ Na tuto otázku by vám byl schopen odpovědět lépe astronom nebo astrolog než já. Z duchovního pohledu chci říci, že dítě narozené při zatmění slunce přináší na Zemi nesmírnou energii. Pokud tato energie není usměrněna v raném životě dítěte prostřednictvím duchovních cest, může způsobit mnoho problémů. Dítě se může stát neukázněným a nevychovaným a může tuto energii využít k ničivému účelu. Pokud je dítě duchovně rozvíjeno, může využít svoji bezmeznou energii k výstupu k výškám duchovnosti a pracovat pro Boha ve světě. A naopak, jestliže dítě nemá sklony k duchovnosti, stále se ještě jeho energie může stát vyváženou prostřednictvím Boží Milosti. Potom může také vykonávat konstruktivní práci ve světě.
@@ -156,9 +151,9 @@
 * Hvězdy na nás působí, Země na nás působí a podobně. Když meditujeme, působíme například na ostatní planety nebo cokoliv jiného?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:8-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:8-cs
  :END:
 
 /Sri Chinmoy:/ Je to závislé to na tom, kdo medituje. Je-li dotyčný aspirujícím nejvyšší třídy, a pokud jeho meditace nese plody, solidní plody, tehdy na planety působí. Vstupuje do planet a vytváří nový život. Ze zemské atmosféry na tyto planety přinese jemnou duchovní energii. Když však medituje duchovní Mistr, může jeho meditace, pokud chce, vstoupit na kteroukoliv planetu, kdekoliv v Božím vesmíru. Vysoce pokročilý hledající, který je na pokraji realizace může také působit na planety. Když tito lidé meditují, mohou vstoupit do planet, nebo mohou planetám nabídnout výsledky svých meditací. Je to prováděno skoro každý den.
@@ -168,18 +163,18 @@
 * ČÁST II: DUCHOVNOST, PSYCHICKÉ SÍLY, OKULTNÍ SÍLY A ČERNÁ MAGIE
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ASB:9e2-cs
+ :genre: section
+ :keywords:
+ :cite-key: asb:9e2-cs
  :END:
 
 
 * Co je to okultismus a na jaké úrovni okultní síly existují?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:9-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:9-cs
  :END:
 
 /Sri Chinmoy:/ Okultismus je věda. Okultismus je čistý, když je prováděn v subtilním fyzickém nebo v suprafyzické úrovni. Někteří lidé tuto úroveň nazývají astrální, zatímco jiní ji nazývají vitálním světem. Ve skutečnosti je to však vnitřní vitálno, které můžeme poznat jako zdroj okultismu. Okultní síly jsou síly naší skryté přirozenosti. Okultní svět je jemný fyzický, vitální a suprafyzický.
@@ -193,9 +188,9 @@
 * O okultismu bylo napsáno mnoho knih. Cítíte, že mají nějakou skutečnou cenu?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:10-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:10-cs
  :END:
 
 /Sri Chinmoy:/ Jsem si plně vědom toho, že mnoho z vás studuje knihy zabývající se okultismem. Mým upřímným požadavkem však je, abyste nestudovali knihy o okultismu, pokud nebyly napsány duchovními Mistry nebo realizovanými dušemi. Většina knih o okultismu je sbírkou pestrých představ. Pouhým studiem knih o okultismu nemůže nikdo získat dokonce ani špetku okultní síly. Knihy mohou poučit o tajemstvích okultismu, ale tyto síly lze rozvíjet jen vnořením se hluboko do nitra a rozšířením vědomí, nebo upřímným voláním po přinesení těchto skrytých sil do popředí, snad jen pro božské účely.
@@ -205,9 +200,9 @@
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:11-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:11-cs
  :END:
 
 /Sri Chinmoy:/ Duchovní síla je nesmírná a zářivá. Trvale rozpíná konečné i nekonečné. Je-li něco drobné, duchovní život to může zvětšit. Je-li něco již velmi velké, duchovnost to může stále ještě zvětšit. Okultní síla je jiného druhu. Můžeme říci, že je to přímá, ostrá, bezprostřední síla -- velice ostrá, jako ostří meče.
@@ -253,9 +248,9 @@
 * Můžete prosím vysvětlit, co je to psychická síla a v čem se liší od duchovní síly?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:12-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:12-cs
  :END:
 
 /Sri Chinmoy:/ Psychická síla je obvykle silou, kterou má dítě na podkladě své úplné a trvalé jednoty se svými rodiči. Považuje vnitřní vlastnictví svých rodičů za své zcela vlastní. Netřeba říkat, že tento požadavek je opodstatněný. A tak rodiče také získají nesmírnou radost, když vidí a pozorují, že jejich dítě je ve svém odhalení a projevení na nich celkově závislé. Psychické síly nejsou nepřemožitelné. Mohou být a často jsou napadány nebožskými silami. Nejvyšší se však vždy staví na stranu psychických bytostí, které ztělesňují psychickou sílu a psychické bytosti zachrání.
@@ -272,12 +267,12 @@
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:13-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:13-cs
  :END:
 
-/Sri Chinmoy:/ Chci vám upřímně říci, že ve vašem případě by nebylo moudré právě teď rozvíjet tyto psychické schopnosti. Proč? Protože ve vašich očích vidím, že jste velmi upřímný. Neměl byste být těmito silami uspokojen. Vaše duše chce jít dál, dále a nejdále. Jsou lidé, kteří nemají aspiraci jít k Nejvyššímu, Konečnému. Některým lidem mohu doporučit, aby rozvíjeli své psychické schopnosti. Ale ve vašem případě, kdybyste tyto schopnosti rozvíjel, vám budou stát v cestě a nebudete schopen jít dále a dosáhnout ve svém životě Konečného. Nyní jste to vy, kdo se má rozhodnout: zda se spokojíte s kouskem ovoce, nebo zda chcete počkat na nekonečnou Pravdu, nekonečný Poklad Všemocného.
+/Sri Chinmoy:/ chci vám upřímně říci, že ve vašem případě by nebylo moudré právě teď rozvíjet tyto psychické schopnosti. proč? protože ve vašich očích vidím, že jste velmi upřímný. neměl byste být těmito silami uspokojen. vaše duše chce jít dál, dále a nejdále. jsou lidé, kteří nemají aspiraci jít k nejvyššímu, konečnému. některým lidem mohu doporučit, aby rozvíjeli své psychické schopnosti. ale ve vašem případě, kdybyste tyto schopnosti rozvíjel, vám budou stát v cestě a nebudete schopen jít dále a dosáhnout ve svém životě konečného. nyní jste to vy, kdo se má rozhodnout: zda se spokojíte s kouskem ovoce, nebo zda chcete počkat na nekonečnou Pravdu, nekonečný Poklad Všemocného.
 
    Pokud jste vybaven některými psychickými schopnostmi, jen se je pokusíte využít a budete jimi okouzlen. Velmi často je člověk, který získá psychické schopnosti, psychickou sílu, uspokojen a potom se ji pokouší aplikovat na toho a na tam toho, ve vhodnou i nevhodnou dobu. Je jako dítě, které má nějakou úchvatnou hračku a po celou dobu si s ní hraje. Zanedbá své studium a zůstane hloupé. Pokud je však dítě upřímné nebo dychtivé a docení své studium, přestane si hrát a začne studovat, protože ví, že se studiem stane moudrým.
 
@@ -292,24 +287,24 @@
 * Jsou psychické síly ku prospěchu, nebo jsou překážkou v cestě k seberealizaci?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:14-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:14-cs
  :END:
 
 /Sri Chinmoy:/ Psychická síla nám v žádném případě k realizaci Boha nepomůže. Psychická síla však může být použita, měla by být a musí být použita, pokud je to Vůle Boží, poté, co nám Bůh dal seberealizaci. Jeden z velkých indických duchovních Mistrů, Sri Rámakrišna, říkal, že nabytí psychické síly je zničením možnosti seberealizace. Řekl by, že dosáhnete své psychické síly, ale Bůh vám bude odepřen.
 
    Kdo je vlastníkem všech sil? Bůh. Když se stanete jedním s vlastníkem, všechna Jeho vlastnictví se stanou vašimi. Pokud však budeme volat po vlastnictví bez zájmu o Vlastníka, bude nám dosažení překážkou na naší cestě ke konečnému Cíli. Je to skutečným požehnáním nemít psychické síly před hlavní realizací. Pokud je získáme příliš brzy, budeme po celou dobu ve světě předvádění, světě zázraků, světě magie a ne ve světě aspirace, oddanosti a realizace.
    
-   Nejvýznamnější Rámakrišnův žák, Swami Vivekánanda, původním jménem Naren, byl jednou otázán svým Mistrem: „Po mnoho let jsem vedl sebekázeň; teď na mě pohleď -- mám všechny vysoké siddhis. Chtěl bys je ode mě? Nemusíš meditovat, protože jsem to udělal za tebe. Dám ti všechny své síly.“ Narenovou bezprostřední odpovědí bylo: „Pomohou mi k seberealizaci?“ Mistr odpověděl: „Můj drahý Narene, ne. Nepomohou. Pro seberealizaci se s psychickými silami nepočítá. Pokud ale chceš, můžeš je použít až po seberealizaci. A když tyto psychické síly máš, budou k tobě přirozeně proudit lidé, a ty budeš schopen lépe sloužit Bohu v lidstvu." Žák řekl: „Ne, děkuji ti. Nech mne nejprve realizovat Boha. Potom budu pomýšlet o získání těchto sil.“ Rámakrišna potom, před svými ostatními žáky požehnal svému nejdražšímu žáku nanejvýš důkladně a řekl: „Věděl jsem to. Jsi to ty, kdo může projít mojí zkouškou. Kdybych stejnou otázku položil komukoliv jinému, jako chamtivá osoba by řekla: ‚Ano, ano, prosím, dej mi síly. Je to od tebe tak laskavé.‘ Věděl jsem však, že tvoje srdce je naprosto čisté. Chceš Boha, Boha samotného.“
+   Nejvýznamnější Rámakrišnův žák, Swami Vivekánanda, původním jménem Naren, byl jednou otázán svým Mistrem: „po mnoho let jsem vedl sebekázeň; teď na mě pohleď -- mám všechny vysoké siddhis. chtěl bys je ode mě? nemusíš meditovat, protože jsem to udělal za tebe. dám ti všechny své síly.“ narenovou bezprostřední odpovědí bylo: „pomohou mi k seberealizaci?“ mistr odpověděl: „můj drahý narene, ne. nepomohou. pro seberealizaci se s psychickými silami nepočítá. pokud ale chceš, můžeš je použít až po seberealizaci. a když tyto psychické síly máš, budou k tobě přirozeně proudit lidé, a ty budeš schopen lépe sloužit bohu v lidstvu." Žák řekl: „ne, děkuji ti. nech mne nejprve realizovat boha. potom budu pomýšlet o získání těchto sil.“ rámakrišna potom, před svými ostatními žáky požehnal svému nejdražšímu žáku nanejvýš důkladně a řekl: „věděl jsem to. jsi to ty, kdo může projít mojí zkouškou. kdybych stejnou otázku položil komukoliv jinému, jako chamtivá osoba by řekla: ‚Ano, ano, prosím, dej mi síly. Je to od tebe tak laskavé.‘ Věděl jsem však, že tvoje srdce je naprosto čisté. Chceš Boha, Boha samotného.“
 
 
 * Jsou fakíři v Indii, kteří mají tyto síly, oddáni dobrým principům jógy, nebo je používají komerčně?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:15-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:15-cs
  :END:
 
 /Sri Chinmoy:/ Skutečně mnoho se jich odchýlilo ze stezky pravdy. Pro ty, kteří tak učinili, je jejich psychická síla právě jako černá magie. Neslouží žádnému duchovnímu účelu. Když je někdo nemocný a Bůh vám řekne, že chce, abyste tuto osobu vyléčil, nebo je-li někdo v bezprostředním nebezpečí a Bůh chce tuto osobu zachránit, potom byste měl použít své psychické síly. Psychická síla by však měla být použita pouze tehdy, pokud je to požadováno a schváleno Bohem. Většina lidí, kteří tyto síly používají v Indii i na jiných místech, je nepoužívá podle Vůle Boží. Jen uspokojují svoji vlastní pýchu, ješitnost a ego. Jdou proti Zákonu Boha. Dělají strašnou chybu a jejich trest bude v příštím životě velmi vážný.
@@ -319,12 +314,12 @@
 * Je pravdou, že se psychické síly u jogínů nerozvíjejí nebo neprojevují spontánně, ale musí být rozvíjeny prostřednictvím cvičení nebo ostatních prostředků?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:16-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:16-cs
  :END:
 
-/Sri Chinmoy:/ V našem těle je sedm hlavních psychických center. Tato centra nejsou ve fyzickém, ale v subtilním těle. Na koruně hlavy je jedno nazývané /Sahasrara/, lotos s tisícem okvětních lístků. Mezi obočím a trochu nad ním je místo vizí zvané /Ádžna/ čakra. Na úpatí hrdla je čakra pro řeč a vyjádření; nazýváme ji /Višudha/. Ve středu hrudi máme /Anáhatu/, srdeční čakru. Mnoho lidí získá své psychické síly většinou odtud. Na pupku máme Manipuru. Na slezině je další centrum, /Svádhišthána/. A pod ní, na začátku páteře, máme čakru, zvanou /Muladhára. Muladhára, Svádhišthána, Manipura, Anáhata, Višudha, Ádžna/ a /Sahasrára/: to je sedm čaker.
+/Sri Chinmoy:/ v našem těle je sedm hlavních psychických center. tato centra nejsou ve fyzickém, ale v subtilním těle. na koruně hlavy je jedno nazývané /sahasrara/, lotos s tisícem okvětních lístků. mezi obočím a trochu nad ním je místo vizí zvané /Ádžna/ čakra. na úpatí hrdla je čakra pro řeč a vyjádření; nazýváme ji /višudha/. ve středu hrudi máme /anáhatu/, srdeční čakru. mnoho lidí získá své psychické síly většinou odtud. na pupku máme manipuru. na slezině je další centrum, /svádhišthána/. a pod ní, na začátku páteře, máme čakru, zvanou /muladhára. muladhára, svádhišthána, manipura, anáhata, višudha, Ádžna/ a /sahasrára/: to je sedm čaker.
 
    Když se hledající vědomě nebo nevědomě koncentruje na tato psychická centra, rozvíjí psychickou sílu. Nemusí znát skutečná jména center, ale pokud se koncentruje na správný bod, automaticky získá některou intuitivní sílu. K tomu abyste otevřeli čakry a kundalini začala fungovat, musíte se koncentrovat na každou čakru. To je jeden ze způsobů nabytí psychické síly prostředky duchovní kázně.
 
@@ -339,26 +334,26 @@
 * Mohl byste zdůvodnit schopnost někoho komunikovat s vlastním Mistrem bez použití slov formou psychické síly?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:17-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:17-cs
  :END:
 
 /Sri Chinmoy:/ Ke kontaktu s vlastním Mistrem není potřeba psychické síly. Kontakt je učiněn prostřednictvím oddanosti, prostřednictvím bezvýhradné víry. Kde je Mistr? Řeknete, že jste v Puerto Rico a váš Mistr je možná v New Yorku. Ale není! Je hluboko uvnitř vašeho srdce, hluboko v nejvnitřnějších zákoutích vašeho srdce. Chcete-li se se svým Mistrem kdykoliv spojit, jen vstupte a pátrejte v hlubinách svého srdce a naleznete jej tam.
 
    Není potřeba psychická síla, ale jen oddanost a víra. Když jste oddaní, Mistr nebo člověk, ke kterému se modlíte je k vašim službám. Sri Krišna, nejpřednější indický duchovní Mistr, řekl: „Pro Boha je snadné dát sílu, světlo, blaho a všechny ostatní božské kvality žáku. Pokud však dá žáku oddanost, která je také božským požehnáním, potom je polapen. V momentě, kdy žák získá oddanost, může být žák ujištěn, že se jeho Mistr stane jeho dokonalým otrokem. Opravdový oddaný je v tomto světě velice, velice vzácný. Avšak člověk znalý a moudrý, člověk světla nebo člověk míru může být nalezen velmi často.“
 
-   Pán Krišna měl velmi důvěrného žáka, jménem Vidhura, který byl velmi, velmi chudý. I stalo se, že byl Pán Krišna jednoho dne pozván do Vidhurova domu. Vidhura mu nemohl nabídnout rýži nebo náležité jídlo a tak mu podal velmi prosté jídlo na listech banánovníku. Sri Krišnovo srdce plavalo v moři extáze a potěšení. Co udělal? Nejprve snědl jídlo a potom jedl celý banánový list. Vidhura se zeptal: „Mistře, co to děláš? Ty jíš banánový list: to není jídlo!“ Sri Krišna řekl: „Ó Vidhuro! Jak mohu oddělit tvé jídlo od listu banánovníku? Jak mohu oddělit tvoji oddanost od tvé existence? V tvém jídle jsem spatřil oddanost, v tvém těle vidím oddanost, v tvém srdci vidím oddanost, v tvém banánovníku vidím oddanost. Cokoliv vidím s tebou, kolem tebe a v tobě, vše je oddanost. Nemohu již oddělit jídlo od listu stejně, jak nemohu oddělit tvoji duši od tvého těla.“ A tak se toto přihodí, když má někdo opravdovou oddanost k Bohu, k Nejvyššímu. Získá Nejvyššího na svoji stranu po celou dobu.
+   Pán Krišna měl velmi důvěrného žáka, jménem Vidhura, který byl velmi, velmi chudý. I stalo se, že byl Pán Krišna jednoho dne pozván do Vidhurova domu. Vidhura mu nemohl nabídnout rýži nebo náležité jídlo a tak mu podal velmi prosté jídlo na listech banánovníku. Sri Krišnovo srdce plavalo v moři extáze a potěšení. Co udělal? Nejprve snědl jídlo a potom jedl celý banánový list. Vidhura se zeptal: „mistře, co to děláš? ty jíš banánový list: to není jídlo!“ sri krišna řekl: „Ó Vidhuro! Jak mohu oddělit tvé jídlo od listu banánovníku? Jak mohu oddělit tvoji oddanost od tvé existence? V tvém jídle jsem spatřil oddanost, v tvém těle vidím oddanost, v tvém srdci vidím oddanost, v tvém banánovníku vidím oddanost. Cokoliv vidím s tebou, kolem tebe a v tobě, vše je oddanost. Nemohu již oddělit jídlo od listu stejně, jak nemohu oddělit tvoji duši od tvého těla.“ A tak se toto přihodí, když má někdo opravdovou oddanost k Bohu, k Nejvyššímu. Získá Nejvyššího na svoji stranu po celou dobu.
 
    Nyní chci říci něco o víře. Jsem si jist, že všichni z vás jste slyšeli o Ganze, nejzasvěcenější Indické řece. Říká se, že každý kdo se namočí v Ganze, bude oproštěn od všech hříchů. Po celý rok se můžete dopouštět všech druhů hříchů a potom, i když do řeky jen vstoupíte, všechny tyto hříchy zmizí. To je naše indická víra.
 
    Jednou Parvati požádala svého chotě, Pána Šivu: „Je pravdou, že jakmile se člověk namočí v Ganze, že všechny jeho hříchy v okamžení pominou? Mají lidé takovou víru?“
 
-   Pán Šiva řekl: „Dobře, pro mě bude nejlepší dokázat to. Podívej, oba si vezmeme lidskou formu a sedneme si na břeh Gangy. Já budu velice starý muž a ty budeš stará žena. Budeš na svém klíně držet dítě a já dítěti vezmu život. Ty potom okamžitě začneš ronit hořké slzy a volat, že jsme ztratili naše jediné dítě. Mnozí tě přijdou utěšit a ty jim povíš: ‚Pokud bude můj syn požehnán někým, kdo cítí, že nemá žádný hřích, potom se mu vrátí život.‘“
+   Pán Šiva řekl: „dobře, pro mě bude nejlepší dokázat to. podívej, oba si vezmeme lidskou formu a sedneme si na břeh gangy. já budu velice starý muž a ty budeš stará žena. budeš na svém klíně držet dítě a já dítěti vezmu život. ty potom okamžitě začneš ronit hořké slzy a volat, že jsme ztratili naše jediné dítě. mnozí tě přijdou utěšit a ty jim povíš: ‚Pokud bude můj syn požehnán někým, kdo cítí, že nemá žádný hřích, potom se mu vrátí život.‘“
 
 A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plavat a koupat se v řece. Parvati řekla: „Vy všichni zde víte, že ve chvíli, kdy vstoupíte do Gangy, nebude již nadále žádný váš hřích existovat. A tak běžte, namočte se a potom požehnejte mému dítěti a vrátí se mu život.“ Míjely stovky osob, ale nikdo to nechtěl udělat. Byli připraveni plavat, byli připraveni namočit se nebo se hodiny koupat v Ganze, ale věděli, že by to na dítě nemělo žádný vliv. Dotýkali se dítěte, ale život mu nevrátili.
 
-   Tak to šlo hodiny. Nakonec kolem stojící viděli, že se k ženě, která ztratila své jediné dítě, blíží muž středního věku. Tento muž právě vyšel z baru. Neutěšeně zapáchal a podle indické úrovně byl, vy byste to nazvali „nevýrazný“. Přišel k ní a zeptal se: „Proč pláčete?“ Ona odpověděla: „Pláči, protože nikdo nepřišel požehnat mému dítěti, ačkoliv všichni zde ví, že ve chvíli, kdy se vykoupou v Ganze, je všechny jejich hříchy opustí a budou schopni přivést mé dítě zpět k životu.“
+   Tak to šlo hodiny. Nakonec kolem stojící viděli, že se k ženě, která ztratila své jediné dítě, blíží muž středního věku. Tento muž právě vyšel z baru. Neutěšeně zapáchal a podle indické úrovně byl, vy byste to nazvali „nevýrazný“. Přišel k ní a zeptal se: „proč pláčete?“ ona odpověděla: „Pláči, protože nikdo nepřišel požehnat mému dítěti, ačkoliv všichni zde ví, že ve chvíli, kdy se vykoupou v Ganze, je všechny jejich hříchy opustí a budou schopni přivést mé dítě zpět k životu.“
 
    „Proto pláčeš? Já věřím. Nech mne jít“, řekl muž. Skočil do Gangy a během dvou minut se vrátil a dotkl se dítěte. Dítě se okamžitě vrátilo k životu. Potom Pán Šiva řekl: „Vidíš! Z tisíců měl jediný víru v Gangu!“ A s tímto Pán Šiva, Parvati a dítě zmizeli.
 
@@ -369,9 +364,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Je možné, že někteří lidé praktikují negativní okultismus bez uvědomění si toho, jen zlomyslnými řečmi a ostatními věcmi?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:18-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:18-cs
  :END:
 
 /Sri Chinmoy:/ Jakákoliv síla, pozitivní nebo negativní, vytvoří svůj vlastní svět. Pokaždé, když si uvědomíme myšlenku, stvoříme náš vlastní svět. Ale pokud bychom řekli, že jen používáním negativních myšlenek praktikujeme okultismus, mýlili bychom se. A podobně, používáním pozitivních myšlenek také nevytváříme vyšší duchovní život.
@@ -383,9 +378,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:19-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:19-cs
  :END:
 
 /Sri Chinmoy:/ Neztratíme nic, protože je to duchovní svět, který nám dá naši nejvyšší realizaci. Žijeme-li ve vnitřním světě, duchovním světě, potom automaticky získáme neocenitelné bohatství duchovní světa. Poznáme, že okultní síly a všechny ostatní síly v ní sídlí. A tak nic neztratíme, když se nekoncentrujeme na okultní svět.
@@ -395,9 +390,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Myslel jsem si, že okultismus je něčím jako černou magií. Můžete vysvětlit, co to je?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:20-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:20-cs
  :END:
 
 /Sri Chinmoy:/ Ano. Okultismus v nejnižším smyslu je černou magií. Okultismus v nejčistějším smyslu je dynamickým aspektem Božské Síly, Univerzální Síly. Když je okultismus prováděn k ničení Boží univerzální harmonie, je nazýván černou magií. Černá magie se velmi často zabývá nečistotou a temnotou naší přirozenosti. Čistý okultismus, opravdový okultismus nemá co do činění s černou magií nebo černými mágy.
@@ -412,7 +407,7 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 
    V Indii se černí mágové mnohokrát pokoušeli potrestat duchovní Mistry nebo zničit jejich duchovní sílu. Výsledkem bylo, že všechnu svoji sílu černé magie odevzdali duchovním Mistrům. Okultisté se mnohokrát pokoušeli ukrást síly duchovním Mistrům, kteří spali. Mistři odpočívají jen dvě nebo tři hodiny, někdy dokonce vůbec nespí. Když ztratí vědomí, neudržují žádný kontakt s fyzickým. Tehdy mohou okultisté do duchovního Mistra vstoupit a pokusit se vzít jeho duchovní sílu. Tito okultisté jsou však pošetilí, protože duchovní Mistři jsou vedeni a chráněni Vševědoucím a Všemocným. Okultisté všechnu svoji sílu ztratí a odevzdají duchovním Mistrům. Potom okultisté naříkají a naříkají. Někteří z těchto dřívějších okultistů jsou nyní žáky duchovních Mistrů, kteří odebrali jejich síly. Někteří černí mágové, kteří přišli trápit duchovní Mistry, ztratili své nebožské zlé sklony a stali se bílými mágy. Zašli k člověku, který byl veškerým soucitem, a byli zachráněni.
 
-   Na konci roku 1963 přišel do Pondicherry velmi dobře známý indický muslim z Hyderabadu. Byl kombinací okultisty, astrologa a černého mága. Můj velmi blízký přítel a obdivovatel mi řekl: „Chtěl bych, aby ses šel podívat na tohoto okultistu.“ Řekl jsem: „Nemám zájem vidět okultistu. Pokud je to okultista, nechci tam jít.“ Můj přítel však byl ve svém naléhání nezlomný, a tak jsem se šel na okultistu podívat do hotelu. Když jsem vstoupil do jeho pokoje, jen jsem stál ve dveřích a okultista seděl na židli. Bůh ví, co viděl v mých očích. Byl však tak šokován, že se ukryl pod stůl a nemohl pět minut otevřít oči. Nemohl se mi podívat do očí. Plakal a plakal, jako kdyby mu někdo právě zachránil život. Potom vstal a přišel ke mně se sepjatýma rukama a řekl: „Přišel jsi v této hodině mého života. Bůh mi dal okultní síly, ale používal jsem je jen na ženy a víno. Používal jsem je, a tak mě lidé oceňovali a uctívali a dotýkali se mých nohou. V tobě však vidím skutečnou záplavu duchovních sil.“
+   Na konci roku 1963 přišel do Pondicherry velmi dobře známý indický muslim z Hyderabadu. Byl kombinací okultisty, astrologa a černého mága. Můj velmi blízký přítel a obdivovatel mi řekl: „chtěl bych, aby ses šel podívat na tohoto okultistu.“ Řekl jsem: „nemám zájem vidět okultistu. pokud je to okultista, nechci tam jít.“ můj přítel však byl ve svém naléhání nezlomný, a tak jsem se šel na okultistu podívat do hotelu. když jsem vstoupil do jeho pokoje, jen jsem stál ve dveřích a okultista seděl na židli. bůh ví, co viděl v mých očích. byl však tak šokován, že se ukryl pod stůl a nemohl pět minut otevřít oči. nemohl se mi podívat do očí. plakal a plakal, jako kdyby mu někdo právě zachránil život. potom vstal a přišel ke mně se sepjatýma rukama a řekl: „Přišel jsi v této hodině mého života. Bůh mi dal okultní síly, ale používal jsem je jen na ženy a víno. Používal jsem je, a tak mě lidé oceňovali a uctívali a dotýkali se mých nohou. V tobě však vidím skutečnou záplavu duchovních sil.“
 
    Co potom udělal? Řekl mi: „Nejsem hoden dotýkat se tvých nohou, ale dotýkám se tvých nohou jen proto, aby mi bylo odpuštěno, jen pro požehnání.“ Dotkl se mých nohou a prokázal svoji oddanost mnoha jinými způsoby.
 
@@ -423,9 +418,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Guru, říkal jsi, že bytosti na duchovní úrovni mohou použít okultní sílu a tak poškodit lidské bytosti. Jsou to skutečné bytosti, které to dělají, nebo to jsou jen takzvaní černí mágové? Jak využívají vlivu na lidi, zvláště duchovní aspirující?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:21-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:21-cs
  :END:
 
 /Sri Chinmoy:/ Ne, černí mágové jsou lidské bytosti, které žijí mezi námi na Zemi. Ostatní bytosti nejsou lidskými bytostmi; jsou bytostmi na vitální úrovni. Někdy si berou formu drobného mravence; jindy si berou formu velkou jako slon. Během našeho nevědomého života do nás vstupují a potom se pokouší dělat negativní věci. Třebaže lidé vedou duchovní život, prostřednictvím žárlivosti nebo dalších slabostí, do nich temné síly velmi často vstoupí. Tito lidé potom duchovně upadnou a často nejsou schopni znovu nabýt svoji ztracenou výšku až do některého budoucího života.
@@ -434,9 +429,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * ČÁST III: SVĚT DUCHŮ
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ASB:22e3-cs
+ :genre: section
+ :keywords:
+ :cite-key: asb:22e3-cs
  :END:
 
 
@@ -444,9 +439,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:22-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:22-cs
  :END:
 
 /Sri Chinmoy:/ Některé jsou částí lidských bytostí, ale některé jsou jen částí univerzální existence. Tyto bytosti nechtějí světlo duše. Tyto bytosti získávají požitek z vytváření škod a ničení.
@@ -459,9 +454,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:23-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:23-cs
  :END:
 
 /Sri Chinmoy:/ Věřte mi, pokud se podívají na transcendentální fotografii a bude-li transcendentální fotografie v té době fungovat, budou polekáni. Problém je v tom, že v té době na transcendentální fotografii nepomyslíte. Když jste napadeni, budete šokováni a fotografie vám nepřijde na mysl. Pokud však oběť z transcendentální fotografie přijímá světlo, potom budou velice polekáni a opustí vás. Síla odejde pouze tehdy, když dotyčný přijímá. Kdyby se na moji transcendentální fotografii díval někdo jiný, kdo není jakýmkoliv způsobem mým žákem, pokud se o mne nezajímá, potom je poleká jen fotografie. Dotyčný světlo z obrazu nepřijímá a síly se nebudou bát.
@@ -475,9 +470,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Existuje pro obyčejného člověka, pro někoho, kdo nežije duchovním životem, nějaký způsob, jak bojovat, pokud jej napadne duch? Je něco, co by mohl udělat? Ve filmech jako Drákula a jiných mají kříže a všechny tyto náboženské relikvie, kterým i duchům zabránili zraňovat je.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:24-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:24-cs
  :END:
 
 /Sri Chinmoy:/ Je dobré, může-li člověk ukázat něco takového. Pokud nepřátelský duch, zlý duch zaútočí, vždy je nejlepší obranou použít čistotu. Tyto síly čistotu nesnesou.
@@ -490,21 +485,21 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:25-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:25-cs
  :END:
 
-/Sri Chinmoy:/ Znám a viděl jsem deset nebo jedenáct případů. Nezabývám se tím, ale viděl jsem, že se tyto věci přihodily. Těmito záležitostmi se většinou zabývají okultisté. V Indii jsou určití lidé, kteří vůbec nejsou okultisty, znají však něco z vitálního světa a jednají se zlými silami velice hrubě. Jejich hrubost je velmi špatná. Začnou oběť násilně tlouct. Když mi bylo šest nebo sedm let, měli jsme souseda, který se stal obětí. Vesnický vymítač přišel a začal jej nemilosrdně tlouct kusem dřeva. Muž plakal a naříkal, ale vymítač řekl: „Tím, že ho biji, skutečně zlého ducha vyháním.“ Vymítač byl tenkrát úspěšný, jako jsou vymítači častokrát, ale bylo to velmi hrubé.
+/Sri Chinmoy:/ znám a viděl jsem deset nebo jedenáct případů. nezabývám se tím, ale viděl jsem, že se tyto věci přihodily. těmito záležitostmi se většinou zabývají okultisté. v indii jsou určití lidé, kteří vůbec nejsou okultisty, znají však něco z vitálního světa a jednají se zlými silami velice hrubě. jejich hrubost je velmi špatná. začnou oběť násilně tlouct. když mi bylo šest nebo sedm let, měli jsme souseda, který se stal obětí. vesnický vymítač přišel a začal jej nemilosrdně tlouct kusem dřeva. muž plakal a naříkal, ale vymítač řekl: „Tím, že ho biji, skutečně zlého ducha vyháním.“ Vymítač byl tenkrát úspěšný, jako jsou vymítači častokrát, ale bylo to velmi hrubé.
 
 
 
 * Stává se to více v jedné části světa než v ostatních? Není to v Indii častěji proto, že je tam více okultistů než v Americe? 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:26-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:26-cs
  :END:
 
 /Sri Chinmoy:/ Nemám tušení. Četl jsem pár knih a zdá se mi, že dokonce i v Americe se to stává poměrně často.
@@ -515,9 +510,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 .
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:27-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:27-cs
  :END:
 
 /Sri Chinmoy:/ Ne, v Americe se to nepozná. V Americe mnoho lidí, kteří byli napadeni nepřátelskou silou, prostě skončí v nemocnici, protože příčina jejich choroby nebyla odhalena. Na indických vesnicích je to přijímáno jako denní událost. Z toho důvodu mají děti mezi jednou a třetí hodinou odpoledne zakázáno chodit ven. Pokud jít ven chtějí, jdou ve skupině; nevycházejí samotné. Mezi jednou a třetí hodinou odpoledne je nejhorší doba.
@@ -527,9 +522,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Jak se duch člověka zmocní? Jak duch získá přístup k vědomí člověka? Jen vstoupí?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:28-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:28-cs
  :END:
 
 /Sri Chinmoy:/ Duchové mají ve vitálním světě sílu. Mohou tak snadno učinit, když jdete po ulici nebo kdykoliv. A proč právě duchové? Také lidská myšlenka může vstoupit. Pokud právě teď máte dobré myšlenky, velmi mocné myšlenky, potom s těmito myšlenkami můžete vstoupit velmi mocně do někoho jiného. Vysíláte k někomu vlny své myšlenky a on před sebou může spatřit skutečnou bytost jako ve snu. Tato bytost si může vzít jakoukoliv formu, kterou si přejete. Z myšlenky můžeme vytvořit formu, protože myšlenka je velmi mocná. Když jogínové použijí sílu své vůle nebo myšlenky, okamžitě jí dají formu. Myslíte si, že příběh o ukradeném baklažánu*) je jen smyšleným příběhem, že nebyl skutečný? Tento příběh je naprosto autentický. Žena, která se po celou dobu zjevovala, dítě a všechno ostatní přišlo z vln myšlenky, ze síly vůle Mistra. Jogín použil svoji sílu vůle a ta si okamžitě vzala formu.
@@ -539,9 +534,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Rád bych znal rozdíl mezi duší a duchem. Vím, že jsou to dvě zcela odlišné věci, ale nemohu porozumět rozdílu.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:29-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:29-cs
  :END:
 
 /Sri Chinmoy:/ Duch, jako termín používaný na Západě, je vitální bytost a obvykle není dobrá. Duše, která ztělesňuje Boha, je hluboko v našem nitru; je částí Já. Prostřednictvím duše vstoupíme do naší všeprostupující božskosti. Když použijeme termín „duše“, poukazuje to na jiskru Já, Vševědoucího a Všemocného. Duch jako termín, který je používán zde, poukazuje na vitální bytost, která je neuspokojená a nespokojená, když osoba zemře, a která zůstane po nějakou dobu ve vitálním světě. Existuje mnoho a mnoho rušivých, překážejících a sporných sil, které si berou formu duchů.
@@ -557,9 +552,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Jak můžete říci, když k vám přijde duch, zda je dobrý nebo špatný?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:30-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:30-cs
  :END:
 
 /Sri Chinmoy:/ Když k vám přijde dobrý duch, vždy pocítíte vůni květiny. Dokonce i když v místnosti žádná květina není, ucítíte vůni květiny nebo vonné tyčinky a dostanete radost. Když však do vaší blízkosti přijdou špatní duchové, vždy pocítíte jakýsi strach, úzkost nebo pocit stísněnosti v místnosti i ve svém těle. Předtím, než k vám přijdou, jste možná byl velmi čistý, ale špatní duchové vaši mysl znečistí.
@@ -569,23 +564,23 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Může duch pomoci člověku?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:31-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:31-cs
  :END:
 
 /Sri Chinmoy:/ Ano. Během spánku mohou přijít rodiče a říci vám, abyste udělal něco dobrého, nebo vám řeknou budoucnost nebo vás prostě před něčím budou varovat.
 
-  Moje matka zemřela před více než dvaceti lety a nyní je v Nebi. Mnohokrát přišla a pomohla mi. Někdy když jsem něco založil a byl jsem rozrušen, protože jsem tu věc potřeboval, se matka zjevila přede mnou. Právě jako vidím vás ve fyzické formě, mohu ji vidět, dotknout se jí. Potom mi řekla: „Podívej, je to tam v té zásuvce.“ Řekl jsem: „Ne, nemůže to tam být, protože tuto zásuvku nepoužívám. Nikdy ji nepoužívám.“ Nicméně jsem to tam našel. V Indii se říká, že pokud něco položíte levou rukou, bude vám trvat hodiny, než to najdete. Zajisté také existuje další metoda. Když něco založím, mohu okamžitě najít, kde to je, pokud se koncentruji.
+  Moje matka zemřela před více než dvaceti lety a nyní je v Nebi. Mnohokrát přišla a pomohla mi. Někdy když jsem něco založil a byl jsem rozrušen, protože jsem tu věc potřeboval, se matka zjevila přede mnou. Právě jako vidím vás ve fyzické formě, mohu ji vidět, dotknout se jí. Potom mi řekla: „podívej, je to tam v té zásuvce.“ Řekl jsem: „Ne, nemůže to tam být, protože tuto zásuvku nepoužívám. Nikdy ji nepoužívám.“ Nicméně jsem to tam našel. V Indii se říká, že pokud něco položíte levou rukou, bude vám trvat hodiny, než to najdete. Zajisté také existuje další metoda. Když něco založím, mohu okamžitě najít, kde to je, pokud se koncentruji.
 
 
 
 * Četl jsem brožuru, která říkala, že každý člověk má nějaké vedení spojené s dotyčným a že se může k tomuto vedení modlit. Je to pravda?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:32-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:32-cs
  :END:
 
 /Sri Chinmoy:/ Ano, každý má ne jednoho, ale dva nebo tři vůdce. V Indii je nazýváme ochrannými božstvy. A také naši rodiče nebo příbuzní, kteří jsou nám nakloněni, poté co opustí tělo, nám pomáhají, vedou nás a modlí se za nás. Pokud k nám stále ještě mají nějaké sympatie, potom nám z této úrovně pomáhají. Pro ně je snadnější modlit se za nás, než pro nás modlit se za ně, protože jsou na vyšší úrovni než my.
@@ -595,9 +590,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Je pro nás snadnější vzývat duchy, když zapálíme vonné tyčinky a svíčky?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:33-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:33-cs
  :END:
 
 /Sri Chinmoy:/ Když mne bolela noha, moje sestra uviděla bílou postavu masírující moji nohu. Neviděla skutečnou tvář, ale jen stín. Já jsem nicméně mohl vidět celou tvář a všechno ostatní. Řekl jsem svým sestrám, aby se ducha nedotýkaly, protože byl nesmírně čistý. Požádal jsem je, aby zapálili vonné tyčinky a svíčky a přinesli květiny. Toto bychom měli udělat, kdykoliv duch přijde, jinak by bylo pro ducha velmi obtížné s vámi zůstat. Ačkoliv můžete být nejčistším člověkem na Zemi, duchové vás vždy shledají plným nečistot. Pokud máte květiny, vonné tyčinky a svíčku, potom shledají snadnějším zůstat.
@@ -608,9 +603,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Proč pomáhají květiny a zapálené vonné tyčinky přivádět zpět dobré duchy?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:34-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:34-cs
  :END:
 
 /Sri Chinmoy:/ Dovolí jim to zůstat v klidu. Pročišťuje to atmosféru. Je to jejich potrava; je to pro ně jakési ovoce. Duchy trápíte, pokud není váš pokoj čistý, když je vzýváte, dokonce i když mohou být vaše tělo i mysl čisté. Můžete myslet na Boha a cítit, že jste čistí, pokud však váš pokoj není čistý, je to pro duchy trápení.
@@ -620,9 +615,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Jak vznikly nepřátelské síly?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:35-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:35-cs
  :END:
 
 /Sri Chinmoy:/ Jsou to všechno nespokojené a neuspokojené bytosti. Některé z nich nikdy neměli lidský zrod; ostatní byli lidskými bytostmi jednou. A když byli lidskými bytostmi, hádali se, bojovali a vraždili lidi a dělali všechny možné nepopsatelné věci. Nemohli by být uspokojeni dokonce ani zabitím stovek lidí. V jejich životě uspokojení neexistuje.
@@ -632,9 +627,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Nastane doba, kdy nikde nebude žádná nepřátelská síla?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:36-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:36-cs
  :END:
 
 /Sri Chinmoy:/ Nastane. Bude to trvat miliony let, ale Bůh zajisté nezůstane nedokonalým navždy. Nemůže. Musí je jednoho dne zdokonalit.
@@ -644,9 +639,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:37-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:37-cs
  :END:
 
 /Sri Chinmoy:/ Ano, mám mnoho armád.
@@ -659,9 +654,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:38-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:38-cs
  :END:
 
 /Sri Chinmoy:/ Mé vnitřní bytosti bojují se mnou a pro mne.
@@ -670,9 +665,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Je zbraní koncentrace?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:39-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:39-cs
  :END:
 
 /Sri Chinmoy:/ Není to koncentrace. Duchovní Mistři udržují určitou pevnou sílu, kterou mohou použít, kdy chtějí. Není to síla koncentrace. Je to jako síla, kterou máte ve svých pažích. Nepoužíváte ji každou chvíli. A podobně mám v sobě pevnou sílu; již tam je. Když přijde čas, jen ji využiji. Je to jako mít tisíce dolarů v bance; záleží na vás, jak je využijete. Můžete použít jeden cent nebo celý tisíc dolarů. Proč byste však měl použít tisíc dolarů, když není potřeba dokonce ani jeden cent? Pokud je důvod, božský důvod, potom ve většině případů přijde rozhodnutí o použití této síly od Nejvyššího.
@@ -682,9 +677,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Guru, povoláváte do těchto bitev vždy své žáky?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:40-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:40-cs
  :END:
 
 /Sri Chinmoy:/ Stále ještě nemám takového žáka. Vy jím jednoho dne budete. Potom vás s radostí, s radostí využiji. Když jsem byl žákem, spolupracoval jsem na stovkách a stovkách takových bitev. A co potom? Následujícího rána jsem nepřijal žádné uznání. Jen jednou, když jsem udělal něco zvlášť neobyčejného, i když mne můj vlastní Guru nevyzval, abych to udělal, mně následujícího rána Guru řekl, co jsem udělal. Obvykle mi však na fyzické úrovni zásluhu nedal.
@@ -693,9 +688,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Guru, když hovoříte o boji s nepřátelskou silou, je to záležitost přinášení něčeho dolů a použití přineseného? Nebo je to skutečně jakási bitva, do které jste zapojen? Když bojujete s nepřátelskou silou, čím je to odlišné od meditace a přinášení světla a míru?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:41-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:41-cs
  :END:
 
 /Sri Chinmoy:/ V meditaci vzýváme mír a velmi oddaně se pokoušíme přijmout to, co sestoupilo. Když však potkáme nepřátelskou sílu, je to jako na bitevním poli. Tam musíme slepě zabíjet. Tam nemyslíme na otce, matku, bratra. Tam musíme jednat jako šílený slon. Ne, „šílený slon“ není to správné slovo. Když duchovní lidé bojují s nepřátelskými silami, je to jako boj stovek lvů. Není to přinášení něčeho dolů. Je to skutečná bitva.
@@ -705,9 +700,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Jak to vypadá, když bojujete ve vnitřním světě?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:42-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:42-cs
  :END:
 
 /Sri Chinmoy:/ Jak vám to mohu říci? Ve vitálním světě je mnoho a mnoho destruktivních sil. A většina z vás neviděla dokonce ani ducha. Bůh vám nechce ukázat ducha. Avšak tyto síly ve vitálním světě jsou nekonečně mocnější a děsivější než duch. Jsou nesmírně odporné a ošklivé a současně nemyslitelně silné. Když je spatříte, nechcete dokonce ani bojovat. Cítíte, že je lepší okamžitě se poddat. Není to tím, že jsou tak krásné a zářivé, že byste chtěli zemřít u jejich nohou. Ne! Jakmile je spatříte, pomyslíte si, že je nemožné porazit je, a tak si řeknete, že je nejlepší poddat se a klidně zemřít.
@@ -718,9 +713,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:43-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:43-cs
  :END:
 
 /Sri Chinmoy:/ Duchové přijdou a pokusí se zmocnit duchovních Mistrů, ale nemohou. Nedovolíme jim to. Je to Boží Vůle, že s nimi bojujeme.
@@ -734,9 +729,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Guru, stává se na Západě, že zlí duchové vstoupí do člověka a potom si každý myslí, že je to nějaká zdravotní vada? Například, mohli by být, některé psychiatrické případy způsobeny zlými silami, které vstoupili?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:44-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:44-cs
  :END:
 
 /Sri Chinmoy:/ Ano. Na Západě je mnoho takových, kteří jsou na psychiatrickém léčení. Jedna z mých prvních žákyň byla skutečně napadena zlou silou, její matka si však myslela, že je to mentální kolaps a dala ji na rok nebo dva do nemocnice v Bronxu. Prakticky tam zešílela. Jednoho dne mi o ní pověděl další žák a pocítil jsem velkou lítost. Byl jsem v té době v Manhattanu a zašel jsem se na ni podívat. Byla tam již nějakou dobu, trpěla, nedělala žádný pokrok a byla ve velice špatném stavu. Mysleli si, že je nepříčetná a potřebuje psychiatrické léčení. Já jsem však zřetelně viděl, že byla napadena nebožskou silou. Tehdy mne ještě dobře neznala; jen o mně náhodou slyšela. Ale pomohl jsem jí a o pár dní později byla zdravá. Potom jsem jí dal dvakrát meditaci a měl jsem přednášky v jejím domě. Jednou, když jsem začínal svoji meditaci, přišla její kočka a ulehla k mým nohám a vnitřně mi řekla, že chce mít lidskou inkarnaci. Všichni byli velmi překvapeni, protože znenadání přišla kočka, ulehla k mým nohám a upřeně se na mě dívala.
@@ -746,9 +741,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Kdybyste té ženě nepomohl, mohly by tyto síly setrvat po zbytek jejího života, nebo by ji po určitém čase opustily?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:45-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:45-cs
  :END:
 
 /Sri Chinmoy:/ Nemám tušení, co by se stalo v jejím případě. Možná by síly po několik let zůstaly, a potom, když by viděly, že se žena stává slabší a slabší, by ji opustily. Tyto síly odcházejí, ne však ze soucitu, ale protože dotyčného zničily. To však neznamená, že jakmile odejdou, že se dotyčný uzdraví. Ne! Když člověka těžce poškodily, nebo natrvalo zničily, potom mohou jít k někomu jinému a pokusit se vytvořit problémy jemu. Pokud duch oběť zcela nezničí, potom je zde možnost, že může být vyléčena. Avšak po naprostém zničení je to beznadějný případ.
@@ -757,9 +752,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Co se stane s touto duší v její příští inkarnaci? Je zničena?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:46-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:46-cs
  :END:
 
 /Sri Chinmoy:/ Duše není zničena. Chudák duše však v této inkarnaci nedostane dostatečnou příležitost udělat pokrok, projevit svoji božskost.
@@ -769,9 +764,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Jak můžete rozpoznat rozdíl mezi někým, kdo má nedostatek síly, protože je ovládán jednou z těchto bytostí a někým, kdo má nedostatek síly, protože je to jeho přirozenost, protože není duchovně rozvinut?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:47-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:47-cs
  :END:
 
 /Sri Chinmoy:/ Má-li někdo schopnost, je nejsnadnější koncentrovat se na duši. Potom dotyčný může poznat, zda se osoba stala obětí těchto špatných sil, nebo zda jeho vlastní vitální bytost touží po síle. Vezměme v úvahu dítě. V dětské tváři bychom měli cítit čistotu; přirozeností dítěte je sladkost a roztomilost. Jestliže však místo toho vidíme, že dítě vždy rozbíjí věci, bojuje a je plné agrese, poznáme, že dítě bylo něčím ovládnuto. V některých případech se dítě takto ovládnuté již narodí, a když vyroste, jeho skutečnou přirozeností je bojovat a snažit se podmanit. Na dítěti to lze tímto způsobem poznat snadno. A pokud se dotyčný může koncentrovat na duši osoby, okamžitě pozná, zda je osoba další bytostí ovládána nebo ne.
@@ -780,9 +775,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Existuje způsob, jak bojovat proti těmto silám?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:48-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:48-cs
  :END:
 
 /Sri Chinmoy:/ Ano, a to přinášením míru. Mír je nejlepším protijedem. Když do těchto bytostí vstoupí mír, okamžitě zemřou. Mír je pro ně jako jed, protože tento neklidný svět se míru velice bojí. Pokud můžete do člověka, který se stal obětí těchto agresivních životních sil, vnést mír, tento mír potom okamžitě pohltí jeho agresivitu. Rodiče mohou tento problém vyřešit snadno koncentrací na srdce svých dětí a přinášením míru do nich. Není jiného řešení; jen mír problém vyřeší.
@@ -792,12 +787,12 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Proč je pro duši, která před mnoha lety opustila tělo, potřeba požadovat materiální věci, v tomto případě lebku? (Otázka se vztahuje k příběhu o duchu, který třepal postelí někoho, kdo si vzal ze hřbitova starou lebku).
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:49-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:49-cs
  :END:
 
-/Sri Chinmoy:/ Obyčejné duše jsou zlomyslné a pomstychtivé. Pokud se někomu nemohou pomstít, zatímco jsou na Zemi, chtějí tak učinit z jiného světa. Jsou nespokojení a je pro ně nepodstatné, zda to dělají příteli nebo nepříteli. Mstí se, protože cítí, že něco získávají. Získávají z toho požitek a jsou nemilosrdní. Znám mnoho případů podobných příběhů, který jste vyprávěl. Tyto duše požadují jen drobné věci, například dolar, a pokud jej nedostanou, co udělají? Vstoupí do vašich subtilních nervů a zpřevrací celý váš systém. Znám mladíka, kterému zemřel přítel. Tento mladík dlužil zesnulému příteli ekvivalent desetníku v indické měně. Po sedm nocí se jeho přítel vracel, říkajíc: „Dej mi mé peníze.“ Mladík řekl: „Jsem připraven vrátit ti je, ale jak si je vezmeš?“ Přítel řekl: „Ne, dej mi, dej mi mé peníze.“ Koncem týdne bylo mladíkovo zdraví otřeseno a byl po dva měsíce upoután na lůžko.
+/Sri Chinmoy:/ obyčejné duše jsou zlomyslné a pomstychtivé. pokud se někomu nemohou pomstít, zatímco jsou na zemi, chtějí tak učinit z jiného světa. jsou nespokojení a je pro ně nepodstatné, zda to dělají příteli nebo nepříteli. mstí se, protože cítí, že něco získávají. získávají z toho požitek a jsou nemilosrdní. znám mnoho případů podobných příběhů, který jste vyprávěl. tyto duše požadují jen drobné věci, například dolar, a pokud jej nedostanou, co udělají? vstoupí do vašich subtilních nervů a zpřevrací celý váš systém. znám mladíka, kterému zemřel přítel. tento mladík dlužil zesnulému příteli ekvivalent desetníku v indické měně. po sedm nocí se jeho přítel vracel, říkajíc: „dej mi mé peníze.“ mladík řekl: „jsem připraven vrátit ti je, ale jak si je vezmeš?“ přítel řekl: „Ne, dej mi, dej mi mé peníze.“ Koncem týdne bylo mladíkovo zdraví otřeseno a byl po dva měsíce upoután na lůžko.
 
    Pokud máte sluhu -- například služku, a ona zemře, a bude se chtít pomstít, může po několik měsíců nebo let zůstat ve vitálním světě. Odtud může její duch vytvořit mnoho problémů. Ale konečně, všechno je omezené; nemůže vás trápit navždy.
 
@@ -814,9 +809,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Co se ale stane s těmito dušemi? Nejsou volné, protože jsou stále ještě nějak připoutané k jejich dřívějším životům.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:50-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:50-cs
  :END:
 
 /Sri Chinmoy:/ Pokud chce duchovní postava prokázat soucit, potom je může osvobodit, uvolnit z vitální úrovně. Těmto duším řekne, že jsou příčinou neštěstí nejen pro jejich příbuzné a přátele, ale také sami sobě. Řekne jim, že pokud budou takto pokračovat, potom před sebou nebudou mít žádnou budoucnost, žádné světlo. Pokud však Mistr nepomůže, tyto duše často zůstanou v tomto politováníhodném stavu po mnoho, mnoho let.
@@ -826,9 +821,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:51-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:51-cs
  :END:
 
 /Sri Chinmoy:/ Ven vyjdou tehdy, když si uvědomí, že jsou také vyšší světy, které mohou mít. Také ve vitálním světě musí jedinec aspirovat jít za, jít výše. Pokud aspiraci nemá, potom stojí namístě. Dokonce i v tomto světě, pokud člověk nemá aspiraci, neudělá během svého života vůbec žádný pokrok. Přijde a zůstane tou nejobyčejnější lidskou bytostí možná po mnoho životů. Jsou lidé, kteří jednají jako zvířata. Proč? Protože nemají snahu jít za své animální vědomí.
@@ -839,34 +834,34 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:52-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:52-cs
  :END:
 
 /Sri Chinmoy:/ Většina z nich jsou nespokojené vitální bytosti. Spokojené bytosti to nedělají. Z toho důvodu vykonávají lidé v Indii, když někdo zemře, několik obřadů. Po jeden měsíc zesnulého skutečně sytí. Když někdo zemře, nechávají všechny druhy jídla po jeden měsíc před svým domem, myslíce si, že člověk, který zemřel, je stále hladový.
 
-   My jsme nechávali jídlo pro našeho otce i matku. Velmi často však přišel pes a jídlo sežral a někdy jsme tím byli znepokojení. Poradil nám však vesnický brahmin. Řekl: „Váš otec si vzal formu psa a tento pes žere jídlo.“ Pozoroval jsem psa alespoň šestkrát nebo sedmkrát se slzami v očích mysleje si: „Ó, můj otec jí.“ Když pes žral, díval jsem se na něj s takovou láskou, protože nám brahmin řekl, že pes žere jídlo ve prospěch našeho otce. Tak vesničané věří! Viděl jsem to na vlastní oči. Když zemřel můj otec a když zemřela moje matka, dodržovali jsme tento obřad po jeden měsíc. A potom jsme věřili, že už hladoví nejsou.
+   My jsme nechávali jídlo pro našeho otce i matku. Velmi často však přišel pes a jídlo sežral a někdy jsme tím byli znepokojení. Poradil nám však vesnický brahmin. Řekl: „váš otec si vzal formu psa a tento pes žere jídlo.“ pozoroval jsem psa alespoň šestkrát nebo sedmkrát se slzami v očích mysleje si: „Ó, můj otec jí.“ Když pes žral, díval jsem se na něj s takovou láskou, protože nám brahmin řekl, že pes žere jídlo ve prospěch našeho otce. Tak vesničané věří! Viděl jsem to na vlastní oči. Když zemřel můj otec a když zemřela moje matka, dodržovali jsme tento obřad po jeden měsíc. A potom jsme věřili, že už hladoví nejsou.
 
 
 
 * Je něco pravdy na strašidelných domech?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:53-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:53-cs
  :END:
 
-/Sri Chinmoy:/ Naprosto! Povím vám o své nedávné zkušenosti z Connecticutu. Strávil jsem několik nocí v domě jedné paní. Když mně řekla, že v jejím domě straší, nepřikládal jsem tomu mnoho pozornosti. V noci však přišli duchové. Myslím, že byli tři: otec a dva synové. Vřískali a ječeli, pokoušeje se mne polekat. První noc jsem je nebral vážně, ale druhá noc byla skutečně hrozná a musel jsem je brát vážně. Ohnuli větev stromu, která tak dosáhla do mého okna a rozbila je. Větev mě prakticky vystrčila z postele. Potom jsem řekl: „Dobře. Váš čas přišel.“ a vyhodil jsem je ven.
+/Sri Chinmoy:/ naprosto! povím vám o své nedávné zkušenosti z connecticutu. strávil jsem několik nocí v domě jedné paní. když mně řekla, že v jejím domě straší, nepřikládal jsem tomu mnoho pozornosti. v noci však přišli duchové. myslím, že byli tři: otec a dva synové. vřískali a ječeli, pokoušeje se mne polekat. první noc jsem je nebral vážně, ale druhá noc byla skutečně hrozná a musel jsem je brát vážně. ohnuli větev stromu, která tak dosáhla do mého okna a rozbila je. větev mě prakticky vystrčila z postele. potom jsem řekl: „Dobře. Váš čas přišel.“ a vyhodil jsem je ven.
 
 
 * Guru, mohla je slyšet také ta paní, nebo jen vy?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:54-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:54-cs
  :END:
 
 /Sri Chinmoy:/ Mohl je slyšet kdokoliv. Slyšela je mnohokrát. Její dcera se bála a někdy dokonce omdlévala.
@@ -877,9 +872,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:55-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:55-cs
  :END:
 
 /Sri Chinmoy:/ Ne. Nevěděli, že jsem duchovní člověk nebo někdo takový. Jen si mysleli, že tam někdo zůstává, a tak to dělali.
@@ -890,9 +885,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Odešli by tito duchové sami, kdybyste je nevyhodil?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:56-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:56-cs
  :END:
 
 /Sri Chinmoy:/ Duchové se nerozhodnou dobrovolně odejít. Jednou obsadili místo a jsou jako nepřátelská síla; obsadí území a člověk musí k jejich vyhnání vynaložit značné úsilí. Někteří lidé se modlí k Bohu a Bůh jim potom pomůže.
@@ -903,9 +898,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:57-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:57-cs
  :END:
 
 /Sri Chinmoy:/ Pokud si vezmou formu, mohou být spatřeny každým. Mohou si vzít hezkou nebo ošklivou formu. Když mi bylo dvanáct let, byl jeden z našich sluhů napaden duchem. Bylo mu asi dvacet tři let. Kolem poledne nebo jedné hodiny šel po ulici, když znenadání, hlupák, uviděl krásnou ženu volající ze stromu o pomoc. Když jí přišel na pomoc, začala jej kopat svými koleny. Poté, co ho vzali do nemocnice, na něm vyzkoušeli všechny druhy léků. Jak ten trpěl! Nebyla to mentální halucinace nebo něco takového.
@@ -918,9 +913,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Mají tito duchové osobní zášť proti lidem?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:58-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:58-cs
  :END:
 
 /Sri Chinmoy:/ Ve skutečnosti nemají nic proti nikomu. Jsou to však zlomyslné bytosti a z provádění takových věcí získávají požitek.
@@ -930,9 +925,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * A co hřbitovy? Jsou tam duchové?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:59-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:59-cs
  :END:
 
 /Sri Chinmoy:/ Na hřbitovech a na kremačních polích můžeme vidět, jak duchové a zlé síly v noci bojují a křičí. Lidé, kteří žijí v blízkosti, je mohou slyšet. V místě kam jsme chodili v jiné dny na piknik, jsem viděl mnoho zlých sil. Na tomto území spáchalo mnoho lidí sebevraždu. Duchové a zlé síly se obvykle pohybují v místech, kde lidé spáchali sebevraždu. 
@@ -942,18 +937,18 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * ČÁST IV: MÉDIA A NEVIDITELNÝ SVĚT
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ASB:60e4-cs
+ :genre: section
+ :keywords:
+ :cite-key: asb:60e4-cs
  :END:
 
 
 * Co kontaktují duchovní média, když předávají poselství? S kým nebo s čím mluví?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:60-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:60-cs
  :END:
 
 /Sri Chinmoy:/ Pokoušejí se mluvit s duší samotnou. Pokud chci vidět něčího bratra, otce, matku, kteří zemřeli, mohu je vidět a mohu mluvit s duší. Když realizujete Boha, můžete také takto mluvit s vašimi rodiči, když nejsou na Zemi. Pokud jsou stále ještě v Nebi nebo v jiném vyšším světě, je velice snadné mluvit s duší. Pokud si vezmou novou lidskou inkarnaci, stává se to trochu obtížným, ale stále ještě můžete s duší mluvit.
@@ -965,9 +960,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Jak se člověk může spojit s drahým v jiném světě?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:61-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:61-cs
  :END:
 
 /Sri Chinmoy:/ Existuje několik způsobů, jak se spojit s drahým, který není v tomto světě. Nejsnadnějším způsobem, o kterém po celou dobu slyšíte, je zajít k médiu. Médium vám poví o vašich příbuzných, kteří jsou v Nebi, mnoho příběhů. Naneštěstí velmi často tyto příběhy nemají co do činění se skutečností. Média jen vzácně přinášejí od duše skutečné vnitřní poselství. Měli byste vědět, že pokud dotyčný opustil tělo před několika dny, měsíci, rokem nebo dvěma, že je zde možnost, že duše stále ještě je ve vitálním světě. Tehdy je pro médium snadnější přinést dolů opravdové poselství. Když však duše vstoupí do mentálního světa, intuitivního světa, psychického světa a vlastního světa náležející duším, který je nekonečně výše než vitální svět, tehdy jsou všechna poselství, která získáte od média nepravdivá.
@@ -990,9 +985,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Pokud se někdo pokouší spojit s někým, kdo odešel z tohoto světa, jak si potom může být jistý, že se spojil s konkrétní duší, a ne se zlým duchem?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:62-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:62-cs
  :END:
 /Sri Chinmoy:/ Musíme vědět, s jakou duší jednáme. Pokud osoba, která opustila tělo, nebyla hodně vyvinutou duší, mohou velmi často nastat potíže, když se ji pokoušíme kontaktovat. Destruktivní bytosti si velmi často vezmou krásnou, zářící formu z vitálního světa a přijdou k nám jako naši příbuzní.
 
@@ -1011,9 +1006,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Může člověk poskytnout své tělo, tak že do něj může vstoupit duch a mluvit jeho prostřednictvím?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:63-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:63-cs
  :END:
 /Sri Chinmoy:/ Je to možné. Často se to pokoušejí dělat média. Často se to stane spontánně, zvláště u dětí. Děti mluví s rodiči a rodiče zpozorují, že má dítě zvláštní výraz na tváři, jinou osobnost a jiný způsob vyjadřování. Tehdy je dítě ovládáno nějakým jiným duchem.
 
@@ -1022,9 +1017,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Měl jsem zkušenost v dětství. V našem domě hrál každý na klavír, pokud si mohu vzpomenout, všichni hráli na klavír. Jednoho dne, když mi byly tři roky, jsem požádal služku, aby mě posadila za klavír, a já jsem začal hrát oběma rukama melodii, kterou hrála moje matka noc předtím. Je to vysvětlitelné?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:64-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:64-cs
  :END:
 /Sri Chinmoy:/ Možná to byl duch hrající vaším prostřednictvím a možná to bylo něco jiného. Nejpravděpodobněji, jste ve vašem posledním životě dosáhl mistrovství ve hře na klavír a vaše intuice přinesla tuto zkušenost, toto mistrovství, znenadání do popředí. Dětská intuice je v popředí velmi často. Dítě zřídkakdy dělá cokoliv vědomě. Všechno dělá intuitivně. Dítě po celou dobu mluví k Bohu, ačkoliv nemá otevřená ústa. Mezi dítětem a Bohem je trvalá komunikace.
 
@@ -1033,9 +1028,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Nehrál jsem jen jednou. Hrál jsem takhle mnohokrát. Co to znamená?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:65-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:65-cs
  :END:
 /Sri Chinmoy:/ V tomto případě to byla hra intuice, ne duch. Duch k dítěti příliš často nepřichází, protože bohové, kteří se o dítě starají, to nedovolí. Pokud duch vstoupí, velmi často se pokusí něco poškodit.
 
@@ -1045,9 +1040,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Co si myslíte o léčení ve vztahu k duchovnosti?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:66-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:66-cs
  :END:
 /Sri Chinmoy:/ O tom, co si z duchovního pohledu myslím o léčení chci říci pár slov. Léčení si zasluhuje zvláštní pozornost a současně zvláštní ocenění od duchovnosti. Obyčejný léčitel léčí, aby získal jméno a slávu, nebo jen proto, že má vnitřní naléhání pomoci lidstvu. Duchovní osoba však léčí konkrétního člověka jen tehdy, když jej o to Bůh požádá, nebo když dostane osobní svolení od Boha.
 
@@ -1060,9 +1055,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Jaký je vztah mezi automatickým psaním a médii?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:67-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:67-cs
  :END:
 /Sri Chinmoy:/ Skutečná duchovnost nehoví automatickému psaní a podobným věcem. Jít k médiu zjistit, co se děje v Nebi, na Zemi nebo ve vitálním světě není vůbec duchovní. Duchovnost představuje trvalou snahu být zcela sjednocen s Bohem. Duchovnost znamená přirozenou jednotu s Bohem. Skutečná duchovnost je naprosto normální a přirozená. Pokud se někdo zajímal o automatické psaní a podobné věci, potom se v něm pokuste roznítit plamen aspirace. Pokud je vám blízký a drahý, možná vás vyslyší. Snažte se mu dát poznat, že je to on, kdo objevil pravdu a ne vy, kdo mu pravdu sděluje a vštěpuje. Když pocítí, že sám objevil pravdu z nitra, bude to normální a přirozené.
 
@@ -1073,9 +1068,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Je hypnóza z duchovního pohledu přijatelná nebo ne, a proč?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:68-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:68-cs
  :END:
 /Sri Chinmoy:/ Chce-li někdo realizovat Pravdu, kterou je Bůh, nepotřebuje hypnózu nebo autohypnózu. Potřebný je mír, blaženost a síla. Ty může získat prostřednictvím aspirace. Tím, že prostřednictvím hypnózy někoho vezmeme do světa nevědomé nebo podvědomé úrovně, tím, že jej učiníme vědomým si jeho minulých vad, nedokonalostí a nečistot, tím tomuto člověku nebudeme schopni pomoci k dosažení jeho konečného Cíle. Přinášením Shora však můžeme změnit a formovat jeho život a učinit jej lepším člověkem; takto můžeme být větší pomocí.
 
@@ -1088,17 +1083,17 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * ČÁST V: ČLOVĚK A VESMÍR
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ASB:69e5-cs
+ :genre: section
+ :keywords:
+ :cite-key: asb:69e5-cs
  :END:
 
 * Věříte, že jsou na většině ostatních planet lidé právě jako my?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:69-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:69-cs
  :END:
 /Sri Chinmoy:/ Bytosti na ostatních planetách jsou všechny subtilní. Ačkoliv si tyto bytosti mohou vzít jakoukoliv formu, jejich subtilní forma bude vypadat jako lidské bytosti, zvláště když se před námi objeví na Zemi. Cítíme, že tato subtilní těla, která k nám přicházejí, jsou skutečná, že jsou z masa a kostí, ale ve skutečnosti nejsou. Naše lidské tělo je složeno z pěti prvků, které tyto bytosti nemají. Můžeme se jich dotknout a pocítíme, že jsou pevní. To není halucinace, to je naprostá skutečnost. Avšak pocit, který máte, když se dotknete mé kůže, bude jiný než pocit, který byste získali, kdybyste se dotkli těla těchto bytostí. Rozdíl je ve vnímavosti.
 
@@ -1107,9 +1102,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Věříte, že existují bytosti z jiných planet, které k nám přicházejí v létajících talířích?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:70-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:70-cs
  :END:
  
 /Sri Chinmoy:/ Ano, věřím, že jsou jiné bytosti, které přicházejí v létajících talířích. Je mnoho pravdy na tom, co se o nich říká, i když ne všechno. Je špatné říci, že jsou nám nadřazení. Jsou to naprosto odlišné bytosti, zcela nepodobné lidským bytostem. Působí z jiné úrovně a nemají obyčejnou mysl, jakou mají lidské bytosti, to však neznamená, že jsou hloupí.
@@ -1127,9 +1122,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Je člověk v celém vesmíru jedinečný?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:71-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:71-cs
  :END:
  
 /Sri Chinmoy:/ V celém vesmíru, v celém Božím stvoření je člověk jedinečný, protože hned za člověkem je naprostá dokonalost, úplné, odhalené vědomí. Člověk je jedinečný, protože má možnost realizovat Boha, a když realizuje Boha, kdo může být nadřazenější?
@@ -1141,9 +1136,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Nemohou se tedy stát Bohem, dosáhnout Boha?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:72-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:72-cs
  :END:
  
 /Sri Chinmoy:/ Ne, nemohou. V jejich světě jsou prostě připoutáni k jednomu bodu. Pokud se chtějí vyvíjet, musejí přijít do lidského těla a přijmout lidský život jako my, s jeho spoutaností, utrpením, utlačováním a ponížením.
@@ -1153,9 +1148,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * A tak jsme vyvinutější než oni?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:73-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:73-cs
  :END:
 
 /Sri Chinmoy:/ Ano, ve smyslu naší snahy o realizaci Boha jsme vyvinutější. Oni jsou však současně ve světě radosti a nádherné blaženosti, který my nemáme. Naše radost je velmi omezená. Často to, co nazýváme radostí je skutečně jen požitek. Faktem je, že jsou šťastnější; štěstí však není realizace Boha.
@@ -1169,9 +1164,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Objeví kdy věda duši?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:74-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:74-cs
  :END:
  
 /Sri Chinmoy:/ Věda nikdy, nikdy duši neobjeví. Je to nemožné, protože duše přichází z oblasti daleko za sférou vědy. Duše může být realizována jen na základě lidského ztotožnění se nebo jednoty s Absolutnem.
@@ -1187,9 +1182,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Myslíte si, že Bůh pomůže lékařům, kteří transplantují srdce z mrtvých lidí nemocným? Myslíte si, že se to bude v budoucnu provádět?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:75-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:75-cs
  :END:
  
 /Sri Chinmoy:/ Chci říci, že Bůh pomáhá každému na Zemi. Proč jen prostřednictvím transplantací? Bůh nám pomáhá, když jsme nevědomí; Bůh nám pomáhá, když jsme moudří. Když něco uděláme nesprávně, nebo vidíme, že ostatní nejednají správně, můžete říci, že nám v té době Bůh nepomáhá. Ale dokonce i tehdy je ochrana. Nebudeme potrestáni všichni najednou.
@@ -1208,9 +1203,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Co se stane, když je ženské srdce transplantováno do mužského těla?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:76-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:76-cs
  :END:
 
 /Sri Chinmoy:/ Zrozením zdědíme tělesnou konstituci od obou našich rodičů. Můžeme mít například fyzické tělo, které je flegmatické nebo možná velmi nervózní. Tělo má svůj vlastní rytmus a srdce je částí tohoto rytmu. Kdyby bylo srdce mladé dívky, které je velmi lehké a dynamické, transplantováno například muži, který je těžkopádný a letargický, jeho tělo bude mít tendenci srdce odmítnout. Lékaři vědí, že fyzické buňky těla nebudou tolerovat žádnou substanci, která je cizí a automaticky jakýkoliv cizí orgán odpudí. Lékaři nám říkají, že budou tolerovány jen fyzické orgány velmi blízkých příbuzných, kteří mají stejné geny, stejnou podobu buněk. A tak v případě transplantace srdce říkám, že lidské tělo shledá jiné srdce neslučitelným; pozná jej jako cizí prvek a odpudí jej. Protože je srdce fyzickým orgánem života, je velmi důležité a mělo by mít stejnou fyzickou skladbu jako zbytek těla.
@@ -1224,21 +1219,21 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Zajímalo by mě, zda jsou duše identických dvojčat příbuzné nebo vůbec ne?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:77-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:77-cs
  :END:
 
-/Sri Chinmoy:/ Velmi zajímavá otázka! Neexistuje žádné pevné pravidlo. Obecně si duše navzájem ve světě duší blízké nejsou. Někdy jsou jejich duše příbuzné, ne však kvůli nějakým důvěrným stykům v minulých inkarnacích. Někdy se duše přijdou navzájem potrestat. Na poli projevení nemají dvojčata ani tušení, že je to pravda; možná se mohou stát přáteli. V oblasti duší se však duše dvojčat vůbec navzájem nedoplňují. řeknou: „Pokud vstoupíš do této rodiny, potom tam vstoupím také, ne jindy, ale současně. Potom uvidím, co budu moci udělat.“ Viděl jsem tento vnitřní důvod mnohokrát. Když však rodiče dvojčatům prokážou nekonečnou lásku a zájem, a když se oběma pokusí projevit stejnou lásku, duše dvojčat získají spontánní přání být líbezné, nebo mít společný důvod, společný cíl. Společný cíl, společná realizace, společné naplnění by však v oblasti duší nikdy nenastalo. Zde musím dát zásluhu rodičům, protože rodiče významně změnili přirozenost svých dětí. A děti nakonec získají lepší život, lepší porozumění a lepší dosažení a naplnění.
+/Sri Chinmoy:/ velmi zajímavá otázka! neexistuje žádné pevné pravidlo. obecně si duše navzájem ve světě duší blízké nejsou. někdy jsou jejich duše příbuzné, ne však kvůli nějakým důvěrným stykům v minulých inkarnacích. někdy se duše přijdou navzájem potrestat. na poli projevení nemají dvojčata ani tušení, že je to pravda; možná se mohou stát přáteli. v oblasti duší se však duše dvojčat vůbec navzájem nedoplňují. řeknou: „Pokud vstoupíš do této rodiny, potom tam vstoupím také, ne jindy, ale současně. Potom uvidím, co budu moci udělat.“ Viděl jsem tento vnitřní důvod mnohokrát. Když však rodiče dvojčatům prokážou nekonečnou lásku a zájem, a když se oběma pokusí projevit stejnou lásku, duše dvojčat získají spontánní přání být líbezné, nebo mít společný důvod, společný cíl. Společný cíl, společná realizace, společné naplnění by však v oblasti duší nikdy nenastalo. Zde musím dát zásluhu rodičům, protože rodiče významně změnili přirozenost svých dětí. A děti nakonec získají lepší život, lepší porozumění a lepší dosažení a naplnění.
 
 
 
 * Guru, je možné potkat později v životě své dvojče duše? Mají určití lidé partnerské duše?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:78-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:78-cs
  :END:
 
 /Sri Chinmoy:/ Partnerské duše a dvojčata duše nejsou stejné. Duše partnera je jedním s tím, s kým máte velmi blízkou duševní spřízněnost. Nyní žijete v Hatrfordu, ale v New Yorku může být někdo, kdo je nejbližším přítelem vaší duše. Když se koncentruji na vás, lidi, vidím, že je několik, kteří mají spřízněné duše s někým jiným. Vím, že také v Puerto Rico jsou někteří, kteří mají tuto duševní spřízněnost s několika z vás odtud. Když tam zajedete, budete se divit, co se stane. Ačkoliv jste je nikdy předtím neviděli, ve chvíli, kdy k nim přijdete, pocítíte, že jsou vašimi zcela vlastními. Je to proto, že jste spolu byli po mnoho a mnoho životů. To se nazývá spřízněnost duší.
@@ -1250,9 +1245,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Jak tomu já rozumím, existují některé formy, které skutečně nejsou dušemi osob, ale jen formami astrálního světa. Vysvětlete, prosím, jaký druh vědomí mají bezduché formy z astrálního světa?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:79-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:79-cs
  :END:
 
 /Sri Chinmoy:/ Vědomí je všeprostupující. Vy máte vědomí, já je mám, každý má vědomí. Vědomí je světlo, které ztělesňuje samotný život. Světlo a život, život a světlo obsahuje vědomí. Avšak v astrálním těle život, který vědomí má, nepracuje nebo nezabírá část fyzického světa. Když vědomí pracuje na určité úrovni, samo se této úrovni přizpůsobí. Vědomí, které cítíme nebo vidíme na astrální úrovni není dostatečné, chceme-li naplnit nezbytné potřeby vnějšího světa.
@@ -1262,9 +1257,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Je tolik skutečnosti v astrálním cestování jako v meditaci?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:80-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:80-cs
  :END:
 
 /Sri Chinmoy:/ Meditace, jestliže je to skutečná meditace, přesahuje všechno astrální cestování. Skutečná meditace znamená vědomou jednotu s Absolutnem. Když máme vědomou jednotu s Absolutnem, nemusíme nikam cestovat, protože, Všudypřítomný a Vševědoucí je v našem nitru. Nejvyšší meditace nám nabídne Všudypřítomnost Boha. A zatímco jsme v Jeho Všudypřítomnosti, není potřeba astrálního cestování, protože celý vesmír je uvnitř nás. To je to, co nám meditace může dát a dá.
@@ -1274,9 +1269,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Slyšel jste o jakémsi druhu duchovní psychologie, kde se lidé pokoušejí vynést ven předpokládané negativní aspekty a zbavit se jich, s konečným výsledkem, který nazývají „čistou“ osobou, která je zbavena všech osobních vad?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:81-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:81-cs
  :END:
 
 /Sri Chinmoy:/ Vždy říkáme, že je nezbytné vyprázdnit sami sebe. Máme-li nádobu, která není naplněna nejvyšším vědomím, potom musí být vyprázdněna. Jen potom může vaše nejvyšší vědomí do nádoby vstoupit.
@@ -1290,21 +1285,21 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * (Otázka týkající se měsíce prosince 1972, který byl ve vnitřním světě obdobím velkého nepokoje). Nebylo by pro vás snadnější, kdyby něco z toho, co se děje ve vnitřním světě, bylo projeveno na vnější úrovni, namísto toho, abyste bral ve vnitřním světě všechno na sebe?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:82-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:82-cs
  :END:
 
-/Sri Chinmoy:/ Ne, bylo by to horší. Kdyby to bylo projeveno na Zemi, bylo by to velmi děsivé, velmi děsivé. Tato síla smrti se vznáší kolem nás. Je to jak chytání. Kdo bude chycen příště? Je to jako šílený slon. Šílený slon se pohybuje, aniž si všímá okolí. Neví, kam šlápne a koho zabije. Síly tohoto měsíce jednají jako tento slon. Jsou velmi špatné. Jsem tak šťastný, že jsme tento měsíc (prosinec 1972) nikoho neztratili. Tento měsíc byl skutečně nejhorším měsícem. Někdy, když jsem šel po ulici, jsem doslova plakal. Říkal jsem: „Ó Bože, proč jsi stvořil tento měsíc?“
+/Sri Chinmoy:/ ne, bylo by to horší. kdyby to bylo projeveno na zemi, bylo by to velmi děsivé, velmi děsivé. tato síla smrti se vznáší kolem nás. je to jak chytání. kdo bude chycen příště? je to jako šílený slon. Šílený slon se pohybuje, aniž si všímá okolí. neví, kam šlápne a koho zabije. síly tohoto měsíce jednají jako tento slon. jsou velmi špatné. jsem tak šťastný, že jsme tento měsíc (prosinec 1972) nikoho neztratili. tento měsíc byl skutečně nejhorším měsícem. někdy, když jsem šel po ulici, jsem doslova plakal. Říkal jsem: „Ó Bože, proč jsi stvořil tento měsíc?“
 
 
 
 * Guru, proč jej stvořil?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:83-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:83-cs
  :END:
 
 /Sri Chinmoy:/ Bylo o tom rozhodnuto před mnoha a mnoha lety. Před stovkami let tak bylo rozhodnuto.
@@ -1314,23 +1309,9 @@ A tak si vzali lidskou formu a usedli na břeh Gangy. Stovky lidí přišlo plav
 * Mohou síly smrti vzít kohokoliv kdykoliv, dokonce i když není jejich osudem zemřít právě v tu dobu?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ASB:84-cs
+ :genre: qa
+ :keywords:
+ :cite-key: asb:84-cs
  :END:
 
 /Sri Chinmoy:/ Ne, pracuje kosmický zákon. Pokud není váš čas, nepolapí vás. Toto je však zvláštní měsíc (prosinec 1972). Tento měsíc je jakoby odešlo světlo; je duchovní zatmění. Když je trochu světla, potom se temné, nepřátelské síly obávají dělat tyto věci, protože se bojí polapení. Když je však naprostá temnota, potom si mohou tyto zlomyslné síly dělat co chtějí. A tento měsíc je právě takový. Všechno je temné, a tak mohou dělat cokoliv chtějí.
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

@@ -1,20 +1,15 @@
-#+TITLE: Sri Chinmoy odpovídá, část 05
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 05
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2001
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: SCA-5-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2001
+  :publisher: Madal Bal
+  :cite-key: SCA-5-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Jak můžeme přiměřeně vyjádřit vděčnost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:153-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:153-cs
   :END:
 
 
@@ -39,9 +34,9 @@ Ze všech věcí, které hledám, je ale nejdůležitější vděčnost. Je-li v
 * Cítím, že má láska k tobě je skutečně darem Milosti. Jestliže Milost není podmínečná, jak Nejvyšší rozhoduje, komu ji dát?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:154-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:154-cs
   :END:
 
 
@@ -58,9 +53,9 @@ Velcí duchovní Mistři dělají bezpodmínečně pro lidstvo tolik věcí. Cho
 * Vím, naneštěstí, že mysl prochází různými stupni vnímavosti Je to také tak s duší, nebo je duše stále vnímavá?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:155-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:155-cs
   :END:
 
 
@@ -73,9 +68,9 @@ Když chce Mistr dát mír, když chce dát lásku, když chce dát světlo, kdy
 * Můžete říci něco o kompromisu? Kvůli stresu v našem způsobu života někdy cítím, že potřebuji vegetovat, ačkoli vím, že to není to nejlepší, co mohu dělat.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:156-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:156-cs
   :END:
 
 
@@ -85,7 +80,7 @@ Když dvě země udělají kompromis, je to směšné. Kompromis pochází ze st
 
 Když v duchovním životě jednáte s nejvyšší božskostí v jednotlivci, pak je kompromis vyloučen. Přijal jsem plnou odpovědnost za duchovní pokrok svých žáků. Pokaždé, když udělám kompromis a nechám někoho udělat špatnou věc, zdržuji jeho pokrok. Mým úkolem je vzít každého k určenému cíli tak rychle, jak je to jen možné. Jestliže někomu dovolím, aby zdržoval svůj pokrok a dělal špatnou věc, pak když bude ten člověk v božském vědomí, obviní mne. Když uvidí, že Tom, Ríša a Lukáš šli mnohem rychleji než on, bude se cítit bídně. Řekne: „Ó Bože, oni byli horší běžci. Teď jsou všichni přede mnou. Proč jsi mi dovolil udělat kompromis?"
 
-Je to tak: když chcete vstát v pět hodin, abyste meditovali, mysl řekne: „Ó, je tak brzy." V šest hodin, v sedm hodin, v osm hodin mysl řekne, že je stále příliš brzy. Pak, když konečně v devět nebo v deset hodin vstanete, mysl řekne: „Blázne, teď už je na meditaci příliš pozdě. Kdo tě žádal, abys mne poslouchal?"
+Je to tak: když chcete vstát v pět hodin, abyste meditovali, mysl řekne: „Ó, je tak brzy." v šest hodin, v sedm hodin, v osm hodin mysl řekne, že je stále příliš brzy. pak, když konečně v devět nebo v deset hodin vstanete, mysl řekne: „Blázne, teď už je na meditaci příliš pozdě. Kdo tě žádal, abys mne poslouchal?"
 
 Na druhou stranu mě někdy žáci nutí udělat kompromis. Vím, že někdo dělá špatnou věc, ale ze soucitu nebo z nějakých jiných důvodů to musím dovolit. Pak jsem to já, kdo skutečně trpí, protože toho člověka musím vzít na ramena a nést ho, neboť je Mistrovou božskou zodpovědností zajistit, aby každý jeho žák běžel co nejrychleji.
 
@@ -95,9 +90,9 @@ Na druhou stranu mě někdy žáci nutí udělat kompromis. Vím, že někdo dě
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:157-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:157-cs
   :END:
 
 
@@ -112,9 +107,9 @@ Když dávám duchovní jméno svému žákovi, je to proto, že vidím jeho mo�
 * Jednou jsem měl příležitost říci vám o velmi vážném vnitřním problému, který jsem měl, a vy jste řekl, že protože jsem byl schopen vyjevit vám tento problém, mohl jste ho odebrat. Jestliže někdo nemá tuto vnější příležitost, jaký je nejlepší způsob, jak vám problém úplně odevzdat? Vnitřně jsem se snažil, ale byl jsem neúspěšný, dokud jsem vám to nemohl nabídnout navenek.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:158-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:158-cs
   :END:
 
 
@@ -122,13 +117,13 @@ Když dávám duchovní jméno svému žákovi, je to proto, že vidím jeho mo�
 
 Ve chvíli, kdy se můžete podělit o svá tajemství se svým Mistrem, už jste udělali jeden krok kupředu. Pak Mistr říká: „Nyní chci, abys šel deset kroků, sto kroků napřed a přestal dělat to, co děláš špatně." Řekněme, že dva roky nebo deset let nebo dvanáct let se můžete snažit problém skrývat uvnitř sebe. Protože jste nechávali dveře svého srdce zavřené, je uvnitř něj jen temnota, temnota, temnota. Když mi řeknete své tajemství, je to jako když otevřete dveře svého srdce a vpustíte čerstvý vzduch a světlo. V tu chvíli jsem na vás tak hrdý; nedokážete si představit, jak oceňuji a obdivuji vaši upřímnost.
 
-Ale teď, když už jste otevřeli svá srdce alespoň trochu, proč je neotevřete úplně? Mnoho lidí mi svěřuje svá tajemství; slyším milióny tajemství. Ale neudělají další krok: poslušnost. Jsou hotovi mi říci, že udělali něco velmi špatného. Ale když jim poradím a řeknu jim: „Už to víckrát nedělejte," nejsou ochotni poslechnout. A musíte vědět, že to není jen pouhá rada, kterou dávám. Když vám říkám, abyste něco nedělali, dávám vám také sílu tu věc nedělat. Dávám vám vnitřní sílu, abyste svou chybu neopakovali. Ale vy ji nechcete přijmout.
+Ale teď, když už jste otevřeli svá srdce alespoň trochu, proč je neotevřete úplně? Mnoho lidí mi svěřuje svá tajemství; slyším milióny tajemství. Ale neudělají další krok: poslušnost. jsou hotovi mi říci, že udělali něco velmi špatného. ale když jim poradím a řeknu jim: „Už to víckrát nedělejte," nejsou ochotni poslechnout. A musíte vědět, že to není jen pouhá rada, kterou dávám. Když vám říkám, abyste něco nedělali, dávám vám také sílu tu věc nedělat. Dávám vám vnitřní sílu, abyste svou chybu neopakovali. Ale vy ji nechcete přijmout.
 
 Většina problémů žáků začíná neposlušností a pokračuje kvůli neochotě. Nejdříve uděláte něco, s čím víte, že váš Mistr nebude souhlasit. Porušíte božská pravidla a uděláte něco neduchovního kvůli pozemskému pokušení nebo touze po pozemském jménu a slávě, nebo protože si myslíte, že můžete učinit svůj život nějakým způsobem šťastnější. Pak uděláte něco dalšího špatně tím, že to tajíte a neřeknete o tom Mistrovi. Žáci, kteří upevnili svou jednotu se mnou anebo kteří chtějí upevnit svou jednotu se mnou, se nebudou bát říci mi o svých těžkostech a problémech. Jestliže zůstanou zticha, protože si myslí, že budu rozzlobený, pak kde je jejich láska ke mně, kde je jejich jednota se mnou?
 
 Když vaše upřímnost konečně vyjde do popředí, aby vás zachránila před vaší neposlušností, řeknete mi o svých problémech nebo o tom, proč vaše vědomí kleslo. Ale když vám řeknu, co máte dělat, v tu chvíli přijde váš vzdor nebo odpor a vy mne neposlechnete. Takže co se stane? Vaše upřímnost je rozsekána na kousky. Když neposloucháte Mistra, jen zrazujete svou vlastní duchovnost. Někteří mí žáci jsou absolutně ve svém vlastním světě a jejich svět je milióny a milióny mil vzdálen od božského světa. Vytvořili si sami pro sebe peklo, kterého si užívají, a pokouší se mě tak oklamat a podvést. Když si konečně uvědomí, že žijí v pekle, řeknou mi, že jejich tajemství je mučí a že trpí jako nikdo jiný. Řeknu jim: „Prosím, prosím, nezůstávejte v pekle. Roky a roky se snažím vytvořit pro vás Nebe, ale vy jste tam nechtěli zůstat. Místo toho jste chtěli žít v pekle. Nyní se chcete stát znovu božskými, takže vám dávám schopnost. V pravém slova smyslu jsem tou schopností pro vás." Ale ti lidé neposlouchají a oba pak trpíme.
 
-Nejdříve se vyhýbáte lékaři, pak mu nakonec řeknete: „Něco je ve mně špatného." Lékař řekne: „Je to rakovina, berte léky." Ale vy řeknete: „Ne, já nebudu brát léky. Chci si užít svého způsobu života, chci si užít své rakoviny." Ale duchovní Mistr není jako vnější lékař. Jestliže pacient zemře, protože si nevzal léky, vnější lékař prostě řekne: „Není to má chyba." Ale vnitřní lékař, Mistr, není takový. Trpí a pláče, protože jej žák neposlechl. Když žák zemře duchovně, Mistr řekne: „Kdyby ten člověk uposlechl mé rady, mohl jsem ho zachránit."
+Nejdříve se vyhýbáte lékaři, pak mu nakonec řeknete: „něco je ve mně špatného." lékař řekne: „je to rakovina, berte léky." ale vy řeknete: „ne, já nebudu brát léky. chci si užít svého způsobu života, chci si užít své rakoviny." ale duchovní mistr není jako vnější lékař. jestliže pacient zemře, protože si nevzal léky, vnější lékař prostě řekne: „není to má chyba." ale vnitřní lékař, mistr, není takový. trpí a pláče, protože jej žák neposlechl. když žák zemře duchovně, mistr řekne: „Kdyby ten člověk uposlechl mé rady, mohl jsem ho zachránit."
 
 Hledající a žáci, kteří byli schopni vyřešit své vitální a jiné vnitřní problémy, to dokázali jen díky své upřímnosti a ochotě přijmout duchovní radu. Uvnitř svého Mistra můžete vidět Nejvyššího, to Nejvyšší. Jestliže Nejvyšší nemůže vyřešit vaše problémy, pak kdo je bude schopen za vás vyřešit? Když je Mistr ve fyzickém, je to vaše zlatá příležitost udělat ten nejrychlejší pokrok. Jak Sri Rámakršna řekl, kraví mléko je ve vemenu. Jestliže chcete mléko, musíte zmáčknout vemeno, ne ucho nebo ocas.
 
@@ -141,15 +136,15 @@ Jestliže si dokážete upevnit svou jednotu s vůlí Mistra, dokud je na fyzick
 * Někdy se žáci tlačí a strkají, aby k vám byli blíže. Vím, že to dělají, protože od vás chtějí dostat více světla, ale vypadá to jako velmi neduchovní způsob chování.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:159-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:159-cs
   :END:
 
 
 /Sri Chinmoy:/ Když přicházíte k Mistrovi, nedívejte se, kdo sedí vedle Mistra nebo kdo je Mistrovi nejblíže. Přišli jste k Mistrovi, abyste byli v jeho Univerzálním Vědomí, ne abyste byli ve světě soutěžení. Svět soutěžení vás zklame, ale Mistrův svět jednoty vás zachrání. Ti, kteří si vytvoří svou jednotu s vůlí Mistra a projevují Nejvyššího ve svém Mistrovi, jsou těmi, kdo se stanou nejvýše vybranými nástroji, aby nabídli Mistrovo světlo lidstvu.
 
-Někdy žák vnitřně Mistrovi řekne: „ Jestliže se staráš o toho a toho, pak tě potrestám tím, že tě opustím. Je to tak špatný člověk, že mu nechci být nablízku." Mnoho lidí opustilo duchovní život proto, že cítili, že Mistr věnuje víc než jim pozornost lidem, které považují za špatné. Také v mém případě několik výborných hledajících opustilo naši cestu, neboť zůstali ve světě soutěže a pokoušeli se stát blízkými, bližšími, nejbližšími. Ale když viděli, že se blízkými nebo bližšími nebo nejbližšími nestávají, zmizeli. Ti lidé chtěli, abych je potěšil jejich vlastním způsobem. Vnitřně řekli: „Udělal jsem pro tebe tolik, ale ty se o mne nestaráš a nemyslíš na mne."
+Někdy žák vnitřně Mistrovi řekne: „ jestliže se staráš o toho a toho, pak tě potrestám tím, že tě opustím. je to tak špatný člověk, že mu nechci být nablízku." mnoho lidí opustilo duchovní život proto, že cítili, že mistr věnuje víc než jim pozornost lidem, které považují za špatné. také v mém případě několik výborných hledajících opustilo naši cestu, neboť zůstali ve světě soutěže a pokoušeli se stát blízkými, bližšími, nejbližšími. ale když viděli, že se blízkými nebo bližšími nebo nejbližšími nestávají, zmizeli. ti lidé chtěli, abych je potěšil jejich vlastním způsobem. vnitřně řekli: „Udělal jsem pro tebe tolik, ale ty se o mne nestaráš a nemyslíš na mne."
 
 Vždy dělám to, co je nejlepší pro žákův duchovní pokrok. Pravý žák bude mít víru v Mistra. Pravý žák se nestará o to, zdaje Mistrovi navenek blízký nebo vzdálený, dokud Mu může sloužit jeho vlastním způsobem. Jen tito praví žáci mi dávají opravdovou radost, neboť jsou mojí částí a já jsem jejich částí. To jsou ti, kteří mne skutečně milují a skutečně mi rozumí. Jejich jediným cílem je zde na zemi projevit Nejvyššího ve mně.
 
@@ -158,9 +153,9 @@ Vždy dělám to, co je nejlepší pro žákův duchovní pokrok. Pravý žák b
 * Jaký je rozdíl mezi Okem Soucitu Boha, Srdcem Soucitu Boha a Nohami Soucitu Boha?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:160-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:160-cs
   :END:
 
 
@@ -178,9 +173,9 @@ Když někdo jednou najde své útočiště u Nohou Boha, nezáleží na tom, ko
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:161-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:161-cs
   :END:
 
 
@@ -197,9 +192,9 @@ Jindy jsou zase chvíle, kdy zpívám některé písně oduševněle ne proto, �
 * Mnohokrát nás duše velkých lidí, kteří jsou mnoho let mrtví, přichází navštívit, nebo je vzýváme. Proč si tyto duše už nevzaly další inkarnaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:162-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:162-cs
   :END:
 
 
@@ -215,9 +210,9 @@ Některé duše nemusí být pokročilé, ale protože ke mně mají nesmírnou 
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:163-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:163-cs
   :END:
 
 
@@ -227,9 +222,9 @@ Některé duše nemusí být pokročilé, ale protože ke mně mají nesmírnou 
 * Když sestoupí, oceňují tyto duše vaše vnější aktivity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:164-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:164-cs
   :END:
 
 
@@ -250,9 +245,9 @@ Předtím, než jste vstoupili do duchovního života, jste si po osmnáct nebo 
 * Můžeme obvykle říci, kdy poselství přichází ze srdce?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:165-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:165-cs
   :END:
 
 
@@ -262,7 +257,7 @@ Mysl bojuje proti duchovnímu srdci a vitálno ho podvádí. Většina lidí si 
 
 Na druhou stranu často to, co lidé berou jako vnitřní hlas, nepřichází z vitálna, ale z mysli samé. Mysl mluví a mysl také poslouchá. A zatímco poslouchá, táhne za sebou i tělo, vitálno a srdce. Měl jsem žáky, kteří věřili, že dostávají vnitřní poselství, když meditují na mou fotografii. Tvrdili, že tato poselství jsou výše a autentičtější než poselství, která jim dávám přímo ve fyzickém, z očí do očí. To je hloupost lidské mysli!
 
-Sri Aurobindo měl žáka, který byl na pokraji realizace. Jako já pocházel z Chittagongu. Potom začal dostávat vnitřní poselství. Sri Aurobindo osobně řekl: „Ne, přicházejí z tvého vitálna, z tvé mysli. Jsou to špatné síly." Žák řekl: „Ó ne, přišel jsi ke mně v té nejzářivější podobě a řekl jsi mi, abych udělal to a to." Sri Aurobindo řekl: „Jestliže jsem tvůj Guru, proč mne neposloucháš? Prostě poslechni to, co ti říkám osobně, a nedívej se na mou fotografii! Jestliže si máš vybrat mezi mnou a mou fotografií, co si vybereš? Alespoň zatímco jsem na zemi, poslouchej mne." Ale žák řekl: „Ne, když se dívám na tvou fotografii, mám vysoké zážitky." Sri Aurobindo mu řekl, že to vše jsou mentální halucinace, ale on neposlechl. Místo realizace byl chycen nepřátelskými silami, které oklamaly jeho mysl.
+Sri Aurobindo měl žáka, který byl na pokraji realizace. Jako já pocházel z Chittagongu. Potom začal dostávat vnitřní poselství. Sri Aurobindo osobně řekl: „ne, přicházejí z tvého vitálna, z tvé mysli. jsou to špatné síly." Žák řekl: „Ó ne, přišel jsi ke mně v té nejzářivější podobě a řekl jsi mi, abych udělal to a to." sri aurobindo řekl: „jestliže jsem tvůj guru, proč mne neposloucháš? prostě poslechni to, co ti říkám osobně, a nedívej se na mou fotografii! jestliže si máš vybrat mezi mnou a mou fotografií, co si vybereš? alespoň zatímco jsem na zemi, poslouchej mne." ale žák řekl: „Ne, když se dívám na tvou fotografii, mám vysoké zážitky." Sri Aurobindo mu řekl, že to vše jsou mentální halucinace, ale on neposlechl. Místo realizace byl chycen nepřátelskými silami, které oklamaly jeho mysl.
 
 Říkám všem svým žákům, aby pokud se považují za mé žáky, laskavě poslouchali mne a ne mou fotografii, když dostávají dvě rozdílná poselství. Fotografie nevytvořila mě; já jsem vytvořil fotografii. Jestliže vám navenek něco říkám, měli byste tomu věřit. Věřte poselstvím, které vycházejí z mých úst, jestliže jsou odlišné od kteréhokoli vnitřního poselství, které cítíte, že dostáváte od mé fotografie.
 
@@ -273,13 +268,13 @@ Sri Aurobindo měl žáka, který byl na pokraji realizace. Jako já pocházel z
 * Když Kristus řekl: „Já jsem Cesta a Cíl" neřekl, že je jedinou cestou, ačkoli křesťanský svět to tak interpretoval. Ale když to řekl, byl si vědom Avatárů, kteří jej předcházeli?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:166-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:166-cs
   :END:
 
 
-/Sri Chinmoy:/ Určitě si jich byl vědom. Ale když řekl: „Já jsem Cesta a Cíl," měl pravdu. V tu chvíli se stal neoddělitelně jedním se svým Nebeským Otcem, s Nejvyšším. Pán Kršna řekl něco podobného. Řekl: „Nezáleží na tom, koho uctíváte, nezáleží na tom, kdo je váš Guru. Všechna vaše láska, oddanost a odevzdání přijdou ke mně, protože já jsem Nejvyšší." Když realizujete to Nejvyšší, stanete se s Tím neoddělitelně jedním. Když se jednou kapka sjednotí s oceánem, nemůžete je oddělit. Je oceánem, jsou jedním.
+/Sri Chinmoy:/ určitě si jich byl vědom. ale když řekl: „já jsem cesta a cíl," měl pravdu. v tu chvíli se stal neoddělitelně jedním se svým nebeským otcem, s nejvyšším. pán kršna řekl něco podobného. Řekl: „Nezáleží na tom, koho uctíváte, nezáleží na tom, kdo je váš Guru. Všechna vaše láska, oddanost a odevzdání přijdou ke mně, protože já jsem Nejvyšší." Když realizujete to Nejvyšší, stanete se s Tím neoddělitelně jedním. Když se jednou kapka sjednotí s oceánem, nemůžete je oddělit. Je oceánem, jsou jedním.
 
 Na konci cesty, nehledě na to, kterou cestou jdete, si to musíte uvědomit. Nyní mne vidíte jako lidskou bytost, takže říkáte: „Ó, jsi s námi na zemi. Jak můžeš být také ve stále se přesahujícím Za?" Ale Nejvyšší ve mně může být na mnoha místech zároveň. Pán Kršna ukázal Ardžunovi svou Univerzální Podobu. Když žák spatří Univerzální Podobu Mistra, bude skutečně vědět, že to, co Mistr říkal, je stoprocentní pravda. Když žák uvidí Nekonečné, v tu chvíli pro něj bude snazší vidět konečné. Jestliže vidíte, že někdo má milióny dolarů v Nebi, pak je snadné věřit, že má jeden dolar na zemi.
 
@@ -289,9 +284,9 @@ Na konci cesty, nehledě na to, kterou cestou jdete, si to musíte uvědomit. Ny
 * Co když je duše skutečně velmi dobrá, velmi duchovní, a zbytek bytosti jí vytváří problémy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:167-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:167-cs
   :END:
 
 
@@ -315,9 +310,9 @@ Duše je tak drobná věc -- drobnější než nejdrobnější. Aleje také mocn
 * Když se modlíme, aby šla naše duše k tobě, půjde?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:168-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:168-cs
   :END:
 
 
@@ -328,9 +323,9 @@ Duše je tak drobná věc -- drobnější než nejdrobnější. Aleje také mocn
 * Přišli lidé, kteří byli v minulých inkarnacích žáky jiných duchovních Mistrů, v této inkarnaci k tobě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:169-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:169-cs
   :END:
 
 
@@ -345,9 +340,9 @@ V mé poslední inkarnaci ke mně někteří hledající přišli na sklonku mé
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:170-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:170-cs
   :END:
 
 
@@ -358,9 +353,9 @@ V mé poslední inkarnaci ke mně někteří hledající přišli na sklonku mé
 * Existuje nějaké datum, kdy přijde realizace Boha, anebo se to prostě postupně stane?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:171-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:171-cs
   :END:
 
 
@@ -371,13 +366,13 @@ V mé poslední inkarnaci ke mně někteří hledající přišli na sklonku mé
 * Když si v jedné inkarnaci vyvinete okultní nebo jiné duchovní síly, udržíte si je v budoucích inkarnacích?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:172-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:172-cs
   :END:
 
 
-/Sri Chinmoy:/ Většinou tyto síly hromadíte. Když duchovně zbohatnete v jedné inkarnaci, pak se v další inkarnaci stanete bohatšími -- pokud své síly nezneužijete. Když zneužijete své síly, zmizí. Můj strýc z matčiny strany měl ohromnou okultní sílu. Lidé přicházívali a dotýkali se jeho nohou a prosili, aby jim pomohl. „Ó, prosím, uzdrav mou ženu. " říkávali. „Umírá a já bez ní nemohu žít." Nebo: „Má kráva byla ukradena, prosím, pomoz mi dostat ji zpět." Tak používal svou okultní sílu, aniž by to konzultoval s Vůlí Boha, a postupně ji ztratil. Pak plakal k Matce Kálí a prosil, aby už mu okultní sílu znovu nedávala, protože ji pořád zneužíval a neměl čas na ni myslet. Ale Matka Kálí mu ji vždy vrátila. Chtěla, aby se naučil, jak její dary správně používat.
+/Sri Chinmoy:/ většinou tyto síly hromadíte. když duchovně zbohatnete v jedné inkarnaci, pak se v další inkarnaci stanete bohatšími -- pokud své síly nezneužijete. když zneužijete své síly, zmizí. můj strýc z matčiny strany měl ohromnou okultní sílu. lidé přicházívali a dotýkali se jeho nohou a prosili, aby jim pomohl. „Ó, prosím, uzdrav mou ženu. " říkávali. „umírá a já bez ní nemohu žít." nebo: „Má kráva byla ukradena, prosím, pomoz mi dostat ji zpět." Tak používal svou okultní sílu, aniž by to konzultoval s Vůlí Boha, a postupně ji ztratil. Pak plakal k Matce Kálí a prosil, aby už mu okultní sílu znovu nedávala, protože ji pořád zneužíval a neměl čas na ni myslet. Ale Matka Kálí mu ji vždy vrátila. Chtěla, aby se naučil, jak její dary správně používat.
 
 Nejdříve si můj strýc z matčiny strany myslel, že je soucitný, když pomáhá těmto lidem. Později viděl, že zneužíváním svého lidského soucitu jen vytváří více problémů, protože obvykle to byla Boží Vůle, že tito lidé trpěli karmou, kterou si sami vysloužili.
 
@@ -386,9 +381,9 @@ Nejdříve si můj strýc z matčiny strany myslel, že je soucitný, když pom�
 * Může duchovní Mistr použít okultní sílu, aby zničil špatné síly a urychlil tak pokrok hledajícího?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:173-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:173-cs
   :END:
 
 
@@ -407,9 +402,9 @@ Duchovní síla má jen jeden jediný úkol: pozvednout vědomí lidstva. Okultn
 * Zoškliví naše tvář, když opustíme svět duší a vstoupíme do fyzického těla?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:174-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:174-cs
   :END:
 
 
@@ -420,9 +415,9 @@ Duchovní síla má jen jeden jediný úkol: pozvednout vědomí lidstva. Okultn
 * Musíme počkat, dokud nebudeme na pokraji realizace, abychom si uvědomili svou duši?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:175-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:175-cs
   :END:
 
 
@@ -430,16 +425,16 @@ Duchovní síla má jen jeden jediný úkol: pozvednout vědomí lidstva. Okultn
 
 Někdo možná sepne ruce, ale jeho oddanost je naprosto falešná nebo povrchní. Ruce jsou sepnuté, ale mysl se potuluje někde jinde. Když sepnete ruce, musíte cítit, že samotný tlukot vašeho srdce vstupuje do nervů vašich prstů. Jestliže je zde skutečná oddanost, jak může žák udělat něco špatně? Oddanost má velmi silnou magnetickou přitažlivost, která okamžitě přitahuje Mistrův soucit a náklonnost. Dokonce i když jste ztraceni v temné jeskyni, Mistrův soucit vás okamžitě vytáhne. Bude-li mít někdo čistou oddanost i jen na minutu, udělá skutečný pokrok. Jestliže jste svou oddaností chytili někoho, kdo je laskavý, mocný a osvěcující, nebo když ta osoba chytila vás, nedá vám snad to, co má a čím je?
 
-Když Mistr dostane žákovu oddanost, odpoví nejen svým soucitem a náklonností, ale také božskou hrdostí. Božská hrdost není jako lidská hrdost. Neříká: „Ó, ten člověk je mi tak oddaný." Ne, božská hrdost říká: „Jak skvělé, že ten žák těší a projevuje božské v sobě." Je to ten druh hrdosti, kterou cítí rodič, když dítě udělá něco správně. Jelikož žák je Mistrův duchovní syn nebo dcera, Mistr cítí božskou hrdost, když žák udělá správnou věc, duchovní věc.
+Když Mistr dostane žákovu oddanost, odpoví nejen svým soucitem a náklonností, ale také božskou hrdostí. Božská hrdost není jako lidská hrdost. Neříká: „Ó, ten člověk je mi tak oddaný." ne, božská hrdost říká: „Jak skvělé, že ten žák těší a projevuje božské v sobě." Je to ten druh hrdosti, kterou cítí rodič, když dítě udělá něco správně. Jelikož žák je Mistrův duchovní syn nebo dcera, Mistr cítí božskou hrdost, když žák udělá správnou věc, duchovní věc.
 
 
 
 * Jak můžeme rozeznat skutečnou oddanost
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:176-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:176-cs
   :END:
 
 
@@ -455,9 +450,9 @@ Pravou oddanost Mistr určitě uvidí ve vašich očích. Když máte skutečnou
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:177-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:177-cs
   :END:
 
 
@@ -472,9 +467,9 @@ Můj otec a strýc z matčiny strany si byli velice blízcí. Když byl tento st
 * Proč duše přichází do popředí nejmocněji jen na naše narozeniny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:178-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:178-cs
   :END:
 
 
@@ -489,9 +484,9 @@ Stupeň duchovního vývoje není tou nejdůležitější věcí, pokud jde o to
 * Poslední řádek v „Invocation" říká: „Ty jsi jedna Pravda, jeden Život, jedna Tvář." Co znamená „jedna Tvář" v této souvislosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:179-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:179-cs
   :END:
 
 
@@ -501,9 +496,9 @@ Stupeň duchovního vývoje není tou nejdůležitější věcí, pokud jde o to
 * Je nějaký vyšší svět, kde vzniká poezie?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:180-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:180-cs
   :END:
 
 
@@ -518,9 +513,9 @@ Někdy přijde bytost a diktuje. Sri Aurobindo řekl, že jedna z jeho knih jím
 * Získali také někteří velcí skladatelé svou hudbu tím, že vstoupili do těchto světů?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:181-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:181-cs
   :END:
 
 
@@ -531,9 +526,9 @@ Někdy přijde bytost a diktuje. Sri Aurobindo řekl, že jedna z jeho knih jím
 * Jsou činy člověka smazatelné poté, co vstoupily do „Akašických záznamů"
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:182-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:182-cs
   :END:
 
 
@@ -544,9 +539,9 @@ Někdy přijde bytost a diktuje. Sri Aurobindo řekl, že jedna z jeho knih jím
 * Někdy splácíte karmu z dávných inkarnací. Co by se stalo, kdyby byla znenadání vymazána z „Akašických záznamů"?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:183-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:183-cs
   :END:
 
 
@@ -558,9 +553,9 @@ Někdy přijde bytost a diktuje. Sri Aurobindo řekl, že jedna z jeho knih jím
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:184-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:184-cs
   :END:
 
 
@@ -571,13 +566,13 @@ Někdy přijde bytost a diktuje. Sri Aurobindo řekl, že jedna z jeho knih jím
 * Znamená to, že když si tyto duše vezmou lidskou inkarnaci, nebudou mít zvířecí vlastnosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:185-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:185-cs
   :END:
 
 
-/Sri Chinmoy:/ Ne, nemusí mít zvířecí vlastnosti. Ale musíte vědět, že ne všechny zvířecí vlastnosti jsou špatné. Pravda, zvířata mají agresivitu a jiné nebožské kvality. Ale mnoho zvířat má také dynamizmus, sladkost, hravost, nadšení a náklonnost. Takže když jde duše z rostlinného přímo na lidský stupeň, může tyto kvality postrádat stejně jako agresivitu a neklid. Každý krok na cestě dává duši něco hodně pevného. Tyto duše jsou ale ochotné obětovat nadšení spolu s agresivitou, a tak řeknou: „Pojďme rovnou do lidské inkarnace, kde můžeme vědomě aspirovat a jít zase výše." Kdo ví, jestli je to skutečně obětování? Možná, že kdyby nepřeskočily zvířecí život, zůstaly by na tomto stupni velmi, velmi dlouho.
+/Sri Chinmoy:/ ne, nemusí mít zvířecí vlastnosti. ale musíte vědět, že ne všechny zvířecí vlastnosti jsou špatné. pravda, zvířata mají agresivitu a jiné nebožské kvality. ale mnoho zvířat má také dynamizmus, sladkost, hravost, nadšení a náklonnost. takže když jde duše z rostlinného přímo na lidský stupeň, může tyto kvality postrádat stejně jako agresivitu a neklid. každý krok na cestě dává duši něco hodně pevného. tyto duše jsou ale ochotné obětovat nadšení spolu s agresivitou, a tak řeknou: „Pojďme rovnou do lidské inkarnace, kde můžeme vědomě aspirovat a jít zase výše." Kdo ví, jestli je to skutečně obětování? Možná, že kdyby nepřeskočily zvířecí život, zůstaly by na tomto stupni velmi, velmi dlouho.
 
 
 
@@ -585,9 +580,9 @@ Někdy přijde bytost a diktuje. Sri Aurobindo řekl, že jedna z jeho knih jím
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:186-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:186-cs
   :END:
 
 
@@ -600,9 +595,9 @@ Psychická bytost je prostředníkem mezi duší a ostatními členy bytosti. Ta
 * Co se stane s psychickou bytostí, když tělo zemře?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:187-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:187-cs
   :END:
 
 
@@ -613,9 +608,9 @@ Psychická bytost je prostředníkem mezi duší a ostatními členy bytosti. Ta
 * Co určuje, jak psychická bytost poroste?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:188-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:188-cs
   :END:
 
 
@@ -626,9 +621,9 @@ Psychická bytost je prostředníkem mezi duší a ostatními členy bytosti. Ta
 * Je nezbytné rozvinout si psychickou bytost předtím, než realizujete Boha, nebo můžete realizovat Boha bez psychické bytosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:189-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:189-cs
   :END:
 
 
@@ -639,9 +634,9 @@ Psychická bytost je prostředníkem mezi duší a ostatními členy bytosti. Ta
 * Může mít člověk více než jednu psychickou bytost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:190-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:190-cs
   :END:
 
 
@@ -652,9 +647,9 @@ Psychická bytost je prostředníkem mezi duší a ostatními členy bytosti. Ta
 * Věříte na duchy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:191-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:191-cs
   :END:
 
 
@@ -665,9 +660,9 @@ Psychická bytost je prostředníkem mezi duší a ostatními členy bytosti. Ta
 * Ode dne, kdy jsem přišel na cestu, mám starost o vaši bezpečnost na veřejnosti. Jak mohu zajistit, aby má starost pouze nezvala špatné síly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:192-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:192-cs
   :END:
 
 
@@ -680,13 +675,13 @@ Od té doby, co jsem přišel do Ameriky, nepřátelské nebo ničivé síly se 
 * Jaký je nejlepší způsob, jak být šťastný?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:193-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:193-cs
   :END:
 
 
-/Sri Chinmoy:/ Stále se srovnáváte s druhými. Stojíte přede mnou a já se dívám přímo na vás. Vy se také díváte na mne, ale vaše mysl odešla na rybí trh a pohybuje se sem a tam. Zoufale se pokoušíte zůstat buď v zahradě svého vlastního srdce, nebo v zahradě mého srdce. Ale vaše mysl říká: „Ó, on nebo ona dostává více požehnání, více soucitu, více lásky, více zájmu než já." Někdy to vaše mysl nedělá vědomě, ale děje se to nevědomě. Dokonce i když se dotknete ohně nevědomě, spálíte si ruku.
+/Sri Chinmoy:/ stále se srovnáváte s druhými. stojíte přede mnou a já se dívám přímo na vás. vy se také díváte na mne, ale vaše mysl odešla na rybí trh a pohybuje se sem a tam. zoufale se pokoušíte zůstat buď v zahradě svého vlastního srdce, nebo v zahradě mého srdce. ale vaše mysl říká: „Ó, on nebo ona dostává více požehnání, více soucitu, více lásky, více zájmu než já." Někdy to vaše mysl nedělá vědomě, ale děje se to nevědomě. Dokonce i když se dotknete ohně nevědomě, spálíte si ruku.
 
 Možná, že v tu chvíli, když se na vás dívám, vědomě nemyslíte na druhé. Ale deset dnů nebo deset týdnů nebo deset měsíců jste tak činili vědomě. Nyní je to nevědomé, ale co tehdy, kdy jste na druhé mysleli vědomě, když jste byli doma nebo v kanceláři? Kdybyste si pokaždé zapsali, kdy jste během dne mysleli na Boha, byli byste šokováni tím, kolikrát jste zároveň mysleli na někoho jiného s žárlivostí nebo soupeřivostí. Když je tomu tak, v tu chvíli nemyslíte na Boha nebo na svého Gurua. Myslíte na to, jak se učinit šťastnými svým vlastním způsobem.
 
@@ -696,9 +691,9 @@ Lidé říkají: „Už jsem s tebou tolik let, a přesto jsem nešťastný." Al
 
 Získat nebeskou znalost neboli osvícení -- znalost, která vás sjednocuje s Nejvyšším, s Absolutním Nejvyšším, s Univerzálním Vědomím -trvá nekonečně déle. Myslíte si, že se tak stane za rok, za deset let nebo dokonce za třicet let? Ó Bože, tak to není! Stát se skutečným hledajícím a milovníkem Boha trvá inkarnaci za inkarnaci. Dosáhnout vědomé, stálé, bezesné a bezdeché jednoty s Boží Vůlí není jako vypít vodu. Chce to čas a obrovskou trpělivost. Nejsou to jen mí žáci, ale také žáci jiných Mistrů, kteří nemají tento druh trpělivosti.
 
-Snažím se vše pro své žáky zjednodušit, ale oni se snaží vše učinit složité. Řeknu: „Přijďte a dejte mi květinu, nebo prostě jen přijďte ke mně." Ale oni řeknou: „Když jen přijdu ke Guruovi nebo mu jen dám květinu, je to moc snadné! Abych dokázal, jak moc jej miluji, nejdříve si useknu ruce a nohy; vyloupu si oči." To je to, co se děje. Řekl jsem vám, že abyste dokázali svou lásku ke mně, musíte si vyloupat oči nebo si useknout ruce a nohy? Ne, jen jsem vás požádal, abyste ke mně přišli s čímkoli, co máte a co jste, ať jste ve svém nejčistším vědomí, nebo ve svém nejhorším vědomí.
+Snažím se vše pro své žáky zjednodušit, ale oni se snaží vše učinit složité. Řeknu: „přijďte a dejte mi květinu, nebo prostě jen přijďte ke mně." ale oni řeknou: „Když jen přijdu ke Guruovi nebo mu jen dám květinu, je to moc snadné! Abych dokázal, jak moc jej miluji, nejdříve si useknu ruce a nohy; vyloupu si oči." To je to, co se děje. Řekl jsem vám, že abyste dokázali svou lásku ke mně, musíte si vyloupat oči nebo si useknout ruce a nohy? Ne, jen jsem vás požádal, abyste ke mně přišli s čímkoli, co máte a co jste, ať jste ve svém nejčistším vědomí, nebo ve svém nejhorším vědomí.
 
-Staral se Pán Kršna, když hrával na flétnu, o to, co v tu chvíli dělají /gópie/? Ať už krmily své děti nebo dělaly domácí práce, když uslyšely flétnu, prostě okamžitě běžely za Kršnou. Volání přišlo! Také ve vašem případě volání přišlo. Řekl Mistr, že musíte udělat obrovské oběti? Ne, Mistr neříká: „Obětuj a pak ke mně přijď." On jen říká: „Přijď ke mně!"
+Staral se Pán Kršna, když hrával na flétnu, o to, co v tu chvíli dělají /gópie/? Ať už krmily své děti nebo dělaly domácí práce, když uslyšely flétnu, prostě okamžitě běžely za Kršnou. Volání přišlo! Také ve vašem případě volání přišlo. Řekl Mistr, že musíte udělat obrovské oběti? Ne, Mistr neříká: „obětuj a pak ke mně přijď." on jen říká: „Přijď ke mně!"
 
 Jak už jsem řekl, cesta je prostá a metoda je prostá. Mistr vám řekne, abyste udělali něco prostého, ale vaše mysl se to snaží zkomplikovat, aby dokázala, kolik dokážete obětovat. Duchovní život je záležitostí jednoty s Vůlí Nejvyššího. Bůh dal každému žákovi zdravý rozum. Když Mistr řekne: „Pojď sem!" nemusíte ztrácet čas hledáním květiny nebo sklenice vody nebo kousku cukroví, které byste mu přinesli. Ne, prostě přijďte!
 
@@ -709,13 +704,13 @@ Je to samotná jednota s Vůlí Nejvyššího, která vás může učinit skute�
 * Jak mohu poznat, kdo skutečně jsem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:194-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:194-cs
   :END:
 
 
-/Sri Chinmoy:/ Rámana Mahariši, jenž byl jedním z indických Himalájských duchovních Mistrů, měl jen jednu otázku: „Kdo jsem já?" Následoval jógu poznání nebo moudrosti. Nehledě na to, jak kdokoli odpoví na tuto otázku, odpověď bude jeho oddanými a dokonce i mnou nazvána špatnou nebo neodpovídající, neboť na ni nelze odpovědět pouhými slovy.
+/Sri Chinmoy:/ rámana mahariši, jenž byl jedním z indických himalájských duchovních mistrů, měl jen jednu otázku: „Kdo jsem já?" Následoval jógu poznání nebo moudrosti. Nehledě na to, jak kdokoli odpoví na tuto otázku, odpověď bude jeho oddanými a dokonce i mnou nazvána špatnou nebo neodpovídající, neboť na ni nelze odpovědět pouhými slovy.
 
 Budeme-li se pokoušet odpovědět si na tuto otázku svou lidskou myslí, svým lidským intelektem, svou lidskou moudrostí nebo vnímáním, pak to bude vždy chybné. V našich životech jsme se setkali s tolika odrazujícími a nepovzbudivými zkušenostmi. Žijeme-li v mysli, myslíme si: „Nedosáhl jsem toho a toho. Nevrostl jsem do toho a toho. Na cestě ke svému cíli jsem udělal milióny chyb. Tak jak se mohu považovat za dítě Boha?"
 
@@ -726,13 +721,13 @@ Ale když naše odpověď přichází ze srdce, řekneme: „Náležím jen své
 * Myslí si někdy Nejvyšší, že udělal nějaké chyby, když stvořil svět?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:195-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:195-cs
   :END:
 
 
-/Sri Chinmoy:/ Když jsem ve svém rozpustilém vědomí, možná vtipkuji a říkám, že udělal tu nejhorší chybu. Ale když mluvím vážně, když neříkám nesmysly nebo si ani nepředstavuji nesmysly, cítím, že můj Pán Milovaný Nevyšší nikdy neudělal žádnou chybu a nikdy neudělá žádnou chybu. Pro Něj neexistuje nic takového jako chyba. Pro Něj existuje jen jedna Skutečnost: Sen. Tím On je. Když se podíváme na Boha-Sen z různých úhlů, nazveme tyto úhly skutečnostmi. Ale vlastně je to Sen, který je v procesu rozkvétání do skutečnosti. To, o čem si myslíme, že je skutečnost, ve vnitřním světě neexistuje. Existuje pouze Sen.
+/Sri Chinmoy:/ když jsem ve svém rozpustilém vědomí, možná vtipkuji a říkám, že udělal tu nejhorší chybu. ale když mluvím vážně, když neříkám nesmysly nebo si ani nepředstavuji nesmysly, cítím, že můj pán milovaný nevyšší nikdy neudělal žádnou chybu a nikdy neudělá žádnou chybu. pro něj neexistuje nic takového jako chyba. pro něj existuje jen jedna skutečnost: Sen. Tím On je. Když se podíváme na Boha-Sen z různých úhlů, nazveme tyto úhly skutečnostmi. Ale vlastně je to Sen, který je v procesu rozkvétání do skutečnosti. To, o čem si myslíme, že je skutečnost, ve vnitřním světě neexistuje. Existuje pouze Sen.
 
 Můžete říci, že Bůh má milióny a miliardy Snů, anebo jen jeden Sen. Je to jako strom, který vytváří nesčetné listy, květy a plody. Strom, kterým je Bůh, ztělesňuje univerzální Sen a také všechny jednotlivé Sny. Takže Bůh Sám je Snem, který rozkvétá v každém okamžiku, Snem, který ztělesňuje Vizi Věčnosti, Srdce Nekonečnosti a Život Nesmrtelnosti. Tento Sen má v sobě sílu vůle, nadšení, vizi, stvoření, projevení -- všechno. Takže jak by mohl tento Sen udělat nějakou chybu? Když je nejvyšší Absolutní Pán Vším, jak může udělat chybu? Když se Jej pokusíme rozdělit do oddělených aspektů, které může mysl uchopit, pak řekneme, že některá Jeho část je krásnější než jiná. Když ale vidíme a cítíme Jeho Celistvost, vidíme, že je nekonečnou Dokonalostí a uvnitř Jeho Transcendentální Dokonalosti nemůže být žádná chyba.
 
@@ -750,9 +745,9 @@ Pokusme se tedy milovat Boha a buďme Mu oddaní a odevzdaní, neboť naše bož
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:196-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:196-cs
   :END:
 
 
@@ -763,9 +758,9 @@ Pokusme se tedy milovat Boha a buďme Mu oddaní a odevzdaní, neboť naše bož
 * V době, kdy jste mluvil o tom, že Slunce stárne, říkal jste také, že Nejvyšší je po tisících letech, co užíval svůj Soucit, připraven použít své Světlo Spravedlnosti. Jak jsou tyto dvě věci spojené?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:197-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:197-cs
   :END:
 
 
@@ -777,9 +772,9 @@ Pokusme se tedy milovat Boha a buďme Mu oddaní a odevzdaní, neboť naše bož
 * Je ztráta jasu Slunce fyzikálním fenoménem, nebo je způsobena nedostatkem aspirace na Zemi?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:198-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:198-cs
   :END:
 
 
@@ -790,9 +785,9 @@ Pokusme se tedy milovat Boha a buďme Mu oddaní a odevzdaní, neboť naše bož
 * Říkal jste, že nebožské síly jsou stále bdělé a plné energie a hledají nějaké otevření se, kdežto božské síly jsou klidnější, protože vědí, že Nejvyšší nakonec zvítězí. Je něco, co můžeme dělat, abychom inspirovali božské síly, aby byly tak bdělé a energetické jako nebožské síly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:199-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:199-cs
   :END:
 
 
@@ -809,9 +804,9 @@ Můžeme oceňovat, obdivovat a zbožňovat určité postavy světa, ale nemáme
 * Když dinosauři vyhynuli, přestaly existovat také jejich duše, nebo jsou na zemi lidé, kteří kdysi byli dinosaury?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:200-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:200-cs
   :END:
 
 
@@ -824,9 +819,9 @@ Můžeme oceňovat, obdivovat a zbožňovat určité postavy světa, ale nemáme
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:201-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:201-cs
   :END:
 
 
@@ -847,31 +842,16 @@ Když dva týmy hrají fotbal, velmi často vítězný tým gratuluje poražené
 * Je žal formou negativity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:202-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sca:202-cs
   :END:
 
 
-/Sri Chinmoy:/ Někdy lidé trpí, když členové jejich nejbližší rodiny odejdou, i když s tím člověkem už roky neudržovali velké spojení. Když takzvaný drahý zemře, najednou cítí, že museí být nějaký zvláštní důvod, proč přišel do jejich rodiny. V tu chvíli přijde jakýsi smutek: „Měl jsem být lepší a věnovat mu víc laskavosti a zájmu." Tento pocit můžeme nazvat zájmem.
+/Sri Chinmoy:/ někdy lidé trpí, když členové jejich nejbližší rodiny odejdou, i když s tím člověkem už roky neudržovali velké spojení. když takzvaný drahý zemře, najednou cítí, že museí být nějaký zvláštní důvod, proč přišel do jejich rodiny. v tu chvíli přijde jakýsi smutek: „Měl jsem být lepší a věnovat mu víc laskavosti a zájmu." Tento pocit můžeme nazvat zájmem.
 
 Když je někdo duchovně velmi vyspělý, může na krátkou dobu zažít žal, když jeho milovaný zemře. Ale jakmile vstoupí do svého nejvyššího vědomí, již více žal nezažívá. V tu chvíli cítí jen tance jednoty.
 
 Lidský žal či lítost očišťuje aspirující a vyvíjející se srdce. Představa, že žal očišťuje duši, je celá nesmyslná. Duše nepotřebuje být očištěna; už je čistá. Co je očišťováno, je srdce. Smutek může osvítit srdce.
 
 Neexistuje však žádné přímé spojení mezi žalem a nepřátelskými nebo negativními silami. Skrze svou modlitbu a meditaci ucítíme, že náš drahý je šťastný někde jinde. Čím hlouběji můžeme se svou modlitbou a meditací jít, tím zřetelnější pro nás je, že člověk, který nás fyzicky opustil, je duchovně s námi a kolem nás. Můžeme-li cítit jednotu s člověkem, kterého jsme ztratili, náš žal zmizí.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

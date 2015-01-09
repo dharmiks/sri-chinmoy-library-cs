@@ -1,10 +1,4 @@
-#+TITLE: Pouliční žebrák
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Pouliční žebrák
 
 
   :PROPERTIES
@@ -25,7 +19,7 @@
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:1-cs
+  :cite-key: stbg:1-cs
   :END:
 
 
@@ -44,7 +38,7 @@ Milionkrát!
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:2-cs
+  :cite-key: stbg:2-cs
   :END:
 
 
@@ -62,7 +56,7 @@ Miliardkrát!
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:3-cs
+  :cite-key: stbg:3-cs
   :END:
 
 
@@ -83,7 +77,7 @@ v Jeho usmívající se Zahradě Srdce.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:4-cs
+  :cite-key: stbg:4-cs
   :END:
 
 
@@ -102,7 +96,7 @@ okamžitě stane mým.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:5-cs
+  :cite-key: stbg:5-cs
   :END:
 
 
@@ -120,7 +114,7 @@ a posiluje srdce.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:6-cs
+  :cite-key: stbg:6-cs
   :END:
 
 
@@ -140,7 +134,7 @@ Srdcem zaplaveným Božím Soucitem.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:7-cs
+  :cite-key: stbg:7-cs
   :END:
 
 
@@ -161,7 +155,7 @@ a výživou plodů.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:8-cs
+  :cite-key: stbg:8-cs
   :END:
 
 
@@ -178,7 +172,7 @@ Přikládáme takovou důležitost
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:9-cs
+  :cite-key: stbg:9-cs
   :END:
 
 
@@ -196,7 +190,7 @@ bělosti svého srdce.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:10-cs
+  :cite-key: stbg:10-cs
   :END:
 
 
@@ -214,7 +208,7 @@ musí zmizet.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:11-cs
+  :cite-key: stbg:11-cs
   :END:
 
 
@@ -231,7 +225,7 @@ jak mi poroučet.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:12-cs
+  :cite-key: stbg:12-cs
   :END:
 
 
@@ -247,7 +241,7 @@ jak mě povznést.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:13-cs
+  :cite-key: stbg:13-cs
   :END:
 
 
@@ -266,7 +260,7 @@ odevzdá se.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:14-cs
+  :cite-key: stbg:14-cs
   :END:
 
 
@@ -282,7 +276,7 @@ zamlžuje mysl.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:15-cs
+  :cite-key: stbg:15-cs
   :END:
 
 
@@ -299,7 +293,7 @@ rozjasňuje mysl.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:16-cs
+  :cite-key: stbg:16-cs
   :END:
 
 
@@ -316,7 +310,7 @@ ale přeměna.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:17-cs
+  :cite-key: stbg:17-cs
   :END:
 
 
@@ -334,7 +328,7 @@ zlatou Korunu Boha.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:18-cs
+  :cite-key: stbg:18-cs
   :END:
 
 
@@ -350,7 +344,7 @@ dívají na krásu.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:19-cs
+  :cite-key: stbg:19-cs
   :END:
 
 
@@ -368,7 +362,7 @@ Krásou Boha.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:20-cs
+  :cite-key: stbg:20-cs
   :END:
 
 
@@ -384,7 +378,7 @@ nepřetrvá.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:21-cs
+  :cite-key: stbg:21-cs
   :END:
 
 
@@ -401,7 +395,7 @@ přetrvá navždy.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:22-cs
+  :cite-key: stbg:22-cs
   :END:
 
 
@@ -418,7 +412,7 @@ a ne, co život je.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:23-cs
+  :cite-key: stbg:23-cs
   :END:
 
 
@@ -435,7 +429,7 @@ pracuje, aby žilo.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:24-cs
+  :cite-key: stbg:24-cs
   :END:
 
 
@@ -453,7 +447,7 @@ na Boží Práci.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:25-cs
+  :cite-key: stbg:25-cs
   :END:
 
 
@@ -472,7 +466,7 @@ to nelidské v nás.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:26-cs
+  :cite-key: stbg:26-cs
   :END:
 
 
@@ -489,7 +483,7 @@ odchodem do důchodu ze života.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:27-cs
+  :cite-key: stbg:27-cs
   :END:
 
 
@@ -507,7 +501,7 @@ jak vzbudit strach.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:28-cs
+  :cite-key: stbg:28-cs
   :END:
 
 
@@ -523,7 +517,7 @@ jak utěšit.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:29-cs
+  :cite-key: stbg:29-cs
   :END:
 
 
@@ -542,7 +536,7 @@ Pánem času.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:30-cs
+  :cite-key: stbg:30-cs
   :END:
 
 
@@ -558,7 +552,7 @@ na nemoc mysli.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:31-cs
+  :cite-key: stbg:31-cs
   :END:
 
 
@@ -575,7 +569,7 @@ komedie života.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:32-cs
+  :cite-key: stbg:32-cs
   :END:
 
 
@@ -591,7 +585,7 @@ Přátelství pluje.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:33-cs
+  :cite-key: stbg:33-cs
   :END:
 
 
@@ -609,7 +603,7 @@ a ne před sebou.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:34-cs
+  :cite-key: stbg:34-cs
   :END:
 
 
@@ -626,7 +620,7 @@ Snaž se zapomenout.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:35-cs
+  :cite-key: stbg:35-cs
   :END:
 
 
@@ -644,7 +638,7 @@ je sebedávání.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:36-cs
+  :cite-key: stbg:36-cs
   :END:
 
 
@@ -661,7 +655,7 @@ Bůh je celý tvůj.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:37-cs
+  :cite-key: stbg:37-cs
   :END:
 
 
@@ -679,7 +673,7 @@ u Božích Nohou.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:38-cs
+  :cite-key: stbg:38-cs
   :END:
 
 
@@ -695,7 +689,7 @@ sestupuje bezpodmínečně.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:39-cs
+  :cite-key: stbg:39-cs
   :END:
 
 
@@ -712,7 +706,7 @@ stoupá rychle.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:40-cs
+  :cite-key: stbg:40-cs
   :END:
 
 
@@ -730,7 +724,7 @@ tou nejsilnější silou.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:41-cs
+  :cite-key: stbg:41-cs
   :END:
 
 
@@ -748,7 +742,7 @@ dodáváme sílu tím,
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:42-cs
+  :cite-key: stbg:42-cs
   :END:
 
 
@@ -766,7 +760,7 @@ k Nohám Boha.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:43-cs
+  :cite-key: stbg:43-cs
   :END:
 
 
@@ -784,7 +778,7 @@ za svůj vlastní osud.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:44-cs
+  :cite-key: stbg:44-cs
   :END:
 
 
@@ -801,7 +795,7 @@ co máš.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:45-cs
+  :cite-key: stbg:45-cs
   :END:
 
 
@@ -818,7 +812,7 @@ a mé vše.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:46-cs
+  :cite-key: stbg:46-cs
   :END:
 
 
@@ -835,7 +829,7 @@ a známé.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:47-cs
+  :cite-key: stbg:47-cs
   :END:
 
 
@@ -853,7 +847,7 @@ a nikoho jiného.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:48-cs
+  :cite-key: stbg:48-cs
   :END:
 
 
@@ -869,7 +863,7 @@ ve vypůjčeném čase.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:49-cs
+  :cite-key: stbg:49-cs
   :END:
 
 
@@ -887,7 +881,7 @@ Věčnosti.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:50-cs
+  :cite-key: stbg:50-cs
   :END:
 
 
@@ -903,7 +897,7 @@ Aspirace říká:
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:51-cs
+  :cite-key: stbg:51-cs
   :END:
 
 
@@ -920,7 +914,7 @@ Zasvěcení říká:
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:52-cs
+  :cite-key: stbg:52-cs
   :END:
 
 
@@ -936,7 +930,7 @@ Odevzdání říká:
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:53-cs
+  :cite-key: stbg:53-cs
   :END:
 
 
@@ -952,7 +946,7 @@ vnější plod.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:54-cs
+  :cite-key: stbg:54-cs
   :END:
 
 
@@ -969,7 +963,7 @@ vnitřní semínko.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:55-cs
+  :cite-key: stbg:55-cs
   :END:
 
 
@@ -986,7 +980,7 @@ vnější svět.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:56-cs
+  :cite-key: stbg:56-cs
   :END:
 
 
@@ -999,7 +993,7 @@ o vnitřním světě.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:57-cs
+  :cite-key: stbg:57-cs
   :END:
 
 
@@ -1017,7 +1011,7 @@ zajatcem mé lásky.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:58-cs
+  :cite-key: stbg:58-cs
   :END:
 
 
@@ -1035,7 +1029,7 @@ abych si udělal čas na hraní.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:59-cs
+  :cite-key: stbg:59-cs
   :END:
 
 
@@ -1053,7 +1047,7 @@ není
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:60-cs
+  :cite-key: stbg:60-cs
   :END:
 
 
@@ -1070,7 +1064,7 @@ schůzkou s Bohem.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:61-cs
+  :cite-key: stbg:61-cs
   :END:
 
 
@@ -1087,7 +1081,7 @@ není temnota.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:62-cs
+  :cite-key: stbg:62-cs
   :END:
 
 
@@ -1103,7 +1097,7 @@ je Boží jednota.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:63-cs
+  :cite-key: stbg:63-cs
   :END:
 
 
@@ -1121,7 +1115,7 @@ ubíral mou cestou.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:64-cs
+  :cite-key: stbg:64-cs
   :END:
 
 
@@ -1139,7 +1133,7 @@ Boží Cestu.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:65-cs
+  :cite-key: stbg:65-cs
   :END:
 
 
@@ -1156,7 +1150,7 @@ zamaskovaná Tvář Boha.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:66-cs
+  :cite-key: stbg:66-cs
   :END:
 
 
@@ -1173,7 +1167,7 @@ než mé srdce hladovějící po Bohu.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:67-cs
+  :cite-key: stbg:67-cs
   :END:
 
 
@@ -1190,7 +1184,7 @@ síla dolaru.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:68-cs
+  :cite-key: stbg:68-cs
   :END:
 
 
@@ -1206,7 +1200,7 @@ Záplava Boha.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:69-cs
+  :cite-key: stbg:69-cs
   :END:
 
 
@@ -1223,7 +1217,7 @@ do prázdnoty mého srdce.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:70-cs
+  :cite-key: stbg:70-cs
   :END:
 
 
@@ -1239,7 +1233,7 @@ do osamělosti mé mysli.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:71-cs
+  :cite-key: stbg:71-cs
   :END:
 
 
@@ -1256,7 +1250,7 @@ Proč?
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:72-cs
+  :cite-key: stbg:72-cs
   :END:
 
 
@@ -1272,7 +1266,7 @@ Proč ne?
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:73-cs
+  :cite-key: stbg:73-cs
   :END:
 
 
@@ -1290,7 +1284,7 @@ Plakal pro mé zdokonalení.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:74-cs
+  :cite-key: stbg:74-cs
   :END:
 
 
@@ -1307,7 +1301,7 @@ Pláču pro Uspokojení Boha.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:75-cs
+  :cite-key: stbg:75-cs
   :END:
 
 
@@ -1326,7 +1320,7 @@ pouze jeden pro druhého.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:76-cs
+  :cite-key: stbg:76-cs
   :END:
 
 
@@ -1343,7 +1337,7 @@ cítím, že Bůh je pro mě.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:77-cs
+  :cite-key: stbg:77-cs
   :END:
 
 
@@ -1362,7 +1356,7 @@ jsem si naprosto jistý,
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:78-cs
+  :cite-key: stbg:78-cs
   :END:
 
 
@@ -1379,7 +1373,7 @@ je semínkem života.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:79-cs
+  :cite-key: stbg:79-cs
   :END:
 
 
@@ -1395,7 +1389,7 @@ je rostlinou života.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:80-cs
+  :cite-key: stbg:80-cs
   :END:
 
 
@@ -1414,7 +1408,7 @@ a uspokojení z nasycení plodů.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:81-cs
+  :cite-key: stbg:81-cs
   :END:
 
 
@@ -1430,7 +1424,7 @@ se nedá oddálit.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:82-cs
+  :cite-key: stbg:82-cs
   :END:
 
 
@@ -1449,7 +1443,7 @@ bude On počítat mé slzy.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:83-cs
+  :cite-key: stbg:83-cs
   :END:
 
 
@@ -1466,7 +1460,7 @@ nezrozenou skutečností.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:84-cs
+  :cite-key: stbg:84-cs
   :END:
 
 
@@ -1483,7 +1477,7 @@ pokořením Mistra.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:85-cs
+  :cite-key: stbg:85-cs
   :END:
 
 
@@ -1500,7 +1494,7 @@ sebezkázou žáka.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:86-cs
+  :cite-key: stbg:86-cs
   :END:
 
 
@@ -1518,7 +1512,7 @@ pro úsměvy lidstva.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:87-cs
+  :cite-key: stbg:87-cs
   :END:
 
 
@@ -1535,7 +1529,7 @@ miluje mračna.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:88-cs
+  :cite-key: stbg:88-cs
   :END:
 
 
@@ -1553,7 +1547,7 @@ raduje z hvězd.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:89-cs
+  :cite-key: stbg:89-cs
   :END:
 
 
@@ -1570,7 +1564,7 @@ zkoušení sebe sama.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:90-cs
+  :cite-key: stbg:90-cs
   :END:
 
 
@@ -1588,7 +1582,7 @@ vzývání Boha.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:91-cs
+  :cite-key: stbg:91-cs
   :END:
 
 
@@ -1605,7 +1599,7 @@ buď pravdivé samo k  sobě!“
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:92-cs
+  :cite-key: stbg:92-cs
   :END:
 
 
@@ -1623,7 +1617,7 @@ ihned se znásobí.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:93-cs
+  :cite-key: stbg:93-cs
   :END:
 
 
@@ -1641,7 +1635,7 @@ duše s přidanou vůlí.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:94-cs
+  :cite-key: stbg:94-cs
   :END:
 
 
@@ -1658,7 +1652,7 @@ Božím Způsobem.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:95-cs
+  :cite-key: stbg:95-cs
   :END:
 
 
@@ -1676,7 +1670,7 @@ svým způsobem.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:96-cs
+  :cite-key: stbg:96-cs
   :END:
 
 
@@ -1693,7 +1687,7 @@ nesmírně nebezpečný.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:97-cs
+  :cite-key: stbg:97-cs
   :END:
 
 
@@ -1711,7 +1705,7 @@ nanejvýš drahocenná.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:98-cs
+  :cite-key: stbg:98-cs
   :END:
 
 
@@ -1729,7 +1723,7 @@ mé plné aspiraci po Bohu.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:99-cs
+  :cite-key: stbg:99-cs
   :END:
 
 
@@ -1749,7 +1743,7 @@ je milovat svět.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:100-cs
+  :cite-key: stbg:100-cs
   :END:
 
 
@@ -1766,7 +1760,7 @@ nového srdce.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:101-cs
+  :cite-key: stbg:101-cs
   :END:
 
 
@@ -1784,7 +1778,7 @@ nového života.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:102-cs
+  :cite-key: stbg:102-cs
   :END:
 
 
@@ -1801,7 +1795,7 @@ svou úlohu osvícení.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:103-cs
+  :cite-key: stbg:103-cs
   :END:
 
 
@@ -1820,7 +1814,7 @@ na bojišti života.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:104-cs
+  :cite-key: stbg:104-cs
   :END:
 
 
@@ -1837,7 +1831,7 @@ k Božímu Paláci.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:105-cs
+  :cite-key: stbg:105-cs
   :END:
 
 
@@ -1855,7 +1849,7 @@ k chrámu mého srdce.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:106-cs
+  :cite-key: stbg:106-cs
   :END:
 
 
@@ -1872,7 +1866,7 @@ je nejzazší vítězství.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:107-cs
+  :cite-key: stbg:107-cs
   :END:
 
 
@@ -1890,7 +1884,7 @@ vzývat Světlo?
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:108-cs
+  :cite-key: stbg:108-cs
   :END:
 
 
@@ -1907,7 +1901,7 @@ znamená to,
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:109-cs
+  :cite-key: stbg:109-cs
   :END:
 
 
@@ -1924,7 +1918,7 @@ znamená to,
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:110-cs
+  :cite-key: stbg:110-cs
   :END:
 
 
@@ -1942,7 +1936,7 @@ je odpovědí.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:111-cs
+  :cite-key: stbg:111-cs
   :END:
 
 
@@ -1958,7 +1952,7 @@ se nemůže přiblížit Bohu.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:112-cs
+  :cite-key: stbg:112-cs
   :END:
 
 
@@ -1977,7 +1971,7 @@ nemůže zůstat bez povšimnutí.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:113-cs
+  :cite-key: stbg:113-cs
   :END:
 
 
@@ -1995,7 +1989,7 @@ se může stát světem.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:114-cs
+  :cite-key: stbg:114-cs
   :END:
 
 
@@ -2014,7 +2008,7 @@ k hladu po nadvládě.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:115-cs
+  :cite-key: stbg:115-cs
   :END:
 
 
@@ -2033,7 +2027,7 @@ vytváří domovy.
 
   :PROPERTIES
   :genre: poem
-  :cite-key: STBG:116-cs
+  :cite-key: stbg:116-cs
   :END:
 
 
@@ -2045,16 +2039,3 @@ strážcem
 Dveří Božího Srdce.
 
 #+END_VERSE
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

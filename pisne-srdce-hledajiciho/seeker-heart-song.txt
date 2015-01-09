@@ -1,20 +1,15 @@
-#+TITLE: Písně srdce hledajícího
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Písně srdce hledajícího
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: SHS-cs
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2007
+  :publisher: Madal Bal
+  :cite-key: SHS-cs
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -24,10 +19,10 @@
 19. dubna 1983 následující přednášku a potom odpověděl na několik otázek.]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SHS:1-cs
-  :DATE-EVENT: 1983-04-19
+  :genre: discourse
+  :keywords:
+  :cite-key: shs:1-cs
+  :date-event: 1983-04-19
   :END:
 
 
@@ -49,7 +44,7 @@ Naše zasvěcení a realizace nám říkají, že vždy musíme jít dál, dál,
 
 Realizace je květina krásy a ovoce povinnosti. Květina krásy je naše srdce a ovoce povinnosti je náš život. Krása je naše sebedávání; povinnost je naše stávání se Bohem. Krása odhaluje Nekonečnost v konečném; povinnost projevuje Nesmrtelné ve smrtelném. Krása říká hledajícímu Boha, že jeho zdroj je v Bohu. Povinnost říká hledajícímu Boha, že jeho život je jen pro Boha, pro Boha samotného.
 
-Indická filozofie, indické náboženství a indická duchovnost mají od pradávných časů jediné poselství -- poselství realizace neboli „Poznej sám sebe“. Když hledající pozná sám sebe, prohlašuje: /„Aham Brahmasmi“/ -- „Jsem Brahman, Jeden bez druhého.“ Stejné poselství se objevilo zde na Západě, když Spasitel prohlásil: „Já a můj Otec jsme jedním.“ Toto je nejvznešenější poznání duše.
+Indická filozofie, indické náboženství a indická duchovnost mají od pradávných časů jediné poselství -- poselství realizace neboli „Poznej sám sebe“. Když hledající pozná sám sebe, prohlašuje: /„aham brahmasmi“/ -- „jsem brahman, jeden bez druhého.“ stejné poselství se objevilo zde na západě, když spasitel prohlásil: „Já a můj Otec jsme jedním.“ Toto je nejvznešenější poznání duše.
 
 Každý člověk si musí vyvinout určitou vnitřní sebedisciplínu, aby zažil realizaci Boha. Nejjednodušší způsob, jak se v rámci vnitřní sebedisciplíny přiblížit k nejvyšší Skutečnosti, je pomocí lásky, oddanosti a odevzdání. 
 
@@ -69,9 +64,9 @@ Bůh nám říká: „Mé dítě, mám pro tebe nesčetně způsobů, jak Mě re
 * Otázky a odpovědi
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SHS:2e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: shs:2e1-cs
   :END:
 
 
@@ -82,10 +77,10 @@ Bůh nám říká: „Mé dítě, mám pro tebe nesčetně způsobů, jak Mě re
 * Profesor David Eckel: Sri Chinmoy bude odpovídat na duchovní otázky. Jestliže máte nějaká témata, na která byste se chtěli zeptat a která vychází z vašeho studia hinduistických mýtů a rituálů nebo ze studia hinduistické filozofie, teď je vhodná příležitost, abyste se zeptali.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SHS:2-cs
-  :DATE-EVENT: 1983-04-19
+  :genre: qa
+  :keywords:
+  :cite-key: shs:2-cs
+  :date-event: 1983-04-19
   :END:
 
 
@@ -105,15 +100,15 @@ Když se přibližujeme ke Skutečnosti prostřednictvím srdce a ztotožňujeme
 * Student: Řekl jste, že jednota žije v srdci, ne v mysli. Ale abychom si byli vědomi srdce, nemusíme nejprve vědět, čeho se snažíme dosáhnout, mít nějakou představu o tom, kam jdeme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SHS:3-cs
-  :DATE-EVENT: 1983-04-19
+  :genre: qa
+  :keywords:
+  :cite-key: shs:3-cs
+  :date-event: 1983-04-19
   :END:
 
 
 
-/Sri Chinmoy:/ Mluvme o tom, co od života chceme, místo toho, k čemu směřujeme nebo čeho chceme dosáhnout. Jestliže to, co opravdu chceme, je štěstí, jestliže to, co opravdu chceme, je mír a blaženost, pak budeme plakat po těchto věcech. Důvod, proč musíme jít do srdce, je ten, že srdce po těchto věcech hladoví a srdce také ví, jak plakat. Dokud neucítím a neprojevím svůj hlad, kdo mi dá najíst? Mysl tento druh hladu nemá. A i když se mysli podaří v sobě tento hlad vyvolat, v okamžiku, kdy jí někdo jídlo přinese, bude pochybovat a podezírat. Mysl řekne: „Je to jídlo, nebo je to jed?“
+/Sri Chinmoy:/ mluvme o tom, co od života chceme, místo toho, k čemu směřujeme nebo čeho chceme dosáhnout. jestliže to, co opravdu chceme, je štěstí, jestliže to, co opravdu chceme, je mír a blaženost, pak budeme plakat po těchto věcech. důvod, proč musíme jít do srdce, je ten, že srdce po těchto věcech hladoví a srdce také ví, jak plakat. dokud neucítím a neprojevím svůj hlad, kdo mi dá najíst? mysl tento druh hladu nemá. a i když se mysli podaří v sobě tento hlad vyvolat, v okamžiku, kdy jí někdo jídlo přinese, bude pochybovat a podezírat. mysl řekne: „Je to jídlo, nebo je to jed?“
 
 Když ve vnějším životě dítě pláče, jeho matka ihned přispěchá a dá mu, co potřebuje. Dítě může být i v jiném pokoji, ale ona přispěchá a dá mu jídlo nebo hračku nebo cokoliv, po čem pláče. Podobně, pokud ve svém srdci upřímně pláčeme po nejvyšší Skutečnosti, pak nehledě na to, kde jsme, Bůh přispěchá, aby nám ji dal. 
 
@@ -124,15 +119,15 @@ Mysl vždy pochybuje a podezřívá. V této chvíli mě mysl přesvědčí, že
 * Student: Mluvil jste o třech typech poznání - mohu, mám a jsem. Má otázka se týká druhého typu - já mám. Co může člověk v konečné analýze mít?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SHS:4-cs
-  :DATE-EVENT: 1983-04-19
+  :genre: qa
+  :keywords:
+  :cite-key: shs:4-cs
+  :date-event: 1983-04-19
   :END:
 
 
 
-/Sri Chinmoy:/ V konečné analýze má člověk to, čím se stává. Hluboko uvnitř sebe máme věci, po kterých jsme vždy toužili: Věčnost, Nekonečnost a Nesmrtelnost, nekonečný mír, světlo a blaženost. Ale právě teď si nejsme vědomi, že to všechno máme. Právě teď po těchto věcech pátráme tady, tam a všude kolem, aniž bychom věděli, kde je hledat.
+/Sri Chinmoy:/ v konečné analýze má člověk to, čím se stává. hluboko uvnitř sebe máme věci, po kterých jsme vždy toužili: Věčnost, Nekonečnost a Nesmrtelnost, nekonečný mír, světlo a blaženost. Ale právě teď si nejsme vědomi, že to všechno máme. Právě teď po těchto věcech pátráme tady, tam a všude kolem, aniž bychom věděli, kde je hledat.
 
 Ale když se budeme upřímně modlit a meditovat, přijde doba, kdy poznáme Pravdu. V tu chvíli uvidíme, že věci, po kterých jsme pátrali a pro které jsme plakali, máme hluboko uvnitř sebe. Ztělesňujeme právě tyto věci.
 
@@ -145,10 +140,10 @@ Takže abych se vrátil k vaší otázce, druhé poznání -- mám -- je v kone�
 * Student: Jak si vysvětlíme utrpení, které lidé podstoupili bez svého zavinění - jako například holocaust?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SHS:5-cs
-  :DATE-EVENT: 1983-04-19
+  :genre: qa
+  :keywords:
+  :cite-key: shs:5-cs
+  :date-event: 1983-04-19
   :END:
 
 
@@ -167,10 +162,10 @@ Božské v nás se cítí špatně, když se ve světě odehraje nějaká katast
 * Profesorka Diana Eck: Když mluvíte o Milovaném Nejvyšším, jak si představujete, že Nejvyšší vypadá?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SHS:6-cs
-  :DATE-EVENT: 1983-04-19
+  :genre: qa
+  :keywords:
+  :cite-key: shs:6-cs
+  :date-event: 1983-04-19
   :END:
 
 
@@ -187,10 +182,10 @@ Je to jako dítě, jehož otec je soudcem Nejvyššího soudu. Když dítě vid�
 * Profesorka Diana Eck: Když tedy přemýšlíme o různých způsobech, kterými lidé z různých částí naší lidské rodiny zažívají Milovaného Nejvyššího - jako Krišnu, Krista nebo dosti hrůzostrašnou formu Kálí - můžeme považovat všechny tyto způsoby za stejné?.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SHS:7-cs
-  :DATE-EVENT: 1983-04-19
+  :genre: qa
+  :keywords:
+  :cite-key: shs:7-cs
+  :date-event: 1983-04-19
   :END:
 
 
@@ -206,10 +201,10 @@ Nejvyšší tedy přijde v různých formách v závislosti na tom, co kdo potř
 * Student: Sri Chinmoyi, učíte nás o poznání sebe sama a o poznání Nejvyššího. Jaká by měla být v duchovním životě odpovědnost člověka vůči ostatním?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SHS:8-cs
-  :DATE-EVENT: 1983-04-19
+  :genre: qa
+  :keywords:
+  :cite-key: shs:8-cs
+  :date-event: 1983-04-19
   :END:
 
 
@@ -225,10 +220,10 @@ Neexistuje přesné pravidlo určující, zda je žádoucí nebo nežádoucí, a
 * Student: Jakmile jednou hledající dosáhne realizace, bude mít tuto realizaci vždycky uvnitř sebe nebo musí znovu zažívat svůj lidský aspekt?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SHS:9-cs
-  :DATE-EVENT: 1983-04-19
+  :genre: qa
+  :keywords:
+  :cite-key: shs:9-cs
+  :date-event: 1983-04-19
   :END:
 
 
@@ -242,10 +237,10 @@ Musíme proto vědět, jakou schopnost člověk má. Někteří mohou sedět u p
 * Student: Někteří myslitelé tvrdí, že je možné dosáhnout úplného osvícení a osvobození ještě na zemi, zatímco jiní tvrdí, že konečné osvobození od zákonu karmy přichází až se smrtí. Jaký na to máte názor?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SHS:10-cs
-  :DATE-EVENT: 1983-04-19
+  :genre: qa
+  :keywords:
+  :cite-key: shs:10-cs
+  :date-event: 1983-04-19
   :END:
 
 
@@ -259,10 +254,10 @@ Buddha, Kristus a všichni duchovní Mistři poznali Boha zde na zemi. Musíme d
 * Profesor David Eckel: Mnohokrát vám děkujeme.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SHS:11-cs
-  :DATE-EVENT: 1983-04-19
+  :genre: qa
+  :keywords:
+  :cite-key: shs:11-cs
+  :date-event: 1983-04-19
   :END:
 
 
@@ -271,18 +266,3 @@ Buddha, Kristus a všichni duchovní Mistři poznali Boha zde na zemi. Musíme d
 
 
 /Profesor David Eckel:/ Mnohokrát děkujeme, že jste přišel a podělil se s námi o své hluboké poznatky.
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

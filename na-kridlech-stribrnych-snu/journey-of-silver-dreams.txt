@@ -1,20 +1,15 @@
-#+TITLE: Na křídlech stříbrných snů
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Na křídlech stříbrných snů
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 1997
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: JSD-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 1997
+  :publisher: Madal Bal
+  :cite-key: JSD-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Autorův úvod
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: JSD:1e1-cs
+  :genre: preface
+  :keywords:
+  :cite-key: jsd:1e1-cs
   :END:
 
 Knihy o snech nemohou být nikdy, nikdy přesné. Když někdo vidí svůj sen, je to jedna věc; když o tom poví ostatním, stane se zcela odlišnou. To je hlavní důvod, proč okultisté a ostatní shledávají obtížným sny správně vyložit. Sen někoho je jedna věc, ale když o tom řekne někomu dalšímu, stane se to zcela rozdílné nebo nejasné. Pak se musí okultista velmi silně koncentrovat, aby mohl říct, ze které úrovně sen pochází.
@@ -40,9 +35,9 @@ Existuje mnoho světů snů. Tak jako je sedm vyšších světů a sedm nižší
 * Co je to sen?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:1-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:1-cs
   :END:
 
 /Sri Chinmoy:/ Dnešní sen je zítřejší skutečností. Proč? Protože sen přichází ze světa, který je živoucí a hmatatelný. Svým omezeným vědomím jej možná nerozeznáme, ale když meditujeme, vstupujeme vědomě do mnoha vyšších světů. Právě skutečnost těchto světů do nás vchází v našich snech.
@@ -56,9 +51,9 @@ Obyčejný člověk považuje sen za cosi naprosto odděleného od svého život
 * Odkud sny přicházejí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:2-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:2-cs
   :END:
 
 /Sri Chinmoy:/ Je mnoho světů, které nejsou viditelné našim lidským očím, a sny přicházejí z těchto světů. Některé sny se odehrávají na vitální úrovni. Tyto sny jsou velice často zmatené, protože na vitální úrovni, která je světem potěšení, není mnoho světla. Ve snech z vitálního světa je množství pohybu a velké vzrušení. Sny, které přicházejí z vyšších světů, jsou zářivé, nemají však v sobě žádný rozruch. Když budeme mít sen z vitální úrovně, uvidíme neustálý pohyb. Bude to jako bitevní pole, kde je vše rozbité a zničené a kde jsou zabíjeni lidé. Když máme sny přicházející z nižších světů, podvědomých či takzvaných nevědomých světů, musíme cítit, že tyto sny nemají žádnou cenu. Nemohou změnit naši povahu. Nemohou nás inspirovat. Nedokáží nám dát žádnou naději pro naše budoucí naplnění. Nejlepší věc, kterou můžeme udělat, je na ně zapomenout. 
@@ -75,9 +70,9 @@ Pokud meditujeme, dokážeme do světů snů vcházet vědomě. Zatím jsou pro 
 * Můžeme se ze svých snů poučit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:3-cs
   :END:
 
 /Sri Chinmoy:/ Ze svých snů se můžeme dozvědět mnoho, musíme však vědět, z jaké úrovně vědomí sen přichází. Pokud přichází z nižší vitální úrovně, tehdy jej musíme odehnat. Když se nám zdá, že nás někdo zabíjí anebo že my zabíjíme někoho, je absurdní věnovat tomu pozornost. Sny z nižší vitální úrovně jsou nevýznamné a zbytečné. Není nic, co bychom se z nich mohli dozvědět. 
@@ -91,9 +86,9 @@ Snů, které k nám přicházejí z vyšší úrovně, dobrých snů, božských
 * Když má někdo sen, uskuteční se tato událost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:4-cs
   :END:
 
 /Sri Chinmoy:/ Neexistuje žádné pevné a neměnné pravidlo. Musíte vědět, o jaký druh snů se jedná. Někdy jde o samé neskutečné sny, které přicházejí z podvědomé úrovně. Řekněme, že máte chuť na kuře, ale žádné neseženete. V noci může být tato touha přenesena do snu a v tom snu budete jíst kuře. Takový druh snu není skutečným snem. Je to jen nevyplněná touha, která přichází z podvědomé úrovně. Velmi často toto vidíme ve stavu snění.
@@ -111,9 +106,9 @@ Sny, které máme v časných ranních hodinách mezi třetí a čtvrtou, v /Bra
 * Jak se sny zhmotňují? Můžeme jim v tom zabránit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:5-cs
   :END:
 
 /Sri Chinmoy:/ Existuje mnoho světů. Sen je událost, která vzniká v psychickém světě, mentálním světě, vitálním světě nebo v některém jiném světě.
@@ -133,9 +128,9 @@ Velice často máme sny, na které si ráno nevzpomeneme, ale událost, která s
 * Můžete vysvětlit, proč se děti ve spánku někdy smějí jako andělé a někdy pláčou?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:6-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:6-cs
   :END:
 
 /Sri Chinmoy:/ Když se děti smějí ze spaní, je to duše, která vyjadřuje svou radost způsobem viditelným na tváři. Na jejich tváři se plně projevuje psychická blaženost. Nejprve cítí radost, které si ani nemusí být vědomi a pak se sama projeví na jejich tváři. 
@@ -149,9 +144,9 @@ Znám děti, které pláčou celou noc. Nejsou ani hladové ani nemají žízeň
 * Mohou být sny v tak raném věku vzpomínkami na minulé životy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:7-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:7-cs
   :END:
 
 /Sri Chinmoy:/ Někdy jsou vzpomínkami na minulé životy. Také pokud se ostatní členové rodiny hádají anebo když se hádají lidé v sousedství, tyto vibrace zůstávají v atmosféře. Tehdy může dítě trpět, protože je nejslabší v rodině. Vědomě nemusí o těchto hádkách ani vědět, hádají-li se však jeho rodiče nebo bratři a sestry, tyto špatné vibrace mohou vstoupit do jeho vědomí a dítě může trpět.
@@ -161,9 +156,9 @@ Znám děti, které pláčou celou noc. Nejsou ani hladové ani nemají žízeň
 * Jednou, když jsem byl v meditativním vědomí, tak jsem ve snu viděl starodávný chrám, kde mnoho lidí uctívalo sochy. Rozeznal jsem všechny tváře, které jsem viděl. Jaký to má význam?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:8-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:8-cs
   :END:
 
 /Sri Chinmoy:/ Nebyla to vaše představivost. Byli to lidé, které jste znal ve svých dřívějších inkarnacích; někteří vám byli velmi blízcí a někteří byli jen známí.
@@ -173,9 +168,9 @@ Znám děti, které pláčou celou noc. Nejsou ani hladové ani nemají žízeň
 * Ale co je dobrého na tom, mít sny jako tento?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:9-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:9-cs
   :END:
 
 /Sri Chinmoy:/ Takovýto druh snů vám umožní pocítit, že toto není vaše první nebo poslední inkarnace. Předtím jste byl něčím a znal jste některé lidi. Pokud to nebyli dobří lidé, v této inkarnaci poznáte lepší lidi. Takto vás to povzbuzuje. Pokud jste něco neudělal v minulosti, můžete to udělat nyní, a neuděláte-li to nyní, můžete to udělat zítra. To je účel reinkarnace -- pokud jste něco nedodělal, bude vám dána příležitost v dalším životě.
@@ -187,9 +182,9 @@ Pokud jste včera viděl na ulici neaspirujícího člověka a dnes znovu spatř
 * Během uplynulých pěti měsíců jsem zažil dvě mandaly; první z nich byla vize ze všech lidí, které jsem znal, a druhá byla vize modrého lotosu. Můžete mi vysvětlit jejich příčinu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:10-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:10-cs
   :END:
 
 /Sri Chinmoy:/ Jsou samovysvětlující. Cvičil jste s / mandalami / a získal jste vizi o předchozích inkarnacích. Zde je důkaz, že máme předchozí inkarnace. Vaše duše k vám přinesla osoby, se kterými jste spojen. 
@@ -201,9 +196,9 @@ Modrý lotos, který jste viděl, je modrý lotos vědomí. Voda je vědomí. Mo
 * Vždy jsem měl velký zájem o filozofii. Jednou jsem během mého spánku cítil, že Socrates a Ben Franklin byly dvě inkarnace jedné duše. Můžete věřit snu, který byl tak jasný?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:11-cs
   :END:
 
 /Sri Chinmoy:/ Záleží na vašem osobním vývoji. Dnes jste řekl, že Sokrates byl Benjamin Franklin; zítra můžete říct, že to byl Aristoteles nebo někdo jiný, a mnoho jmen projde vaší myslí. Pokud je to jen obyčejný sen nebo druh záblesku, pak mu prosím nedávejte žádný význam. Ale pokud je to jasné jako vize, pak si můžete říct, že je na tom něco pravdy, a můžete z toho něco získat.
@@ -215,9 +210,9 @@ Duchovní život je něco mnohem hlubšího než filozofický život. Filozofie 
 * Jaký je vztah mezi našimi sny a skutečností?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:12-cs
   :END:
 
 /Sri Chinmoy:/ Sen, který pochází z podvědomého světa, kde se hádáme, bojujeme a děláme mnoho nebožských věcí, není třeba, aby se naplnil. Ale sen, který pochází z vyšších světů je nucen se projevit. Dnešní sen je zítřejší skutečností. Proč? Protože tento sen přichází ze světa, který je živoucí a hmatatelný. S naším omezeným vědomím si to neuvědomujeme. Ale když meditujeme, vědomě vstupujeme do mnoha vyšších světů a reality těchto světů do nás vstupují v našich snech.
@@ -229,9 +224,9 @@ Obyčejný člověk vidí sen jako něco zcela odděleného od zbytku jeho živo
 * Jak bychom měli reagovat na sny z nižších světů?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:13-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:13-cs
   :END:
 
 /Sri Chinmoy:/ Když máme sen z nižších světů, nechceme se s ním ztotožnit, protože jsme jím vystrašeni. Sen k nám přichází jako hrozba. Ale sen, který pochází z vyšších světů, přichází jako pozvání. Dostáváme vnitřní radost a vnitřní uspokojení a cítíme tam svou identitu. Pak do něj musíme vstoupit a vrůst do něj.
@@ -240,9 +235,9 @@ Obyčejný člověk vidí sen jako něco zcela odděleného od zbytku jeho živo
 * Když má někdo sen o svém duchovním Mistrovi, může se na něj spolehnout?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:14-cs
   :END:
 
 /Sri Chinmoy:/ Bohužel je možné, aby na sebe špatné síly vzaly podobu velké duchovní osobnosti nebo Mistra a objevily se ve snu. Někdy jsou úspěšné a napáchají mnoho špatných věcí. Jak můžete rozeznat pravého duchovního Mistra od nepřátelských sil? Když se ve snu zjeví špatná síla v podobě duchovního Mistra anebo velkého světce, první věcí, které si všimnete, bude její nečistota. Pokud vidíte, že zde není čistota, okamžitě poznáte, že to není Mistr, ale špatná síla v podobě Mistra. Mnohokrát se stalo, že na sebe negativní síly vzaly božskou podobu a zjevily se před hledajícím a on se těmto špatným silám poklonil. Nikdy, nikdy se nesmíte ve snu poklonit, dokud si nejste jisti, že ta daná osoba je skutečně váš Mistr či Kršna, Kristus, Buddha anebo nějaký jiný velký duchovní Mistr. Jinak vám tato zlá síla v okamžiku, kdy se sehnete a dotknete se jejích nohou, okultně odebere některé z vašich božských vlastností.
@@ -256,9 +251,9 @@ Někteří lidé mají dobré sny o svém Mistrovi, zatímco jiní mají hloupé
 * Co se odehrává, když se nám o vás zdá?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:15-cs
   :END:
 
 /Sri Chinmoy:/ Když se vám o mně zdá, celé vaše bytí je naplněno radostí, i když to vaše vnější bytost nemusí cítit okamžitě. Pokud však o mně nemáte sny, neznamená to, že jste neudělali žádný pokrok. Jestliže dobře meditujete, získáte stejný výsledek. Vidíte-li mě však ve snu, je to dobré znamení. Není to tak, že vás budu jen chválit. Někdy vás mohu pokárat. Tak jako kárám navenek, mohu kárat i vnitřně. V tom případě byste měli cítit, že to dělám pro vaše dobro. Když se vám o mně zdá, je to pro vás další příležitost. Ti, kteří žijí v mé blízkosti, mě vidí tolikrát ve fyzickém světě. Avšak svět snů je také svět, ve kterém se ke mně mohou lidé přiblížit.
@@ -270,9 +265,9 @@ Pokud mě vidíte ve snu k ránu, často to znamená, že vaše srdce nebo duše
 * Guru, mám dotaz ohledně snu, který měl můj manžel. Není tvůj žák, ale měl o tobě sen. Zdálo se mu, že jsi ho navštívil a diskutoval jsi s ním o genetice a řekl mu, že pro duchovní rozvoj nejsou tak důležité životní podmínky.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:16-cs
   :END:
 
 /Sri Chinmoy:/ Vnější životní podmínky /mohou/ zvýšit něčí aspiraci a duchovnost a také je mohou zničit. Často ale dáváme našim vnějším podmínkám příliš velkou důležitost. Mnoho lidí na zemi přišlo na svět v obyčejné, neaspirující rodině, a přitom došli ve svém vnitřním životě velmi daleko a velmi hluboko. Stejně tak platí, že existuje mnoho lidí, kteří přišli na svět ve vysoké, duchovní rodině, a přesto vedli ten nejobyčejnější život.
@@ -290,9 +285,9 @@ Získáme-li od našich předků něco dobrého, můžeme to zvětšit. Ale tak�
 * Co bychom měli dělat, když máme děsivý sen, který předpovídá něčí smrt?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:17-cs
   :END:
 
 /Sri Chinmoy:/ Pokud máte děsivý sen, nevěnujte mu prosím žádnou pozornost. Například se vám zdá, že se ve vašem životě stane něco špatného. Jste-li vyděšení, pak jste již mrtví. Ale pokud nejste vyděšení, pak během několika hodin nebo několika dní, které leží mezi snem a skutečnou událostí, proti tomu můžete bojovat. A Boží milost je v té chvíli nucena přijít a pomoct vám. Předpokládejme, že máte sen, že váš přítel nebo příbuzný zemře, a váš sen je naprosto správný. Zítra určitě zemře; ale pokud máte strach už teď, tak dnes už je pro vás mrtvý. Pokud se snu odevzdáte, budete trpět zbytečně ještě před samotnou hodinou. Váš strach také okamžitě vstoupí do budoucí oběti a vytvoří pro něj další zátěž.
@@ -310,9 +305,9 @@ V opačném případě, řeknete-li mu, "Víš, měl jsem o tobě nádherný sen
 * Jak můžeme poznat, ze které úrovně naše sny přicházejí?
  
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:18-cs
   :END:
 
 /Sri Chinmoy:/ Existuje sedm vyšších světů a sedm nižších světů. Když máme sny přicházející z nižších světů, podvědomých světů -- nebo můžete říct nevědomých světů -- musíme cítit, že tyto sny nemají žádnou hodnotu. Nemohou změnit naši přirozenost. Nemohou nás inspirovat. Nemohou nám dát žádnou naději pro naše budoucí naplnění. Když máme sen z vitální úrovně, budeme vidět, že sen bude v neustálém pohybu. Bude to jako na bojišti, kde je všechno polámané a rozbité a jsou tam zabíjeni lidé. Tyto sny nám v našem duchovním životě vůbec nepomohou. To nejlepší, co můžeme udělat, je na ně zapomenout. Pochází-li sen z mentální úrovně, tam bude nějaký klid, ne úplný klid, ale trochu klidu a ticha. Pokud pochází z psychické úrovně, budeme cítit náklonnost, sladkost, soucit a zájem o věci nebo osoby, které vidíme. A když přichází z úrovně duší, bude tam všude Světlo, Blaženost a Mír.
@@ -322,9 +317,9 @@ V opačném případě, řeknete-li mu, "Víš, měl jsem o tobě nádherný sen
 * Jak si můžeme vzpomenout na své sny, když se probudíme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:19-cs
   :END:
 
 /Sri Chinmoy:/ Jsou lidé, kteří říkají, že nemají vůbec žádné sny, ale oni se mýlí. Oni mají sny, ale když se vracejí ze světa snů, úplně všechno zapomenou. Někteří lidé mají schopnost si na své sny vzpomenout, když se ráno plně probudí. Když cítíte, že jste měli sen, ale nemůžete si na něj vzpomenout, pokuste se soustředit na zadní část hlavy, na samý konec páteře. Pokud máte sny, projeví se buď prostřednictvím vaší fyzické mysli, anebo budou na určitou dobu, na několik hodin, nebo dokonce i na den či dva, zaznamenány na uvedeném místě ve vašem zátylku. Proto chcete-li si vzpomenout na jakýkoli sen, snažte se na toto místo soustředit a ciťte, že klepete na dveře. Když se dveře otevřou, budete schopni si na svůj sen úplně vzpomenout.
@@ -334,24 +329,24 @@ V opačném případě, řeknete-li mu, "Víš, měl jsem o tobě nádherný sen
 * Jaký je nejlepší způsob naučit se významu snů? Je k něčemu dobré číst o tom knihy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:20-cs
   :END:
 
 
 /Sri Chinmoy:/ Pokud čtete knihy vykládající sny, každá z nich bude podobné události přisuzovat odlišný význam. Snad každá kniha má pravdu svým vlastním způsobem. Ale musíte získat svůj vlastní výklad vašich snů. Máte-li sen, snažte se cítit svou vlastní existenci ve snu; snažte se cítit, že jste v tomto snu vy sami. Pro ty, kdo denně meditují, to nebude obtížné, protože když meditujete deset nebo patnáct minut ráno nebo večer, rozšiřujete své vědomí.
 
-Právě teď naše vědomí je rozděleno do tří částí. V tuto chvíli jsme v bdělém vědomí. Ale když budeme spát, budeme mít další vědomí: zdravý spánek, hluboký spánek. Pak máme třetí vědomí: stav snění. Ale ten, kdo medituje, rozšiřuje své vědomí, aby obsáhl všechny tři stavy.
+Právě teď naše vědomí je rozděleno do tří částí. V tuto chvíli jsme v bdělém vědomí. Ale když budeme spát, budeme mít další vědomí: zdravý spánek, hluboký spánek. pak máme třetí vědomí: stav snění. Ale ten, kdo medituje, rozšiřuje své vědomí, aby obsáhl všechny tři stavy.
 
 
 
 * Je špatné modlit se pro duchovní sny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:21-cs
   :END:
 
 /Sri Chinmoy:/ Pro běžného hledajícího není špatné modlit se k Bohu pro duchovní sny. Sny mohou být inspirující, stejně tak jako mohou být inspirující duchovní zážitky. Pokud však sny nemáte, pokud nemáte zážitky, neznamená to, že nejste určeni pro duchovní život nebo pro realizaci Boha. Jsou lidé, kteří si myslí, že Bůh je s nimi nespokojen, protože nemají žádné zážitky. Zdaleka ne! Bůh jimi může být nesmírně potěšen.
@@ -360,16 +355,16 @@ Dejme tomu, že chci dojít ke dveřím. Jsou dva způsoby. Jedním je jít tam 
 
 Chcete-li mít sny či zážitky, mohou vám posloužit jako přípravné kroky, ale nejsou vůbec nezbytné. Lidská mysl chce být neustále přesvědčována, a když něco dělá, chce získávat radost z každého kroku. Pokud však žijeme v srdci anebo v duši, nemusíme zážitkům a snům věnovat takovou pozornost.
 
-Bůh každého z nás připravuje jinak. Pokud nám nechce dát zážitky, které by nás přesvědčily, nevadí. Modlíme-li se však k Bohu pro přesvědčivé zážitky či sladké sny, není na našich modlitbách nic špatného. Nakonec přijde den, kdy nabídneme Bohu modlitbu nejvyšší: „Ó Bože, chceš-li, dej mi prosím sny. Chceš-li, dej mi prosím prožitky. Nechceš-li mi dát sny ani prožitky, je to v pořádku. Jen mě učiň hodným svého Soucitu. A nechceš-li mě učinit hodným svého Soucitu, je to rovněž na Tobě. Jen se mnou jednej podle své Vůle. Kéž se stane Vůle Tvá ve mně a mým prostřednictvím.“ Máme-li uvnitř takovouto modlitbu, Bůh k nám přichází a říká: „Nebuď žebrákem. Neplač pro sny, neplač pro zážitky. Vezmi si Mě, Skutečnost samotnou.“
+Bůh každého z nás připravuje jinak. Pokud nám nechce dát zážitky, které by nás přesvědčily, nevadí. Modlíme-li se však k Bohu pro přesvědčivé zážitky či sladké sny, není na našich modlitbách nic špatného. Nakonec přijde den, kdy nabídneme Bohu modlitbu nejvyšší: „Ó bože, chceš-li, dej mi prosím sny. chceš-li, dej mi prosím prožitky. nechceš-li mi dát sny ani prožitky, je to v pořádku. jen mě učiň hodným svého soucitu. a nechceš-li mě učinit hodným svého soucitu, je to rovněž na tobě. jen se mnou jednej podle své vůle. kéž se stane vůle tvá ve mně a mým prostřednictvím.“ máme-li uvnitř takovouto modlitbu, bůh k nám přichází a říká: „Nebuď žebrákem. Neplač pro sny, neplač pro zážitky. Vezmi si Mě, Skutečnost samotnou.“
 
 
 
 * Jak můžeme mít duchovní sny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:22-cs
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:22-cs
   :END:
 
 /Sri Chinmoy:/ Chcete-li mít sladké sny, inspirující sny, měli byste co nejoduševněleji meditovat časně z rána, ve tři, ve čtyři hodiny. Pořádně se osprchujte a pak meditujte alespoň půl hodiny. Po meditaci si sedněte anebo lehněte a koncentrujte se na svůj pupek. V tu chvíli nemyslete na sny. Pokuste se cítit, že se vaše pupeční čakra otevírá. Zkuste si představit, že je v ní rychle se otáčející kolo. Protože jste půl hodiny meditovali, nemusíte se obávat, že do této čakry vstoupíte, i když je to vitální čakra. Pak jděte spát na půl hodiny nebo na čtyřicet minut. Je-li vaše meditace silná a pravá, pokud vychází z naprosté hloubky vašeho srdce, všechny sny, které po ní budete mít, budou božské, dynamické, krásné, oduševnělé. Budou o andělech a bozích nebo o vašem duchovním životě, anebo uvidíte něco povzbuzujícího a inspirujícího.
@@ -381,9 +376,9 @@ Chcete-li mít dobré sny před třetí hodinou, snažte se prosím meditovat na
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: JSD:23e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: jsd:23e1-cs
   :END:
 
 Sri Chinmoy vyzval k těmto otázkám 2. října 1973 během setkání v jeho centru v New Jersey.
@@ -393,10 +388,10 @@ Sri Chinmoy vyzval k těmto otázkám 2. října 1973 během setkání v jeho 
 * Loni, když jsem byl v Indii, jsem měl sen, ve kterém jsem slyšel vzdálenou hudbu, a když jsem se probudil, myslel jsem, že jsem buď mrtvý, nebo jsem v Nebi.[fn:: JSD 23-44. Sri Chinmoy vyzval k těmto otázkám 2. října 1973 během setkání v jeho centru v New Jersey.]
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:23-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:23-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Byl to nanejvýš mocný zážitek, který jste získal z hlubin své duše. Hudba, kterou jste slyšel, přicházela z duše. Vnější sluch tuto hudbu nedokáže ocenit, musí být oceněna naší vnitřní částí.
@@ -408,10 +403,10 @@ Když v běžném životě nižší vitálno nebo emocionální vitálno něco 
 * Z jaké úrovně jsou naše sny?
  
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:24-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:24-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Je mnoho světů, které nejsou viditelné našim lidským očím, a sny přicházejí z těchto světů. Některé sny se odehrávají na vitální úrovni. Tyto sny jsou velice často zmatené, protože na vitální úrovni, která je světem potěšení, není mnoho světla. Ve snech z vitálního světa je množství pohybu a velké vzrušení. Sny, které přicházejí z vyšších světů, jsou zářivé, nemají však v sobě žádný rozruch. Když máme sny z vyšších úrovní, ze světa duší, obvykle jim trvá delší dobu, než se projeví. 
@@ -425,10 +420,10 @@ Takto mají všechny sny svou vlastní úroveň.
 * Co určuje, o čem sníme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:25-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:25-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Vaše vnitřní bytosti, vaše aspirace a celý vesmír ve vašem duchovním srdci určují, o čem sníte. Není-li však vaše aspirující srdce dostatečně velké, abyste se ztotožnili s Univerzálním Vědomím, tehdy budete mít pocit, že tyto věci přicházejí z vnějšku. Své aspirující srdce můžete zvětšit jen zvýšenou aspirací. Přijde doba, kdy se aspirující srdce stane jedním s Univerzálním Srdcem, které je zaplaveno světlem a blažeností. Je to toto Srdce, které určuje všechny povzbuzující sny, od těch nejvýznamnějších až po ty nejbezvýznamnější.
@@ -438,10 +433,10 @@ Takto mají všechny sny svou vlastní úroveň.
 * Asi před rokem a půl se mi zdálo, že jsem se propadl do země a byl kdesi uvězněn. Pak se naše skupina, já a další vězni, musela pokoušet společně pracovat, abychom se z vězení dostali.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:26-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:26-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Tímto vězením je vězení nevědomí, kde není žádné světlo, žádná naděje, naprosto nic kladného. Vězení nevědomí je zemí zničení. Dostal jste se ven jen proto, že je uvnitř vás něco velmi upřímného, velmi oduševnělého, velmi oddaného. A tak bezvýhradná Požehnání Nejvyššího vstoupila do nevědomí a přinesla vás zpět. Dostali jste se ven, protože vás zachránila božská Milost, bezvýhradná Milost Nejvyššího. Chtěl bych ti říct, že dokonce i v tom vězení, pokud by sis mne byl vědom, pokud bys vzýval mé jméno, byl bys zachráněn.
@@ -451,10 +446,10 @@ Takto mají všechny sny svou vlastní úroveň.
 * Pokud ve snu cítíme k někomu hlubokou lásku, jak můžeme tuto lásku bez lpění nejlépe přenést do našeho vnějšího vztahu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:27-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:27-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Pokud ve snu k někomu cítíme hlubokou lásku, nejdříve musíme vědět, zdali tato láska je, či není emocionální. Je-li to emocionální, vitální láska, tehdy musíme okamžitě nabídnout svou lásku i předmět naší lásky Nejvyššímu v nás. 
@@ -468,10 +463,10 @@ Pokud uvnitř děláme něco vědomě špatně, potom je velmi obtížné, tém�
 * Zdálo se mi, že jsem byl před domem svých rodičů a spatřil jsem svého starého přítele, kterého jsem znal před tím, než jsem se stal vaším žákem. Přivedl mě zpátky do určitého špatného stavu, ale já jsem si s ním hrál. Znenadání se z oblohy snesl velký, mocný rudý orel a napadl mě. Zabil jsem ho a cítil jsem tu nejmocnější sílu, jakou jsem kdy v sobě cítil.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:28-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:28-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Orel létá vysoko, avšak jeho vědomí je velmi nízké. Je jako hledající, který předstírá, že je ve velmi vysokém stavu meditace, zatímco jeho vědomí je ve skutečnosti v nižším vitálním či pomlouvačném světě.
@@ -485,10 +480,10 @@ A pak znenadání, protože jste přijal duchovní život, vyšla do popředí v
 * Hned jak jsem se vdala, měla jsem sen, v němž jsem neviděla nic jiného než vaši tvář. Bylo to velmi mocné a dynamické, byla přímo přede mnou a zdálo se, že mě přitahuje.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:29-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:29-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Velmi dobře! Tento sen znamená, že je pro vás zapotřebí přijmout život mocně a odvážně. Vstoupila jste do nového života a je ve vás jemný strach. V tomto snu jsem do vás přeléval ohromnou energii. Tato energie do vás vstupovala a zároveň vás přitahovala jako magnet. Svou koncentrací jsem vytvořil vědomý přístup k vaší duši tak, abyste neměla žádný strach. Je pro vás nezbytné být silná a dynamická, abyste ve svém novém životě mohla přijímat hojnost pravdy, světla a blaženosti.
@@ -498,10 +493,10 @@ A pak znenadání, protože jste přijal duchovní život, vyšla do popředí v
 * Měl jsem sen o Kršnovi a Ardžunovi. V tom snu jsem cítil, že jsem byl Ardžunou. Slovo Ardžuna vyšlo z mého břicha.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:30-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:30-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Velmi dobře! Kršna a Ardžuna mají mezi sebou to nejbližší spojení. Jsou duchovními bratry. Ardžuna znamená vnitřní nástroj a Kršna představuje to Nejvyšší. A tak Kršna chce, abyste byl skutečně božským, nestranným a odevzdaným nástrojem Nejvyššího. Být Ardžunou znamená být nejdražším, nejuspokojivějším, nejvěrnějším a nejoddanějším, vybraným nástrojem Boha. Hlas, který vyšel z nitra, znamená, že jste se ztotožnil s vědomím Ardžuny. To znamená, že jste chtěl být tak mocný, tak oddaný, tak odevzdaný svému vlastnímu Mistrovi, jako byl Ardžuna Kršnovi.
@@ -511,10 +506,10 @@ A pak znenadání, protože jste přijal duchovní život, vyšla do popředí v
 * Guru, předtím, než jdu pozdě spát, tak se modlím, abych měl klidný spánek, protože nemám rád špatné sny. Mám se modlit pro to, abych neměl špatné sny, anebo mám nechat přicházet sny tak, jak přicházejí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:31-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:31-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Nejdříve medituj na srdce a ciť skutečnou přítomnost světla. Potom vezmi toto světlo a vhoď ho do tmavé propasti pupku k jeho pročištění. Pak nebudeš moci mít žádné špatné sny, protože tvoje vitálno bude pročištěno.
@@ -525,10 +520,10 @@ A pak znenadání, protože jste přijal duchovní život, vyšla do popředí v
 Guru, měl jsem sen o Sri Anandamayi Ma. Dala mi čtyři fotografie. Dvě prostřední byly bílé. Na první z nich byl předcházející Mistr mého Mistra, a tu na druhém konci jsem nemohl rozeznat.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:32-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:32-cs
+  :date-event: 1973-10-02
   :END:
 
 
@@ -543,16 +538,16 @@ Abychom se vrátili k vašemu snu, bílá barva znamená čistotu. /Nirmala/ tak
 * Guru, máme-li sen, ve kterém se nám zjevíš a řekneš nám něco velmi jasně, je to totéž, jako když nám to řekneš tváří v tvář?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:33-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:33-cs
+  :date-event: 1973-10-02
   :END:
 
 
 /Sri Chinmoy:/ Jistě! Pokud mě vidíte živě a pokud je to něco velmi pevného a jasného, pak poselství, které vám dám, je stejně dobré, jako poselství na fyzické úrovni. Ale jediná věc je, že pokud je to vážná věc, je lepší to ověřit na fyzické úrovni. Jinak to může vytvořit skutečné problémy. Může to být jen vaše zbožné přání. Je pravda to, co jsem vám řekl už dřív, že žádná nepřátelská síla si nemůže vzít mou podobu, ale vy si mne můžete vytvořit svou vlastní představivostí.
 
-Stalo se několikrát, že duchovní Mistr řekl ve snu něco, co měl žák opravdu rád. Pak, když Mistr na fyzické úrovni řekne, že je to všechno falešné, žák nebude mu věřit. Vím o případu, kdy velmi upřímný hledající napsal svému Mistrovi: "Mistře, přišel jsi ke mně a bylo to tak živé. Řekl jsi mi, že v této inkarnaci pro mne neexistuje žádný jiný způsob, jak realizovat, než spáchat sebevraždu." Mistr řekl: "To není možné! Toto jsem neřekl." Ale žák řekl: "Tady na fyzické úrovni jsi na mě žárlil. Jestli realizuji Boha, budu s tebou na stejné úrovni. To je důvod, proč to popíráš. Ale na vnitřní úrovni nejsi žárlivý. To je důvod, proč jsi mi řekl pravdu. Takže je pro mě nejlepší spáchat sebevraždu, a pak budu realizovat Boha."
+Stalo se několikrát, že duchovní Mistr řekl ve snu něco, co měl žák opravdu rád. Pak, když Mistr na fyzické úrovni řekne, že je to všechno falešné, žák nebude mu věřit. Vím o případu, kdy velmi upřímný hledající napsal svému Mistrovi: "mistře, přišel jsi ke mně a bylo to tak živé. Řekl jsi mi, že v této inkarnaci pro mne neexistuje žádný jiný způsob, jak realizovat, než spáchat sebevraždu." mistr řekl: "to není možné! toto jsem neřekl." ale žák řekl: "Tady na fyzické úrovni jsi na mě žárlil. Jestli realizuji Boha, budu s tebou na stejné úrovni. To je důvod, proč to popíráš. Ale na vnitřní úrovni nejsi žárlivý. To je důvod, proč jsi mi řekl pravdu. Takže je pro mě nejlepší spáchat sebevraždu, a pak budu realizovat Boha."
 
 Vždy je vhodné naslouchat Mistrovi na fyzické rovině. Máte-li sen, úžasné! Řekněte to Mistrovi, a pokud je to pravda, Mistr vám to okamžitě řekne. Pokud máte pocit, že řekl něco na vnitřní úrovni, může to snadno říct i na vnější úrovni, pokud je to pravda. Mistr je jedna a tatáž osoba. Bude určitě vědět, jestli řekl něco konkrétnímu žákovi. Ale když to popře, tak to nemá být přijato.
 
@@ -564,10 +559,10 @@ Když je pro duchovního Mistra těžké předat žákovi zprávu na fyzické ú
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:34-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:34-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Přeji si říct, že duchovní cesta je svízelná a velmi příkrá. Když máte jít vzhůru, je to nanejvýš obtížné. Bytosti, které jste viděl, nebyly ve skutečnosti jeptišky, byli to andělé. Ve svém snu jste cítil, že jsou to jeptišky, protože působila vaše fyzická mysl. Vaše fyzická mysl nechtěla spatřit anděly, protože nechtěla, abyste získal tu největší radost. Mysl je taková. Ničí vše. Se svým srdcem jste vyšel velmi vysoko, avšak vaše mysl chtěla zmenšit vaši radost. A tak vás přiměla, abyste je viděl jako jeptišky. Kdyby mysl nezasáhla, byl byste velmi šťastný, že jste viděl anděly s květinami.
@@ -577,10 +572,10 @@ Když je pro duchovního Mistra těžké předat žákovi zprávu na fyzické ú
 * Jak to, že mohu mít překrásnou meditaci a pak mít v noci nečisté vitální sny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:35-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:35-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Pokud máte vitální sny, znamená to, že vaše vitálno potřebuje pročistit. Zanecháte-li ve svém pokoji nepořádek, nemůžete čekat, že do něj vstoupíte a zjistíte, že se najednou sám od sebe uklidil. Musíte vejít do pokoje a snažit se uklidit nepořádek tak, že některé věci založíte a jiné vyhodíte.
@@ -593,10 +588,10 @@ Během meditace přijímáte světlo. Když toto světlo vstoupí do vaší byto
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:36-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:36-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Nevědomě jste přebíral zodpovědnost za někoho druhého a přinášel ji mně a já jsem vám řekl, že to není dobré, protože ten člověk nechce dát svou zodpovědnost vám, ani mně. 
@@ -608,10 +603,10 @@ Cítil jste, že je vaší svatou povinností přinést mi tento náklad, který
 * Měla jsem sen, ve kterém jsem vešla do pokoje. Viděla jsem, že vy a všichni vaši žáci mají křídla.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:37-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:37-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Křídla znamenají, že žáci mají prudce stoupající aspiraci. Nejsou to křídla anděla nebo ptáka, ale vznášející se aspirace, která letí velmi, velmi vysoko, nekonečně výše než pták. Je naprostá pravda, že se mí žáci snaží co nejupřímněji rozvinout a zvětšit sílu své aspirace. Žáci, kteří aspirují, určitě mají tato vnitřní křídla, která se nazývají aspirace.
@@ -621,10 +616,10 @@ Cítil jste, že je vaší svatou povinností přinést mi tento náklad, který
 * Měla jsem sen o své starší sestře. Byla oblečena do zeleného sárí a stála na zšeřelé cestě.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:38-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:38-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Zelená znamená nový život. Pokud měla vaše sestra zelené sárí, znamená to, že do ní vstoupil nový život, nová naděje. 
@@ -636,10 +631,10 @@ Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Kte
 * Bylo to večerní šero. Nejprve jsem viděla zelené sárí a pak jsem zpozorovala večerní soumrak.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:39-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:39-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Zelené sárí znamená inspiraci, dynamickou energii, novou naději, novou identitu, nový život, a šero znamená napůl světlo a napůl tmu. Ačkoliv má vaše sestra naději a inspiraci a pláče pro nový život, není plně připravena přijmout duchovní cestu. Je připravena mít padesát procent tmy a padesát procent světla. Pokud by skutečně aspirovala, chtěla by mít sto procent světla. Má nebo měla příležitost být dynamická, velmi svěží a plná nadšení a vstoupit do moře světla, ale nezajímala se o tuto možnost. Sama toho nevyužila. Chce se těšit jak z vnějšího světa temnoty, tak i z vnitřního světa osvícení zároveň, což je nemožné. Ve svém životě chce půl světla a půl temnoty, směs obojího. Avšak směs obojího ji nemůže naplnit. Buď musíš mít světlo, nebo temnotu; nemůžeš být někde mezi.
@@ -649,10 +644,10 @@ Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Kte
 * Zdálo se mi, že jsem s někým mluvil a rozhlíželi jsme se po rozlehlé, úrodné zemi. Viděl jsem oblohu podobající se zlatému rozbřesku se sluncem, které stoupalo nad zem a rozprostíralo kolem zlaté světlo.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:40-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:40-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Obloha značí rozlehlost. A širá země, kterou jste viděl, také představuje rozlehlost. Když se rozlehlost nad vámi a rozlehlost kolem vás společně setkají, jen tehdy přijde naplnění. Vyšší rozlehlost znamená Nebe a ta druhá rozlehlost je země, na které žijete. Je-li naše pozemské vědomí rozšířeno, okamžitě se s ním nebeské vědomí, které je nekonečně širší než pozemské vědomí, setkává. Když se společně setkají, vidíte zlatou barvu. To je barva božského projevení. Je-li země vnímavá, je-li srdce země široké, tehdy do něj může vstoupit světlo Nebe. V tu chvíli se osvěcující vědomí Nebe a aspirující vědomí země stávají jedním. A když se stanou jedním, je to projevení božské Skutečnosti.
@@ -663,10 +658,10 @@ Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Kte
 * Měl jsem sen, kde jste mi řekl, abych pro vás udělal modrý míč.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:41-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:41-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Modrá znamená něco velmi rozlehlého, něco nekonečného, a míč znamená svět nebo Univerzální Vědomí. Modrý míč tu představuje věčný nástroj. Říkal jsem vám, že Nejvyšší z vás vytváří svůj spolehlivý nástroj.
@@ -676,10 +671,10 @@ Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Kte
 * Sen si přesně nevzpomínám, ale zdálo se mi, že jsem se někam potápěl, a když jsem se vynořil, bylo to, jako bych vyšel z meditace. Téměř jsem si přál tam zůstat.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:42-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:42-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ Nebylo to ve skutečnosti potápění. Šel jste velmi hluboko dovnitř. Vstoupil jste do oblasti své duše pro skutečný odpočinek a naplnění.
@@ -689,10 +684,10 @@ Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Kte
 * Zdálo se mi, že jsem pozval vás, Svámí Vivékánandu and Sri Rámakršnu do svého domu.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:43-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:43-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ To je velmi dobré! Je to velmi významný sen. Znamená to, že patříme do stejné rodiny. Všichni jsme opravdoví duchovní Mistři a tak patříme do stejné rodiny. Já jsem váš duchovní otec, a oni jsou členové naší duchovní rodiny. 
@@ -702,24 +697,10 @@ Jsou dva typy šera. Jedním je časné ranní šero a druhé je večerní. Kte
 * Dnes ráno si mi zdálo, že jsi mě požádal, abych meditoval.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:44-cs
-  :DATE-EVENT: 1973-10-02
+  :genre: qa
+  :keywords:
+  :cite-key: jsd:44-cs
+  :date-event: 1973-10-02
   :END:
 
 /Sri Chinmoy:/ To znamená, že po tobě chci, abys dal více důležitosti tvému vnitřnímu životu než tvému vnějšímu životu. Nedáš-li víc důležitosti vnitřnímu životu, pak nezáleží na tom, čeho dosáhneš ve vnějším životě -- nebudeš uspokojen. Abys byl uspokojen, opravdově uspokojen a naplněn, chci, abys meditoval víc. Co jsem ti řekl, nebylo jen abys meditoval, ale abys meditoval víc než doposud.
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

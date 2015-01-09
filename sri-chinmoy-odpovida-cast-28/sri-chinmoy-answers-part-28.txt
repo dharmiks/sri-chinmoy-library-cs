@@ -1,20 +1,15 @@
-#+TITLE: Sri Chinmoy odpovídá, část 28
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 28
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2002
-  :PUBLISHER: Sri Chinmoy Centrum
-  :CITE-KEY: SCA-28-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2002
+  :publisher: Sri Chinmoy Centrum
+  :cite-key: SCA-28-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -23,9 +18,9 @@
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:926e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:926e1-cs
   :END:
 
 
@@ -33,16 +28,16 @@
 * /Dr.Kuzněcov:/ Ve starých dobách se mniši modlili a meditovali a potom získali okultní síly. Ve skutečnosti se ale o tyto síly nezajímali. Chtěli pouze potěšit Boha svými modlitbami a meditacemi.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:926-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:926-cs
+  :date-event: 1990-05-26
   :END:
 
 
-/Sri Chinmoy:/ I my chceme to, čím Bůh je, a ne to, co Bůh má. Svými modlitbami se snažíme dát Bohu štěstí a potěšit Boha Vševědoucího, Všudypřítomného a Vševědoucího. Nežádáme Boha: „Dej mi tuto sílu nebo tamtu sílu.“ Pokud však těšíme Boha, dostaneme vše, co On má, stejně tak jako dítě, které když vyroste, dostane to, co má jeho otec.
+/Sri Chinmoy:/ i my chceme to, čím bůh je, a ne to, co bůh má. svými modlitbami se snažíme dát bohu štěstí a potěšit boha vševědoucího, všudypřítomného a vševědoucího. nežádáme boha: „Dej mi tuto sílu nebo tamtu sílu.“ Pokud však těšíme Boha, dostaneme vše, co On má, stejně tak jako dítě, které když vyroste, dostane to, co má jeho otec.
 
-Dnes může dítě prosit svého otce: „Dej mi pět nebo deset dolarů.“ Zítra může říci: „Dej mi dům, dej mi auto!“ Otec může dát dítěti, oč ho požádá, třebaže má nekonečně větší majetek. Stejně tak nám může Bůh dát to, za co se modlíme, ať už je to okultní síla nebo něco jiného. Bůh ale řekne: „Jsi tak hloupý! Žádáš mě jenom o okultní síly, a já jsem schopen ti dát celý svět, celý vesmír.“
+Dnes může dítě prosit svého otce: „dej mi pět nebo deset dolarů.“ zítra může říci: „dej mi dům, dej mi auto!“ otec může dát dítěti, oč ho požádá, třebaže má nekonečně větší majetek. stejně tak nám může bůh dát to, za co se modlíme, ať už je to okultní síla nebo něco jiného. bůh ale řekne: „Jsi tak hloupý! Žádáš mě jenom o okultní síly, a já jsem schopen ti dát celý svět, celý vesmír.“
 
 Dokážeme-li Boha Otce potěšit, dá nám vše, co potřebujeme. Pokud ho na druhou stranu žádáme o něco konkrétního, může nám tu věc dát, ale my si tím můžeme způsobit potíže. Nejlépe je říci Bohu: „Dej mi jenom to, co je pro mě nejlepší.“ Bůh potom udělá to, co pro nás považuje za nejlepší. Nedá nám nic, co by nám uškodilo. Okultní síla je věc, která nám snadno vytvoří potíže. 
 
@@ -55,10 +50,10 @@ Lidé v Rusku, kteří se modlili k Bohu, se obvykle o tyto síly nezajímali, t
 * /Dr.Kuzněcov:/ V mnoha náboženstvích se lidé snaží přivodit svému tělu utrpení. Věří v utrpení těla. Například v křesťanství se musíte občas vzdát jídla. V jiných náboženstvích se mniši straní života. Tito lidé se podle mého názoru snaží přivodit utrpení svému tělu proto, aby si tím zvětšili schopnost meditovat.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:927-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:927-cs
+  :date-event: 1990-05-26
   :END:
 
 
@@ -68,7 +63,7 @@ Tělo je chrám a uvnitř chrámu je oltář, kterým je naše láska k Bohu. Zn
 
 Když Pán Buddha usedl k patě stromu pro své osvícení, nejprve řekl: „Nebudu nic jíst.“ Když potom začal ztrácet tělní funkce, začal opět normálně jíst. Sri Rámakršna jedl třikrát za den. Milujeme Boha svým tělem, vitálnem, myslí, srdcem i duší, a při tom musíme být normální. Půjdeme-li do extrému a nebudeme-li jíst, abychom tak potěšili Boha, budeme jenom trápit tělo. Jestliže já miluji vás a vy milujete mě, budete snad šťastný, když budu fyzicky trpět?
 
-Dítě miluje matku a matka miluje dítě. Bude snad matka šťastná, když její dítě přestane jíst a zničí si celé tělo, aby jí dokázalo, jak moc ji miluje? Řekne-li: „Matko, podívej, jak moc tě miluji; kvůli tomu jsem si zničilo své zdraví,“ matka bude nešťastná. Řekne: „Jestli mě miluješ, pojď ke mně tak rychle, jak je to jen možné.“ Je tedy vhodné kráčet po cestě umírněnosti a nikoli po cestě strádání. Měli bychom jíst, abychom si udrželi naše smysly neporušené, a abychom měli tělo v dokonalé kondici. 
+Dítě miluje matku a matka miluje dítě. Bude snad matka šťastná, když její dítě přestane jíst a zničí si celé tělo, aby jí dokázalo, jak moc ji miluje? Řekne-li: „matko, podívej, jak moc tě miluji; kvůli tomu jsem si zničilo své zdraví,“ matka bude nešťastná. Řekne: „Jestli mě miluješ, pojď ke mně tak rychle, jak je to jen možné.“ Je tedy vhodné kráčet po cestě umírněnosti a nikoli po cestě strádání. Měli bychom jíst, abychom si udrželi naše smysly neporušené, a abychom měli tělo v dokonalé kondici. 
 
 Na zemi žije bezpočet lidí, kteří jsou chudí a kteří nejedí pravidelně. Jsou všichni ti lidé duchovní? Realizovali Boha? Ne! Tady je důkaz, že když nejíme, nemusí nás to nezbytně přivést blíže k Bohu. 
 
@@ -79,10 +74,10 @@ Veďme normální život a nechoďme do extrémů. Nebudeme hltavě a nenasytně
 * /Dr.Kuzněcov:/ Jaká je souvislost mezi vaší vnější silou a vaší vnitřní modlitbou a meditací?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:928-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:928-cs
+  :date-event: 1990-05-26
   :END:
 
 
@@ -97,10 +92,10 @@ Vraťme se však k vaší otázce -- jakákoli vnitřní nebo vnější síla, k
 * /Dr.Kuzněcov:/ Jeden skvělý člověk  - pan Roerich - cestoval kdysi po Indii a Tibetu. Když jsem navštívil jeho dům, visela na zdi fotografie jeho manželky. Byla to dcera jednoho slavného ruského generála. Žena, která se hluboce věnovala meditaci a měla velkou vnitřní sílu. Velice mne překvapilo, že na té fotografii měla kolem hlavy jakési světlo.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:929-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:929-cs
+  :date-event: 1990-05-26
   :END:
 
 
@@ -111,10 +106,10 @@ Vraťme se však k vaší otázce -- jakákoli vnitřní nebo vnější síla, k
 * /Dr.Kuzněcov:/: : Vím také, že někteří umělci malují auru kolem hlav světců. Avšak u Roerichovy manželky byla ta energie tak silná, že jste mohl to světlo kolem hlavy vidět i na fotografii. Věříte v jisté biologické energie, které souvisejí s duchovními silami?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:930-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:930-cs
+  :date-event: 1990-05-26
   :END:
 
 
@@ -126,10 +121,10 @@ Podobně má každý z nás i vnitřní slunce. Sri Rámakršna viděl v bengál
 * /Dr.Kuzněcov:/ Protože jste velice moudrý člověk, rád bych vás požádal o dovolení oslovovat vás „Svámí.“
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:931-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:931-cs
+  :date-event: 1990-05-26
   :END:
 
 
@@ -145,10 +140,10 @@ Moji studenti mě nazývají Guru a mí přátelé a blízcí, kteří si mě op
 * /Dr.Kuzněcov:/ Takže vy přijímáte jak duchovní, tak i materiální svět?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:932-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:932-cs
+  :date-event: 1990-05-26
   :END:
 
 
@@ -160,14 +155,14 @@ Moji studenti mě nazývají Guru a mí přátelé a blízcí, kteří si mě op
 * /Dr.Kuzněcov:/ Existuje jedna legenda, která říká, že Sri Rámakršna měl spojení s Ruskem.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:933-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:933-cs
+  :date-event: 1990-05-26
   :END:
 
 
-/Sri Chinmoy:/ Taková legenda existuje a existuje i jeden velmi zvláštní obrázek Sri Rámakršny, který se vztahuje k Rusku. My máme tisíce a tisíce fotografií, protože žijeme na Západě. V chudém Bengálsku však Sri Rámakršna neměl mnoho fotografií. Jednou se ho zeptali: „Kde si vezmete svou příští inkarnaci?“ On jenom ukázal na jedno místo na mapě, a to místo bylo v Rusku. Vyfotografovali ho a ta fotografie se stala jednou z nejslavnějších duchovních fotografií. Vstoupil do svého nejvyššího vědomí a ukázal na určitou část světa, a tou bylo nepochybně Rusko. 
+/Sri Chinmoy:/ taková legenda existuje a existuje i jeden velmi zvláštní obrázek sri rámakršny, který se vztahuje k rusku. my máme tisíce a tisíce fotografií, protože žijeme na západě. v chudém bengálsku však sri rámakršna neměl mnoho fotografií. jednou se ho zeptali: „Kde si vezmete svou příští inkarnaci?“ On jenom ukázal na jedno místo na mapě, a to místo bylo v Rusku. Vyfotografovali ho a ta fotografie se stala jednou z nejslavnějších duchovních fotografií. Vstoupil do svého nejvyššího vědomí a ukázal na určitou část světa, a tou bylo nepochybně Rusko. 
 
 
 
@@ -177,10 +172,10 @@ Moji studenti mě nazývají Guru a mí přátelé a blízcí, kteří si mě op
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:934-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:934-cs
+  :date-event: 1990-05-26
   :END:
 
 
@@ -195,10 +190,10 @@ Teď síla srdce opět vyšla na povrch a síla mysli, která je plná pochybnos
 * /Dr.Kuzněcov:/ Mám pocit, že Rusko trpělo více než jiné země světa. A přesto Rusko nebylo zemí, kde by se nevěřilo v Boha. Rusko bylo zemí, kde se vždy věřilo ve vyšší věci.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:935-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:935-cs
+  :date-event: 1990-05-26
   :END:
 
 
@@ -216,10 +211,10 @@ Dobré vlastnosti jsou jako vůně květiny. Květina nabízí svou vůni, kter�
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:936-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:936-cs
+  :date-event: 1990-05-26
   :END:
 
 
@@ -227,17 +222,17 @@ Dobré vlastnosti jsou jako vůně květiny. Květina nabízí svou vůni, kter�
 
 Říkám také, že každé náboženství je jako dům. Vy žijete ve svém domě a já žiji ve svém, máme však společné místo, kde hovoříme o Bohu a pravdě, místo, kde spolu naše srdce rozmlouvají o duchovním životě. Mluvíme o tom, jak se ze mě může stát lepší člověk, jak se z vás může stát lepší člověk a tak dále. Diskutováním o těchto věcech se snažíme vynést na povrch naše dobré vlastnosti. Dobré vlastnosti nepatří jen jednomu člověku. Náleží všem. Občas ale někdo dychtí je vynést rychle na povrch, kdežto někdo jiný si chce dopřát delší čas. V závodě chce někdo rychle běžet a vyhrát. Jiný člověk může mít pocit, že bude šťastný, když tu vzdálenost uběhne. 
 
-Narodil jsem se jako hinduista. Někdo jiný se narodil do jiného náboženství. Postupně přijmeme Boha za vlastního a jdeme za hranice náboženství. Začneme cítit, že jediným skutečným náboženstvím je láska k Bohu. Takový pocit vychází ze syntézy náboženství, o které mluvil Sri Rámakršna. Podobně je to s národnostní příslušností. Říkáme: „Jsem Ind,“ nebo: „Jsem Rus.“ Potom musíme kultivovat naše nadnárodní cítění, protože naším nejvyšším cílem je ztotožnit se s vesmírem. V takové chvíli nejste jenom Rusem a já nejsem jenom Indem. Jsme také kosmopolité.
+Narodil jsem se jako hinduista. Někdo jiný se narodil do jiného náboženství. Postupně přijmeme Boha za vlastního a jdeme za hranice náboženství. Začneme cítit, že jediným skutečným náboženstvím je láska k Bohu. Takový pocit vychází ze syntézy náboženství, o které mluvil Sri Rámakršna. Podobně je to s národnostní příslušností. Říkáme: „jsem ind,“ nebo: „Jsem Rus.“ Potom musíme kultivovat naše nadnárodní cítění, protože naším nejvyšším cílem je ztotožnit se s vesmírem. V takové chvíli nejste jenom Rusem a já nejsem jenom Indem. Jsme také kosmopolité.
 
 
 
 * /Dr.Kuzněcov:/ Co si myslíte o okultní síle?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:937-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:937-cs
+  :date-event: 1990-05-26
   :END:
 
 
@@ -250,10 +245,10 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
 * /Dr.Kuzněcov:/ Vaše učení lásky je pro Rusko mimořádně důležité.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:938-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:938-cs
+  :date-event: 1990-05-26
   :END:
 
 
@@ -264,10 +259,10 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
 * /Dr.Kuzněcov:/ To jsou krásná slova. Velice vám děkuji, že jste mi odpověděl na všechny mé otázky. Je to pro mě velice důležité.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:939-cs
-  :DATE-EVENT: 1990-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:939-cs
+  :date-event: 1990-05-26
   :END:
 
 
@@ -277,9 +272,9 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
 
 * Část II[fn:: SCA 940-944. Následují výňatky z rozhovoru uveřejněném v listu Pravda, který se odehrál 10. června 1990 na Aspiration-Ground. Přítomni byli také dr. Felix Kuzněcov a jeho manželka] 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:940e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:940e1-cs
   :END:
 
 
@@ -287,10 +282,10 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
 * Zvedání světa Srdcem Jednoty
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:940-cs
-  :DATE-EVENT: 1990-06-10
+  :genre: interview
+  :keywords:
+  :cite-key: sca:940-cs
+  :date-event: 1990-06-10
   :END:
 
 
@@ -309,8 +304,8 @@ Když se modlíme a meditujeme, chceme se ztotožnit s oceánem, a ne s vlnami. 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:941-cs
-  :DATE-EVENT: 1990-06-10
+  :cite-key: sca:941-cs
+  :date-event: 1990-06-10
   :END:
 
 
@@ -326,10 +321,10 @@ Mé poselství tedy zní, že každá země musí vynést na povrch své vnitřn
 * /Reportérka:/ Jakými prostředky může člověk dosáhnout míru v mysli a míru ve světě? Pomocí meditace, dobrých skutků, nebo lepším způsobem života?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:942-cs
-  :DATE-EVENT: 1990-06-10
+  :genre: qa
+  :keywords:
+  :cite-key: sca:942-cs
+  :date-event: 1990-06-10
   :END:
 
 
@@ -340,10 +335,10 @@ Mé poselství tedy zní, že každá země musí vynést na povrch své vnitřn
 * /Dr.Felix Kuzněcov:/ Rádi bychom vám vyjádřili vděčnost za vaše srdečné přijetí. Naším prostřednictvím jste přivítal celou naši zemi -- všechny sovětské občany. Cítíme, že to přichází z vašeho srdce. Setkání s vámi bylo pro nás jednou z nejdůležitějších událostí během naší návštěvy Ameriky.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:943-cs
-  :DATE-EVENT: 1990-06-10
+  :genre: qa
+  :keywords:
+  :cite-key: sca:943-cs
+  :date-event: 1990-06-10
   :END:
 
 
@@ -356,10 +351,10 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
 * /Paní Kuzněcovová:/ My vskutku jsme jedním. Doufáme, že naše děti se budou navzájem přátelit a že nebudou žádné hranice. Byli bychom rádi, kdybychom mohli navštěvovat naše přátele bez jakýchkoli překážek. 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:944-cs
-  :DATE-EVENT: 1990-06-10
+  :genre: qa
+  :keywords:
+  :cite-key: sca:944-cs
+  :date-event: 1990-06-10
   :END:
 
 
@@ -372,9 +367,9 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
 * Část III[fn:: SCA 945-946. Následující otázky zodpověděl Sri Chinmoy 20. července 1999 v newyorském Huntingtonu] 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:945e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:945e1-cs
   :END:
 
 
@@ -382,10 +377,10 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
 * Kam člověk odchází, když zemře?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:945-cs
-  :DATE-EVENT: 1999-07-20
+  :genre: qa
+  :keywords:
+  :cite-key: sca:945-cs
+  :date-event: 1999-07-20
   :END:
 
 
@@ -396,10 +391,10 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
 * Když zemřel John Kennedy, přišla jeho chvíle, nebo to byla nešťastná náhoda?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:946-cs
-  :DATE-EVENT: 1999-07-20
+  :genre: qa
+  :keywords:
+  :cite-key: sca:946-cs
+  :date-event: 1999-07-20
   :END:
 
 
@@ -412,7 +407,7 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:947e1-cs
+  :cite-key: sca:947e1-cs
   :END:
 
 
@@ -420,10 +415,10 @@ Když se modlíme a meditujeme, žijeme v srdci a uvědomujeme si svou jednotu 
 * Na Olympiádě
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCA:947-cs
-  :DATE-EVENT: 1999-09-29
+  :genre: discourse
+  :keywords:
+  :cite-key: sca:947-cs
+  :date-event: 1999-09-29
   :END:
 
 Už samotné slovo „Olympiáda“ ve mně vzbuzuje nádherné rozechvění, naprosto univerzální rozechvění, které ve vnitřním světě pozvedá vědomí lidstva. Je pravda, že ve vnějším světě si můžeme povšimnout některých špatných sil, ale ve vnitřním světě představuje olympiáda skvělou příležitost k pozvednutí lidského vědomí.
@@ -439,7 +434,7 @@ Tento svět je plný smutku, trápení, zklamání a deprese, děje se mnoho nep
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:948e1-cs
+  :cite-key: sca:948e1-cs
   :END:
 
 
@@ -447,10 +442,10 @@ Tento svět je plný smutku, trápení, zklamání a deprese, děje se mnoho nep
 * Na tvém Mírovém koncertu pro nové tisíciletí to vypadalo, jako kdybys ohlašoval příchod vědomí, které se naprosto liší od toho, které tady na zemi známe. Když nabízíš tyto Mírové koncerty pro nové tisíciletí, jaké je to vědomí, které do nich vkládáš?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:948-cs
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :keywords:
+  :cite-key: sca:948-cs
+  :date-event: 1999-11-25
   :END:
 
 
@@ -461,14 +456,14 @@ Tento svět je plný smutku, trápení, zklamání a deprese, děje se mnoho nep
 * Existuje nějaká nejdůležitější vlastnost, kterou bychom si měli v novém tisíciletí rozvinout?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:949-cs
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :keywords:
+  :cite-key: sca:949-cs
+  :date-event: 1999-11-25
   :END:
 
 
-/Sri Chinmoy:/ V novém tisíciletí musíme být upřímní, nejenom k Bohu, ale i sami k sobě. Nejenom v loňském, ale i ve všech předchozích letech jsme k Bohu nebyli upřímní, a nebyli jsme upřímní ani sami k sobě. Když nedokážeme být upřímní sami k sobě, budeme jako ten hlupák, který něco ukradl a potom desetkrát říká sám sobě, že nic neukradl. On ví, že něco ukradl, ale když si desetkrát řekne: „Nic jsem neukradl, nic jsem neukradl,“ přesvědčí svou mysl, že opravdu nic neukradl. Kdyby byl upřímný a přiznal si, že něco ukradl, už by to podruhé neudělal. 
+/Sri Chinmoy:/ v novém tisíciletí musíme být upřímní, nejenom k bohu, ale i sami k sobě. nejenom v loňském, ale i ve všech předchozích letech jsme k bohu nebyli upřímní, a nebyli jsme upřímní ani sami k sobě. když nedokážeme být upřímní sami k sobě, budeme jako ten hlupák, který něco ukradl a potom desetkrát říká sám sobě, že nic neukradl. on ví, že něco ukradl, ale když si desetkrát řekne: „Nic jsem neukradl, nic jsem neukradl,“ přesvědčí svou mysl, že opravdu nic neukradl. Kdyby byl upřímný a přiznal si, že něco ukradl, už by to podruhé neudělal. 
 
 V novém tisíciletí udělají lidé nejrychlejší pokrok tehdy, budou-li upřímní sami k sobě a k Bohu. Občas lidé jsou upřímní, ale nejsou upřímní k Bohu. Udělal jsem něco špatného a vím, že jsem to udělal já, ale nemám odvahu říci Bohu: „Bože, udělal jsem něco špatného.“
 
@@ -494,10 +489,10 @@ Dříve jsem křesťanským zpovědím nepřikládal žádný význam, ale teď 
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:950-cs
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :keywords:
+  :cite-key: sca:950-cs
+  :date-event: 1999-11-25
   :END:
 
 
@@ -512,24 +507,24 @@ Musíš svůj strach vyzvat na souboj. V opačném případě je velká pravdě
 * Co ti udělalo největší radost během tvého nedávného vzpěračského výročí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:951-cs
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :keywords:
+  :cite-key: sca:951-cs
+  :date-event: 1999-11-25
   :END:
 
 
-/Sri Chinmoy:/ Co mi udělalo největší radost? Mahasamratův úsměv. To myslím vážně! Nikdo se neusmívá jako Mahasamrat. Mahasamratův úsměv mi dává tu největší radost a sílu. Když jsem zdvihl 600 liber, 300 každou rukou, řekl: „Guru, ty jsi to dokázal!“ To mi dalo radost, uspokojení a sílu deseti slonů. Když jsem zdvihal činky, díval jsem se na Mahasamrata a jeho úsměv mi dával nejvyšší uspokojení -- je to úsměv nekonečné náklonnosti, lásky a důvěry.
+/Sri Chinmoy:/ co mi udělalo největší radost? mahasamratův úsměv. to myslím vážně! nikdo se neusmívá jako mahasamrat. mahasamratův úsměv mi dává tu největší radost a sílu. když jsem zdvihl 600 liber, 300 každou rukou, řekl: „Guru, ty jsi to dokázal!“ To mi dalo radost, uspokojení a sílu deseti slonů. Když jsem zdvihal činky, díval jsem se na Mahasamrata a jeho úsměv mi dával nejvyšší uspokojení -- je to úsměv nekonečné náklonnosti, lásky a důvěry.
 
 
 
 * Vždycky na mě dělá velký dojem záře Mahasamratova obličeje. Je fyzická, nebo duchovní?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:952-cs
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :keywords:
+  :cite-key: sca:952-cs
+  :date-event: 1999-11-25
   :END:
 
 
@@ -540,10 +535,10 @@ Musíš svůj strach vyzvat na souboj. V opačném případě je velká pravdě
 * Jak se dá nejlépe udělat pokrok prostřednictvím bolesti a nemoci? Jsem velmi často nemocný.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:953-cs
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :keywords:
+  :cite-key: sca:953-cs
+  :date-event: 1999-11-25
   :END:
 
 
@@ -553,7 +548,7 @@ Ty tu bolest, utrpení a nemoci nepřivoláváš a nevítáš. Nevítáš je a n
 
 Pokud jde o tebe, musíš cítit, že jde o velmi zvláštní zkušenost. Modlíš se k Bohu za Jeho naplnění. Modlíš se za Boží Vítězství, za Vítězství Nejvyššího, za vítězství svého Gurua. V tom musíš pokračovat. Musíš to dělat, i když trpíš, nejenom tehdy, když jsi fyzicky v pořádku. Neustále se budeš modlit za Boží Vítězství, za Vítězství Nejvyššího, za moje vítězství. Jedině tehdy, když dokážeš v této modlitbě pokračovat, získáš opravdový pocit, že tvoje utrpení má zvláštní účel. Jedině tehdy, když budeš neustále pro Boží Vítězství, pocítíš, že tuto fyzickou bolest má v tobě a tvým prostřednictvím ze zvláštního důvodu sám Bůh. 
 
-Když trpíš, neměl by sis říkat: „Bůh nechce, abych pro Něj pracoval. To je důvod, proč mi dává tuto bolest. Bůh chce, aby nejrychlejší pokrok dělal někdo jiný.“ Takto přemýšlí lidská mysl, ale srdce řekne: „Bůh miluje mé fyzické tělo nekonečně více, než já sám, a tuto zkušenost má On Sám uvnitř mě a mým prostřednictvím z důvodu, kterému nerozumím a nemusím rozumět.“ Tak můžeš udělat ten nejrychlejší pokrok. 
+Když trpíš, neměl by sis říkat: „bůh nechce, abych pro něj pracoval. to je důvod, proč mi dává tuto bolest. bůh chce, aby nejrychlejší pokrok dělal někdo jiný.“ takto přemýšlí lidská mysl, ale srdce řekne: „Bůh miluje mé fyzické tělo nekonečně více, než já sám, a tuto zkušenost má On Sám uvnitř mě a mým prostřednictvím z důvodu, kterému nerozumím a nemusím rozumět.“ Tak můžeš udělat ten nejrychlejší pokrok. 
 
 
 
@@ -562,7 +557,7 @@ Když trpíš, neměl by sis říkat: „Bůh nechce, abych pro Něj pracoval. T
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:954e1-cs
+  :cite-key: sca:954e1-cs
   :END:
 
 
@@ -570,10 +565,10 @@ Když trpíš, neměl by sis říkat: „Bůh nechce, abych pro Něj pracoval. T
 * Mohl bys nám prosím něco říci o Sahadévovi z Mahábháraty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:954-cs
-  :DATE-EVENT: 1999-12-27
+  :genre: qa
+  :keywords:
+  :cite-key: sca:954-cs
+  :date-event: 1999-12-27
   :END:
 
 
@@ -590,10 +585,10 @@ Mohu vám povědět jeden svůj osobní zážitek. V tomto životě mám velice 
 * Když se člověk poraní při sportu, například lýtkový sval, je nějaký způsob, jak to na vnitřní úrovni zcela vyléčit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:955-cs
-  :DATE-EVENT: 1999-12-27
+  :genre: qa
+  :keywords:
+  :cite-key: sca:955-cs
+  :date-event: 1999-12-27
   :END:
 
 
@@ -604,10 +599,10 @@ Mohu vám povědět jeden svůj osobní zážitek. V tomto životě mám velice 
 * Znamená nové tisíciletí něco pro každého člověka na zemi, nebo to platí jenom pro ty, kteří používají stejný kalendář?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:956-cs
-  :DATE-EVENT: 1999-12-27
+  :genre: qa
+  :keywords:
+  :cite-key: sca:956-cs
+  :date-event: 1999-12-27
   :END:
 
 
@@ -623,10 +618,10 @@ Kalendář nám ovšem říká, že nové tisíciletí není v roce 2000, ale v 
 * Nedávno jsi večer mluvil o hrách, které tady na vánočním výletě hrajeme pro pobavení. Co bychom měli v našich hrách dělat, abychom tě více potěšili?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:957-cs
-  :DATE-EVENT: 1999-12-27
+  :genre: qa
+  :keywords:
+  :cite-key: sca:957-cs
+  :date-event: 1999-12-27
   :END:
 
 
@@ -650,20 +645,20 @@ Myslíte si, že když jenom zapomenete na všechny ty špatné věci, které js
 
 Potíž je v tom, že když jste na duchovní cestě mnoho let a neporazíte všechny ty věci, které jste chtěli porazit -- žárlivost, nejistotu, nečistotu -- máte pocit, že je to nemožné. Bojujete a bojujete a žádná strana nevítězí. Tehdy si řeknete: „Dobrá, zapomeň na to. Ať zvítězí nevědomost.“ Jakmile zvítězí nevědomost, sebere vám sílu. Stanete se jejím otrokem a ona vás využije pro své vlastní účely. Všechny ty věci, které jste chtěli porazit -- žárlivost, nejistota a další druhy špatných sil -- představují podoby nevědomosti. Nejprve se snažíme z nevědomosti vyjít. Jakmile ale spatříme, že nevědomost je silnější než my, vzdáme se. Nevědomost nás získá zpátky a z nás se stanou její vojáci. Toto se stává skoro ve všech případech. 
 
-Dnes uděláme něco špatného, zítra se nic nestane a my si proto myslíme, že v tom můžeme pokračovat. Řekneme: „Byl jsem hlupák. Myslel jsem si, že je to něco škodlivého. Jelikož se nic neděje, Boží Hodina ještě neudeřila.“ Nedávno jsem řekl, že Boží Hodina nepřijímá omluvy. Kdy Boží Hodina přijde, nevíme. Na Boží Hodinu jsme zapomněli. To je důvod, proč s takovou jistotou pokračujeme v těch samých špatných věcech. Říkáme: „Zmýlil jsem se. Myslel jsem si, že jsem dělal něco špatného. Kdybych byl opravdu dělal něco špatného, jak to, že jsem nebyl potrestán?“
+Dnes uděláme něco špatného, zítra se nic nestane a my si proto myslíme, že v tom můžeme pokračovat. Řekneme: „byl jsem hlupák. myslel jsem si, že je to něco škodlivého. jelikož se nic neděje, boží hodina ještě neudeřila.“ nedávno jsem řekl, že boží hodina nepřijímá omluvy. kdy boží hodina přijde, nevíme. na boží hodinu jsme zapomněli. to je důvod, proč s takovou jistotou pokračujeme v těch samých špatných věcech. Říkáme: „Zmýlil jsem se. Myslel jsem si, že jsem dělal něco špatného. Kdybych byl opravdu dělal něco špatného, jak to, že jsem nebyl potrestán?“
 
 
 
 * Mluvil jsi o novém tisíciletí, a jak už v divadle nemůžeme po třetím zvonění vstoupit dovnitř. Takže pro toto nové tisíciletí už Boží Hodina udeřila. Mohl bys o tom říci něco více?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:958-cs
-  :DATE-EVENT: 1999-12-27
+  :genre: qa
+  :keywords:
+  :cite-key: sca:958-cs
+  :date-event: 1999-12-27
   :END:
 
-/Sri Chinmoy:/ Boží Hodina udeřila. Buď přijmete to božské v sobě, nebo to nebožské. Je tam obojí. Nebožské přichází s velkým pokušením. Je tak krásné, třpytivé a okouzlující. Tehdy řeknete: „Jak by to mohlo být nebožské?“ Božské je naproti tomu velice prosté. Obrátíte se tedy k tomu okouzlujícímu a krásnému. Potom řeknete: „Můj Bože! Takový podvod!“ Když Ravana přišel unést Sítu, měl podobu světce. Potom jí ukázal svou skutečnou podobu, ukázal jí, jak je špatný. Útočí-li špatné síly, vždy přijdou ve velice okouzlující podobě. Musíme být velmi opatrní a ponořit se hluboko dovnitř, abychom zjistili, které síly jsou dobré a které špatné. Nebožské síly si na sebe mohou vzít velice krásnou podobu.
+/Sri Chinmoy:/ boží hodina udeřila. buď přijmete to božské v sobě, nebo to nebožské. je tam obojí. nebožské přichází s velkým pokušením. je tak krásné, třpytivé a okouzlující. tehdy řeknete: „jak by to mohlo být nebožské?“ božské je naproti tomu velice prosté. obrátíte se tedy k tomu okouzlujícímu a krásnému. potom řeknete: „Můj Bože! Takový podvod!“ Když Ravana přišel unést Sítu, měl podobu světce. Potom jí ukázal svou skutečnou podobu, ukázal jí, jak je špatný. Útočí-li špatné síly, vždy přijdou ve velice okouzlující podobě. Musíme být velmi opatrní a ponořit se hluboko dovnitř, abychom zjistili, které síly jsou dobré a které špatné. Nebožské síly si na sebe mohou vzít velice krásnou podobu.
 
 Většina z vás zná příběh, který se mi stal v mých sedmnácti nebo osmnácti letech. Obvykle jsem začínal meditovat sedm minut po druhé hodině a pokračoval dvě nebo tři hodiny. Jednou si během mé meditace vzala jedna nepřátelská síla podobu Pána Višnu. Byl velice krásný! Byla to přesná podoba Pána Višnu. Seděl jsem se zkříženýma nohama na své posteli pod moskytiérou, která se používá v jižní Indii. Napravo ode mě na zdi jsem spatřil Višnua. Jak byl krásný! Vidět Pána Višnu bylo pro mě ohromně úchvatné! Četl jsem ale, a také jsem už věděl, že když přijde kosmický bůh nebo bohyně v tak úžasně krásné podobě, musíte zjistit, jestli jsou skuteční nebo ne. Musíte použít nejvyšší čistotu ze své centrální bytosti. Pokud je vaše čistota menší, než u té podoby, je božská. Je-li ovšem vaše čistota silnější, mocnější, potom ji to zničí.
 
@@ -675,10 +670,10 @@ Když spatříte nějakého kosmického boha, ihned byste se měli dotknout jeho
 * Řekl jsi, že novost přicházející s novým tisíciletím si může vzít podobu, kterou možná nebudeme schopni rozeznat.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:959-cs
-  :DATE-EVENT: 1999-12-27
+  :genre: qa
+  :keywords:
+  :cite-key: sca:959-cs
+  :date-event: 1999-12-27
   :END:
 
 /Sri Chinmoy:/ Budeme-li mít čistotu, naše srdce ji rozezná. Čistota je soudcem. Je-li člověk čistý, mimořádně čistý, potom ji pozná. Čistota -- fyzická, vitální a mentální -- je jako rentgen. Proti čistotě se nic nemůže postavit. Někteří lidé si myslí, že čistota je něco hloupého, zženštilého. Někteří lidé mají pocit, že se mohou očistit prostě tím, že si vymění šaty. Naše mysl je ale také jako špinavé, zamazané oblečení. Musíme ho zahodit a vzít si na sebe něco nového. Potom budeme čistí. Čistota vždy začíná ve vědomí. 
@@ -696,14 +691,14 @@ To je Pán Šiva. Na jednu stranu je laskavější než nejlaskavější. Žádn
 * V novoročním poselství je jeden řádek, který mi není jasný. Říká se v něm: „Buď spoutáme a oslepíme starý svět a odejdeme na odpočinek, nebo obejmeme nový svět pochodu vpřed.“ Co myslíš tím „spoutáme a oslepíme starý svět?“
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:960-cs
-  :DATE-EVENT: 1999-12-27
+  :genre: qa
+  :keywords:
+  :cite-key: sca:960-cs
+  :date-event: 1999-12-27
   :END:
 
 
-/Sri Chinmoy:/ Starý svět nás oslepil a spoutal. Starý svět nás mučil, držel nás v nižším než nejnižším vědomí a trestal nás. Starý svět znamená cokoliv neduchovního. Chceme-li se držet zásady „oko za oko“, můžeme říci: „Mučil jsi mě tolik let. Teď, když vidím světlo, spoutám tě, oslepím tě, jak jsi to ty dělal mně celé roky.“
+/Sri Chinmoy:/ starý svět nás oslepil a spoutal. starý svět nás mučil, držel nás v nižším než nejnižším vědomí a trestal nás. starý svět znamená cokoliv neduchovního. chceme-li se držet zásady „oko za oko“, můžeme říci: „Mučil jsi mě tolik let. Teď, když vidím světlo, spoutám tě, oslepím tě, jak jsi to ty dělal mně celé roky.“
 
 Přišel nový svět. Objevil se úsvit nového světla. Půjdeme ke světlu, nebo do tmy, která nás tisíce let trestala? Přímo před námi se teď objevilo zlaté světlo. Budeme ztrácet čas?
 
@@ -720,49 +715,33 @@ Jsme-li moudří, řekneme si: „Zapomeň na to, co ti starý svět udělal.“
 * Když nám hubuješ, měli bychom to přijímat s radostí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:961-cs
-  :DATE-EVENT: 1999-12-27
+  :genre: qa
+  :keywords:
+  :cite-key: sca:961-cs
+  :date-event: 1999-12-27
   :END:
 
 
-/Sri Chinmoy:/ Nedávno jsem vám dal modlitbu: „Jestli mě opravdu miluješ, dokaž mi to svým hubováním.“ Tato modlitba může být platná i tehdy, jestliže nic špatného neděláme, protože Bůh ví, že v příštím okamžiku něco špatného udělat můžeme. Možná nemáme tu vizi, abychom to viděli, ale Bůh ji má. Proto se můžeme modlit k Bohu: „Prosím hubuj mě. V příštím okamžiku mohu udělat něco špatného. Nejlépe bude, když mi vyhubuješ nyní, abych tu chybu neudělal.“
+/Sri Chinmoy:/ nedávno jsem vám dal modlitbu: „jestli mě opravdu miluješ, dokaž mi to svým hubováním.“ tato modlitba může být platná i tehdy, jestliže nic špatného neděláme, protože bůh ví, že v příštím okamžiku něco špatného udělat můžeme. možná nemáme tu vizi, abychom to viděli, ale bůh ji má. proto se můžeme modlit k bohu: „Prosím hubuj mě. V příštím okamžiku mohu udělat něco špatného. Nejlépe bude, když mi vyhubuješ nyní, abych tu chybu neudělal.“
 
-Když vám hubuji, sedmdesát procent žáků -- ne-li víc -- to nebere odpovídajícím způsobem. Navenek mohou říci: „Ach, jsem ti tak vděčný.“ Potom jdou domů a řeknou si: „Udělal jsem ve svém životě tolik dobrých věcí! Jen jednu věc jsem udělal špatně a on mi tak nemilosrdně vyhuboval!“ Těch zbývajících třicet procent žáků bude upřímně vděčných za to, že jsem poukázal na jejich slabost nebo nedostatek.
+Když vám hubuji, sedmdesát procent žáků -- ne-li víc -- to nebere odpovídajícím způsobem. Navenek mohou říci: „ach, jsem ti tak vděčný.“ potom jdou domů a řeknou si: „Udělal jsem ve svém životě tolik dobrých věcí! Jen jednu věc jsem udělal špatně a on mi tak nemilosrdně vyhuboval!“ Těch zbývajících třicet procent žáků bude upřímně vděčných za to, že jsem poukázal na jejich slabost nebo nedostatek.
 
-Nedávno jsem vyhuboval jednomu ze svých hlavních strážců. Vy víte, jak moc jej miluji. Toho dne jsem ale na něj štěkal až hrůza. Nakonec řekl: „Guru, tentokrát jsem nevinný, ale jsem si jist, že jsem udělal mnoho, mnoho špatných věcí. Proto si zasloužím tvé hubování.“ To byl jeho božský přístup. Jenom pár dní předtím udělal jeden žák něco špatného a protestoval proti mně. Hádal se se mnou tváří v tvář. Nebralo to konce. Já jsem mu huboval a on ospravedlňoval své činy. Počínal si ale správně? Podívejte se na božský přístup toho prvního. On to neudělal. Někdo mě špatně informoval. Potom řekl: „Jsem nevinný, ale jsem si jist, že jsem udělal mnoho špatných věcí, nebo něco špatného udělám.“ To promluvila jeho božskost. Ten druhý se tak zlobil! Zachrání nás náš božský přístup.
+Nedávno jsem vyhuboval jednomu ze svých hlavních strážců. Vy víte, jak moc jej miluji. Toho dne jsem ale na něj štěkal až hrůza. Nakonec řekl: „guru, tentokrát jsem nevinný, ale jsem si jist, že jsem udělal mnoho, mnoho špatných věcí. proto si zasloužím tvé hubování.“ to byl jeho božský přístup. jenom pár dní předtím udělal jeden žák něco špatného a protestoval proti mně. hádal se se mnou tváří v tvář. nebralo to konce. já jsem mu huboval a on ospravedlňoval své činy. počínal si ale správně? podívejte se na božský přístup toho prvního. on to neudělal. někdo mě špatně informoval. potom řekl: „Jsem nevinný, ale jsem si jist, že jsem udělal mnoho špatných věcí, nebo něco špatného udělám.“ To promluvila jeho božskost. Ten druhý se tak zlobil! Zachrání nás náš božský přístup.
 
 Když se na mě nějaký žák zlobí, je to vnější projev jeho vnitřní domýšlivosti. Taková domýšlivost přichází, když vedete nebožský, vitální život. Nejprve začíná neposlušností. Potom se z toho stane vzdor. Po vzdoru přichází domýšlivost, drzost a zrada. Neposlušnost končí jedině zradou. Celá věc začíná neposlušností. S Mistrem se hádají neduchovní žáci. Hledají na svém Mistrovi chyby. Cokoli, co Mistr řekne, není podle nich správné. Ti duchovní nevidí na radách svého Mistra nic špatného, dokonce i když se to týká něčeho ve vnějším životě, o čem oni vědí daleko více, než jejich Mistr. Vidí, že existuje cosi velmi vysokého, velmi hlubokého, co se projevuje tímto způsobem, aby prověřilo jejich víru v něj. Mistr zkouší jednotu svých žáků stovkami způsobů. 
 
-Všichni znáte slavný příběh o Pánu Kršnovi a Ardžunovi. Pán Kršna řekl: „Toto ovoce není černé, je bílé.“ V následujícím okamžiku barvu změnil. Pokaždé, když Pán Kršna řekl, že to ovoce má jinou barvu, Ardžuna s ním souhlasil. Ostatní říkali, že Ardžuna je buď idiot, darebák nebo pochlebovač první třídy. Judhištira a ostatní řekli, jakou barvu to ovoce má, a potom nehodlali svůj názor změnit. Ale Ardžuna jej změnil pokaždé, když jej změnil Pán Kršna. To byl důvod, proč ostatní říkali, že Ardžuna je buď pochlebovač první třídy nebo darebák. Ardžuna však měl pravdu. Řekl: „Boha budu moci realizovat jedině tehdy, když uvidím realitu, bez ohledu na to, jaká bude, způsobem mého Pána Kršny, jeho srdcem, jeho očima. Pro mě je morálka nebo skutečnost v této rovině. Koho zajímá, jestli je černé, bílé, zelené, nebo nějaké jiné? Pokud on chce, abych ho viděl jako červené, budu ho vidět jako červené. Jedině tehdy s ním budu neoddělitelně ztotožněn. Jaké by to jinak bylo neoddělitelné bytí s mým Mistrem?“ To je důvod, proč byl Ardžuna nejdražším žákem Sri Kršny -- díky jeho neoddělitelné jednotě.
+Všichni znáte slavný příběh o Pánu Kršnovi a Ardžunovi. Pán Kršna řekl: „toto ovoce není černé, je bílé.“ v následujícím okamžiku barvu změnil. pokaždé, když pán kršna řekl, že to ovoce má jinou barvu, ardžuna s ním souhlasil. ostatní říkali, že ardžuna je buď idiot, darebák nebo pochlebovač první třídy. judhištira a ostatní řekli, jakou barvu to ovoce má, a potom nehodlali svůj názor změnit. ale ardžuna jej změnil pokaždé, když jej změnil pán kršna. to byl důvod, proč ostatní říkali, že ardžuna je buď pochlebovač první třídy nebo darebák. ardžuna však měl pravdu. Řekl: „Boha budu moci realizovat jedině tehdy, když uvidím realitu, bez ohledu na to, jaká bude, způsobem mého Pána Kršny, jeho srdcem, jeho očima. Pro mě je morálka nebo skutečnost v této rovině. Koho zajímá, jestli je černé, bílé, zelené, nebo nějaké jiné? Pokud on chce, abych ho viděl jako červené, budu ho vidět jako červené. Jedině tehdy s ním budu neoddělitelně ztotožněn. Jaké by to jinak bylo neoddělitelné bytí s mým Mistrem?“ To je důvod, proč byl Ardžuna nejdražším žákem Sri Kršny -- díky jeho neoddělitelné jednotě.
 
-Jestliže Mistr řekne: „Ta voda je studená,“ potom pokud jste moudří, pak i kdyby ta voda byla horká, řeknete: „Koho zajímá, jestli je studená nebo horká? Chci s ním být neoddělitelně ztotožněn. Budu ji považovat za studenou.“ Obyčejní lidé se takovému přístupu budou smát. Řeknou, že jste buď darebák nebo pochlebovač. Ti, kteří řeknou, že to je nemožné, jsou v mysli. Naše filozofie však znamená jít za hranice mysli. Překročíte-li hranice mysli, vybudujete si svou jednotu s Boží Vůlí. Chcete-li se ztotožnit s Boží vůlí, nebudete si držet svou vlastní. Nakonec, co chcete -- Jeho Vůli, nebo svou vlastní vůli? Pokud chcete vlastní vůli, proč jste přijali duchovní život? Kdo vás nutil? Kdo vás zavázal? Kdo přišel do vašeho domu a přivlekl sem? Kdo spoutal vaše nohy a donesl sem? Máte svou svobodu. Vaší svobodou je říci: „Ne, ta voda je horká.“ Potom uvidíte, jak daleko dojdete.
+Jestliže Mistr řekne: „ta voda je studená,“ potom pokud jste moudří, pak i kdyby ta voda byla horká, řeknete: „koho zajímá, jestli je studená nebo horká? chci s ním být neoddělitelně ztotožněn. budu ji považovat za studenou.“ obyčejní lidé se takovému přístupu budou smát. Řeknou, že jste buď darebák nebo pochlebovač. ti, kteří řeknou, že to je nemožné, jsou v mysli. naše filozofie však znamená jít za hranice mysli. překročíte-li hranice mysli, vybudujete si svou jednotu s boží vůlí. chcete-li se ztotožnit s boží vůlí, nebudete si držet svou vlastní. nakonec, co chcete -- jeho vůli, nebo svou vlastní vůli? pokud chcete vlastní vůli, proč jste přijali duchovní život? kdo vás nutil? kdo vás zavázal? kdo přišel do vašeho domu a přivlekl sem? kdo spoutal vaše nohy a donesl sem? máte svou svobodu. vaší svobodou je říci: „Ne, ta voda je horká.“ Potom uvidíte, jak daleko dojdete.
 
-Když Mistr říká, že voda je studená, může zkoušet, kolik neoddělitelné jednoty máte s jeho vůlí. Můžete říci Mistrovi: „Miluji jenom tebe. Chci naplnit jenom tebe tvým vlastním způsobem. Kéž je mou vůlí tvá vůle.“ Mistr potom může říci: „Moje vůle říká, že ta voda je studená.“ Nato si můžete říci: „Ach, je to idiot. Vidím, jak je ta voda horká!“ Poté půjdete svou cestou. Ano, ta voda je horká. Ale v takové chvíli neříkejte, že chcete mít neoddělitelnou jednotu s vůlí vašeho Mistra. 
+Když Mistr říká, že voda je studená, může zkoušet, kolik neoddělitelné jednoty máte s jeho vůlí. Můžete říci Mistrovi: „miluji jenom tebe. chci naplnit jenom tebe tvým vlastním způsobem. kéž je mou vůlí tvá vůle.“ mistr potom může říci: „moje vůle říká, že ta voda je studená.“ nato si můžete říci: „Ach, je to idiot. Vidím, jak je ta voda horká!“ Poté půjdete svou cestou. Ano, ta voda je horká. Ale v takové chvíli neříkejte, že chcete mít neoddělitelnou jednotu s vůlí vašeho Mistra. 
 
 V tom je ten problém. Mistr říká jednu věc. Vy říkáte opak, protože vaše mysl vám říká, že máte na sto procent pravdu. Na jaké úrovni? Na úrovni mysli. Vy však musíte jít nekonečně dál, než je tato úroveň. V opačném případě je lepší nepřijímat duchovnost. Přijmete-li duchovnost, jenom se modlete k Bohu: „Chci vidět Tvýma Očima. Chci cítit Tvým Srdcem.“ Všechno je potřeba prožívat Jeho vlastním Způsobem. 
 
-Modlíme se k Bohu: „Chci Tě potěšit Tvým vlastním Způsobem.“ Když potom přijde Boží zástupce, řekneme: „Já tě chci potěšit tvým vlastním způsobem, ale ne tak, že budu poslouchat to, co říkáš, protože moje mysl mi říká, že nemáš pravdu.“ Pokud je to tak, zůstaňte se svou skvělou myslí. Proč ale mučíte svůj vnější život v Mistrově lodi? Běžte si svou cestou.
+Modlíme se k Bohu: „chci tě potěšit tvým vlastním způsobem.“ když potom přijde boží zástupce, řekneme: „Já tě chci potěšit tvým vlastním způsobem, ale ne tak, že budu poslouchat to, co říkáš, protože moje mysl mi říká, že nemáš pravdu.“ Pokud je to tak, zůstaňte se svou skvělou myslí. Proč ale mučíte svůj vnější život v Mistrově lodi? Běžte si svou cestou.
 
 V každém okamžiku jsme zkoušeni. Svůj názor musíme změnit stejným způsobem, jakým ho měnil i Ardžuna. Každý z nás je hrouda hlíny. Hrnčíř nás neustále mění. Můžete říci: „Ach ne, ne, ne! Proč to dělá?“ On nás ale může měnit, protože to bude On, kdo nás potom přemění na něco krásného. Takže opravdoví žáci jsou ti, kteří chtějí vidět nebo mají odhodlání vidět věci způsobem, jakým je vidí jejich Mistr. Tito žáci složí zkoušku. Jestliže si v opačném případě vyberete svou vlastní svobodu, můžete mít pravdu svým vlastním způsobem. Já si však přeji říci, že pokud Mistr dosáhl Nejvyššího a žák se nesnaží vidět vše Mistrovým způsobem, je tento žák v potížích.
 
-Poselství Ježíše Krista znělo: „Nechť se stane Tvá Vůle.“ Snadno mohl říci: „Tolik trpím! To mučení, kterým budu muset při ukřižování projít, jak by to mohla být Tvoje Vůle?“ Místo toho řekl: „Nechť se stane Tvá Vůle.“ Ztotožnil se s Boží Vůlí. To je důvod, proč se stal Kristem.
+Poselství Ježíše Krista znělo: „nechť se stane tvá vůle.“ snadno mohl říci: „tolik trpím! to mučení, kterým budu muset při ukřižování projít, jak by to mohla být tvoje vůle?“ místo toho řekl: „Nechť se stane Tvá Vůle.“ Ztotožnil se s Boží Vůlí. To je důvod, proč se stal Kristem.
 
 Když vás Mistr popíchne, řeknete: „Ach, já jsem si myslel, že jsi velice laskavý člověk. Jak jsi to mohl udělat?“ Soudíme Mistra pomocí své velmi omezené mysli. Zapomeňte na Mistra. Soudíte svou vlastní nejvyšší božskost pomocí své nižší než nejnižší inteligence nebo poznání. Poznání nemůže jít za určitou úroveň. Můžeme přečíst tisíce knih. Kniha nás může pouze trochu připravit k cestě k Nejvyššímu. Kniha nás do Nejvyššího nikdy nevezme. Kniha nás může inspirovat, jako průvodce. Průvodce nám ukazuje cestu, ale on sám není cílem. Knižní vědomosti nám ukazují cestu, ale poznání není cílem. Jen moudrost může jít výše než nejvýše, dále než nejdále, hlouběji než nejhlouběji. Naše moudrost nám řekne, že naše nejvyšší božskost má vždycky pravdu.
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

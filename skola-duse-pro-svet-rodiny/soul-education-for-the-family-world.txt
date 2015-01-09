@@ -1,20 +1,15 @@
-#+TITLE: Škola duše pro svět rodiny
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Škola duše pro svět rodiny
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2004
-  :PUBLISHER: Sri Chinmoy Centrum
-  :CITE-KEY: SEFW-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2004
+  :publisher: Sri Chinmoy Centrum
+  :cite-key: SEFW-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,10 +17,10 @@
 * Muži a ženy:
 
   :PROPERTIES:
-  :SUBTITLE: Jejich duchovní role a pozemské role
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SEFW:1e1-cs
+  :subtitle: Jejich duchovní role a pozemské role
+  :genre: section
+  :keywords:
+  :cite-key: sefw:1e1-cs
   :END:
 
 
@@ -33,9 +28,9 @@
 * Je ve světě duší rozdíl mezi mužem a ženou?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:1-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:1-cs
   :END:
 
 /Sri Chinmoy:/ Ve vývoji duší existují rozdíly, ale jejich podstata není v mužském či ženském rodu. Pokud je duše velmi pokročilá, velmi dospělá a velmi vyvinutá ve své schopnosti přijímat a získávat, bude mít potom více světla, než duše méně vyvinutá. Božskost je uvnitř nás všech, ale některé duše ji přijaly mnohem více. Tato vnímavost nesouvisí s rozdíly mezi mužem a ženou.
@@ -45,9 +40,9 @@
 * Liší se ženy duchovně od mužů?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:2-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:2-cs
   :END:
 
 /Sri Chinmoy:/ V Božím Oku jsou si muži a ženy rovni. Všichni jsme Božími dětmi, jako synové a dcery v rodině. Syn i dcera mohou oba plakat po vnitřním světě. Pokud pláčí společně pro tutéž věc, oba ji získají. Pokud však dcera pláče s největší upřímností, ale syn nikoliv, potom syn dostane tuto věc přirozeně mnohem později, protože musí čekat do té doby, než se stane upřímnějším. Je to výhradně záležitost vnitřního pláče. Pokud má žena intenzivnější vnitřní pláč než muž, dosáhne cíle první. Je to právě upřímnost, co se počítá, ne skutečnost, že ona je žena a on muž. Pokud upřímně něco potřebujete, tehdy si to zasloužíte. Pokud to upřímně nepotřebujete, potom si to nezasloužíte a nedostanete to. Není to otázka toho, zda jste muž nebo žena. Jde o to, kdo má upřímný vnitřní pláč. 
@@ -57,9 +52,9 @@
 * Existuje nějaký konkrétní důvod nebo něco uvnitř ženy, proč duchovní Mistři jako Sri Rámakrišna a Buddha nepřijímali ženy za své žáky?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:3-cs
   :END:
 
 /Sri Chinmoy:/ Existuje něco, proč se ženy často nehodí po duchovní život. Vy jste mé dcery, takže mi to prominete. Rád bych ale řekl, že když se ženy vdají a mají několik dětí, velmi často se stává, že zapomenou na svou potřebu Pravdy a Boha. Zapomenou i na své manžely. Jejich cílem se stává pouze potěšit své děti a nechávat se těšit jimi. Děti se stanou jejich Bohem. Když vstoupí do života ženy dítě, země ji často velmi mocně spoutá. Potom už se často přestane zajímat o Nebe.
@@ -75,9 +70,9 @@ Kdyby ženy využívaly čas, který promarní žárlivostí, k rozvíjení sv�
 * Všiml jsem si, že většina vysoce duchovně vyvinutých duší, o kterých jsem četl nebo je znal, jsou muži, a zajímalo mě, proč tomu tak je.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:4-cs
   :END:
 
 /Sri Chinmoy:/ Do jisté míry je pravda, že většina duchovních postav v Indii a kdekoliv jinde jsou muži, a ne ženy. Zejména pokud mluvíme o Avatárech, přímých zástupcích Boha, víme, že byli všichni muži. Pokud ale jdeme více do hloubky, vidíme, že většina takzvaných velkých duchovních Mistrů a jogínů se modlila k mateřskému aspektu Boha nebo na něj meditovala. Zejména v Indii hledající objevili tuto pravdu, že Bůh je jak matkou, tak i otcem -- je mužský i ženský. Zároveň je Bůh nade vším. Bůh zahrnuje vše. Ráma, první Avatár, jeden z největších indických duchovních Mistrů, se modlil k bohyni jménem Durga. Modlil se k ní, aby jej ochránila., když byl v nebezpečí, přestože byl velký duchovní Mistr. Duchovní Mistři se velmi často obracejí k ženskému aspektu Božského. 
@@ -92,7 +87,7 @@ Potom následuje nejtěžší z testů připraveným kosmickými bohy a bohyn�
 
 Musím ale říci s veškerou upřímností, že pokud jde o naprosté a celkové osvobození, je žena naprosto rovnocenná muži. Z tohoto důvodu spousta duchovních Mistrů zjistila, že aby dosáhli skutečné úplnosti, museli přijmout ženský protějšek. Skutečně velcí duchovní Mistři věděli, že není chybou ženský protějšek přijmout. Musíte ale vědět, kde tento vztah stojí. Je to na vnitřní úrovni, na božské úrovni, kde jeden doplňuje druhého. Jeden není podřazený tomu druhému. Tento ženský protějšek se stává manželkou či duchovním partnerem. Říká se jí šakti. 
 
-V Indii však byla mezi duchovními obry a světci celá řada žen. Také na Západě máte svatou Terezu a další. Existovala spousta významných duchovních žen s nejvyšší realizací. Jediným rozdílem je počet -- je mezi nimi více mužů než žen. Ale pokud jde o realizaci, ženy mohou mít úplně stejné nejvyšší transcendentální Vědomí jako muži. V Upanišadách nám před čtyřmi tisíci let dala žena významné poselství. Byl jeden mudrc, který měl dvě ženy. Na sklonku svého života chtěl odejít do lesů na odpočinek, a tak řekl svým ženám: „Mám ohromný majetek. Přeji si, abyste se o něj podělily.“ Ale jedna z jeho žen, jež se jmenovala Maitreyi, řekla: „Dá mi to Nesmrtelnost?“ On odpověděl: „Ne, ne, ne. Je to všechno jen materiální bohatství. Pro Nesmrtelnost musíš aspirovat, musíš meditovat.“ Maitreyi řekla okamžitě: „Co si počnu s tím, co neučiní mé vědomí nesmrtelným? Nechci to.“ Maitreyi chtěla to dosáhnout toho nejvyššího cíle v duchovním životě. Meditovala a nakonec realizovala to Nejvyšší.
+V Indii však byla mezi duchovními obry a světci celá řada žen. Také na Západě máte svatou Terezu a další. Existovala spousta významných duchovních žen s nejvyšší realizací. Jediným rozdílem je počet -- je mezi nimi více mužů než žen. Ale pokud jde o realizaci, ženy mohou mít úplně stejné nejvyšší transcendentální Vědomí jako muži. V Upanišadách nám před čtyřmi tisíci let dala žena významné poselství. Byl jeden mudrc, který měl dvě ženy. Na sklonku svého života chtěl odejít do lesů na odpočinek, a tak řekl svým ženám: „mám ohromný majetek. přeji si, abyste se o něj podělily.“ ale jedna z jeho žen, jež se jmenovala maitreyi, řekla: „dá mi to nesmrtelnost?“ on odpověděl: „ne, ne, ne. je to všechno jen materiální bohatství. pro nesmrtelnost musíš aspirovat, musíš meditovat.“ maitreyi řekla okamžitě: „Co si počnu s tím, co neučiní mé vědomí nesmrtelným? Nechci to.“ Maitreyi chtěla to dosáhnout toho nejvyššího cíle v duchovním životě. Meditovala a nakonec realizovala to Nejvyšší.
 
 V Indii žije realizovaný duchovní Mistr a jedná se o ženu. Jmenuje se Ánanda Mayi Ma. Je nesmírně vysoko; je to realizovaná duše. Viděl jsem v Ánanda Mayi Ma opravdovou duchovnost a také někteří moji žáci se s ní setkali a cítili její velikost. Před šesti nebo sedmi lety se dva významní filozofové dohadovali o vědomí a Nekonečnosti. Přeli se po dlouhé hodiny. Potom zašli za Ánanda Mayi Ma. Ona nikdy téměř nic nečetla, ale skrze své duchovní osvícení, své vnitřní osvícení jejich problém osvětlila. Během tří minut shrnula vše. Řekla jen několik slov a oni šli domů spokojení. Takže vidíte, že je docela možné, aby žena realizovala Boha a stala se Guruem.
 
@@ -101,9 +96,9 @@ V Indii žije realizovaný duchovní Mistr a jedná se o ženu. Jmenuje se Á
 * Je v současnosti více svobodných žen proto, že chtějí spíše pracovat než pečovat o rodinu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:5-cs
   :END:
 
 /Sri Chinmoy:/ Není to spojeno jen s prací, proč zůstávají ženy svobodné. Ve vnějším světě vidí, že se muži a ženy spolu neustále hádají, zápasí spolu a nejsou spokojeni jeden s druhým. Ženy cítí, že pokud mají být nespokojené, potom je lépe být nespokojený se sebou než s někým jiným. Ať už se proklínají nebo si žehnají, přinejmenším mají vládu nad svým životem. Jsou svými vlastními pány.
@@ -120,9 +115,9 @@ Já podporuji toto ženské hnutí, ženy musí ale vědět, jaký druh svobody 
 * Jak mezi sebou muži a ženy soutěží?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:6-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:6-cs
   :END:
 
 /Sri Chinmoy:/ Jak muži, tak ženy spolu soutěží, aby ovládali a vlastnili. Muži k tomu používají svůj aspekt síly -- fyzické, vitální, mentální, psychické a duchovní. Ženy soutěží se svým aspektem krásy, rovněž na fyzické, vitální, mentální, psychické a duchovní úrovni.
@@ -132,9 +127,9 @@ Já podporuji toto ženské hnutí, ženy musí ale vědět, jaký druh svobody 
 * Myslím, že je výborné, když ženy začnou dělat něco, co je považováno za oblast mužů; pokud tak ale činí, neberou na sebe muži a ženy navzájem slabosti těch druhých?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:7-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:7-cs
   :END:
 
 /Sri Chinmoy:/ Ano, to je docela pravda. Viděli jsme to v našich vlastních Centrech. Vídávali jsme, že muži byli agresivní a ženy nejisté. Ale nyní, když se objevuje soutěžení o to, kdo získá jakou práci, do některých žákyň vstoupila ohromná agresivita. Vyzývají muže a ti nyní ukazují svou nejistotu. Ženy na sebe berou mužské slabosti a muži zase ty ženské.
@@ -144,14 +139,14 @@ Já podporuji toto ženské hnutí, ženy musí ale vědět, jaký druh svobody 
 * Začínají nyní ženy rovněž používat vitální síly, když se snaží s muži soutěžit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:8-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:8-cs
   :END:
 
-/Sri Chinmoy:/ Začínají. Doufejme, že budou spokojené s tím, co získají. Vlastnictví někoho jiného je velmi krásné, dokud jej nezískáme my sami; jakmile jej ale získáme, velmi často už tak krásné není. Ženy získají takové osvobození, jaké chtějí. Když jim však bude dána příležitost dělat vše, co chtějí, řadu věcí začnou opomíjet. Budou chtít dělat jen to, co dělají muži. Potom nastane skvělá doba mezi manželi, mezi mužem a ženou. Když bude dělat žena stejné věci jako muž, budou oba ve stejnou dobu pracovat a s domácností to půjde s kopce. V noci, když přijdou oba domů unavení a vyčerpaní, žena řekne: „Ty uděláš půlku práce a já udělám tu druhou.“ Může se potom stát, že jeden z nich nebude ochotný dělat svoji část. Budou stovky způsobů, jak se dostat do konfliktu. 
+/Sri Chinmoy:/ začínají. doufejme, že budou spokojené s tím, co získají. vlastnictví někoho jiného je velmi krásné, dokud jej nezískáme my sami; jakmile jej ale získáme, velmi často už tak krásné není. Ženy získají takové osvobození, jaké chtějí. když jim však bude dána příležitost dělat vše, co chtějí, řadu věcí začnou opomíjet. budou chtít dělat jen to, co dělají muži. potom nastane skvělá doba mezi manželi, mezi mužem a ženou. když bude dělat žena stejné věci jako muž, budou oba ve stejnou dobu pracovat a s domácností to půjde s kopce. v noci, když přijdou oba domů unavení a vyčerpaní, žena řekne: „Ty uděláš půlku práce a já udělám tu druhou.“ Může se potom stát, že jeden z nich nebude ochotný dělat svoji část. Budou stovky způsobů, jak se dostat do konfliktu. 
 
-V indických vesnicích nedovolují muži svým ženám chodit do práce. Důvod, který udávají, je, že je pod jejich důstojnost posílat ženy do práce. Někdo si však pomyslí: „On nechce, aby jeho žena přišla do kontaktu s muži v úřadě. Bojí se, že svou ženu ztratí.“ Když ženy dostanou svobodu, po které volaly, manželé, díky společenskému tlaku, řeknou: „Dobře, běž do práce.“ Můžeme říci, že dělají určitou oběť nebo že podstupují riziko, protože nikdo neví, do jaké míry dokáží ženy mít svůj život ve svých rukou, když budou muset čelit okolnímu světu. Když ale budou ženy skutečně čelit okolnímu světu, musí být velmi statečné. Musí stát ve světě, ale nesmí se jím nechat ovlivnit. Budou čelit pokušení. Pokud budou slabé, zničí je to. Když budou silné, tehdy je to nezničí.
+V indických vesnicích nedovolují muži svým ženám chodit do práce. Důvod, který udávají, je, že je pod jejich důstojnost posílat ženy do práce. Někdo si však pomyslí: „on nechce, aby jeho žena přišla do kontaktu s muži v úřadě. bojí se, že svou ženu ztratí.“ když ženy dostanou svobodu, po které volaly, manželé, díky společenskému tlaku, řeknou: „Dobře, běž do práce.“ Můžeme říci, že dělají určitou oběť nebo že podstupují riziko, protože nikdo neví, do jaké míry dokáží ženy mít svůj život ve svých rukou, když budou muset čelit okolnímu světu. Když ale budou ženy skutečně čelit okolnímu světu, musí být velmi statečné. Musí stát ve světě, ale nesmí se jím nechat ovlivnit. Budou čelit pokušení. Pokud budou slabé, zničí je to. Když budou silné, tehdy je to nezničí.
 
 Když chce někdo vstoupit na určité pole, měl by vědět, do čeho jde. Když se budou ženy poměřovat s muži příliš, bude to, jako by skočily do ohně; budou zcela ztracené. I když přispějí stejným dílem, zjistí, že opomenuly řadu důležitých věcí. Ženy musí někde stanovit svou mez. Neměly by soutěžit s muži jen kvůli soutěžení samotnému. Pokud to budou dělat, vytvoří si jen samy sobě potíže. Řekněme, že žena vede restauraci a manžel je hudebník. Když se žena rozhodne soutěžit s ním v hudbě, zanedbá svou vlastní práci. Řekne: „Chci hrát na kytaru.“ Až její restaurace zbankrotuje, kdo pak pocítí ztrátu?
 
@@ -162,10 +157,10 @@ Pokud existují dva druhy činnosti, neměli bychom přikládat stejnou důleži
 * Rodinný život:
 
   :PROPERTIES:
-  :SUBTITLE: Manželé a manželky, děti a rodiče
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SEFW:9e1-cs
+  :subtitle: Manželé a manželky, děti a rodiče
+  :genre: section
+  :keywords:
+  :cite-key: sefw:9e1-cs
   :END:
 
 
@@ -173,12 +168,12 @@ Pokud existují dva druhy činnosti, neměli bychom přikládat stejnou důleži
 * Má se za to, že v kalijuze by měl člověk spíše pěstovat oddanost než se řídit filozofií Védanty. Je to tvrzení, které se týká každého, nebo to platí pouze pro manželské domácnosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:9-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:9-cs
   :END:
 
-/Sri Chinmoy:/ Toto poselství je pro každého. V dnešním světě musí být védantská filozofie upravena. Jinak tento svět nebude pokračovat v tom smyslu, jak jej známe. Říká se, že védantská filozofie má sklon tvrdit, že svět je iluze. Toto není ryzí Védanta, avšak neaspirující lidé, kteří védantskou filozofii následují, skutečně věří, že svět iluze je. Lidé, kteří věří tomuto výkladu, mají pocit: „Komu záleží na světě?“ Potom se okamžitě z tohoto světa stahují. Védanta ale nebyla dobře pochopena. Sri Rámakrišna říkal, že pokud budeme brát Védantu v tomto smyslu, nikdo nebude pracovat. Všichni řeknou, že svět je iluze, a budou chtít jít na nějaké opuštěné místo, aby tam pouze meditovali. Proto Rámakrišna radil hledajícím, aby se dali na cestu oddanosti. Vždy říkával Vivékánandovi, aby praktikoval vnitřní život ne védantickým, ale jeho způsobem, což znamená cestou oddanosti. Modlil se k Matce Kálí, aby svět přijal cestu lásky, oddanosti a odevzdání. 
+/Sri Chinmoy:/ toto poselství je pro každého. v dnešním světě musí být védantská filozofie upravena. jinak tento svět nebude pokračovat v tom smyslu, jak jej známe. Říká se, že védantská filozofie má sklon tvrdit, že svět je iluze. toto není ryzí védanta, avšak neaspirující lidé, kteří védantskou filozofii následují, skutečně věří, že svět iluze je. lidé, kteří věří tomuto výkladu, mají pocit: „Komu záleží na světě?“ Potom se okamžitě z tohoto světa stahují. Védanta ale nebyla dobře pochopena. Sri Rámakrišna říkal, že pokud budeme brát Védantu v tomto smyslu, nikdo nebude pracovat. Všichni řeknou, že svět je iluze, a budou chtít jít na nějaké opuštěné místo, aby tam pouze meditovali. Proto Rámakrišna radil hledajícím, aby se dali na cestu oddanosti. Vždy říkával Vivékánandovi, aby praktikoval vnitřní život ne védantickým, ale jeho způsobem, což znamená cestou oddanosti. Modlil se k Matce Kálí, aby svět přijal cestu lásky, oddanosti a odevzdání. 
 
 Pokud zůstane svět u své rafinované mysli, pokud zůstane u své logické mysli, jež nemá žádné světlo, pokud zůstane u své intelektuální mysli, pramenící ne z čistého intelektu, ale z velmi jemné arogance, potom neexistuje žádná naděje na sebeobjevení či realizaci Boha. Nejrychlejší cestou je cesta oddanosti. V této cestě je nekonečná moudrost.
 
@@ -193,9 +188,9 @@ Manžel a manželka se musí cítit jedním, když se ale někdy jedním necít
 * Myslíte si, že pokud někdo chce vést vitální život, potom by se měl oženit či vdát, a pokud se někdo chystá zůstat svobodný, měl by zcela dodržovat celibát?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:10-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:10-cs
   :END:
 
 /Sri Chinmoy:/ Naprosto. Nesměšujte to. Pokud chcete zůstat svobodní, dodržujte celibát nejen fyzicky, ale také vitálně a v mysli. Potom budete schopni učinit pokrok. Jinak není žádného pokroku. Pokud si v mentálním světě libujete ve všech nebožských myšlenkách, buďte ujištěni, že neděláte žádný pokrok. Nižší síly by měly být vykořeněny z mentálního světa a z vitálního světa právě tak, jako ze světa fyzického. Tomu se říká skutečný celibát.
@@ -205,9 +200,9 @@ Manžel a manželka se musí cítit jedním, když se ale někdy jedním necít
 * Jaký je nejlepší způsob, jak vykořenit myšlenky na sex z mentálního světa?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:11-cs
   :END:
 
 /Sri Chinmoy:/ Tím, že budete neustále setrvávat v srdci, v srdci čistoty. Ciťte, že mentální svět pro vás není skutečný. Psychický svět, svět srdce, je vaším skutečným světem a tam můžete zůstat čistí. Dokážete to udělat. Zůstaňte jen v psychickém světě.
@@ -217,9 +212,9 @@ Manžel a manželka se musí cítit jedním, když se ale někdy jedním necít
 * Guru, jak se může manžel cítit šťastný, když jeho žena pro tebe pracuje, a on ne?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:12-cs
   :END:
 
 /Sri Chinmoy:/ Naneštěstí si tento manžel neuvědomuje, že pokud mě jeho žena těší, ocenění a láska, které ode mě dostává, jde také k tomu, s kým si vytvořila jednotu. Pokud se napiješ vody, vědomí vody vstupuje do celé tvé bytosti. Má vděčnost tvé ženě od tebe není oddělena. Pokud jde o schopnosti, jste ty a tvá žena jedním. Když se jen ponoříš do hloubky, uvidíš, že mé srdce je samou vděčností. Pokud se jeden z vás cítí špatně, když ten druhý pro mě pracuje, potom zde schází jednota. Když žáci vykonávají nesobeckou službu, mělo by to být vždy s pocitem jednoty.
@@ -229,9 +224,9 @@ Manžel a manželka se musí cítit jedním, když se ale někdy jedním necít
 * Co když žena chodí do práce kvůli duševní rovnováze a najme služebnou, aby se starala o dům?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:13-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:13-cs
   :END:
 
 /Sri Chinmoy:/ Rovnováha je jedna věc a svatost je věc druhá. Pokud si najmete služebnou, aby se vám starala o dům, nemáte žádnou představu, jaký způsob života vede. Váš způsob života je možná založen na čistotě, ale život vaší služebné může být samá nečistota. Budete s ní mít pohovor, abyste zjistili, zda je v pořádku, ale její jemné vibrace na vnitřní úrovni mohou být zaplaveny nečistotou. Co se potom stane? Nechodíte do kina, do barů ani na jiná nebožská místa, ale najednou začnou do vaší mysli vstupovat velmi nebožské myšlenky a vy nebudete vědět, odkud přicházejí. Jak si zajistíte čistotu vaší služebné? Snažíte se vést čistý život a dosáhli jste určitého standardu. Chcete nyní svůj standard obětovat, protože doma je to velmi nudné a vy chcete získat nějakou práci. Pokud ale závisíte na někom jiném, kdo se vám stará o dům, nemůžete vědět, jak duchovní či neduchovní tento člověk je, a nebudete si schopni vysvětlit nebožské síly, které vás budou napadat. 
@@ -241,9 +236,9 @@ Manžel a manželka se musí cítit jedním, když se ale někdy jedním necít
 * Řekl byste nám něco o těch všeobecně diskutovaných zákonech o potratech? Je potrat duchovně přípustný?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:14-cs
   :END:
 
 /Sri Chinmoy:/ Dovolte mi nejprve začít u snahy o kontrolu porodnosti. Z toho nejvyššího duchovního hlediska musí být sexuální život přeměněn, osvícen, zbožštěn a zdokonalen. Sexuální život a realizace Boha nemohou jít nikdy dohromady. To je bez diskuse. Zdokonalení však nemůže vyvstat přes noc. Musí tak být učiněno postupně. Sexuální život je lidská slabost či nezbytnost. Pokud je ale v rodině osm či deset dětí, rodiče se o ně nemohou pořádně postarat. Někteří rodiče jsou skutečně chudí, zatímco jiní jsou bohatí. Přestože jsou bohatí, nemohou se řádně postarat o deset dětí. Matka je také jen lidská bytost. Jak si může rovnocenně všímat deseti dětí či dát odpovídající množství lásky a náklonnosti tolika dětem? 
@@ -261,18 +256,18 @@ Pokud žena ví, že bude mít dítě, které nechce, pak jediné důležité je
 * Odrazujete své žáky od toho, aby měli děti, proto, že děti brání pokroku rodičů?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:15-cs
   :END:
 
 /Sri Chinmoy:/ Nemůžeme v žádném případě vinit děti. Odrazuji své žáky od toho, aby měli děti, protože jakmile děti vstoupí do jejich života, Bůh, který je nahoře, nezůstane Bohem jediným. V suterénu získají dalšího Boha, své dítě. Ubohý Bůh se pak cítí špatně. Cítí, že nezískává dostatek pozornosti. Nyní, když mají nového Boha, ten ze suterénu získává padesát procent jejich pozornosti a ten z prvního patra zbylých padesát procent. Ale ten, který je v suterénu, je falešný Bůh. Uvnitř má skutečného Boha, to je pravda. Avšak ten, který je vším -- mírem, světlem a blažeností v nekonečné míře, je Bůh nahoře.
 
-Jednoho duchovního Mistra se jednou zeptal jeho velmi oddaný žák: „Když nám nedovolíš mít děti, jak může potom lidstvo přežít? Meditovali jsme tolik let; všichni jsme duchovní lidé. Pokud nepřivedeme na svět více duchovních lidí, svět neudělá žádný pokrok.“ Mistr odpověděl: „Nemusíte se obávat o Boží stvoření. Na světě jsou miliony lidí, kteří budou na zachování Božího stvoření myslet. V tuto chvíli Bůh chce, abyste dosáhli osvícení. Pracujte na úkolu, který vám dal, a nesnažte se brát práci jiným. Děti do tohoto světa přivedou jiní -- to je jejich úkolem. Vaším úkolem je realizace Boha. Po realizaci, kdykoliv budete chtít dítě, budete je moci mít. Nyní vás Bůh žádá, abyste Jej realizovali.
+Jednoho duchovního Mistra se jednou zeptal jeho velmi oddaný žák: „když nám nedovolíš mít děti, jak může potom lidstvo přežít? meditovali jsme tolik let; všichni jsme duchovní lidé. pokud nepřivedeme na svět více duchovních lidí, svět neudělá žádný pokrok.“ mistr odpověděl: „Nemusíte se obávat o Boží stvoření. Na světě jsou miliony lidí, kteří budou na zachování Božího stvoření myslet. V tuto chvíli Bůh chce, abyste dosáhli osvícení. Pracujte na úkolu, který vám dal, a nesnažte se brát práci jiným. Děti do tohoto světa přivedou jiní -- to je jejich úkolem. Vaším úkolem je realizace Boha. Po realizaci, kdykoliv budete chtít dítě, budete je moci mít. Nyní vás Bůh žádá, abyste Jej realizovali.
 
 Můžete říci, že starat se o vaše děti je božská úloha, protože Bůh je v nich samotných. Kdo to může popřít? Bůh v nich je. Co když ale Bůh chce, abyste byli naprosto oddáni a zasvěceni Jemu? On na vaše dítě nežárlí, zdaleka ne. Konečně, jste oba jeho dětmi. On ale cítí, že pokud jej mají jeho děti zcela realizovat v této inkarnaci, potom je to zaměstnání na plný úvazek. Může vám být dvacet osm a vaší dceři dva nebo tři roky, ale v Božích Očích jste vy samotná dítětem, ničím jiným. Jak se může dítě starat o jiné dítě? A tak Bůh cítí, že protože chce, abyste Jej zcela realizovala, je vaší povinností, abyste Jej těšila Jeho vlastním způsobem. To je Jeho Vize. 
 
-Bůh má spoustu jiných lidí na to, aby měli děti. Až vám bude šedesát či sedmdesát let, až opustíte tělo, nebude se vás Bůh ptát na vaše děti. Bůh se bude ptát pouze na vás. „Co jsi pro Mne udělala?“ zeptá se. Nebude se ale ptát: „Máš šest nebo sedm dětí, řekni mi o nich něco nového.“ Vaši příbuzní se vás zeptají, jak se mají vaše děti, ale Bůh se vás jen zeptá: „Jak dalece jsi Mě realizovala v Mém nejvyšším Vědomí? Nakolik ses mi oddala svým životem?“ Když odpovíte: „Musel jsem myslet na své děti, takže jsem nemohl tolik myslet na Tebe,“ On řekne: „Zadal jsem ti tento úkol? Zadal jsem ti jediný úkol, a to abys myslel na Mne.“
+Bůh má spoustu jiných lidí na to, aby měli děti. Až vám bude šedesát či sedmdesát let, až opustíte tělo, nebude se vás Bůh ptát na vaše děti. Bůh se bude ptát pouze na vás. „Co jsi pro Mne udělala?“ zeptá se. Nebude se ale ptát: „máš šest nebo sedm dětí, řekni mi o nich něco nového.“ vaši příbuzní se vás zeptají, jak se mají vaše děti, ale bůh se vás jen zeptá: „jak dalece jsi mě realizovala v mém nejvyšším vědomí? nakolik ses mi oddala svým životem?“ když odpovíte: „musel jsem myslet na své děti, takže jsem nemohl tolik myslet na tebe,“ on řekne: „Zadal jsem ti tento úkol? Zadal jsem ti jediný úkol, a to abys myslel na Mne.“
 
 Skutečně cítím, že pokud jste opravdu přijali duchovní cestu, není dobré mít děti. Samozřejmě, že pokud už děti máte, musíte se o ně postarat. Ale od této chvíle změňte svůj vztah se svým manželem či manželkou. Staňte se bratrem a sestrou. Je trochu rozdíl mezi rychlostí indického povozu a rychlostí tryskového letadla. Radost, kterou vám vaše dítě dá, když se směje, nemohu popřít. Jakmile se však zamyslíte nad tím, kde bylo vaše vědomí předtím, než jste měli dítě, a kde bylo potom, budete-li upřímní, uvidíte, jak jste klesli. Pokud řeknete, „Ne, já to zvládnu, jsem velmi silný. Zvládnu jedno nebo dvě děti,“ co mám potom říci? Vy musíte vědět, kolik máte kapacity. Co se týče mých vlastních žáků, říkám jim, aby neměli ani jedno dítě, protože znám jejich kapacitu lépe než oni sami. Pokud budou mít děti, stanou se zbytečnými žáky a já budu bezmocný Guru. Proto odrazuji duchovní aspiranty, aby měli děti. 
 
@@ -285,12 +280,12 @@ Pokud někteří lidé říkají, že mají kapacitu vést řádný duchovní ž
 * Pokud máme děti, jak můžeme mít Nejvyššího nejlépe na paměti a nenechat děti do tohoto vztahu příliš zasáhnout?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:16-cs
   :END:
 
-/Sri Chinmoy:/ Brzy ráno, než začne dítě plakat, plačte, prosím, po vaší božské Matce a Otci, kterými je Nejvyšší. Když potom přijde čas, kdy krmíte své dítě, než začnete, myslete na Nejvyššího. Zatímco dítě krmíte, řekněte Nejvyššímu: „Nejvyšší, já krmím své dítě. Nakrm, prosím, také mě, protože jsem Tvé dítě.“ V tu chvíli vás Nejvyšší určitě duchovně nasytí. Jakmile nakrmíte dítě a ono je docela spokojené a tiché, modlete se k Nejvyššímu, aby vás nakrmil ještě jednou. Tímto způsobem krmíte své dítě pouze jednou, ale Nejvyšší vás krmí třikrát. Proč vás krmí? Protože pláčete po Jeho vnitřní potravě. 
+/Sri Chinmoy:/ brzy ráno, než začne dítě plakat, plačte, prosím, po vaší božské matce a otci, kterými je nejvyšší. když potom přijde čas, kdy krmíte své dítě, než začnete, myslete na nejvyššího. zatímco dítě krmíte, řekněte nejvyššímu: „Nejvyšší, já krmím své dítě. Nakrm, prosím, také mě, protože jsem Tvé dítě.“ V tu chvíli vás Nejvyšší určitě duchovně nasytí. Jakmile nakrmíte dítě a ono je docela spokojené a tiché, modlete se k Nejvyššímu, aby vás nakrmil ještě jednou. Tímto způsobem krmíte své dítě pouze jednou, ale Nejvyšší vás krmí třikrát. Proč vás krmí? Protože pláčete po Jeho vnitřní potravě. 
 
 Pokaždé, když děláte něco pro své dítě, požádejte v duchu Nejvyššího, aby udělal totéž pro vás. Pokaždé, když svému dítěti projevíte nějakou náklonnost nebo na něj myslíte, modlete se k Nejvyššímu, aby vám požehnal a vedl stejným způsobem. V okamžiku, kdy myslíte na své dítě, vaše dítě se stane vaším pánem, pokud nemyslíte nejprve na Nejvyššího. Nemyslete si, prosím, že pokud se na vás vaše dítě usmívá, je celý svět u vašich nohou. Namísto toho si myslete, že jste dítětem Nejvyššího, a když se na vás On usměje, když je vámi potěšen, tehdy získáváte největší radost. Když dostanete něco od Nejvyššího ze své modlitby a meditace, musíte cítit, že je to jediná věc, kterou potřebujete. Až to získáte, můžete to dát svému dítěti, svému manželovi, svým blízkým a drahým. Toto je nejlepší. Cokoliv chcete získat, snažte se získat od Nejvyššího, a pak to dejte svým blízkým. Pokud budete chtít něco získat od svých dětí, jenom se spoutáte.
 
@@ -301,9 +296,9 @@ Je nebetyčný rozdíl mezi tím, když se modlíte a poté se postaráte o po
 * Může špatná matka vychovat skvělého syna?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:17-cs
   :END:
 
 /Sri Chinmoy:/ Je to možné, ale je to velmi obtížné. Děti jsou vychovávány v první řadě svou matkou. Pokud hned na samém začátku dá matka dítěti pocítit, že je zbytečné, bude se vždy cítit zbytečné. Ve většině případů je to právě matčina síla, kterou dítě získá. Většina mužů v Indii, když se stanou velkými, dává devadesáti pěti procentní zásluhu svým matkám.
@@ -313,15 +308,15 @@ Je nebetyčný rozdíl mezi tím, když se modlíte a poté se postaráte o po
 * Mezi mými rodiči a mnou je nesoulad, protože otec je ateista.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:18-cs
   :END:
 
 
-/Sri Chinmoy:/ Co je špatného na tom, že je někdo ateista? Ty věříš na Boží Lásku a on na něco jiného. Není na zemi nikoho, kdo na něco nevěří. On věří ve svou potravu, ve své tělo nebo květinu, fotbal či ve vědu. Musí věřit v něco, co viděl, anebo musí věřit v nic. Řekni svému otci: „Ty jsi ateista, ale v něco věříš.“ 
+/Sri Chinmoy:/ co je špatného na tom, že je někdo ateista? ty věříš na boží lásku a on na něco jiného. není na zemi nikoho, kdo na něco nevěří. on věří ve svou potravu, ve své tělo nebo květinu, fotbal či ve vědu. musí věřit v něco, co viděl, anebo musí věřit v nic. Řekni svému otci: „Ty jsi ateista, ale v něco věříš.“ 
 
-Ty věříš v Boha; tvůj otec věří v něco jiného. Dokonce i nic je realita. Naše indická filozofie říká: /Neti, neti/ -- ne toto, ne tamto. Toto nic rovněž pochází z mysli a srdce. Můžeš říci svému otci, ať má víru v toto nic a uvidí tvého Boha ve svém nic. Můžeš říci: „Já říkám ‚vše‘, ty měj své nic. Nakonec uvidíš, že uvnitř mého vše je tvé nic a uvnitř tvého nic je mé vše.“
+Ty věříš v Boha; tvůj otec věří v něco jiného. Dokonce i nic je realita. Naše indická filozofie říká: /neti, neti/ -- ne toto, ne tamto. toto nic rovněž pochází z mysli a srdce. můžeš říci svému otci, ať má víru v toto nic a uvidí tvého boha ve svém nic. můžeš říci: „Já říkám ‚vše‘, ty měj své nic. Nakonec uvidíš, že uvnitř mého vše je tvé nic a uvnitř tvého nic je mé vše.“
 
 Bůh projevuje svou Nekonečnost skrze konečné. Právě teď je pro nás troška světla vším. Když ale jdeme vysoko, dokonce ani Nekonečno není ničím, protože Bůh nám dal nekonečný hlad. Hovoříme o nejvyšší realizaci. Dnes tvůj otec nerozumí tomu, o čem mluvíme, ale jednoho dne bude, protože si právě tuto věc uvědomí sám. 
 
@@ -333,9 +328,9 @@ Takže si nedělej se svým otcem starosti. Řekni mu jen, ať má víru v to, 
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:19-cs
   :END:
 
 /Sri Chinmoy:/ Vy znáte své rodiče lépe než kdokoliv jiný. Dělají nějaký pokrok v přijímání vašeho duchovního života? Řekněme, že před dvěma lety byli naprosto nepřátelští. Mají nyní pocit, že duchovnost není koneckonců tak špatná? Cítí, že sehráli svou roli, když vás vychovali, a že nyní máte schopnost dělat svá vlastní rozhodnutí? Musíte vědět, jak velký pokrok dělají v přijímání toho, co děláte vy. Po stromu aspirace šplháte s největšími obtížemi. Pokud jsou vaši rodiče nepřátelští, přinutí vás slézt dolů z větve božskosti. Vy jste našli svou pravdu a oni našli svou, ať tedy zůstanou se svou pravdou a vy zůstaňte s vaší.
@@ -353,21 +348,21 @@ Jsou to vaši rodiče, to je pravda. Jestliže se však snaží vytvořit ve va�
 * Zdá se mi, že pokud někoho skutečně milujeme, měli bychom jít proti tomu, co tento člověk třeba původně přál, a dát mu to, co ani neví, že potřebuje.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:20-cs
   :END:
 
-/Sri Chinmoy:/ Ne, to je omyl. Vše by mělo být učiněno v pravý čas. Pokud natrháte ze stromu nezralé ovoce a sníte je, výsledek bude k politování. Musíme vždy čekat na správný okamžik, kdy ovoce natrhat. Podobně, když někdo duchovně tvrdě spí a vy půjdete, zatřesete s ním a budete chtít, aby vstal, jenom vás kopne. Potom se budete cítit špatně. Řekne vám: „Nechej mě na pokoji, já chci spát.“ Protože jste probuzení, můžete vstát a dělat, co chcete. Jemu však musíte dovolit spát, protože spánek je to, co mu dává radost. Pokud je člověk dost starý na to, aby dělal svá vlastní rozhodnutí, nemůžete jej potom nutit, aby přijal něco, co vy považujete za nejlepší.
+/Sri Chinmoy:/ ne, to je omyl. vše by mělo být učiněno v pravý čas. pokud natrháte ze stromu nezralé ovoce a sníte je, výsledek bude k politování. musíme vždy čekat na správný okamžik, kdy ovoce natrhat. podobně, když někdo duchovně tvrdě spí a vy půjdete, zatřesete s ním a budete chtít, aby vstal, jenom vás kopne. potom se budete cítit špatně. Řekne vám: „Nechej mě na pokoji, já chci spát.“ Protože jste probuzení, můžete vstát a dělat, co chcete. Jemu však musíte dovolit spát, protože spánek je to, co mu dává radost. Pokud je člověk dost starý na to, aby dělal svá vlastní rozhodnutí, nemůžete jej potom nutit, aby přijal něco, co vy považujete za nejlepší.
 
 
 
 * Co když je vaše dítě velmi aktivní a jeho energie vám odebírá vaši? Nemůžete s ním mluvit, protože vám nerozumí, co se tedy dá udělat, aby se zklidnily jeho vibrace?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:21-cs
   :END:
 
 
@@ -378,9 +373,9 @@ Jsou to vaši rodiče, to je pravda. Jestliže se však snaží vytvořit ve va�
 * Jak mohu přestat tolik lpět na své fyzické rodině?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:22-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:22-cs
   :END:
 
 /Sri Chinmoy:/ Pokud je tvým cílem severní pól, a ne pól jižní, poběžíš přirozeně k severnímu pólu. Jestliže chceš na severní pól, ale zároveň máš vnitřní touhu být přitahován k pólu jižnímu, budeš na něm pořád lpět. V den, kdy ucítíš, že nepotřebuješ náklonnost, lásku, ocenění, obdiv a zájem ze strany své rodiny, přestaneš na ní lpět. Neznamená to však, že vás žádám, abyste se vzdali veškerého spojení s vaší rodinou. Ani v nejmenším. Nikdy nežádám mladé dívky a chlapce, aby opustili své rodiče. Pokud ovšem cítíte, že jejich chování je škodlivé pro váš duchovní život, je na vás, abyste se rozhodli, co je důležitější. 
@@ -394,13 +389,13 @@ Jestliže jsou naprosto proti vašemu duchovnímu životu, jaký z toho máte u
 * V evangeliu se píše, že Kristus řekl své vlastní matce, že se věnoval záležitostem svého Otce, když jej šla hledat. Je to ta věc, kterou se snažíte sdělit - že pokud duše ví, že má nějaké poslání, a setkává se s odporem rodičů, musí v tichosti nechat své rodiče stranou, ne z nevděku, ale protože musí něco naplnit - a to přestože tomu rodiče nerozumí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:23-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:23-cs
   :END:
 
 
-/Sri Chinmoy:/ Ano, jestliže si je duše vědoma své mise, potom je Bůh na prvním místě, ne otec či matka. Když naplňujete Boha, uvidíte, že rodiče jsou automaticky naplňováni také. Pokud jsou rodiče na prvním místě, pokud chcete nejprve potěšit své rodiče, nebude nikdy schopni naplnit Boha. V těchto případech, když se duše odhodlává naplnit svou misi, první věcí je potěšit vnitřní božskost. Jakmile je Bůh potěšen, budou vaši rodiče automaticky vnitřním způsobem naplněni. Jestliže však začnete se svými rodiči, jestliže chcete uspokojit vnější požadavky svých rodičů na prvním místě a potom teprve Boha, uvidíte, že své rodiče nedokážete uspokojit nikdy. Jejich požadavky budou nesčetné. Bůh nebude vůbec nespokojený, pokud chcete myslet na své rodiče, neočekávejte však, že bude někdy schopni je uspokojit vnějším způsobem. Jsou v zajetí nevědomosti. Když se snažíte uspokojit nevědomost, jejím požadavkům není konce. Nevědomost říká: „Udělej toto, udělej tamto, udělej toto...“ 
+/Sri Chinmoy:/ ano, jestliže si je duše vědoma své mise, potom je bůh na prvním místě, ne otec či matka. když naplňujete boha, uvidíte, že rodiče jsou automaticky naplňováni také. pokud jsou rodiče na prvním místě, pokud chcete nejprve potěšit své rodiče, nebude nikdy schopni naplnit boha. v těchto případech, když se duše odhodlává naplnit svou misi, první věcí je potěšit vnitřní božskost. jakmile je bůh potěšen, budou vaši rodiče automaticky vnitřním způsobem naplněni. jestliže však začnete se svými rodiči, jestliže chcete uspokojit vnější požadavky svých rodičů na prvním místě a potom teprve boha, uvidíte, že své rodiče nedokážete uspokojit nikdy. jejich požadavky budou nesčetné. bůh nebude vůbec nespokojený, pokud chcete myslet na své rodiče, neočekávejte však, že bude někdy schopni je uspokojit vnějším způsobem. jsou v zajetí nevědomosti. když se snažíte uspokojit nevědomost, jejím požadavkům není konce. nevědomost říká: „Udělej toto, udělej tamto, udělej toto...“ 
 
 Pokud dokážete uspokojit Boha, vaši rodiče budou nakonec spokojeni, protože budete uspokojovat světlo. Jakmile je světlo jednou naplněno, je naplněno vše, protože ve světle nejsou žádné požadavky. Světlo je spontánní růst a spontánní naplnění, zatímco temnota je trvale požírající hlad. Temnota pouze bortí a rozbíjí. Světlo se pouze rozšiřuje a naplňuje. 
 
@@ -409,9 +404,9 @@ Pokud dokážete uspokojit Boha, vaši rodiče budou nakonec spokojeni, protože
 * Uvědomí si rodiče, jakmile se dostanou do světa duší, že jejich děti udělaly přijetím vaší cesty správnou věc?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:24-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:24-cs
   :END:
 
 /Sri Chinmoy:/ Nemusí jít do světa duší. Pokud sedí v meditativní nebo rozjímavé náladě, okamžitě vědí, že děláte správnou věc, ale jejich ego a jejich žárlivost jim to nedovolí přiznat. Možná uvidí dokonce ve snu, že děláte naprosto správnou věc, nechtějí to však přiznat. Když to přiznají, budou se cítit zahanbeni, protože se předtím mýlili. 
@@ -423,12 +418,12 @@ Dobří rodiče chtějí pro své děti pouze štěstí. Naneštěstí někdy ž
 * Pokud rodiče upřímně přijmou duchovní život, snaží se udržovat určitý odstup od života svých dětí, nebo si nadále udržují svou lásku plnou lpění?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:25-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:25-cs
   :END:
 
-/Sri Chinmoy:/ Než rodiče přijali duchovní život, jejich modlitbou bylo: „Prosím, Bože, dej, ať nás naše děti poslouchají.“ Potom, když se tito rodiče stali upřímně duchovními, už se nemodlí k Bohu s takovou modlitbou. Jednoduše říkají: „Naplň je, prosím, svým vlastním způsobem. Ať mé děti dělají správné věci, ne to, co chci já, ale to, co od nich chceš Ty. Já od nich nechci nic. Chci vše od Tebe.“ Když se modlí za to, aby jejich děti dělaly správné věci, potom určitý odstup přichází automaticky. 
+/Sri Chinmoy:/ než rodiče přijali duchovní život, jejich modlitbou bylo: „prosím, bože, dej, ať nás naše děti poslouchají.“ potom, když se tito rodiče stali upřímně duchovními, už se nemodlí k bohu s takovou modlitbou. jednoduše říkají: „Naplň je, prosím, svým vlastním způsobem. Ať mé děti dělají správné věci, ne to, co chci já, ale to, co od nich chceš Ty. Já od nich nechci nic. Chci vše od Tebe.“ Když se modlí za to, aby jejich děti dělaly správné věci, potom určitý odstup přichází automaticky. 
 
 
 
@@ -436,9 +431,9 @@ Dobří rodiče chtějí pro své děti pouze štěstí. Naneštěstí někdy ž
 * Když má člověk domácí zvíře, je to něco jako mít dítě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:26-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:26-cs
   :END:
 
 /Sri Chinmoy:/ Záleží na tom, jaký druh náklonnosti vůči tomuto zvířeti chováte. Když máte něco blízko u sebe, musíte tomu projevovat náklonnost a lásku. Zároveň však musíte vědět, že existuje něco, čemu se říká lpění. Náklonnost je velmi dobrá. Bůh je plný náklonnosti, plný soucitu; Bůh však nelpí. Naše obtíž je, že když užijeme termínu soucit, jenom obelháváme sami sebe. Říkáme, že ukazujeme soucit, jestliže však jdeme hluboko dovnitř, zjistíme, že je to vše lpění. Pouze Bůh má Soucit. 
@@ -450,9 +445,9 @@ Musíme vědět, kolik času trávíme se psem či kočkou a kolik času tráv�
 * Co je to nejlepší, co mohu dát svým dětem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:27-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:27-cs
   :END:
 
 /Sri Chinmoy:/ Nejlepší, co můžete svému dítěti dát, je vyslovit každý den jméno Nejvyššího. Brzy ráno opakujte sedmkrát „Supreme“ před svým dítětem. Položte svou ruku lehce na jeho srdce a opakujte „Supreme“ velmi dušeplně. Večer to udělejte znovu. Toto je ta nejlepší věc.
@@ -462,9 +457,9 @@ Musíme vědět, kolik času trávíme se psem či kočkou a kolik času tráv�
 * Jak je nejlepší vychovávat dítě, aby realizovalo Boha?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:28-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:28-cs
   :END:
 
 /Sri Chinmoy:/ Jakmile dokáže dítě mluvit, potom je nejlepší učit je nejprve vyslovovat „Supreme“. Až se tak stane, může se dítě začít učit modlit. Dítě učiní největší pokrok z příkladu. Když spolu rodiče meditují, neměli by dítě nechávat stranou. Dítě by mělo pozorovat, co jeho rodiče dělají. Pokud dělají rodiče vždy tu správnou věc, duchovní věc, potom je bude dítě napodobovat. Jakmile se matka napije mléka, dítě bude pít mléko rovněž. Cokoliv rodiče své dítě učí, to se také dítě naučí. Když dělají pokrok rodiče, dělá automaticky pokrok i jejich dítě.
@@ -474,10 +469,10 @@ Musíme vědět, kolik času trávíme se psem či kočkou a kolik času tráv�
 * Vzdělávání:
 
   :PROPERTIES:
-  :SUBTITLE: Role učitele a role studenta
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SEFW:29e1-cs
+  :subtitle: Role učitele a role studenta
+  :genre: section
+  :keywords:
+  :cite-key: sefw:29e1-cs
   :END:
 
 
@@ -485,12 +480,12 @@ Musíme vědět, kolik času trávíme se psem či kočkou a kolik času tráv�
 * Mohl byste nám něco říci o vzdělávání mladých lidí, zejména ve společnosti, kde není duchovnost příliš zdůrazňována?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:29-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:29-cs
   :END:
 
-/Sri Chinmoy:/ Všichni rodiče mi musí prominout, ale přeji si říci, že rodiče v Americe si myslí, že musí dát svým dětem to, co mají oni sami: sílu peněz. Pokud však jde o sílu lásky, většina rodičů v Americe ji svým dětem nedala. Dali jim peníze nebo život v pohodlí a další věci. Je však velký rozdíl mezi životem v pohodlí a životem v lásce. Na zemi jsou místa, kde jsou lidé chudí, a proto si nemohou dovolit dát svým dětem pohodlí. Dali však svým dětem skutečný poklad lásky, kterou mají a kterou jsou oni sami. Děti by měly dostávat lásku a zájem trvale. Avšak zde v Americe rodiče často zaměňují nedostatek disciplíny s láskou a zájmem. Když je dítěti sedm nebo osm let, rodiče se snaží být velmi moudří. Řeknou si, že protože je Amerika svobodná země, jejich děti by měly mít svobodu. Nesnaží se své děti učit vlastním ideálům. Říkají, že se jejich děti musí rozhodnout samy. Toto je však ohromná chyba. Rodiče udělali sami v životě spoustu chyb a tím, že je udělali, zjistili do určité míry, co je dobré a co je špatné. Pokud opravdu milují své děti, řeknou jim: „Podívejte se, taky jsem byl kdysi ve vašem věku a udělal jsem spoustu chyb. Nyní jsem starší a vím, co je pravdivé a co je falešné, co je dobré a co špatné. Proto si přeji, abyste z mých zkušeností měly prospěch.“
+/Sri Chinmoy:/ všichni rodiče mi musí prominout, ale přeji si říci, že rodiče v americe si myslí, že musí dát svým dětem to, co mají oni sami: sílu peněz. pokud však jde o sílu lásky, většina rodičů v americe ji svým dětem nedala. dali jim peníze nebo život v pohodlí a další věci. je však velký rozdíl mezi životem v pohodlí a životem v lásce. na zemi jsou místa, kde jsou lidé chudí, a proto si nemohou dovolit dát svým dětem pohodlí. dali však svým dětem skutečný poklad lásky, kterou mají a kterou jsou oni sami. děti by měly dostávat lásku a zájem trvale. avšak zde v americe rodiče často zaměňují nedostatek disciplíny s láskou a zájmem. když je dítěti sedm nebo osm let, rodiče se snaží být velmi moudří. Řeknou si, že protože je amerika svobodná země, jejich děti by měly mít svobodu. nesnaží se své děti učit vlastním ideálům. Říkají, že se jejich děti musí rozhodnout samy. toto je však ohromná chyba. rodiče udělali sami v životě spoustu chyb a tím, že je udělali, zjistili do určité míry, co je dobré a co je špatné. pokud opravdu milují své děti, řeknou jim: „Podívejte se, taky jsem byl kdysi ve vašem věku a udělal jsem spoustu chyb. Nyní jsem starší a vím, co je pravdivé a co je falešné, co je dobré a co špatné. Proto si přeji, abyste z mých zkušeností měly prospěch.“
 
 Lidská moudrost může říci, že co je dobré pro rodiče, nemusí být dobré pro jejich děti, avšak zde s tím nesouhlasím. Máte-li dítě, dáte mu mléko, protože víte, že je výživné. Neřeknete, „Nevím, co je pro něj dobré, tak mu nedám nic. Až přijde čas, udělá své vlastní rozhodnutí, svou vlastní volbu.“ Do té doby však vaše dítě umře. Pokud je to otázka fyzického jídla pro vaše dítě, krmíte je čímkoliv, co cítíte, že je nejlepší, protože nechcete, aby umřelo. V tu chvíli nenecháváte dítě, aby si samo vybralo, co potřebuje. Ne, jste dost moudří na to, abyste své děti krmili tím, co cítíte, že je nejlepší. 
 
@@ -513,9 +508,9 @@ Všichni zde jsme hledající, jsme duchovní lidé. Duchovní rodiče musí oka
 * Jak bych měl meditovat, než vstoupím do třídy, ve které mám hodinu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:30-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:30-cs
   :END:
 
 /Sri Chinmoy:/ Meditujte, prosím, na Nejvyššího v každém z vašich žáků. Nemusíte meditovat na každého žáka zvlášť, ale snažte se je cítit jako jednu bytost, která medituje přímo před vámi. Jakmile ucítíte přítomnost Boha uvnitř žáků, ciťte, prosím, že Nejvyšší v nich se učí od Nejvyššího ve vás. Musíte cítit, že Nejvyšší ve vás je starší bratr. Pokud tento starší bratr učí bratry mladší, získají pomalu a postupně moudrost staršího bratra. Pokud dokážete cítit, čím jsou, budete schopen vidět, že jsou součástí toho, čím jste vy sám.
@@ -525,9 +520,9 @@ Všichni zde jsme hledající, jsme duchovní lidé. Duchovní rodiče musí oka
 * Jak mohu nejlépe sloužit Nejvyššímu v dětech?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:31-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:31-cs
   :END:
 
 /Sri Chinmoy:/ Nejvyššímu v dětech můžete nejlépe sloužit tím, že k Němu budete cítit ohromnou vděčnost za to, že vám dal příležitost tyto děti učit. Když je učíte, získáváte příležitost stát se sám dítětem. Může vám být dvacet dva nebo dvacet tři, avšak vaším cílem je stát se dítětem, věčným dítětem v duchovním životě, abyste mohl dělat trvalý pokrok. Pokud jste trvale Nejvyššímu vděčný a pokud vám děti připomínají vaše věčné dětství, potom učiníte nejrychlejší pokrok. 
@@ -539,27 +534,27 @@ Když učíte děti, nemyslete na to, že vás škola platí, a proto sloužít
 * Když máme možnost zvolit mezi využitím volného času pro studium nebo pro duchovní život, co bychom měli zvolit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:32-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:32-cs
   :END:
 
-/Sri Chinmoy:/ Záleží to na konkrétní duši. Někteří lidé nechtějí studovat. Zkoumal jsem jejich duše a jejich duše to nechtějí. Některým jsem řekl: „Musíš studovat!“ Jejich duše to chtěly. Pokud jde o tebe, ty potřebuješ zasvětit svůj volný čas a pozornost duchovnosti. Duchovnost musí být na prvním místě. Musíš mít čas na meditaci a na nesobeckou službu.
+/Sri Chinmoy:/ záleží to na konkrétní duši. někteří lidé nechtějí studovat. zkoumal jsem jejich duše a jejich duše to nechtějí. některým jsem řekl: „Musíš studovat!“ Jejich duše to chtěly. Pokud jde o tebe, ty potřebuješ zasvětit svůj volný čas a pozornost duchovnosti. Duchovnost musí být na prvním místě. Musíš mít čas na meditaci a na nesobeckou službu.
 
 Pro vnější informace máš spoustu času, ale pro vnitřní život nemáš vůbec žádný čas. Přeji si však říci, že duchovní život může jít snadno ruku v ruce s vaším životem vnějším. Každý den můžeš dát dvě hodiny meditaci a hodinu nesobecké službě. Každý může věnovat tolik času. Někteří lidé budou číst všemožné nebožské věci, když udělají úkoly do školy. Tráví čas u filmů, televize, komiksů a všech možných nesmyslů vnějšího světa, místo toho, aby dělali duchovní věci.
 
 Když se člověk věnuje duchovnosti, je to jako když posiluje sval nebo se učí číst. Duchovnost se vyvíjí cvičením. Nesmí trpět kvůli tvému vnějšímu studiu. Kdysi jsem měl výborného přítele. On a jeho bratr se stali žáky jednoho duchovního Mistra. Jeho bratr se učil sedm až deset hodin denně a můj přítel pouze dvě nebo tři hodiny; potom jednoduše opakoval jméno svého Gurua. Závisel na milosti svého Gurua, aby jej provedl úspěšně skrze zkoušky. Bratr se jednou zeptal Gurua, co je lepší, a Guru mu odpověděl: „Je to otázka víry. Ty máš víru v sebe, tvůj bratr má víru v mou schopnost pomoci mu uspět u zkoušek.“ 
 
- Ten bratr, který studoval dlouhé hodiny, byl pošetilý. Přijde den, kdy jeho školní život skončí, a potom bude mít vyvinutou pouze jedinou schopnost: studovat. Jeho bratr však zároveň rozvíjel dvě schopnosti: studium a meditaci. V duchovním životě děláme v určitou chvíli mnoho věcí. Já dělám deset či jedenáct věcí zároveň. Můžete studovat hodiny, aniž byste se cokoliv naučili. Když je však vaše mysl tichá a klidná jednu hodinu, můžete udělat tolik, co by vám jinak trvalo deset hodin.
+ Ten bratr, který studoval dlouhé hodiny, byl pošetilý. Přijde den, kdy jeho školní život skončí, a potom bude mít vyvinutou pouze jedinou schopnost: studovat. jeho bratr však zároveň rozvíjel dvě schopnosti: studium a meditaci. V duchovním životě děláme v určitou chvíli mnoho věcí. Já dělám deset či jedenáct věcí zároveň. Můžete studovat hodiny, aniž byste se cokoliv naučili. Když je však vaše mysl tichá a klidná jednu hodinu, můžete udělat tolik, co by vám jinak trvalo deset hodin.
 
 
 
 * Jsem student. Jak mohu studovat a zároveň před sebou vidět Boha?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:33-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:33-cs
   :END:
 
 /Sri Chinmoy:/ To je velmi snadné. Musíš si být vědom toho, proč studuješ. Pokud studuješ proto, abys získal diplom a byl tak všemi uznávaný a zároveň měl pocit, že jsi ten nejmoudřejší člověk na zemi, nebudeš nikdy schopen Boha před sebou vidět. Pokud však studuješ, abys potěšil Boha, abys Mu lépe sloužil, potom s každou přečtenou řádkou musíš mít toto myšlenku na paměti. Celou dobu musíš cítit, že tě někdo pozoruje. Zatímco se učíš, musíš cítit, že Bůh je hned vedle tebe. Jsi malé dítě a tvůj otec sleduje, zda se učíš či nikoliv. Bůh je tvůj věčný Otec a Matka. Vždy tě neviditelně sleduje. 
@@ -573,9 +568,9 @@ Studium samotné je určitým druhem služby. Od nynějška musíš brát studiu
 * Mnozí tví žáci jsou učitelé nebo jimi plánují být. Jak můžeme nejlépe nabídnout svou duchovnost dětem, se kterými jsme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:34-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:34-cs
   :END:
 
 /Sri Chinmoy:/ Nejlepší věc, kterou můžete děti učit, je výsledek vašeho vlastního duchovního života. Jednoduše jim tento výsledek svého duchovního života nabídněte. Váš život je tou nejlepší učebnicí. Pokud ve vás cítí božské vibrace, je to nejlepší lekce, jakou mohou získat. Vy se stanete božskými a oni vaši božskost zdědí. Pokud má učitel božskost, děti ji získají.
@@ -585,9 +580,9 @@ Studium samotné je určitým druhem služby. Od nynějška musíš brát studiu
 * Je nezbytné pro můj růst, abych něco studoval?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:35-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:35-cs
   :END:
 
 /Sri Chinmoy:/ Není pro tebe nezbytné, abys pro svůj vnitřní růst vnějšně studoval. Jediné, co je pro tebe nezbytné, je zvýšení tvé lásky, zasvěcení a odevzdání. Pokračovat ve vnějším studiu není ve většině případů nezbytné, avšak tvé vnitřní studium se musí zvyšovat každým dnem, každou hodinou, každou minutou, každou vteřinou, aby ses mohl stát dokonalým nástrojem Nejvyššího. Nejen ty, ale každý musí zvýšit své vnitřní studium.
@@ -597,9 +592,9 @@ Studium samotné je určitým druhem služby. Od nynějška musíš brát studiu
 * V tuto chvíli plánuji jít příští rok na univerzitu a jediný způsob bydlení, který si mohu dovolit, je kolej. Můžu dostat jen dvoulůžkový pokoj s nějakým jiným studentem. Není to špatné?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:36-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:36-cs
   :END:
 
 /Sri Chinmoy:/ Tady se nedá nic dělat. Musíš v tom vidět nutnost. Pokud musíš studovat a toto je jediná věc, kterou můžeš udělat, jen se modli k Nejvyššímu, aby byl tvůj spolubydlící duchovní. Co jiného můžeš dělat? V této věci jsi bezmocný.
@@ -609,9 +604,9 @@ Studium samotné je určitým druhem služby. Od nynějška musíš brát studiu
 * Technika a věda
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SEFW:37e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sefw:37e1-cs
   :END:
 
 
@@ -619,9 +614,9 @@ Studium samotné je určitým druhem služby. Od nynějška musíš brát studiu
 * Hmota je utvořena z atomů. Je také duch utvořen z nějakých atomů?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:37-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:37-cs
   :END:
 
 /Sri Chinmoy:/ Hmota je utvořena z atomů, to je pravda, avšak uvnitř hmoty je duch, je tam Nejvyšší. Duch se z atomů neskládá. Můžeme vidět tělo, duši však nevidíme. 
@@ -633,9 +628,9 @@ Transcendentální Duch se jako hmota nechová. Atom může být rozbit na dalš
 * Brání silný zájem o techniku naší realizaci Boha?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:38-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:38-cs
   :END:
 
 /Sri Chinmoy:/ Technika jako taková nebrání realizaci, musíme však vědět, jak s technikou zacházíme. Věda, nejčistší věda, nepopírá Boha. Vědec si ale může myslet, že vesmír byl vědou stvořen nebo že se může obejít bez Boha, protože dělá pomocí vědeckého výzkumu atomovou či vodíkovou bombu. Myslí si, že cokoliv chce, získá pomocí vědy, a je vědeckými dosaženími uspokojen. Musíme však vědět, že existuje něco, čemu se říká vnitřní realizace, realizace svého Já. Pro ni musíme dělat něco jiného. Musíme provádět vnitřní výzkum, ne výzkum vědecký.
@@ -651,9 +646,9 @@ Mezi hledajícím a technikem nemusí být nutně žádná bariéra, ale člov�
 * Povídal jste nám o jedné své žákyni, která je psychiatrem. Proč věří ona v duchovnost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:39-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:39-cs
   :END:
 
 /Sri Chinmoy:/ Psychiatr může velmi snadno věřit v duchovnost. Přichází za duchovní osobou, za mnou, protože ví, že ji mohu o existenci vnitřního života přesvědčit. Dává ostatním radost, dokáže přesvědčit druhé, nedokáže však přesvědčit sebe. Když k ní lidé chodí, ona interpretuje jejich sny. Má schopnost přesvědčit jejich mysl. Ale pokud se jedná o její vlastní osobní problémy, neví, jak je řešit, a je si toho vědoma. 
@@ -665,9 +660,9 @@ Je natolik upřímná, že ví, že je to právě duchovnost, která má vnitřn
 * Pokud jde o psychologii, jak zapadá podvědomá mysl, nadvědomá mysl či intuitivní mysl do vaší filozofie?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:40-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:40-cs
   :END:
 
 /Sri Chinmoy:/ Mluvíme o podvědomé mysli a o nadvědomé mysl, je však ještě několik druhů mysli. Používáte rovněž pojem „intuitivní mysl“. Dále existují nadmysl, supermysl a vědomí Sat- Chit-Ananda. Rád bych podotkl, že v mé filozofii se snažíme jít za mysl. Snažíme se pročistit podvědomou mysl a vnést do ní světlo. Potom se snažíme jít za, daleko za lidskou mysl.
@@ -685,9 +680,9 @@ Před mnoha lety jsem studoval Freuda a Junga a minulý rok jsem studoval jedn
 * Pokud nějaký student studuje vědu a vede duchovní život, jak by se měl na vědu dívat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:41-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:41-cs
   :END:
 
 /Sri Chinmoy:/ Měl by se dívat na vědu jako na příležitost manifestovat své poznání. Tento student by se neměl dívat na vědu jako na pouhé mikroby. Musí cítit, že v laboratoři přichází do styku s aspirujícím životem, s rostoucím a měnícím se vědomím.
@@ -699,9 +694,9 @@ Když studuje nebo provádí nějaký experiment, měl by cítit, že naplňuje 
 * Antropolog studuje své bratry, lidské bytosti, ví však něco o duši?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:42-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:42-cs
   :END:
 
 
@@ -714,9 +709,9 @@ Antropologem se stal proto, že studoval tento předmět. A podobně, když se 
 * Hovořil jsem s jedním vědecky založeným přítelem o stvoření a evoluci a on byl spíše na straně stvoření než evoluce. Říkal, že neexistují žádné spojovací články mezi živočišnými druhy. Každý druh je netknutý. Je to pravda?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:43-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:43-cs
   :END:
 
 /Sri Chinmoy:/ Stvoření neustále probíhá. Existuje evoluce, ta je však v duši; jde o evoluci duše ve hmotě. Duše začíná svou cestu ve světě Ticha. Zatímco se vyvíjí, získává v každé inkarnaci světlo. Dokud v lidské inkarnaci dochází k pokračujícímu tvoření, muže tělo setrvávat na zemi. Jakmile se tvoření zastaví, po sedmdesáti či osmdesáti letech, potom tělo umírá. Zůstává jen věčná duše. Tato duše se vyvíjí prostřednictvím života v nerostech, rostlinách, zvířatech a lidech.
@@ -726,9 +721,9 @@ Antropologem se stal proto, že studoval tento předmět. A podobně, když se 
 * Tito lidé říkají, že mezi rybami a plazy není žádný spojovací článek a že se nevyvíjejí v ptáky a savce.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:44-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:44-cs
   :END:
 
 /Sri Chinmoy:/ Proč by zde měl být spojovací článek? Pokud žijete v jednom domě a potom se přestěhujete do jiného domu, neznamená to, že tyto dva domy mají nějaké fyzické spojení. Dnes můžete projet New York nebo Connecticut, protože jsou hned vedle sebe. Pokud však chcete navštívit jiný stát, nemusí být připojen ani k jednomu z nich. Stvoření je odděleno od evoluce duše. Zatímco jste v tomto domě, vyvíjíte se; v jiném domě se vyvíjíte rovněž. Duše se může inkarnovat jako pták a její další inkarnace může být lev. To však neznamená, že mezi ptáky a lvy je nějaký spojovací článek.
@@ -738,9 +733,9 @@ Antropologem se stal proto, že studoval tento předmět. A podobně, když se 
 * Existuje určitý objev ve vnitřním světě, předtím než k němu dojde ve světě vnějším?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:45-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:45-cs
   :END:
 
 /Sri Chinmoy:/ Z nejvyššího duchovního hlediska není v Boží univerzální Vizi nic takového jako objevy. Existuje tam pouze jedna duchovní realita, jež je manifestována. Co může být objevováno a vynalézáno uvnitř vše pronikající, vše ozařující, transcendentální Vize našeho Nejvyššího Milovaného? Zde na zemi máme mysl a pozemské orgány a měření, které nám pomáhají v objevování. Ve vnitřním světě velmi často nacházíme něco, co nás vede k objevům ve světě vnějším. V nejvnitřnějším světě však žádné objevy nejsou. Tam je vše jednotou s nejvyšší realitou; tam je pouze tvoření. Každý pohyb Boha je tvořením. On vytváří každou sekundu miliony skutečností. Jakmile však sestoupíme na pozemskou úroveň, začíná objevování. Ale v nejvyšší transcendentální Skutečnosti žádné objevování neexistuje.
@@ -750,9 +745,9 @@ Antropologem se stal proto, že studoval tento předmět. A podobně, když se 
 * Když někdo něco objeví, dává mu to Nejvyšší?.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:46-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:46-cs
   :END:
 
 /Sri Chinmoy:/ Ano. Ze své nekonečné laskavosti dává Nejvyšší tomuto člověku jeho vynález. Je to ve skutečnosti objev něčeho, co už existuje. Když něco hledáte ve svém pokoji, můžete to najít, pokud to tam je. Jak může někdo objevit něco jen tak zčista jasna? Člověk jako nástroj získá slávu, ale tento nástroj používá Nejvyšší.
@@ -761,9 +756,9 @@ Antropologem se stal proto, že studoval tento předmět. A podobně, když se 
 * Může člověk urychlit objevování?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:47-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:47-cs
   :END:
 
 /Sri Chinmoy:/ Nejvyšší dělá vše, pokud však někdo aspiruje, aby učinil něco přístupnějším, potom mu může Nejvyšší pomoci.
@@ -773,9 +768,9 @@ Antropologem se stal proto, že studoval tento předmět. A podobně, když se 
 * A co špatné vynálezy jako vodíková bomba?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:48-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:48-cs
   :END:
 
 /Sri Chinmoy:/ Vše je zkušenost. Vodíková bomba znamená zničení. Pokud tento druh zkušenosti chceme, můžeme jej mít. Bůh nám dal omezenou svobodu. Jsme jako dítě, které si hraje s nožem. Tento nůž můžeme použít tak, že někomu ublížíme, nebo tak, že rozřízneme ovoce na kousky.
@@ -784,9 +779,9 @@ Antropologem se stal proto, že studoval tento předmět. A podobně, když se 
 * Jakou roli hraje představivost při vědeckých objevech?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:49-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:49-cs
   :END:
 
 /Sri Chinmoy:/ Jakmile se mysl odevzdá představivosti, v tu chvíli vystupuje do popředí skutečné tvoření. Vědec několik let velmi tvrdě pracuje. Potom, když už nemůže dále, odevzdá se vyšší síle, které říká představivost. Představivost je skutečnost za myslí a za hmotou. 
@@ -796,9 +791,9 @@ Antropologem se stal proto, že studoval tento předmět. A podobně, když se 
 * Rád bych věděl, zda měl objev elektrického světla nějaký vliv na vnitřní světlo lidí? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:50-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:50-cs
   :END:
 
 /Sri Chinmoy:/ Elektrické světlo a vnitřní světlo jsou dvě naprosto odlišné věci. Světlo elektrické nemůže ovlivnit světlo vnitřní. V první řadě, když se dotknete elektrického světla či žárovky, elektřina nám může způsobit obrovský šok nebo nás může popálit teplo této žárovky. Pokud je to však otázka vnitřního světla, můžeme se jej dotknout, můžeme jej cítit, můžeme se v něm koupat; toto světlo nás však nikdy nespálí. Pouze nás osvítí.
@@ -810,9 +805,9 @@ Elektrické světlo je pouhým fyzickým světlem. Je naprosto omezené. Vnitřn
 * Je vždy nejlepší, aby lékaři udržovali lidi naživu, co nejdéle je to jen možné, nebo to závisí na konkrétním případu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:51-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:51-cs
   :END:
 
 /Sri Chinmoy:/ Pokud je nějaký člověk duchovní, měli by jej doktoři i příbuzní držet na zemi co nejdéle, protože duchovní lidé vždy bojují proti smrti. Může se však stát, že někdo, kdo duchovně hluboce spí, má zemřít za dvě hodiny. I kdybyste jej drželi na zemi dvacet čtyři hodin, nevysloví Boží jméno ani jednou. Pokud má však někdo schopnost vyslovit Boží jméno ještě  byť jedinkrát ve svém životě, potom něčeho dosáhne ve světě duší. Toto dosažení bude přičteno k tomuto životu spolu s jeho dalšími dosaženími a v jeho příští inkarnaci bude jeho život o něco lepší. 
@@ -824,9 +819,9 @@ V Indii žijí někteří lidé více než sto let, nemají však čas se modli
 * Když lékař zaviní smrt pacienta, který mohl zůstat naživu, způsobí mu to špatnou karmu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:52-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:52-cs
   :END:
 
 /Sri Chinmoy:/ Pokud udělá lékař vědomě něco špatného, vytvoří si pro své budoucí inkarnace ohromné problémy. Lékaři nejsou dokonalí, možná neovládají lékařskou vědu dostatečně. Když udělají chybu a nechtěně usmrtí pacienta, Nejvyšší jim jejich nevědomost odpustí. Také tehdy, nemohou-li se odpovědně věnovat všem pacientům, protože jich mají příliš mnoho, Nejvyšší vidí, zda to je, nebo není jejich chyba. Když ovšem někoho usmrtí záměrně, aby se jej zbavili, potom se o ně postará zákon karmy.
@@ -836,9 +831,9 @@ V Indii žijí někteří lidé více než sto let, nemají však čas se modli
 * Znám jednu dívku, která je již týdny v bezvědomí. Lékaři tvrdí, že takto může žít léta. Co s takovým případem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:53-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:53-cs
   :END:
 
 /Sri Chinmoy:/ Existuje-li i ta nejmenší naděje, že uvnitř a skrze ni působí životní síla, je nejlepší pokusit se udržet ji na zemi. Dokud je duše v těle, ten člověk má naději. I pět měsíců, které takto na zemi prožije, má nějaký smysl.
@@ -848,9 +843,9 @@ V Indii žijí někteří lidé více než sto let, nemají však čas se modli
 * Oni se ji ale nepokoušejí vrátit k vědomí, udržují prostě její tělo při životě. Tvrdí, že její mozek vůbec nefunguje. Nevytváří žádné mozkové vzruchy.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:54-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:54-cs
   :END:
 
 /Sri Chinmoy:/ Měli by pokračovat, protože životní energie stále působí. Kdyby nebyla přítomna duše, přístroje by tělo nemohly udržet naživu víc než pár hodin. Když někde přetrvávají vibrace duše, pak přestože dotyčná osoba opustí dům, cítíte v něm stále její přítomnost. Podobně i srdce stále pracuje, protože vibrace duše přetrvávají.
@@ -860,12 +855,12 @@ V Indii žijí někteří lidé více než sto let, nemají však čas se modli
 * Má takováto zkušenost nějaký důvod?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:55-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:55-cs
   :END:
 
-/Sri Chinmoy:/ Nejvyšší používá svůj zákon karmy. Možná, že rodiče té dívce udělali v minulé inkarnaci něco skutečně špatného. Její duše nyní říká: „Dobrá, v této inkarnaci vás očistím. Budu přežívat a přežívat a přežívat. Za své špatné činy musíte pykat. V této inkarnaci vás potrestám.“ Pokud duše ví, že pacientka je nevyléčitelná, a vědí to i členové rodiny, tehdy je to potrestání.
+/Sri Chinmoy:/ nejvyšší používá svůj zákon karmy. možná, že rodiče té dívce udělali v minulé inkarnaci něco skutečně špatného. její duše nyní říká: „Dobrá, v této inkarnaci vás očistím. Budu přežívat a přežívat a přežívat. Za své špatné činy musíte pykat. V této inkarnaci vás potrestám.“ Pokud duše ví, že pacientka je nevyléčitelná, a vědí to i členové rodiny, tehdy je to potrestání.
 
 Duše se buď těší z tohoto zážitku, nebo čeká na správný okamžik k odchodu, anebo jen prochází takovou zkušeností. My cítíme, že ten člověk je ve skutečnosti mrtvý, ale kdo ví, co prožívá jeho duše? Místo pěti minut to může trvat pět let. Všechno je možné. Na druhou stranu to nemusí být zdravá zkušenost, duše jí však chce projít. Běžné lidské bytosti dělají často celé roky nějakou věc, jen aby dokázaly světu, že je to možné, ale přitom to nemusí být nic povzbuzujícího či inspirujícího.
 
@@ -874,9 +869,9 @@ Duše se buď těší z tohoto zážitku, nebo čeká na správný okamžik k 
 * Jsme skutečně odpovědní za vyhynutí zvířat, za znečištění a zničení světa? Vědomě fyzicky zabíjíme sebe i tento svět. Je to Boží Vůle?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:56-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:56-cs
   :END:
 
 /Sri Chinmoy:/ Odpovědnost za to nese kombinace nevědomosti a karmy z předešlých inkarnací. Boží Vůlí není ničit. Boží Vůlí je milovat nás a naplňovat nás. Naší vůlí je snaha zničit se navzájem a zároveň zničit Boží Plán, namísto abychom Boha naplňovali. Boží plán nemůže být zmařen, my však nevíme, jak funguje. Protože je Bůh všeodpouštějící, bude na nás čekat a čekat, až se to naučíme. On má nekonečnou Trpělivost, věčnou Trpělivost.
@@ -886,9 +881,9 @@ Duše se buď těší z tohoto zážitku, nebo čeká na správný okamžik k 
 * Obává se Bůh populační exploze?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:57-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:57-cs
   :END:
 
 /Sri Chinmoy:/ Bůh má mnoho jiných na to, aby mysleli na populaci. Bůh se pouze obává nedostatku aspirace, ne růstu populace.
@@ -898,9 +893,9 @@ Duše se buď těší z tohoto zážitku, nebo čeká na správný okamžik k 
 * Drogy a alkohol
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SEFW:58e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sefw:58e1-cs
   :END:
 
 
@@ -908,9 +903,9 @@ Duše se buď těší z tohoto zážitku, nebo čeká na správný okamžik k 
 * Mají zážitky vyvolané drogami nějaký význam?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:58-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:58-cs
   :END:
 
 /Sri Chinmoy:/ Zážitky s drogami jsou jako falešná mince. Je to jako bys byl malé dítě, které nemá žádné peníze. Potom spatříš úžasnou minci. Víš, že je to mince, protože vidíš její tvar, a máš radost, že získáš tak snadno nějaké peníze. Je to však falešná mince. Když ji přineseš nějakému prodavači, zbije tě nebo tě vyhodí ze svého obchodu. Nepřijme ji. Zjistíš, že tvá mince je bezcenná a že si za ni nemůžeš nic koupit.
@@ -920,9 +915,9 @@ Duše se buď těší z tohoto zážitku, nebo čeká na správný okamžik k 
 * Měla by být marihuana legalizována, aby si ji člověk mohl koupit v obchodě, namísto toho, že je to nelegální?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:59-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:59-cs
   :END:
 
 /Sri Chinmoy:/ Pokud určitá země cítí, že klesla tak hluboko, že se dotkla samotného dna a už nemůže dále dolů, potom by měla být marihuana legalizována. Pokud tato země cítí, že se ještě tvrdého dna nedotkla a že je zde stále špetka naděje, že spatříme záplavu světla a uvědomíme si, že Bůh existuje, potom nesmí být legalizována. Musíme vědět, co od sebe očekáváme. Pokud neočekáváme nic, naprosto nic, pokud si myslíme, že nejsme ničím, naši praotcové nebyli ničím, naše děti, vnuci a pravnuci nebudou ničím, potom by měla být legalizována. Pokud ovšem cítíme, že jsme něčím byli a že se můžeme stát něčím větším, pak to musíme zastavit. Nesmíme marihuanu legalizovat.
@@ -940,26 +935,11 @@ Chceme zůstat tak božskými a tak čistými, jak je to jen možné. Jakmile s
 * Můžete nám vysvětlit, v jakém ohledu je marihuana horší než alkohol, který je legální, protože probíhají velké debaty o tom, že marihuana není o nic horší než alkohol?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:60-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sefw:60-cs
   :END:
 
 /Sri Chinmoy:/ Pokud jde o zkušenost západního světa, marihuana není tak stará jako alkohol. Neospravedlňuji alkohol, který je velmi špatný, pokud si však moji pradědové utvořili špatný zvyk tím, že něco jedli a pak to naučili mého dědečka, který to naučil mého otce, stává se to do určité míry v této rodině normální. Je to v rodinné krvi. Potom je to považováno za nezbytné. Děje se spousta věcí, které jsou z duchovního hlediska špatné, ale mají velmi prastaré kořeny, a tak se staly postupně něčím normálním. Jakmile však jednou víme, co je z duchovního hlediska špatné, musí to být vymýceno a odstraněno z našeho života. Vláda a společnost nevěnuje alkoholu pozornost, protože jeho původ je pradávný. Miliony lidí pily alkohol po staletí.
 
 Marihuana je však záležitost, která pronikla během několika minulých let. Proto to ještě není chronická choroba. Může se však chronickou stát, jako ta druhá. Alkohol byl přijímán tak dlouho, že se jej dnes nejsme schopni zbavit. Marihuana je však něčím novým, spojeným s touto generací. Děti ji berou a rodiče mají silné námitky. Cítí, že je to něco špatného. Nyní ještě existuje opozice. Takže dokud je to ještě stále něco nového a je zde opozice, je snazší věnovat pozornost správné věci a zbavit se tohoto zvyku dříve, než bude nemožné jej zlomit.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

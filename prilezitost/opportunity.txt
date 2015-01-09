@@ -1,12 +1,7 @@
-#+TITLE: Příležitost
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Příležitost
 
  :PROPERTIES:
+ :language: cs
  :book-number: 
  :author: Sri Chinmoy
  :original-edition: Nil
@@ -20,8 +15,8 @@
 * 1.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:1-cs
+ :genre: aphorism
+ :cite-key: oppr:1-cs
  :END:
 
 Příležitost je duhou na obloze našeho srdce.
@@ -31,8 +26,8 @@ Příležitost je duhou na obloze našeho srdce.
 * 2.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:2-cs
+ :genre: aphorism
+ :cite-key: oppr:2-cs
  :END:
 
 Příležitost jsou otevřené dveře, jimiž vcházíme do komnaty srdce úspěchu.
@@ -42,8 +37,8 @@ Příležitost jsou otevřené dveře, jimiž vcházíme do komnaty srdce úspě
 * 3.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:3-cs
+ :genre: aphorism
+ :cite-key: oppr:3-cs
  :END:
 
 Příležitost je šepotem Božího požehnání.
@@ -53,8 +48,8 @@ Příležitost je šepotem Božího požehnání.
 * 4.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:4-cs
+ :genre: aphorism
+ :cite-key: oppr:4-cs
  :END:
 
 Promarněná příležitost, ztracené uspokojení.
@@ -64,8 +59,8 @@ Promarněná příležitost, ztracené uspokojení.
 * 5.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:5-cs
+ :genre: aphorism
+ :cite-key: oppr:5-cs
  :END:
 
 Příležitost probouzí naše srdce a volá naše oči.
@@ -75,8 +70,8 @@ Příležitost probouzí naše srdce a volá naše oči.
 * 6.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:6-cs
+ :genre: aphorism
+ :cite-key: oppr:6-cs
  :END:
 
 Příležitost je okamžitým oznamovatelem štěstí.
@@ -86,8 +81,8 @@ Příležitost je okamžitým oznamovatelem štěstí.
 * 7.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:7-cs
+ :genre: aphorism
+ :cite-key: oppr:7-cs
  :END:
 
 Příležitost nám nejen ukazuje cestu, ale také nás po ní vede.
@@ -97,8 +92,8 @@ Příležitost nám nejen ukazuje cestu, ale také nás po ní vede.
 * 8.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:8-cs
+ :genre: aphorism
+ :cite-key: oppr:8-cs
  :END:
 
 Příležitost nám říká, abychom viděli světlo a stali se blažeností.
@@ -108,8 +103,8 @@ Příležitost nám říká, abychom viděli světlo a stali se blažeností.
 * 9.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:9-cs
+ :genre: aphorism
+ :cite-key: oppr:9-cs
  :END:
 
 Příležitost urychluje příchod bohaté zkušenosti.
@@ -119,8 +114,8 @@ Příležitost urychluje příchod bohaté zkušenosti.
 * 10.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:10-cs
+ :genre: aphorism
+ :cite-key: oppr:10-cs
  :END:
 
 Příležitost klepe, moudrost otevírá.
@@ -130,8 +125,8 @@ Příležitost klepe, moudrost otevírá.
 * 11.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:11-cs
+ :genre: aphorism
+ :cite-key: oppr:11-cs
  :END:
 
 Příležitost k nám přichází s jasnou myslí a otevřeným srdcem.
@@ -141,8 +136,8 @@ Příležitost k nám přichází s jasnou myslí a otevřeným srdcem.
 * 12.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:12-cs
+ :genre: aphorism
+ :cite-key: oppr:12-cs
  :END:
 
 Mám dvě příležitosti: Boží Soucitné Oko a své vděčné srdce.
@@ -152,8 +147,8 @@ Mám dvě příležitosti: Boží Soucitné Oko a své vděčné srdce.
 * 13.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:13-cs
+ :genre: aphorism
+ :cite-key: oppr:13-cs
  :END:
 
 Každý okamžik je zlatou příležitostí k sebepřekonání a uspokojení Boha.
@@ -163,8 +158,8 @@ Každý okamžik je zlatou příležitostí k sebepřekonání a uspokojení Boh
 * 14.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:14-cs
+ :genre: aphorism
+ :cite-key: oppr:14-cs
  :END:
 
 Příležitost nás neustále zve, abychom plavali v moři extáze.
@@ -174,8 +169,8 @@ Příležitost nás neustále zve, abychom plavali v moři extáze.
 * 15.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:15-cs
+ :genre: aphorism
+ :cite-key: oppr:15-cs
  :END:
 
 Příležitost projasňuje džungli naší mysli.
@@ -185,8 +180,8 @@ Příležitost projasňuje džungli naší mysli.
 * 16.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:16-cs
+ :genre: aphorism
+ :cite-key: oppr:16-cs
  :END:
 
 Příležitost zkrášluje zahradu našeho srdce.
@@ -196,8 +191,8 @@ Příležitost zkrášluje zahradu našeho srdce.
 * 17.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:17-cs
+ :genre: aphorism
+ :cite-key: oppr:17-cs
  :END:
 
 Lidské zrození je zlatou příležitostí k odhalení a projevení Boha na zemi.
@@ -207,8 +202,8 @@ Lidské zrození je zlatou příležitostí k odhalení a projevení Boha na zem
 * 18.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:18-cs
+ :genre: aphorism
+ :cite-key: oppr:18-cs
  :END:
 
 Příležitost je naším zasvěcením našemu zdokonalení a uspokojení.
@@ -218,8 +213,8 @@ Příležitost je naším zasvěcením našemu zdokonalení a uspokojení.
 * 19.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:19-cs
+ :genre: aphorism
+ :cite-key: oppr:19-cs
  :END:
 
 Příležitosti, přicházíš a dáváš mi své světlo. Já ti dávám své vděčné srdce.
@@ -229,8 +224,8 @@ Příležitosti, přicházíš a dáváš mi své světlo. Já ti dávám své v
 * 20.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:20-cs
+ :genre: aphorism
+ :cite-key: oppr:20-cs
  :END:
 
 Příležitost je vždy připravenou ochotnou rukou.
@@ -240,8 +235,8 @@ Příležitost je vždy připravenou ochotnou rukou.
 * 21.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:21-cs
+ :genre: aphorism
+ :cite-key: oppr:21-cs
  :END:
 
 Když mě příležitost přichází navštívit, okamžitě ji s objetím přijímám.
@@ -251,8 +246,8 @@ Když mě příležitost přichází navštívit, okamžitě ji s objetím přij
 * 22.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:22-cs
+ :genre: aphorism
+ :cite-key: oppr:22-cs
  :END:
 
 Příležitost je bezpodmínečným darem Boha.
@@ -262,8 +257,8 @@ Příležitost je bezpodmínečným darem Boha.
 * 23.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:23-cs
+ :genre: aphorism
+ :cite-key: oppr:23-cs
  :END:
 
 Příležitost se dokáže postavit všem překážkám.
@@ -273,8 +268,8 @@ Příležitost se dokáže postavit všem překážkám.
 * 24.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:24-cs
+ :genre: aphorism
+ :cite-key: oppr:24-cs
  :END:
 
 Příležitost je úplně pro každého, a ne pro pár vyvolených.
@@ -284,8 +279,8 @@ Příležitost je úplně pro každého, a ne pro pár vyvolených.
 * 25.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:25-cs
+ :genre: aphorism
+ :cite-key: oppr:25-cs
  :END:
 
 Příležitost přichází a ptá se mě, zda jsem připraven. Okamžitě odpovídám: „Jsem zcela připraven.“
@@ -295,8 +290,8 @@ Příležitost přichází a ptá se mě, zda jsem připraven. Okamžitě odpov�
 * 26.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:26-cs
+ :genre: aphorism
+ :cite-key: oppr:26-cs
  :END:
 
 Nevážíme-li si příležitostí, přicházíme o všechno.
@@ -306,8 +301,8 @@ Nevážíme-li si příležitostí, přicházíme o všechno.
 * 27.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:27-cs
+ :genre: aphorism
+ :cite-key: oppr:27-cs
  :END:
 
 Příležitost je urychlením našich úspěchů.
@@ -317,8 +312,8 @@ Příležitost je urychlením našich úspěchů.
 * 28.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:28-cs
+ :genre: aphorism
+ :cite-key: oppr:28-cs
  :END:
 
 Příležitost je nejdražším přítelem naší připravenosti, ochoty a dychtivosti.
@@ -328,8 +323,8 @@ Příležitost je nejdražším přítelem naší připravenosti, ochoty a dycht
 * 29.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:29-cs
+ :genre: aphorism
+ :cite-key: oppr:29-cs
  :END:
 
 Příležitost je soucitem zaplavenou šlépějí božskosti.
@@ -339,8 +334,8 @@ Příležitost je soucitem zaplavenou šlépějí božskosti.
 * 30.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:30-cs
+ :genre: aphorism
+ :cite-key: oppr:30-cs
  :END:
 
 Máme-li víru ve svou příležitost, nikdy nás nezklame.
@@ -350,8 +345,8 @@ Máme-li víru ve svou příležitost, nikdy nás nezklame.
 * 31.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:31-cs
+ :genre: aphorism
+ :cite-key: oppr:31-cs
  :END:
 
 Příležitosti, důvěřuji ti.
@@ -361,8 +356,8 @@ Příležitosti, důvěřuji ti.
 * 32.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:32-cs
+ :genre: aphorism
+ :cite-key: oppr:32-cs
  :END:
 
 Příležitost neustále nabízí sebe sama.
@@ -372,8 +367,8 @@ Příležitost neustále nabízí sebe sama.
 * 33.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:33-cs
+ :genre: aphorism
+ :cite-key: oppr:33-cs
  :END:
 
 Příležitost je mým průvodcem jak v malých věcech, tak i v těch velkých.
@@ -383,8 +378,8 @@ Příležitost je mým průvodcem jak v malých věcech, tak i v těch velkých.
 * 34.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:34-cs
+ :genre: aphorism
+ :cite-key: oppr:34-cs
  :END:
 
 Bůh mi posílá příležitost. Já posílám Bohu vděčnost.
@@ -394,8 +389,8 @@ Bůh mi posílá příležitost. Já posílám Bohu vděčnost.
 * 35.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:35-cs
+ :genre: aphorism
+ :cite-key: oppr:35-cs
  :END:
 
 Příležitosti, vybrala sis mě. Slibuji, že tě nepromarním.
@@ -405,8 +400,8 @@ Příležitosti, vybrala sis mě. Slibuji, že tě nepromarním.
 * 36.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:36-cs
+ :genre: aphorism
+ :cite-key: oppr:36-cs
  :END:
 
 Příležitosti, přicházíš ke mně se svými mocnými úsměvy. Já ti dávám své vděčné slzy.
@@ -416,8 +411,8 @@ Příležitosti, přicházíš ke mně se svými mocnými úsměvy. Já ti dáv�
 * 37.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:37-cs
+ :genre: aphorism
+ :cite-key: oppr:37-cs
  :END:
 
 Příležitosti, jsem ti tak vděčný. Jsem ti tak vděčný, protože se nezajímáš o mou sílu nebo o mou slabost. Zajímáš se pouze o mou vnímavost.
@@ -427,8 +422,8 @@ Příležitosti, jsem ti tak vděčný. Jsem ti tak vděčný, protože se nezaj
 * 38.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:38-cs
+ :genre: aphorism
+ :cite-key: oppr:38-cs
  :END:
 
 Příležitosti, jsi připravena mě učit. Já jsem připraven tě poslouchat.
@@ -438,8 +433,8 @@ Příležitosti, jsi připravena mě učit. Já jsem připraven tě poslouchat.
 * 39.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:39-cs
+ :genre: aphorism
+ :cite-key: oppr:39-cs
  :END:
 
 Příležitosti, chceš ze mě učinit to, čím bych měl být.
@@ -449,8 +444,8 @@ Příležitosti, chceš ze mě učinit to, čím bych měl být.
 * 40.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:40-cs
+ :genre: aphorism
+ :cite-key: oppr:40-cs
  :END:
 
 Příležitosti, ty nežádáš, ty dokonce ani neočekáváš. Pouze mi dáváš to, co Bůh chce, abys mi dala.
@@ -461,8 +456,8 @@ Příležitosti, ty nežádáš, ty dokonce ani neočekáváš. Pouze mi dává�
 * 41.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:41-cs
+ :genre: aphorism
+ :cite-key: oppr:41-cs
  :END:
 
 Příležitosti, přijď ke mně. Slibuji, že od této chvíle už nikdy nebudu plýtvat svým časem.
@@ -472,8 +467,8 @@ Příležitosti, přijď ke mně. Slibuji, že od této chvíle už nikdy nebudu
 * 42.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:42-cs
+ :genre: aphorism
+ :cite-key: oppr:42-cs
  :END:
 
 Příležitosti, bez tebe je můj život slzami tragédie. S tebou je můj život úsměvy komedie.
@@ -483,8 +478,8 @@ Příležitosti, bez tebe je můj život slzami tragédie. S tebou je můj živo
 * 43.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:43-cs
+ :genre: aphorism
+ :cite-key: oppr:43-cs
  :END:
 
 Příležitosti, vždy mi přicházíš říci, že můj úspěch a můj pokrok se ke mně rychle přibližují.
@@ -494,8 +489,8 @@ Příležitosti, vždy mi přicházíš říci, že můj úspěch a můj pokrok 
 * 44.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:44-cs
+ :genre: aphorism
+ :cite-key: oppr:44-cs
  :END:
 
 Příležitost ke mně přichází, aby mi pomohla zvítězit.
@@ -505,8 +500,8 @@ Příležitost ke mně přichází, aby mi pomohla zvítězit.
 * 45.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:45-cs
+ :genre: aphorism
+ :cite-key: oppr:45-cs
  :END:
 
 Příležitost mi vždy radí, abych se měl na pozoru. Nesmím čas nechat unikat.
@@ -516,8 +511,8 @@ Příležitost mi vždy radí, abych se měl na pozoru. Nesmím čas nechat unik
 * 46.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:46-cs
+ :genre: aphorism
+ :cite-key: oppr:46-cs
  :END:
 
 Příležitosti, přicházíš ke mně jako nejvyšší rychlost úspěchu mysli a nejvyšší rychlost pokroku srdce.
@@ -527,8 +522,8 @@ Příležitosti, přicházíš ke mně jako nejvyšší rychlost úspěchu mysli
 * 47.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:47-cs
+ :genre: aphorism
+ :cite-key: oppr:47-cs
  :END:
 
 Příležitost ke mně přichází jako anděl sestupující přímo z Nebe.
@@ -538,8 +533,8 @@ Příležitost ke mně přichází jako anděl sestupující přímo z Nebe.
 * 48.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:48-cs
+ :genre: aphorism
+ :cite-key: oppr:48-cs
  :END:
 
 Příležitosti, jsi mé štěstí. Jsem ti k dispozici.
@@ -549,8 +544,8 @@ Příležitosti, jsi mé štěstí. Jsem ti k dispozici.
 * 49.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:49-cs
+ :genre: aphorism
+ :cite-key: oppr:49-cs
  :END:
 
 Příležitosti, věřím ti. Spoléhám na tebe.
@@ -560,27 +555,8 @@ Příležitosti, věřím ti. Spoléhám na tebe.
 * 50.
 
  :PROPERTIES:
- :GENRE: aphorism
- :cite-key: OPPR:50-cs
+ :genre: aphorism
+ :cite-key: oppr:50-cs
  :END:
 
 Každý den se Bůh hluboce raduje, když mě pozoruje, jak plavu v moři příležitostí.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# END:
-
-
-
-
-
-

@@ -1,20 +1,15 @@
-#+TITLE: Jóga a duchovní život. Cesta indické duše.
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Jóga a duchovní život. Cesta indické duše.
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 1994
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: YSL-cs
-  :GENRE: discourse
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 1994
+  :publisher: Madal Bal
+  :cite-key: YSL-cs
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Část I: DUCHOVNÍ A FILOSOFICKÉ POJEDNÁNÍ
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: YSL:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: ysl:1e1-cs
   :END:
 
 
@@ -32,9 +27,9 @@
 * ČLOVĚK A BŮH
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:1-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:1-cs
   :END:
 
 
@@ -93,9 +88,9 @@ Během meditace musíme být velice opatrní. Občas se mysl bude chtít oddáva
 * NÁŠ CÍL JE UVNITŘ NÁS
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:2-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:2-cs
   :END:
 
 
@@ -107,7 +102,7 @@ Chceme-li vidět něco ve vnějším světě, pak kromě toho, že musíme mít 
 
 Bůh není něco, co můžeme získat zvnějšku. Bůh je právě to, co můžeme odhalit uvnitř.
 
-V běžném životě má každá lidská bytost milióny a milióny otázek. V duchovním životě přijde den, kdy člověk pocítí, že existuje jen jedna otázka, na kterou se stojí za to ptát: „Kdo jsem?“ Odpověď všech odpovědí je: „Nejsem tělo, ale jsem Vnitřní kormidelník.“
+V běžném životě má každá lidská bytost milióny a milióny otázek. V duchovním životě přijde den, kdy člověk pocítí, že existuje jen jedna otázka, na kterou se stojí za to ptát: „kdo jsem?“ odpověď všech odpovědí je: „Nejsem tělo, ale jsem Vnitřní kormidelník.“
 
 Jak je možné, že člověk nepoznal sám sebe, což by mělo být tím nejsnazším ze všech jeho úsilí? Nezná sám sebe právě proto, že se ztotožňuje s egem a ne se svým skutečným Já. Co ho nutí ztotožňovat se s tímto falešným já? Je to nevědomost. A co mu říká, že skutečné Já není a nikdy nemůže být ego? Je to jeho hledání Sebe Sama. To, co vidí v nejvnitřnějších zákoutích svého srdce, je jeho skutečné Já, jeho Bůh. Nakonec se musí to, co vidíme, přeměnit v to, čím se staneme.
 
@@ -138,9 +133,9 @@ Náš Cíl je uvnitř nás. Abychom tohoto Cíle dosáhli, musíme se obrátit k
 * NÁŠ MÍR JE UVNITŘ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:3-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:3-cs
   :END:
 
 
@@ -187,9 +182,9 @@ Náš mír je uvnitř a tento mír je základem našeho života. A tak se ode dn
 * KDO SE HODÍ PRO JÓGU?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:4-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:4-cs
   :END:
 
 
@@ -227,9 +222,9 @@ Jóga je naše sjednocení s Pravdou. Existují tři postupné stupně tohoto s
 * SÍLA ODEVZDÁNÍ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:5-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:5-cs
   :END:
 
 
@@ -264,9 +259,9 @@ V úplném a naprostém odevzdání člověka je jeho realizace: jeho realizace
 * MEDITACE: INDIVIDUÁLNÍ A SPOLEČNÁ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:6-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:6-cs
   :END:
 
 
@@ -301,9 +296,9 @@ Nakonec každý člověk musí mít ducha božského hrdiny. Ocitne-li se sám v
 * MÁ VAŠE DUŠE ZVLÁŠTNÍ POSLÁNÍ?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:7-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:7-cs
   :END:
 
 
@@ -332,9 +327,9 @@ Stejně tak je to s vámi. Vaše zvláštní poslání -- kterým je naplnění
 * JAK DALEKO JSME OD REALIZACE?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:8-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:8-cs
   :END:
 
 
@@ -369,9 +364,9 @@ Realizace může být dosažena Boží Milostí, milostí Gurua a aspirací hled
 * ÚLOHA ČISTOTY V DUCHOVNÍM ŽIVOTĚ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:9-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:9-cs
   :END:
 
 
@@ -410,9 +405,9 @@ Matka drží dítě za ruku. Ale je to dítě, kdo musí kráčet, a ono kráč�
 * DVĚ TAJEMSTVÍ: REINKARNACE A EVOLUCE
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:10-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:10-cs
   :END:
 
 
@@ -445,9 +440,9 @@ Evoluce je spojnice mezi tím, co bylo, a tím, co bude. Jsem člověk. Musím v
 * CO JE CÍLEM ŽIVOTA?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:11-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:11-cs
   :END:
 
 Cílem života je uvědomit si Nejvyšší Skutečnost. Cílem života je být vědomým vyjádřením Věčné Bytosti.
@@ -479,9 +474,9 @@ Buďme všichni skutečně duchovní. Realizujme Boha pomocí svého neustáléh
 * CO JE DUCHOVNOST?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:12-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:12-cs
   :END:
 
 
@@ -516,9 +511,9 @@ Nakonec mám otevřené tajemství pro ty, kteří se chtějí pustit do duchovn
 * CO JE TO JÓGA?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:13-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:13-cs
   :END:
 
 
@@ -543,13 +538,13 @@ Jedna věc je jistá. Tyto tři cesty nás vedou k Seberealizaci v realizaci Boh
 * BHAKTI JÓGA
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:14-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:14-cs
   :END:
 
 
-Požádejte člověka, aby mluvil o Bohu, a on bude mluvit donekonečna. Požádejte /bhaktu/, aby mluvil o Bohu, a řekne jen dvě věci: „Bůh je veškerá Náklonnost, Bůh je veškerá Sladkost.“ /Bhakta/ jde dokonce o krok dále. Říká: „Mohu zkusit žít bez chleba, avšak nikdy nemohu žít bez Milosti svého Pána.“
+Požádejte člověka, aby mluvil o Bohu, a on bude mluvit donekonečna. Požádejte /bhaktu/, aby mluvil o Bohu, a řekne jen dvě věci: „bůh je veškerá náklonnost, bůh je veškerá sladkost.“ /bhakta/ jde dokonce o krok dále. Říká: „Mohu zkusit žít bez chleba, avšak nikdy nemohu žít bez Milosti svého Pána.“
 
 Modlitba /bhakty/ je velice jednoduchá: „Ó můj Pane Bože, vstup do mého života se svým Okem Ochrany a se svým Srdcem Soucitu.“ Tato modlitba je nejrychlejším způsobem, jak zaklepat na Dveře Boha, a je také nejsnazším způsobem, jak vidět Boha Dveře otevřít.
 
@@ -572,9 +567,9 @@ Pták zpívá. Člověk zpívá. Bůh také zpívá. Prostřednictvím srdce sv�
 * KARMA JÓGA
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:15-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:15-cs
   :END:
 
 
@@ -595,9 +590,9 @@ Pro /bhaktu/ je snadné zapomenout na svět a pro /džňánu/ si světa nevším
 * DŽŇÁNA JÓGA
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:16-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:16-cs
   :END:
 
 
@@ -611,16 +606,16 @@ Bůh má tři oči. Jejich jména jsou /Bhakti, Karma/ a /Džňána. Bhakti/ chc
 
 Člověk žije ve světě smyslů. Neví, zda je tento svět skutečný, nebo neskutečný. Běžný člověk je spokojen se svou vlastní existencí. Nemá přemýšlivou schopnost ani upřímný zájem vstoupit do hlubšího významu života. Přeje si uniknout problémům života a smrti. Naneštěstí není žádného úniku. Musí plavat v moři nevědomosti. Jen /džňánajogín/ ho může naučit, jak moře nevědomosti přeplavat a vstoupit do Moře Poznání a Světla.
 
-Džňána jogín prohlašuje: /“Neti, neti“/. „Ne toto, ne toto.“ Co tím myslí? Myslí tím, že existuje vyšší svět než tento svět smyslů, vyšší pravda než tato pozemská pravda. Říká, v určitém smyslu, že proti sobě stojí dvě strany. Jedna strana je faleš, nevědomost a smrt. Druhá strana je Pravda, Poznání a Nesmrtelnost. Když pronáší: /“Neti, neti“/, žádá člověka, aby odmítl faleš a přijal Pravdu, aby odmítl nevědomost a přijal Poznání, aby odmítl smrt a přijal Nesmrtelnost.
+Džňána jogín prohlašuje: /“neti, neti“/. „ne toto, ne toto.“ co tím myslí? myslí tím, že existuje vyšší svět než tento svět smyslů, vyšší pravda než tato pozemská pravda. Říká, v určitém smyslu, že proti sobě stojí dvě strany. jedna strana je faleš, nevědomost a smrt. druhá strana je pravda, poznání a nesmrtelnost. když pronáší: /“Neti, neti“/, žádá člověka, aby odmítl faleš a přijal Pravdu, aby odmítl nevědomost a přijal Poznání, aby odmítl smrt a přijal Nesmrtelnost.
 
 
 
 * Jaký je plán Boha?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:17-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:17-cs
   :END:
 
 
@@ -650,18 +645,18 @@ Lidské nevědomé, polovědomé, vědomé a duchovně vědomé plány a Boží 
 
 * Část II: OTÁZKY A ODPOVĚDI O VNITŘNÍM ŽIVOTĚ
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: YSL:18e2-cs
+  :genre: section
+  :keywords:
+  :cite-key: ysl:18e2-cs
   :END:
 
 
 * Jak je možné srovnat vnitřní úpadek a necitlivost Ameriky s jejím rozvíjejícím se duchovním uvědoměním?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:18-cs
   :END:
 
 
@@ -680,9 +675,9 @@ Kromě toho, Amerika je mladý národ. Nechce kráčet; chce běžet co nejrychl
 * Nemáte pocit, že národní hranice, ekonomická nerovnost a náboženská dogmata rozdělují lidské bytosti do různých táborů, vytvářejíc tím neduchovní prostředí, a kde mír zůstává pro jednotlivce stejně jako pro národ vzdálenou hvězdou?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:19-cs
   :END:
 
 
@@ -695,9 +690,9 @@ Je jen otázkou času, kdy čas sám vytvoří vhodnou příležitost pro to, ab
 * Chtěl bych upřímně vědět, co kdy duchovnost Indie pro Indii udělala. Jak to, že i přes své jogíny a světce je stále chudou a zaostalou zemí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:20-cs
   :END:
 
 
@@ -714,9 +709,9 @@ Indie je dnes možná chudá, ale díky svému novému uvědomění a své nové
 * Mohl byste mi prosím říci, proč lidé v Indii uctívají tolik bohů a bohyní a ne jednoho?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:21-cs
   :END:
 
 
@@ -729,9 +724,9 @@ Tito bohové a bohyně jsou ve skutečnosti jen rozličná projevení Jediného 
 * Kastovní systém je naprosto špatný. Proč ho máte? Můžete mi říci i jen jedno slovo na jeho obranu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:22-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:22-cs
   :END:
 
 
@@ -744,9 +739,9 @@ K vašemu komentáři mám námitky a musím říci, že v tomto světě není
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:23-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:23-cs
   :END:
 
 
@@ -757,9 +752,9 @@ To zcela záleží na rodičích. Jsou-li ortodoxní a konzervativní, nemusí j
 * Je pravda, že někteří lidé v Indii dokážou chodit po ohni? Neděsí nebo neudivuje vás to?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:24-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:24-cs
   :END:
 
 
@@ -771,9 +766,9 @@ Dvakrát jsem měl možnost být svědkem takového představení. Neobával jse
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:25-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:25-cs
   :END:
 
 
@@ -784,9 +779,9 @@ Doufám, že znáte význam odevzdání. Ve skutečném odevzdání svou osobnos
 * Vysvětlil jste nám, co znamená nejvyšší odevzdání. Teď bych se od vás rád dozvěděl, co znamená nejvyšší obětování.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:26-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:26-cs
   :END:
 
 
@@ -798,9 +793,9 @@ Můj mladý příteli, mám velkou radost, že slyším vaši otázku. Nejvyšš
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:27-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:27-cs
   :END:
 
 
@@ -815,9 +810,9 @@ Bůh je dokonalá Dokonalost. Tuto Dokonalost můžeme dosáhnout, jen když bud
 * Moje žena, která je jinak tou nejrozumnější bytostí, trvá na tom, že všechna náboženství jsou klamem, který způsobila existenční úzkost. Pro většinu lidí je nesnesitelná myšlenka, že kromě biologických a rasových skutečností života nemá život žádný smysl. Ona však cítí, že toto by mělo uspokojit každého. Skutečnosti smrti, věří, bychom podobně měli čelit jako biologické skutečnosti. Je to stará teorie, která, jak jsem si uvědomil, nemůže být na intelektuální úrovni dokázána ani vyvrácena.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:28-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:28-cs
   :END:
 
 
@@ -829,7 +824,7 @@ Dále je tu něco mimo chápání našeho omezeného tělesného vědomí. Dokon
 
 Teprve když se sladíme s těmito vyššími silami -- s univerzální harmonií -- život přestává být nesnesitelný. Zcela souhlasím s pohledem vaší ženy, že když člověk nevidí v životě žádný smysl, žádný cíl nebo účel, tento postoj, ba i život sám se stává nesnesitelným. Nicméně bych ji ohledně náboženské víry rád předložil analogii:
 
-Žiji teď v brooklynském bytě. Jestliže na mě nějaké dítě zavolá a zeptá se: „Existuje místo, kterému se říká Kolín?“ odpovím mu: „Jistě, mé dítě, je to v Německu.“ Předpokládejme, že řekne: „Musíš mi to dokázat!“ A teď, jak mu to mohu dokázat, kromě toho, že mu ukážu mapy a fotografie? Mohu mu jen říci, že jsem Kolín osobně navštívil a že jsou milióny dalších, kteří tam také byli. Jeho pochybnost nemůže popřít existenci tohoto města.
+Žiji teď v brooklynském bytě. Jestliže na mě nějaké dítě zavolá a zeptá se: „existuje místo, kterému se říká kolín?“ odpovím mu: „jistě, mé dítě, je to v německu.“ předpokládejme, že řekne: „Musíš mi to dokázat!“ A teď, jak mu to mohu dokázat, kromě toho, že mu ukážu mapy a fotografie? Mohu mu jen říci, že jsem Kolín osobně navštívil a že jsou milióny dalších, kteří tam také byli. Jeho pochybnost nemůže popřít existenci tohoto města.
 
 Podobně ti, kteří plně realizovali Boha, mají právo nám říkat, že Bůh existuje. Jen proto, že jsme Ho sami nerealizovali, nemůžeme popírat Jeho existenci. Tak jako dítě musí uspokojit své fyzické oči tím, že do Kolína pojede, my si skutečnost Boha můžeme dokázat jen tak, že Ho spatříme. A toto hledání Boha dává našemu jinak bezvýznamnému životu nesrovnatelný význam a směr.
 
@@ -838,9 +833,9 @@ Podobně ti, kteří plně realizovali Boha, mají právo nám říkat, že Bůh
 * Věřím, že láska je vždy stejná, ať je lidská nebo božská. Je to pravda? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:29-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:29-cs
   :END:
 
 
@@ -851,9 +846,9 @@ Ne, můj mladý příteli, lidská láska a božská láska jsou dvě naprosto o
 * Mluvil jste o víře. Mohl byste mi trochu usnadnit pochopení tohoto pojmu?
  
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:30-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:30-cs
   :END:
 
 
@@ -864,9 +859,9 @@ Pokusím se. Ze všeho nejdříve, víra není důvěřivost nebo slepá víra. 
 * Jak můžeme pocítit svou vnitřní víru v Boha, jsme-li ve svém každodenním životě něčím odrazováni?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:31-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:31-cs
   :END:
 
 
@@ -879,9 +874,9 @@ Když se trápíme nebo se něčeho obáváme, okamžitě si snažíme násilně
 * Studoval jsem pěknou řádku písem. Také rád mluvím o duchovnosti, náboženství, vnitřním životě a tak podobně. Ale osobně v sobě cítím pustou poušť. Z toho, co dělám, nezískávám žádné uspokojení. Cítím, že plýtvám drahocenným časem svým i ostatních. Mohl byste mi to nějak osvětlit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:32-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:32-cs
   :END:
 
 
@@ -904,9 +899,9 @@ Podobně může řečník, i přes svou vlastní chabou víru, ve svých posluch
 * Mohl byste mi laskavě poradit, zda bych měl opustit svou ženu a dítě kvůli tomu, abych hlouběji vstoupil do duchovního života?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:33-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:33-cs
   :END:
 
 
@@ -917,9 +912,9 @@ Ve vašem případě cítím, že byste měl zůstat se svou ženou a dítětem.
 * Jsou duchovní zážitky naprosto nezbytné pro realizaci Boha?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:34-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:34-cs
   :END:
 
 
@@ -934,9 +929,9 @@ Ale plnou a úplnou Realizaci můžete dosáhnout i bez takzvaných „zážitk�
 * Proč věříte ve znovuzrození? Já vím dost dobře, že když umřu, půjdu k Bohu. A to je vše.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:35-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:35-cs
   :END:
 
 
@@ -947,9 +942,9 @@ Můj příteli, tak jako vy půjdete k Bohu, až opustíte tělo, půjdu i já.
 * Věříte tomu, že v každé inkarnaci se člověk zdokonaluje?
 
  :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
- :CITE-KEY: YSL:36-cs
+  :genre: qa
+  :keywords:
+ :cite-key: ysl:36-cs
   :END:
 
 Ano, protože se vědomě či nevědomě vyvíjí.
@@ -959,9 +954,9 @@ Ano, protože se vědomě či nevědomě vyvíjí.
 * Platí zákon karmy pro každého?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:37-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:37-cs
   :END:
 
 
@@ -972,9 +967,9 @@ Zákon /karmy/ platí pro každého, ale člověk ho může překonat pomocí sv
 * Co je lepší: modlit se k Bohu, nebo pracovat tak, jak Bůh chce, abychom pracovali?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:38-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:38-cs
   :END:
 
 
@@ -985,9 +980,9 @@ Jsem šťastný, že mohu odpovědět na tuto otázku otázek. Odpověď je doce
 * Řekl jste, že jsou různé způsoby dosahování Boha: činnost, oddanost a znalost. Jestliže má člověk všechny tyto kvality, pomůže mu to v jeho pokroku? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:39-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:39-cs
   :END:
 
 
@@ -998,9 +993,9 @@ Zajisté to pomůže. Pokud vezmeme postoj služby, postoj oddanosti a postoj po
 * Řeknete mi, prosím, něco o meditaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:40-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:40-cs
   :END:
 
 
@@ -1013,9 +1008,9 @@ Je-li vaše meditace správná, ucítíte v celém těle určitý druh radosti. 
 * Abychom se dostali do bližšího spojení se svým Já, abychom poznali tajemství svého vnitřního Já, jaký je k tomu správný postup? Věřím tomu, že meditace je způsob, jak člověk získá odpovědi o svém vnitřním Já. Je to správně?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:41-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:41-cs
   :END:
 
 
@@ -1026,9 +1021,9 @@ Ano, meditací a koncentrací. Obojí pomůže. Chcete-li poznat své vnitřní 
 * Existují nějaké dané postupy, které musí člověk dodržovat, aby meditoval správně? 
  
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:42-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:42-cs
   :END:
 
 
@@ -1041,9 +1036,9 @@ Když máte učitele, máte obrovské štěstí, obzvlášť je-li ten učitel p
 * Ale velice často nemusím rozeznat své vnitřní Já. Nevím, jestli hlas, který slyším, je vnitřní nebo vnější hlas, a to je velmi matoucí.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:43-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:43-cs
   :END:
 
 
@@ -1054,9 +1049,9 @@ Zcela vám rozumím. Avšak získáte-li učitele, který je realizovanou duší
 * Jaký je rozdíl mezi hlasem Ticha a hlasem Jógy? Nebo mezi nimi není žádný rozdíl?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:44-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:44-cs
   :END:
 
 
@@ -1069,9 +1064,9 @@ Ale Jóga zahrnuje vše, je to celá oblast. V józe získáte Ticho; získáte
 * Když se pokouším meditovat, před svým mentálním zrakem mám pocit oceánu a vody. Vyvolává to ve mně strach a nemohu moc dobře meditovat. Jak mohu meditovat bez toho, aniž bych měl tento pocit oceánu a vody?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:45-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:45-cs
   :END:
 
 
@@ -1084,15 +1079,15 @@ Nezaměřujte svou pozornost na povrch oceánu, ale jděte prosím tiše a vědo
 * Pane, kdy jste přišel na myšlenku, že uvnitř vás existuje vnitřní Já? A poté, co jste objevil, že máte vnitřní Já, jak jste se spojil s druhými lidmi, kteří si nebyli vědomi toho, že toto vnitřní Já mají?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:46-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:46-cs
   :END:
 
 
 Od svého dětství jsem intuitivně věděl, že uvnitř mě existuje hlubší Já. Každý z nás má vnitřní Já. Někteří si toto vnitřní Já uvědomují a jiní ne. Ti, kteří si ho uvědomují, jsou podle nás duchovně rozvinutí. Aby si vytvořili most mezi vnějším světem a vnitřním světem, mezi vnější bytostí a vnitřní bytostí, udržují si hořící plamen aspirace. Tato aspirace je založena na vnějším a vnitřním sebeobětování.
 
-Řekněme, že jste našel své vnitřní Já a vnitřní život a objevil jste řešení svých vnitřních problémů. Ale váš soused si je naprosto nevědomý vnitřního života a vnitřního světa. Pro vás by teď bylo nanejvýš obtížné mít s ním jakýkoliv druh vnitřního porozumění. Nemůže přijít a vstoupit do vašeho vědomí, protože pro obyčejného člověka je to velmi obtížné. Ale pokud si k němu chcete vytvořit most, můžete během své meditace a koncentrace dělat toto: Nejprve jděte hluboko dovnitř a vyneste zevnitř všechny své sladké, jemné a harmonické pocity do popředí. Potom je do něj během své meditace vědomě vhoďte: do jeho mysli, do jeho těla, do jeho srdce. Tím si vytvoříte most mezi sebou a tím člověkem. 
+Řekněme, že jste našel své vnitřní Já a vnitřní život a objevil jste řešení svých vnitřních problémů. Ale váš soused si je naprosto nevědomý vnitřního života a vnitřního světa. Pro vás by teď bylo nanejvýš obtížné mít s ním jakýkoliv druh vnitřního porozumění. Nemůže přijít a vstoupit do vašeho vědomí, protože pro obyčejného člověka je to velmi obtížné. Ale pokud si k němu chcete vytvořit most, můžete během své meditace a koncentrace dělat toto: nejprve jděte hluboko dovnitř a vyneste zevnitř všechny své sladké, jemné a harmonické pocity do popředí. potom je do něj během své meditace vědomě vhoďte: do jeho mysli, do jeho těla, do jeho srdce. Tím si vytvoříte most mezi sebou a tím člověkem. 
 
 Ve svém vnitřním světě jste v bezpečí. Vaše spojení s vnitřním světem vám dalo obrovskou jistotu při zvládání vnějšího světa. Teď můžete jít a povědět mu o duchovním životě, vnitřním životě, životě, který vám dává pravé štěstí. 
 
@@ -1103,9 +1098,9 @@ A tak podobně jako každý den zaléváte květinu, syťte v sobě svou vnitř
 * V duchovním vývoji existuje sedm úrovní vědomí. Jak mohu rozlišit, na které úrovni se nacházím? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:47-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:47-cs
   :END:
 
 
@@ -1120,9 +1115,9 @@ Dejme tomu, že ve vašem případě chcete jednat z intuitivní mysli. Jakmile
 * Vždy používáte slovo „vědomí". Co přesně to znamená? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:48-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:48-cs
   :END:
 
 
@@ -1135,9 +1130,9 @@ Vědomí je jiskra, která nás nechává vstoupit do Světla. Je to naše vědo
 * Ovládáte své vědomí?
 
    :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-   :CITE-KEY: YSL:49-cs
+  :genre: qa
+  :keywords:
+   :cite-key: ysl:49-cs
   :END:
 
 
@@ -1148,9 +1143,9 @@ Obyčejný člověk své vědomí neovládá. Ale duchovní člověk ho dokáže
 * Jak pracuji na svém vědomí? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:50-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:50-cs
   :END:
 
 
@@ -1161,9 +1156,9 @@ Nemyslete na to, že byste měl něco dělat. Prostě nechte dveře svého vědo
 * Jaký je význam AUM?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:51-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:51-cs
   :END:
 
 
@@ -1178,9 +1173,9 @@ Když opakujete AUM, zkuste prosím pozorovat, co se ve skutečnosti děje. Bude
 * Je lepší meditovat na AUM nebo na Boha? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:52-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:52-cs
   :END:
 
 
@@ -1193,9 +1188,9 @@ V Indii opakujeme AUM nebo jméno nějakého boha či bohyně, jako je Šiva, K
 * Je Bůh mentální bytost? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:53-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:53-cs
   :END:
 
 
@@ -1208,9 +1203,9 @@ Lidská bytost obvykle přemýšlí, než něco udělá. U Boha tomu tak není. 
 * Jak se může člověk přibližovat úspěchu, když věří, že „Jak se ohýbají tvé nohy, tak se ohýbá cesta“? Je to skutečně možné? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:54-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:54-cs
   :END:
 
 
@@ -1224,9 +1219,9 @@ V každém okamžiku se přímo před námi zhmotní možnost úplného projeven
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:55-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:55-cs
   :END:
 
 
@@ -1237,9 +1232,9 @@ Máte na mysli sebe, nebo mluvíte všeobecně? Jestliže se to vztahuje na vás
 * Guru Chinmoy, mluvil jste o vizi bez mysli. Je to to, co je známé jako intuice? Nebo je intuice něco jiného? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:56-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:56-cs
   :END:
 
 
@@ -1250,9 +1245,9 @@ Můžete tomu říkat intuice nebo přímé vnímání Pravdy, které nepotřebu
 * Je mysl jako taková určitý stroj spojující vyšší s nižším? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:57-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:57-cs
   :END:
 
 
@@ -1263,9 +1258,9 @@ Můžete tomu říkat intuice nebo přímé vnímání Pravdy, které nepotřebu
 * Ve starých knihách se mluví o náma-rúpa, Jménu a Tvaru. Slova jsou náma-rúpa, že? Myšlenky jsou náma-rúpa. A teď, toto není skutečně Bůh. To jsou lidské výmysly. Význam je vyrobená věc. Ve slově samotném není žádná skutečnost, je to pravda? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:58-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:58-cs
   :END:
 
 
@@ -1278,24 +1273,24 @@ Duchovní přístup k problému slov je ten, že musíme jít od tvaru k Beztvar
 * Sri Chinmoyi, v hinduistické tradici se mluví o tom, jak je átman totožný s Brahman - že se individuální duše rovná Univerzální Duši. Ježíš Kristus jednou řekl: „Já a můj Otec jsme jedním.“ Tato dvě vyjádření pocházející ze dvou odlišných duchovních pozadí - jsou, v duchovním světle, jedním a tím stejným? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:59-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:59-cs
   :END:
 
 
 Jsou to stejná vyjádření. /Átman/ a /Paramátman/ jsou individuální duše a Nejvyšší Já. Bůh sestupuje do projevení a bere na sebe podobu individuální duše, /átman/. Potom v procesu svého vývoje individuální duše dosahuje a stává se Nejvyšším Já, /Paramátman/. Aby v materiálním světě naplnil sám sebe úplně a zcela, Bůh potřebuje individuální duši.
 
-Tato vyjádření jsou stejná. Když Kristus řekl: „Já a můj Otec jsme jedním,“ bylo to jako kdyby řekl, že /átman/ a /Paramátman/ jsou jedním. To je proč v Indii říkáme /Átmanam Viddhi/, „Poznej sám sebe.“ Když znáte sami sebe, potom znáte Boha, protože mezi vámi a Bohem není žádný rozdíl. Seberealizace je realizace Boha a realizace Boha je Seberealizace. Z tohoto důvodu v Indii říkáme také /Soham asmi/, „On jsem já,“ a /Aham Brahma/, „Já jsem /Brahman/.“ Stejně tak všechny esoterické tradice vždy tvrdily, že pravé poznání najdeme hledáním uvnitř. To je proč Ježíš řekl: „Království nebeské je uvnitř vás.“
+Tato vyjádření jsou stejná. Když Kristus řekl: „já a můj otec jsme jedním,“ bylo to jako kdyby řekl, že /átman/ a /paramátman/ jsou jedním. to je proč v indii říkáme /Átmanam viddhi/, „poznej sám sebe.“ když znáte sami sebe, potom znáte boha, protože mezi vámi a bohem není žádný rozdíl. seberealizace je realizace boha a realizace boha je seberealizace. z tohoto důvodu v indii říkáme také /soham asmi/, „on jsem já,“ a /aham brahma/, „já jsem /brahman/.“ stejně tak všechny esoterické tradice vždy tvrdily, že pravé poznání najdeme hledáním uvnitř. to je proč ježíš řekl: „Království nebeské je uvnitř vás.“
 
 
 
 * Nevadilo by vám podrobněji rozvést výrok: „Království nebeské je uvnitř vás?“
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:60-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:60-cs
   :END:
 
 
@@ -1312,9 +1307,9 @@ Abyste věděli, Království nebeské je více než pouhá úroveň jako ostatn
 * Co je přesně ego? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:61-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:61-cs
   :END:
 
 
@@ -1327,9 +1322,9 @@ Obyčejné lidské ego nám dává pocit oddělené identity, odděleného vědo
 * Jak se ego zrodilo? Jak vzniklo? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:62-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:62-cs
   :END:
 
 
@@ -1342,9 +1337,9 @@ Ego dostává den za dnem příležitost, aby působilo nezávisle, a den za dne
 * Jak můžeme ego oslabit a nakonec nad ním zvítězit? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:63-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:63-cs
   :END:
 
 
@@ -1355,9 +1350,9 @@ Soustředěním se na Boží všeprostupující Vědomí. Toto Vědomí není n�
 * Část III: ODPOVĚDI, NA KTERÉ SE PTALY DĚTI 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: YSL:64e3-cs
+  :genre: section
+  :keywords:
+  :cite-key: ysl:64e3-cs
   :END:
 
 
@@ -1366,9 +1361,9 @@ Soustředěním se na Boží všeprostupující Vědomí. Toto Vědomí není n�
 * Guru, chci se tě na něco zeptat. Když rozbiji vejce, může ho Bůh dát zase dohromady? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:64-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:64-cs
   :END:
 
 Samozřejmě že může. Bůh může udělat všechno, co chce.
@@ -1378,9 +1373,9 @@ Samozřejmě že může. Bůh může udělat všechno, co chce.
 * Ty to dokážeš udělat? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:65-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:65-cs
   :END:
 
 
@@ -1391,9 +1386,9 @@ Ne. Promiň, Shannon, tvůj Guru to nedokáže udělat. Ale pokud mi Bůh dá tu
 * Dokážu to udělat já? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:66-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:66-cs
   :END:
 
 
@@ -1404,9 +1399,9 @@ Proč ne? V okamžiku, kdy ti Bůh dá sílu, dokážeš dát rozbité vejce sn
 * Je pravda, že se jogínem může stát každý, pokud to opravdu zkusí? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:67-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:67-cs
   :END:
 
 
@@ -1421,9 +1416,9 @@ A teď, jak se máš modlit? Modlíš-li se dnes k Bohu pro bonbón, zítra Ho 
 * Jak Bůh vypadá? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:68-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:68-cs
   :END:
 
 
@@ -1438,9 +1433,9 @@ Protože Bůh je v tobě, vypadá přesně jako ty. Právě teď jsi Bůh zahal
 * Jak je možné, že ty dokážeš vidět Boha a já ne? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:69-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:69-cs
   :END:
 
 
@@ -1455,9 +1450,9 @@ Když se budeš modlit k Bohu každý den, jednoho dne se toto vnitřní oko ot
 * Část IV: OTÁZKY A ODPOVĚDI O DUŠI
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: YSL:70e4-cs
+  :genre: section
+  :keywords:
+  :cite-key: ysl:70e4-cs
   :END:
 
 
@@ -1465,9 +1460,9 @@ Když se budeš modlit k Bohu každý den, jednoho dne se toto vnitřní oko ot
 * Je duše během života člověka po celou dobu s ním, nebo ho může dočasně opustit, dokonce mít domov někde jinde? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:70-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:70-cs
   :END:
 
 
@@ -1478,9 +1473,9 @@ Duše zpravidla v průběhu života člověka zůstává po celou dobu s ním, a
 * Podniká duše člověka během spánku nějaké cesty? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:71-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:71-cs
   :END:
 
 
@@ -1491,9 +1486,9 @@ Ano. Duše se vydává na cesty do různých úrovní vědomí. Je sedm vyšší
 * Může se tělo a vědomí člověka během jeho života změnit natolik, že do něj bude moci vstoupit vybranější duše? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:72-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:72-cs
   :END:
 
 
@@ -1504,9 +1499,9 @@ Vybranější duše do něj nevstoupí. Avšak když se tělo a vědomí člově
 * Může určitá změna během života, například pročištění, změnit duši? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:73-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:73-cs
   :END:
 
 
@@ -1517,9 +1512,9 @@ Je to stále ta samá duše. Předtím přijala nevědomost, ale teď odhazuje z
 * Když přemýšlíme o myšlenkách někoho jiného, naladíme se na jeho „psychické“ vzruchy. Je účinné cvičení, alespoň do doby našeho vlastního duchovního rozvinutí, naladit se na někoho, o kom věříme, že je zakotven ve Zdroji své bytosti, ve své duši? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:74-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:74-cs
   :END:
 
 
@@ -1530,9 +1525,9 @@ Nejprve si ujasněme použití slova „psychický“. Tak jak toto slovo použ�
 * Jak člověk pozná, zda je jeho duše šťastná? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:75-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:75-cs
   :END:
 
 
@@ -1543,9 +1538,9 @@ Nejprve ze všeho musí vědět a cítit, kde duše přebývá, kde se v těle 
 * Pláče duše, pokud je nešťastná? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:76-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:76-cs
   :END:
 
 
@@ -1556,9 +1551,9 @@ Ne. Skutečná duše, která je částí Kosmického Já, je vší Blažeností.
 * Existují uvnitř člověka dva druhy pokynů, jeden vycházející z jeho nejhlubší přirozenosti - který zahrnuje a rozvíjí vše v dobrotě a soucitu - a druhý, který se týká jenom „mě“ a „mého“? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:77-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:77-cs
   :END:
 
 
@@ -1569,9 +1564,9 @@ Ano. V člověku existují dva druhy pokynů. Dobrota a soucit pochází z nap
 * Může ve snu duše vypadat jako stará, vrásčitá a moudrá žena i jako malé dítě, které žvatlá svým jazykem? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:78-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:78-cs
   :END:
 
 
@@ -1582,9 +1577,9 @@ Ano. Duše může ve snu vypadat jako stará žena i jako malé dítě. Duše si
 * Je duše mužská i ženská? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:79-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:79-cs
   :END:
 
 
@@ -1595,9 +1590,9 @@ Duše jako taková není ani mužská, ani ženská. Pokud však přijme na poč
 * Je to duše, kdo v každé inkarnaci rozhoduje při výběru nového těla? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:80-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:80-cs
   :END:
 
 
@@ -1608,9 +1603,9 @@ Ano. Duše rozhoduje o výběru těla, ale s přímým souhlasem Nejvyššího n
 * Je to duše, která se musí odevzdat Kosmickému Já? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:81-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:81-cs
   :END:
 
 
@@ -1621,9 +1616,9 @@ Ano. Každá lidská bytost má individuální duši. Tato duše se musí odevzd
 * Dostává duše ve svém vývoji nové pokyny nebo jen odhaluje to, co vždy znala?  
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:82-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:82-cs
   :END:
 
 
@@ -1636,9 +1631,9 @@ Duše odhaluje to, co vždy znala. Zároveň však roste a obohacuje se tím, ž
 * Zažívá duše osamělost? Pokud ano, jak se to liší od naší povrchní potřeby být ve společnosti ostatních, bez ohledu na to, jestli je máme rádi nebo ne, prostě proto, že chceme někoho, s kým si můžeme povídat? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:83-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:83-cs
   :END:
 
 
@@ -1649,9 +1644,9 @@ Duše cítí osamělost, jen když tělo, vitálno, mysl a srdce, které s ní 
 * Žádá duše po člověku, aby změnil své způsoby jednání? 
  
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:84-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:84-cs
   :END:
 
 
@@ -1662,9 +1657,9 @@ Duše neklade požadavky jako takové. Není jako matka, která po svém dítět
 * Jak se to liší od požadavků, které klade ego? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:85-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:85-cs
   :END:
 
 
@@ -1675,9 +1670,9 @@ Nyní víme, že duše si neklade žádné požadavky. Když si ego klade nějak
 * Co se stane s duší, když se vitální a mentální části snaží uspokojit samy sebe bez souhlasu duše? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:86-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:86-cs
   :END:
 
 
@@ -1688,9 +1683,9 @@ V takových případech zůstává duše obvykle tichá. Pokud však mysl a vit�
 * Mají věci nebo místa duši? Například má židle duši, má město duši? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:87-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:87-cs
   :END:
 
 
@@ -1701,9 +1696,9 @@ Každá věc a každé místo má duši. Tak jako ostatní města, má duši i m
 * Má Země duši? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:88-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:88-cs
   :END:
 
 
@@ -1714,9 +1709,9 @@ Jistě. Země představuje mateřský aspekt Božského. Na Zemi naleznou Hmota 
 * Může někdy hrubé dát něco jemnému? Neboli může duše zesílit správným používáním těla jako například cvičením, správným jídlem a tak dále? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:89-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:89-cs
   :END:
 
 
@@ -1727,9 +1722,9 @@ Zajisté. Hrubé může a musí pomáhat jemnému. Tělo je hrubé, ale ve svém
 * Může si duše vybrat, jaké zážitky bude mít člověk ve světě, ve kterém žije?? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:90-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:90-cs
   :END:
 
 
@@ -1740,9 +1735,9 @@ Zážitky, které bude mít člověk ve svém životě, určuje zpravidla duše.
 * Kde přibližně cítí člověk duši ve fyzickém těle? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:91-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:91-cs
   :END:
 
 
@@ -1755,9 +1750,9 @@ Pravé duchovní srdce, široké na čtyři prsty, je umístěno asi dvanáct pr
 * Je-li tělo nebo osobnost nájemníkem a duše je skutečným domácím nebo pánem, jak je potom možné, že tento nájemník, který vždy hledá uspokojení, dokáže duši dusit tak, že neslyšíme její inspiraci? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:92-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:92-cs
   :END:
 
 
@@ -1770,9 +1765,9 @@ Vy jste paní domácí v domě, kde máme naše Centrum. Vlastníte tento dům. 
 * Co znamená, když se o někom řekne, že má mladou duši nebo starou duši? 
 
  :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
- :CITE-KEY: YSL:93-cs
+  :genre: qa
+  :keywords:
+ :cite-key: ysl:93-cs
   :END:
 
 
@@ -1783,9 +1778,9 @@ Z duchovního pohledu je starou duší nazýván ten, kdo ve svých dřívějš�
 * Postupují u mladé duše věci rychleji, protože má méně nánosů z předcházejících inkarnací? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:94-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:94-cs
   :END:
 
 
@@ -1798,9 +1793,9 @@ Tady si znovu musíme uvědomit jednu věc: není to počet inkarnací, co zdrž
 * Jaký je rozdíl mezi „silou duše“ a „silou charakteru“? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:95-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:95-cs
   :END:
 
 
@@ -1811,9 +1806,9 @@ Síla charakteru je pýcha morálky a lidskosti. Síla duše je pýcha Duchovnos
 * Mohla duše obývající lidské tělo obývat v dřívějších dobách zvířecí tělo nebo rostlinu? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:96-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:96-cs
   :END:
 
 
@@ -1826,9 +1821,9 @@ Celkový proces evoluce na zemi zahrnuje duši stejně tak jako fyzickou formu. 
 * Liší se duše svými vlastnostmi? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:97-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:97-cs
   :END:
 
 
@@ -1843,9 +1838,9 @@ Některé duše se projevením svých skrytých schopností v procesu reinkarnac
 * Jaké je spojení duše s minulou a budoucí karmou? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:98-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:98-cs
   :END:
 
 
@@ -1858,9 +1853,9 @@ Zároveň je duše daleko za dosahem smyčky příčiny a následku. Je spojují
 * Kde duše odpočívá, když poprvé opustí tělo? Bere si s sebou svá tělesná nebo pozemská omezení? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:99-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ysl:99-cs
   :END:
 
 
@@ -1874,22 +1869,22 @@ Duše si s sebou do vyšších světů nebere žádná pozemská omezení. Když
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: YSL:100e5-cs
+  :genre: section
+  :keywords:
+  :cite-key: ysl:100e5-cs
   :END:
 
 
 * CO JE TO NÁBOŽENSTVÍ?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:100-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:100-cs
   :END:
 
 
-Co je to náboženství? Náboženství je Bůh. Náboženství je Pravda. Bůh a Pravda jsou jedním. Avšak když řeknu, že mé náboženství je Bůh, je tu velká pravděpodobnost, že mě můžete špatně pochopit. Ale pokud řeknu, že mé náboženství je Pravda, okamžitě se mnou budete souhlasit. Trochu to vysvětlím. Když řeknu, že mé náboženství je Pán Kršna a vy ho musíte přijmout, ve vašich očích vyšlehne oheň. Ale pokud řeknu, že mé náboženství je Pravda, vyskočíte a řeknete: „Stejně tak moje.“ A teď, pokud místo abych řekl: „Musíš přijmout mé náboženství,“ řeknu: „Přijměme univerzální Pravdu,“ zvoláte: „Již jsem ji přijal, děkuji, můj příteli!“
+Co je to náboženství? Náboženství je Bůh. Náboženství je Pravda. Bůh a Pravda jsou jedním. Avšak když řeknu, že mé náboženství je Bůh, je tu velká pravděpodobnost, že mě můžete špatně pochopit. Ale pokud řeknu, že mé náboženství je Pravda, okamžitě se mnou budete souhlasit. Trochu to vysvětlím. Když řeknu, že mé náboženství je Pán Kršna a vy ho musíte přijmout, ve vašich očích vyšlehne oheň. Ale pokud řeknu, že mé náboženství je Pravda, vyskočíte a řeknete: „stejně tak moje.“ a teď, pokud místo abych řekl: „musíš přijmout mé náboženství,“ řeknu: „přijměme univerzální pravdu,“ zvoláte: „Již jsem ji přijal, děkuji, můj příteli!“
  
 Náboženství je činem vize, který nás vede a provádí ke světu Za. Náboženství je intuice. Intuice je každému z nás tak blízká a drahá, tak důvěrná naší duši a tak důvěrná našemu srdci, že nevyžaduje žádné vysvětlení. Stejně tak můžeme prohlásit, že intuice je vědomí všeprostupující existence. Zeptejte se člověka, jak si je jist svou existencí. Ticho ovládne jeho ústa. Ví, co je jeho existence. Cítí ji. Avšak vysvětlení se mu vyhýbá. Náboženství je právě ta intuice, která vzdoruje vysvětlení, ale která je sebeztělesňující a sebevysvětlující pravdou.
 
@@ -1923,9 +1918,9 @@ Božským cílem náboženství je otevřít uzavřenou nádobu lidské energie.
 * UNIVERZÁLNOST NÁBOŽENSTVÍ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:101-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:101-cs
   :END:
 
 
@@ -1941,7 +1936,7 @@ Náboženství má dva životy: vnější a vnitřní. Svůj vnější život na
 
 Náboženství ve fyzickém je nevědomým pláčem po Bohu; ve vitálnu je slepým bojem po vlastnění Boha; v mysli je neustálým bojem po přemožení Boha; v srdci je vědomým pláčem po tom sedět na klíně Boha; a v duši je lodí Vědomí, která touží po tom plavit se mezi břehy stále se překonávající Nekonečnosti a stále kvetoucí Nesmrtelnosti.
 
-Nemorálnost chce zničit náboženství. Bůh říká náboženství: „Neboj se, Mé dítě, dávám ti nezdolnou sílu morálky.“ Egoismus chce udusit náboženství. Bůh říká náboženství: „Neboj se, Mé dítě, pokládám tě do stále se rozšiřující rozlehlosti univerzálnosti.“ Smrt chce pohltit náboženství. Bůh říká náboženství: „Neboj se, Mé dítě, dělám z tebe ztělesnění nesmrtelnosti.“
+Nemorálnost chce zničit náboženství. Bůh říká náboženství: „neboj se, mé dítě, dávám ti nezdolnou sílu morálky.“ egoismus chce udusit náboženství. bůh říká náboženství: „neboj se, mé dítě, pokládám tě do stále se rozšiřující rozlehlosti univerzálnosti.“ smrt chce pohltit náboženství. bůh říká náboženství: „Neboj se, Mé dítě, dělám z tebe ztělesnění nesmrtelnosti.“
 
 /Věda a náboženství/. Říká se, že věda a náboženství jsou vždy na kordy. To nemusí být pravda. Věda dynamicky hraje svou roli tím, že vysvětluje imanentního Boha. Náboženství božsky hraje svou roli vykládáním transcendentálního Boha. Věda se zabývá fyzickým světem, zatímco náboženství se zabývá vnitřním a duchovním světem. Mysl je student a Příroda je profesor vědy. Srdce je student a Duše je profesor náboženství.
 
@@ -1961,15 +1956,15 @@ Všechna náboženství jsou v podstatě jedním, jsou neoddělitelná. Každé
 
 Jsem nesmírně hrdý, že jsem mohl navštívit církev univerzalistů, protože mé srdce hlásá pravdu, že náboženství, které je univerzální, je jádrem všech náboženství, a že poznání tohoto univerzálního náboženství není monopolem žádného jednotlivce. Každý jedinec, bez ohledu na kastu, vyznání nebo národnost, může poznat toto univerzální náboženství, má-li dynamickou představivost, tvořivou inspiraci a naplňující aspiraci vstřebat ducha všech náboženství.
 
-Jsem hinduista. Jsem hrdý na svůj hinduismus. Můj hinduismus, /Sanatana dharma/, věčné náboženství, mě naučil: „/Aham brahma/,“ „Jsem Brahman, jedno bez druhého.“ Vy jste křesťané. Jste hrdí na své křesťanství. Vaše božské náboženství vás naučilo: „Já a můj Otec jsme jedním.“ Jsem-li hinduista v nejčistším slova smyslu, musím být v jádru křesťan, neboť hluboko v sobě vidím univerzální Pravdu, cítím ji a stávám se jí. Co je Pravda? Pravda je náš božský Otec. Dítěti nevadí, že někdo říká jeho fyzickému otci bratr, jiný strýc, někdo další synovec a čtvrtý člověk přítel. Má stejně rád přístup všech lidí k jeho otci. Podobně když různá náboženství přistupují k Pravdě, našemu Božskému Otci, každé svým vlastním způsobem, musíme být nanejvýš šťastní. Protože každé náboženství chce Pravdu a jen Pravdu.
+Jsem hinduista. Jsem hrdý na svůj hinduismus. Můj hinduismus, /Sanatana dharma/, věčné náboženství, mě naučil: „/aham brahma/,“ „jsem brahman, jedno bez druhého.“ vy jste křesťané. jste hrdí na své křesťanství. vaše božské náboženství vás naučilo: „Já a můj Otec jsme jedním.“ Jsem-li hinduista v nejčistším slova smyslu, musím být v jádru křesťan, neboť hluboko v sobě vidím univerzální Pravdu, cítím ji a stávám se jí. Co je Pravda? Pravda je náš božský Otec. Dítěti nevadí, že někdo říká jeho fyzickému otci bratr, jiný strýc, někdo další synovec a čtvrtý člověk přítel. Má stejně rád přístup všech lidí k jeho otci. Podobně když různá náboženství přistupují k Pravdě, našemu Božskému Otci, každé svým vlastním způsobem, musíme být nanejvýš šťastní. Protože každé náboženství chce Pravdu a jen Pravdu.
 
 
 * HINDUISMUS 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:102-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:102-cs
   :END:
 
 
@@ -1979,7 +1974,7 @@ Ve světě nervózních nejistot, ve světě temné falše a slepého nerozumu j
 
 Všichni víte, že hinduistické náboženství je jedno z nejstarších náboženství světa. Na rozdíl od většiny světových náboženství hinduistické náboženství nemá žádného určitého zakladatele. Je v první řadě založeno na duši rozechvívajících promluvách rišijů, zřeců. Zřec je ten, kdo vidí Pravdu a rozmlouvá s Pravdou. 
 
-Chcete-li popsat hinduismus, můžete to udělat pomocí jednoho slova: Láska. Tato Láska je všeobjímající a stále rostoucí. Věrný hinduista řekne: „Mohu žít bez vzduchu, ale nemohu žít bez Boha.“ Avšak zároveň řekne-li hinduista, že vůbec nevěří v Boha, je stále hinduistou. Cítí se být hinduistou a druzí to nepopírají. Je to osobní volba, která svrchovaně vládne. Hinduista může uctívat stovky bohů nebo jen jednoho. Bůh pro něj může být buď „osobní“ nebo „neosobní“. Mí mladí přátelé, pokusím se vám vysvětlit, co znamená „osobní“ a „neosobní“. Letadlo je na letišti. Můžete ho vidět. Je to něco konkrétního, materiálního a hmatatelného. Když letadlo vzlétne, už není vidět, vy však přesto víte, že je někde na obloze. Může letět do Kanady nebo do Japonska nebo někam jinam. Vy ale víte, že se nachází na nějaké jiné úrovni, kde funguje a letí. Podobně „neosobního“ Boha, kterého nemusíme vidět v hmatatelné podobě, cítíme ve svém probuzeném vědomí, jak nás neviditelně vede a utváří.
+Chcete-li popsat hinduismus, můžete to udělat pomocí jednoho slova: láska. tato láska je všeobjímající a stále rostoucí. věrný hinduista řekne: „Mohu žít bez vzduchu, ale nemohu žít bez Boha.“ Avšak zároveň řekne-li hinduista, že vůbec nevěří v Boha, je stále hinduistou. Cítí se být hinduistou a druzí to nepopírají. Je to osobní volba, která svrchovaně vládne. Hinduista může uctívat stovky bohů nebo jen jednoho. Bůh pro něj může být buď „osobní“ nebo „neosobní“. Mí mladí přátelé, pokusím se vám vysvětlit, co znamená „osobní“ a „neosobní“. Letadlo je na letišti. Můžete ho vidět. Je to něco konkrétního, materiálního a hmatatelného. Když letadlo vzlétne, už není vidět, vy však přesto víte, že je někde na obloze. Může letět do Kanady nebo do Japonska nebo někam jinam. Vy ale víte, že se nachází na nějaké jiné úrovni, kde funguje a letí. Podobně „neosobního“ Boha, kterého nemusíme vidět v hmatatelné podobě, cítíme ve svém probuzeném vědomí, jak nás neviditelně vede a utváří.
 
 Mluvili jsme o hinduistickém pohledu na Boha. Teď zaměřme svou pozornost na to, co hinduismus říká o realizaci Boha. Realizace Boha není nic jiného než duchovní věda, která ukončuje utrpení, nevědomost a smrt. Ale Boha musíme realizovat kvůli Němu samotnému a ne kvůli sobě. Hledat Boha kvůli sobě znamená zbytečně sytit své ustavičné touhy. Avšak hledat Boha kvůli Němu samotnému znamená žít v Jeho Univerzálním Vědomí; jinými slovy, sjednotit se s Ním naprosto a neoddělitelně.
 
@@ -2027,9 +2022,9 @@ Mí bratři a sestry, nevidím žádný důvod, proč bych ve vás nemohl naléz
 * HINDUISMUS DNEŠKA
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:103-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:103-cs
   :END:
 
 
@@ -2065,9 +2060,9 @@ A tak se naše loď plaví a tančí, naladěná na věčný, mystický rytmus B
 * PODSTATA HINDUISMU 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:104-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:104-cs
   :END:
 
 
@@ -2075,11 +2070,11 @@ Nabízím svou hlubokou vděčnost našemu váženému rabínovi Ronaldu Millste
 
 A teď se mé srdce touží s vámi podělit o několik významných myšlenek o hinduismu. Nejprve vám řeknu krátký příběh.
 
-Velký světec starodávné Indie jménem Bhrigu chtěl vyzkoušet tři hlavní bohy, velkou Trojici hinduismu: Brahmu, Višnua a Šivu. Chtěl určit, kdo z nich je největší. Přišel k Brahmovi, ale neprojevil mu žádnou úctu. Brahma s ním byl velice nespokojen. Se stejnou neúctou šel Bhrigu za Šivou, který se prudce rozčílil. Když přišel k Višnuovi, našel ho, jak spí. A tak dal Bhrigu nohu na Višnuovu hruď, aby ho probudil. Bůh byl tak hrubým probuzením vyburcován, avšak okamžitě začal s láskou masírovat Bhriguovu nohu a ptal se: „Není tvá noha zraněná? Je mi to tak líto.“ Tak Bhrigu zjistil, že Višnu je z těchto tří bohů největší.
+Velký světec starodávné Indie jménem Bhrigu chtěl vyzkoušet tři hlavní bohy, velkou Trojici hinduismu: brahmu, višnua a Šivu. chtěl určit, kdo z nich je největší. přišel k brahmovi, ale neprojevil mu žádnou úctu. brahma s ním byl velice nespokojen. se stejnou neúctou šel bhrigu za Šivou, který se prudce rozčílil. když přišel k višnuovi, našel ho, jak spí. a tak dal bhrigu nohu na višnuovu hruď, aby ho probudil. bůh byl tak hrubým probuzením vyburcován, avšak okamžitě začal s láskou masírovat bhriguovu nohu a ptal se: „Není tvá noha zraněná? Je mi to tak líto.“ Tak Bhrigu zjistil, že Višnu je z těchto tří bohů největší.
 
 Tolerance, kterou bůh v tomto příběhu ukázal, nebyla slabostí, ale šlechetností srdce. Dále pocházela z pocitu jednoty. Když se ve spánku udeříme loktem o jinou část svého těla, nezlobíme se na loket, ale namasírujeme ho. Podobně se hinduismus snaží považovat lidstvo za jedno velké tělo.
 
-Hinduismus je řeka, která dynamicky a neúnavně teče. Hinduismus je strom, který vědomě a božsky roste. Hinduismus je rozmanitost. Jedinečný je hinduismus ve svém aspektu Matky. Je požehnána dětmi, které mají rády různá pojetí Boha. Jedno z jejích dětí říká: „Matko, neexistuje žádný Osobní Bůh.“ „Ano, mé dítě,“ odpovídá. Druhé dítě říká: „Matko, existuje-li Bůh, pak může být jen Osobní.“ „Ano, mé dítě,“ odpovídá. Třetí dítě říká: „Matko, Bůh je Osobní i Neosobní.“ „Je to tak, mé dítě,“ říká. A říká jim všem: „Buďte šťastné, mé děti, buďte šťastné. Zůstaňte u své víry a učte se s její pomocí. Vyrůstejte jejím prostřednictvím a vždy buďte věrné svým ideálům.“ Toto je Mateřské Srdce hinduismu.
+Hinduismus je řeka, která dynamicky a neúnavně teče. Hinduismus je strom, který vědomě a božsky roste. Hinduismus je rozmanitost. Jedinečný je hinduismus ve svém aspektu Matky. Je požehnána dětmi, které mají rády různá pojetí Boha. Jedno z jejích dětí říká: „matko, neexistuje žádný osobní bůh.“ „ano, mé dítě,“ odpovídá. druhé dítě říká: „matko, existuje-li bůh, pak může být jen osobní.“ „ano, mé dítě,“ odpovídá. třetí dítě říká: „matko, bůh je osobní i neosobní.“ „je to tak, mé dítě,“ říká. a říká jim všem: „Buďte šťastné, mé děti, buďte šťastné. Zůstaňte u své víry a učte se s její pomocí. Vyrůstejte jejím prostřednictvím a vždy buďte věrné svým ideálům.“ Toto je Mateřské Srdce hinduismu.
 
 Hinduismus se drží vnitřního zákona života, který je společným dědictvím lidstva. Dokud je člověk hledajícím Pravdy, nezáleží na tom, je-li věřící, ateista nebo agnostik. Každá lidská duše má v hinduistickém ideálu duchovnosti své vlastní místo. Významná jsou slova, která pronesl Gándhí: „Hinduismus je neúnavným hledáním Pravdy. Je to náboženství Pravdy. Pravda je Bůh. Popírání Boha už známe. Popírání Pravdy neznáme.“
 
@@ -2107,7 +2102,7 @@ ano, dokonce více než sto podzimů.“
 
 Se vší vážností se snažili vyzkoumat a pochopit tajemství života. Přijali zemi s jejími radostmi a smutky, s jejími nadějemi a zklamáními. Co více, chtěli žít jako mistři a páni života. Byli proto ve svém odporu ke zlu nebojácní a nekompromisní. Chtěli, aby jejich duši zcela vlastnil Nejvyšší a zároveň se Mu snažili ve světě sloužit.
 
-Naši védští předkové objevili existenci dvou životů: obyčejného života a vyššího života. Přikládali patřičnou důležitost fyzickým, vitálním a mentálním aktivitám, ale jen proto, aby vstoupili do vyššího, duchovního života, života osvíceného poznáním, světlem a pravdou. Věděli, že jakmile budou jednou zakotveni v tomto vnitřním životě, duše získá naprostou podporu od členů své rodiny -- těla, vitálna, mysli a srdce, aby se plně projevila a vyjádřila. Proto se stal nutným ideál zvláštního poznání vedoucí k osvobození aspirující lidské duše. Naši předkové byli realisté, kteří cítili, že spontánní radost života nasytí tělo a posílí duši. Věděli, že tajemstvím růstu je svoboda. Volali:
+Naši védští předkové objevili existenci dvou životů: obyčejného života a vyššího života. přikládali patřičnou důležitost fyzickým, vitálním a mentálním aktivitám, ale jen proto, aby vstoupili do vyššího, duchovního života, života osvíceného poznáním, světlem a pravdou. věděli, že jakmile budou jednou zakotveni v tomto vnitřním životě, duše získá naprostou podporu od členů své rodiny -- těla, vitálna, mysli a srdce, aby se plně projevila a vyjádřila. proto se stal nutným ideál zvláštního poznání vedoucí k osvobození aspirující lidské duše. naši předkové byli realisté, kteří cítili, že spontánní radost života nasytí tělo a posílí duši. věděli, že tajemstvím růstu je svoboda. volali:
 
 
 /Uru nastanve tan.../
@@ -2128,7 +2123,7 @@ Je snadné trvat na tom, že Indie minulosti byla vznešená, zatímco Indie dne
  
 Hinduismus je dynamická aspirace, naplněná božskou energií. V průběhu své věčné cesty bylo sebedávání samotným dechem jeho života.
 
-Hinduismus je složitý, ale vždy si uchovával a navždy si bude uchovávat zřetelný znak: znak duchovnosti. Pravý hinduista nechává své ideály vždy planout bez ohledu na to, jak otřásající jsou pomíjivé změny, bez ohledu na to, jak mocné jsou ničivé síly. Dr. Radhakrishnan, král-filozof, vrhá na tuto věc jasné světlo:
+Hinduismus je složitý, ale vždy si uchovával a navždy si bude uchovávat zřetelný znak: znak duchovnosti. pravý hinduista nechává své ideály vždy planout bez ohledu na to, jak otřásající jsou pomíjivé změny, bez ohledu na to, jak mocné jsou ničivé síly. dr. radhakrishnan, král-filozof, vrhá na tuto věc jasné světlo:
 
 
 #+BEGIN_QUOTE
@@ -2145,9 +2140,9 @@ Současný svět vědomě touží po jednotě. Hinduismus učí, že jednota Ind
 * HINDUISMUS: JEHO DUCHOVNÍ VÝZNAM 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:105-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:105-cs
   :END:
 
 
@@ -2185,9 +2180,9 @@ Vizí hinduismu je jednota v rozmanitosti. Hinduismus nejprve s láskou použí
 * HINDUISMUS - CESTA DUŠE INDIE
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:106-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:106-cs
   :END:
 
 
@@ -2215,7 +2210,7 @@ Všechny ostatní hinduistické /šástry/, s výjimkou /véd/ samotných, jsou
 
 Teď zaměřme svou pozornost na /upanišady/. /Upa/ znamená blízký, /ni/ znamená dole, /šad/ znamená sedět. /Upanišady/ odkazují na žáky, kteří sedí u nohou svého učitele a učí se duchovní nauky. /Upanišady/ jsou filozofickou a rozumovou částí /véd/. Říká se jim také /védánta/, zakončení Véd. Jsou k tomu dva důvody. Jedním je to, že se skutečně objevují ke konci /véd/; druhým je to, že obsahují duchovní podstatu /véd/, která je plná Světla a Blaženosti. Skutečný počet /upanišad/ zůstává dosud neznámý. Věrně jich bylo zachováno sto osm. Nejvýznamnější z nich jsou /Íša, Kéna, Katha, Prašna, Mundaka, Aitaréja, Čhándógja, Brhadáranjaka a Švétášvatara/.
 
-Realizace Boha spočívá v meditaci, nikdy ne v knihách. To je největší tajemství /upanišad/. Mudrci a světci v /upanišadách/ žádali své žáky, aby meditovali, jen meditovali. Dokonce svým žákům ani neradili, aby se na /védy/ spoléhali jako na pomoc při realizaci Boha. „Medituj, Brahman je tvůj! Medituj, Nesmrtelnost je tvá!“ Zřeci /upanišad/ na počátku cesty lidské duše volali: /"Uttisthata jagrata…,"/ „Povstaň, probuď se, nezastavuj, dokud nedosáhneš Cíle.“ Na konci cesty stejní zřeci volali znovu: /„Tat twam asi,“/ „To jsi Ty.“
+Realizace Boha spočívá v meditaci, nikdy ne v knihách. To je největší tajemství /upanišad/. Mudrci a světci v /upanišadách/ žádali své žáky, aby meditovali, jen meditovali. Dokonce svým žákům ani neradili, aby se na /védy/ spoléhali jako na pomoc při realizaci Boha. „Medituj, Brahman je tvůj! Medituj, Nesmrtelnost je tvá!“ Zřeci /upanišad/ na počátku cesty lidské duše volali: /"uttisthata jagrata…,"/ „povstaň, probuď se, nezastavuj, dokud nedosáhneš cíle.“ na konci cesty stejní zřeci volali znovu: /„Tat twam asi,“/ „To jsi Ty.“
 
 Teď přejděme k /Sat-daršana/, Šesti systémům indické filozofie. Jsou to rozličné filozofické školy, které byly později představeny některými z hinduistických mudrců. Systém mudrce Džaiminiho se nazývá Púrva Mímánsá; další jsou Vjásova Uttar Mímánsá či Védánta, Kapilova Sánkhja, Patandžaliho Jóga, Gótamova Njája a Kanádova Vaišéšika. Studuje-li člověk nejprve Njáju, je pro něj poté snazší pochopit ostatní filozofické školy.
 
@@ -2262,9 +2257,9 @@ Poznat hinduismus znamená objevit Indii. Objevit Indii znamená cítit Dech du�
 * INDIE - JEJÍ VĚDOMÍ A SVĚTLO
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:107-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:107-cs
   :END:
 
 
@@ -2327,15 +2322,15 @@ Indie je pokladnicí starodávné věčné moudrosti, která má univerzální p
 * VÝCHOD A ZÁPAD
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:108-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ysl:108-cs
   :END:
 
 
-Východ říká: „Viděl jsem tvář Boha. Teď musím vidět Jeho Nohy.“ Západ říká: „Viděl jsem Nohy Boha. Teď musím vidět jeho Tvář.“
+Východ říká: „viděl jsem tvář boha. teď musím vidět jeho nohy.“ západ říká: „Viděl jsem Nohy Boha. Teď musím vidět jeho Tvář.“
 
-Východ říká: „Viděl jsem Transcendenci Boha.“ Západ říká: „Viděl jsem Imanenci Boha.“
+Východ říká: „viděl jsem transcendenci boha.“ západ říká: „Viděl jsem Imanenci Boha.“
 
 Východ považuje život za ustavičný růst od hmoty k duchu. Západ považuje život za ustavičný růst od jednoduchého materiálního života ke složitému a neustále se rozvíjejícímu vědeckému poznání.
 
@@ -2355,7 +2350,7 @@ Východ chtěl dobýt svět ve jménu Osvobození. Západ chtěl dobýt svět ve
 
 Východ má kontrolu nad Duchem. Západ má kontrolu nad Hmotou. Duch je tvořivá, vědomá existence. Co je to Hmota? Je to vše, jen ne neživá mechanická substance. Hmota je živoucí Energie, která v sobě vědomě ukrývá Život a Vědomí.
 
-Člověk na Východě je spokojený, když se drží zásady: „Ať žiji neviděn a nepoznán a má smrt nechť nezpůsobí smutek.“ A můžeme dodat: „Ať je vše hotové bez přílišné námahy.“ A na druhou stranu se zdá, že člověk na Západě touží po plném projevení své osobnosti. Přeje si ve svém světě vytvořit silnou a mocnou pozici.
+Člověk na Východě je spokojený, když se drží zásady: „ať žiji neviděn a nepoznán a má smrt nechť nezpůsobí smutek.“ a můžeme dodat: „Ať je vše hotové bez přílišné námahy.“ A na druhou stranu se zdá, že člověk na Západě touží po plném projevení své osobnosti. Přeje si ve svém světě vytvořit silnou a mocnou pozici.
 
 Odvěká zkušenost s duchovním životem naučila Východ vnitřnímu klidu a vyrovnanosti při práci. Dokáže být nedotčený zklamáním, vzrušením, rozrušením i drobnými zmatky a vším, co ruší vnitřní rovnováhu. Dokáže udělat klidné úpravy a pokračovat ve stejném klidném běhu života. To se Západ musí ještě naučit.
 
@@ -2370,17 +2365,3 @@ Teď si Východ a Západ uvědomují potřebu sňatku mezi Myslí a Duchem.
 Východ a Západ můžeme brát jako dvě oči stejného lidského těla. Ostatní lidské rozdíly a odlišnosti -- rasové, kulturní a jazykové -- dozajista zmizí z lidského vědomí, až bude zaplaveno supramentálním Světlem a Silou. To je nevyhnutelným důsledkem Boží Hodiny, která nastává na celém světě. Rozmanitost zde bude obohacená a zvětšená do nejplnější míry. Avšak tato rozmanitost nebude rušit celkové vědomí. Naopak, bude šťastně a harmonicky doplňovat jedinečný celek. Lidstvo bude pravou lidskou rodinou v každém dnes známém i neznámém slova smyslu. Reakce na nové Světlo jistě překoná lidská očekávání.
 
 Probuzené vědomí člověka viditelně tíhne k Božskému. To je nanejvýš nadějný paprsek světla mezi obklopujícími temnotami dneška. Je to okamžik nejen pouhého spojení rukou, ale spojení myslí, srdcí a duší. Přes všechny fyzické a mentální bariéry mezi Východem a Západem, vysoko nad národními zvyky, dokonce i nad individuálními zvyky, bude vlát nejvyšší prapor Božské Jednoty. 
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

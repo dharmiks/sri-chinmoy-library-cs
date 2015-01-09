@@ -1,12 +1,7 @@
-#+TITLE: Khama karo „Odpusť mi, odpusť“
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Khama karo „Odpusť mi, odpusť“
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: KK:1-cs
+  :cite-key: kk:1-cs
   :date-event: 1986-12-25
   :END:
 
@@ -34,7 +29,7 @@ Když předčítám své promluvy, vůbec to na vás nepůsobí. Ale když vám 
 Někteří z vás jsou s námi mnoho, mnoho let -- Bůh ví, od úplného počátku naší mise. Nejste však spokojeni se svým pokrokem. Vidíte, že je před vámi více překážek než dříve. Proč? Okamžitá odpověď je, že naspirujete, 
 jako jste aspirovali kdysi. Proč neaspirujete? Protože jste za ta léta udělali několik věcí špatně. Vědomě i nevědomě děláte chyby, a tak si vyváříte nové překážky-těžkostí, které musíte překonat.
 
-Tyto překážky občas pochází od nepřátelských sil. Mnohokrát nepřátelské síly napadají hledající bez jakéhokoliv důvodu a snaží se zničit jejich aspiraci. Jste-li napadeni, můžete říci: „Jak je možné, že mě Bůh neochránil?“ Ale Bůh řekne: „Byl jsi celou dobu upřímný? Stál jsi celou dobu o Mou Ochranu?“ Bohužel, odpověď je ne. 
+Tyto překážky občas pochází od nepřátelských sil. Mnohokrát nepřátelské síly napadají hledající bez jakéhokoliv důvodu a snaží se zničit jejich aspiraci. Jste-li napadeni, můžete říci: „jak je možné, že mě bůh neochránil?“ ale bůh řekne: „Byl jsi celou dobu upřímný? Stál jsi celou dobu o Mou Ochranu?“ Bohužel, odpověď je ne. 
 
 Ale občas je důvod, proč neděláte pokrok, v tom, že vaše vlastní duše je s vámi nespokojena. Musíte si uvědomit, že uvnitř vás je někdo, kdo chce, abyste byli stále dokonalí, a tím někým je vaše duše. Některé duše jsou přísnější než jiné. Tyto duše chtějí, aby tělo, vitálno, mysl a srdce měly více dokonalosti, a tak když hledající dělají chyby, jejich vlastní duše je často trestají.
 
@@ -54,7 +49,7 @@ A tak, prosím, buďte velmi, velmi opatrní. Máte-li emocionální myšlenky a
 
 Mnozí z vás tak nedělají ve svém duchovním životě žádný pokrok kvůli špatným silám, kterým jste vědomě či nevědomě dovolili, aby vás napadly. Během roku jste udělali mnoho, mnoho žalostných a ničivých chyb. Nemůžete spočítat ani vědomé chyby, které jste udělali, natož nevědomé. Nevědomé chyby jsou však stejně nebezpečné a ničivé jako vědomé, proto je berte velmi, velmi vážně. Dotknu-li se ohně nevědomě, trest je stejný, jako kdybych se ho dotkl vědomě. 
 
-Nemůžete se proto starat jen o to, aby vám byly odpuštěny vědomé chyby. Někteří zbyteční žáci budou proklínat Boha a budou říkat: „Ó Bože, proč jsi připustil, abych udělal tuto chybu? Proč jsi dovolil, abych byl ve svém životě potrestán?" Tak je obviňován ubohý Bůh. Ale On vám řekne: „Proč jsi musel zůstat nevědomý?" Jestliže jste přijali duchovní život, je vaší svatou povinností být stále vědomými. Jestliže se stanete vědomými a nedovolíte sami sobě dělat chyby, pak bude váš pokrok ve vnitřním i vnějším životě rychlejší než nejrychlejší.
+Nemůžete se proto starat jen o to, aby vám byly odpuštěny vědomé chyby. Někteří zbyteční žáci budou proklínat Boha a budou říkat: „Ó bože, proč jsi připustil, abych udělal tuto chybu? proč jsi dovolil, abych byl ve svém životě potrestán?" tak je obviňován ubohý bůh. ale on vám řekne: „Proč jsi musel zůstat nevědomý?" Jestliže jste přijali duchovní život, je vaší svatou povinností být stále vědomými. Jestliže se stanete vědomými a nedovolíte sami sobě dělat chyby, pak bude váš pokrok ve vnitřním i vnějším životě rychlejší než nejrychlejší.
 
 Když uděláte vážnou chybu, vědomou či nevědomou, ihned musíte plakat pro odpuštění. Jestliže Nejvyššího nepožádáte o odpuštění, pak budou nepřátelské a negativní síly zvětšovat a zvětšovat sílu vašeho zločinu, dokud se z něj nestane vnitřní rakovina a nezničí celý váš systém. Pak se vaše vlastní špatné kvality zhorší a zesílí a vezmou na sebe podobu nadutosti, falešné pýchy, bezcitnosti a nedbalosti. Se svou aspirací, svým životem modlitby, svou meditací, svým životem zasvěcení a svým životem jednoty s Boží Vůlí tak musíte žádat Boha, aby vám odpustil všechny vaše chyby, vědomé i nevědomé. Také Ho musíte požádat o osvícení vašich nevědomých chyb, abyste si jich byli vědomi a neopakovali je. Pak vás Bůh osvítí, aby vaše nevědomé chyby vystoupily do popředí, a vyřeknete: „To byla ta věc, kterou jsem ve svém životě nepovažoval za chybu či slabost.“ Díky tomuto osvícení dokážete porozumět svým nevědomým chybám a vyvarujete se jejich opakování.
 
@@ -95,9 +90,9 @@ Znovu a znovu vám říkám, abyste meditovali, meditovali, meditovali a modlili
 
 Když děláte správná rozhodnutí a staráte se jen o to, abyste těšili Boha, svého Milovaného Nejvyššího, ucítíte, jakou z vás má Nejvyšší radost. Těšit Boha je to, co skutečně chcete. Právě proto, že je to věc, kterou skutečně chcete, Bůh nenaplňuje vaše pozemské tužby. Bůh je všemohoucí. Mžiknutím oka může vyplnit všechny vaše lidské tužby najednou. Ale jestliže to udělá, jste to vy, kdo se bude cítit mizerně. Pokaždé, když naplní váš život tužby, vzdálíte se od Něj o jeden krok. Takže pokud vás uposlechne a naplní váš život tužby, budete obviňovat Boha. Jste to vy, kdo to chtěl, vy však řeknete: „Ó Bože, jestliže jsi tak laskavý a soucitný, proč jsi vyhověl mým tužbám? Můj život aspirace je zničen." Proto vám chce Bůh dávat jen to, co vaše aspirující srdce upřímně chce a váš aspirující život vnitřně potřebuje.
 
-Můžete se zeptat, jak rozlišit život tužby nebo vychytralý lidský život od života aspirace. Je to velmi, velmi jednoduché. Život tužby je „moje" cesta, život aspirace je Boží Cesta. „Moje" cesta říká: „Ó Bože, teď mě potěšíš Ty a jednoho dne potěším já Tebe Tvým vlastním Způsobem. Nejdřív uspokoj Ty mě a pak, až budu spokojen, začnu těšit já Tebe." Toto je však velmi hloupý způsob, jak zkoušet těšit Boha! Protože v den, kdy vás Bůh potěší vaším vlastním způsobem, bude ta trocha aspirace, kterou máte, úplně zničena. A ty zlaté dny, kdy se chystáte těšit Boha Jeho vlastním Způsobem, nikdy nepřijdou! Říkám vám: nepřijdou, nepřijdou.
+Můžete se zeptat, jak rozlišit život tužby nebo vychytralý lidský život od života aspirace. Je to velmi, velmi jednoduché. Život tužby je „moje" cesta, život aspirace je Boží Cesta. „Moje" cesta říká: „Ó bože, teď mě potěšíš ty a jednoho dne potěším já tebe tvým vlastním způsobem. nejdřív uspokoj ty mě a pak, až budu spokojen, začnu těšit já tebe." toto je však velmi hloupý způsob, jak zkoušet těšit boha! protože v den, kdy vás bůh potěší vaším vlastním způsobem, bude ta trocha aspirace, kterou máte, úplně zničena. a ty zlaté dny, kdy se chystáte těšit boha jeho vlastním způsobem, nikdy nepřijdou! Říkám vám: nepřijdou, nepřijdou.
 
-Život aspirace, který je Božím způsobem, říká: „Ó Bože, prosím, dej mi schopnost těšit Tě vždy Tvým vlastním Způsobem. A jakmile Tě začnu těšit Tvým vlastním Způsobem, nikdy, nikdy, nikdy mi nedovol, abych se Tě snažil těšit svým způsobem." Máte-li tedy skutečnou aspiraci, řeknete Nejvyššímu: „Dnes jsi mi dal schopnost těšit Tě Tvým vlastním Způsobem. Dej mi schopnost těšit Tě každou hodinu každého dne Tvým vlastním Způsobem."
+Život aspirace, který je Božím způsobem, říká: „Ó bože, prosím, dej mi schopnost těšit tě vždy tvým vlastním způsobem. a jakmile tě začnu těšit tvým vlastním způsobem, nikdy, nikdy, nikdy mi nedovol, abych se tě snažil těšit svým způsobem." máte-li tedy skutečnou aspiraci, řeknete nejvyššímu: „Dnes jsi mi dal schopnost těšit Tě Tvým vlastním Způsobem. Dej mi schopnost těšit Tě každou hodinu každého dne Tvým vlastním Způsobem."
 
 Bohužel, žáci těší Nejvyššího pět sekund nebo jednu hodinu a pak po zbytek dne nebo příštích deset dnů žádají a očekávají od Boha, že je potěší jejich vlastním způsobem. Jestliže těšíte Boha dvacet dnů a poté Jej požádáte, aby vás potěšil vaším vlastním způsobem na pět sekund, možná to udělá. Ale zatímco vás bude pět sekund těšit, ztratíte všechny božské věci, které jste dostali za to, že jste těšili Boha Jeho vlastním Způsobem. Dvacet dnů jste tak tvrdě pracovali, abyste něco dostali, a v pěti sekundách to všechno můžete ztratit! Potom budete muset začít svou cestu znovu od začátku. Získali jste nějaké peníze a pak jste je utratili, a tak jste se znovu stali žebráky. Každý den můžete zbohatnout a do večera opět zchudnout.
 
@@ -127,7 +122,7 @@ Vina del Mar, Chile
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: KK:2-cs
+  :cite-key: kk:2-cs
   :date-event: 1987-01-05
   :END:
 
@@ -140,15 +135,15 @@ Když vás tedy požádám, abyste plakali pro odpuštění, žádám vás, abys
 
 Chci-li vám něco dát, musíte přijít blíž a vzít si to. Jsem-li nad vámi, musíte vyjít aspoň do určité výšky, abychom si spolu mohli povídat. Řekněme, že musíte vystoupit na první příčku žebříku. Někdy vidím, že vy, lidé, ode mě, nebo řekněme od Nejvyššího ve mně, tolik, tolik získáte, a pak na tu úroveň opravdu vystoupíte. V té chvíli jsem tím nejšťastnějším člověkem. Můžete říci: „Ó, Guru mi odpustil, jinak by ke mně nebyl tak laskavý a soucitný.“ Ale já ani nemyslím na to, co jste udělali. Jsem jen šťastný, že vaše vědomí je o trochu výše a já jsem schopen vám nabídnout více lásky, více náklonnosti, více požehnání.
 
-Pak je zde otázka stupně -- stupně vaší vnímavosti. Mohl bych vám dát deset dolarů, ale vy se spokojíte se dvěma. Jak potom chytře ospravedlňujete nedostatek vnímavosti! Řeknete světu: „Guru mi chtěl dát deset dolarů, ale já jsem si vzal pouze dva, protože mi to stačilo. Vystačím se dvěma dolary, tak nepotřebuji deset.“ Mluvím o penězích, ale s láskou, soucitem a požehnáním je to úplně stejné. Chci vám dát tolik, ale vyříkáte: „Ne, dostanu-li trochu soucitu, stačí mi to.“ Chci vám dát velmi mnoho, protože vím, že jedině tehdy vám zítra mohu dát ještě více. Ale vy si chcete vzít jen kapku. A vaše moudrá mysl vás tak chytrým způsobem přesvědčuje, že děláte dobrou věc. Vyjde-li však do popředí vaše srdce moudrosti, řeknete: „Pokud mi chtěl dát deset dolarů, proč bych měl být spokojen pouze se dvěma? Jestli ho chci potěšit jeho vlastním způsobem, musím si vzít celých deset dolarů.“ Proto jste-li skutečně upřímní a cítíte se mnou jednotu, budete smutní, jestliže nepřijmete všechno, co vám chci dát. Řeknete: „Chtěl mi toho dát tolik a já jsem si vzal tak málo. Důvod, proč jsem nepřijal vše, je, že má vnímavost je malá. Klamu sám sebe, když říkám, že mi to stačí.“ Nestačí vám to. 
+Pak je zde otázka stupně -- stupně vaší vnímavosti. Mohl bych vám dát deset dolarů, ale vy se spokojíte se dvěma. Jak potom chytře ospravedlňujete nedostatek vnímavosti! Řeknete světu: „guru mi chtěl dát deset dolarů, ale já jsem si vzal pouze dva, protože mi to stačilo. vystačím se dvěma dolary, tak nepotřebuji deset.“ mluvím o penězích, ale s láskou, soucitem a požehnáním je to úplně stejné. chci vám dát tolik, ale vyříkáte: „ne, dostanu-li trochu soucitu, stačí mi to.“ chci vám dát velmi mnoho, protože vím, že jedině tehdy vám zítra mohu dát ještě více. ale vy si chcete vzít jen kapku. a vaše moudrá mysl vás tak chytrým způsobem přesvědčuje, že děláte dobrou věc. vyjde-li však do popředí vaše srdce moudrosti, řeknete: „pokud mi chtěl dát deset dolarů, proč bych měl být spokojen pouze se dvěma? jestli ho chci potěšit jeho vlastním způsobem, musím si vzít celých deset dolarů.“ proto jste-li skutečně upřímní a cítíte se mnou jednotu, budete smutní, jestliže nepřijmete všechno, co vám chci dát. Řeknete: „Chtěl mi toho dát tolik a já jsem si vzal tak málo. Důvod, proč jsem nepřijal vše, je, že má vnímavost je malá. Klamu sám sebe, když říkám, že mi to stačí.“ Nestačí vám to. 
 
-Tento druh dávání a braní se odehrává mezi Bohem a lidskými bytostmi v každém okamžiku. Bůh dává a my bereme. Lidská mysl řekne: „Bůh bude potěšen a šťasten, že mi nemusel dávat tolik.“ Ale Bůh potěšen nebude. Je-li ten, kdo dává, obyčejná lidská bytost, může říci: „Ó, jsem velmi rád, že jsem potkal takového hlupáka, který je spokojen se dvěma dolary. Jsem tak rád, že jsem mu nemusel dát deset dolarů.“ A ten hlupák, který dostane jen dva dolary, je také spokojen, protože může říkat světu: „Vystačím s tím.“ Ten, který dává, je zde darebák, a ten, který bere, hlupák.
+Tento druh dávání a braní se odehrává mezi Bohem a lidskými bytostmi v každém okamžiku. Bůh dává a my bereme. Lidská mysl řekne: „bůh bude potěšen a šťasten, že mi nemusel dávat tolik.“ ale bůh potěšen nebude. je-li ten, kdo dává, obyčejná lidská bytost, může říci: „Ó, jsem velmi rád, že jsem potkal takového hlupáka, který je spokojen se dvěma dolary. jsem tak rád, že jsem mu nemusel dát deset dolarů.“ a ten hlupák, který dostane jen dva dolary, je také spokojen, protože může říkat světu: „Vystačím s tím.“ Ten, který dává, je zde darebák, a ten, který bere, hlupák.
 
 Bůh je však smutný, když si nechceme vzít tolik, kolik nám chce dát, protože v tu chvíli neukazujeme vděčnost, která zvyšuje naši vnímavost. Bůh neumírá touhou po naší lidské vděčnosti. Když obyčejná lidská bytost něco někomu dává, ihned se dostaví pocit oddělenosti. Cítí, že právě proto, že dal takovou a takovou věc, musí být ten druhý vděčný. Ale Boží představa vděčnosti je úplně jiná. Je-li to otázka dávání a braní ve světě duší nebo mezi božskými částmi nás samých, pak ten, kdo dává, je stejně vděčný jako ten, kdo přijímá. 
 
 Když vám chci dát své požehnání a světlo, jsem tak vděčný, dokážete-li je přijmout, protože to ukazuje na vaši jednotu se mnou. A jsem vám skutečně vděčný a jsem na vás skutečně pyšný, když si vezmete vše, co vám chci dát. Naopak, když vidím, že si to neberete, jsem smutný. Tak vidíte, že vděčnost se objevuje na obou stranách. Já ukazuji svou vděčnost a jednotu s vámi tím, že vám dávám, co mám, a vy ukazujete svou vděčnost a jednotu se mnou tím, že si berete, co dávám. Je zde vzájemná vděčnost a vzájemná jednota. Je to tak sladké!
 
-Každý den máme zlatou příležitost nabízet svou vděčnost našemu Pánu Milovanému Nejvyššímu ve všem, co děláme. Není jediná vteřina, kdy nemůžeme Bohu nabídnout vděčnost. Podívejte se na mě. Kvůli jednotě se svými žáky a s lidstvem fyzicky a mentálně tolik trpím. Ale dokonce i když trpím tak nesnesitelnou bolestí, říkám ve vnitřním světě Bohu: Jsem Ti tak vděčný, že dokážu tuto bolest snášet s radostí. Prožíváš ve mně a skrze mě zkušenost, můj Pane, a já jsem tak vděčný, že se proti Tobě nebouřím. Také jsem Ti vděčný, že mám žáky, kteří mě budou masírovat dvacet čtyři hodin denně, budu-li chtít. Nevyléčí mě, ale přinejmenším mi přinesou úlevu, a já jsem Ti za to vděčný.“ A dokonce i kdybych neměl žádné žáky a žil jako obyčejná lidská bytost, i tak bych mohl říci: „Ó Bože, nezáleží na tom, jak velká je má bolest, mohla by být nekonečně větší. Jsem Ti tak vděčný za to, že nejsem v nemocnici.“ Za dobré věci jsme Bohu přirozeně vděční. Ale i když máme špatné zkušenosti, jako například špatné myšlenky, můžeme projevit vděčnost. Existují dva způsoby. Jeden způsob je ihned srovnat to, co se děje, s okamžikem, kdy jsme měli zážitek ještě horší. Uvidíme, že špatné, nebožské, nečisté myšlenky, které máme dnes, nejsou ničím v porovnání s tím hrozným dnem, kdy jsme tolik trpěli. Pak můžeme říci: „Právě teď jsem špatný, ale jsem Bohu vděčný, protože mé vědomí je stále mnohem výše, než bylo ten hrozný den.“ Nebo se můžeme porovnat s tím, jací jsme byli před deseti lety. Pak řeknete: „ Ó Bože, jsem Ti tak vděčný, že dnes nejsem tak špatný jako před deseti lety.“ Toto je nejlepší způsob -- srovnat svůj vlastní život s tím, jaký býval.
+Každý den máme zlatou příležitost nabízet svou vděčnost našemu Pánu Milovanému Nejvyššímu ve všem, co děláme. Není jediná vteřina, kdy nemůžeme Bohu nabídnout vděčnost. Podívejte se na mě. Kvůli jednotě se svými žáky a s lidstvem fyzicky a mentálně tolik trpím. Ale dokonce i když trpím tak nesnesitelnou bolestí, říkám ve vnitřním světě Bohu: jsem ti tak vděčný, že dokážu tuto bolest snášet s radostí. prožíváš ve mně a skrze mě zkušenost, můj pane, a já jsem tak vděčný, že se proti tobě nebouřím. také jsem ti vděčný, že mám žáky, kteří mě budou masírovat dvacet čtyři hodin denně, budu-li chtít. nevyléčí mě, ale přinejmenším mi přinesou úlevu, a já jsem ti za to vděčný.“ a dokonce i kdybych neměl žádné žáky a žil jako obyčejná lidská bytost, i tak bych mohl říci: „Ó bože, nezáleží na tom, jak velká je má bolest, mohla by být nekonečně větší. jsem ti tak vděčný za to, že nejsem v nemocnici.“ za dobré věci jsme bohu přirozeně vděční. ale i když máme špatné zkušenosti, jako například špatné myšlenky, můžeme projevit vděčnost. existují dva způsoby. jeden způsob je ihned srovnat to, co se děje, s okamžikem, kdy jsme měli zážitek ještě horší. uvidíme, že špatné, nebožské, nečisté myšlenky, které máme dnes, nejsou ničím v porovnání s tím hrozným dnem, kdy jsme tolik trpěli. pak můžeme říci: „právě teď jsem špatný, ale jsem bohu vděčný, protože mé vědomí je stále mnohem výše, než bylo ten hrozný den.“ nebo se můžeme porovnat s tím, jací jsme byli před deseti lety. pak řeknete: „ Ó Bože, jsem Ti tak vděčný, že dnes nejsem tak špatný jako před deseti lety.“ Toto je nejlepší způsob -- srovnat svůj vlastní život s tím, jaký býval.
 
 Jiný způsob je porovnat se s obyčejnými lidmi, kteří jsou kolem nás. Můžeme se rozhlédnout a hned uvidíme neaspirující lidi, kteří jsou neskutečně horší, než jsme my. Pak můžeme říci: „Ó Bože, díky Tvému Soucitu jsem nekonečně lepší než tito lidé. Mohl jsem být tak špatný -- jako ona nebo on -- ale Ty jsi mi nedovolil, abych byl špatný. Jsi ke mně tak laskavý, tak soucitný.
 
@@ -166,17 +161,17 @@ Valdivia, Chile
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: KK:3e1-cs
+  :cite-key: kk:3e1-cs
   :END:
 
 
 
-* Sklízíme opravdu všechno, co zasejeme, z každé myšlenky, z každého činu?[fn:: Father’s Day: Father With His European Children, strana 15-16]
+* Sklízíme opravdu všechno, co zasejeme, z každé myšlenky, z každého činu?[fn:: father’s day: Father With His European Children, strana 15-16]
 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: KK:3-cs
+  :cite-key: kk:3-cs
   :END:
 
 /Sri Chinmoy:/ Jak zasejeme, tak sklidíme. To je pravda. Pokud se však zároveň modlíte k Bohu, pokud meditujete na Boha, Boží Soucit může vaše chyby smazat. Když se modlíte a meditujete, vaše síla modlitby a síla meditace může zrušit špatné síly, které pochází z vašich špatných myšlenek. Je pravda, že uděláte-li něco špatného, dotknete-li se ohně, oheň vám přirozeně popálí prsty. Ale současně existuje nějaká ochranná síla, která vám brání, abyste se ohně dotkli.
@@ -192,10 +187,10 @@ Když dítě jde a uhodí jiné dítě, ví, že toto dítě přijde a oplatí m
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: KK:4-cs
+  :cite-key: kk:4-cs
   :END:
 
-/Sri Chinmoy:/ Nejvyšší osvěcuje minulost tím, že odpouští. Skutečné odpuštění znamená zapomenout, vědomě zapomenout. Jestliže vám někdo skutečně odpustí to, co jste udělali, pak na to zapomene dokonce i ve svém vnitřním vidění. Ale pokud vám neodpustí, bude to mít stále před svým vnitřním zrakem. Osvícení je nezbytné kvůli temnotě. Chyby jsou temnota. A tak Nejvyšší osvěcuje naše chyby tím, že odpouští.[fn:: God and the Cosmic Game, strana 13]
+/Sri Chinmoy:/ nejvyšší osvěcuje minulost tím, že odpouští. skutečné odpuštění znamená zapomenout, vědomě zapomenout. jestliže vám někdo skutečně odpustí to, co jste udělali, pak na to zapomene dokonce i ve svém vnitřním vidění. ale pokud vám neodpustí, bude to mít stále před svým vnitřním zrakem. osvícení je nezbytné kvůli temnotě. chyby jsou temnota. a tak nejvyšší osvěcuje naše chyby tím, že odpouští.[fn:: God and the Cosmic Game, strana 13]
 
 
 Abych začal duchovní cestu, potřebuji Boha Odpuštění. Nejdříve musím vyprázdnit sám sebe od svého nebožského bytí. Všechny nebožské myšlenky a nebožské činy, které jsou uvnitř mě, všechno, co je uvnitř mě neaspirující a neinspirující, musím vyloučit. A proto potřebuji Boží Odpuštění. Nesčetněkrát jsem spáchal chyby velké jako Himaláje. Jestli mi Bůh neodpustí nebožské věci, které jsem za ta léta udělal, jak mohu kráčet po duchovní cestě, sluncem zalité cestě? Jedině když mi Bůh odpustí, mohu vstoupit do duchovního života celým srdcem. A tak na začátku potřebuji Boží Odpuštění.[fn:: What I Need From God, strana 11-12]
@@ -211,12 +206,12 @@ Abych začal duchovní cestu, potřebuji Boha Odpuštění. Nejdříve musím vy
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: KK:5-cs
+  :cite-key: kk:5-cs
   :END:
 
-/Sri Chinmoy:/ Boží Odpuštění přijmete tak, že si neustále, vědomě, bezesně a bez dechu budete připomínat, že Bůh je Odpuštění Samo. Neměli byste myslet na Boha jako na Spravedlnost nebo nekonečné Světlo či Mír. Neměli byste myslet na žádné jiné aspekty Boha. Měli byste myslet jen na Boží Odpuštění nebo Boha Odpuštění. Svou mysl a své srdce byste měli zaplavit jedinou myšlenkou: odpuštění, odpuštění, odpuštění. Místo toho, abyste mysleli na Boží Světlo Spravedlnosti, měli byste si jen opakovat: „Můj Pán je veškeré Odpuštění, můj Pán je veškeré Odpuštění.“ Zatímco opakujete: „Můj Pán je veškeré Odpuštění, „ nesmíte myslet na všechny ty nesčetné nebožské věci, které jste udělali: „Ó, lhal jsem, někoho jsem uhodil, udělal jsem tolik jiných věcí špatně.“ Ne, uvidíte jen pozitivní stránku. Budete myslet jen na Boží Odpuštění před vámi, kolem vás a uvnitř vás. Budete-li stokrát a tisíckrát co nejoduševněleji opakovat: „Můj Pán je veškeré Odpuštění, můj Pán je veškeré Odpuštění, „ pak budou všechny vaše obrovské chyby smazány. Všechny chyby, kterých jste se za ta léta dopustili, všechny nevědomé věci, které jste udělali, zmizí. V té chvíli budete cítit, že je vám nejen odpuštěno, ale že vy sami jste Bůh-Odpuštění. Jestliže se vás někdo zeptá na vaše jméno, řeknete: „Jsem Odpuštění svého Pána.“
+/Sri Chinmoy:/ boží odpuštění přijmete tak, že si neustále, vědomě, bezesně a bez dechu budete připomínat, že bůh je odpuštění samo. neměli byste myslet na boha jako na spravedlnost nebo nekonečné světlo či mír. neměli byste myslet na žádné jiné aspekty boha. měli byste myslet jen na boží odpuštění nebo boha odpuštění. svou mysl a své srdce byste měli zaplavit jedinou myšlenkou: odpuštění, odpuštění, odpuštění. místo toho, abyste mysleli na boží světlo spravedlnosti, měli byste si jen opakovat: „můj pán je veškeré odpuštění, můj pán je veškeré odpuštění.“ zatímco opakujete: „můj pán je veškeré odpuštění, „ nesmíte myslet na všechny ty nesčetné nebožské věci, které jste udělali: „Ó, lhal jsem, někoho jsem uhodil, udělal jsem tolik jiných věcí špatně.“ ne, uvidíte jen pozitivní stránku. budete myslet jen na boží odpuštění před vámi, kolem vás a uvnitř vás. budete-li stokrát a tisíckrát co nejoduševněleji opakovat: „můj pán je veškeré odpuštění, můj pán je veškeré odpuštění, „ pak budou všechny vaše obrovské chyby smazány. všechny chyby, kterých jste se za ta léta dopustili, všechny nevědomé věci, které jste udělali, zmizí. v té chvíli budete cítit, že je vám nejen odpuštěno, ale že vy sami jste bůh-odpuštění. jestliže se vás někdo zeptá na vaše jméno, řeknete: „Jsem Odpuštění svého Pána.“
 
-To bude váš jediný akademický titul. V běžném životě mají lidé mnoho akademických titulů. Mají univerzitní titul, tamten titul a podobně. Ale duchovní hledající bude říkat, že má pouze jediný titul. Bude říkat buď: , Jsem Odpuštění svého Pána“ nebo, Jsem Soucit svého Pána“ nebo „Jsem Láska svého Pána.“ Jestliže se vás tedy někdo zeptá, jaké jsou vaše tituly, ihned řeknete: „Soucit mého Pána je mým jediným titulem“ nebo „Odpuštění mého Pána je mým jediným titulem.“ Není to falešná pokora, protože v nejvnitřnějších zákoutích svého srdce cítíte, že vaším jediným titulem je Boží Soucit a Boží Odpuštění. To musí cítit všichni hledající.
+To bude váš jediný akademický titul. V běžném životě mají lidé mnoho akademických titulů. Mají univerzitní titul, tamten titul a podobně. Ale duchovní hledající bude říkat, že má pouze jediný titul. Bude říkat buď: , jsem odpuštění svého pána“ nebo, jsem soucit svého pána“ nebo „jsem láska svého pána.“ jestliže se vás tedy někdo zeptá, jaké jsou vaše tituly, ihned řeknete: „Soucit mého Pána je mým jediným titulem“ nebo „Odpuštění mého Pána je mým jediným titulem.“ Není to falešná pokora, protože v nejvnitřnějších zákoutích svého srdce cítíte, že vaším jediným titulem je Boží Soucit a Boží Odpuštění. To musí cítit všichni hledající.
 
 
 
@@ -227,10 +222,10 @@ To bude váš jediný akademický titul. V běžném životě mají lidé mnoho
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: KK:6-cs
+  :cite-key: kk:6-cs
   :END:
 
-/Sri Chinmoy:/ Jsou dva způsoby, jak to můžete poznat. Jestliže už tu věc neuděláte znovu, buďte si jistí, že vám Nejvyšší odpustil, protože vám dal schopnost ji neopakovat. Pokud jste skutečně přijali Jeho Schopnost, pak vám již odpustil. Takové je to na praktické úrovni. Udělali jste něco špatně a nechcete to opakovat. Chcete odpuštění. To znamená, že od Nejvyššího musela přijít vyšší Síla. Tato vyšší Síla je něco, co vás bude chránit a dá vám schopnost neudělat tu věc znovu. Nejvyšší vám odpustil, proto už neděláte chyby. Jiný způsob je zeptat se svého duchovního Mistra, zda vám Nejvyšší odpustil. Mistr vám to dokáže říci. Bude velmi upřímný. Nebo můžete na hodinu nebo na půl hodiny vstoupit hluboko dovnitř, pak budete schopni to říci. Nedovolte, aby vstoupila jakákoliv myšlenka. Pokaždé, když nějaká přijde, zabijte ji anebo ciťte, že si na vás sedla moucha a vy jste ji odehnali. Když přijde další myšlenka, odežeňte ji také. Po chvíli bude moucha-myšlenka cítit, že je pod její důstojnost vás trápit, a tak proud myšlenek ustane. Když vidíte, že nepřichází žádná myšlenka, zeptejte se. Je-li odpověď „ano“, pak vám odpustil. Je-li odpověď „ne“, pak vám neodpustil. Můžete to tedy udělat tímto způsobem nebo se můžete zeptat svého Mistra. Ještě zopakuji první metodu: když přestanete dělat určitou věc navždy, víte, že vám Nejvyšší odpustil.[fn:: Obedience or Oneness, strana 40-41]
+/Sri Chinmoy:/ jsou dva způsoby, jak to můžete poznat. jestliže už tu věc neuděláte znovu, buďte si jistí, že vám nejvyšší odpustil, protože vám dal schopnost ji neopakovat. pokud jste skutečně přijali jeho schopnost, pak vám již odpustil. takové je to na praktické úrovni. udělali jste něco špatně a nechcete to opakovat. chcete odpuštění. to znamená, že od nejvyššího musela přijít vyšší síla. tato vyšší síla je něco, co vás bude chránit a dá vám schopnost neudělat tu věc znovu. nejvyšší vám odpustil, proto už neděláte chyby. jiný způsob je zeptat se svého duchovního mistra, zda vám nejvyšší odpustil. mistr vám to dokáže říci. bude velmi upřímný. nebo můžete na hodinu nebo na půl hodiny vstoupit hluboko dovnitř, pak budete schopni to říci. nedovolte, aby vstoupila jakákoliv myšlenka. pokaždé, když nějaká přijde, zabijte ji anebo ciťte, že si na vás sedla moucha a vy jste ji odehnali. když přijde další myšlenka, odežeňte ji také. po chvíli bude moucha-myšlenka cítit, že je pod její důstojnost vás trápit, a tak proud myšlenek ustane. když vidíte, že nepřichází žádná myšlenka, zeptejte se. je-li odpověď „ano“, pak vám odpustil. je-li odpověď „ne“, pak vám neodpustil. můžete to tedy udělat tímto způsobem nebo se můžete zeptat svého mistra. ještě zopakuji první metodu: když přestanete dělat určitou věc navždy, víte, že vám nejvyšší odpustil.[fn:: Obedience or Oneness, strana 40-41]
 
 
 Kdykoliv uděláte něco špatného, Bůh vám odpustí, já vám odpustím, ale je někdo, kdo vám neodpustí, a to je vaše duše. Vaší duši bude trvat dlouho, než vám odpustí jakoukoliv chybu, kterou uděláte úmyslně. Duše neodpouští tak snadno, protože ví, že kvůli této určité chybě, této úmyslné chybě, se bude muset reinkarnovat na zem na mnoho dalších let. Tak dlouho duši trvá, než vás přiměje realizovat, odhalit a projevit, a toto jen zdrží váš pokrok. Pokaždé, když uděláte vědomou chybu, vaše duše ví, že je to jako vrátit se o sto kroků. Chcete dosáhnout svého cíle a je dáno místo, kde máte začít, ale pak ve skutečnosti začnete o sto metrů dále. A tak svou cestu přirozeně brzdíte, místo abyste ji urychlili. Duše je nejstarší bratr a slíbila Nejvyššímu Otci, že se bude starat o mladší členy. Duše je plně zodpovědná za váš život. Cítí se bídně v okamžiku, kdy vidí, že ji mladší členové neposlouchají, a ona za ně musí zodpovídat.[fn:: Warriors of the inner World, strana37-38]
@@ -239,15 +234,15 @@ Kdykoliv uděláte něco špatného, Bůh vám odpustí, já vám odpustím, ale
 
 
 
-* Jestliže člověk cítí, ze Bůh je všeodpouštějící, není pro něj jednodušší dělat chyby?[fn:: God-Life: Is It a Far Cry?, strana 15-17]
+* Jestliže člověk cítí, ze Bůh je všeodpouštějící, není pro něj jednodušší dělat chyby?[fn:: god-life: Is It a Far Cry?, strana 15-17]
 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: KK:7-cs
+  :cite-key: kk:7-cs
   :END:
 
-/Sri Chinmoy:/ Cítíte, že půjde-li někdo k Otci poté, co udělá něco špatného, a uvidí, že mu bylo odpuštěno, pak bude v pokušení dělat dál špatné věci s pocitem, že mu bude vždy odpuštěno. Jenže dokonce i lidský otec, nemluvě o božském Otci, Všemohoucím Otci, řekne dítěti: „Podívej, udělal jsi něco špatného, uhodil jsi jiné dítě. Protože tě miluji, odpustil jsem ti, ale nemůžeš dál dělat špatné věci.“ Jestliže dítě uhodí jiné dítě podruhé a pak se vrátí k otci, otec jej bude chránit. Potom otec potají a potichu řekne: „To je podruhé, kdy ti říkám, jaký je rozdíl mezi dobrem a zlem, ale tvá mysl tomu nechce rozumět.“ Otec mu pokaždé odpustí, ale zároveň se bude snažit dítě přesvědčit, že dělá cosi špatného. Agresivní vlastnosti dítěte postupně vstoupí do otce a ono vědomě či nevědomě pocítí, že dělalo něco špatného. Pak svou chybu svěří pod otcovu ochranu.
+/Sri Chinmoy:/ cítíte, že půjde-li někdo k otci poté, co udělá něco špatného, a uvidí, že mu bylo odpuštěno, pak bude v pokušení dělat dál špatné věci s pocitem, že mu bude vždy odpuštěno. jenže dokonce i lidský otec, nemluvě o božském otci, všemohoucím otci, řekne dítěti: „podívej, udělal jsi něco špatného, uhodil jsi jiné dítě. protože tě miluji, odpustil jsem ti, ale nemůžeš dál dělat špatné věci.“ jestliže dítě uhodí jiné dítě podruhé a pak se vrátí k otci, otec jej bude chránit. potom otec potají a potichu řekne: „To je podruhé, kdy ti říkám, jaký je rozdíl mezi dobrem a zlem, ale tvá mysl tomu nechce rozumět.“ Otec mu pokaždé odpustí, ale zároveň se bude snažit dítě přesvědčit, že dělá cosi špatného. Agresivní vlastnosti dítěte postupně vstoupí do otce a ono vědomě či nevědomě pocítí, že dělalo něco špatného. Pak svou chybu svěří pod otcovu ochranu.
 
 Ale v případě duchovního Otce, božského Otce, je to jiné. Když udělá aspirant chybu a běží ke svému duchovnímu Otci, duchovní Otec bude dítě-aspiranta nepochybně chránit. Poté se ihned pokusí vstoupit do jeho srdce se Světlem. Lidský otec hubuje tajně, ale božský Otec nehubuje. Ví, že hubování je zbytečné. Pokouší se vidět, co je v aspirantovi špatného. Vidí, že je tam temnota a nevědomost, a říká: „Vstoupím-li teď do aspiranta se Světlem, Světlo temnotu vyžene. Světlo pak nevědomost osvítí a přemění ji na poznání a moudrost.“ Tato moudrost dává aspirantovi pocítit, že by měl zůstat pokojný, tichý a klidný, a ne se dostávat do konfliktů nebo někoho bít. Božský Otec toho dosahuje Světlem, vnitřním Švédem. Vlévá toto vnitřní Světlo do aspiranta. Lidský otec bude otevřeně ochraňovat a potom potají hubovat, protože lidský otec nemá ono čisté Světlo, božské Světlo, aby osvítil naši temnotu nebo z nás vyhnal špatné síly.
 
@@ -255,16 +250,16 @@ V obou případech bude pokušení poraženo: božský Otec jej porazí Světlem
 
 
 
-Otázka: Jak odpustit křivdu?[fn:: Sri Chinmoy Speaks 8, strana 52-54]
+Otázka: jak odpustit křivdu?[fn:: Sri Chinmoy Speaks 8, strana 52-54]
 
 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: KK:8-cs
+  :cite-key: kk:8-cs
   :END:
 
-Srí Chinmoy: Když přemýšlíme o nespravedlnosti z lidského hlediska, musíme jít do samotné hloubky naší realizace. Když jsme přišli na svět, slavnostně jsme slíbili Bohu, že Ho zde na zemi realizujeme, projevíme a naplníme. Takový byl náš nejupřímnější a nejoduševnělejší slib Bohu. Když jsme to slibovali, byli jsme ve světě duší. Neměli jsme fyzické tělo, naším skutečným bytím byla duše. V té chvíli duše řekla: „Sestupuji do světa, jen abych Tě potěšila, naplnila a bezpodmínečně projevila.“ Ale teď nás slovo „bezpodmínečně“ ihned vyděsí. Je to jedovaté slovo, nedokážeme ho použít. Všechno je podmínečné, podmínečné. Je pravda, že tito lidé cítíte, že velmi nečestní udělali něco nebožského. Ale podívejte se na svůj vlastní slib. Očekáváte od těchto lidí dokonalost, cítíte, že musí dělat všechno dokonale. Ale dokonalost přichází jedině tehdy, když plníme svůj slib. Náš první a nejpřednější slib byl slib Bohu, potěšit Jej a naplnit zde na zemi. Nesplnili jsme svůj slib, přesto očekáváme od ostatních, že splní své sliby. Jako duchovní lidé bychom se měli vždy dívat, co jsme my udělali špatně. Udělali jsme milióny věcí špatně. Děláme-li milióny věcí špatně, pak nám Bůh přirozeně odpouští. Jinak bychom nemohli na zemi existovat. Je-li Bůh připraven odpustit nám i přes naše nesčetné nedostatky a chyby, jak je možné, že neumíme my odpustit někomu jinému? Duchovní hledající ihned tvrdí, že je vybraným dítětem Boha. Neaspirující člověk, člověk, který se oddává potěšením nevědomosti, by toto nikdy tvrdit nedokázal. Nedokáže považovat Boha za svého zcela vlastního. Ale vy se odvažujete tvrdit, že jste vybraným dítětem Boha právě proto, že máte špetku z Jeho dobrých kvalit. Bůh je dobrý, Bůh je božský, Bůh je dokonalý, a všechny Jeho dobré vlastnosti do jisté míry máte. A je-li jednou z Božích vlastností odpuštění a odpouští-li vám Bůh dvacet čtyři hodin denně, nemůžete někomu odpustit na jednu sekundu? Jestliže má váš zdroj schopnost udělat něco v nekonečné míře, přirozeně i vy byste podle svého standardu měli mít schopnost odpustit nebo osvítit ostatní, kteří udělali něco špatného.
+Srí Chinmoy: když přemýšlíme o nespravedlnosti z lidského hlediska, musíme jít do samotné hloubky naší realizace. když jsme přišli na svět, slavnostně jsme slíbili bohu, že ho zde na zemi realizujeme, projevíme a naplníme. takový byl náš nejupřímnější a nejoduševnělejší slib bohu. když jsme to slibovali, byli jsme ve světě duší. neměli jsme fyzické tělo, naším skutečným bytím byla duše. v té chvíli duše řekla: „Sestupuji do světa, jen abych Tě potěšila, naplnila a bezpodmínečně projevila.“ Ale teď nás slovo „bezpodmínečně“ ihned vyděsí. Je to jedovaté slovo, nedokážeme ho použít. Všechno je podmínečné, podmínečné. Je pravda, že tito lidé cítíte, že velmi nečestní udělali něco nebožského. Ale podívejte se na svůj vlastní slib. Očekáváte od těchto lidí dokonalost, cítíte, že musí dělat všechno dokonale. Ale dokonalost přichází jedině tehdy, když plníme svůj slib. Náš první a nejpřednější slib byl slib Bohu, potěšit Jej a naplnit zde na zemi. Nesplnili jsme svůj slib, přesto očekáváme od ostatních, že splní své sliby. Jako duchovní lidé bychom se měli vždy dívat, co jsme my udělali špatně. Udělali jsme milióny věcí špatně. Děláme-li milióny věcí špatně, pak nám Bůh přirozeně odpouští. Jinak bychom nemohli na zemi existovat. Je-li Bůh připraven odpustit nám i přes naše nesčetné nedostatky a chyby, jak je možné, že neumíme my odpustit někomu jinému? Duchovní hledající ihned tvrdí, že je vybraným dítětem Boha. Neaspirující člověk, člověk, který se oddává potěšením nevědomosti, by toto nikdy tvrdit nedokázal. Nedokáže považovat Boha za svého zcela vlastního. Ale vy se odvažujete tvrdit, že jste vybraným dítětem Boha právě proto, že máte špetku z Jeho dobrých kvalit. Bůh je dobrý, Bůh je božský, Bůh je dokonalý, a všechny Jeho dobré vlastnosti do jisté míry máte. A je-li jednou z Božích vlastností odpuštění a odpouští-li vám Bůh dvacet čtyři hodin denně, nemůžete někomu odpustit na jednu sekundu? Jestliže má váš zdroj schopnost udělat něco v nekonečné míře, přirozeně i vy byste podle svého standardu měli mít schopnost odpustit nebo osvítit ostatní, kteří udělali něco špatného.
 
 
 
@@ -273,7 +268,7 @@ Srí Chinmoy: Když přemýšlíme o nespravedlnosti z lidského hlediska, musí
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: KK:9-cs
+  :cite-key: kk:9-cs
   :END:
 
 /Sri Chinmoy:/ Při vzácných příležitostech vidíme nedokonalosti v sobě, ale vždy je vidíme v ostatních. A teď co uděláme, když objevíme, že jsme nedokonalí nebože jsme udělali něco špatného? Ihned si odpustíme nebo si nevšímáme skutečnosti, že jsme udělali něco špatného, nebo se rozhodneme otočit list a už to nikdy neopakovat. Děláme to všechno proto, abychom získali uspokojení.
@@ -292,7 +287,7 @@ Všichni jsme nedílnou součástí žijícího organismu. Mám-li jen dvě ruce
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: KK:10-cs
+  :cite-key: kk:10-cs
   :END:
 
 /Sri Chinmoy:/ Jsou dva druhy lidí. Jedni jsou jako opice nebo škorpióni. Když opici dovolíme, aby se k nám přiblížila, ihned nás pokouše a poškrábe. Dotkneme-li se škorpióna, uštkne nás svým žahadlem. Když na něj sáhneme ještě jednou, znovu nás uštkne. V tomto světě musíme odpozorovat, zda se nás někdo nepokouší zničit. Jestliže se nevědomost nezmenšuje, musíme se chránit.
@@ -307,7 +302,7 @@ Ale jestliže má někdo povahu škorpióna nebo opice, můžeme mu dát libovol
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: KK:11e1-cs
+  :cite-key: kk:11e1-cs
   :END:
 
 
@@ -317,7 +312,7 @@ Ale jestliže má někdo povahu škorpióna nebo opice, můžeme mu dát libovol
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:11-cs
+  :cite-key: kk:11-cs
   :END:
 
 
@@ -341,7 +336,7 @@ můj Pán Nejvyšší mi potají poví,
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:12-cs
+  :cite-key: kk:12-cs
   :END:
 
 #+BEGIN_VERSE
@@ -360,7 +355,7 @@ budeš mít trvalý mír uvnitř i vně.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:13-cs
+  :cite-key: kk:13-cs
   :END:
 
 
@@ -382,7 +377,7 @@ a Strom Božího Odpuštění.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:14-cs
+  :cite-key: kk:14-cs
   :END:
 
 
@@ -406,7 +401,7 @@ potom buď ujištěn,
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:15-cs
+  :cite-key: kk:15-cs
   :END:
 
 
@@ -429,7 +424,7 @@ a osvěcující hra.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:16-cs
+  :cite-key: kk:16-cs
   :END:
 
 
@@ -453,7 +448,7 @@ Vskutku, to je mým jediným cílem.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:17-cs
+  :cite-key: kk:17-cs
   :END:
 
 
@@ -475,7 +470,7 @@ mým jediným životním dechem.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:18-cs
+  :cite-key: kk:18-cs
   :END:
 
 
@@ -497,7 +492,7 @@ je přichystána přímo nad tvojí hlavou.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:19-cs
+  :cite-key: kk:19-cs
   :END:
 
 
@@ -517,7 +512,7 @@ nenechávej mě nikdy samotného a ztraceného.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:20-cs
+  :cite-key: kk:20-cs
   :END:
 
 
@@ -543,7 +538,7 @@ Nohám Odpuštění a Srdci Osvícení.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:21-cs
+  :cite-key: kk:21-cs
   :END:
 
 
@@ -564,7 +559,7 @@ To znamená, že neznáš sám sebe
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:22-cs
+  :cite-key: kk:22-cs
   :END:
 
 
@@ -588,7 +583,7 @@ svoji vědomou sebeslávu.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:23-cs
+  :cite-key: kk:23-cs
   :END:
 
 
@@ -613,7 +608,7 @@ mé oduševnělé modlitby.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:24-cs
+  :cite-key: kk:24-cs
   :END:
 
 
@@ -633,7 +628,7 @@ Mořem Odpuštění svého Pána.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:25-cs
+  :cite-key: kk:25-cs
   :END:
 
 
@@ -655,7 +650,7 @@ na Bohem zvolenou Hodinu.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:26-cs
+  :cite-key: kk:26-cs
   :END:
 
 
@@ -677,7 +672,7 @@ více odpouštějící než dřív.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:27-cs
+  :cite-key: kk:27-cs
   :END:
 
 
@@ -700,7 +695,7 @@ tvého Milovaného Nejvyššího.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:28-cs
+  :cite-key: kk:28-cs
   :END:
 
 
@@ -723,7 +718,7 @@ zoufale a bezesně potřebuji.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:29-cs
+  :cite-key: kk:29-cs
   :END:
 
 
@@ -745,7 +740,7 @@ Nohami Odpuštění našeho Pána.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:30-cs
+  :cite-key: kk:30-cs
   :END:
 
 
@@ -766,7 +761,7 @@ a Božích Nohou Odpuštění.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:31-cs
+  :cite-key: kk:31-cs
   :END:
 
 
@@ -787,7 +782,7 @@ lidské vrozené nevděčnosti.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:32-cs
+  :cite-key: kk:32-cs
   :END:
 
 
@@ -807,7 +802,7 @@ odpustit světu kolem mne.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:33-cs
+  :cite-key: kk:33-cs
   :END:
 
 
@@ -829,7 +824,7 @@ lidskou mysl.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:34-cs
+  :cite-key: kk:34-cs
   :END:
 
 
@@ -852,7 +847,7 @@ na dveře tvého srdce nikdy nezaklepou.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:35-cs
+  :cite-key: kk:35-cs
   :END:
 
 
@@ -878,7 +873,7 @@ a odpouštíš mi.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:36-cs
+  :cite-key: kk:36-cs
   :END:
 
 
@@ -904,7 +899,7 @@ své světlo krásy a výšku čistoty.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:37-cs
+  :cite-key: kk:37-cs
   :END:
 
 
@@ -932,7 +927,7 @@ přátelíš se spánkem nevědomosti.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:38-cs
+  :cite-key: kk:38-cs
   :END:
 
 
@@ -958,7 +953,7 @@ nedáš?
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:39-cs
+  :cite-key: kk:39-cs
   :END:
 
 
@@ -984,7 +979,7 @@ nedáš?
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:40-cs
+  :cite-key: kk:40-cs
   :END:
 
 
@@ -1008,7 +1003,7 @@ nedáš?
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:40-cs
+  :cite-key: kk:40-cs
   :END:
 
 
@@ -1032,7 +1027,7 @@ nedáš?
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:41-cs
+  :cite-key: kk:41-cs
   :END:
 
 
@@ -1055,7 +1050,7 @@ nedáš?
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:42-cs
+  :cite-key: kk:42-cs
   :END:
 
 
@@ -1078,7 +1073,7 @@ nedáš?
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:43-cs
+  :cite-key: kk:43-cs
   :END:
 
 
@@ -1100,7 +1095,7 @@ kam mám jít.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:44-cs
+  :cite-key: kk:44-cs
   :END:
 
 
@@ -1120,7 +1115,7 @@ spatří Boží Oko Soucitu.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:45-cs
+  :cite-key: kk:45-cs
   :END:
 
 
@@ -1139,7 +1134,7 @@ jak od Boha získat Světlo Odpuštění.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:46-cs
+  :cite-key: kk:46-cs
   :END:
 
 
@@ -1158,7 +1153,7 @@ své nevědomé minulosti.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:47-cs
+  :cite-key: kk:47-cs
   :END:
 
 
@@ -1178,7 +1173,7 @@ ale také celou budoucnost.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:48-cs
+  :cite-key: kk:48-cs
   :END:
 
 
@@ -1198,7 +1193,7 @@ jsou příčinou dnešního utrpení.
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:49-cs
+  :cite-key: kk:49-cs
   :END:
 
 
@@ -1218,7 +1213,7 @@ Božím Odpuštěním?
   :PROPERTIES:
   :genre:  poem
   :keywords:
-  :cite-key: KK:50-cs
+  :cite-key: kk:50-cs
   :END:
 
 
@@ -1234,14 +1229,3 @@ očekáváš a vyžaduješ jejich odpuštění,
 pokud stále děláš tutéž chybu?
 
 #+END_VERSE
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-
-

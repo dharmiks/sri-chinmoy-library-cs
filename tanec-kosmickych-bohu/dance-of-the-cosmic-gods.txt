@@ -1,20 +1,15 @@
-#+TITLE: Tanec kosmických bohů
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Tanec kosmických bohů
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2014
-  :PUBLISHER: (knižně nevydáno)
-  :CITE-KEY: DCG-cs
-  :GENRE: discourse
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2014
+  :publisher: (knižně nevydáno)
+  :cite-key: DCG-cs
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Kosmičtí bohové
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:1-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:1-cs
   :END:
 
 
@@ -47,9 +42,9 @@ Kosmičtí bohové a bohyně jsou ušlechtilými bytostmi. Nevstupují do těla 
 * Hindská Trojice
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:2-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:2-cs
   :END:
 
 
@@ -59,7 +54,7 @@ Tak, jako vy na Západě máte svoji Trojici, my Indové máme také Trojici. Ho
  
  Každý jedinec je veden a ochraňován Nejvyšším Bohem, někteří hledající však získají radost z dosahování Boha prostřednictvím Jeho různých aspektů. Někdy jedinec získá radost z dosahování Boha v aspektu Stvořitele -- Brahmy. Jestliže někdo uctívá Višnua, nebo Šivu, Bůh bude srovnatelně potěšen, protože je to Nejvyšší, který projevuje Sám Sebe v těchto třech formách.
 
- V Indii jsou někteří hledající, kteří cítí, že Bůh je nanejvýš soucitný, protože stvořil svět. Říkají: "Musíme se k Němu modlit, protože nás stvořil. Kdyby nás nestvořil, neexistovali bychom." Jiní hledající řeknou: "Kdo ví, před kolika miliony a miliardami let nás stvořil? To není důležité. Důležité je, že nám dal tělo, mysl a všechny části naší bytosti, a že nás nyní ochraňuje. Víme, že nás vede a ochraňuje, a tak mu buďme nanejvýš vděční." Tito hledající se budou modlit k Bohu jako Višnuovi, Ochránci.
+ V Indii jsou někteří hledající, kteří cítí, že Bůh je nanejvýš soucitný, protože stvořil svět. Říkají: "musíme se k němu modlit, protože nás stvořil. kdyby nás nestvořil, neexistovali bychom." jiní hledající řeknou: "Kdo ví, před kolika miliony a miliardami let nás stvořil? To není důležité. Důležité je, že nám dal tělo, mysl a všechny části naší bytosti, a že nás nyní ochraňuje. Víme, že nás vede a ochraňuje, a tak mu buďme nanejvýš vděční." Tito hledající se budou modlit k Bohu jako Višnuovi, Ochránci.
 
  A ještě další hledající mohou říci: "Bůh nás stvořil, Bůh nás ochraňuje, jsme však stále nedokonalí. Stále jsme ještě v nevědomosti a utrpení. Bůh není spokojen s našimi nedokonalostmi, omezeními, spoutaností a smrtí; ani my nejsme spokojeni. A tak doceňme, uctívejme a oddejme naše životy aspektu Boha, který nás chce přeměnit. Uctívejme Jediného, který nám pomáhá vyjít z nevědomosti a utrpení, a který se pokouší přeměnit naši znečištěnou přirozenost v nejkrásnější a nejdokonalejší dokonalost." Hledající, kteří cítí takto, budou uctívat Šivu.
 
@@ -70,9 +65,9 @@ Tak, jako vy na Západě máte svoji Trojici, my Indové máme také Trojici. Ho
 * Ochranná božstva
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:3-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:3-cs
   :END:
 
 
@@ -87,9 +82,9 @@ Každý člověk má ochranné božstvo, které na něj dohlíží. Zde na Zápa
 * Žárlivost bohů
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:4-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:4-cs
   :END:
 
 
@@ -106,9 +101,9 @@ Jsou nižší kosmičtí bohové a jsou vyšší kosmičtí bohové. Ačkoliv ni
 * Višnu
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:5-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:5-cs
   :END:
 
 
@@ -136,9 +131,9 @@ Vaišnavismus je láskou pro Boha, láskou samotnou. Ve vaishnavismu nejsou ritu
 
  Dítě a jeho otec jsou neoddělitelně jedním; vědomí dítěte a vědomí otce jsou jedním. Dítě však cítí, že ačkoliv je se svým otcem jedním, že jeho otec je nejsoucitnější a nejodpouštějící. Dítě dostane radost hraním role podřízeného, z pocitu, že je ve styku s někým, kdo je všeprostupující, vševědoucí, všemocný a všudypřítomný. Nechce být rovno svému otci. Můžete říci, že zde chce individualita občas vyzkoušet svoji lásku v odděleném vědomí. Čistí vaišnavité dostanou největší radost, když hluboko v nejvnitřnějších zákoutích svých srdcí cítí, že jsou otroky Boha. Vaišnavité jsou v každém okamžiku připraveni zasvětit svoji existenci službě Bohu; chtějí zůstat nejdražšími dětmi, vyvolenými dětmi Boha. Bohem se však stát nechtějí. Chtějí udržet svoji individualitu v naprosto nejčistějším smyslu slova.
 
- Rámakršna říkal, že kdybyste si chtěli ponechat svoje ego nebo individualitu, potom si ji ponechte ve formě otroka nebo sluhy, takže budete moci říci: "Jsem dítětem Božím. Jak mohu udělat něco špatného? Jak si mohu hovět v požitku z nevědomosti? Tento druh ega je lepší než ego, které spoutává samo sebe snahou ukázat svoji nadřazenost a vykonáváním mnoha dalších špatností. Rámakršna také říkal, že se nechtěl stát cukrem; chtěl si uchovat pocit oddělenosti, a tak moci cukr ochutnat. Rovněž ve vaišnavismu chce hledající ochutnat nejvyšší božský Nektar, a tak chce svoji individualitu. Cítí, že pokud existuje subtilní proudění mezi jeho vědomím a Bohem, že se potom bude cítit nanejvýš šťastným, že je v trvalém kontaktu se svým Pánem. Kdežto ostatní filozofové řeknou: "Staňme se jedním, naprosto jedním s naším Cílem."
+ Rámakršna říkal, že kdybyste si chtěli ponechat svoje ego nebo individualitu, potom si ji ponechte ve formě otroka nebo sluhy, takže budete moci říci: "jsem dítětem božím. jak mohu udělat něco špatného? jak si mohu hovět v požitku z nevědomosti? tento druh ega je lepší než ego, které spoutává samo sebe snahou ukázat svoji nadřazenost a vykonáváním mnoha dalších špatností. rámakršna také říkal, že se nechtěl stát cukrem; chtěl si uchovat pocit oddělenosti, a tak moci cukr ochutnat. rovněž ve vaišnavismu chce hledající ochutnat nejvyšší božský nektar, a tak chce svoji individualitu. cítí, že pokud existuje subtilní proudění mezi jeho vědomím a bohem, že se potom bude cítit nanejvýš šťastným, že je v trvalém kontaktu se svým pánem. kdežto ostatní filozofové řeknou: "Staňme se jedním, naprosto jedním s naším Cílem."
 
- Rámakršna se modlil ke své Matce Kálí: "Ó Matko, ponech mne v tomto světě s Růží a ???[Kase]." To znamená, že chtěl, aby jeho spojení se světem bylo plnohodnotné. Říkal: "Neučiň mne suchým asketou. Ponech mne na Zemi, aby mne tvé děti mohli milovat." Z vaišnavismu získáme pocit sladkosti, zájmu, lásky, důvěrnosti a extáze. Vaišnavismus představuje lásku vnitřní i vnější, lásku, která rozšíří a ne lásku, která spoutá. Modlitbou oddaného vaišnavity je: "Ó Pane, dej mi čistou, silnou lásku, která přesáhne všechnu lidskou lásku."
+ Rámakršna se modlil ke své Matce Kálí: "Ó matko, ponech mne v tomto světě s růží a ???[kase]." to znamená, že chtěl, aby jeho spojení se světem bylo plnohodnotné. Říkal: "neučiň mne suchým asketou. ponech mne na zemi, aby mne tvé děti mohli milovat." z vaišnavismu získáme pocit sladkosti, zájmu, lásky, důvěrnosti a extáze. vaišnavismus představuje lásku vnitřní i vnější, lásku, která rozšíří a ne lásku, která spoutá. modlitbou oddaného vaišnavity je: "Ó Pane, dej mi čistou, silnou lásku, která přesáhne všechnu lidskou lásku."
 
  Vaišnavismus hraje svoji roli ve filozofii stejně jako v náboženství. Všichni znáte Védantu, zvláště Šankarovu Védantu, která je čistým monismem, který přišel přímo ze starého tradičního vaišnavismu. Z něj jsou odvozeny některé další filozofické systémy:
 
@@ -156,18 +151,18 @@ Ve dvaitadvaitě jdou dualita a monismus společně. V jednom okamžiku jsou du�
 
  Slovo "Avatár" znamená přímý sestup Boha, inkarnaci Nejvyšší Bytosti. Ačkoliv Avatár sestupuje přímo od Boha, naše indická tradice praví, že je deset hlavních Avatárů, a všichni jsou různými inkarnacemi boha Višnua. Někteří z nich jsou zvířecími Avatáry. Jméno desátého Avatára, který ještě přijde je Kalki. Tak praví tradice, tak praví učenci. Z duchovního pohledu jsou však Avatáři spojení s Višnuem jen do té míry, do jaké Višnu představuje Nejvyššího v Jeho aspektu božského Udržovatele, božské Souvislosti a nejvyššího Spojení za a nad všemi změnami. Avatárů bylo poměrně málo. Sri Čaitanja byl Avatár, Sri Rámakršna byl Avatárem, Pán Ráma a Sri Kršna byli Avatáři.
 
- Dovolte mi skončit zábavným příběhem. Višnu a Brahma jednou začali soutěžit. Chtěli vědět, který z nich je lepší. A protože potřebovali soudce, stal se jím Šiva. Šiva řekl: "Dobře, brzy bude známo, kdo z vás dvou je lepší. Umístil jsem zde bílý sloupec světla. Kdokoliv z vás dosáhne vrcholu nebo paty sloupce a vrátí se ke mně jako první, bude vítězem." Brahma řekl: "Dobře, já se pokusím šplhat nahoru." A Višnu řekl: "Já půjdu dolů." Když začali šplhat, sloupec světla se okamžitě stával dlouhým, delším a nejdelším. Brahma a Višnu se snažili ze všech sil, konce však dosáhnout nemohli; bylo to nemožné. Oba pokračovali po léta, ale ve chvíli, kdy cítili, že by byli schopni dotknout se konce sloupce, sloupec se prodloužil.
+ Dovolte mi skončit zábavným příběhem. Višnu a Brahma jednou začali soutěžit. Chtěli vědět, který z nich je lepší. A protože potřebovali soudce, stal se jím Šiva. Šiva řekl: "dobře, brzy bude známo, kdo z vás dvou je lepší. umístil jsem zde bílý sloupec světla. kdokoliv z vás dosáhne vrcholu nebo paty sloupce a vrátí se ke mně jako první, bude vítězem." brahma řekl: "dobře, já se pokusím šplhat nahoru." a višnu řekl: "Já půjdu dolů." Když začali šplhat, sloupec světla se okamžitě stával dlouhým, delším a nejdelším. Brahma a Višnu se snažili ze všech sil, konce však dosáhnout nemohli; bylo to nemožné. Oba pokračovali po léta, ale ve chvíli, kdy cítili, že by byli schopni dotknout se konce sloupce, sloupec se prodloužil.
 
- Nakonec došla Brahmovi trpělivost. Řekl si: "Nejlepší pro mne bude, když půjdu říci Šivovi, že jsem se vrcholu dotknul. Jak pozná, zda jsem se jej dotknul nebo ne?" A jak slézal dolů, uviděl bílého ptáka. Požádal ptáka, aby mu svědčil. "Když přijdu", řekl Brahma, "řekneš Šivovi, že jsem se dotknul vrcholu." Pták souhlasil. Brahma a pták přišli dolů, chudák Višnu však stále bojoval. Brahma řekl: "Dotknul jsem se vrcholu bílého sloupce světla a tak jsem zvítězil." Šiva řekl: "Počkej, poslechneme si, co řekne Višnu." Hned potom Višnu přišel. Šiva se zeptal: "Co je nového Višnu?" "Omlouvám se", odpověděl Višnu, "snažil jsem se ze všech sil, ale selhal jsem. Nemohl jsem se dotknout konce tajemného sloupce světla." Šiva se okamžitě rozzuřil, protože mu Brahma lhal. Co mohl Brahma dělat? Byl polapen. Šiva otevřel své třetí oko, které bylo plné ničivého ohně, a skutečně chtěl Brahmu zabít. Šiva řekl: "Lhal jsi mi, a tak ti uříznu jednu z tvých hlav." Potom Brahmovi uřízl jednu hlavu. Z toho důvodu uvidíme jen čtyři přední hlavy Brahmovi; zadní hlava byla odříznuta Pánem Šivou. A tak Višnu dokázal sám sobě, že je upřímný. Nevěděl, jak lhát. Stvořitel nicméně lhal a byl potrestán Pánem Šivou.
+ Nakonec došla Brahmovi trpělivost. Řekl si: "nejlepší pro mne bude, když půjdu říci Šivovi, že jsem se vrcholu dotknul. jak pozná, zda jsem se jej dotknul nebo ne?" a jak slézal dolů, uviděl bílého ptáka. požádal ptáka, aby mu svědčil. "když přijdu", řekl brahma, "řekneš Šivovi, že jsem se dotknul vrcholu." pták souhlasil. brahma a pták přišli dolů, chudák višnu však stále bojoval. brahma řekl: "dotknul jsem se vrcholu bílého sloupce světla a tak jsem zvítězil." Šiva řekl: "počkej, poslechneme si, co řekne višnu." hned potom višnu přišel. Šiva se zeptal: "co je nového višnu?" "omlouvám se", odpověděl višnu, "snažil jsem se ze všech sil, ale selhal jsem. nemohl jsem se dotknout konce tajemného sloupce světla." Šiva se okamžitě rozzuřil, protože mu brahma lhal. co mohl brahma dělat? byl polapen. Šiva otevřel své třetí oko, které bylo plné ničivého ohně, a skutečně chtěl brahmu zabít. Šiva řekl: "Lhal jsi mi, a tak ti uříznu jednu z tvých hlav." Potom Brahmovi uřízl jednu hlavu. Z toho důvodu uvidíme jen čtyři přední hlavy Brahmovi; zadní hlava byla odříznuta Pánem Šivou. A tak Višnu dokázal sám sobě, že je upřímný. Nevěděl, jak lhát. Stvořitel nicméně lhal a byl potrestán Pánem Šivou.
 
 
 
 * Ágni
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:6-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:6-cs
   :END:
 
 
@@ -287,9 +282,9 @@ Správnou stezkou je aspirace srdce.
 * Rudra
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:7-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:7-cs
   :END:
 
 
@@ -315,7 +310,7 @@ Rudra je jedním z nejvýznamnějších Védských bohů. V Rig Védě je o Rudr
 
  V Rig Védě máme významný hymnus, který se zmiňuje o tom, že brahmín je Božími Ústy -- nebo, řekněme, že brahmín přichází přímo z Božích úst. Tentýž hymnus praví, že kšatrija přijde z Paží Boha, vaišja přijde ze Stehen Boha a šudra z Chodidel.
 
- Všichni známe významnost Gájatrí mantry. Chci však říci, že existuje další Gájatrí: Rudra Gájatrí. Není sice tak důležitá jako skutečná Gájatrí, která je nabídnuta Bohu Slunce, přesto je stále významná. Zní takto: 
+ Všichni známe významnost Gájatrí mantry. Chci však říci, že existuje další Gájatrí: rudra gájatrí. není sice tak důležitá jako skutečná gájatrí, která je nabídnuta bohu slunce, přesto je stále významná. zní takto: 
 
 "Meditujeme na Rudru, aby nám dal nejvyšší Znalost. Meditujeme na Rudru, aby energizoval náš život a podnítil naši mysl."
 
@@ -333,9 +328,9 @@ Rudra je jedním z nejvýznamnějších Védských bohů. V Rig Védě je o Rudr
 * Súrja
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:8-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:8-cs
   :END:
 
 
@@ -367,9 +362,9 @@ Súrja je bůh slunce, sluneční božství. Je také bohem osvícení a osvoboz
 #+END_VERSE
 
 
-Bůh slunce je také bohem létání a tuto svoji úlohu sehrává jako nádherný pták. Čas i prostor jsou přikryty křídly boha slunce. V Rig Védě je významný hymnus, který zní: "Hvězdy jednají jako zloději. Když uvidí slunce, utečou, protože se obávají nekonečné záře slunce." Je tam i další hymnus, který zve večer. Večer zve západ slunce říkajíc: "Bratře, celý den jsi tvrdě pracoval. Nyní si odpočiň." A tak, když večer vroucně požádá boha slunce, aby si odpočinul, objeví se noc.
+Bůh slunce je také bohem létání a tuto svoji úlohu sehrává jako nádherný pták. Čas i prostor jsou přikryty křídly boha slunce. V Rig Védě je významný hymnus, který zní: "hvězdy jednají jako zloději. když uvidí slunce, utečou, protože se obávají nekonečné záře slunce." je tam i další hymnus, který zve večer. večer zve západ slunce říkajíc: "Bratře, celý den jsi tvrdě pracoval. Nyní si odpočiň." A tak, když večer vroucně požádá boha slunce, aby si odpočinul, objeví se noc.
 
- Stvoření vstoupilo do existence ze slunce. Slunce je stvořitelem, který stvořil něco, co nemá začátku ani konce. Významný Mistr jednou prohlásil: "Jestliže počátek přijde z ničeho, potom počátku nemůže být. Počátek nemůže přijít z ničeho." To je pravda. V duchovním životě však známe dvě významná slova: Puruša a Prakriti. Puruša a Prakriti jsou vždy nezrozené a nesmrtelné. Ve třinácté kapitole Bhagavadgíty, Sri Kršna objasňuje, že Puruša a Prakriti jsou bez počátku. Puruša, transcendentální, prvotní Bytost a Prakriti, absolutní Energie společně stvořili věčné i dočasné.
+ Stvoření vstoupilo do existence ze slunce. Slunce je stvořitelem, který stvořil něco, co nemá začátku ani konce. Významný Mistr jednou prohlásil: "jestliže počátek přijde z ničeho, potom počátku nemůže být. počátek nemůže přijít z ničeho." to je pravda. v duchovním životě však známe dvě významná slova: Puruša a Prakriti. Puruša a Prakriti jsou vždy nezrozené a nesmrtelné. Ve třinácté kapitole Bhagavadgíty, Sri Kršna objasňuje, že Puruša a Prakriti jsou bez počátku. Puruša, transcendentální, prvotní Bytost a Prakriti, absolutní Energie společně stvořili věčné i dočasné.
 
  V Rig Védě se dozvíme, že existence přišla z neexistence. Co neexistence znamená? Pokud si myslíme, že neexistence znamená nic, potom se mýlíme. Není to něco, co nikdy neexistovalo. Neexistence je něčím, co nemůžeme spatřit pouhým okem, něčím, co je za dosahem našeho pozemského poznání. Když je naše třetí oko trvale pod naší vládou, uvidíme neexistenci jako něco, co si ještě ve vnějším světě nevzalo náležitou formu a podstatu. Když si neexistence vezme náležitou formu a tvar, je pro nás možné vidět ji a využít ji v našem každodenním životě.
 
@@ -381,7 +376,7 @@ Bůh slunce je také bohem létání a tuto svoji úlohu sehrává jako nádhern
 
  Bůh slunce k nám večer přijde jako realizace. Slunce zapadá a nejvyšší čistota vládne všude kolem. Příroda odpočívá, Matka Země aspiruje a vše je mírem a láskou uvnitř i vně. S večerem přijde realizace, s tím, jak nám bůh slunce nabídne dovršení svého bohatství. Když svitne realizace, úloha inspirace a aspirace končí.
 
- Ve Védách jsou tisíce manter. "Mantra" je sanskrtské slovo, které znamená zaříkávání. Mantrou může být slabika, slovo, jméno nebo věta či dvě. Když proneseme mantru oduševněle, jsme přeneseni do sedmého nebe nebeského potěšení. Jsou tisíce manter, jedna mantra však zůstává nejvýznamnější a je jí Gájatrí mantra. Tuto mantru nalezneme ve třech Védách: Rig Védě, Sáma Védě a Atharva Védě. Tato mantra je také nejvznešenější rágou. Nyní vám tuto mantru nabízím. Proč? Je proto zvláštní důvod. Nejprve bych ji chtěl zazpívat, a potom vám povím její význam:
+ Ve Védách jsou tisíce manter. "Mantra" je sanskrtské slovo, které znamená zaříkávání. Mantrou může být slabika, slovo, jméno nebo věta či dvě. Když proneseme mantru oduševněle, jsme přeneseni do sedmého nebe nebeského potěšení. Jsou tisíce manter, jedna mantra však zůstává nejvýznamnější a je jí Gájatrí mantra. Tuto mantru nalezneme ve třech Védách: rig védě, sáma védě a atharva védě. tato mantra je také nejvznešenější rágou. nyní vám tuto mantru nabízím. proč? je proto zvláštní důvod. nejprve bych ji chtěl zazpívat, a potom vám povím její význam:
 
 
 #+BEGIN_VERSE
@@ -444,32 +439,32 @@ Bůh slunce nám dá poznání a moudrost. Bůh slunce nás oprostí od hojné n
 * Ganéša
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:9-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:9-cs
   :END:
 
 
 Dalším jménem Pána Ganéši je Siddhidata. Nazýváme jej také Ganapati. Ganéša má hojnost poznání. Naplní naši aspiraci nebo tužby. V Indii se nejprve modlíme k Pánu Ganéšovi. Řekneme: "/Aum dakshine Ganeshaya namah/." "Klaníme se Pánu Ganéšovi, který sídlí na Jihu."
 
- Ganéša měl mladšího bratra, Kumara, boha války. Kumara byl hrdinou a velitelem bohů. A jak praví příběh, oba, Ganéša i Kumara si navzájem řekli: "Jsem znalejší, než jsi ty." Jejich matkou byla Parvatí, neboli Durga, jak je nazývána v jiném aspektu. Rozhodla se prověřit, který z nich má více poznání. Řekla: "Poznejme, kdo z vás je významnější. Já budu sedět tady. Ten z vás, který obejde svět a vrátí se zpět první, je významnější". Kumara okamžitě vstal a vyběhl. Cestoval, cestoval a cestoval na svém pávu. Chudák, Bůh ví, jak dlouho mu trvalo obejít svět. Když se vrátil ke své matce, viděl, že jeho bratr stále sedí u jejích nohou. "To je blázen," řekl si. "Ani nevyrazil na cestu, kdežto já jsem již doběhl."
+ Ganéša měl mladšího bratra, Kumara, boha války. Kumara byl hrdinou a velitelem bohů. A jak praví příběh, oba, Ganéša i Kumara si navzájem řekli: "jsem znalejší, než jsi ty." jejich matkou byla parvatí, neboli durga, jak je nazývána v jiném aspektu. rozhodla se prověřit, který z nich má více poznání. Řekla: "Poznejme, kdo z vás je významnější. Já budu sedět tady. Ten z vás, který obejde svět a vrátí se zpět první, je významnější". Kumara okamžitě vstal a vyběhl. Cestoval, cestoval a cestoval na svém pávu. Chudák, Bůh ví, jak dlouho mu trvalo obejít svět. Když se vrátil ke své matce, viděl, že jeho bratr stále sedí u jejích nohou. "To je blázen," řekl si. "Ani nevyrazil na cestu, kdežto já jsem již doběhl."
 
- A právě když Kumara prohlásil "Pohleď, Matko, jsem vítěz", Ganapati vstal a prostě svoji matku obešel. Jejich matka řekla: "Ganéša ví, že jeho matka je celým vesmírem. Chudák Kumara si to neuvědomil: myslel si, že jeho matka je obyčejnou lidskou bytostí. Ganéša je vítězem."
+ A právě když Kumara prohlásil "Pohleď, Matko, jsem vítěz", Ganapati vstal a prostě svoji matku obešel. Jejich matka řekla: "ganéša ví, že jeho matka je celým vesmírem. chudák kumara si to neuvědomil: myslel si, že jeho matka je obyčejnou lidskou bytostí. Ganéša je vítězem."
 
 
 
 * Šani
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:10-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:10-cs
   :END:
 
 
 V Indii máme velmi důležitého boha jménem Saturn. Nazýváme jej také Šani. Ke kosmickým bohům se modlíme: "Dej nám bohatství, dej nám jméno, dej nám slávu. "V různé dny v týdnu uctíváme planety, hvězdy a kosmická božstva, aby k nám přišla se svojí vnitřní i vnější hojností."
 
- Tomuto konkrétnímu bohu však řekneme: "Ó Šani, nedívej se na nás. Nevrhej na nás svůj pohled." Modlíme se, aby tento bůh do našeho domu nepřišel, aby na nikoho drahého z naší rodiny nepohlédl. Proč? Když tento bůh pohlédne na domácnost, okamžitě se přihodí něco špatného. Když přijde do rodiny Saturn, nastane na fyzické úrovni nějaká katastrofa: zemře někdo drahý, přijdeme o peníze, nebo se stane nějaká katastrofa. Proto v Indii říkáme: "Nechoď."
+ Tomuto konkrétnímu bohu však řekneme: "Ó Šani, nedívej se na nás. nevrhej na nás svůj pohled." modlíme se, aby tento bůh do našeho domu nepřišel, aby na nikoho drahého z naší rodiny nepohlédl. proč? když tento bůh pohlédne na domácnost, okamžitě se přihodí něco špatného. když přijde do rodiny saturn, nastane na fyzické úrovni nějaká katastrofa: zemře někdo drahý, přijdeme o peníze, nebo se stane nějaká katastrofa. proto v indii říkáme: "Nechoď."
 
  Musíme vědět, že takhle se modlí pouze naše lidská touha. Naše božská aspirace by to nemohla nikdy udělat. Lidská modlitba chce vlastnit nebo být vlastněna světem, příbuznými, drahými.
 
@@ -482,9 +477,9 @@ V Indii máme velmi důležitého boha jménem Saturn. Nazýváme jej také Šan
 * Božská Matka
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:11-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:11-cs
   :END:
 
 
@@ -497,9 +492,9 @@ Božská Matka je Božství ve svém ženském aspektu. Velmi často říkáme, 
 * Mahéšvarí
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:12-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:12-cs
   :END:
 
 
@@ -530,9 +525,9 @@ Prvním je aspekt nesmírnosti, rozlehlosti a hloubky, zvaný Mahéšvarí. "Mah
 * Mahákálí
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:13-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:13-cs
   :END:
 
 
@@ -583,9 +578,9 @@ V dalším aspektu je božská Matka nazývána Mahákálí. V tomto aspektu je 
 * Mahálakšmí
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:14-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:14-cs
   :END:
 
 
@@ -618,9 +613,9 @@ Třetí bohyní neboli aspektem Božské Matky je Mahálakšmí. Jak jsem již �
 * Mahásarasvatí
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DCG:15-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: dcg:15-cs
   :END:
 
 
@@ -666,18 +661,3 @@ Třetí bohyní neboli aspektem Božské Matky je Mahálakšmí. Jak jsem již �
  Je pravdou, že Boha můžeme dosáhnout prostřednictvím naší aspirace a získat dokonalost, sílu, poznání a všechno. Naše schopnosti jsou však velmi omezené a často nemůžeme vyzvat, nebo si nevyzveme všechno. Jestliže cítíme, že se něco bude hodit naší přirozenosti a uspokojí to naši duši, nebo to na čas nasytí náš vnitřní hlad, potom bychom se měli modlit k tomuto danému aspektu Boha.
 
  Chceme-li nesmírnost, potom se modlíme k Mahéšvarí. Chceme-li jít k Nejvyššímu největší rychlostí, potom se modlíme k Mahákálí. Chceme-li do našeho života vnést krásu a harmonii, modlíme se k Mahálakšmí. Chceme-li ve všem dokonalost do detailu, modlíme se k Mahásarasvatí. Ale ať už hledající dá přednost kterékoliv cestě, na konci své cesty pozná, že naplnil všechny čtyři aspekty Božské Matky.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

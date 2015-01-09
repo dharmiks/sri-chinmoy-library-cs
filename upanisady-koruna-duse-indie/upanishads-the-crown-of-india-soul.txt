@@ -1,20 +1,15 @@
-#+TITLE: Upanišady, koruna duše Indie
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Upanišady, koruna duše Indie
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2010
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: UPA-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2010
+  :publisher: Madal Bal
+  :cite-key: UPA-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -42,10 +37,10 @@ Zřeci Upanišad jsou hrdí na Sri Chinmoye, protože on /je/. Sri Chinmoy je na
 * Dar duše Indie
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:1-cs
-  :DATE-EVENT: 1971-10-22
+  :genre: discourse
+  :keywords:
+  :cite-key: upa:1-cs
+  :date-event: 1971-10-22
   :END:
 
 
@@ -88,9 +83,9 @@ To je také vně všeho.
 
 Toto zvláštní poselství má pro nás Íša upanišada. Pro toužící mysl je toto poselství prázdné, mlhavé, nejasné a matoucí. Pro aspirující srdce je však inspirující a osvěcující. Pro odhalující duši je naplňující a nesmrtelné. Brahman, Bůh, je ve svém absolutním aspektu neměnný; avšak ve svém podmíněném aspektu se stále mění, proměňuje, vyvíjí, odhaluje, projevuje a naplňuje.
 
-Íša upanišada dává pozoruhodným způsobem do souladu práci a poznání, Jediného a mnohé, neosobního Boha a osobního Boha. Práce vykonávaná s odpoutáním je skutečným poznáním. Pokoušíme-li se vědomě vidět Boha ve všem a v každém, potom oduševněle nabízíme sami sebe zasvěcenému činu. Poznání je činnost. Jediný a mnohé: Jediného potřebujeme pro svou seberealizaci; mnohé potřebujeme pro své sebeprojevení. Neosobní Bůh a osobní Bůh: žijeme-li v neosobním Bohu, vidíme Pravdu v její osvěcující Vizi. Když žijeme v osobním Bohu, vidíme Pravdu v její odhalující Skutečnosti.
+Íša upanišada dává pozoruhodným způsobem do souladu práci a poznání, Jediného a mnohé, neosobního Boha a osobního Boha. Práce vykonávaná s odpoutáním je skutečným poznáním. Pokoušíme-li se vědomě vidět Boha ve všem a v každém, potom oduševněle nabízíme sami sebe zasvěcenému činu. Poznání je činnost. Jediný a mnohé: jediného potřebujeme pro svou seberealizaci; mnohé potřebujeme pro své sebeprojevení. neosobní bůh a osobní bůh: žijeme-li v neosobním Bohu, vidíme Pravdu v její osvěcující Vizi. Když žijeme v osobním Bohu, vidíme Pravdu v její odhalující Skutečnosti.
 
-Boží Syn prohlásil: „Já a můj Otec jsme jedním.“ /(Jan 10:30)/ Čhándógja upanišada činí smělé, do jisté míry odvážnější a zároveň přesvědčivější prohlášení: 
+Boží Syn prohlásil: „já a můj otec jsme jedním.“ /(jan 10:30)/ Čhándógja upanišada činí smělé, do jisté míry odvážnější a zároveň přesvědčivější prohlášení: 
 
 #+BEGIN_QUOTE
 
@@ -188,10 +183,10 @@ Takové je vnější slunce. Každý z nás má však vnitřní slunce. Toto vn
 * Odhalení světla Indie
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:2-cs
-  :DATE-EVENT: 1971-11-07
+  :genre: discourse
+  :keywords:
+  :cite-key: upa:2-cs
+  :date-event: 1971-11-07
   :END:
 
 
@@ -199,7 +194,7 @@ Každá upanišada je rozvinutím nejvyššího poznání, které -- jakmile je
 
 Tak jako my máme srdce, mysl, vitálno, tělo a duši, stejně tak mají srdce, mysl, vitálno, tělo a duši i upanišady. Srdcem upanišad je sebepoznání, myslí upanišad je sebeodhalení, vitálnem upanišad je sebeprojevení, tělem upanišad je sebepřeměna a duší upanišad je sebezdokonalení.
 
-V této chvíli je nejdůležitější sebepoznání. Pro sebepoznání potřebujeme pouze čtyři věci. Předně potřebujeme pomoc duchovních písem, potom duchovní vedení, dále jógickou disciplínu a nakonec Boží Milost. Písma říkají hledajícímu: „Probuď se, povstaň! Je nejvyšší čas, abys vstal! Nespi už!“ Duchovní Mistr říká hledajícímu: „Poběž, mé dítě! Utíkej co nejrychleji! Já tě inspiruji. Již jsem v tobě zažehl plamen aspirace. Teď můžeš běžet tou nejvyšší rychlostí.“ Jógická disciplína říká hledajícímu: „Vedeš duchovní život a já ti dávám výsledky tvého cvičení. Odstranila jsem ti z cesty všechny překážky. Teď můžeš běžet nejvyšší rychlostí po cestě, na které není žádné nebezpečí.“ Tehdy je potřeba ještě něco, a to je Boží Milost. Někdo může běžet nejvyšší rychlostí, ale přestože na jeho cestě nejsou žádné překážky, nemusí dosáhnout Cíle, protože lidé se velmi často unaví. Než dosáhnou Cíle, cítí, že jsou naprosto vyčerpáni. V takové chvíli je zapotřebí Boží Milost. Bez Boží Milosti člověk nemůže dokončit svou pouť. Boží Milost říká hledajícímu: „Pohleď, Cíl je dosažen.“
+V této chvíli je nejdůležitější sebepoznání. Pro sebepoznání potřebujeme pouze čtyři věci. Předně potřebujeme pomoc duchovních písem, potom duchovní vedení, dále jógickou disciplínu a nakonec Boží Milost. Písma říkají hledajícímu: „probuď se, povstaň! je nejvyšší čas, abys vstal! nespi už!“ duchovní mistr říká hledajícímu: „poběž, mé dítě! utíkej co nejrychleji! já tě inspiruji. již jsem v tobě zažehl plamen aspirace. teď můžeš běžet tou nejvyšší rychlostí.“ jógická disciplína říká hledajícímu: „vedeš duchovní život a já ti dávám výsledky tvého cvičení. odstranila jsem ti z cesty všechny překážky. teď můžeš běžet nejvyšší rychlostí po cestě, na které není žádné nebezpečí.“ tehdy je potřeba ještě něco, a to je boží milost. někdo může běžet nejvyšší rychlostí, ale přestože na jeho cestě nejsou žádné překážky, nemusí dosáhnout cíle, protože lidé se velmi často unaví. než dosáhnou cíle, cítí, že jsou naprosto vyčerpáni. v takové chvíli je zapotřebí boží milost. bez boží milosti člověk nemůže dokončit svou pouť. boží milost říká hledajícímu: „Pohleď, Cíl je dosažen.“
 
 Pravda, Boží Milost začíná na samotném začátku. Když studujeme duchovní písma, Boží Milost už nad námi zasvitla. Nebýt Milosti Boha, nemohli bychom v prvé řadě vstoupit na duchovní cestu. A nebýt Milosti Boha, nemohli bychom nalézt svého duchovního Mistra. Bůh ze své nekonečné Štědrosti přivede hledajícího k Mistrovi. Potom musí hledající i Mistr hrát své odpovídající role. Mistr bude snášet dolů Boží Soucit, ale hledající musí cvičit duchovní disciplínu. Jeho úkolem je aspirovat a Mistrovým úkolem je přinášet dolů Soucit.
 
@@ -277,10 +272,10 @@ Neskutečné je zachmuřením smrti; Skutečné je písní Nesmrtelnosti. Temnot
 * Krása a povinnost indické duše
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:3-cs
-  :DATE-EVENT: 1971-11-17
+  :genre: discourse
+  :keywords:
+  :cite-key: upa:3-cs
+  :date-event: 1971-11-17
   :END:
 
 
@@ -314,7 +309,7 @@ Poselstvím upanišad je
 
  My všichni zde jsme hledajícími nekonečné Pravdy. Opravdový hledající není a nemůže být spokojen se svým individuálním životem, individuálními úspěchy a pozemským vlastnictvím. Ne. Může být spokojen jen tehdy, dosáhne-li Absolutního. Co je to Absolutní? Absolutní je Brahman.
 
-Zřeci dávné minulosti nám nabídli toto vznešené poznání: „Brahman nelze ničím omezit, Brahman nelze nijak obsáhnout, Brahman nelze nijak popsat.“ To je ale negativní pohled na Brahman. Existuje také pozitivní pohled, a ten lze vyjádřit takto: „Brahman je věčný, Brahman je nekonečný, Brahman je nesmrtelný. Brahman je za a Za.“ My, hledající nekonečné Pravdy, se budeme držet pozitivního pohledu. Pokud se budeme ve svém životě aspirace držet pozitivního pohledu, budeme moci běžet nejvyšší rychlostí a nejvyššího Cíle dosáhneme dříve.
+Zřeci dávné minulosti nám nabídli toto vznešené poznání: „brahman nelze ničím omezit, brahman nelze nijak obsáhnout, brahman nelze nijak popsat.“ to je ale negativní pohled na brahman. existuje také pozitivní pohled, a ten lze vyjádřit takto: „Brahman je věčný, Brahman je nekonečný, Brahman je nesmrtelný. Brahman je za a Za.“ My, hledající nekonečné Pravdy, se budeme držet pozitivního pohledu. Pokud se budeme ve svém životě aspirace držet pozitivního pohledu, budeme moci běžet nejvyšší rychlostí a nejvyššího Cíle dosáhneme dříve.
 
 Brahman musíme vidět v konečném právě tak, jak si Jej přejeme vidět v Nekonečném. Máme-li však během meditace vizi Brahman jako nekonečného Já, je pro nás snazší vstoupit do relativního světa, kde všechno vidíme jako konečné.
 
@@ -358,7 +353,7 @@ Ale abychom se vrátili ke koni, dnešní člověk nemusí provádět koňskou o
 
 Je jisté, že bez aspirace nemůže být žádná oběť. Aspirace je nezbytná v každém okamžiku. Tato aspirace však musí být skutečná a musí vycházet ze samotných hloubek našeho srdce. Není-li skutečná, nemůže nám dát realizaci. Aspirace nezná netrpělivé pobízení nebo naléhání. Neklid a nervozita nejde nikdy s aspirací dohromady. Začátečníci si velmi často myslí, že pokud aspirují, musí být velmi dynamičtí. To je pravda. V jejich aspiraci však nevidíme dynamiku. To, co pozorujeme, je neklid. Chtějí Boha realizovat přes noc. Pokud považujeme jejich neklid za odhodlání nebo dynamiku, naprosto se mýlíme.
 
-Smím zopakovat často citovaný příběh? Jeden hledající přišel k duchovnímu Mistrovi. Byl náležitě zasvěcen a za několik dnů řekl Mistrovi: „Mistře, teď, když jsi mne zasvětil, dej mi, prosím, realizaci Boha.“ Mistr řekl: „Musíš velmi dlouhou dobu cvičit meditaci.“ Za pár dnů žák řekl: „Mistře, Mistře, dej mi realizaci, dej mi, prosím, realizaci.“ Dlouho Mistra trápil. Jednoho dne jej Mistr požádal, aby šel s ním. Mistr se šel vykoupat do Gangy a pobídl žáka, aby vstoupil do vody za ním. Když byl žák po krk ve vodě, Mistr mu zatlačil hlavu pod vodu a držel ji tam. Když nakonec vzpouzejícího se žáka pustil, zeptal se jej: „Co jsi cítil, když jsi byl pod vodou?“ Žák odpověděl: „Ach, Mistře, cítil jsem, že když se nenadechnu, zemřu.“ Mistr řekl: „Boha realizuješ v den, kdy budeš cítit, že zemřeš, pokud On nepřijde a nedá ti život. Budeš-li upřímně cítit, že bez Boha zemřeš, dokážeš-li po něm takovým způsobem plakat, potom Jej určitě realizuješ.“
+Smím zopakovat často citovaný příběh? Jeden hledající přišel k duchovnímu Mistrovi. Byl náležitě zasvěcen a za několik dnů řekl Mistrovi: „mistře, teď, když jsi mne zasvětil, dej mi, prosím, realizaci boha.“ mistr řekl: „musíš velmi dlouhou dobu cvičit meditaci.“ za pár dnů žák řekl: „mistře, mistře, dej mi realizaci, dej mi, prosím, realizaci.“ dlouho mistra trápil. jednoho dne jej mistr požádal, aby šel s ním. mistr se šel vykoupat do gangy a pobídl žáka, aby vstoupil do vody za ním. když byl žák po krk ve vodě, mistr mu zatlačil hlavu pod vodu a držel ji tam. když nakonec vzpouzejícího se žáka pustil, zeptal se jej: „co jsi cítil, když jsi byl pod vodou?“ Žák odpověděl: „ach, mistře, cítil jsem, že když se nenadechnu, zemřu.“ mistr řekl: „Boha realizuješ v den, kdy budeš cítit, že zemřeš, pokud On nepřijde a nedá ti život. Budeš-li upřímně cítit, že bez Boha zemřeš, dokážeš-li po něm takovým způsobem plakat, potom Jej určitě realizuješ.“
 
 Mistr nabídl žákovi takovouto pravdu. Naneštěstí však velmi často vidíme, že když Mistr nabízí Pravdu, žáci neporozumí. Oni ji chápou podle svého omezeného světla nebo cítí, že poselství, které jim Mistr předal, je naprosto nesprávné. Pokud žák-hledající nepochopí a nepoužije správně Pravdu, kterou Mistr nabízí, nikdy nebude na poli projevení naplněn. Nejvyšší Pravda pro něj vždy zůstane v nedohlednu. 
 
@@ -376,9 +371,9 @@ Na zemi je nemálo duchovních Mistrů, kteří nabízejí své světlo hledají
 * Letmá nahlédnutí do véd a upanišad
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:4-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: upa:4-cs
   :END:
 
 
@@ -415,7 +410,7 @@ Jak objevujeme své zapomenuté Já? Pomocí meditace. Existují různé druhy m
 
 Duchovní Mistři meditují ve fyzickém, ve vitálnu, v mysli, v srdci a v duši svých žáků. Tito Mistři také současně meditují na Nekonečné, Věčné a Nesmrtelné. Pro duchovní Mistry to nejsou neurčité pojmy. Jsou to dynamické skutečnosti, protože skuteční duchovní Mistři ve svém vnitřním vědomí plavou v moři Nekonečnosti, Věčnosti a Nesmrtelnosti. Mohou se snadno koncentrovat, mohou snadno meditovat a kontemplovat na tyto tři božské skutečnosti, které představují Absolutní.
 
-Upanišady vznikly ze čtyř véd: z Rgvédy, Sámavédy, Jadžurvédy a Atharvavédy. Každá véda nabízí lidstvu něco jedinečného. První a nejslavnější je Rgvéda. Začíná u kosmického boha ohně, u Agniho. Oheň znamená aspiraci. Aspirace a poselství véd jsou neoddělitelné. Tento oheň je ohněm vnitřního probuzení, je to vnitřní rostoucí plamen. Nevydává kouř a nic nespaluje; pouze osvěcuje a pozvedá naše vědomí. Bůh ohně je jediný kosmický bůh, který je brahmínem. Agni, oheň, se projevuje v sedmi podobách a má sedm významných vnitřních jmen: Kálí -- černý, Karálí -- hrozný, Manodžava -- rychlý jako myšlenka, Sulohita -- krvavě rudý, Sudhúmravarna -- kouřového odstínu, Sfulinginí -- rozsévající jiskry, Višvaručí -- překrásný /(Mundakópanišad 1.2.4)/.
+Upanišady vznikly ze čtyř véd: z rgvédy, sámavédy, jadžurvédy a atharvavédy. každá véda nabízí lidstvu něco jedinečného. první a nejslavnější je rgvéda. začíná u kosmického boha ohně, u agniho. oheň znamená aspiraci. aspirace a poselství véd jsou neoddělitelné. tento oheň je ohněm vnitřního probuzení, je to vnitřní rostoucí plamen. nevydává kouř a nic nespaluje; pouze osvěcuje a pozvedá naše vědomí. bůh ohně je jediný kosmický bůh, který je brahmínem. agni, oheň, se projevuje v sedmi podobách a má sedm významných vnitřních jmen: Kálí -- černý, Karálí -- hrozný, Manodžava -- rychlý jako myšlenka, Sulohita -- krvavě rudý, Sudhúmravarna -- kouřového odstínu, Sfulinginí -- rozsévající jiskry, Višvaručí -- překrásný /(Mundakópanišad 1.2.4)/.
 
 Kálí, čili černý, není ve skutečnosti černý. Kálí je božská síla nebo oheň uvnitř nás, která bojuje proti nebožským a nepřátelským silám. Matka Kálí bojuje na bitevním poli života proti démonům. Na vitální úrovni ji vidíme jako tmavou, záhadnou Bohyni, avšak na nejvyšší úrovni vědomí je zlatá. Když bojuje proti nepřátelským silám, vidíme její děsivou podobu, ve skutečnosti je však Matkou soucitu. Nechápeme její dynamické vlastnosti -- považujeme je za agresivní. Matka Kálí má soucit v bezmezné míře, zároveň však u hledajícího nebude tolerovat žádnou lenost, nedokonalost, nevědomost nebo netečnost. A konečně -- Matka Kálí je nesrovnatelně krásná. Tato krása není fyzická. Je to vnitřní krása, která pozvedá lidské vědomí na nejvyšší úroveň Blaženosti.
 
@@ -441,10 +436,10 @@ Dostanete-li od duchovního Mistra takovou pomoc, potom může mít váš život
 * Koruna indické duše
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:5-cs
-  :DATE-EVENT: 1971-12-03
+  :genre: discourse
+  :keywords:
+  :cite-key: upa:5-cs
+  :date-event: 1971-12-03
   :END:
 
 
@@ -458,7 +453,7 @@ Každá hlavní upanišada je průvodcem v houštině zkušeností, ze kterých 
 
 Upanišady učí hledajícího, že Blaženost je projevením božské Lásky, Vědomí je projevením síly duše a Bytí je projevením Bytosti. V Blaženosti je Brahman Skutečností. V Lásce je Brahman Božskostí. Ve Vědomí Brahman kontempluje na Vizi dokonalé Dokonalosti. V síle duše se Brahman stává dosažením dokonalé Dokonalosti. V Bytí je Brahman věčný Milovník. V Bytosti je Brahman věčný Milovaný.
 
-Pro realizaci Boha potřebujeme Gurua. Katha upanišada (Kathópanišad 1.2.8) říká: „Hledající nemůže najít svou cestu k Bohu, dokud mu o Něm někdo jiný neřekne.“ Mundaka upanišada (Mundakópanišad 1.2.12) říká: „Hledající se musí pro své vnitřní osvícení obrátit na toho, kdo poznal Já.“ Prašna upanišada (Prašnópanišad 6.8) říká: „Ó Otče, ty jsi nás převezl ke Zlatému Břehu.“ Katha upanišada (Kathópanišad 1.3.14) říká: „Povstaň, probuď se! Naslouchej velkým a následuj je.“ Mundaka upanišada (Mundakópanišad 1.2.12) říká: „Guru je ten, jehož vnějším poznáním je véda a vnitřním poznáním je kontemplace na Brahman.“
+Pro realizaci Boha potřebujeme Gurua. Katha upanišada (Kathópanišad 1.2.8) říká: „hledající nemůže najít svou cestu k bohu, dokud mu o něm někdo jiný neřekne.“ mundaka upanišada (mundakópanišad 1.2.12) říká: „hledající se musí pro své vnitřní osvícení obrátit na toho, kdo poznal já.“ prašna upanišada (prašnópanišad 6.8) říká: „Ó otče, ty jsi nás převezl ke zlatému břehu.“ katha upanišada (kathópanišad 1.3.14) říká: „povstaň, probuď se! naslouchej velkým a následuj je.“ mundaka upanišada (mundakópanišad 1.2.12) říká: „Guru je ten, jehož vnějším poznáním je véda a vnitřním poznáním je kontemplace na Brahman.“
 
 Hledající, který studuje upanišady a vede život sebezkoumání a sebekázně, už není a nemůže být pouhým hercem na jevišti života, ale spíše duchovním výtvarníkem a skutečným božským režisérem. Kromě toho má široká ramena a nevadí mu tíha břemena světa. Cítí, že jeho povinností je utišit krvácející srdce lidstva. Jeho život, to je nezávislost myšlenky a ducha. Zasvěcená služba jeho srdce přijímá Shůry bohatou odměnu. Ovládl svou vlastní životní filozofii, kterou je těšit Božskost v lidstvu.
 
@@ -552,10 +547,10 @@ Síla mysli, síla srdce a síla duše upanišadského vědomí neznají hranic
 * Brahman upanišad
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:6-cs
-  :DATE-EVENT: 1971-12-08
+  :genre: discourse
+  :keywords:
+  :cite-key: upa:6-cs
+  :date-event: 1971-12-08
   :END:
 
 
@@ -677,10 +672,10 @@ Vpřed, vpřed!
 * Gájatrí mantra
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:7-cs
-  :DATE-EVENT: 1971-12-10
+  :genre: discourse
+  :keywords:
+  :cite-key: upa:7-cs
+  :date-event: 1971-12-10
   :END:
   
   
@@ -752,10 +747,10 @@ Gájatrí mantra je božská střelka kompasu. Střelka ukazuje na sever a loď 
 * Počátek cesty, konec cesty
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:8-cs
-  :DATE-EVENT: 1972-01-26
+  :genre: discourse
+  :keywords:
+  :cite-key: upa:8-cs
+  :date-event: 1972-01-26
   :END:
 
 
@@ -777,7 +772,7 @@ Poselství všech upanišad můžeme shrnout do dvou slov: aspirace a projeven�
 
 Každá duše potřebuje involuci a evoluci. Když duše sestupuje, jde o involuci duše. Když duše stoupá, jde o evoluci duše. Duše vstupuje do nejhlubší propasti nevědomí. Poté se znovu vyvíjí do trojího vědomí -- /Sat-Čit-Ánanda/ -- Bytí, Vědomí, Blaženosti.
 
-Duše vstupuje do nevědomí. Miliony let zde setrvává v hlubokém spánku. Potom jednoho dne, znenadání, jiskra vědomí neustále překonávajícího Za otevře duši oči a udeří hodina pátrání po sobě samém. „Kdo jsem?“ zeptá se. Odpověď zní: /Tat twam asi/ (Čhándógjópanišad VI.8.7ff), „Ty jsi To.“ Duše je rozechvělá. Potom znovu hluboce usne. Opět upadne do sebezapomnění. Po nějaké době vyvstanou další otázky: 
+Duše vstupuje do nevědomí. Miliony let zde setrvává v hlubokém spánku. Potom jednoho dne, znenadání, jiskra vědomí neustále překonávajícího Za otevře duši oči a udeří hodina pátrání po sobě samém. „Kdo jsem?“ zeptá se. Odpověď zní: /tat twam asi/ (Čhándógjópanišad vi.8.7ff), „ty jsi to.“ duše je rozechvělá. potom znovu hluboce usne. opět upadne do sebezapomnění. po nějaké době vyvstanou další otázky: 
 
 Čí jsem? 
    Jsem Toho.
@@ -816,10 +811,10 @@ V lidském poznání je Bůh v našem nitru aspirací a realizací spoutanou 
 * Život a smrt, Átman a Paramátman
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:9-cs
-  :DATE-EVENT: 1972-02-09
+  :genre: discourse
+  :keywords:
+  :cite-key: upa:9-cs
+  :date-event: 1972-02-09
   :END:
 
 
@@ -827,9 +822,9 @@ Upanišady pocházejí z véd. Obsahují záznamy o věčných Pravdách. Tyto
 
 Život je problém. Stejně tak i smrt. Aspirující Árijci dávné minulosti chtěli tyto dva problémy vyřešit. Brzy pochopili, že smysly jim v řešení těchto dvou zásadních problémů téměř nedokážou pomoci. Pochopili, že problémy života a smrti může jednou provždy vyřešit jedině poznání nejzazší Skutečnosti.
 
-Znenadání se objevili dva božští vojáci. Nikdo neví, odkud přišli. Tito dva vojáci byli inspirace a aspirace. První voják, inspirace, jim poručil: „Zanechte zkoumání těla.“ Ihned jej poslechli. Druhý voják, aspirace, jim poručil: „Začněte studovat duši.“ Ihned jej poslechli. A hle -- Král a Královna ze Zlatého břehu Za sami ověnčili ty, již hledali, spatřili a poznali Světlo a Pravdu.
+Znenadání se objevili dva božští vojáci. Nikdo neví, odkud přišli. Tito dva vojáci byli inspirace a aspirace. První voják, inspirace, jim poručil: „zanechte zkoumání těla.“ ihned jej poslechli. druhý voják, aspirace, jim poručil: „Začněte studovat duši.“ Ihned jej poslechli. A hle -- Král a Královna ze Zlatého břehu Za sami ověnčili ty, již hledali, spatřili a poznali Světlo a Pravdu.
 
-Co vlastně upanišady říkají? Když se zeptáte západního hledajícího, ihned vám odpoví: „To je velmi jednoduché. Říkají, abychom se posadili k nohám Mistra a učili se.“ Zeptáte-li se na totéž východního hledajícího, tiše vám odpoví: „To je velmi těžké. Říkají, abychom přeměnili lidskou temnotu na božské Světlo.“ Západní i východní hledající mají oba naprostou pravdu. Bez Mistra nelze objevit transcendentální Skutečnost. Bez přeměny temnoty nelze na zemi projevit Božskost.
+Co vlastně upanišady říkají? Když se zeptáte západního hledajícího, ihned vám odpoví: „to je velmi jednoduché. Říkají, abychom se posadili k nohám mistra a učili se.“ zeptáte-li se na totéž východního hledajícího, tiše vám odpoví: „To je velmi těžké. Říkají, abychom přeměnili lidskou temnotu na božské Světlo.“ Západní i východní hledající mají oba naprostou pravdu. Bez Mistra nelze objevit transcendentální Skutečnost. Bez přeměny temnoty nelze na zemi projevit Božskost.
 
 Kdo potřebuje Pravdu? Hledající. Kdy Pravdy dosáhne? Pravdy dosáhne v okamžiku, kdy se stane odevzdaným a božským milovníkem.
 
@@ -868,10 +863,10 @@ Mysl, s pomocí těla, vytváří otroctví. Srdce, s pomocí duše, nabízí 
 * Bytí, nebytí a Zdroj
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:10-cs
-  :DATE-EVENT: 1972-02-11
+  :genre: discourse
+  :keywords:
+  :cite-key: upa:10-cs
+  :date-event: 1972-02-11
   :END:
 
 
@@ -879,13 +874,13 @@ V indické filozofii se velmi často setkáváme se dvěma pojmy -- /sat/ a /a
 
 Bytí je opatrováno aspirujícím vědomím a Boží vlastní nejvyšší Skutečností. Skutečnost a bytí musí jít ruku v ruce. Skutečnost není možná bez bytí a bytí bez Skutečnosti je absurdní. Božská Skutečnost a božské Bytí jdou vždy ruku v ruce.
 
-Bytí projevuje samo sebe jedině prostřednictvím Pravdy. Tato Pravda poráží všechno nepravdivé. Motto Indie zní: „/Satyam eva jayate/“ (Mundakópanišad 3.1.6), což znamená: „Pravda jediná vítězí“. Co je tato Pravda? Je to současně Hloubka Božího Srdce i Výška Boží Hlavy.
+Bytí projevuje samo sebe jedině prostřednictvím Pravdy. Tato Pravda poráží všechno nepravdivé. Motto Indie zní: „/satyam eva jayate/“ (mundakópanišad 3.1.6), což znamená: „Pravda jediná vítězí“. Co je tato Pravda? Je to současně Hloubka Božího Srdce i Výška Boží Hlavy.
 
 Pravda je naším vnitřním slibem. Naším vnitřním slibem, slibem naší duše, je realizovat v této inkarnaci Boha, nikoli za každou cenu, nýbrž pod řádným vedením duchovního Mistra, protože cítíme, že právě toto chce Nejvyšší uvnitř nás. S jakým cílem? Abychom Mu potom mohli sloužit Způsobem Jemu vlastním.
 
-Nejvyšší způsob, jak cítit tuto Pravdu, znamená říci: „Pokud On nechce, abych Jej realizoval v této inkarnaci, ale v nějaké budoucí inkarnaci, jsem zcela připraven řídit se Jeho rozhodnutím.“ Hledající však musí mít dynamický postoj. Když jen řekne: „Ach, já budu hrát svou roli. Budu milý, upřímný, pravdomluvný a poslušný, a až přijde čas, On to všechno udělá,“ tehdy začne odpočívat. Velmi často, když říkáme: „Já budu hrát svou roli a Bůh se postará o mou realizaci,“ Bůh opravdu starost o naši realizaci převezme. Jestliže ale cítíme, že Bohu doopravdy pomůžeme, když realizujeme co nejdříve, potom své realizace určitě dosáhneme dříve.
+Nejvyšší způsob, jak cítit tuto Pravdu, znamená říci: „pokud on nechce, abych jej realizoval v této inkarnaci, ale v nějaké budoucí inkarnaci, jsem zcela připraven řídit se jeho rozhodnutím.“ hledající však musí mít dynamický postoj. když jen řekne: „ach, já budu hrát svou roli. budu milý, upřímný, pravdomluvný a poslušný, a až přijde čas, on to všechno udělá,“ tehdy začne odpočívat. velmi často, když říkáme: „Já budu hrát svou roli a Bůh se postará o mou realizaci,“ Bůh opravdu starost o naši realizaci převezme. Jestliže ale cítíme, že Bohu doopravdy pomůžeme, když realizujeme co nejdříve, potom své realizace určitě dosáhneme dříve.
 
-Lidstvu můžeme opravdu posloužit jedině tehdy, pokud máme Mír, Světlo a Blaženost. Myšlenka realizace Boha v Boží vybranou Hodinu musí vzejít z hloubky našeho srdce, a ne z našeho intelektuálního poznání. Naneštěstí obvykle ze srdce nepřichází; přichází pouze z naší chytré mysli, která říká: „Četl jsem v knihách a slyšel od Mistra, že pokud nebudu od Boha nic chtít, dá mi všechno.“ Je lepší modlit se k Bohu pro mír mysli, abyste mohli spatřit Pravdu v její úplnosti. Žádat Boha o mír mysli není zločin. Pokud nebudete mít mír mysli, potom můžete být kdekoliv -- v metru, v přírodě nebo na Times Square, ale Bůh tam pro vás nebude. Bůh nám dal určitou inteligenci. Když ráno řeknete: „Bože, je na Tobě, jestli budu jíst, nebo ne. Prostě zůstanu v posteli,“ Bůh vám nepřijde vložit jídlo do úst. Ne, Bůh vám dal inteligenci nezbytnou k tomu, abyste pochopili, že musíte vynaložit nějaké úsilí. Musíte vlastním úsilím vstát z postele, osprchovat se a nasnídat.
+Lidstvu můžeme opravdu posloužit jedině tehdy, pokud máme Mír, Světlo a Blaženost. Myšlenka realizace Boha v Boží vybranou Hodinu musí vzejít z hloubky našeho srdce, a ne z našeho intelektuálního poznání. Naneštěstí obvykle ze srdce nepřichází; přichází pouze z naší chytré mysli, která říká: „Četl jsem v knihách a slyšel od mistra, že pokud nebudu od boha nic chtít, dá mi všechno.“ je lepší modlit se k bohu pro mír mysli, abyste mohli spatřit pravdu v její úplnosti. Žádat boha o mír mysli není zločin. pokud nebudete mít mír mysli, potom můžete být kdekoliv -- v metru, v přírodě nebo na times square, ale bůh tam pro vás nebude. bůh nám dal určitou inteligenci. když ráno řeknete: „Bože, je na Tobě, jestli budu jíst, nebo ne. Prostě zůstanu v posteli,“ Bůh vám nepřijde vložit jídlo do úst. Ne, Bůh vám dal inteligenci nezbytnou k tomu, abyste pochopili, že musíte vynaložit nějaké úsilí. Musíte vlastním úsilím vstát z postele, osprchovat se a nasnídat.
 
 Chcete-li mít ve svém vnitřním životě čistotu, pokoru, mír mysli a ostatní božské vlastnosti, musíte vynaložit určité úsilí. Je sice pravda, že pokud se k Bohu nebudete za nic modlit, dá vám vše, ale tuto skutečnost je třeba chápat na nejvyšší úrovni. Jak můžete od Boha očekávat, že vám dá všechno, když se k Němu nemodlíte, neusilujete o Jeho realizaci ani na Něj nemyslíte? Dá vám všechno na základě vaší naprosté víry v Něj a na základě vašeho upřímného vnitřního pláče.
 
@@ -911,9 +906,9 @@ Upanišadští zřeci přebývají uvnitř nás. Nepotřebují uznání ani obdi
 * Plamenné vlny z moře upanišad, část I.
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: UPA:11e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: upa:11e1-cs
   :END:
   
 
@@ -921,10 +916,10 @@ Upanišadští zřeci přebývají uvnitř nás. Nepotřebují uznání ani obdi
 * I 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:11-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:11-cs
+  :date-event: 1972-02-18
   :END:
 
 #+BEGIN_QUOTE
@@ -952,10 +947,10 @@ Potřebujeme osvícení -- zde je odpověď. Transcendentální osvícení pře
 * II 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:12-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:12-cs
+  :date-event: 1972-02-18
   :END:
 
 #+BEGIN_QUOTE
@@ -984,10 +979,10 @@ Nekonečno je naplněné Tělo Nejvyššího Cíle.
 * III 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:13-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:13-cs
+  :date-event: 1972-02-18
   :END:
   
 #+BEGIN_QUOTE
@@ -1021,10 +1016,10 @@ Nesmrtelnost -- kde je ten lev? Jeho řev je slyšet všude vůkol.
 * IV 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:14-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:14-cs
+  :date-event: 1972-02-18
   :END:
 
 
@@ -1054,10 +1049,10 @@ Jako pradědeček člověka se duše ustavičně těší z odpočinku.
 * V 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:15-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:15-cs
+  :date-event: 1972-02-18
   :END:
 
 
@@ -1085,10 +1080,10 @@ Po naší realizaci sytíme hlad duše této Velké Bytosti.
 * VI 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:16-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:16-cs
+  :date-event: 1972-02-18
   :END:
 
 
@@ -1114,10 +1109,10 @@ Realizujeme-li Pravdu, obejmeme Boha navždy.
 * VII 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:17-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:17-cs
+  :date-event: 1972-02-18
   :END:
 
 
@@ -1144,10 +1139,10 @@ Brhaspati obsahuje proudící život bohů a uchovává zářící lásku člov
 * VIII 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:18-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:18-cs
+  :date-event: 1972-02-18
   :END:
 
 
@@ -1178,10 +1173,10 @@ Boží Láska je svobodou pro náš život.
 * IX 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:19-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:19-cs
+  :date-event: 1972-02-18
   :END:
 
 
@@ -1212,10 +1207,10 @@ Světlo je naplněný Bůh.
 * X 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:20-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:20-cs
+  :date-event: 1972-02-18
   :END:
 
 
@@ -1244,10 +1239,10 @@ Bůh napsal svým lidským dětem otevřený dopis. V dopisu stálo:
 * XI 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:21-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:21-cs
+  :date-event: 1972-02-18
   :END:
 
 
@@ -1273,10 +1268,10 @@ Srdce Pravdy nás utváří.
 * XII 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:22-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:22-cs
+  :date-event: 1972-02-18
   :END:
 
 
@@ -1309,10 +1304,10 @@ a bude zářit po celou Věčnost.
 * XIII 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:23-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:23-cs
+  :date-event: 1972-02-18
   :END:
 
 
@@ -1338,10 +1333,10 @@ Bůh je věčně hrdý na člověka, protože ztělesňuje Boží Nesmrtelnost.
 * XIV 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:24-cs
-  :DATE-EVENT: 1972-02-18
+  :genre: poem
+  :keywords:
+  :cite-key: upa:24-cs
+  :date-event: 1972-02-18
   :END:
 
 
@@ -1374,19 +1369,19 @@ Můj sladký návrat do mého věčného domova mi dá pocítit, jaké mám št�
 * Plamenné vlny z moře upanišad, část II.
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: UPA:25e2-cs
+  :genre: section
+  :keywords:
+  :cite-key: upa:25e2-cs
   :END:
 
 
 * I 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:25-cs
-  :DATE-EVENT: 1972-02-28
+  :genre: poem
+  :keywords:
+  :cite-key: upa:25-cs
+  :date-event: 1972-02-28
   :END:
 
 #+BEGIN_QUOTE
@@ -1419,10 +1414,10 @@ V našich modlitbách a poklonách přebývá Bůh -- osvěcující Spasitel.
 * II 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:26-cs
-  :DATE-EVENT: 1972-02-28
+  :genre: poem
+  :keywords:
+  :cite-key: upa:26-cs
+  :date-event: 1972-02-28
   :END:
 
 
@@ -1449,10 +1444,10 @@ Komentář:
 * III 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:27-cs
-  :DATE-EVENT: 1972-02-28
+  :genre: poem
+  :keywords:
+  :cite-key: upa:27-cs
+  :date-event: 1972-02-28
   :END:
 
 
@@ -1484,10 +1479,10 @@ Blaženost bez Nekonečna je jako Stvořitel bez stvoření. Vskutku, i to je ne
 * IV 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:28-cs
-  :DATE-EVENT: 1972-02-28
+  :genre: poem
+  :keywords:
+  :cite-key: upa:28-cs
+  :date-event: 1972-02-28
   :END:
 
 
@@ -1516,10 +1511,10 @@ Vnitřní slunce nám umožňuje spatřit to, čím věčně jsme: Nekonečným 
 * V 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:29-cs
-  :DATE-EVENT: 1972-02-28
+  :genre: poem
+  :keywords:
+  :cite-key: upa:29-cs
+  :date-event: 1972-02-28
   :END:
 
 
@@ -1547,10 +1542,10 @@ Silný aspirant je Bůh ve své projevující realizaci.
 * VI 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:30-cs
-  :DATE-EVENT: 1972-02-28
+  :genre: poem
+  :keywords:
+  :cite-key: upa:30-cs
+  :date-event: 1972-02-28
   :END:
 
 
@@ -1581,10 +1576,10 @@ a odhalený Život vesmíru.
 * VII 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:31-cs
-  :DATE-EVENT: 1972-02-28
+  :genre: poem
+  :keywords:
+  :cite-key: upa:31-cs
+  :date-event: 1972-02-28
   :END:
 
 
@@ -1610,10 +1605,10 @@ Nevědomost je poznání fyzické mysli. Poznání je tajemstvím duše. Když f
 * VIII 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:32-cs
-  :DATE-EVENT: 1972-02-28
+  :genre: poem
+  :keywords:
+  :cite-key: upa:32-cs
+  :date-event: 1972-02-28
   :END:
 
 
@@ -1648,10 +1643,10 @@ Slyšet příznivé věci znamená vzývat Boha-Inspiraci a Boha--Aspiraci. Vid
 * Filozofie, náboženství,duchovnost a Jóga upanišad
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:33-cs
-  :DATE-EVENT: 1972-03-01
+  :genre: discourse
+  :keywords:
+  :cite-key: upa:33-cs
+  :date-event: 1972-03-01
   :END:
 
 
@@ -1698,7 +1693,7 @@ Po smrti je život Božím vnitřním Ujištěním. Toto Boží Ujištění pozo
 
 Když studujeme upanišady, začínáme u soustředění mysli. Soustředění mysli je nejobtížnější věc, na kterou můžeme vůbec pomyslet. Víme, co je mysl, víme, co je soustředění, avšak pokud jde o soustředění mysli, je to mimořádně těžké.
 
-Jednou přišli duchovní hledající ke svému Mistrovi a řekli: „Mistře, meditujeme už tolik let -- deset dlouhých let. Jak to, že nedokážeme ovládnout svou mysl?“ Mistr řekl: „Mé děti, realizace Boha není tak snadná. Kdyby byla snadná, touto dobou už byste svou mysl ovládali. To je samo o sobě důkaz, že realizace Boha je mimořádně obtížná. Mysl považujeme za svůj nejlepší nástroj, za nejvyvinutější součást lidského života. Pohleďte však na její bezmocnost.“ Potom pokračoval: „Teď stojíte všichni přede mnou. Co se stane, když někdo z vás vyšplhá na ramena jednoho ze svých duchovních bratrů? Bude podrážděný, rozzlobí se. Bude pošlapána jeho hrdost. On je také lidská bytost. Jak to, že si někdo dovoluje šplhat mu na ramena? To stejné se stává mysli. Když je rozvířena našimi myšlenkami -- nízkými, nebožskými a nehezkými myšlenkami  -- nedovolí nám, abychom se ztišili a zklidnili k meditaci na Boha.“
+Jednou přišli duchovní hledající ke svému Mistrovi a řekli: „mistře, meditujeme už tolik let -- deset dlouhých let. jak to, že nedokážeme ovládnout svou mysl?“ mistr řekl: „mé děti, realizace boha není tak snadná. kdyby byla snadná, touto dobou už byste svou mysl ovládali. to je samo o sobě důkaz, že realizace boha je mimořádně obtížná. mysl považujeme za svůj nejlepší nástroj, za nejvyvinutější součást lidského života. pohleďte však na její bezmocnost.“ potom pokračoval: „Teď stojíte všichni přede mnou. Co se stane, když někdo z vás vyšplhá na ramena jednoho ze svých duchovních bratrů? Bude podrážděný, rozzlobí se. Bude pošlapána jeho hrdost. On je také lidská bytost. Jak to, že si někdo dovoluje šplhat mu na ramena? To stejné se stává mysli. Když je rozvířena našimi myšlenkami -- nízkými, nebožskými a nehezkými myšlenkami  -- nedovolí nám, abychom se ztišili a zklidnili k meditaci na Boha.“
 
 Mysl má božský původ, mysl je sama o sobě božská. Nyní však naneštěstí používáme fyzickou mysl, která nám na naší cestě vzhůru nemůže vůbec pomoci. Tato mysl ať už vědomě, nebo nevědomě přijala tři nebožské přátele: strach, pochybnost a žárlivost. Na začátku této přednášky jsem řekl, že filozofií upanišad je rozlehlost mysli. Když se před fyzickou myslí chce objevit rozlehlost, mysl se vyděsí k smrti. Bojí se rozlehlosti. 
 
@@ -1706,9 +1701,9 @@ Potom se podívá na vlastní nedostatečnost, na své omezené schopnosti, a �
 
 S pomocí filozofie, náboženství, duchovnosti a jógy se musíme dostat za panství fyzické mysli. Hledající mysl působí ve filozofii. Plačící srdce působí v náboženství. Osvěcující duše působí v duchovnosti. Naplňující Cíl působí v Józe.
 
-K Cíli se lze přibližovat dvěma způsoby: pomocí mysli a pomocí srdce. Cesta mysli není bezpečná, není spolehlivá. Člověk však nakonec Cíle dosáhne. Přistupujete-li k Bohu prostřednictvím mysli, neznamená to, že Jej nerealizujete. Vy Jej realizujete, ale je to svízelná cesta. Můžete pochybovat o své aspiraci, můžete pochybovat o Božím Soucitu, který k vám Bůh chová. Dosažení Cíle vám proto může trvat stovky a tisíce let. Naproti tomu přístup srdce je jistý a spolehlivý. Můžete udělat jednu ze dvou věcí: buď se ztotožnit s Nejvyšším Kormidelníkem, s Věčným Milovaným, nebo odevzdat každou vteřinu svého bytí Vnitřnímu Kormidelníkovi. Musíme se buď naprosto ztotožnit s Vůlí Vnitřního Kormidelníka, nebo se musíme Vnitřnímu Kormidelníkovi úplně a nepodmíněně odevzdat. Pokud přistupujeme k Bohu jedním z těchto dvou způsobů, ihned pocítíme Jeho Nekonečnost, Věčnost, Božskost a Nesmrtelnost jako svoje vlastní.
+K Cíli se lze přibližovat dvěma způsoby: pomocí mysli a pomocí srdce. cesta mysli není bezpečná, není spolehlivá. Člověk však nakonec cíle dosáhne. přistupujete-li k bohu prostřednictvím mysli, neznamená to, že jej nerealizujete. vy jej realizujete, ale je to svízelná cesta. můžete pochybovat o své aspiraci, můžete pochybovat o božím soucitu, který k vám bůh chová. dosažení cíle vám proto může trvat stovky a tisíce let. naproti tomu přístup srdce je jistý a spolehlivý. můžete udělat jednu ze dvou věcí: buď se ztotožnit s Nejvyšším Kormidelníkem, s Věčným Milovaným, nebo odevzdat každou vteřinu svého bytí Vnitřnímu Kormidelníkovi. Musíme se buď naprosto ztotožnit s Vůlí Vnitřního Kormidelníka, nebo se musíme Vnitřnímu Kormidelníkovi úplně a nepodmíněně odevzdat. Pokud přistupujeme k Bohu jedním z těchto dvou způsobů, ihned pocítíme Jeho Nekonečnost, Věčnost, Božskost a Nesmrtelnost jako svoje vlastní.
 
-Následujeme-li krok za krokem poselství upanišad, začneme-li nejprve filozofií, potom náboženstvím, duchovností a nakonec Jógou, realizace Boha nemusí zůstat a také nezůstane daleko. Objevení Boha je naším rodným právem. Chceme-li opravdu objevit Boha, můžeme začít od samotného začátku: od filozofie k náboženství, přes duchovnost až k Józe. Až naplníme požadavky filozofie, náboženství, duchovnosti a Jógy, Bůh naplní všechny naše požadavky. Požadavky upanišad jsou velmi prosté: aspirace a sebeovládání. Našimi požadavky jsou dary od Boha: mír, světlo, blaženost a síla.
+Následujeme-li krok za krokem poselství upanišad, začneme-li nejprve filozofií, potom náboženstvím, duchovností a nakonec Jógou, realizace Boha nemusí zůstat a také nezůstane daleko. Objevení Boha je naším rodným právem. Chceme-li opravdu objevit Boha, můžeme začít od samotného začátku: od filozofie k náboženství, přes duchovnost až k józe. až naplníme požadavky filozofie, náboženství, duchovnosti a jógy, bůh naplní všechny naše požadavky. požadavky upanišad jsou velmi prosté: aspirace a sebeovládání. našimi požadavky jsou dary od boha: mír, světlo, blaženost a síla.
 
 Máme opravdu zájem o Boží dary? Pokud opravdu máme o Boží dary zájem, Bůh nám nabídne schopnost Jeho nekonečné bohatství přijmout. Chceme-li v normálním životě od nějakého člověka nějakou věc, nedá nám schopnost ji přijmout. Bude vyžadovat naši vlastní. Pokud máme dostatek schopností a pracujeme jeden den, zaměstnavatel nám dá výplatu. V duchovním životě však Bůh chce vědět, zda opravdu chceme výplatu -- mír, světlo a blaženost. Pokud ji chceme, potom nás On Sám naplní energií a On Sám se stane naší aspirací a sebeovládáním. Bude pracovat uvnitř nás a naším prostřednictvím. Bude v nás působit jako hledající a zároveň jako náš Kormidelník. On Sám bude zaměstnancem a Zaměstnavatelem. Jestliže opravdu chceme Boha, Bůh bude hrát obě role. Bude Dárcem i příjemcem. Bude hledajícím i Dávajícím. 
 
@@ -1716,20 +1711,3 @@ Máme opravdu zájem o Boží dary? Pokud opravdu máme o Boží dary zájem, 
 /Amherst, Massachusetts/
 
 /1. března 1972/
-
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

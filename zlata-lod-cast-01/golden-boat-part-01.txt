@@ -1,20 +1,15 @@
-#+TITLE: Zlatá loď, část 01
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Zlatá loď, část 01
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:  Nil
-  :YEAR:  2014
-  :PUBLISHER:  (knižně nevydáno)
-  :CITE-KEY: GB-1-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition:  Nil
+  :year:  2014
+  :publisher:  (knižně nevydáno)
+  :cite-key: GB-1-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * 1 NEVĚŘ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:1-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:1-cs
   :END:
 
 
@@ -64,9 +59,9 @@ Nevěř letargii.
 * 2 KDYŽ JSEM ZKOUMAL 
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:2-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:2-cs
   :END:
 
 
@@ -94,9 +89,9 @@ v mém pláči.
 * 3 PÍSNĚ LÁSKY
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:3-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:3-cs
   :END:
 
 
@@ -121,9 +116,9 @@ Božská láska je Dokonalostí Nesmrtelnosti.
 * 4 PÍSNĚ SÍLY
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:4-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:4-cs
   :END:
 
 
@@ -149,9 +144,9 @@ ne-li mé projevení jednoty s dokonalostí Boha?
 * 5 MÉ ČTYŘI BODY
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:5-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:5-cs
   :END:
 
 
@@ -171,9 +166,9 @@ Odevzdání bude můj vždy přesahující bod.
 * 6 PÍSNĚ ROZŠÍŘENÍ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:6-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:6-cs
   :END:
 
 
@@ -201,9 +196,9 @@ a sebe Stoupence Boha.
 
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:7-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:7-cs
   :END:
 
 
@@ -230,9 +225,9 @@ Budu naplňovat jen tebe.
 * 8 PÍSNĚ ČLENŮ MÉ VNITŘNÍ RODINY
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:8-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:8-cs
   :END:
 
 
@@ -259,9 +254,9 @@ plodu mého těla.
 * 9 PÍSNĚ PŘIJETÍ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:9-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:9-cs
   :END:
 
 
@@ -286,9 +281,9 @@ se slzami duše mé dokonalosti.
 * 10 BĚDA
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:10-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:10-cs
   :END:
 
 
@@ -311,9 +306,9 @@ Má sloužící duše a můj naplňěný Cíl.
 * 11 SVĚT MÉ TOUHY A SVĚT MÉ ASPIRACE
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:11-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:11-cs
   :END:
 
 
@@ -339,9 +334,9 @@ v uvědomění si jednoty.
 * 12 PŘENESL SE ZA
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:12-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:12-cs
   :END:
 
 
@@ -372,9 +367,9 @@ a skutečností Nesmrtelnosti.
 * 13 MOŽNOSTI
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:13-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:13-cs
   :END:
 
 
@@ -402,9 +397,9 @@ Boží Království.
 * 14 BRATŘE, VARUJI TĚ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:14-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:14-cs
   :END:
 
 
@@ -439,9 +434,9 @@ tě nikdy neobejme.
 * 15 MLUV A NEMLUV
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:15-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:15-cs
   :END:
 
 
@@ -469,9 +464,9 @@ Strach oslabí tvůj pokrok.
 * 16 ČTYŘI POSELSTVÍ ZE ČTYŘ SVĚTŮ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:16-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:16-cs
   :END:
 
 
@@ -495,9 +490,9 @@ Svět Nejvyššího mi dal toto poselství:
 * 17 LEKCE POCHYBNOSTI,…
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:17-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:17-cs
   :END:
 
 
@@ -522,9 +517,9 @@ a věčně vhodná.
 
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:18-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:18-cs
   :END:
 
 
@@ -560,9 +555,9 @@ a nanejvýše.
 * 19 VEJDI
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:19-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:19-cs
   :END:
 
 
@@ -590,9 +585,9 @@ zrychlí dokonalost mého života.
 * 20 NETRAP SE, MŮJ PŘÍTELI
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:20-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:20-cs
   :END:
 
 
@@ -624,9 +619,9 @@ zůstanu s tvým pokoušeným tělem.
 * 21 NEPŘIBLIŽUJ SE K NĚMU
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:21-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:21-cs
   :END:
 
 
@@ -654,9 +649,9 @@ všechnu svou nedotčenou čistotu.
 * 22 ODMÍTÁM
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:22-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:22-cs
   :END:
 
 
@@ -684,9 +679,9 @@ protože je příliš pomalá.
 * 23 NIKDO
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:23-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:23-cs
   :END:
 
 
@@ -715,9 +710,9 @@ jak dobrý jsi.
 * 24 Z MÉ STRANY
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:24-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:24-cs
   :END:
 
 
@@ -747,9 +742,9 @@ je tancem ničení frustrací.
 * 25 TVŮJ NEVÍTANÝ HOST
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:25-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:25-cs
   :END:
 
 
@@ -781,9 +776,9 @@ Jsi Jeho Vším.
 * 26 ŽÁDNÝ ROZDÍL
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:26-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:26-cs
   :END:
 
 
@@ -805,9 +800,9 @@ a Tichem Himalájí.
 * 27 MÁ VNĚJŠÍ ŠKOLA A MÁ VNITŘNÍ ŠKOLA
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:27-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:27-cs
   :END:
 
 
@@ -831,9 +826,9 @@ a dokonalostí skutečnosti.
 * 28 PŘIPOUTÁNÍ, LÁSKA A JEDNOTA
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:28-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:28-cs
   :END:
 
 
@@ -858,9 +853,9 @@ je věčně překvapující.
 * 29 TANEC OČEKÁVÁNÍ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:29-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:29-cs
   :END:
 
 
@@ -888,9 +883,9 @@ svým nejlepším přítelem.
 * 30 JSI VELKÝ, JSI DOBRÝ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:30-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:30-cs
   :END:
 
 
@@ -916,9 +911,9 @@ Proto jsi nanejvýš dobrým.
 * 31 ČISTOTA
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:31-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:31-cs
   :END:
 
 
@@ -942,9 +937,9 @@ Záplavu Čistoty.
 * 32 MÁ VÝZVA
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:32-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:32-cs
   :END:
 
 
@@ -967,9 +962,9 @@ a mou smělou výzvou nejvyšší.
 * 33 PROTOŽE
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:33-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:33-cs
   :END:
 
 
@@ -994,9 +989,9 @@ Nezapomeň na toto velmi užitečné objevení.
 * 34 VĚŘ TOMU NEBO NE
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:34-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:34-cs
   :END:
 
 
@@ -1026,9 +1021,9 @@ a Univerzální Tělo.
 * 35 BŮH SCHÁZÍ DOLŮ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:35-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:35-cs
   :END:
 
 
@@ -1055,9 +1050,9 @@ odevzdání milujícího.
 * 36 VĚŘ JIM
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:36-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:36-cs
   :END:
 
 
@@ -1090,9 +1085,9 @@ Věř jim.
 * 37 PROČ MILUJI
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:37-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:37-cs
   :END:
 
 
@@ -1126,9 +1121,9 @@ bezpodmínečně miluje.
 * 38 BĚDA
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:38-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:38-cs
   :END:
 
 
@@ -1155,9 +1150,9 @@ a můj Zlatý Břeh.
 * 39 BŮH ZDOKONALUJE SÁM SEBE
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:39-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:39-cs
   :END:
 
 
@@ -1181,9 +1176,9 @@ Bůh zdokonaluje sám sebe.
 * 40 ZŮSTANU STEJNÝ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:40-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:40-cs
   :END:
 
 
@@ -1212,9 +1207,9 @@ v Srdci lidstva.
 * 41 JSEM ZNECHUCEN
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:41-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:41-cs
   :END:
 
 
@@ -1248,9 +1243,9 @@ tvou zbytečností.
 * 42 NEZAPOMEŇ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:42-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:42-cs
   :END:
 
 
@@ -1278,9 +1273,9 @@ na tuto věčně významnou skutečnost.
 * 43 KDE JE ZEMĚ ZASLÍBENÁ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:43-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:43-cs
   :END:
 
 
@@ -1305,9 +1300,9 @@ na Zemi.
 * 44 KDYŽ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:44-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:44-cs
   :END:
 
 
@@ -1334,9 +1329,9 @@ v člověku.
 * 45 VĚŘIT NEBO NEVĚŘIT
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:45-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:45-cs
   :END:
 
 
@@ -1363,9 +1358,9 @@ jako lákaný host.
 * 46 MÉ DVĚ SLUNCE
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:46-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:46-cs
   :END:
 
 
@@ -1395,9 +1390,9 @@ jsi příliš pomalé.
 * 47 ZVÍŘECÍ, LIDSKÉ A BOŽSKÉ VE MNĚ
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:47-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:47-cs
   :END:
 
 
@@ -1421,9 +1416,9 @@ chce žít pro Boha.
 * 48 ŽIL, ŽIJE A BUDE ŽÍT
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:48-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:48-cs
   :END:
 
 
@@ -1452,9 +1447,9 @@ Nikdo na něj nebude ani myslet.
 * 49 BYLA DOBA
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:49-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:49-cs
   :END:
 
 
@@ -1476,9 +1471,9 @@ a můj život služby je mou ochranou.
 * 50 NIKDY SE NEOBÁVÁM
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: GB:50-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: gb:50-cs
   :END:
 
 
@@ -1499,16 +1494,3 @@ neustále mě miluje,
 bezúnavně mě zdokonaluje. 
 
 #+END_VERSE
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

@@ -1,20 +1,15 @@
-#+TITLE: Pravý žák
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Pravý žák
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 1998
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: TD-cs 
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 1998
+  :publisher: Madal Bal
+  :cite-key: TD-cs 
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * 1 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:1-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:1-cs
   :END:
 
 
@@ -40,9 +35,9 @@ se svým Mistrem.
 * 2 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:2-cs
   :END:
 
 
@@ -58,9 +53,9 @@ Mistrova srdce.
 * 3 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:3-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:3-cs
   :END:
 
 
@@ -76,9 +71,9 @@ usmívá-li se oko Mistra.
 * 4 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:4-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:4-cs
   :END:
 
 
@@ -94,9 +89,9 @@ pláče-li srdce Mistra.
 * 5 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:5-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:5-cs
   :END:
 
 
@@ -112,9 +107,9 @@ odpovědnosti za přeměnu světa.
 * 6 PRAVÝ žák miluje rovným dílem...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:6-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:6-cs
   :END:
 
 
@@ -131,9 +126,9 @@ blaženost jeho nejrychlejšího pokroku.
 * 7 Mistr ví, že jeho PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:7-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:7-cs
   :END:
 
 
@@ -150,9 +145,9 @@ v kteroukoliv hodinu.
 * 8 PRAVÝ žák chce,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:8-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:8-cs
   :END:
 
 
@@ -169,9 +164,9 @@ a hromových kopanců jeho Mistra.
 * 9 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:9-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:9-cs
   :END:
 
 
@@ -187,9 +182,9 @@ odolný proti nejistotě srdce.
 * 10 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:10-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:10-cs
   :END:
 
 
@@ -205,9 +200,9 @@ odolný proti žárlivosti mysli.
 * 11 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:11-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:11-cs
   :END:
 
 
@@ -223,9 +218,9 @@ odolný proti negativní myšlence.
 * 12 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:12-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:12-cs
   :END:
 
 
@@ -241,9 +236,9 @@ odolný proti nečistotě vitálna.
 * 13 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:13-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:13-cs
   :END:
 
 
@@ -259,9 +254,9 @@ odolný proti letargii těla.
 * 14 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:14-cs
   :END:
 
 
@@ -277,9 +272,9 @@ odolný proti neochotnému životu.
 * 15 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:15-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:15-cs
   :END:
 
 
@@ -295,9 +290,9 @@ Mistrových šlépějí po špičkách.
 * 16 Opravdové odevzdání Mistrovi...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:16-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:16-cs
   :END:
 
 
@@ -313,9 +308,9 @@ PRAVÉHO žáka.
 * 17 PRAVÝ žák ví,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:17-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:17-cs
   :END:
 
 
@@ -331,9 +326,9 @@ a srdce jeho Mistra je jediný Cíl.
 * 18 PRAVÝ žák nechce vědět,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:18-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:18-cs
   :END:
 
 
@@ -348,9 +343,9 @@ co neví jeho Mistr.
 * 19 PRAVÝ žák nechce vědět,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:19-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:19-cs
   :END:
 
 
@@ -366,9 +361,9 @@ nechce, aby věděl.
 * 20 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:20-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:20-cs
   :END:
 
 
@@ -384,9 +379,9 @@ tichého života Mistra.
 * 21 PRAVÝ žák má bolestnou úlohu...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:21-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:21-cs
   :END:
 
 
@@ -403,9 +398,9 @@ jeho bratrů a sester-žáků.
 * 22 PRAVÝ žák ví,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:22-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:22-cs
   :END:
 
 
@@ -423,9 +418,9 @@ vlastním Způsobem Boha.
 * 23 PRAVÝ žák ví,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:23-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:23-cs
   :END:
 
 
@@ -442,9 +437,9 @@ je vůle jeho Mistra.
 * 24 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:24-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:24-cs
   :END:
 
 
@@ -460,9 +455,9 @@ Lásku.
 * 25 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:25-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:25-cs
   :END:
 
 
@@ -478,9 +473,9 @@ Službě.
 * 26 PRAVÝ žák ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:26-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:26-cs
   :END:
 
 
@@ -498,9 +493,9 @@ Neomezeného.
 ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:27-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:27-cs
   :END:
 
 
@@ -516,9 +511,9 @@ pravého žáka.
 * 28 PRAVÝ žák ví,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:28-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:28-cs
   :END:
 
 
@@ -535,9 +530,9 @@ spokojeném srdci Mistra.
 * 29 Soucitem zaplavený pohled ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:29-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:29-cs
   :END:
 
 
@@ -553,9 +548,9 @@ je celým světem PRAVÉHO žáka.
 * 30 PRAVÝ žák cítí,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:30-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:30-cs
   :END:
 
 
@@ -572,9 +567,9 @@ pro uspokojení svého Pána-Mistra.
 * 31 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:31-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:31-cs
   :END:
 
 
@@ -591,9 +586,9 @@ vyslovujíc jednu jedinou mantru:
 * 32 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:32-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:32-cs
   :END:
 
 
@@ -609,9 +604,9 @@ v hodině zvolené Mistrem.
 * 33 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:33-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:33-cs
   :END:
 
 
@@ -628,9 +623,9 @@ slibu projevení Boha.
 * 34 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:34-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:34-cs
   :END:
 
 
@@ -646,9 +641,9 @@ Boží zářivostí.
 * 35 PRAVÝ žák ví,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:35-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:35-cs
   :END:
 
 
@@ -664,9 +659,9 @@ je jeho jediným domovem.
 * 36 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:36-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:36-cs
   :END:
 
 
@@ -682,9 +677,9 @@ je zabíječem šťastného srdce.
 * 37 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:37-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:37-cs
   :END:
 
 
@@ -700,9 +695,9 @@ a žádné znepokojení Boha.
 * 38 PRAVÝ žák ví,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:38-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:38-cs
   :END:
 
 
@@ -719,9 +714,9 @@ svému vlastnímu já.
 * 39 Když žádá PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:39-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:39-cs
   :END:
 
 
@@ -738,9 +733,9 @@ Mistr říká,
 * 40 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:40-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:40-cs
   :END:
 
 
@@ -757,9 +752,9 @@ tak je i tvé kárání milosrdné.”
 * 41 PRAVÝ žák říká svému Mistrovi:...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:41-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:41-cs
   :END:
 
 
@@ -776,9 +771,9 @@ Mistr říká svému pravému žákovi:
 * 42 PRAVÝ žák žadoní na svém Mistrovi...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:42-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:42-cs
   :END:
 
 
@@ -795,9 +790,9 @@ kráčet se svým Mistrem po cestě, po celé cestě.
 * 43 Každý den PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:43-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:43-cs
   :END:
 
 
@@ -814,9 +809,9 @@ prachem tvých nohou odpuštění.”
 * 44 PRAVÝ žák říká svému Mistrovi:...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:44-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:44-cs
   :END:
 
 
@@ -839,9 +834,9 @@ v podobě tvého Mistra.”
 * 45 PRAVÝ žák ví,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:45-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:45-cs
   :END:
 
 
@@ -858,9 +853,9 @@ a jeho budoucnost bude v srdci Mistra.
 * 46 PRAVÝ žák neváhá ani na letmou sekundu...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:46-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:46-cs
   :END:
 
 
@@ -877,9 +872,9 @@ na samostatně naučenou lekci svého žáka.
 * 47 PRAVÝ žák se nenasytně těší každý den...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:47-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:47-cs
   :END:
 
 
@@ -897,9 +892,9 @@ jídla odpuštění srdce Mistra.
 * 48 Mistr se nenasytně těší...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:48-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:48-cs
   :END:
 
 
@@ -920,9 +915,9 @@ svého pravého žáka.
 * 49 PRAVÝ žák prosí svého Mistra,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:49-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:49-cs
   :END:
 
 
@@ -938,9 +933,9 @@ podle Mistrovi libovůle.
 * 50 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:50-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:50-cs
   :END:
 
 
@@ -956,9 +951,9 @@ nektarový nápoj poslušnosti Mistrovi.
 * 51 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:51-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:51-cs
   :END:
 
 
@@ -974,9 +969,9 @@ jedovatý nápoj neposlušnosti Mistrovi.
 * 52 PRAVÝ žák žebrá na Mistrovi,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:52-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:52-cs
   :END:
 
 
@@ -993,9 +988,9 @@ a ”miluj a služ” tenisový míč.
 * 53 PRAVÝ žák žebrá na Mistrovi,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:53-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:53-cs
   :END:
 
 
@@ -1012,9 +1007,9 @@ ale učinil ho sjednoceným člověkem.
 * 54 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:54-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:54-cs
   :END:
 
 
@@ -1036,9 +1031,9 @@ je Cesta jediná.
 * 55 PRAVÝ žák se ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:55-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:55-cs
   :END:
 
 
@@ -1058,9 +1053,9 @@ ale též je vším.
 * 56 PRAVÝ žák ví ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:56-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:56-cs
   :END:
 
 
@@ -1077,9 +1072,9 @@ a neomylně budou volat k následování.
 * 57 Pokaždé, když PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:57-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:57-cs
   :END:
 
 
@@ -1095,9 +1090,9 @@ přichází s fontánou blaženosti písně.
 * 58 PRAVÝ žák ví...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:58-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:58-cs
   :END:
 
 
@@ -1114,9 +1109,9 @@ prapor velikosti života jeho Mistra.
 * 59 PRAVÝ žák ví,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:59-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:59-cs
   :END:
 
 
@@ -1133,9 +1128,9 @@ na obloze dobroty srdce jeho Mistra.
 * 60 PRAVÝ žák ví,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:60-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:60-cs
   :END:
 
 
@@ -1152,9 +1147,9 @@ ale žádný východ.
 * 61 Rozsudek celoživotního vězení...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:61-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:61-cs
   :END:
 
 
@@ -1170,9 +1165,9 @@ od PRAVÉHO žáka.
 * 62 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:62-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:62-cs
   :END:
 
 
@@ -1188,9 +1183,9 @@ sklizeň vůle svého Mistra.
 * 63 PRAVÝ žák...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:63-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:63-cs
   :END:
 
 
@@ -1207,9 +1202,9 @@ rozmetanou v prach.
 ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:64-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:64-cs
   :END:
 
 
@@ -1226,9 +1221,9 @@ ze hry na schovávanou.
 * 65 Dědeček Bůh říká...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:65-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:65-cs
   :END:
 
 
@@ -1250,9 +1245,9 @@ můj vnuku!”
 ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: TD:66-cs
+  :genre: poem
+  :keywords:
+  :cite-key: td:66-cs
   :END:
 
 
@@ -1267,12 +1262,3 @@ ale on ji nepředstavitelně zkrátil
 pro tebe.”
 
 #+END_VERSE
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

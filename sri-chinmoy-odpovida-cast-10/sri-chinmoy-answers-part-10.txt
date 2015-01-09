@@ -1,20 +1,15 @@
-#+TITLE: Sri Chinmoy odpovídá, část 10
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 10
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2001
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: SCA-10-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2001
+  :publisher: Madal Bal
+  :cite-key: SCA-10-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -23,7 +18,7 @@
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:366e1
+  :cite-key: sca:366e1
   :END:
 
   
@@ -31,10 +26,10 @@
 * Hledající, aspirant a milovník Boha
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCA:366-cs
-  :DATE-EVENT: 1996-05-10
+  :genre: discourse
+  :keywords:
+  :cite-key: sca:366-cs
+  :date-event: 1996-05-10
   :END:
 
 
@@ -55,9 +50,9 @@ Aspirant takto necítí. Když je aspirant zraněn, sám sebe proklíná a obvi�
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:367e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:367e1-cs
   :END:
 
 
@@ -65,10 +60,10 @@ Aspirant takto necítí. Když je aspirant zraněn, sám sebe proklíná a obvi�
 * Mohl byste nám, prosím, říci něco o vaší filozofii a o vašem způsobu života?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:367-cs
-  :DATE-EVENT: 1996-01-18
+  :genre: qa
+  :keywords:
+  :cite-key: sca:367-cs
+  :date-event: 1996-01-18
   :END:
 
 
@@ -83,25 +78,25 @@ Na naší cestě přikládáme patřičnou důležitost fyzickému životu. Uvni
 * Mnoho lidí zde v Jižní Africe trpí každodenním násilím. Rád bych slyšel váš názor na příčiny násilí a případně nějaké poselství o tom, co s ním můžeme dělat.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:368-cs
-  :DATE-EVENT: 1996-01-18
+  :genre: qa
+  :keywords:
+  :cite-key: sca:368-cs
+  :date-event: 1996-01-18
   :END:
 
 
 /Sri Chinmoy:/ Násilí způsobují bariéry vytvořené myslí. Mysl vždy rozděluje; získává obrovské uspokojení rozdělováním skutečnosti. Protože vnímá sama sebe jako oddělenou od ostatních, chce jim být vždy nadřazená. Uvnitř mysli je nepokoj, který někdy přechází v ničení. Dlouho před tím, než se násilí projeví navenek, je už ve formě myšlenek přítomné uvnitř mysli.
 
-Pokud nasloucháme své mysli, když nám říká, abychom někoho uhodili, pak se mysl stává naším pánem. Je v nás ale vždy něco, co nám připomíná, že máme také jiného nadřízeného: srdce. Srdce chce na rozdíl od mysli pouze nastolit blízkost a jednotu; získává uspokojení ne z rozdělení, ale ze sjednocení. Srdce nám říká: „Tím, že někoho zničíš, nikdy nezískáš ani kapku radosti, budeš-li ho ale milovat, získáš trvalou radost. Proto se musíme modlit a meditovat, abychom zklidnili svou nepokojnou mysl a abychom osvítili svou neaspirující mysl. Když se nám podaří přeměnit mysl a žít v srdci, pak nemůže být žádné násilí.
+Pokud nasloucháme své mysli, když nám říká, abychom někoho uhodili, pak se mysl stává naším pánem. Je v nás ale vždy něco, co nám připomíná, že máme také jiného nadřízeného: srdce. srdce chce na rozdíl od mysli pouze nastolit blízkost a jednotu; získává uspokojení ne z rozdělení, ale ze sjednocení. srdce nám říká: „Tím, že někoho zničíš, nikdy nezískáš ani kapku radosti, budeš-li ho ale milovat, získáš trvalou radost. Proto se musíme modlit a meditovat, abychom zklidnili svou nepokojnou mysl a abychom osvítili svou neaspirující mysl. Když se nám podaří přeměnit mysl a žít v srdci, pak nemůže být žádné násilí.
 
 
 * Jsou vaše mírové koncerty v nějakém smyslu politické?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:369-cs
-  :DATE-EVENT: 1996-01-18
+  :genre: qa
+  :keywords:
+  :cite-key: sca:369-cs
+  :date-event: 1996-01-18
   :END:
 
 
@@ -114,10 +109,10 @@ Věnuji se duchovnímu životu od svého dětství. Jsem člověkem modlitby. Js
 * Jako hinduista věřím, že konečnou pravdou je realizace Boha. Jak dosáhneme svého cíle?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:370-cs
-  :DATE-EVENT: 1996-01-18
+  :genre: qa
+  :keywords:
+  :cite-key: sca:370-cs
+  :date-event: 1996-01-18
   :END:
 
 
@@ -138,14 +133,14 @@ Když jsme ve světě aspirace, modlíme se k Bohu, aby nám dal schopnost těš
 * Abyste přinesl mír, pracujete také na politické úrovni?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:371-cs
-  :DATE-EVENT: 1996-01-18
+  :genre: qa
+  :keywords:
+  :cite-key: sca:371-cs
+  :date-event: 1996-01-18
   :END:
 
 
-/Sri Chinmoy:/ Nechci se plést do politiky, která je světem mysli. Chci žít pouze v srdci a objevovat moře míru, který je v každé, úplně každé zemi. Několik zemí dnes bojuje; zítra možná nějaké jiné země zahájí válku. Lidé prohlašují: „Už nikdy více nebudeme válčit.“ Ale tak dlouho, dokud budeme žít v mysli, která není patřičně osvícena, konflikty a války vždycky budou. Mysl může zůstat tichá po několik dní, několik měsíců nebo i několik let, ale vlastní přirozeností mysli je snažit se dokázat svou nadřazenost. 
+/Sri Chinmoy:/ nechci se plést do politiky, která je světem mysli. chci žít pouze v srdci a objevovat moře míru, který je v každé, úplně každé zemi. několik zemí dnes bojuje; zítra možná nějaké jiné země zahájí válku. lidé prohlašují: „Už nikdy více nebudeme válčit.“ Ale tak dlouho, dokud budeme žít v mysli, která není patřičně osvícena, konflikty a války vždycky budou. Mysl může zůstat tichá po několik dní, několik měsíců nebo i několik let, ale vlastní přirozeností mysli je snažit se dokázat svou nadřazenost. 
 
 Nebudu mít odvahu pokoušet se řešit problémy v Bosně a na jiných místech pomocí politických prostředků. Mám svůj vlastní způsob, a to modlit se a meditovat pro mír. Žádným způsobem nebudu soudit ty, kteří jdou jinými cestami. Politici jsou všichni mými bratry a sestrami a snažíme se dosáhnout stejného cíle. Jestliže dokáží dosáhnout cíle dříve než my, budu tím nejšťastnějším člověkem. Nebo pokud nás po dosažení cíle požádají, abychom šli spolu s nimi, pak zajisté jejich žádost vyslechneme. Právě v tomto okamžiku však cítíme, že oni mají svůj způsob a my máme svůj způsob. Pouze Bůh ví, který způsob je nejlepší. My však cítíme v nejvnitřnějších zákoutích svého srdce, že způsob modlitby a meditace je pro nás nejlepší. 
 
@@ -154,10 +149,10 @@ Nebudu mít odvahu pokoušet se řešit problémy v Bosně a na jiných místech
 * Máte pocit, že se lidé na světě vzdalují od duchovního způsobu života, anebo cítíte postupné probouzení se směrem k duchovnosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:372-cs
-  :DATE-EVENT: 1996-01-18
+  :genre: qa
+  :keywords:
+  :cite-key: sca:372-cs
+  :date-event: 1996-01-18
   :END:
 
 
@@ -170,10 +165,10 @@ Takže svět se vyvíjí směrem k přijetí míru a světla. Někteří jedinci
 * Co vás inspirovalo k tomu, abyste se dal na tuto cestu míru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:373-cs
-  :DATE-EVENT: 1996-01-18
+  :genre: qa
+  :keywords:
+  :cite-key: sca:373-cs
+  :date-event: 1996-01-18
   :END:
 
 
@@ -187,16 +182,16 @@ Zde jsme všichni studenty míru. Mír je společným předmětem, který všich
 * Zmínil jste boj mezi srdcem a myslí. V oblasti, jako je například KwaZulu Natal, bylo tolik lidí zabito a srdce lidí se úplně zatvrdila nebo byla zlomena. Je pro ně obtížnější dát se na správnou cestu než pro ty, kteří vedou klidnější nebo běžnější život?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:374-cs
-  :DATE-EVENT: 1996-01-18
+  :genre: qa
+  :keywords:
+  :cite-key: sca:374-cs
+  :date-event: 1996-01-18
   :END:
 
 
 /Sri Chinmoy:/ To je úplně individuální. Ti, kteří byli připraveni o mír vlivem vnějších okolností nebo vinou nebožských lidí, mají často větší vnitřní hlad po míru než ti, kterým se dostalo kapky míru nebo míru hojného. Lidé, kteří zbytečně trpí, se budou spíše modlit k Bohu a budou otevřenější přijmout Jeho Světlo než ti, kteří už určitý mír mysli mají. Takže zatímco ti šťastnější se mohou oddávat radovánkám svého omezeného míru, ti, kteří si díky utrpení vyvinuli silný vnitřní pláč po světovém míru a harmonii, mohou od Boha získat mír v hojné míře dříve. Když nevinné oběti pláčí z nejhlubších zákoutí svého srdce, jejich pláč musí obměkčit Boží Srdce.
 
-Je však otázka, zdali je někdo opravdu hladový po míru, anebo zdali jednoduše podlehl svému osudu. Někteří lidé ztratí víru v Boha anebo ve svůj vnitřní život, když jsou jejich příbuzní zabiti nebožskými lidmi. Říkají: „Moji drazí neudělali nic špatného. Jestli má Bůh nekonečný Soucit, proč dopustil, aby byli zabiti?“ Tito lidé se mohou vnitřně bouřit a říci, že Bůh je nečinný nebo nedynamický, že asi spí. Tito lidé se mohou rozlítit, že jejich drazí byli napadeni, a zajít tak daleko, že řeknou: „Žádný Bůh neexistuje!“
+Je však otázka, zdali je někdo opravdu hladový po míru, anebo zdali jednoduše podlehl svému osudu. Někteří lidé ztratí víru v Boha anebo ve svůj vnitřní život, když jsou jejich příbuzní zabiti nebožskými lidmi. Říkají: „moji drazí neudělali nic špatného. jestli má bůh nekonečný soucit, proč dopustil, aby byli zabiti?“ tito lidé se mohou vnitřně bouřit a říci, že bůh je nečinný nebo nedynamický, že asi spí. tito lidé se mohou rozlítit, že jejich drazí byli napadeni, a zajít tak daleko, že řeknou: „Žádný Bůh neexistuje!“
 
 Tito lidé bohužel světlo nehledají. Nemodlí se, aby toto světlo osvítilo ty nebožské lidské bytosti, které napadly jejich drahé. Kdyby to dělali, Bůh by zajisté změnil vnitřní přístup těchto nebožských lidí. Upřímný pláč obětí po osvícení viníků by pronikl do Srdce Boha. A tak když se modlíme k Bohu správným způsobem, ti, kteří udělali něco špatného, nebo ti, kteří by mohli něco špatného udělat v blízké budoucnosti, budou osvíceni.
 
@@ -205,10 +200,10 @@ Tito lidé bohužel světlo nehledají. Nemodlí se, aby toto světlo osvítilo 
 * Zjistil jsem, že hudba může změnit lidi, i když nemluvím o politické změně. Rád bych slyšel váš názor na hudbu.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:375-cs
-  :DATE-EVENT: 1996-01-18
+  :genre: qa
+  :keywords:
+  :cite-key: sca:375-cs
+  :date-event: 1996-01-18
   :END:
 
 
@@ -219,9 +214,9 @@ Tito lidé bohužel světlo nehledají. Nemodlí se, aby toto světlo osvítilo 
 * Část III[fn:: SCA 376-377. 25. května 1996 odpověděl Sri Chinmoy na  několik otázek televizního producenta a spisovatele Joela Martina]
 
   :PROPERTIES:
-  :GENRE: section 
-  :KEYWORDS:
-  :CITE-KEY: SCA:376e1-cs
+  :genre: section 
+  :keywords:
+  :cite-key: sca:376e1-cs
   :END:
 
 
@@ -229,10 +224,10 @@ Tito lidé bohužel světlo nehledají. Nemodlí se, aby toto světlo osvítilo 
 * Mají pro nás zde na zemi nějakou cenu poselství, která lidé dostávají od svých blízkých zesnulých? A mohl byste se podělit se širokou veřejností o poselství, která jste dostal?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:376-cs
-  :DATE-EVENT: 1996-05-25
+  :genre: qa
+  :keywords:
+  :cite-key: sca:376-cs
+  :date-event: 1996-05-25
   :END:
 
 
@@ -246,14 +241,14 @@ Můj drahý bratře a příteli Joeli, na vnější úrovni nejsem milionář a 
 * Co může duchovní učitel nebo tak učený člověk jako vy říci západně vzdělaným vědcům, kteří myšlenku o přijímání poselství od zemřelých považují za smyšlenku nebo halucinaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:377-cs
-  :DATE-EVENT: 1996-05-25
+  :genre: qa
+  :keywords:
+  :cite-key: sca:377-cs
+  :date-event: 1996-05-25
   :END:
 
 
-/Sri Chinmoy:/ Na zemi je mnoho věcí, které se navenek nedají dokázat. Nemůžeme však prohlásit, že něco neexistuje, jenom proto, že nemáme prostředky, jak se to dozvědět. Řekněme, že jsem snědl výborné mango. Pokud řeknete: „Dokaž to!“ jak to udělám? Mám radost z jedení, ne z dokazování. Když chce vědec něco dokázat, vezme nás do laboratoře. Když my chceme něco dokázat na duchovní úrovni, musíme vzít vědce do vnitřního světa. K tomu, abychom vstoupili do vnitřního světa, potřebujeme lístek. Je to jako letět z New Yorku do Indie. Bez lístku letět nemůžeme. Podobně není možné dostat se do vnitřního světa bez modlitby a bez meditace, což jsou naše vnitřní vstupenky. Je někdo z vědců připraven modlit se a meditovat jako pravý hledající a milovník Boha? Pokud ano, pak uvidí, že komunikace s bytostmi z jiných světů je zcela skutečná.
+/Sri Chinmoy:/ na zemi je mnoho věcí, které se navenek nedají dokázat. nemůžeme však prohlásit, že něco neexistuje, jenom proto, že nemáme prostředky, jak se to dozvědět. Řekněme, že jsem snědl výborné mango. pokud řeknete: „Dokaž to!“ jak to udělám? Mám radost z jedení, ne z dokazování. Když chce vědec něco dokázat, vezme nás do laboratoře. Když my chceme něco dokázat na duchovní úrovni, musíme vzít vědce do vnitřního světa. K tomu, abychom vstoupili do vnitřního světa, potřebujeme lístek. Je to jako letět z New Yorku do Indie. Bez lístku letět nemůžeme. Podobně není možné dostat se do vnitřního světa bez modlitby a bez meditace, což jsou naše vnitřní vstupenky. Je někdo z vědců připraven modlit se a meditovat jako pravý hledající a milovník Boha? Pokud ano, pak uvidí, že komunikace s bytostmi z jiných světů je zcela skutečná.
 
 Vědcům dělá ohromnou radost dokazovat své teorie, ale duchovnímu Mistrovi dělá radost jenom to, když bez dechu a bezesně poslouchá pokyny Absolutního Pána Nejvyššího. Snadno může komunikovat s dušemi zemřelých a dokáže mnoho jiných věcí. Když to ostatní nevidí nebo když tomu nevěří, Mistrovi to ani v nejmenším nevadí. Skuteční duchovní Mistři nepřišli na svět, aby dokazovali pravost svých schopností; přišli na svět, aby sloužili Bohu. Ať vědcům dělá radost jejich způsob, jak se přiblížit k jejich cíli poznání skutečnosti! Ať duchovním Mistrům dělá radost dosažení jejich cíle jejich vlastním nenapodobitelným způsobem!
 
@@ -263,9 +258,9 @@ Vědcům dělá ohromnou radost dokazovat své teorie, ale duchovnímu Mistrovi 
 
 
   :PROPERTIES:
-  :GENRE: section 
-  :KEYWORDS:
-  :CITE-KEY: SCA:378e1-cs
+  :genre: section 
+  :keywords:
+  :cite-key: sca:378e1-cs
   :END:
 
 
@@ -273,10 +268,10 @@ Vědcům dělá ohromnou radost dokazovat své teorie, ale duchovnímu Mistrovi 
 * Vyjadřujete různé kvality, když hrajete na různé hudební nástroje?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:378-cs
-  :DATE-EVENT: 1996-02-19
+  :genre: qa
+  :keywords:
+  :cite-key: sca:378-cs
+  :date-event: 1996-02-19
   :END:
 
 
@@ -289,10 +284,10 @@ Ve chvíli, kdy hrajete, květina vaší duše vydává oduševnělou nebo zbož
 * Cítíte to, když hrajete?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:379-cs
-  :DATE-EVENT: 1996-02-19
+  :genre: qa
+  :keywords:
+  :cite-key: sca:379-cs
+  :date-event: 1996-02-19
   :END:
 
 
@@ -303,10 +298,10 @@ Ve chvíli, kdy hrajete, květina vaší duše vydává oduševnělou nebo zbož
 * Jako klavírista jsem někdy tak polapen technikou, že ztrácím duši nebo zapomínám, co se snažím vyjádřit.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:380-cs
-  :DATE-EVENT: 1996-02-19
+  :genre: qa
+  :keywords:
+  :cite-key: sca:380-cs
+  :date-event: 1996-02-19
   :END:
 
 
@@ -327,10 +322,10 @@ Je to jako hostitel, který se snaží potěšit své hosty hned, jak přijdou. 
 * Všichni jsme tak nervózní před tím, než jdeme na pódium, ale nedáváme to najevo.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:381-cs
-  :DATE-EVENT: 1996-02-19
+  :genre: qa
+  :keywords:
+  :cite-key: sca:381-cs
+  :date-event: 1996-02-19
   :END:
 
 
@@ -342,10 +337,10 @@ Je to jako hostitel, který se snaží potěšit své hosty hned, jak přijdou. 
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:382-cs
-  :DATE-EVENT: 1996-02-19
+  :genre: qa
+  :keywords:
+  :cite-key: sca:382-cs
+  :date-event: 1996-02-19
   :END:
 
 
@@ -362,10 +357,10 @@ Mám jednu zvláštní píseň, která je zdrojem všech mých hudebních sklade
 * Jak to děláte, že máte každý den stejně velkou inspiraci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:383-cs
-  :DATE-EVENT: 1996-02-19
+  :genre: qa
+  :keywords:
+  :cite-key: sca:383-cs
+  :date-event: 1996-02-19
   :END:
 
 
@@ -376,10 +371,10 @@ Mám jednu zvláštní píseň, která je zdrojem všech mých hudebních sklade
 * V některých dnech se cítím tak dole a jindy jsem zase tak vysoko nahoře.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:384-cs
-  :DATE-EVENT: 1996-02-19
+  :genre: qa
+  :keywords:
+  :cite-key: sca:384-cs
+  :date-event: 1996-02-19
   :END:
 
 
@@ -390,10 +385,10 @@ Mám jednu zvláštní píseň, která je zdrojem všech mých hudebních sklade
 * Je dávání stejně důležité jako získávání?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:385-cs
-  :DATE-EVENT: 1996-02-19
+  :genre: qa
+  :keywords:
+  :cite-key: sca:385-cs
+  :date-event: 1996-02-19
   :END:
 
 
@@ -406,10 +401,10 @@ Když žijeme duchovním životem, zjišťujeme, že nikdy nic nedáváme třet�
 * Takže sdílení dělá radost všem a já jsem ten, kdo s tím musí začít?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:386-cs
-  :DATE-EVENT: 1996-02-19
+  :genre: qa
+  :keywords:
+  :cite-key: sca:386-cs
+  :date-event: 1996-02-19
   :END:
 
 
@@ -420,10 +415,10 @@ Když žijeme duchovním životem, zjišťujeme, že nikdy nic nedáváme třet�
 * Tak mnoho lidí v této zemi se už nezajímá o hudbu ani o poezii ani o tanec. Nevidí v tom žádnou hodnotu. Myslíte si, že se to změní?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:387-cs
-  :DATE-EVENT: 1996-02-19
+  :genre: qa
+  :keywords:
+  :cite-key: sca:387-cs
+  :date-event: 1996-02-19
   :END:
 
 
@@ -434,14 +429,14 @@ Když žijeme duchovním životem, zjišťujeme, že nikdy nic nedáváme třet�
 * Takhle musíme zacházet také se svou myslí!
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:388-cs
-  :DATE-EVENT: 1996-02-19
+  :genre: qa
+  :keywords:
+  :cite-key: sca:388-cs
+  :date-event: 1996-02-19
   :END:
 
 
-/Sri Chinmoy:/ Přesně tak! Cokoliv děláme, potřebujeme k tomu trpělivost. Když se dítě zkouší postavit, zpočátku padá znovu a znovu. Po tom, co mnohokrát spadlo, by mohlo říci: „Ne, už se nebudu snažit postavit.“ Má však ohromnou vnitřní touhu chodit. Vidí svého otce, matku a staršího bratra všechny chodit a samo také chce dělat pokrok. Trpělivost, kterou si dítě cvičí nevědomě, musí dospělí cvičit vědomě.
+/Sri Chinmoy:/ přesně tak! cokoliv děláme, potřebujeme k tomu trpělivost. když se dítě zkouší postavit, zpočátku padá znovu a znovu. po tom, co mnohokrát spadlo, by mohlo říci: „Ne, už se nebudu snažit postavit.“ Má však ohromnou vnitřní touhu chodit. Vidí svého otce, matku a staršího bratra všechny chodit a samo také chce dělat pokrok. Trpělivost, kterou si dítě cvičí nevědomě, musí dospělí cvičit vědomě.
 
 Pro dítě je trpělivost přirozená, protože je stále v srdci. Protože ale dospělí žijí v mysli, musí se tak tvrdě snažit, aby tyto kvality srdce získali zpět. Když jsme v mysli, je všechno pokroucené a zkreslené. Musíme tedy přivést nepoddajnou mysl pod kontrolu srdce.
 
@@ -449,9 +444,9 @@ Pro dítě je trpělivost přirozená, protože je stále v srdci. Protože ale 
 * Část V[fn:: SCA 389-394. Následující otázky byly zodpovězeny 26. května 1996]
 
   :PROPERTIES:
-  :GENRE: section 
-  :KEYWORDS:
-  :CITE-KEY: SCA:389e1-cs
+  :genre: section 
+  :keywords:
+  :cite-key: sca:389e1-cs
   :END:
 
 
@@ -459,10 +454,10 @@ Pro dítě je trpělivost přirozená, protože je stále v srdci. Protože ale 
 * Guru, měl jsi hodně vysokých prožitků před tím, než jsi realizoval Boha?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:389-cs
-  :DATE-EVENT: 1996-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:389-cs
+  :date-event: 1996-05-26
   :END:
 
 
@@ -470,7 +465,7 @@ Pro dítě je trpělivost přirozená, protože je stále v srdci. Protože ale 
 
 Prožitky, které jsem popsal ve svých básních „Absolutno“ (/The Absolute/) a „Nesmrtelnost“ (/Immortality/), byly také neobyčejně vysoké. Jeden vysoký prožitek jsem měl také pouhé tři měsíce po tom, co jsem vstoupil do Sri Aurobindova ašrámu. Mladí chlapci a dívky v ašrámu měli dělat nesobeckou práci a já jsem byl zaměstnán na rýžovém poli. Když jsem pracoval na rýžovém poli, všiml jsem si, že se jeden z mangovníků sklání dolů. Podíval jsem se na strom  a po celém stromě, ve všech plodech a listech, jsem viděl svého Pána Kršnu. Kršna byl tady, Kršna byl tamhle, všude jsem viděl Pána Kršnu. Než se to stalo, vůbec jsem na Kršnu nemyslel; meditoval jsem na Sri Aurobinda a na Matku. Když jsem ale viděl Pána Kršnu, byl jsem tak vzrušen. Nejdražší přítel mého dětství byl hned vedle mě. Říkal jsem mu: „Podívej se, podívej, co vidím!“ Měl mě tak rád, že se mi nesnažil odporovat nebo tvrdit, že je to mentální halucinace. Sám ale nic neviděl. Na tento prožitek nikdy nezapomenu.
 
-Jindy, když jsem meditoval v meditačním sále v ašrámu, stoupala moje vnitřní bytost vysoko, výše, nejvýše. Úplně jsem plaval v moři extáze. Řekl jsem si: „Nikdy se nedostanu výše než teď.“ Byl jsem tak uspokojen tou výškou. Ó Bože, pak jsem uviděl, že tato výška byla jen startovním bodem! V letmé vteřině jsem se dostal ještě výše. Takhle to pokračovalo asi dvacet minut nebo půl hodiny. Pokaždé, když jsem dosáhl nové výšky, bylo lidské ve mně tak uspokojeno. Lidské ve mně řeklo: „To stačí, stačí, stačí!“ Stále jsem však stoupal vzhůru. Pokaždé, když jsem dosáhl obzvláštní výšky, která více než uspokojovala lidské ve mně, božské ve mně mne postrčilo, abych vystoupal ještě výše. Na tento pozoruhodný prožitek také nikdy nezapomenu!
+Jindy, když jsem meditoval v meditačním sále v ašrámu, stoupala moje vnitřní bytost vysoko, výše, nejvýše. Úplně jsem plaval v moři extáze. Řekl jsem si: „nikdy se nedostanu výše než teď.“ byl jsem tak uspokojen tou výškou. Ó bože, pak jsem uviděl, že tato výška byla jen startovním bodem! v letmé vteřině jsem se dostal ještě výše. takhle to pokračovalo asi dvacet minut nebo půl hodiny. pokaždé, když jsem dosáhl nové výšky, bylo lidské ve mně tak uspokojeno. lidské ve mně řeklo: „To stačí, stačí, stačí!“ Stále jsem však stoupal vzhůru. Pokaždé, když jsem dosáhl obzvláštní výšky, která více než uspokojovala lidské ve mně, božské ve mně mne postrčilo, abych vystoupal ještě výše. Na tento pozoruhodný prožitek také nikdy nezapomenu!
 
 Mnohokrát jsem mluvil o tom, jak mi Matka Saraswati dala všechnu svou moudrost a vnitřní schopnosti. Sestoupila dolů a hrála mi a potom rozbila svou vínu na kousky a vsypala je do mě. V tu chvíli jsem byl ve svém naprosto, naprosto nejvyšším vědomí.
 
@@ -482,10 +477,10 @@ Tyto vnitřní prožitky mi značně pomohly. Jakmile jednou získáte tento dru
 * Jsou vnitřní prožitky nezbytnou podmínkou pro realizaci Boha, anebo nejsou vůbec nutné?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:390-cs
-  :DATE-EVENT: 1996-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:390-cs
+  :date-event: 1996-05-26
   :END:
 
 
@@ -495,7 +490,7 @@ Na druhou stranu mají někteří lidé vyšší prožitky, které trvají něko
 
 Takže pokud nyní nemáte žádné vnitřní prožitky, zkuste si vzpomenout na prožitky, které jste už měli, a použijte sílu své představivosti, abyste je přivolali zpátky. Pak nejenom že se tyto prožitky vrátí, ale pomohou vám jít vpřed do dalších, které budou nekonečně silnější, více osvětlující a krásnější.
 
-Člověk nepotřebuje padesát nebo sto vnitřních prožitků, aby dosáhl realizace Boha, ale prožitky určitě pomáhají. Když během své pouti po Cestě Věčnosti vidíme stinné stromy a krásné květiny, dělá nám to ohromnou radost. Někteří lidé mají dojem, že ty krásné květiny a stromy jsou jen pokušením. Říkají: „Bojím se, že se chytím nebo zaseknu, když si ke květinám přivoním. Zatímco já se budu kochat krásou květin, moji spolucestující mne daleko předběhnou. Nepotřebuji tento druh prožitku.“ Jiní jsou ale moudří. Řeknou: „Jestliže tady jsou květiny tak krásné, květiny v cíli budou nekonečně krásnější a voňavější.“ Pokochají se tedy květinami a pak pokračují dále.
+Člověk nepotřebuje padesát nebo sto vnitřních prožitků, aby dosáhl realizace Boha, ale prožitky určitě pomáhají. Když během své pouti po Cestě Věčnosti vidíme stinné stromy a krásné květiny, dělá nám to ohromnou radost. Někteří lidé mají dojem, že ty krásné květiny a stromy jsou jen pokušením. Říkají: „bojím se, že se chytím nebo zaseknu, když si ke květinám přivoním. zatímco já se budu kochat krásou květin, moji spolucestující mne daleko předběhnou. nepotřebuji tento druh prožitku.“ jiní jsou ale moudří. Řeknou: „Jestliže tady jsou květiny tak krásné, květiny v cíli budou nekonečně krásnější a voňavější.“ Pokochají se tedy květinami a pak pokračují dále.
 
 Vnitřní prožitky nám pomáhají; dávají nám určité ovoce. Když se nám nějaká zkušenost nelíbí, můžeme ji prostě zahodit. A když se nám nějaká líbí, můžeme se pokusit mít ji znovu. Některé prožitky jsou tak silné a mocné, že mohou úplně změnit lidskou povahu.  Když máme takový prožitek, může to zcela změnit náš život -- jak vnitřně, tak navenek. Někteří moji žáci jsou na naší cestě dvacet nebo dvacet pět let a možná během té doby neběželi příliš rychle. Kdyby se jim ale podařilo získat jediný prožitek nejvyššího stupně a udržet si ho jeden nebo dva týdny, mohli by za ty dva týdny udělat větší pokrok než za minulých dvacet pět let. Bohužel se nedá vůbec říci, kdy se takový prožitek objeví. Je to jako škrtat zápalkou. Když neškrtáme na správné straně krabičky, zápalka se nevznítí. Podobně když neotočíme dostatečně knoflíkem na sporáku, sporák se nerozhoří. Když otočíme knoflík jen trošku, plamen se neobjeví; ale když jím pootočíme jen o kousek více, plamen se objeví.
 
@@ -503,14 +498,14 @@ Vnitřní prožitky nám pomáhají; dávají nám určité ovoce. Když se nám
 * Jedna ze žaček mi řekla, že čím déle se věnuje duchovnímu životu, tím horší se staly její špatné vlastnosti. Jak je to možné?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:391-cs
-  :DATE-EVENT: 1996-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:391-cs
+  :date-event: 1996-05-26
   :END:
 
 
-/Sri Chinmoy:/ Někteří žáci na naší cestě tvrdí: „První rok nebo dva, co jsem přišel na cestu, jsem byl tak plný lásky, oddanosti a odevzdání. Snažil jsem se tehdy přemoci žárlivost; snažil jsem se přemoci nejistotu. Když se objevila jakákoliv slabost, snažil jsem se ji ovládnout. Ve všech ohledech jsem se snažil být božský.“ Po tom, co se věnují duchovnímu životu dvacet nebo třicet let, začnou však tito nešťastní žáci věřit, že tyto slabosti jsou součástí lidské povahy. Domnívají se: „Když jsem neporazil svou žárlivost, nejistotu a tak dále za třicet let, proč bych měl věřit, že se mi to podaří za dalších třicet let?“ A co horšího, v některých případech tyto negativní síly s postupem času zesílily. Někteří žáci cítí, že mají více žárlivosti, více nejistoty a více nečistoty, než měli před dvaceti nebo třiceti lety. Jak se to stalo? Jedním důvodem je to, že do jejich života vstoupilo uvolnění a oni už nejsou vůči těmto silám ostražití. V některých případech se také žáci vzdali a podlehli těmto silám. Když podlehneme nepřátelským silám, přirozeně se stanou silnějšími. 
+/Sri Chinmoy:/ někteří žáci na naší cestě tvrdí: „první rok nebo dva, co jsem přišel na cestu, jsem byl tak plný lásky, oddanosti a odevzdání. snažil jsem se tehdy přemoci žárlivost; snažil jsem se přemoci nejistotu. když se objevila jakákoliv slabost, snažil jsem se ji ovládnout. ve všech ohledech jsem se snažil být božský.“ po tom, co se věnují duchovnímu životu dvacet nebo třicet let, začnou však tito nešťastní žáci věřit, že tyto slabosti jsou součástí lidské povahy. domnívají se: „Když jsem neporazil svou žárlivost, nejistotu a tak dále za třicet let, proč bych měl věřit, že se mi to podaří za dalších třicet let?“ A co horšího, v některých případech tyto negativní síly s postupem času zesílily. Někteří žáci cítí, že mají více žárlivosti, více nejistoty a více nečistoty, než měli před dvaceti nebo třiceti lety. Jak se to stalo? Jedním důvodem je to, že do jejich života vstoupilo uvolnění a oni už nejsou vůči těmto silám ostražití. V některých případech se také žáci vzdali a podlehli těmto silám. Když podlehneme nepřátelským silám, přirozeně se stanou silnějšími. 
 
 
 
@@ -518,24 +513,24 @@ Vnitřní prožitky nám pomáhají; dávají nám určité ovoce. Když se nám
 * Může nám mysl pomoci odhalit Boží Vůli?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:392-cs
-  :DATE-EVENT: 1996-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:392-cs
+  :date-event: 1996-05-26
   :END:
 
 
-/Sri Chinmoy:/ Většinu času nemáme ani ponětí o tom, co je Boží Vůlí. Mysl vychází do popředí a říká nám: „Boží Vůle je to a to.“ Když se však ponoříme hluboko dovnitř, vidíme, že mysl se na sto procent mýlí. Dokonce i srdce se může mýlit. A vitálno a tělo se mýlí vždycky. Když však člověk dokáže během meditace vidět duši a mluvit s ní, pak nám duše řekne: „Toto je správné, toto je špatné.“
+/Sri Chinmoy:/ většinu času nemáme ani ponětí o tom, co je boží vůlí. mysl vychází do popředí a říká nám: „boží vůle je to a to.“ když se však ponoříme hluboko dovnitř, vidíme, že mysl se na sto procent mýlí. dokonce i srdce se může mýlit. a vitálno a tělo se mýlí vždycky. když však člověk dokáže během meditace vidět duši a mluvit s ní, pak nám duše řekne: „Toto je správné, toto je špatné.“
 
 Mysl je jako učitel prvního stupně základní školy. Je mnoho otázek, na které učitel z prvního stupně neumí odpovědět. Srdce je jako učitel druhého stupně. Pak je duše, která je jako učitel střední školy, a Nejvyšší, který je jako univerzitní profesor. Mysl je tak špatná; dělá, co může, aby nám zabránila učit se od srdce. Tvrdí: „Teprve až se naučíš všechno ode mne, můžeš postoupit do další třídy.“ Pak, když mysl vidí, že je někdo dobrý student a že je zralý postoupit na druhý stupeň, nechá ho záměrně propadnout, aby si ho udržela déle. Pak po několika letech začne být student znechucen; má pocit, že nikdy neprojde prvním stupněm. To je chvíle, kdy se mnoho, mnoho hledajících vzdá duchovního života. Vzdají se, protože je mysl přesvědčí, že nemohou postoupit ani na druhý stupeň, natož na střední školu.
 
 Učitel-mysl často nezná odpověď, ale přesvědčuje nás, že odpověď zná. Mysl nikdy nemůže zodpovědět otázku, která vychází z hloubi našeho srdce. Mysl nás však přesvědčuje, že ví všechno. Neustále nám tedy dává chybné lekce. Navzdory tomu nám mysl říká: „Moje odpovědi jsou dokonalé, dokonalé, dokonalé!“ Pořád děláme chyby, protože celý svůj život svěřujeme mysli.
 
-Mysl chce získat radost zvláštním způsobem. Mysl tvrdí: „Toto je jediný způsob. Žádný jiný způsob neexistuje.“ Jako diktátor -- mysl promluvila! Pak přispěchá duše nebo Mistr a ukáže nám jiný způsob. Mysl okamžitě řekne: „Ó, můj Bože, to je nemožné, nemožné!“ Mysl nechává otevřené jedny dveře a tvrdí, že musíme jít právě jimi; nedovolí nám vidět jiné cesty. Ve velkém zámku může být mnoho dveří, ale mysl nám nedovolí používat je; drží dveře zamčené na několik západů. Když však duše vidí, že se zoufale snažíme dostat za hranice mysli, přijde a otevře nám dveře jedny po druhých. A nemusí to být dveře, vůbec ne! Jak jsme šťastni, když nám duše otevře třeba i nové okno!
+Mysl chce získat radost zvláštním způsobem. Mysl tvrdí: „toto je jediný způsob. Žádný jiný způsob neexistuje.“ jako diktátor -- mysl promluvila! pak přispěchá duše nebo mistr a ukáže nám jiný způsob. mysl okamžitě řekne: „Ó, můj Bože, to je nemožné, nemožné!“ Mysl nechává otevřené jedny dveře a tvrdí, že musíme jít právě jimi; nedovolí nám vidět jiné cesty. Ve velkém zámku může být mnoho dveří, ale mysl nám nedovolí používat je; drží dveře zamčené na několik západů. Když však duše vidí, že se zoufale snažíme dostat za hranice mysli, přijde a otevře nám dveře jedny po druhých. A nemusí to být dveře, vůbec ne! Jak jsme šťastni, když nám duše otevře třeba i nové okno!
 
 Když nemůžeme překročit hranice mysli, jsme úplně v pasti. Je to jako být ve vězení. Jediná věc, kterou můžeme dělat, je modlit se k někomu, aby nás osvobodil, a ten někdo je buď Mistr, nebo Nejvyšší. Nezáleží na tom, ke komu se modlíme, protože Milost Nejvyššího působí také v Mistrovi a skrze něj.
 
-Vždycky říkávám, že nemůže být vyšší modlitby, než je modlitba Spasitele Ježíše Krista: „Staň se Vůle Tvá.“ Když bude ale hospodář jenom sedět v chalupě a opakovat: „Staň se Vůle Tvá,“ nikdy nebude mít bohatou úrodu. Ne, musí pole orat, zalévat, hnojit a dělat všechno, co je třeba. Teprve tehdy, když udělal všechno, co mohl a co bylo v jeho silách, teprve potom má právo říci: „Staň se Vůle Tvá!“
+Vždycky říkávám, že nemůže být vyšší modlitby, než je modlitba Spasitele Ježíše Krista: „staň se vůle tvá.“ když bude ale hospodář jenom sedět v chalupě a opakovat: „staň se vůle tvá,“ nikdy nebude mít bohatou úrodu. ne, musí pole orat, zalévat, hnojit a dělat všechno, co je třeba. teprve tehdy, když udělal všechno, co mohl a co bylo v jeho silách, teprve potom má právo říci: „Staň se Vůle Tvá!“
 
 Až když uděláme všechno, co z nitra cítíme, že udělat můžeme, a až když využijeme všechny své schopnosti, které nám Bůh dal, pak bychom měli říkat tuto modlitbu. V tu chvíli můžeme říci: „Ó Bože, dal jsi mi schopnost udělat toto a já jsem to udělal. Nyní nemohu jít ani o kousek dále, výše nebo hlouběji. Staň se Vůle Tvá.“ Pak Bůh přijde a dá nám mnohem více schopností, vnitřně i navenek.
 
@@ -544,10 +539,10 @@ Až když uděláme všechno, co z nitra cítíme, že udělat můžeme, a až k
 * Většina duchovních Mistrů tvrdila, že realizace není možné dosáhnout bez odříkání, ale vaší filozofií je přijetí a přeměna života.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:393-cs
-  :DATE-EVENT: 1996-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:393-cs
+  :date-event: 1996-05-26
   :END:
 
 
@@ -557,30 +552,30 @@ Musíme tedy vědět, co přijímání skutečně je. Jestliže chceme přijmout
 
 Když udeří Boží Hodina, v tu chvíli to ani není naše volba postavit se na stranu Boha. Ne, Bůh se prostě postaví na naši stranu. Shodil atomovou bombu světla a my jsme tak šťastni, že se stáváme jedním s Jeho Vůlí. 
 
-Když hrál Pán Kršna na flétnu, gópie (pozn. překl.: indické ženy z rodin pasáčků krav) běžely, aby byly s ním, protože byly připraveny. Lidé, kteří nebyli připraveni, ale nepřišli. On hrál na flétnu pro všechny, ale pouze ti, kteří byli připraveni, k němu přiběhli. Milost Nejvyššího sestupuje; božské Světlo sestupuje. Někteří lidé jsou připraveni, aby otevřeli své dveře a okna, jiní nejsou. Někteří vzývají toto světlo, aby přišlo a vstoupilo do nich, ale milióny a miliardy to nedělají. Říkají: „My to nepotřebujeme.“ Pro ně ještě Boží Hodina neudeřila.
+Když hrál Pán Kršna na flétnu, gópie (pozn. překl.: indické ženy z rodin pasáčků krav) běžely, aby byly s ním, protože byly připraveny. lidé, kteří nebyli připraveni, ale nepřišli. on hrál na flétnu pro všechny, ale pouze ti, kteří byli připraveni, k němu přiběhli. milost nejvyššího sestupuje; božské světlo sestupuje. někteří lidé jsou připraveni, aby otevřeli své dveře a okna, jiní nejsou. někteří vzývají toto světlo, aby přišlo a vstoupilo do nich, ale milióny a miliardy to nedělají. Říkají: „My to nepotřebujeme.“ Pro ně ještě Boží Hodina neudeřila.
 
 
 
 * Jak můžeme přemoci nejistotu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:394-cs
-  :DATE-EVENT: 1996-05-26
+  :genre: qa
+  :keywords:
+  :cite-key: sca:394-cs
+  :date-event: 1996-05-26
   :END:
 
 
-/Sri Chinmoy:/ Nejistota přichází, když se oddělujeme od ostatních a když máme pocit, že nám jsou ostatní nadřazení nebo že jsou silnější než my. Když ale dokážeme mít dětské srdce a cítit svou jednotu s ostatními, pak nemůžeme být nikdy nejistí. Pěti nebo šestiletý chlapec není nejistý, když vidí, jak silný je jeho otec. Ne, chlapec cítí, že síla jeho otce je celá jeho. Když jeho otec koupí novou značku auta, chlapec řekne světu: „To je moje auto.“ Ztotožnil se se svým otcem do takové míry, že vůbec neváhá tvrdit, že auto jeho otce je jeho vlastní. Jeho otec neřekne: „Ty blázne, že je to tvé auto?“ Naopak, otec je hrdý na to, že dítě považuje jeho majetek za svůj vlastní. Podobně když prohlásíme Boha za svého vlastního, zcela vlastního, Bůh nám dá svou Nekonečnost, svou Nesmrtelnost, své Všechno. Ale běda, my o Něj nestojíme; snažíme se od Něj získat pouze kapku nektaru blaženosti a pak sami sebe oddělujeme. Proto jsme nejistí.
+/Sri Chinmoy:/ nejistota přichází, když se oddělujeme od ostatních a když máme pocit, že nám jsou ostatní nadřazení nebo že jsou silnější než my. když ale dokážeme mít dětské srdce a cítit svou jednotu s ostatními, pak nemůžeme být nikdy nejistí. pěti nebo šestiletý chlapec není nejistý, když vidí, jak silný je jeho otec. ne, chlapec cítí, že síla jeho otce je celá jeho. když jeho otec koupí novou značku auta, chlapec řekne světu: „to je moje auto.“ ztotožnil se se svým otcem do takové míry, že vůbec neváhá tvrdit, že auto jeho otce je jeho vlastní. jeho otec neřekne: „Ty blázne, že je to tvé auto?“ Naopak, otec je hrdý na to, že dítě považuje jeho majetek za svůj vlastní. Podobně když prohlásíme Boha za svého vlastního, zcela vlastního, Bůh nám dá svou Nekonečnost, svou Nesmrtelnost, své Všechno. Ale běda, my o Něj nestojíme; snažíme se od Něj získat pouze kapku nektaru blaženosti a pak sami sebe oddělujeme. Proto jsme nejistí.
 
 
 
 * Část VI[fn::  SCA 395-399. Následující otázky položili Sri Chinmoyovi jeho žáci dne 6. ledna 1995 během jeho návštěvy v Myanmar]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:395e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:395e1-cs
   :END:
 
 
@@ -589,10 +584,10 @@ Když hrál Pán Kršna na flétnu, gópie (pozn. překl.: indické ženy z rodi
 * Jaká je budoucnost náboženství?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:395-cs
-  :DATE-EVENT: 1995-01-06
+  :genre: qa
+  :keywords:
+  :cite-key: sca:395-cs
+  :date-event: 1995-01-06
   :END:
 
 
@@ -607,10 +602,10 @@ Hrozba jaderného ničení nebude pokračovat, protože už během třiceti nebo
 * Proč jste cestoval do tolika zemí a tolik zemí a jednotlivců ocenil?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:396-cs
-  :DATE-EVENT: 1995-01-06
+  :genre: qa
+  :keywords:
+  :cite-key: sca:396-cs
+  :date-event: 1995-01-06
   :END:
 
 
@@ -623,10 +618,10 @@ Když máte srdce oceňování, pak je všechno krásné; každý plátek květi
 * Jak si přejete, aby byla v budoucnu udržována čistota a podstata vaší cesty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:397-cs
-  :DATE-EVENT: 1995-01-06
+  :genre: qa
+  :keywords:
+  :cite-key: sca:397-cs
+  :date-event: 1995-01-06
   :END:
 
 
@@ -637,10 +632,10 @@ Když máte srdce oceňování, pak je všechno krásné; každý plátek květi
 * Říkáte, že vaše je cesta, nikoliv náboženství. Potom, co Mistr odejde, se z toho ale stává náboženství - jako například buddhismus - a stojí proti ostatním náboženstvím.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:398-cs
-  :DATE-EVENT: 1995-01-06
+  :genre: qa
+  :keywords:
+  :cite-key: sca:398-cs
+  :date-event: 1995-01-06
   :END:
 
 
@@ -651,14 +646,14 @@ Když máte srdce oceňování, pak je všechno krásné; každý plátek květi
 * Měli by se vaši žáci pouze snažit vidět Nejvyššího ve vás a meditovat na Něj?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:399-cs
-  :DATE-EVENT: 1995-01-06
+  :genre: qa
+  :keywords:
+  :cite-key: sca:399-cs
+  :date-event: 1995-01-06
   :END:
 
 
-/Sri Chinmoy:/ Protože jsem o trochu pokročilejší než vy, mohu vidět svého Milovaného Nejvyššího ve všech a v každém z vás. Sri Rámakršna říkával Vivékánandovi: „Vidím v tobě samotného Boha. Mohu s ním mluvit tváří v tvář.“ Lhal, až se hory zelenaly? Nikdy! Byl to jeho pravý vnitřní prožitek. 
+/Sri Chinmoy:/ protože jsem o trochu pokročilejší než vy, mohu vidět svého milovaného nejvyššího ve všech a v každém z vás. sri rámakršna říkával vivékánandovi: „Vidím v tobě samotného Boha. Mohu s ním mluvit tváří v tvář.“ Lhal, až se hory zelenaly? Nikdy! Byl to jeho pravý vnitřní prožitek. 
 
 Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve mně. Pak ve mně můžete zkusit cítit Jeho Přítomnost. Stejný Nejvyšší je pochopitelně i ve vás, ale je pro vás nekonečně, nekonečně těžší cítit Přítomnost Nejvyššího ve vás samých než představit si nebo cítit Jeho přítomnost ve vašem Guruovi. Je pro vás mnohem snazší nalézt a získat Nejvyššího ve mně. Prosím vás tedy, abyste se silou své představivosti a inspirace snažili cítit Nejvyššího nejprve ve mně. Teprve pak budete schopni vidět a cítit totéž v sobě. V tu chvíli bude hra dokončena.
 
@@ -668,9 +663,9 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:400e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:400e1-cs
   :END:
 
 
@@ -678,24 +673,24 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
 * Měl jste nějaký vnitřní prožitek, když jste přijel do Myanmar?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:400-cs
-  :DATE-EVENT: 1994-12-28
+  :genre: qa
+  :keywords:
+  :cite-key: sca:400-cs
+  :date-event: 1994-12-28
   :END:
 
 
-/Sri Chinmoy:/ Byl jsem v mnoha, mnoha zemích a duše každé země mě zahrnula ohromnou náklonností, láskou, oceněním, obdivem a rovněž úctou. Duše Barmy mi však dala novou zkušenost. Asi ve 4:30 dnes ráno ke mně duše přišla s takovou náklonností a začala mě kárat. Řekla: „Proč jsi mě nepřijel navštívit alespoň před patnácti lety? Co s tebou bylo?“ Bylo to tak mocné, emocionální pokárání, ale bylo plné náklonnosti! Mluvila se mnou jako teta: „Kolikrát jsi byl v Indii, ale ani jednou jsi nenavštívil svou tetu!“ Žádná jiná země mě nikdy nekárala, ale tato mě opravdu požehnala svými láskou rozrušenými pocity.
+/Sri Chinmoy:/ byl jsem v mnoha, mnoha zemích a duše každé země mě zahrnula ohromnou náklonností, láskou, oceněním, obdivem a rovněž úctou. duše barmy mi však dala novou zkušenost. asi ve 4:30 dnes ráno ke mně duše přišla s takovou náklonností a začala mě kárat. Řekla: „proč jsi mě nepřijel navštívit alespoň před patnácti lety? co s tebou bylo?“ bylo to tak mocné, emocionální pokárání, ale bylo plné náklonnosti! mluvila se mnou jako teta: „Kolikrát jsi byl v Indii, ale ani jednou jsi nenavštívil svou tetu!“ Žádná jiná země mě nikdy nekárala, ale tato mě opravdu požehnala svými láskou rozrušenými pocity.
 
 
 
 * Cítíte v Barmě Buddhovo vědomí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:401-cs
-  :DATE-EVENT: 1994-12-28
+  :genre: qa
+  :keywords:
+  :cite-key: sca:401-cs
+  :date-event: 1994-12-28
   :END:
 
 
@@ -706,9 +701,9 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
 * Část VIII[fn:: SCA 402. 9. ledna 1995 se Sri Chinmoy jako čestný host zúčastnil oběda a kulturního programu sponzorovaného Ministerstvem náboženství a organizací Tipitaka Nykarya Upahsaka Sasana -- buddhistickou kulturní skupinou -- v Kaba Aye Pagodě v barmském hlavním městě Yangonu. Během programu pronesl Sri Chinmoy následující modlitbu k Pánu Buddhovi]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:402e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:402e1-cs
   :END:
 
 
@@ -716,10 +711,10 @@ Vy můžete udělat totéž. Nejdříve si zkuste představit Nejvyššího ve m
 * Modlitba k Pánu Buddhovi
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS: prayer
-  :CITE-KEY: SCA:402-cs
-  :DATE-EVENT: 1995-01-09
+  :genre: discourse
+  :keywords: prayer
+  :cite-key: sca:402-cs
+  :date-event: 1995-01-09
   :END:
   
   
@@ -734,19 +729,3 @@ Během let jsem byl v mnoha zemích, které následují učení Pána Buddhy. C�
 Pane Buddho, tvému životu v podobě lidské bytosti se klaním. Tvému nejvyššímu dosažení Nirvany, Parinirvany  a Mahaparinirvany se klaním. Požehnal jsi nás svým poselstvím neustálé přeměny ve fyzickém, když jsi dosáhl Nirvany a hned po opuštění smrtelné schránky také Parinirvany. Pak, ve vybrané Hodině nejvznešenějšího Transcendentálního Nejvyššího, jsi vstoupil do Mahaparinirvany.
 
 Ticho Absolutního Nejvyššího a nikdy nepoznatelné Skutečnosti ti požehnalo a prohlásilo tě za svého vlastního, abys osvobodil lidstvo z utrpení nevědomosti. Pane Buddho, lidskému v tobě se klaníme. Božskému v tobě se klaníme. Vždy přesahující Skutečnosti v tobě se klaníme a klaníme a klaníme. 
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

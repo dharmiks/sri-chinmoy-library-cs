@@ -1,29 +1,24 @@
-#+TITLE: Dvacet sedm tisíc rostlin aspirace, část 249
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Dvacet sedm tisíc rostlin aspirace, část 249
 
   :PROPERTIES:
-  :BOOK-NUMBER:  
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:  nil
-  :YEAR:  2007
-  :PUBLISHER:  Madal Bal
-  :CITE-KEY: AP-249-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number:  
+  :author: Sri Chinmoy
+  :original-edition:  nil
+  :year:  2007
+  :publisher:  Madal Bal
+  :cite-key: AP-249-cs
+  :genre: poem
+  :keywords:
   :END
 
 
 * 24801
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24801-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24801-cs
   :END:
 
 
@@ -41,9 +36,9 @@ Tvým Odpouštějícím Nohám.
 * 24802
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24802-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24802-cs
   :END:
 
 
@@ -60,9 +55,9 @@ zajisté uspěješ.
 * 24803
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24803-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24803-cs
   :END:
 
 
@@ -78,9 +73,9 @@ jen špatné dveře.
 * 24804
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24804-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24804-cs
   :END:
 
 
@@ -96,9 +91,9 @@ na sopku zklamání.
 * 24805
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24805-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24805-cs
   :END:
 
 
@@ -115,9 +110,9 @@ stane samotným dechem mého srdce.
 * 24806
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24806-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24806-cs
   :END:
 
 
@@ -135,9 +130,9 @@ z trávy pokory.
 * 24807
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24807-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24807-cs
   :END:
 
 
@@ -154,9 +149,9 @@ bude čistá a pravá.
 * 24808
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24808-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24808-cs
   :END:
 
 
@@ -174,9 +169,9 @@ bezvýhradně milovat Boha.
 * 24809
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24809-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24809-cs
   :END:
 
 
@@ -193,9 +188,9 @@ ke svému Pánu Nejvyššímu
 * 24810
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24810-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24810-cs
   :END:
 
 
@@ -213,9 +208,9 @@ zbožné, oduševnělé a sebedávající?
 * 24811
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24811-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24811-cs
   :END:
 
 
@@ -233,9 +228,9 @@ Mě přijmout?“
 * 24812
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24812-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24812-cs
   :END:
 
 
@@ -256,9 +251,9 @@ než má vlastní duše!
 * 24813
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24813-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24813-cs
   :END:
 
 
@@ -276,9 +271,9 @@ ovládat samotné mé bytí.
 * 24814
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24814-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24814-cs
   :END:
 
 
@@ -297,9 +292,9 @@ na nejmocnější a nejintenzivnější blaženost.
 * 24815
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24815-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24815-cs
   :END:
 
 
@@ -317,9 +312,9 @@ k mému Pánu Nejvyššímu.
 * 24816
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24816-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24816-cs
   :END:
 
 
@@ -339,9 +334,9 @@ přeměnit na skutečného žebráka.
 * 24817
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24817-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24817-cs
   :END:
 
 
@@ -357,9 +352,9 @@ běda, myslím to opravdu vážně?
 * 24818
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24818-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24818-cs
   :END:
 
 
@@ -379,9 +374,9 @@ vždy to budu myslet vážně, Mé dítě.“
 * 24819
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24819-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24819-cs
   :END:
 
 
@@ -401,9 +396,9 @@ než Mě miluješ teď.“
 * 24820
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24820-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24820-cs
   :END:
 
 
@@ -422,9 +417,9 @@ umění nevěřit.
 * 24821
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24821-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24821-cs
   :END:
 
 
@@ -441,9 +436,9 @@ Pokládej si tuto otázku každý den.
 * 24822
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24822-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24822-cs
   :END:
 
 
@@ -460,9 +455,9 @@ a nekonečné dokonalosti.
 * 24823
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24823-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24823-cs
   :END:
 
 
@@ -479,9 +474,9 @@ vskutku nanejvýš vysoká trojice!
 * 24824
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24824-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24824-cs
   :END:
 
 
@@ -497,9 +492,9 @@ ale také jim poskytuje ochranu.
 * 24825
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24825-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24825-cs
   :END:
 
 
@@ -517,9 +512,9 @@ postupovat rychle.
 * 24826
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24826-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24826-cs
   :END:
 
 
@@ -537,9 +532,9 @@ Zbytek musíš nechat na Bohu.
 * 24827
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24827-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24827-cs
   :END:
 
 
@@ -555,9 +550,9 @@ aby tě učila.
 * 24828
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24828-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24828-cs
   :END:
 
 
@@ -575,9 +570,9 @@ všechny Tvé zklamání.
 * 24829
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24829-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24829-cs
   :END:
 
 
@@ -593,9 +588,9 @@ jen dveřmi mého sebevěnování.
 * 24830
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24830-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24830-cs
   :END:
 
 
@@ -613,9 +608,9 @@ všechna Tvá zklamání.
 * 24831
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24831-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24831-cs
   :END:
 
 
@@ -635,9 +630,9 @@ svůj zbožný pohled.
 * 24832
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24832-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24832-cs
   :END:
 
 
@@ -655,9 +650,9 @@ Boží Oko neutuchajícího Soucitu.
 * 24833
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24833-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24833-cs
   :END:
 
 
@@ -676,9 +671,9 @@ projevení božskosti.
 * 24834
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24834-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24834-cs
   :END:
 
 
@@ -696,9 +691,9 @@ vděčného srdce.
 * 24835
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24835-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24835-cs
   :END:
 
 
@@ -714,9 +709,9 @@ rádi žijí nerozlučně.
 * 24836
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24836-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24836-cs
   :END:
 
 
@@ -734,9 +729,9 @@ v modlitby.
 * 24837
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24837-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24837-cs
   :END:
 
 
@@ -753,9 +748,9 @@ se ještě nevzdala.
 * 24838
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24838-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24838-cs
   :END:
 
 
@@ -773,9 +768,9 @@ každým dechem svého srdce.
 * 24839
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24839-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24839-cs
   :END:
 
 
@@ -793,9 +788,9 @@ ve vždy milujícím Objetí Boha.
 * 24840
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24840-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24840-cs
   :END:
 
 
@@ -811,9 +806,9 @@ Jen vstup do chrámu svého srdce.
 * 24841
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24841-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24841-cs
   :END:
 
 
@@ -830,9 +825,9 @@ Jeho Srdcem.
 * 24842
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24842-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24842-cs
   :END:
 
 
@@ -850,9 +845,9 @@ je tvé vlastní srdce.
 * 24843
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24843-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24843-cs
   :END:
 
 
@@ -869,9 +864,9 @@ si váží nejvíc.
 * 24844
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24844-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24844-cs
   :END:
 
 
@@ -888,9 +883,9 @@ jako svého milovaného přítele?
 * 24845
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24845-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24845-cs
   :END:
 
 
@@ -906,9 +901,9 @@ sebepřekonávající poutí.
 * 24846
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24846-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24846-cs
   :END:
 
 
@@ -925,9 +920,9 @@ se svou vírou.
 * 24847
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24847-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24847-cs
   :END:
 
 
@@ -946,9 +941,9 @@ ve svém duchovním životě.
 * 24848
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24848-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24848-cs
   :END:
 
 
@@ -966,9 +961,9 @@ tě dokáže učinit a učiní šťastným.
 * 24849
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24849-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24849-cs
   :END:
 
 
@@ -985,9 +980,9 @@ všechny dávno pohřbené sny mého srdce.
 * 24850
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24850-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24850-cs
   :END:
 
 
@@ -1004,9 +999,9 @@ než jen zvyšování rychlosti života.
 * 24851
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24851-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24851-cs
   :END:
 
 
@@ -1024,9 +1019,9 @@ po Bohu.
 * 24852
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24852-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24852-cs
   :END:
 
 
@@ -1042,9 +1037,9 @@ na tobě závisím.
 * 24853
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24853-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24853-cs
   :END:
 
 
@@ -1060,9 +1055,9 @@ veškerý šepot tvého srdce.
 * 24854
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24854-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24854-cs
   :END:
 
 
@@ -1079,9 +1074,9 @@ nad neaspirujícím životem.
 * 24855
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24855-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24855-cs
   :END:
 
 
@@ -1097,9 +1092,9 @@ je hodno Jeho nejhlubšího Zájmu.
 * 24856
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24856-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24856-cs
   :END:
 
 
@@ -1115,9 +1110,9 @@ prvního řádu.
 * 24857
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24857-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24857-cs
   :END:
 
 
@@ -1134,9 +1129,9 @@ obrovskou výzvou.
 * 24858
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24858-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24858-cs
   :END:
 
 
@@ -1152,9 +1147,9 @@ téměř nezměnila.
 * 24859
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24859-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24859-cs
   :END:
 
 
@@ -1172,9 +1167,9 @@ a Jeho Odpouštějící Nohy.
 * 24860
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24860-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24860-cs
   :END:
 
 
@@ -1190,9 +1185,9 @@ se navzájem vidí všude.
 * 24861
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24861-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24861-cs
   :END:
 
 
@@ -1208,9 +1203,9 @@ Bohem inspirovaný posel.
 * 24862
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24862-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24862-cs
   :END:
 
 
@@ -1227,9 +1222,9 @@ mým vládcem-duší.
 * 24863
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24863-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24863-cs
   :END:
 
 
@@ -1246,9 +1241,9 @@ vstříc mému srdci.
 * 24864
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24864-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24864-cs
   :END:
 
 
@@ -1264,9 +1259,9 @@ jak melodicky zvoní nebeskou láskou.
 * 24865
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24865-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24865-cs
   :END:
 
 
@@ -1283,9 +1278,9 @@ rozhodně zamítám.
 * 24866
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24866-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24866-cs
   :END:
 
 
@@ -1305,9 +1300,9 @@ se o mě vždy postará.
 * 24867
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24867-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24867-cs
   :END:
 
 
@@ -1323,9 +1318,9 @@ Sny Nesmrtelnosti.
 * 24868
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24868-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24868-cs
   :END:
 
 
@@ -1343,9 +1338,9 @@ aby mě donesla k mému cíli.
 * 24869
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24869-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24869-cs
   :END:
 
 
@@ -1361,9 +1356,9 @@ pokroku lásky-oddanosti-odevzdání.
 * 24870
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24870-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24870-cs
   :END:
 
 
@@ -1380,9 +1375,9 @@ od smyčky temných pochybností.
 * 24871
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24871-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24871-cs
   :END:
 
 
@@ -1399,9 +1394,9 @@ uvnitř hledajícího.
 * 24872
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24872-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24872-cs
   :END:
 
 
@@ -1417,9 +1412,9 @@ sladké melodie.
 * 24873
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24873-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24873-cs
   :END:
 
 
@@ -1436,9 +1431,9 @@ v mém životě.
 * 24874
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24874-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24874-cs
   :END:
 
 
@@ -1454,9 +1449,9 @@ uvnitř našeho srdce jednoty.
 * 24875
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24875-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24875-cs
   :END:
 
 
@@ -1474,9 +1469,9 @@ stromem ovoce Božího Uspokojení.
 * 24876
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24876-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24876-cs
   :END:
 
 
@@ -1492,9 +1487,9 @@ mi Bůh žehná
 * 24877
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24877-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24877-cs
   :END:
 
 
@@ -1510,9 +1505,9 @@ sebezničení.
 * 24878
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24878-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24878-cs
   :END:
 
 
@@ -1529,9 +1524,9 @@ magnet oddanosti Bohu.
 * 24879
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24879-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24879-cs
   :END:
 
 
@@ -1548,9 +1543,9 @@ do Království Jeho Srdce.
 * 24880
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24880-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24880-cs
   :END:
 
 
@@ -1569,9 +1564,9 @@ a osvícení.
 * 24881
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24881-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24881-cs
   :END:
 
 
@@ -1589,9 +1584,9 @@ světem touhy.
 * 24882
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24882-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24882-cs
   :END:
 
 
@@ -1609,9 +1604,9 @@ božského v nás.
 * 24883
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24883-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24883-cs
   :END:
 
 
@@ -1628,9 +1623,9 @@ a zasvěceného života.
 * 24884
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24884-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24884-cs
   :END:
 
 
@@ -1647,9 +1642,9 @@ než si kdy dokážeme představit.
 * 24885
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24885-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24885-cs
   :END:
 
 
@@ -1666,9 +1661,9 @@ nektar víry.
 * 24886
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24886-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24886-cs
   :END:
 
 
@@ -1684,9 +1679,9 @@ z naší mysli.
 * 24887
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24887-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24887-cs
   :END:
 
 
@@ -1703,9 +1698,9 @@ naprosto zmizely.
 * 24888
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24888-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24888-cs
   :END:
 
 
@@ -1723,9 +1718,9 @@ do naprostého zoufalství.
 * 24889
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24889-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24889-cs
   :END:
 
 
@@ -1741,9 +1736,9 @@ Nebeské slávy.
 * 24890
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24890-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24890-cs
   :END:
 
 
@@ -1760,9 +1755,9 @@ Nekonečnou Radostí.
 * 24891
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24891-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24891-cs
   :END:
 
 
@@ -1779,9 +1774,9 @@ zahradě moudrosti srdce.
 * 24892
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24892-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24892-cs
   :END:
 
 
@@ -1797,9 +1792,9 @@ seznam mých dokonalých vlastností.
 * 24893
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24893-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24893-cs
   :END:
 
 
@@ -1816,9 +1811,9 @@ mé tiché duše.
 * 24894
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24894-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24894-cs
   :END:
 
 
@@ -1835,9 +1830,9 @@ a Boží projevení?
 * 24895
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24895-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24895-cs
   :END:
 
 
@@ -1853,9 +1848,9 @@ zkrotit svou šílenou mysl.
 * 24896
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24896-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24896-cs
   :END:
 
 
@@ -1872,9 +1867,9 @@ avšak běda, nikdy nejsem připraven.
 * 24897
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24897-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24897-cs
   :END:
 
 
@@ -1891,9 +1886,9 @@ vyjít z noci nevědomosti.
 * 24898
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24898-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24898-cs
   :END:
 
 
@@ -1909,9 +1904,9 @@ Jinak to být nemůže!
 * 24899
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24899-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24899-cs
   :END:
 
 
@@ -1929,9 +1924,9 @@ musím setřít prach zmatení své mysli.
 * 24900
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:24900-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:24900-cs
   :END:
 
 
@@ -1942,13 +1937,3 @@ dává sám sebe Boží Vůli,
 je nejsladším Božím zpěvákem.
 
 #+END_VERSE
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

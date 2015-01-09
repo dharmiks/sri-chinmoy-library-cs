@@ -1,12 +1,7 @@
-#+TITLE: Sri Chinmoy odpovídá, část 27
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 27
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy 
   :original-edition: Nil
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:901e1-cs
+  :cite-key: sca:901e1-cs
   :END:
 
 
@@ -34,7 +29,7 @@
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:901-cs
+  :cite-key: sca:901-cs
   :date-event: 2000-01-04
   :END:
 
@@ -59,7 +54,7 @@ Určitě se můžete modlit za své drahé, kteří odešli. A myslete jen na je
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:902-cs
+  :cite-key: sca:902-cs
   :date-event: 2000-01-04
   :END:
 
@@ -90,7 +85,7 @@ Zaujmete-li pozitivní postoj -- že duše je skutečná, Mistr je skutečný, B
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:903-cs
+  :cite-key: sca:903-cs
   :date-event: 2000-01-04
   :END:
 
@@ -100,7 +95,7 @@ Zaujmete-li pozitivní postoj -- že duše je skutečná, Mistr je skutečný, B
 
 /Sri Chinmoy:/ To je naprostá pravda. Otázky přicházejí jen tehdy, když jsme v mysli. Když jsme v mysli, po celou dobu nás napadají myšlenky -- dobré, špatné, zdravé, nezdravé, vítané, nevítané myšlenky. Ale když žijeme v srdci, prožíváme naplnění. Naplnění znamená, že naše srdce vytvořilo svou jednotu s Boží Vůlí. Když jsme zajedno s Boží Vůlí uvnitř našeho srdce, pak tam nemohou být žádné otázky. V okamžiku, kdy jsme uvnitř srdce, otázky zmizí. Ale v okamžiku, kdy žijeme uvnitř mysli, přichází mnoho otázek bez odpovědí.
 
-Ale opět, dokonce i když se dostaví správná odpověď, mysl ji začne zpochybňovat. A později mysl dokonce zpochybní i otázky. Mysl pokládá otázky a ta stejná mysl nesouhlasí s odpovědí. Pak začne mysl podezřívat své vlastní otázky. Ale jestliže žijeme v srdci, zažijeme naplnění. Zde je vše dokonalé. Zde shledáme, že dokonce otázky již obsahují odpovědi. Pokud žijete v srdci, přijde jedna jediná otázka: „Kdo jsem já?“ A potom, když zopakujete „Kdo jsem já? Kdo jsem já?“ desetkrát nebo dvacetkrát, Bůh přidá jednu další slabiku: „Kdo nejsem Já?“ A pak je odpověď přímo zde. Otázka otázek je: „Kdo jsem já?“ a odpověď všech odpovědí je: „Kdo nejsem?“ Tím, že přidáme jedinou slabiku, je vše zodpovězeno.
+Ale opět, dokonce i když se dostaví správná odpověď, mysl ji začne zpochybňovat. A později mysl dokonce zpochybní i otázky. Mysl pokládá otázky a ta stejná mysl nesouhlasí s odpovědí. Pak začne mysl podezřívat své vlastní otázky. Ale jestliže žijeme v srdci, zažijeme naplnění. Zde je vše dokonalé. Zde shledáme, že dokonce otázky již obsahují odpovědi. Pokud žijete v srdci, přijde jedna jediná otázka: „kdo jsem já?“ a potom, když zopakujete „kdo jsem já? kdo jsem já?“ desetkrát nebo dvacetkrát, bůh přidá jednu další slabiku: „kdo nejsem já?“ a pak je odpověď přímo zde. otázka otázek je: „kdo jsem já?“ a odpověď všech odpovědí je: „Kdo nejsem?“ Tím, že přidáme jedinou slabiku, je vše zodpovězeno.
 
 
 
@@ -109,11 +104,11 @@ Ale opět, dokonce i když se dostaví správná odpověď, mysl ji začne zpoch
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:904-cs
+  :cite-key: sca:904-cs
   :date-event: 2000-01-04
   :END:
 
-/Sri Chinmoy:/ Každý na zemi je hudebník a zpěvák. Zpěvák nemusí udržet melodii naprosto dokonale. Hudba je jazykem Boha. Jazyk Boha -- hudba, není jako matematika nebo geometrie. Je to jazyk lásky. Jestliže máme rádi hudbu, to stačí. Dítě miluje svého otce. Jeho otec může být soudcem Nejvyššího Soudu. Co ví dítě o otcově velikosti? Ví jen: „Můj otec je soudce.“ Protože miluje svého otce, dostane od něj vše. Podobně, hudba je něco, co můžeme milovat. Jestliže hudbu milujeme, nepotřebujeme znát správnou techniku a další věci. Milujeme-li hudbu, pak samotný Zdroj hudby přijde a bude hrát v nás a skrze nás. 
+/Sri Chinmoy:/ každý na zemi je hudebník a zpěvák. zpěvák nemusí udržet melodii naprosto dokonale. hudba je jazykem boha. jazyk boha -- hudba, není jako matematika nebo geometrie. je to jazyk lásky. jestliže máme rádi hudbu, to stačí. dítě miluje svého otce. jeho otec může být soudcem nejvyššího soudu. co ví dítě o otcově velikosti? ví jen: „Můj otec je soudce.“ Protože miluje svého otce, dostane od něj vše. Podobně, hudba je něco, co můžeme milovat. Jestliže hudbu milujeme, nepotřebujeme znát správnou techniku a další věci. Milujeme-li hudbu, pak samotný Zdroj hudby přijde a bude hrát v nás a skrze nás. 
 
 Jinak, pokud něco nemilujeme nanejvýš upřímně a intenzivně, pak nezáleží na tom, kolik roků strávíme nacvičováním; naučíme se jen techniku. A také ji můžeme za několik let zapomenout. Ale pokud jednou milujeme Boha -- Nejvyššího Hudebníka, získáme všechno. Nemusíme hudbu důkladně prozkoumávat. Nemusíme dělat nic. Vše už je zde, uvnitř naší lásky. Láska znamená jednotu. 
 
@@ -132,7 +127,7 @@ Hudba nás udržuje naživu. Přitažlivé a sladké kvality hudby nás učí, j
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:905e1-cs
+  :cite-key: sca:905e1-cs
   :END:
 
 
@@ -142,11 +137,11 @@ Hudba nás udržuje naživu. Přitažlivé a sladké kvality hudby nás učí, j
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:905-cs
+  :cite-key: sca:905-cs
   :date-event: 2000-01-25
   :END:
 
-/Sri Chinmoy:/ Když to skončí, pak nebude žádná legrace! (zazní smích). Použil jsi termín ‚parní válec‘, ale měl bys použít jiný termín: ‚spirála‘. Vždy, když vidíš, že jsi velmi nízko, tak si zkus co nejrychleji vzpomenout, že brzy půjdeš opět nahoru. Jakmile začneš klesat, vzpomeň si, že tam dole nemají vůbec dobré jídlo. Potom se ti tam nebude chtít zůstat příliš dlouho. Odpovím ti na tuto otázku ještě podrobněji, ale teď bych vám chtěl říct jeden příběh.
+/Sri Chinmoy:/ když to skončí, pak nebude žádná legrace! (zazní smích). použil jsi termín ‚parní válec‘, ale měl bys použít jiný termín: ‚spirála‘. Vždy, když vidíš, že jsi velmi nízko, tak si zkus co nejrychleji vzpomenout, že brzy půjdeš opět nahoru. Jakmile začneš klesat, vzpomeň si, že tam dole nemají vůbec dobré jídlo. Potom se ti tam nebude chtít zůstat příliš dlouho. Odpovím ti na tuto otázku ještě podrobněji, ale teď bych vám chtěl říct jeden příběh.
 
 Dnes jsem chtěl jíst indické jídlo. Saraswati mi řekla, že se již všude ptala, a že nikde v Brazílii není možné indické jídlo sehnat. Řekl jsem, že někde tam indické jídlo musí být. Jestliže ho chci jíst, tak někde indické jídlo bude. Strávili jsme hledáním více než dvě hodiny. Přišli jsme na jedno místo a tam nám řekli: „Jeďte na Jižní I.“ Předtím, než jsme se dostali na Jižní I, jsme jeli velmi daleko a já jsem ti šel koupit dort k narozeninám.
 
@@ -156,11 +151,11 @@ Já jsem řekl: „Ne, něco z něj zůstane.“
 
 Konečně, po všech obtížích, jsme přijeli na Jižní I. Tam nám řekli, že jsme měli jet na Jižní III. A tak to pokračovalo. Celá tato oblast byla bytová výstavba. Obchody byly jen v jednom bloku. Na každé straně bylo jen pár obchodů a pak zde byly restaurace -- čínská, japonská, italská. Ale my jsme chtěli indickou restauraci. Byl jsem rozhodnut, že se najím indického jídla. Ale když jsme o něj požádali, řekli nám, že ho nemají.
 
-Savyasachi řídil. Chudák, je výborný, naprosto excelentní řidič. Kdokoliv jiný by to k mé nelibosti už dávno vzdal. Nakonec Alo a Saraswati vystoupily z auta a s trochou španělštiny se Saraswati zeptala jednoho člověka. Muž jim odpověděl portugalsky: „Měli by jste jít k hlavnímu vedoucímu všech restaurací.“ Ukázal na jednu restauraci a řekl: „Její majitel je presidentem asociace vlastníků restaurací. Jestliže za ním zajdete, bude schopen vám říct, jestli zde nějaká indická restaurace existuje nebo ne.“ Řekl nám, že před pár lety jedl v indické restauraci, ale nepamatoval si, kde to bylo. 
+Savyasachi řídil. Chudák, je výborný, naprosto excelentní řidič. Kdokoliv jiný by to k mé nelibosti už dávno vzdal. Nakonec Alo a Saraswati vystoupily z auta a s trochou španělštiny se Saraswati zeptala jednoho člověka. Muž jim odpověděl portugalsky: „měli by jste jít k hlavnímu vedoucímu všech restaurací.“ ukázal na jednu restauraci a řekl: „Její majitel je presidentem asociace vlastníků restaurací. Jestliže za ním zajdete, bude schopen vám říct, jestli zde nějaká indická restaurace existuje nebo ne.“ Řekl nám, že před pár lety jedl v indické restauraci, ale nepamatoval si, kde to bylo. 
 
 Zašli jsme tedy do té restaurace. Byla veliká a ten hluk uvnitř se téměř nedal snést. Saraswati šla promluvit s majitelem. Majitel jí řekl: „Toto není indická restaurace, ale máme vynikajícího kuchaře. Velmi snadno vám může indické jídlo připravit.“ 
 
-Řekl jsem: „Vidíte, Bůh naslouchá mým modlitbám.“ Samozřejmě, že lidskou přirozeností je pochybovat, ale na druhou stranu, výzva je výzva. Majitel přišel ke mně a potřásli jsme si rukama. Saraswati o mně něco řekla. Řekl: „Určitě budeme schopni vám připravit indické zeleninové kari. Náš šéfkuchař ví, jak ho udělat.“
+Řekl jsem: „vidíte, bůh naslouchá mým modlitbám.“ samozřejmě, že lidskou přirozeností je pochybovat, ale na druhou stranu, výzva je výzva. majitel přišel ke mně a potřásli jsme si rukama. saraswati o mně něco řekla. Řekl: „Určitě budeme schopni vám připravit indické zeleninové kari. Náš šéfkuchař ví, jak ho udělat.“
 
  Čekali jsme asi čtyřicet pět minut. Pak jsme se zeptali, jestli jídlo bude nebo ne. Když jdete do indické restaurace v New Yorku, také si někdy myslíte, že šli nakupovat vajíčka až do Indie! 
 
@@ -194,7 +189,7 @@ Pokud jste žárliví, můžete si myslet: „Ach, já jsem žárlil na danou os
 
 Jakékoliv nebožské síly, které si pěstujeme, ničí jen /nás/. Ti lidé, kteří se zdají být příčinou našeho utrpení, ti, s nimiž máme co do činění ve vnitřním světě a ve vitálním světě, mají své vlastní problémy. Jejich špatné síly nás nezraní. Nás zničí pouze naše vlastní špatné síly. Máme-li jakékoliv špatné vlastnosti, musíme jim čelit. Musíme je porazit, a to buď v této inkarnaci anebo v některé další inkarnaci. Na této zemi není jediný člověk, který nebude muset čelit problémům své nejistoty, žárlivosti a všem těmto věcem. Na druhou stranu platí, že v Božím stvoření nezůstane ani jedna osoba, která neporazí tyto špatné síly a nebude moci realizovat Nejvyšší.
 
-Je to otázka spokojenosti. Nejprve jsme spokojeni s jedním dolarem. Potom cítíme, že i když přišla spokojenost, potřebujeme spokojenosti trochu více -- chceme mít dva dolary. V duchovnosti také, když máme trochu míru, jsme šťastní. O několik dní později se náš duchovní hlad vrátí. Chceme mít více míru. Bůh říká: „Určitě můžeš mít víc.“ Pak nám Bůh dává větší hlad po Jeho Světle, Jeho Blaženosti, Jeho Míru. Pokaždé, když Bůh uvnitř nás tvoří nový hlad, říká: „Běž vpřed! Běž vpřed! Běž vpřed!“ Tak plačme pouze pro vnitřním hladu. Jste hladoví po pozemském jídle, ale pokud jste hladoví po duchovní stravě -- míru, světle a blaženosti -- pak i když sestoupíte o jeden krok dolů, vaše touha po vnitřním míru, světle a blaženosti vás budou nutit, abyste šli znovu nahoru.
+Je to otázka spokojenosti. Nejprve jsme spokojeni s jedním dolarem. Potom cítíme, že i když přišla spokojenost, potřebujeme spokojenosti trochu více -- chceme mít dva dolary. V duchovnosti také, když máme trochu míru, jsme šťastní. O několik dní později se náš duchovní hlad vrátí. Chceme mít více míru. Bůh říká: „určitě můžeš mít víc.“ pak nám bůh dává větší hlad po jeho světle, jeho blaženosti, jeho míru. pokaždé, když bůh uvnitř nás tvoří nový hlad, říká: „Běž vpřed! Běž vpřed! Běž vpřed!“ Tak plačme pouze pro vnitřním hladu. Jste hladoví po pozemském jídle, ale pokud jste hladoví po duchovní stravě -- míru, světle a blaženosti -- pak i když sestoupíte o jeden krok dolů, vaše touha po vnitřním míru, světle a blaženosti vás budou nutit, abyste šli znovu nahoru.
 
 Tvé jméno znamená transformaci. Transformace je nejtěžší předmět v celém Božím stvoření. Snažit se transformovat naší přirozenost je jako snažit narovnat ocas psa. Narovnáte ho, a pak, jakmile ho pustíte, opět se zkroutí. Lidská transformace může trvat inkarnaci po inkarnaci. Realizace je velmi těžký předmět, ale transformace přirozenosti, transformace světa, je mnohem obtížnější. Projevení Boha Božím vlastním způsobem je mnohem obtížnější, než realizace Boha. To je důvod, proč se mnoho, mnoho duchovních Mistrů nestaralo o projevení Boha. Řekli: „Dosáhli jsme Nejvyššího, nejvyšší větve. Nic víc, nic víc, nic víc!“ Mají pocit, že když sestoupí dolů a podělí se o plody své realizace, budou znovu pohlceni nocí nevědomosti. Na druhou stranu platí, že když Bůh uděluje realizaci, dává i osvícení. A když osvěcuje srdce, mysl, vitálno a tělo, pak uvnitř tohoto osvícení probíhá transformace.
 
@@ -209,7 +204,7 @@ Pokud jste velmi bohatí, tak pokud chcete, můžete mít polovinu svého bohats
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:906e1-cs
+  :cite-key: sca:906e1-cs
   :END:
 
 
@@ -219,7 +214,7 @@ Pokud jste velmi bohatí, tak pokud chcete, můžete mít polovinu svého bohats
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:906-cs
+  :cite-key: sca:906-cs
   :date-event: 2000-01-26
   :END:
 
@@ -235,11 +230,11 @@ Když Bůh vidí, že je to beznadějný případ, stáhne svou Trpělivost. Tak
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:907-cs
+  :cite-key: sca:907-cs
   :date-event: 2000-01-26
   :END:
 
-/Sri Chinmoy:/ Někdy si myslíme, že když je cíl tak vysoko a je tak úžasný, že na to máme hodně času. To ale děláme obrovskou chybu. Myslíme si: „Můj Bože! Je to tak obtížný úkol! Nechme tomu svůj čas -- čtyři roky, pět let, nebo dokonce šest let -- protože je to tak velká a těžká věc.“ Ale nevíme, v kterém okamžiku vstoupí do naší mysli letargie. Budeme-li každý den, každou hodinu tvrdě pracovat a budeme-li mít zároveň trpělivost, pak řekneme: „Dnes se mi to nepodařilo. Podaří se to zítra. Nepodaří-li se to zítra, tak určitě pozítří.“ Ale bohužel, po několika týdnech nebo několika měsících nebo za rok ztratíme intenzitu. Chybí-li delší dobu intenzita, pak ochota a dokonce i připravenost odejdou. V té chvíli si užíváme život svým vlastním způsobem. Dříve jsme se velmi upřímně a velmi obětavě snažili něco dokázat. Cítili jsme, „Opravdu se hodně snažím. Dnes jsem toho nedocílil, ale zítra to dokážu.“
+/Sri Chinmoy:/ někdy si myslíme, že když je cíl tak vysoko a je tak úžasný, že na to máme hodně času. to ale děláme obrovskou chybu. myslíme si: „můj bože! je to tak obtížný úkol! nechme tomu svůj čas -- čtyři roky, pět let, nebo dokonce šest let -- protože je to tak velká a těžká věc.“ ale nevíme, v kterém okamžiku vstoupí do naší mysli letargie. budeme-li každý den, každou hodinu tvrdě pracovat a budeme-li mít zároveň trpělivost, pak řekneme: „Dnes se mi to nepodařilo. Podaří se to zítra. Nepodaří-li se to zítra, tak určitě pozítří.“ Ale bohužel, po několika týdnech nebo několika měsících nebo za rok ztratíme intenzitu. Chybí-li delší dobu intenzita, pak ochota a dokonce i připravenost odejdou. V té chvíli si užíváme život svým vlastním způsobem. Dříve jsme se velmi upřímně a velmi obětavě snažili něco dokázat. Cítili jsme, „Opravdu se hodně snažím. Dnes jsem toho nedocílil, ale zítra to dokážu.“
 
 Farmář obdělává pole dnes, zítra i pozítří se stejnou upřímností. Potom vyklíčí setba a sklidí bohatou úrodu. Stejně tak v našem životě musíme vědět, že nám Bůh dal potřebné množství trpělivosti. Ale pokud ji nepoužijeme, pak do nás vstoupí letargie, sebeuspokojení a ostatní nebožské kvality a my se budeme vymlouvat, že náš cíl je něco velmi významného a důležitého. Řekneme, že Řím se také nepostavil za jeden den. Vstoupí-li do naší mysli tato myšlenka, pak prostě jen klameme sami sebe. Cíl může být velmi vysoko nebo velmi daleko, ale my musíme každý den udržovat stejnou rychlost. Zpomalíme-li jeden den svou rychlost, pak musíme další den zrychlit, abychom to dohnali.
 
@@ -250,7 +245,7 @@ Farmář obdělává pole dnes, zítra i pozítří se stejnou upřímností. Po
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:908-cs
+  :cite-key: sca:908-cs
   :date-event: 2000-01-26
   :END:
 
@@ -267,13 +262,13 @@ Slyší-li někteří lidé Boží varování pětkrát nebo šestkrát, změní
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:909-cs
+  :cite-key: sca:909-cs
   :date-event: 2000-01-26
   :END:
 
-/Sri Chinmoy:/ Je v tom rozdíl. Když cvičíme trpělivost v našem vlastním životě, je to vtip. Jen si chytře říkáme, že cvičíme svou trpělivost. Nebereme své nedostatky jako nedostatky. Nedostatky druhých bereme jako skutečné nedostatky, ale své vlastní nedostatky přehlížíme. Můžeme dvacetkrát zalhat -- to je povoleno. Ale když jiný člověk řekne jednu lež, říkáme: „Je to tak špatný člověk! On mi zalhal!“ Kolik lží jsme řekli my, nepočítáme. 
+/Sri Chinmoy:/ je v tom rozdíl. když cvičíme trpělivost v našem vlastním životě, je to vtip. jen si chytře říkáme, že cvičíme svou trpělivost. nebereme své nedostatky jako nedostatky. nedostatky druhých bereme jako skutečné nedostatky, ale své vlastní nedostatky přehlížíme. můžeme dvacetkrát zalhat -- to je povoleno. ale když jiný člověk řekne jednu lež, říkáme: „Je to tak špatný člověk! On mi zalhal!“ Kolik lží jsme řekli my, nepočítáme. 
 
-Pokud jde o naše vlastní nedostatky, máme pocit, že jsme bezmocní. Ale necítíme, že ostatní jsou také bezmocní. Vidíme-li v někom jiném i ten nejmenší zlomek nedokonalosti, říkáme: „Je to ten nejhorší možný člověk!“ Můžeme mít stejnou špatnou kvalitu ve větší míře než má on, ale domníváme se, že v našem vlastním případě je to omluvitelné. V tomto případě nepoužíváme trpělivost. Myslíme si: „Mrknutím oka se budu moci zbavit všech svých špatných vlastností.“ Ale pokusme se osvítit i jedinou špatnou kvalitu! Potrvá to roky.
+Pokud jde o naše vlastní nedostatky, máme pocit, že jsme bezmocní. Ale necítíme, že ostatní jsou také bezmocní. Vidíme-li v někom jiném i ten nejmenší zlomek nedokonalosti, říkáme: „je to ten nejhorší možný člověk!“ můžeme mít stejnou špatnou kvalitu ve větší míře než má on, ale domníváme se, že v našem vlastním případě je to omluvitelné. v tomto případě nepoužíváme trpělivost. myslíme si: „Mrknutím oka se budu moci zbavit všech svých špatných vlastností.“ Ale pokusme se osvítit i jedinou špatnou kvalitu! Potrvá to roky.
 
 
 
@@ -282,7 +277,7 @@ Pokud jde o naše vlastní nedostatky, máme pocit, že jsme bezmocní. Ale nec�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:910-cs
+  :cite-key: sca:910-cs
   :date-event: 2000-01-26
   :END:
 
@@ -290,7 +285,7 @@ Pokud jde o naše vlastní nedostatky, máme pocit, že jsme bezmocní. Ale nec�
 
 Kolik lidí na světě je připraveno dokonce jen pozorovat dobré vlastnosti v někom jiném, nemluvě o jejich ocenění nebo obdivu? Jakmile vidíme dobré vlastnosti, obrátíme ze žárlivosti tvář na druhou stranu. Je-li někdo dobrý zpěvák, bude na něj mnoho lidí, kteří se nikdy nemohou stát dobrými zpěváky, žárlit. Velmi vzácně mysl oceňuje dobré vlastnosti či úspěchy druhých. V jednu chvíli je mysl ocení; v příštím okamžiku stejná mysl řekne: „Ach, toto dosažení je tak hloupé.“ 
 
-Další věc, kterou mysl říká, je: „Kdybych to nacvičoval, mohl bych udělat to samé.“ Vdova z indické vesnice řekne, že kdyby trénovala fotbal, mohla by se stát dalším Pelém. Řekne, že buď nedostala příležitost, nebo že to nechtěla. Takový je lidský život. My říkáme: „Kdybych trénoval, mohl bych vylézt na Himaláje nebo bych mohl přeplavat kanál La Manche.“ Bůh říká: „Tak proč jsi to proboha nezkusil?“ 
+Další věc, kterou mysl říká, je: „kdybych to nacvičoval, mohl bych udělat to samé.“ vdova z indické vesnice řekne, že kdyby trénovala fotbal, mohla by se stát dalším pelém. Řekne, že buď nedostala příležitost, nebo že to nechtěla. takový je lidský život. my říkáme: „kdybych trénoval, mohl bych vylézt na himaláje nebo bych mohl přeplavat kanál la manche.“ bůh říká: „Tak proč jsi to proboha nezkusil?“ 
 
 Naše lidská závist nám stále zkouší vzít radost z ostatních tím, že snižuje jejich úspěchy. Ale pak, co hoří uvnitř nás? Navenek můžeme říci ostatním: „Kdybych cvičil, mohl jsem se vylézt na Himaláje, mohl jsem udělat všechno. Mohl jsem se stát nejrychlejším sprinterem na světě, mohl jsem porazil Carla Lewise.“ Vnitřně naše žárlivost hoří a hoří. Naše žárlivost se stále snaží snížit standard světa.
 
@@ -302,7 +297,7 @@ Naše lidská závist nám stále zkouší vzít radost z ostatních tím, že s
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:911-cs
+  :cite-key: sca:911-cs
   :date-event: 2000-01-26
   :END:
 
@@ -318,7 +313,7 @@ Pokud se někdo z vaší rodiny nechová dobře a jste trpěliví, můžete mu z
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:912-cs
+  :cite-key: sca:912-cs
   :date-event: 2000-01-26
   :END:
 
@@ -353,11 +348,11 @@ Pokud jste dobří lidé, tak když uděláte něco špatně, nebudete se před 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:913-cs
+  :cite-key: sca:913-cs
   :date-event: 2000-01-26
   :END:
 
-/Sri Chinmoy:/ Vždy řekněte: „Cokoliv Bůh dělá, je pro mé dobro. Pokud mi chce dát pohlavek, je to pro mé dobro. Pokud se chce na mě usmát a pohladit mě, je to všechno pro mé dobro. Chce-li mi požehnat, je to pro mé dobro. Chce-li mě kopnout, je to pro mé dobro.“ Když Bůh používá své Světlo Spravedlnosti, musíme říci, že je to pro naše dobro. Musíme říci: „Dělal jsem to tak dlouhou dobu špatně. Teď Bůh mrknutím oka zničil mé špatné chování, mé slabé stránky.“ Bůh čeká a čeká, aby nás změnil. Nakonec, když použije svou Spravedlnost, je to otázkou několika sekund. Ale kolik lidí je připraveno říci, že to, co udělal, je pro naše dobro? My říkáme: „Bůh je krutý. Proč mi nemohl dát ještě jednu šanci? Kdyby mi dal jen jednu šanci, tak bych špatné věci přestal dělat.“ Máme pocit, že si zasloužíme ještě jednu šanci, ale nepočítáme, kolik šancí nám Bůh již dal.
+/Sri Chinmoy:/ vždy řekněte: „cokoliv bůh dělá, je pro mé dobro. pokud mi chce dát pohlavek, je to pro mé dobro. pokud se chce na mě usmát a pohladit mě, je to všechno pro mé dobro. chce-li mi požehnat, je to pro mé dobro. chce-li mě kopnout, je to pro mé dobro.“ když bůh používá své světlo spravedlnosti, musíme říci, že je to pro naše dobro. musíme říci: „dělal jsem to tak dlouhou dobu špatně. teď bůh mrknutím oka zničil mé špatné chování, mé slabé stránky.“ bůh čeká a čeká, aby nás změnil. nakonec, když použije svou spravedlnost, je to otázkou několika sekund. ale kolik lidí je připraveno říci, že to, co udělal, je pro naše dobro? my říkáme: „Bůh je krutý. Proč mi nemohl dát ještě jednu šanci? Kdyby mi dal jen jednu šanci, tak bych špatné věci přestal dělat.“ Máme pocit, že si zasloužíme ještě jednu šanci, ale nepočítáme, kolik šancí nám Bůh již dal.
 
 
 
@@ -366,11 +361,11 @@ Pokud jste dobří lidé, tak když uděláte něco špatně, nebudete se před 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:914-cs
+  :cite-key: sca:914-cs
   :date-event: 2000-01-26
   :END:
 
-/Sri Chinmoy:/ Je to velmi jednoduché. Jen vzývejte světlo. Když se modlíte, modlete se k Bohu, ať zaplaví vaše tělo, vitálno, mysl a srdce světlem. Na tom není nic špatného. Je naprosto nezbytné modlit se k Nejvyššímu, aby zaplavil vaši vnitřní a vnější existenci světlem. Naši zřeci z upanišád se modlili k Bohu pro světlo, světlo, světlo. My také potřebujeme jen jednu věc: světlo, světlo, světlo. Chcete-li přinést dolů se Shora světlo, odpověď je modlitba. Nebo můžete vzývat Boha Světlo, když meditujete.
+/Sri Chinmoy:/ je to velmi jednoduché. jen vzývejte světlo. když se modlíte, modlete se k bohu, ať zaplaví vaše tělo, vitálno, mysl a srdce světlem. na tom není nic špatného. je naprosto nezbytné modlit se k nejvyššímu, aby zaplavil vaši vnitřní a vnější existenci světlem. naši zřeci z upanišád se modlili k bohu pro světlo, světlo, světlo. my také potřebujeme jen jednu věc: světlo, světlo, světlo. Chcete-li přinést dolů se Shora světlo, odpověď je modlitba. Nebo můžete vzývat Boha Světlo, když meditujete.
 
 
 
@@ -379,7 +374,7 @@ Pokud jste dobří lidé, tak když uděláte něco špatně, nebudete se před 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:915-cs
+  :cite-key: sca:915-cs
   :date-event: 2000-01-26
   :END:
 
@@ -394,11 +389,11 @@ Upřímnost vašeho srdce a čistota vaší mysli vám dá dávku trpělivosti, 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:916-cs
+  :cite-key: sca:916-cs
   :date-event: 2000-01-26
   :END:
 
-/Sri Chinmoy:/ Máte štěstí. Snažíte se tak těžce, abyste viděli Boha. Bůh před vás položil dva plody. Barva plodů je stejná. Bůh říká: „Teď se modlete a meditujte. Pokud se budete modlit a meditovat, vezmete si správné ovoce.“ Ale mnozí lidé nejsou ochotni se modlit a meditovat. Jsou tak nenasytní, že si okamžitě jedno ovoce vezmou, a to, které si vzali, se nazývá nevědomost. Vnější slupka obou plodů vypadá tak krásně. Domníváme se, že oba budou stejně chutné. Bůh nám řekl, abychom se k Němu modlili, aby nám dopřál moudrost zvolit si to správné, ale my nemáme trpělivost. Říkáme: „Ne, ne. Jsem si jist, že oba jsou stejně dobré.“ Vybereme si jeden, jen abychom zjistili, že je samotnou nevědomostí. Pak trpíme. Když si toto ovoce bereme, vzdalujeme se od Boha dál a dál. Ale kdybychom se modlili k Bohu, abychom si vybrali to správné, vzali bychom si to, které je moudrost. 
+/Sri Chinmoy:/ máte štěstí. snažíte se tak těžce, abyste viděli boha. bůh před vás položil dva plody. barva plodů je stejná. bůh říká: „teď se modlete a meditujte. pokud se budete modlit a meditovat, vezmete si správné ovoce.“ ale mnozí lidé nejsou ochotni se modlit a meditovat. jsou tak nenasytní, že si okamžitě jedno ovoce vezmou, a to, které si vzali, se nazývá nevědomost. vnější slupka obou plodů vypadá tak krásně. domníváme se, že oba budou stejně chutné. bůh nám řekl, abychom se k němu modlili, aby nám dopřál moudrost zvolit si to správné, ale my nemáme trpělivost. Říkáme: „Ne, ne. Jsem si jist, že oba jsou stejně dobré.“ Vybereme si jeden, jen abychom zjistili, že je samotnou nevědomostí. Pak trpíme. Když si toto ovoce bereme, vzdalujeme se od Boha dál a dál. Ale kdybychom se modlili k Bohu, abychom si vybrali to správné, vzali bychom si to, které je moudrost. 
 
 
 
@@ -407,11 +402,11 @@ Upřímnost vašeho srdce a čistota vaší mysli vám dá dávku trpělivosti, 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:917-cs
+  :cite-key: sca:917-cs
   :date-event: 2000-01-26
   :END:
 
-/Sri Chinmoy:/ Vyrovnanost je nekonečně, nekonečně vyšší, hlubší a širší než trpělivost. V mém případě není srovnání mezi mou vyrovnaností a mou trpělivostí. Má vyrovnanost jedná každou vteřinu s univerzálním vědomím, s transcendentálním vědomím. Vyrovnanost je produkt univerzálního vědomí, transcendentální vědomí, nebo to můžete říct naopak: z vyrovnanosti vstupujeme do univerzálního vědomí, z vyrovnanosti vstupujeme do transcendentálního vědomí. Trpělivost je jako hmyz a vyrovnanost je jako milion obrů. 
+/Sri Chinmoy:/ vyrovnanost je nekonečně, nekonečně vyšší, hlubší a širší než trpělivost. v mém případě není srovnání mezi mou vyrovnaností a mou trpělivostí. má vyrovnanost jedná každou vteřinu s univerzálním vědomím, s transcendentálním vědomím. vyrovnanost je produkt univerzálního vědomí, transcendentální vědomí, nebo to můžete říct naopak: z vyrovnanosti vstupujeme do univerzálního vědomí, z vyrovnanosti vstupujeme do transcendentálního vědomí. Trpělivost je jako hmyz a vyrovnanost je jako milion obrů. 
 
 Vyrovnanost duchovního Mistra pojednává o vesmíru. Duchovní Mistři se nezabývají pouze jedním nebo dvěma jednotlivci, jedním stem žáků nebo dvěma sty žáků. Vyrovnanost se musí vypořádat s vesmírem, se všemi lidskými bytostmi, se stvořením samotným. Trpělivost se zabývá pouze jednotlivci, které známe -- našimi blízkými nebo osobami, se kterými se setkáváme v našem každodenním životě. Ale vyrovnanost se zabývá lidstvem, univerzálním vědomím. Vyrovnanost a trpělivost jsou tak odlišné. Jedno je jako malá kapka. To druhé je jako oceán.
 
@@ -423,7 +418,7 @@ Vyrovnanost duchovního Mistra pojednává o vesmíru. Duchovní Mistři se neza
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:918-cs
+  :cite-key: sca:918-cs
   :date-event: 2000-01-26
   :END:
 
@@ -438,11 +433,11 @@ Vyrovnanost duchovního Mistra pojednává o vesmíru. Duchovní Mistři se neza
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:919-cs
+  :cite-key: sca:919-cs
   :date-event: 2000-01-26
   :END:
 
-/Sri Chinmoy:/ Jistě. Pokud někdo po dlouhou dobu zkoušel Boží Trpělivost, a pak v případě, že má dobré srdce, bude říkat: „Bůh je ke mně tak laskavý. On je tak laskavý, tak soucitný. Jak to, že jsem Ho tak mučil?“ Mnoho zlobivých děti se staly dobrými, když viděly, že jejich matka pláče, pláče, pláče, protože se chovají špatně. Říkají: „Jak dlouho můžeme mučit svou matku? Ona nám dává jen samou lásku a soucit!“ Pak obrátí nový list. V té chvíli je trpělivost matky úspěšná v probuzení dobrých vlastnosti svých dětí.
+/Sri Chinmoy:/ jistě. pokud někdo po dlouhou dobu zkoušel boží trpělivost, a pak v případě, že má dobré srdce, bude říkat: „bůh je ke mně tak laskavý. on je tak laskavý, tak soucitný. jak to, že jsem ho tak mučil?“ mnoho zlobivých děti se staly dobrými, když viděly, že jejich matka pláče, pláče, pláče, protože se chovají špatně. Říkají: „Jak dlouho můžeme mučit svou matku? Ona nám dává jen samou lásku a soucit!“ Pak obrátí nový list. V té chvíli je trpělivost matky úspěšná v probuzení dobrých vlastnosti svých dětí.
 
 
 
@@ -451,7 +446,7 @@ Vyrovnanost duchovního Mistra pojednává o vesmíru. Duchovní Mistři se neza
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:920e1-cs
+  :cite-key: sca:920e1-cs
   :date-event: 2000-01-26
   :END:
    
@@ -462,7 +457,7 @@ Vyrovnanost duchovního Mistra pojednává o vesmíru. Duchovní Mistři se neza
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:920-cs
+  :cite-key: sca:920-cs
   :date-event: 2000-01-29
   :END:
 
@@ -479,7 +474,7 @@ Mnoho věcí děláte rychle, velmi rychle, s obrovskou dynamikou. V té chvíli
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:921-cs
+  :cite-key: sca:921-cs
   :date-event: 2000-01-29
   :END:
 
@@ -510,7 +505,7 @@ Pokud je zvíře vyvinuté a má velmi blízko ke svému pánovi, pak takové zv
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:922-cs
+  :cite-key: sca:922-cs
   :date-event: 2000-01-29
   :END:
 
@@ -523,7 +518,7 @@ Pokud je zvíře vyvinuté a má velmi blízko ke svému pánovi, pak takové zv
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:923-cs
+  :cite-key: sca:923-cs
   :date-event: 2000-01-29
   :END:
 
@@ -539,7 +534,7 @@ Stejně tak v duchovním životě musíme mít dychtivost. Dychtivost má sílu 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:924-cs
+  :cite-key: sca:924-cs
   :date-event: 2000-01-29
   :END:
 
@@ -558,7 +553,7 @@ Použijete-li termín ‚Milovaný‘, pak spojíte aspekt Boží Síly s Jeho a
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:925-cs
+  :cite-key: sca:925-cs
   :date-event: 2000-01-29
   :END:
   
@@ -571,17 +566,3 @@ Také si můžete z času na čas vzpomenout na zvláštní okamžiky během tě
 Ano, někdy nás vyrušoval déšť, ale znovu, musíme změnit svůj postoj. Máte-li se naučit několik písní, déšť vám dává jedinečnou příležitost na procvičování. A pokud máte velmi speciální věci, které jste po několik dní nebo několik týdnů zanedbávali, můžete, když prší, snadno tyto věci dělat. Takto může být vnější nevýhoda vnitřní výhodou. Pokaždé, když je nevýhoda na jedné úrovni, můžeme z toho vytvořit výhodu na jiné úrovni. 
 
 Takto si můžeme zachovat vše dobré, všechno božské, co jsme sami udělali a čeho jsme byli svědky během vánočního výletu.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

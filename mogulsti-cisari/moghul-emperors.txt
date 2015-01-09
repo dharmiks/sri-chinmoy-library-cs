@@ -1,20 +1,15 @@
-#+TITLE: Mogulští císaři
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Mogulští císaři
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2001
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: ME-cs
-  :GENRE: story
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2001
+  :publisher: Madal Bal
+  :cite-key: ME-cs
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Timur
 
   :PROPERTIES:
-  :GENRE: stories
-  :KEYWORDS:
-  :CITE-KEY: ME:1-cs
+  :genre: stories
+  :keywords:
+  :cite-key: me:1-cs
   :END:
 
 
@@ -32,9 +27,9 @@
 * Timur a žebravý mnich
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:2-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:2-cs
   :END:
 
 
@@ -81,9 +76,9 @@ Timur v Indii nezůstal. Po té, co si ji podmanil, se vrátil do Samarkandu s�
 * Babar: (vládl 1526-1530)
 
   :PROPERTIES:
-  :GENRE: stories
-  :KEYWORDS:
-  :CITE-KEY: ME:3-cs
+  :genre: stories
+  :keywords:
+  :cite-key: me:3-cs
   :END:
 
 
@@ -91,9 +86,9 @@ Timur v Indii nezůstal. Po té, co si ji podmanil, se vrátil do Samarkandu s�
 * Bitva Panipatu
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:4-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:4-cs
   :END:
 
 
@@ -126,9 +121,9 @@ Jakmile Babar dorazil na to místo, pozvedl hlavu Ibrahima Lodiho ze země a ře
 * Babarova jednota se svou armádou
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:5-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:5-cs
   :END:
 
 
@@ -145,9 +140,9 @@ Babar o této příhodě napsal ve svých slavných pamětech, zvaných Babar-na
 * Diamant Kohinoor
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:6-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:6-cs
   :END:
 
 
@@ -164,9 +159,9 @@ Babar však odpověděl: „Ne, můj synu, ty si ho zasloužíš. Dostal jsi ho 
 * Babarovo odpouštějící srdce
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:7-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:7-cs
   :END:
 
 
@@ -185,9 +180,9 @@ Babar se na svého bratrance zeširoka usmál úsměvem odpuštění a důvěry.
 * Babar bere život
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:8-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:8-cs
   :END:
 
 
@@ -212,9 +207,9 @@ Tak si Babar vzal mužův život, jen aby mu dal smysl a naplnění. Místo toho
 * Babarova péče o obchodníka
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:9-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:9-cs
   :END:
 
 
@@ -231,9 +226,9 @@ Tak Babar všechno odevzdal příbuzným obchodníka, aniž by přijal jakoukoli
 * Babar obětuje svůj život
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:10-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:10-cs
   :END:
 
 
@@ -263,9 +258,9 @@ První vláda: 1530-1540
 Druhá vláda: 1555-1556
 
   :PROPERTIES:
-  :GENRE: stories
-  :KEYWORDS:
-  :CITE-KEY: ME:11-cs
+  :genre: stories
+  :keywords:
+  :cite-key: me:11-cs
   :END:
 
 
@@ -273,9 +268,9 @@ Druhá vláda: 1555-1556
 * Bratře, přijď a zachraň mě!
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:12-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:12-cs
   :END:
 
 
@@ -302,9 +297,9 @@ Druhá vláda: 1555-1556
 * Statečnost nosiče vody
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:13-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:13-cs
   :END:
 
 
@@ -329,9 +324,9 @@ Druhá vláda: 1555-1556
 * Humajun odpouští svému prvnímu ministrovi
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:14-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:14-cs
   :END:
 
 
@@ -352,9 +347,9 @@ Druhá vláda: 1555-1556
 * Narození Akbara
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:15-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:15-cs
   :END:
 
 
@@ -375,9 +370,9 @@ Druhá vláda: 1555-1556
 * Humajun zachraňuje Kamranův život
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:16-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:16-cs
   :END:
 
 
@@ -404,9 +399,9 @@ Druhá vláda: 1555-1556
 * Humajunova smrt
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:17-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:17-cs
   :END:
 
 
@@ -429,9 +424,9 @@ Druhá vláda: 1555-1556
 * Akbar Veliký: (vládl 1556-1605)
 
   :PROPERTIES:
-  :GENRE: stories
-  :KEYWORDS:
-  :CITE-KEY: ME:18-cs
+  :genre: stories
+  :keywords:
+  :cite-key: me:18-cs
   :END:
 
 
@@ -439,9 +434,9 @@ Druhá vláda: 1555-1556
 * Největší mogulský císař
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:19-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:19-cs
   :END:
 
 
@@ -454,9 +449,9 @@ Druhá vláda: 1555-1556
 * Boiram Khan odchází do ústraní
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:20-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:20-cs
   :END:
 
 
@@ -479,9 +474,9 @@ Druhá vláda: 1555-1556
 * Stará paní a dýka
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:21-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:21-cs
   :END:
 
 
@@ -502,9 +497,9 @@ Druhá vláda: 1555-1556
 * Akbarovo světlo spravedlnosti
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:22-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:22-cs
   :END:
 
 
@@ -527,9 +522,9 @@ Druhá vláda: 1555-1556
 * Císařův skrytý dar
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:23-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:23-cs
   :END:
 
 
@@ -562,9 +557,9 @@ Druhá vláda: 1555-1556
 * Akbar se modlí za syna
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:24-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:24-cs
   :END:
 
 
@@ -589,9 +584,9 @@ Druhá vláda: 1555-1556
 * Nezměřitelné bohatství mogulské říše
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:25-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:25-cs
   :END:
 
 
@@ -614,9 +609,9 @@ Druhá vláda: 1555-1556
 * Ministrův chrám
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:26-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:26-cs
   :END:
 
 
@@ -631,9 +626,9 @@ Druhá vláda: 1555-1556
 * Akbarova tajná návštěva Mirabaji
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:27-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:27-cs
   :END:
 
 
@@ -657,9 +652,9 @@ Druhá vláda: 1555-1556
 
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: ME:28-cs
+  :genre: play
+  :keywords:
+  :cite-key: me:28-cs
   :END:
 
 
@@ -667,9 +662,9 @@ Druhá vláda: 1555-1556
 * Výstup první
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: ME:29-cs
+  :genre: play
+  :keywords:
+  :cite-key: me:29-cs
   :END:
 
 
@@ -742,9 +737,9 @@ Představivosti, ach představivosti!]
 * Výstup druhý
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: ME:30-cs
+  :genre: play
+  :keywords:
+  :cite-key: me:30-cs
   :END:
 
 
@@ -837,9 +832,9 @@ Představivosti, ach představivosti!]
 * Výstup třetí
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: ME:31-cs
+  :genre: play
+  :keywords:
+  :cite-key: me:31-cs
   :END:
 
 
@@ -856,9 +851,9 @@ Představivosti, ach představivosti!]
 * Životopisy mogulských císařů
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:32-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:32-cs
   :END:
 
 
@@ -871,9 +866,9 @@ Představivosti, ach představivosti!]
 * Akbar ustupuje džainistickému mnichovi
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:33-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:33-cs
   :END:
 
    V roce 1582 pozval Akbar na svůj dvůr jednoho džainistického mnicha, aby se zúčastnil náboženských a filozofických rozprav. Akbar měl tyto rozpravy velice rád a snažil se, aby se jich zúčastnili zástupci mnoha různých cest. Pozvaný mnich se jmenoval Haravidžaja. 
@@ -885,9 +880,9 @@ Představivosti, ach představivosti!]
 * Kdo přináší horší smůlu?
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:34-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:34-cs
   :END:
 
 
@@ -912,9 +907,9 @@ Představivosti, ach představivosti!]
 * Hloupí lidé a moudří lidé
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:35-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:35-cs
   :END:
 
 
@@ -939,9 +934,9 @@ Představivosti, ach představivosti!]
 * Temnota mysli
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:36-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:36-cs
   :END:
 
 
@@ -969,9 +964,9 @@ Představivosti, ach představivosti!]
 * Moc trestat
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:37-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:37-cs
   :END:
 
 
@@ -996,9 +991,9 @@ Představivosti, ach představivosti!]
 * Univerzální žárlivost
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:38-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:38-cs
   :END:
 
 
@@ -1025,9 +1020,9 @@ Představivosti, ach představivosti!]
 * Nebe a peklo
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:39-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:39-cs
   :END:
 
 
@@ -1054,9 +1049,9 @@ Představivosti, ach představivosti!]
 * Akbar je důležitější než Indra
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:40-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:40-cs
   :END:
 
 
@@ -1089,9 +1084,9 @@ Představivosti, ach představivosti!]
 * Syn osla
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:41-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:41-cs
   :END:
 
 
@@ -1106,9 +1101,9 @@ Představivosti, ach představivosti!]
 * Vstaň tedy!
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:42-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:42-cs
   :END:
 
 
@@ -1129,9 +1124,9 @@ Představivosti, ach představivosti!]
 * Z téže kasty
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:43-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:43-cs
   :END:
 
 
@@ -1146,9 +1141,9 @@ Představivosti, ach představivosti!]
 * Pouze kabát, nikoli osla
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:44-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:44-cs
   :END:
 
 
@@ -1163,9 +1158,9 @@ Představivosti, ach představivosti!]
 * Čtyři prvotřídní hlupáci
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:45-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:45-cs
   :END:
 
 
@@ -1200,9 +1195,9 @@ Představivosti, ach představivosti!]
 * Manželství odvahy a strachu
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:46-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:46-cs
   :END:
 
 
@@ -1224,9 +1219,9 @@ Představivosti, ach představivosti!]
 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:47-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:47-cs
   :END:
 
 
@@ -1263,9 +1258,9 @@ Představivosti, ach představivosti!]
 * Slepých je vždy více, než vidících
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:48-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:48-cs
   :END:
 
 
@@ -1300,9 +1295,9 @@ Představivosti, ach představivosti!]
 * Ty jsi horší než duch
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:49-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:49-cs
   :END:
 
 
@@ -1321,9 +1316,9 @@ Představivosti, ach představivosti!]
 * Neurážej hlupáka
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:50-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:50-cs
   :END:
 
 
@@ -1337,9 +1332,9 @@ Představivosti, ach představivosti!]
 * Tak mnoho a tak málo, jak je jen možné
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:51-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:51-cs
   :END:
 
 
@@ -1361,9 +1356,9 @@ Představivosti, ach představivosti!]
 * Vzdálenost mezi pravdou a lží
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:52-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:52-cs
   :END:
 
 
@@ -1376,9 +1371,9 @@ Představivosti, ach představivosti!]
 * Birbalova smrt
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:53-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:53-cs
   :END:
 
 
@@ -1399,9 +1394,9 @@ Představivosti, ach představivosti!]
 * Akbar a básník
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:54-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:54-cs
   :END:
 
 
@@ -1409,7 +1404,7 @@ Představivosti, ach představivosti!]
 
    Jednou jistý básník napsal velice krásnou báseň a císař byl velmi spokojen. Básník však byl naneštěstí velmi chtivý peněz. Když císař rokoval o tom, kolik by měl dostat, byl ten muž tak netrpělivý, že se nemohl dočkat, až se dozví výsledek. Řekl tedy císaři: „Možná, že mi dáš sto tisíc zlatých mincí. Smím vidět, jak vypadá takové množství mincí a kolik váží?“ Básník chtěl ty mince jenom vidět. Nevěděl, kolik jich dostane.
 
-   Akbara to pobavilo a řekl: „Dobrá, přineste mu ukázat sto tisíc zlatých mincí.“ Když před básníka donesli peníze, řekl Akbar: „No, co se teď v tobě děje? Řekni!“
+   Akbara to pobavilo a řekl: „dobrá, přineste mu ukázat sto tisíc zlatých mincí.“ když před básníka donesli peníze, řekl akbar: „No, co se teď v tobě děje? Řekni!“
 
    Básník řekl: „Obdivuji tě a vážím si tě, protože jsi mi ukázal všechny ty mince. Nikdy v životě jsem neviděl tolik peněz a možná už nikdy neuvidím sto tisíc zlatých mincí pohromadě. Nikdy jsem neviděl takové ohromné množství peněz!“
 
@@ -1424,9 +1419,9 @@ Představivosti, ach představivosti!]
 * Akbar na návštěvě u Guru Nanaka
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:55-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:55-cs
   :END:
 
 
@@ -1446,9 +1441,9 @@ Představivosti, ach představivosti!]
 * Salimova zrada
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:56-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:56-cs
   :END:
 
 
@@ -1465,9 +1460,9 @@ Představivosti, ach představivosti!]
 * Prosba Hamidy Begum za svého vnuka
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:57-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:57-cs
   :END:
 
 
@@ -1480,9 +1475,9 @@ Představivosti, ach představivosti!]
 * Akbarova smrt
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:58-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:58-cs
   :END:
 
 
@@ -1499,9 +1494,9 @@ Představivosti, ach představivosti!]
 * Džahangir: (vládl 1605-1627)
 
   :PROPERTIES:
-  :GENRE: stories
-  :KEYWORDS:
-  :CITE-KEY: ME:59-cs
+  :genre: stories
+  :keywords:
+  :cite-key: me:59-cs
   :END:
 
 
@@ -1509,9 +1504,9 @@ Představivosti, ach představivosti!]
 * Císař Džahangir trestá svého syna
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:60-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:60-cs
   :END:
 
 
@@ -1529,16 +1524,16 @@ Představivosti, ach představivosti!]
 
    Nakonec muž nízké kasty vyběhl z paláce a křičel: „Nechci, aby byli poníženi a nechci, aby byli potrestáni. Odpouštím tvému synovi.“
 
-   Džahangir na to řekl: „Jelikož odpouštíš mému synovi, nemám nic, co bych k tomu řekl.“ Císař se obrátil ke svému synovi a řekl: „On ti odpustil, můj synu. To je jediný důvod, proč ti odpouštím i já.“
+   Džahangir na to řekl: „jelikož odpouštíš mému synovi, nemám nic, co bych k tomu řekl.“ císař se obrátil ke svému synovi a řekl: „On ti odpustil, můj synu. To je jediný důvod, proč ti odpouštím i já.“
 
 
 
 * Milovník spravedlnosti
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:61-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:61-cs
   :END:
 
 
@@ -1581,9 +1576,9 @@ Představivosti, ach představivosti!]
 * Akbarův oblíbenec
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:62-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:62-cs
   :END:
 
 
@@ -1594,9 +1589,9 @@ Představivosti, ach představivosti!]
 * Věk kultury
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:63-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:63-cs
   :END:
 
 
@@ -1608,9 +1603,9 @@ Představivosti, ach představivosti!]
 * Šach Džahan: (vládl 1628-1658)
 
   :PROPERTIES:
-  :GENRE: stories
-  :KEYWORDS:
-  :CITE-KEY: ME:64-cs
+  :genre: stories
+  :keywords:
+  :cite-key: me:64-cs
   :END:
 
 
@@ -1618,9 +1613,9 @@ Představivosti, ach představivosti!]
 * Vláda Šacha Džahana
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:65-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:65-cs
   :END:
 
    Khurram po Džahangirově smrti porazil svého bratra Šahrijara, odstranil všechny ostatní nároky na trůn a prohlásil se císařem. Přijal jméno Šach Džahan, což znamená „Vládce světa“. Potom poslal do exilového Lahore dosud vlivnou Nur Džahan a rychle si podřídil opozici Rádžputu. Tím vláda Šacha Džahana začala působit mocným a rozhodným dojmem.
@@ -1634,9 +1629,9 @@ Představivosti, ach představivosti!]
 * Mumtaz Mahal
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:66-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:66-cs
   :END:
 
 
@@ -1649,9 +1644,9 @@ Představivosti, ach představivosti!]
 * Šach Džahanova žízeň
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:67-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:67-cs
   :END:
 
 
@@ -1679,9 +1674,9 @@ Představivosti, ach představivosti!]
 * Šach Džahan dává lekci svému důstojníkovi
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:68-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:68-cs
   :END:
 
 
@@ -1713,9 +1708,9 @@ Představivosti, ach představivosti!]
 * Muslimský žebravý mnich
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:69-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:69-cs
   :END:
 
 
@@ -1744,9 +1739,9 @@ Představivosti, ach představivosti!]
 * Arogantní důstojník
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:70-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:70-cs
   :END:
 
 
@@ -1771,9 +1766,9 @@ Představivosti, ach představivosti!]
 * Šach Džahanova hrobka pro jeho ženu
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:71-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:71-cs
   :END:
 
 
@@ -1786,9 +1781,9 @@ Představivosti, ach představivosti!]
 * Poslední přání Džahanary
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:72-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:72-cs
   :END:
 
 
@@ -1809,9 +1804,9 @@ Představivosti, ach představivosti!]
 * Kéž se stane Alláhova Vůle
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:73-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:73-cs
   :END:
 
 
@@ -1828,9 +1823,9 @@ Představivosti, ach představivosti!]
 * Pomník lásky
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:74-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:74-cs
   :END:
 
 
@@ -1851,9 +1846,9 @@ Představivosti, ach představivosti!]
 * Aurangzeb: (vládl 1658-1707)
 
   :PROPERTIES:
-  :GENRE: stories
-  :KEYWORDS:
-  :CITE-KEY: ME:75-cs
+  :genre: stories
+  :keywords:
+  :cite-key: me:75-cs
   :END:
 
 
@@ -1861,9 +1856,9 @@ Představivosti, ach představivosti!]
 * Sulejmanova vůle
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:76-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:76-cs
   :END:
 
 
@@ -1884,9 +1879,9 @@ Představivosti, ach představivosti!]
 * Šivadži a Aurangzeb
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:77-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:77-cs
   :END:
 
 
@@ -1903,9 +1898,9 @@ Představivosti, ach představivosti!]
 * Šambudžiho zajetí
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:78-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:78-cs
   :END:
 
 
@@ -1917,9 +1912,9 @@ Představivosti, ach představivosti!]
 * Císař se vzdává vína
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:79-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:79-cs
   :END:
 
 
@@ -1936,9 +1931,9 @@ Představivosti, ach představivosti!]
 * Umývání učitelových nohou
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:80-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:80-cs
   :END:
 
 
@@ -1955,9 +1950,9 @@ Představivosti, ach představivosti!]
 * Aurangzeb odpouští služebníkovi z mešity
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:81-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:81-cs
   :END:
 
 
@@ -1974,9 +1969,9 @@ Představivosti, ach představivosti!]
 * Aurangzeb žádá sklenici vody
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:82-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:82-cs
   :END:
 
 
@@ -1989,9 +1984,9 @@ Představivosti, ach představivosti!]
 * Konec říše
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ME:83-cs
+  :genre: story
+  :keywords:
+  :cite-key: me:83-cs
   :END:
 
 
@@ -2007,9 +2002,9 @@ Představivosti, ach představivosti!]
 * Mírové květy rodiny Sri Chinmoye
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: ME:84e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: me:84e1-cs
   :END:
 
 
@@ -2018,18 +2013,3 @@ Taj Mahal, Agra a Delhi --
 všechny jsou synonymem Mogulského císařství --
 
 nyní se spojily v rodině Mírových květů Sri Chinmoye.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

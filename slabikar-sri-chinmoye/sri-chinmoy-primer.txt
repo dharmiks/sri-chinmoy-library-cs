@@ -1,20 +1,15 @@
-#+TITLE: Slabikář žáka Sri Chinmoye
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Slabikář žáka Sri Chinmoye
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 1999
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: SCP-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 1999
+  :publisher: Madal Bal
+  :cite-key: SCP-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -23,9 +18,9 @@
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: scp:1e1-cs
   :END:
 
 
@@ -33,9 +28,9 @@
 * Říkáš, že učíš jógu. Mohl bys prosím vysvětlit, co je to jóga?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:1-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:1-cs
   :END:
 
 
@@ -58,9 +53,9 @@ Náboženství je inspirace. Jóga je aspirace. Božskost je dokonalost. Inspira
 * Nedávno jsem četl o člověku, který byl za živa pohřben osmnáct dní a přežil to bez úhony. Umožňuje tvůj způsob meditace, aby někdo časem vykonal takovýto čin?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:2-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:2-cs
   :END:
 
 
@@ -77,9 +72,9 @@ Buďme tedy bdělí. Naléhavě vás žádám, abyste nezaplétali svoji ryzí m
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:3-cs
   :END:
 
 
@@ -97,15 +92,15 @@ Musím nicméně zdůraznit, že Hatha Jóga je vysoce nadřazena západnímu sy
 * Správné dýchání
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:4-cs
   :END:
 
 
 /Mohl bys nám něco říci o správném dýchání při meditaci?/
 
-/Sri Chinmoy:/ Pokud jsi začátečník a chceš správně dýchat, potom bys měl sedět se vzpřímenou páteří. Dále musíš při dýchání myslet nejprve na čistotu. Když se nadechuješ a vědomě či nevědomě cítíš, že to přichází přímo od Boha, od Čistoty samotné, potom se tento dech může snadno pročistit. Když se nadechuješ, zkus se nadechovat tak pomalu a tiše, jak je to jen možné, takže kdyby někdo před tvůj nos umístil tenkou niť, vůbec by se nepohnula. A když vydechuješ, zkus vydechovat ještě pomaleji, než ses nadechoval. Pokud to jde, tak udělej mezi výdechem a dalším nádechem krátkou přestávku. Můžeš-li, zadrž na pár sekund dech. Je-li to však obtížné, tak to nedělej. Nikdy nedělej nic, co by ublížilo tvým orgánům nebo dýchacímu systému. Pokaždé, když se nadechuješ, zkus pocítit, že přinášíš do svého těla Mír, nekonečný Mír. A teď, co je opakem míru? To všichni znáte: neklid. Když vydechuješ, zkus prosím cítit, že vyháníš neklid tvého vnitřního i vnějšího těla a neklid, který vidíš všude kolem sebe. Pokud budeš dýchat tímto způsobem, zjistíš, že tě neklid opouští. Po té, co tohle několikrát uděláš, zkus prosím cítit, že nadechuješ Sílu a Moc z vesmíru, z kosmu. A při výdechu se pokus vypudit strach. Když budeš vydechovat, veškerý strach z tvého těla odejde. Po dalším cvičení se pokus cítit, že to co nadechuješ, je Radost, nekonečná Radost a to, co vydechuješ, je smutek, trápení a melancholie.
+/Sri Chinmoy:/ pokud jsi začátečník a chceš správně dýchat, potom bys měl sedět se vzpřímenou páteří. dále musíš při dýchání myslet nejprve na čistotu. když se nadechuješ a vědomě či nevědomě cítíš, že to přichází přímo od boha, od Čistoty samotné, potom se tento dech může snadno pročistit. když se nadechuješ, zkus se nadechovat tak pomalu a tiše, jak je to jen možné, takže kdyby někdo před tvůj nos umístil tenkou niť, vůbec by se nepohnula. a když vydechuješ, zkus vydechovat ještě pomaleji, než ses nadechoval. pokud to jde, tak udělej mezi výdechem a dalším nádechem krátkou přestávku. můžeš-li, zadrž na pár sekund dech. je-li to však obtížné, tak to nedělej. nikdy nedělej nic, co by ublížilo tvým orgánům nebo dýchacímu systému. pokaždé, když se nadechuješ, zkus pocítit, že přinášíš do svého těla mír, nekonečný mír. a teď, co je opakem míru? to všichni znáte: neklid. Když vydechuješ, zkus prosím cítit, že vyháníš neklid tvého vnitřního i vnějšího těla a neklid, který vidíš všude kolem sebe. Pokud budeš dýchat tímto způsobem, zjistíš, že tě neklid opouští. Po té, co tohle několikrát uděláš, zkus prosím cítit, že nadechuješ Sílu a Moc z vesmíru, z kosmu. A při výdechu se pokus vypudit strach. Když budeš vydechovat, veškerý strach z tvého těla odejde. Po dalším cvičení se pokus cítit, že to co nadechuješ, je Radost, nekonečná Radost a to, co vydechuješ, je smutek, trápení a melancholie.
 
 Jinou věc, kterou můžeš zkusit, je cítit, že to, co nadechuješ, není vzduch, ale kosmická energie. Pociťuj, že do tebe s každým dechem vstupuje ohromná kosmická energie a že se ji chystáš použít k tomu, aby ses očistil: k očištění těla, vitálna, mysli a srdce. Pociťuj, že v tvém těle není jediné místo, které by nebylo zaplněno proudem kosmické energie. Plyne v tobě jako řeka. Pokud cítíš, že celá tvoje bytost byla umyta nebo pročištěna kosmickou energií, pociťuj dále, že vydechuješ veškeré smetí, které je v tobě, všechny nebožské myšlenky, nečisté činy, temné nápady. Vydechuj ven cokoliv, co ve svém systému považuješ za nebožské, cokoliv, co nechceš považovat za své vlastní.
 
@@ -118,9 +113,9 @@ Když dosáhneš pokročilejšího stádia, pociťuj, že tvůj dech nepřicház
 * Vegetariánská strava
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:5-cs
   :END:
 
 
@@ -137,9 +132,9 @@ Mnoho duchovních hledajících došlo k závěru, že vegetarián je schopen ud
 * Drogy
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:6-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:6-cs
   :END:
 
 
@@ -162,9 +157,9 @@ Pokud chceš realizovat Boha v tomto životě, naplnit Boha v tomto životě, ch
 * Koncentrace, meditace, kontemplace
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:7-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:7-cs
   :END:
 
 
@@ -191,9 +186,9 @@ Pokud meditujeme, chceme rozmlouvat jenom s Bohem. Teď mluvím anglicky a vy mi
 * Mantry
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:8-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:8-cs
   :END:
 
 
@@ -213,9 +208,9 @@ Bez čistoty nemohou v naší přirozenosti natrvalo zůstat vnitřní dosažen�
 * Část II. - Význam Gurua
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:9e2-cs
+  :genre: section
+  :keywords:
+  :cite-key: scp:9e2-cs
   :END:
 
 
@@ -223,9 +218,9 @@ Bez čistoty nemohou v naší přirozenosti natrvalo zůstat vnitřní dosažen�
 * Myslíš si, že aspirant potřebuje k realizaci Boha žijícího Gurua?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:9-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:9-cs
   :END:
 
 
@@ -233,7 +228,7 @@ Bez čistoty nemohou v naší přirozenosti natrvalo zůstat vnitřní dosažen�
 
 Avšak pokud Gurua máte, usnadní to váš duchovní pokrok. Guru je ve vašem duchovním životě soukromým učitelem. Existuje velký rozdíl mezi soukromým a obyčejným učitelem. Obyčejný učitel se podívá na studentovu práci a dá mu známku. Vyzkouší ho a student zkoušku udělá nebo ne. Soukromý učitel však takový není. Povzbuzuje a inspiruje studenta doma tak, aby dokázal zkoušku udělat. Nevědomost se vás v každém okamžiku vaší životní cesty pokouší prověřovat, zkouší vás, mučí vás, ale tento soukromý učitel vás naučí, jak zkouškami co nejsnadněji projít. Duchovní učitel inspiruje a zvyšuje aspiraci hledajícího tak, aby v Boží zvolené hodině realizoval Nejvyšší.
 
-Abychom se v tomto světě něčemu naučili, potřebujeme ze začátku nějakého učitele. Abychom se naučili abecedu, potřebujeme učitele. Abychom se naučili vyšší matematiku, potřebujeme učitele. Učitel může být nezbytný sekundu, rok, nebo po mnoho let. Nuže, je absurdní cítit, že pro všechno ostatní v životě učitele potřebujeme, ale pro realizaci Boha nikoliv. Tak jako potřebujeme učitele pro vnější vědomosti, pro osvícení naší vnější bytosti, tak potřebujeme také duchovního Mistra, zejména na začátku, aby nám pomáhal a vedl nás ve vnitřním životě. Jinak bude náš duchovní pokrok velmi pomalý a nejistý. Můžeme být ohromně zmateni. Dostane se nám vysokých, povznášejících zážitků, ale nebudeme jim přikládat odpovídající význam. Naši mysl může zatemnit pochybnost a my si můžeme říci: “Jsem jenom obyčejný člověk, jak bych mohl mít takový zážitek? Možná, že klamu sám sebe.” Nebo to řekneme našim přátelům a oni na to řeknou: “To je všechno mentální halucinace. Zapomeň na duchovní život.” Pokud je zde však někdo, kdo zná Skutečnost, řekne nám: “Nebuď hlupák. Zážitky, které jsi měl, jsou naprosto skutečné.” Povzbuzuje a inspiruje hledajícího a podává mu správné vysvětlení jeho zážitků. Na druhou stranu, pokud bude hledající dělat ve své meditaci něco špatně, bude ho schopen opravit.
+Abychom se v tomto světě něčemu naučili, potřebujeme ze začátku nějakého učitele. Abychom se naučili abecedu, potřebujeme učitele. Abychom se naučili vyšší matematiku, potřebujeme učitele. Učitel může být nezbytný sekundu, rok, nebo po mnoho let. Nuže, je absurdní cítit, že pro všechno ostatní v životě učitele potřebujeme, ale pro realizaci Boha nikoliv. Tak jako potřebujeme učitele pro vnější vědomosti, pro osvícení naší vnější bytosti, tak potřebujeme také duchovního Mistra, zejména na začátku, aby nám pomáhal a vedl nás ve vnitřním životě. Jinak bude náš duchovní pokrok velmi pomalý a nejistý. Můžeme být ohromně zmateni. Dostane se nám vysokých, povznášejících zážitků, ale nebudeme jim přikládat odpovídající význam. Naši mysl může zatemnit pochybnost a my si můžeme říci: “jsem jenom obyčejný člověk, jak bych mohl mít takový zážitek? možná, že klamu sám sebe.” nebo to řekneme našim přátelům a oni na to řeknou: “to je všechno mentální halucinace. zapomeň na duchovní život.” pokud je zde však někdo, kdo zná skutečnost, řekne nám: “Nebuď hlupák. Zážitky, které jsi měl, jsou naprosto skutečné.” Povzbuzuje a inspiruje hledajícího a podává mu správné vysvětlení jeho zážitků. Na druhou stranu, pokud bude hledající dělat ve své meditaci něco špatně, bude ho schopen opravit.
 
 Duše vstoupí do lidského těla a lidská bytost završí první rok existence, druhý rok a tak dále. Během této doby ji rodiče učí mluvit, učí ji jak jíst, jak se oblékat, jak se chovat. Dítě se učí všechno od svých rodičů. Rodiče hrají svoji roli v době zrání. Podobně učí Mistr studenty v duchovním životě, jak se mají modlit, jak meditovat, jak kontemplovat. Když se potom student naučí jít hluboko dovnitř, může dělat všechno sám.
 
@@ -250,9 +245,9 @@ Stane-li se někdo opravdovým žákem nějakého Mistra, nebude cítit, že on 
 * Jak vlastně skutečný duchovní Mistr učí meditaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:10-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:10-cs
   :END:
 
 
@@ -267,9 +262,9 @@ Všichni skuteční duchovní Mistři učí své žáky a obdivovatele meditaci 
 * Část III. – Výběr Gurua
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:11e3-cs
+  :genre: section
+  :keywords:
+  :cite-key: scp:11e3-cs
   :END:
 
 
@@ -277,9 +272,9 @@ Všichni skuteční duchovní Mistři učí své žáky a obdivovatele meditaci 
 * Jak může člověk poznat pravého Mistra?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:11-cs
   :END:
 
 
@@ -292,9 +287,9 @@ Naproti tomu musíš vědět, zda ti to přísluší posuzovat. Nevím-li nic o 
 * Můžeš mi říci, jak vybrat Mistra?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:12-cs
   :END:
 
 
@@ -307,9 +302,9 @@ Když při opakování jména určitého Mistra nezískáš žádnou odpověď, 
 * Zasvěcení
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:13-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:13-cs
   :END:
 
 
@@ -317,7 +312,7 @@ Když při opakování jména určitého Mistra nezískáš žádnou odpověď, 
 
 /Sri Chinmoy:/ Sanskrtský výraz pro zasvěcení je diksha. Nuže, co diksha znamená? Znamená to “dávání” nebo “sebenabízení.” Když Mistr někoho zasvětí, dává tomuto člověku část svého životního dechu a žák mu dává dušeplný slib, že mu bude do konce života věrný a že mu bude nepodmíněně sloužit.
 
-V okamžiku zasvěcení skládá Guru hledajícímu a Nejvyššímu slavnostní slib, že mu bude v duchovním životě pomáhat ze všech sil, že mu nabídne své srdce a duši, aby jej vzal do nejvyšší oblasti, která je Za. Mistr říká Nejvyššímu: “Neopustím toto dítě, moje hra neskončí, dokud a pokud jej nepřivedu k Tobě.” Žákovi řekne: “Od nynějška můžeš se mnou počítat, můžeš na mne myslet jako na svého vlastního.”
+V okamžiku zasvěcení skládá Guru hledajícímu a Nejvyššímu slavnostní slib, že mu bude v duchovním životě pomáhat ze všech sil, že mu nabídne své srdce a duši, aby jej vzal do nejvyšší oblasti, která je Za. Mistr říká Nejvyššímu: “neopustím toto dítě, moje hra neskončí, dokud a pokud jej nepřivedu k tobě.” Žákovi řekne: “Od nynějška můžeš se mnou počítat, můžeš na mne myslet jako na svého vlastního.”
 
 Ve skutečnosti Mistr od žáka v okamžiku zasvěcení odejme jeho početné nedokonalosti a to jak ze současné, tak i z minulých inkarnací. Existují samozřejmě skuteční, upřímní duchovní Mistři, stejně jako falešní. Teď mluvím o těch pravých Mistrech. Někteří velmi upřímní Mistři zasvětí pouze jednoho žáka za měsíc. Po zasvěcení onemocní a nesmírně trpí, protože na sebe opravdu převzali žákovy nedokonalosti. To je pravé zasvěcení. Naproti tomu jsou někteří duchovní Mistři, kteří jsou schopni zasvětit mnoho žáků aniž by trpěli, protože mají schopnost vhodit nedokonalosti do Univerzálního Vědomí. Na druhou stranu jsou někteří falešní Mistři, kteří zasvěcují padesát, šedesát nebo i sto žáků současně, nebo zasvěcují v zastoupení. Zasvěcení není jako tabletky, které se vyrábí v továrně po tisících a miliónech. Takové masové zasvěcení je absurdní podvod.
 
@@ -342,9 +337,9 @@ Jak může Nejvyššího uspokojit Guru? Guru hraje svoji úlohu tím, že z ž�
 * Život ve společnosti
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:14-cs
   :END:
 
 
@@ -352,7 +347,7 @@ Jak může Nejvyššího uspokojit Guru? Guru hraje svoji úlohu tím, že z ž�
 
 /Sri Chinmoy:/ Ze všeho nejdříve musíme znát úroveň tohoto aspiranta. Pokud cítí, že vnitřní život, duchovní život má pro něj svrchovaný význam a že bez něj nemůže nic dělat - pokud je na takové úrovni - potom musí většinu svého času zasvětit realizaci Boha. Jeho vnitřní bytost mu řekne, do jaké míry se má zapojit do společnosti. Pokud se však nějaký aspirant teprve učí abecedu duchovního života, potom by měl přijmout společnost jako něco, co je v jeho životě důležité a významné, co jde souběžně s jeho vnitřním životem.
 
-Musíme vědět, kde se ten daný aspirant nachází. K tomu, aby nějaký člověk realizoval Boha, nemusí úplně opustit společnost. Když opustí společnost - nebo v širším smyslu lidstvo - jak potom může na Zemi založit a projevit božskost? Je-li pravým aspirantem, musí se ponořit hluboko do nitra, aby poznal, jak společnosti pomoci. Být lidumilem je báječná věc. Pomoc lidumila společnosti však bude mít význam jen tehdy, když půjde hluboko dovnitř a dostane přímé poselství od své vnitřní bytosti, od Boha. Pokud ale zkouší pomoci lidstvu svým vlastním způsobem, potom takzvaná pomoc nebo přispění bude pouze činem sebechvály, který sytí jeho ego. Nějaký člověk řekne: “Udělal jsem toto. Udělal jsem tamto.” Důležité je ale: “Inspiroval mne Bůh? Pověřil mne tím Bůh?” Pokud jeho činy nebyly inspirovány Bohem, ale jeho vlastním egem, potom služba, kterou nabízí světu, bude plná temnoty a nedokonalosti.
+Musíme vědět, kde se ten daný aspirant nachází. K tomu, aby nějaký člověk realizoval Boha, nemusí úplně opustit společnost. Když opustí společnost - nebo v širším smyslu lidstvo - jak potom může na Zemi založit a projevit božskost? Je-li pravým aspirantem, musí se ponořit hluboko do nitra, aby poznal, jak společnosti pomoci. Být lidumilem je báječná věc. Pomoc lidumila společnosti však bude mít význam jen tehdy, když půjde hluboko dovnitř a dostane přímé poselství od své vnitřní bytosti, od Boha. Pokud ale zkouší pomoci lidstvu svým vlastním způsobem, potom takzvaná pomoc nebo přispění bude pouze činem sebechvály, který sytí jeho ego. Nějaký člověk řekne: “udělal jsem toto. udělal jsem tamto.” důležité je ale: “Inspiroval mne Bůh? Pověřil mne tím Bůh?” Pokud jeho činy nebyly inspirovány Bohem, ale jeho vlastním egem, potom služba, kterou nabízí světu, bude plná temnoty a nedokonalosti.
 
 Člověk musí být ve svém duchovním hledání moudrý. Musí vědět, že na prvním místě je Bůh a až po něm je lidstvo. Jde-li někdo nejprve k lidstvu a slouží mu podle svých omezených schopností, potom Boha v lidstvu vůbec nenaplňuje. K tomu, aby skutečně sloužil lidstvu, musí jít nejprve k Božskému, a odtud k lidstvu. Jak může něco dávat, když nic nevlastní, když nemedituje a nezískává určité vnitřní bohatství? Nejprve musí něčeho dosáhnout, potom musí dávat. Tak může potěšit Boha a naplnit lidstvo.
 
@@ -361,15 +356,15 @@ Musíme vědět, kde se ten daný aspirant nachází. K tomu, aby nějaký člov
 * Opuštění starých přátel
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:15-cs
   :END:
 
 
 /Je nezbytné po vstupu do duchovního života opustit staré přátele, které máme stále rádi, ale kteří na nás mohou mít špatný vliv?/
 
-/Sri Chinmoy:/ Pokud tito přátelé neaspirují, pokud se ti posmívají a neustále stojí v cestě, potom jsou to skuteční nepřátelé. Mít je rád je jako mít rád jedovatého hada. Musíš vědět, že když nějaký přítel neaspiruje, tak už není nadále tvým přítelem a pokud ho chceš přinutit aspirovat, pak budeš jednat jako jeho nepřítel. Přítel, který neaspiruje, je pohroužen do spánku. Ty ses teď probudil, jsi připraven se modlit a meditovat. Cítíš, že děláš svému příteli velkou laskavost, když jej tlačíš a říkáš: “Vstávej, vstávej, vstávej. Je čas pro meditaci.” Děláš mu laskavost podle svého měřítka, ale podle jeho měřítka to vůbec není laskavost. Cítíš, že si počínáš správně, ale on není připraven přijmout tvé Světlo. On chce spát a bude cítit, že jsi jeho opravdový nepřítel. Rušíš vznešený mír jeho spánku, který je pro tebe nečinností a smrtí. Tvým mírem je meditace a modlitba. Jeho mírem je mdlý spánek. Tvůj mír pochází z bdělé meditace a jeho mír pochází z nevědomí a nečinnosti. Tvůj mír a jeho mír tedy nemohou jít dohromady.
+/Sri Chinmoy:/ pokud tito přátelé neaspirují, pokud se ti posmívají a neustále stojí v cestě, potom jsou to skuteční nepřátelé. mít je rád je jako mít rád jedovatého hada. musíš vědět, že když nějaký přítel neaspiruje, tak už není nadále tvým přítelem a pokud ho chceš přinutit aspirovat, pak budeš jednat jako jeho nepřítel. přítel, který neaspiruje, je pohroužen do spánku. ty ses teď probudil, jsi připraven se modlit a meditovat. cítíš, že děláš svému příteli velkou laskavost, když jej tlačíš a říkáš: “Vstávej, vstávej, vstávej. Je čas pro meditaci.” Děláš mu laskavost podle svého měřítka, ale podle jeho měřítka to vůbec není laskavost. Cítíš, že si počínáš správně, ale on není připraven přijmout tvé Světlo. On chce spát a bude cítit, že jsi jeho opravdový nepřítel. Rušíš vznešený mír jeho spánku, který je pro tebe nečinností a smrtí. Tvým mírem je meditace a modlitba. Jeho mírem je mdlý spánek. Tvůj mír pochází z bdělé meditace a jeho mír pochází z nevědomí a nečinnosti. Tvůj mír a jeho mír tedy nemohou jít dohromady.
 
 Nuže, pokud na ulici uvidíš své staré přátele, nemusíš odvracet svou tvář. Můžeš je pozdravit a minutu nebo dvě s nimi povídat. Strávíš-li však s nimi večer s myšlenkou, že sestoupíš na jejich úroveň a pozvedneš je nahoru, potom budeš chycen. Musíš vědět, že pro tebe udeřila Hodina. Přišla na tebe řada a ty jsi poslechl Boží Vůli. Až přijde jejich Hodina, oni Ji také uslyší. Jestliže však cítíš, že jsi za ně zodpovědný, tak jenom přeceňuješ svoje schopnosti. Ten, kdo tě probudil, má schopnost probudit tvé přátele, až přijde jejich čas.
 
@@ -388,9 +383,9 @@ Toto všechno samozřejmě platí pro ty, kteří přijali duchovní život cel�
 * Část IV. – Manželství a rodinný život
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:16e4-cs
+  :genre: section
+  :keywords:
+  :cite-key: scp:16e4-cs
   :END:
 
 
@@ -398,9 +393,9 @@ Toto všechno samozřejmě platí pro ty, kteří přijali duchovní život cel�
 * Domníváš se, že manželství musí být na duchovní cestě překážkou?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:16-cs
   :END:
 
 
@@ -417,9 +412,9 @@ Když meditujeme, když aspirujeme, docházíme k poznání Boží Vůle. Je-li 
 * Je-li meditace jediným způsobem, jak spatřit Boha tváří v tvář, co bys poradil člověku, který se stará o rodinu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:17-cs
   :END:
 
 
@@ -434,9 +429,9 @@ Pokus se ve všech svých činnostech cítit přítomnost Boha. Když krmíš sv
 * Sexualita
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:18-cs
   :END:
 
 
@@ -459,9 +454,9 @@ Pokud někdo vstoupí do duchovního života a řekne: “Dnes porazím všechny
 * Nedokonalosti světa
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:19-cs
   :END:
 
 
@@ -486,9 +481,9 @@ Svět realizace a projevení může být založen pouze pomocí naší aspirace.
 * Část V. – Proč někteří nejsou přijati za žáky?
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:20e5-cs
+  :genre: section
+  :keywords:
+  :cite-key: scp:20e5-cs
   :END:
 
 
@@ -497,13 +492,13 @@ Svět realizace a projevení může být založen pouze pomocí naší aspirace.
 * Proč nepřijímáš každého, kdo se chce stát tvým žákem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:20-cs
   :END:
 
 
-/Sri Chinmoy:/ Někteří Mistři touží mít velký počet žáků a přijímají kohokoliv, kdo chce následovat jejich cestu. Já jsem však velmi přísný a nemám zájem o velký počet žáků; zajímá mě pouze upřímnost a aspirace žáků. Nepřijímám také narkomany, alkoholiky nebo hippies. Není to proto, že bych je neměl rád, ale oni hledají jiný druh štěstí, než jaký nabízím já. Ztotožnil jsem se s vědomím hippies, s vědomím alkoholiků i s vědomím narkomanů, takže vím, co v nich je. Nezpochybňuji jejich aspiraci, ale potíž je v tom, že touží po něčem, co nemám. Jak bych je mohl klamat a říkat: “Přijďte ke mně a já vám dám to, co chcete.” V našem centru v New Yorku je čtyři nebo pět žáků, kteří kdysi brali drogy. Poslali mi své fotografie a já jsem jim řekl: “Dokážete-li být bez drog dva měsíce, tak vás přijmu.” Oni to dokázali a nyní se již změnili natrvalo. U nich jsem viděl, že jejich aspirace je silnější než problém s drogami a oni dokázali, že jsem měl pravdu. Avšak většina těchto lidí – devadesát devět ze sta – jsou ve světě sebeklamu a úniku. My se zajímáme o skutečnost, kterou stvořil Bůh, oni si však naneštěstí stvořili vlastní skutečnost, která je naprosto falešná.
+/Sri Chinmoy:/ někteří mistři touží mít velký počet žáků a přijímají kohokoliv, kdo chce následovat jejich cestu. já jsem však velmi přísný a nemám zájem o velký počet žáků; zajímá mě pouze upřímnost a aspirace žáků. nepřijímám také narkomany, alkoholiky nebo hippies. není to proto, že bych je neměl rád, ale oni hledají jiný druh štěstí, než jaký nabízím já. ztotožnil jsem se s vědomím hippies, s vědomím alkoholiků i s vědomím narkomanů, takže vím, co v nich je. nezpochybňuji jejich aspiraci, ale potíž je v tom, že touží po něčem, co nemám. jak bych je mohl klamat a říkat: “přijďte ke mně a já vám dám to, co chcete.” v našem centru v new yorku je čtyři nebo pět žáků, kteří kdysi brali drogy. poslali mi své fotografie a já jsem jim řekl: “Dokážete-li být bez drog dva měsíce, tak vás přijmu.” Oni to dokázali a nyní se již změnili natrvalo. U nich jsem viděl, že jejich aspirace je silnější než problém s drogami a oni dokázali, že jsem měl pravdu. Avšak většina těchto lidí – devadesát devět ze sta – jsou ve světě sebeklamu a úniku. My se zajímáme o skutečnost, kterou stvořil Bůh, oni si však naneštěstí stvořili vlastní skutečnost, která je naprosto falešná.
 
 Všichni ti lidé, které jsem nepřijal za své žáky, jsou také Božími dětmi a Bůh o ně pečuje mnohem lépe, než si dovedeme představit. Já však nejsem způsobilý je učit. Abych k vám byl naprosto upřímný, nemám na to schopnosti. Nejsem kompetentní, nejsem připraven, nemám čas. Je mnoho lidí, kterým mohu pomoci, a já cítím, že můj čas je stejně vzácný, jako čas kohokoliv jiného. Bůh mne seslal, abych pomohl těm, kteří jsou určeni do mé lodi, těm, kterým jsem schopen pomoci.
 
@@ -514,9 +509,9 @@ Nepřijmu-li tě, neciť prosím, že nejsi určen pro duchovní život. Zdaleka
 * Necítíš však, že je tvou odpovědností pomoci všem lidem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:21-cs
   :END:
 
 
@@ -529,9 +524,9 @@ Musíš vědět, že jsou různé způsoby, jak sloužit světu. V Himalájích 
 * Odpovědnosti žáků
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:22-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:22-cs
   :END:
 
 
@@ -546,9 +541,9 @@ Každý žák musí cítit, že toto je jeho duchovní domov a že žít v tomto
 * Setkání v Centru Sri Chinmoye
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:23-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:23-cs
   :END:
 
 
@@ -563,9 +558,9 @@ Každý žák musí cítit, že toto je jeho duchovní domov a že žít v tomto
 * Část VI. - Čistota
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:24e6-cs
+  :genre: section
+  :keywords:
+  :cite-key: scp:24e6-cs
   :END:
 
 
@@ -573,9 +568,9 @@ Každý žák musí cítit, že toto je jeho duchovní domov a že žít v tomto
 * Je důležité se osprchovat před tím, než jdeme meditovat do centra?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:24-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:24-cs
   :END:
 
 
@@ -598,9 +593,9 @@ Pokud se vysprchujete a potom si oblečete oděv, který není čerstvý a vypra
 * Pro dívky je někdy každodenní umývání vlasů složitá záležitost. Je to nezbytné, když jdeme do centra meditovat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:25-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:25-cs
   :END:
 
 
@@ -613,9 +608,9 @@ Na vlasy je také dobrý olej. Používáte-li na své vlasy olej, ihned to dá 
 * Část VII. – Krátké vlasy a vousy
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:26e7-cs
+  :genre: section
+  :keywords:
+  :cite-key: scp:26e7-cs
   :END:
 
 
@@ -623,9 +618,9 @@ Na vlasy je také dobrý olej. Používáte-li na své vlasy olej, ihned to dá 
 * Proč žádáš své žáky -- chlapce, aby měli krátké vlasy a aby nenosili vousy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:26-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:26-cs
   :END:
 
 
@@ -639,7 +634,7 @@ Nějaký aspirant pláče pro svoji spásu, je však vědomě či nevědomě ru�
 
 Naprosto trvám na tom, aby chlapci měli krátké vlasy. U vousů dělám ve vzácných případech výjimky. Musím se však držet svých zásad, protože jsou založeny na mém vlastním vnitřním poznání. Pokud vím, že u nějaké cesty číhá tygr, tak tou cestou nepůjdu a poradím také svým milovaným, aby touto cestou nešli. Když však někdo jiný tygra nevidí a nevěří mi, půjde dál. Je mnoho Mistrů, kteří dovolují nosit dlouhé vlasy a vy máte naprostou svobodu, abyste je následovali. Chcete-li však sledovat moji cestu, pak chci toto. Nemusím to vůbec ospravedlňovat, vysvětluji vám ale své důvody proto, aby tomu porozuměla vaše mysl a aby byly uspokojena.
 
-Když ke mně někdo přijde se žádostí: “Pomoz mi prosím realizovat Boha,” tak předpokládám, že tento člověk ví, že to sám nedokáže. Tisíce let zkoušel realizovat Boha. Na vnitřní úrovni mu řeknu: “Žádáš mne o cosi velmi vysokého, velmi hlubokého, velmi významného. Je to nanejvýš obtížné, ale já ti pomohu. Přijmu tuto výzvu.” Protože se ho tedy pokouším potěšit, žádám jej, aby mne také potěšil. To, co po mě žádá, je mimořádně obtížný, celoživotní úkol. Ta malá laskavost, o kterou ho žádám, se dá snadno udělat. Zabere mu to jen pár minut, aby si nechal ostříhat vlasy a aby si oholil své vousy. Jestliže mě nemůže potěšit ani v tak jednoduché věci, jako je tato, proč bych měl strávit život tím, abych těšil já jeho? A co se stane, když jej požádám, aby dodržoval nějakou opravdu přísnou duchovní disciplínu?
+Když ke mně někdo přijde se žádostí: “pomoz mi prosím realizovat boha,” tak předpokládám, že tento člověk ví, že to sám nedokáže. tisíce let zkoušel realizovat boha. na vnitřní úrovni mu řeknu: “Žádáš mne o cosi velmi vysokého, velmi hlubokého, velmi významného. Je to nanejvýš obtížné, ale já ti pomohu. Přijmu tuto výzvu.” Protože se ho tedy pokouším potěšit, žádám jej, aby mne také potěšil. To, co po mě žádá, je mimořádně obtížný, celoživotní úkol. Ta malá laskavost, o kterou ho žádám, se dá snadno udělat. Zabere mu to jen pár minut, aby si nechal ostříhat vlasy a aby si oholil své vousy. Jestliže mě nemůže potěšit ani v tak jednoduché věci, jako je tato, proč bych měl strávit život tím, abych těšil já jeho? A co se stane, když jej požádám, aby dodržoval nějakou opravdu přísnou duchovní disciplínu?
 
 Upřímný duchovní aspirant nebude stát o své vousy a dlouhé vlasy více, než stojí o Boha. Pokud mu Mistr dává radost, pokud cítí, že tento Mistr je určen pro něj a že ho bude schopen přivést k Bohu, potom se rád vzdá svých dlouhých vlasů a vousů. 
 
@@ -652,9 +647,9 @@ Mezi Mistrovou vůlí a Cílem není rozdíl. V jeho vůli samotné je Cíl a te
 * Ježíš Kristus měl ale dlouhé vlasy.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:27-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:27-cs
   :END:
 
 
@@ -667,13 +662,13 @@ V Indii uvidíš mnoho duchovních Mistrů s dlouhými vlasy. Podívej se jim v�
 * Proč si tvé žákyně oblékají sárí a žáci bílé oblečení?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:28-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:28-cs
   :END:
 
 
-/Sri Chinmoy:/ Všimla sis, že některé žákyně, které mne přijaly celým srdcem, si oblékají sárí. Ptáš se mne tedy: “Proč to děláš? Proč z jsi z nich udělal Indky?” Přeji si však říci, že jsem z nich neudělal Indky. Ne! Narodil jsem se v Indii, jsem však kosmopolita. Jsem Boží dítě. V duchovním životě musíš být velmi, velmi moudrá. Tímto však myslím, že když ti něco pomáhá v tvé aspiraci, tak bys to měla ráda přijmout. I když to přidá jen jednu kapku k tvé aspiraci, měla bys to, pokud je to možné, udělat. 
+/Sri Chinmoy:/ všimla sis, že některé žákyně, které mne přijaly celým srdcem, si oblékají sárí. ptáš se mne tedy: “Proč to děláš? Proč z jsi z nich udělal Indky?” Přeji si však říci, že jsem z nich neudělal Indky. Ne! Narodil jsem se v Indii, jsem však kosmopolita. Jsem Boží dítě. V duchovním životě musíš být velmi, velmi moudrá. Tímto však myslím, že když ti něco pomáhá v tvé aspiraci, tak bys to měla ráda přijmout. I když to přidá jen jednu kapku k tvé aspiraci, měla bys to, pokud je to možné, udělat. 
 
 Realizace Boha nezávisí na tom, jestli si oblečeš sárí; zdaleka ne! Kdyby to tak bylo, byly by všechny indické ženy realizovanými dušemi. Přeji si však říci, že pokud si oblečeš sárí místo sportovních šatů nebo těsných a neslušných šatů, které si oblékají západní ženy, automaticky z tebe vyjdou na povrch ženské kvality v podobě skromnosti, pokory, čistoty a božskosti. Můžeš možná říci, že sis na svém vědomí nevšimla ničeho špatného, když máš na sobě západní šaty, ale to nemáš pravdu. Nepřikládáš prostě význam ohromnému rozdílu.
 
@@ -694,15 +689,15 @@ Na druhou stranu by muži měli vědět, že to nebude bílé oblečení, co jim
 * Květiny, svíčky a vonné tyčinky
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:29-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:29-cs
   :END:
 
 
 /Proč při meditaci používáte květiny a zapalujete svíčky a vonné tyčinky?/
 
-/Sri Chinmoy:/ Jsou lidé, kteří říkají, že není nutné mít kolem sebe při meditaci květiny. Říkají: “Květina je uvnitř, uvnitř je lotos s tisíci okvětními lístky.” Fyzická květina nám však připomene čistotu, božskost. Když se díváme na květinu, získáme trochu inspirace. Nemáme-li žádnou inspiraci, nevstaneme, abychom se modlili a meditovali. Prostě se spřátelíme se spánkem. Barva květiny, její vůně, její čisté vědomí nám však ihned dá trochu inspirace. Z inspirace získáme aspiraci a z aspirace realizaci. 
+/Sri Chinmoy:/ jsou lidé, kteří říkají, že není nutné mít kolem sebe při meditaci květiny. Říkají: “Květina je uvnitř, uvnitř je lotos s tisíci okvětními lístky.” Fyzická květina nám však připomene čistotu, božskost. Když se díváme na květinu, získáme trochu inspirace. Nemáme-li žádnou inspiraci, nevstaneme, abychom se modlili a meditovali. Prostě se spřátelíme se spánkem. Barva květiny, její vůně, její čisté vědomí nám však ihned dá trochu inspirace. Z inspirace získáme aspiraci a z aspirace realizaci. 
 
 S plamenem svíčky je to stejné. Sám o sobě nám nedá aspiraci; je to vnitřní plamen, který nám dá aspiraci. Když však vidíme vnější plamen, potom ihned pocítíme, že v naší vnitřní bytosti se také zapaluje určitý plamen a že stoupá vysoko, výše, nejvýše. A když cítíme vůni tyčinky, tak možná získáme jen trochu inspirace, malé pročištění, ale tato inspirace a pročištění mohou být přidány k našemu vnitřnímu pokladu.
 
@@ -711,15 +706,15 @@ S plamenem svíčky je to stejné. Sám o sobě nám nedá aspiraci; je to vnit�
 * Vyzouvání bot
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:30-cs
+  :genre: qa
+  :keywords:
+  :cite-key: scp:30-cs
   :END:
 
 
 /Proč žádáš lidi, aby nechávali venku své boty a nenosili je do meditační místnosti?/
 
-/Sri Chinmoy:/ V duchovním životě mají největší důležitost dvě věci: první je čistota a ta druhá je aspirace, vnitřní pláč. Čistota a aspirace musí jít společně. Čistota zesiluje aspiraci a aspirace zvětšuje čistotu. Ten, kdo je čistý uvnitř i navenek, bude mít spontánní aspiraci a ten kdo aspiruje, určitě spatří ve svém oddaném životě úsvit čistoty.
+/Sri Chinmoy:/ v duchovním životě mají největší důležitost dvě věci: první je čistota a ta druhá je aspirace, vnitřní pláč. Čistota a aspirace musí jít společně. Čistota zesiluje aspiraci a aspirace zvětšuje čistotu. Ten, kdo je čistý uvnitř i navenek, bude mít spontánní aspiraci a ten kdo aspiruje, určitě spatří ve svém oddaném životě úsvit čistoty.
 
 Žádáme lidi, aby když vstupují do meditační místnosti, nechali své boty venku, protože sem přicházíme aspirovat. Když přijdeme aspirovat, musíme o tom uvědomit naše fyzické vědomí, naše fyzické tělo. V botách chodíme celý den po špinavých ulicích. Vejdeme-li s nimi poté do meditační místnosti a pokusíme se meditovat, vstoupí veškerá nečistota ulic do vědomí místnosti, do našeho vědomí a do vědomí všech lidí, kteří zde meditují. To nás přirozeně bude rušit. Měli bychom také myslet na meditační místnost jako na chrám, jako na svaté místo. Tady se chystáme k rozmluvě s Bohem. Když vstupujeme do kostela, tak z úcty smekáme klobouk. Když vstupujeme do meditační místnosti, tak si rovněž z úcty zouváme boty.
 
@@ -730,17 +725,3 @@ Teď díky své praktické mysli řeknete: “Ty boty mi pomáhají. Kdybych je 
 Kdysi bylo zvířecí vědomí nezbytné pro pohyb vpřed. Kdybychom neměli zvířecí vlastnosti, zůstali bychom neteční jako stromy, nebo bychom zůstali v kamenném vědomí, kde není žádná činnost, žádný pohyb. Pohyb může být buď destruktivní, nebo dynamický. S dynamickým pohybem můžeme běžet k našemu cíli; s destruktivním pohybem se pokoušíme zničit ostatní a sebe sama. Ve zvířatech naneštěstí vidíme rysy destruktivních kvalit. Je však lepší mít zvířecí vědomí, bojovat a rvát se, než zůstat v kamenném vědomí, kde není žádný pohyb, žádný pokrok. Nyní již zvířecí odehrálo svoji roli a my musíme vstoupit do lidského vědomí. Víme, že pohyb je nezbytný, musí to však být dynamický pohyb. V lidském vědomí se díky našemu dynamickému pohybu pokoušíme jít o trochu dále, ale naneštěstí v nás stále dříme zvířecí vědomí. Pokoušíme se očistit destruktivní kvalitu pomocí dynamické kvality, která je v lidském. Z dynamického pohybu v lidském se potom pokoušíme vstoupit do Božského. A když dynamický pohyb lidského vstoupí do Božského, získáme dokonalou dokonalost. 
 
 Krok za krokem se osvobozujeme od našich dřívějších pomocníků, kteří už pro dosažení našeho konečného Cíle nemají význam. Mnohokrát jsou lidští přátelé našimi pomocníky, když však chceme jít ve vnitřním životě dále a hlouběji, tak vidíme, že nám stojí v cestě. Zvířecí vědomí nám pomáhalo, když jsme se pokoušeli jít za rostlinné vědomí, ale vleče nás zpátky, když vstupujeme do lidského vědomí. Čím tedy jdeme dále, čím jdeme výše, tím více si musíme být vědomi toho, zda nám naši předchozí přátelé mohou pomoci, nebo zda nám nijak pomoci nemohou. Nemohou-li nám nijak pomoci, necháme je za sebou a půjdeme dále sami
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

@@ -1,12 +1,7 @@
-#+TITLE: Sri Chinmoy odpovídá, část 02
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 02
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:32e1-cs
+  :cite-key: sca:32e1-cs
   :END:
 
 
@@ -34,7 +29,7 @@
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:32-cs
+  :cite-key: sca:32-cs
   :date-event: 1993-12-19
   :END:
 
@@ -46,7 +41,7 @@
 
 /Editor:/ Jak je to vzácné! To je rozhodně poprvé, kdy se něco takového v naší redakci stalo. Zajímalo by mě, jestli byste mohl v duchu tohoto božského požehnání říci pár slov, které by nám pomohly směrovat naše úsilí. Každý hinduistický mnišský řád něco má -- řekněme oční kliniku, základní školu nebo školu pro sirotky -- aby vyvážil svoje kontemplativní zaměření. Vy představujete ohromný příklad právě takové služby. /Hinduism Today/ je naším příspěvkem a my od vás potřebujeme vědět, jak jej dělat lépe -- jak byste jej chtěl vidět vy. Co od nás všech potřebuje hinduistické srdce a duše?
 
-/Sri Chinmoy:/ Váš /Hinduism Today/ bez nadsázky ztělesňuje vrcholné světlo moudrosti z dávné minulosti a přitom odhaluje a projevuje nekonečný Soucit, nekonečný zájem a nekonečné Požehnání indické Trojice -- Brahmy, Višnua a Šivy: Brahma stvořitele, Višnu uchovatele a Šivy transformujícího. Podle naší indické teorie hraje Šiva roli ničitele. Avšak podle mého aspirujícího srdce je zřejmé, že on nikdy nic neničí, pouze přeměňuje. Přeměňuje naši noc nevědomosti na světlo moudrosti. Když čtu váš /Hinduism Today/, vidím a cítím nejenom Požehnání, Soucit a Zájem této Trojice, ale i požehnání ostatních indických kosmických bohů a bohyň.
+/Sri Chinmoy:/ váš /hinduism today/ bez nadsázky ztělesňuje vrcholné světlo moudrosti z dávné minulosti a přitom odhaluje a projevuje nekonečný soucit, nekonečný zájem a nekonečné požehnání indické trojice -- brahmy, višnua a Šivy: Brahma stvořitele, Višnu uchovatele a Šivy transformujícího. Podle naší indické teorie hraje Šiva roli ničitele. Avšak podle mého aspirujícího srdce je zřejmé, že on nikdy nic neničí, pouze přeměňuje. Přeměňuje naši noc nevědomosti na světlo moudrosti. Když čtu váš /Hinduism Today/, vidím a cítím nejenom Požehnání, Soucit a Zájem této Trojice, ale i požehnání ostatních indických kosmických bohů a bohyň.
 
 Za celá ta léta jsem studoval mnoho, mnoho knih o hinduismu, které napsali učenci, profesoři a milovníci Boha, a než vstoupím za závoj Věčnosti, přečtu jich a prostuduji ještě mnohem více. Také jsem osobně nabídl nekonečnému oceánu hinduismu svoji nejdrobnější kapku aspirace. Ale mezi těmi všemi knihami se váš časopis vyjímá jakožto nesrovnatelný. Používám slovo „časopis“, ale není to pouhý časopis. Není to jenom několik potištěných stránek. Není to něco, co čtou lidé, aby povzbudili svoje vitálno nebo aby nakrmili svoji zvědavost -- rozhodně ne! Váš /Hinduism Today/ je božská a přepychová hostina, která krmí po Bohu hladovějící srdce celého aspirujícího lidstva. 
 
@@ -69,7 +64,7 @@ Další důvod, proč si vážím a obdivuji /Hinduism Today/ spočívá v tom, 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:33-cs
+  :cite-key: sca:33-cs
   :date-event: 1993-12-19
   :END:
 
@@ -90,7 +85,7 @@ Na druhou stranu musíme vědět, že hinduismus není náboženství vytvořen�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:34-cs
+  :cite-key: sca:34-cs
   :date-event: 1993-12-19
   :END:
 
@@ -115,7 +110,7 @@ Také v duchovním životě se neustále snažíme překonávat a jít za stáva
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:35-cs
+  :cite-key: sca:35-cs
   :date-event: 1993-12-19
   :END:
 
@@ -129,13 +124,13 @@ Každou sekundu můžeme jít nahoru nebo dolů, v závislosti na tom, co vidím
 
 /Editor:/ Chcete nám tedy jemně naznačit, že podle vás je brahmacharya pro duchovnost důležitá?
 
-/Sri Chinmoy:/ Rozhodně, ale od některých ji nemohu očekávat ihned. Pokud někdo studuje na středoškolské úrovni, nemohu od něj očekávat, že náhle získá univerzitní titul. Kromě toho žijeme ve dvacátém století a já se snažím ke svým studentům chovat prakticky. Lidem, kteří jsou sezdaní, říkám: „Nesnažte se docílit celibátu okamžitě. Omezujte svůj fyzický, pozemský hlad pomalu a postupně.“
+/Sri Chinmoy:/ rozhodně, ale od některých ji nemohu očekávat ihned. pokud někdo studuje na středoškolské úrovni, nemohu od něj očekávat, že náhle získá univerzitní titul. kromě toho žijeme ve dvacátém století a já se snažím ke svým studentům chovat prakticky. lidem, kteří jsou sezdaní, říkám: „Nesnažte se docílit celibátu okamžitě. Omezujte svůj fyzický, pozemský hlad pomalu a postupně.“
 
 Na druhou stranu jsou zde i takoví, kteří jsou ve svém duchovním životě připraveni běžet velice rychle. Řekněme, že se narodili do duchovní rodiny a jejich rodiče a starší bratři a sestry už praktikují duchovnost, takže mají určité zázemí. Lidé, kteří jsou již probuzeni, jsou více než připraveni dodržovat přísnou disciplínu celibátního života. Těm říkám: „Je na tobě, jak rychle chceš běžet po Cestě Věčnosti. Pokud jsi dychtivý běžet nejvyšší rychlostí, jestliže žízníš po světle, musíš dělat věci, které jsou ke zvýšení tvé rychlosti naprosto nezbytné.“
 
 /Editor:/ Které to jsou věci?
 
-/Sri Chinmoy:/ Naší filozofií je:
+/Sri Chinmoy:/ naší filozofií je:
 
 #+BEGIN_VERSE
 
@@ -179,7 +174,7 @@ Všichni potřebujeme a chceme svobodu. Toto však není svoboda Cézara nebo Na
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:36-cs
+  :cite-key: sca:36-cs
   :date-event: 1993-12-19
   :END:
 
@@ -202,7 +197,7 @@ Když zjistíme, že se do nás nesnaží vstoupit ani ta nejmenší myšlenka, 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:37-cs
+  :cite-key: sca:37-cs
   :date-event: 1993-12-19
   :END:
 
@@ -214,7 +209,7 @@ Takže pro mě neexistuje Indie ani Amerika. Pro mě existuje jen jedna věc: Bo
 
 Fyzicky se nacházíte na Havaji, ale Bůh vás žádá, abyste sloužili celému světu z tohoto místa. Také já bydlím na jednom místě -- v New Yorku -- ale díky své aspiraci nejsem duchovně omezený na New York. Moje aspirace mě přenese kamkoliv. Když žijeme ve světě aspirace, jsme všude. Pokud však žijeme ve světě touhy, jsme nikde, protože touha nás neustále spoutává a omezuje. 
 
-Když jsem se narodil, celým mým světem byl můj otec a moje matka. Když jsem později trochu vyrostl, stala se mým světem moje malá vesnice. Potom se jím stalo moje město, provincie a země. Pokaždé, když jsem byl více probuzený a rozvinutý, moje vědomí se rozšířilo. Když se mě dnes zeptáte: „Kde žijete?“ lidské ve mně odpoví: „Žiji v New Yorku.“ Ale božské ve mně řekne: „Ne, já žiji uvnitř srdce aspirujícího lidstva. Můj skutečný domov se nachází uvnitř srdcí mých duchovních bratří a sester, stejně jako oni žijí uvnitř mého srdce.“
+Když jsem se narodil, celým mým světem byl můj otec a moje matka. Když jsem později trochu vyrostl, stala se mým světem moje malá vesnice. Potom se jím stalo moje město, provincie a země. Pokaždé, když jsem byl více probuzený a rozvinutý, moje vědomí se rozšířilo. Když se mě dnes zeptáte: „kde žijete?“ lidské ve mně odpoví: „Žiji v new yorku.“ ale božské ve mně řekne: „Ne, já žiji uvnitř srdce aspirujícího lidstva. Můj skutečný domov se nachází uvnitř srdcí mých duchovních bratří a sester, stejně jako oni žijí uvnitř mého srdce.“
 
 
 
@@ -223,7 +218,7 @@ Když jsem se narodil, celým mým světem byl můj otec a moje matka. Když jse
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:38-cs
+  :cite-key: sca:38-cs
   :date-event: 1993-12-19
   :END:
 
@@ -231,7 +226,7 @@ Když jsem se narodil, celým mým světem byl můj otec a moje matka. Když jse
 
 Já jim dávám to, čím jsem a co mám. I oni mi dávají to, čím jsou a co mají. Právě díky tomu jsem s nimi individuálně i kolektivně -- nejenom na Jamaice, ale i v různých částech světa. Říkám jim jenom jednu věc: dívejte se jenom na to dobré v ostatních a snažte se to zvětšit. Jestliže budu přikládat velký význam úsvitu, který se objevuje brzo zrána, celé moje vědomí bude zaplaveno světlem. Pokud bych naopak chtěl myslet na šero, které předchází úsvitu, moje mysl by byla zahalena temnotou.
 
-Vždycky říkám svým studentům, aby se dívali na pozitivní, nikoli na negativní aspekt života. Říkám jim, aby milovali ostatní a snažili se vynést na povrch nejenom svoje vlastní dobré kvality, ale i dobré kvality ostatních. Říkám: „Když vidíš, že někdo má dvě dobré vlastnosti a jednu špatnou, obdivuj a oceňuj ho za ty dobré. On sám se potom bude stydět za tu jednu špatnou a pokusí se jí zbavit. Pokud ale půjdeš a řekneš mu: „Ach ty máš tuto špatnou vlastnost,“ on se nezmění. Pouze ze sebe uděláš jeho nepřítele. 
+Vždycky říkám svým studentům, aby se dívali na pozitivní, nikoli na negativní aspekt života. Říkám jim, aby milovali ostatní a snažili se vynést na povrch nejenom svoje vlastní dobré kvality, ale i dobré kvality ostatních. Říkám: „když vidíš, že někdo má dvě dobré vlastnosti a jednu špatnou, obdivuj a oceňuj ho za ty dobré. on sám se potom bude stydět za tu jednu špatnou a pokusí se jí zbavit. pokud ale půjdeš a řekneš mu: „Ach ty máš tuto špatnou vlastnost,“ on se nezmění. Pouze ze sebe uděláš jeho nepřítele. 
 
 
 
@@ -241,7 +236,7 @@ Vždycky říkám svým studentům, aby se dívali na pozitivní, nikoli na nega
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:39-cs
+  :cite-key: sca:39-cs
   :date-event: 1993-12-19
   :END:
 
@@ -262,7 +257,7 @@ Takže se společně modleme a nabídněme našemu Pánu Nejvyššímu vděčnos
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:40-cs
+  :cite-key: sca:40-cs
   :date-event: 1993-12-19
   :END:
 
@@ -275,7 +270,7 @@ Takže se společně modleme a nabídněme našemu Pánu Nejvyššímu vděčnos
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:41-cs
+  :cite-key: sca:41-cs
   :date-event: 1993-12-19
   :END:
 
@@ -284,7 +279,7 @@ Takže se společně modleme a nabídněme našemu Pánu Nejvyššímu vděčnos
 
 /Editor:/ Jak je možné, že lidé na Havaji vás přiměli, abyste něco řekl, kdežto lidé v Chicagu to nedokázali? Po vašem nedávném koncertě na univerzitě Hawaii Manoa Campus jste měl přednášku a předtím vám Matsunagův institut pro mír dal mírové ocenění.
 
-/Sri Chinmoy:/ Občas se stává, že jsem vydán na milost svým žákům kvůli slibům, které dali různým představitelům. Jinak bych mohl přijmout to ocenění v tichu a stejně tak bych v tichu mohl nabídnout svoji vděčnost. Ale když moji studenti slíbí, že promluvím, nebo když mě někdo nachytá bez doprovodu, otevřu svoje velká ústa a řeknu: „Ano, promluvím.“ Potom z toho nemám žádnou radost, protože vím, že lidé v publiku by získali mnohem více z mého ticha. Kdykoli někdo mluví, má pocit, že je nějak lepší, než jeho posluchači. Říká si: „Já mám veškerou moudrost a vy jste přišli sem, abyste jí trošku přijali. Nebudete-li mi naslouchat, zůstanete v noci nevědomosti.“ Když má někdo přednášku, má pocit nadřazenosti. Nikdy nemá pocit, že posluchači mu dělají velikou laskavost, protože vynášejí na povrch jeho dobré vlastnosti. Teoreticky by učitel mohl říci, že se sám učí, když přednáší. Ale někde ve skrytu mysli se učitel domnívá, že pouze sdílí se svými studenty svoje nadřazené poznání. Věří, že jeho posluchači jsou žebráci a on jim dává všechno. 
+/Sri Chinmoy:/ občas se stává, že jsem vydán na milost svým žákům kvůli slibům, které dali různým představitelům. jinak bych mohl přijmout to ocenění v tichu a stejně tak bych v tichu mohl nabídnout svoji vděčnost. ale když moji studenti slíbí, že promluvím, nebo když mě někdo nachytá bez doprovodu, otevřu svoje velká ústa a řeknu: „ano, promluvím.“ potom z toho nemám žádnou radost, protože vím, že lidé v publiku by získali mnohem více z mého ticha. kdykoli někdo mluví, má pocit, že je nějak lepší, než jeho posluchači. Říká si: „Já mám veškerou moudrost a vy jste přišli sem, abyste jí trošku přijali. Nebudete-li mi naslouchat, zůstanete v noci nevědomosti.“ Když má někdo přednášku, má pocit nadřazenosti. Nikdy nemá pocit, že posluchači mu dělají velikou laskavost, protože vynášejí na povrch jeho dobré vlastnosti. Teoreticky by učitel mohl říci, že se sám učí, když přednáší. Ale někde ve skrytu mysli se učitel domnívá, že pouze sdílí se svými studenty svoje nadřazené poznání. Věří, že jeho posluchači jsou žebráci a on jim dává všechno. 
 
 Naproti tomu, když učitel se svými studenty medituje, ani on, ani oni nemají pocit, že jsou žebráci. Učitel pozvedává svoje studenty a jeho studenti pozvedávají jeho. Kdo může v tiché meditaci říci, že je podřízený nebo nadřazený? Je to rodina jednoty. Když jde otec po ulici a za ním jde jeho malé dítě, nemyslí si: „Ach ty jsi malý chlapec. Co tady děláš? Nechoď se mnou.“ Ne, otec je velice šťastný a hrdý, že ho jeho malé dítě následuje. A dítě se nebojí otcovy výšky nebo síly, protože ví, že jednoho dne vyroste a bude stejně vysoké a silné jako otec. 
 
@@ -298,7 +293,7 @@ Myslíte si, že druh početné rodiny, ve kterých se žije v Indii, kde otcov�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:42-cs
+  :cite-key: sca:42-cs
   :date-event: 1993-12-19
   :END:
 
@@ -316,7 +311,7 @@ My máme tělo, vitálno, mysl, srdce a duši. Když se dnes zřeknu těla, zít
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:43e1-cs
+  :cite-key: sca:43e1-cs
   :END:
   
 
@@ -327,7 +322,7 @@ My máme tělo, vitálno, mysl, srdce a duši. Když se dnes zřeknu těla, zít
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:43-cs
+  :cite-key: sca:43-cs
   :date-event: 1993-12-21
   :END:
 
@@ -341,12 +336,12 @@ My máme tělo, vitálno, mysl, srdce a duši. Když se dnes zřeknu těla, zít
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:44-cs
+  :cite-key: sca:44-cs
   :date-event: 1993-12-21
   :END:
 
 
-/Sri Chinmoy:/ Napřed musí přijít individuální mír. Budu-li mít mír mysli a vy jej budete mít také, žádná válka nevypukne. Ale když nebudu mít mír mysli, budu neustále nejistý, budu žárlit a budu se vás bát. Budu si myslet, že mě hodláte kdykoliv napadnout, takže vás budu chtít napadnout jako první. Nebo se budu cítit nadřazeně a budu vám chtít tuto nadřazenost ukázat; budu chtít dokázat, že jsem větší a silnější než vy, takže vyhlásím válku. To všechno vychází z mysli. Je to tak, války vždy začínají v mysli. Pokud však budu žít v srdci a budu cítit svoji jednotu s vámi, nebudu postižen nejistotou a žárlivostí. Bude zde jenom mír jednoty. Říkám tedy světu: „Žijme v srdci, nikoli v mysli. Válka je v mysli, ale láska a mír jsou v srdci.“
+/Sri Chinmoy:/ napřed musí přijít individuální mír. budu-li mít mír mysli a vy jej budete mít také, žádná válka nevypukne. ale když nebudu mít mír mysli, budu neustále nejistý, budu žárlit a budu se vás bát. budu si myslet, že mě hodláte kdykoliv napadnout, takže vás budu chtít napadnout jako první. nebo se budu cítit nadřazeně a budu vám chtít tuto nadřazenost ukázat; budu chtít dokázat, že jsem větší a silnější než vy, takže vyhlásím válku. to všechno vychází z mysli. je to tak, války vždy začínají v mysli. pokud však budu žít v srdci a budu cítit svoji jednotu s vámi, nebudu postižen nejistotou a žárlivostí. bude zde jenom mír jednoty. Říkám tedy světu: „Žijme v srdci, nikoli v mysli. Válka je v mysli, ale láska a mír jsou v srdci.“
 
 Svět naneštěstí stále žije v mysli. Každá země se buď snaží předvést svoji nadřazenost, nebo se bojí jiných zemí, takže svět velice postrádá mír. Jak může svět mír získat? Pomocí modlitby a meditace. Získám-li mír ze své modlitby a meditace, nebudu útočit proti vám, ani proti komukoliv jinému. A můj mír mysli vás bude inspirovat, abyste se také modlil, meditoval a získal mír mysli. Takže z individuálního míru můžeme získat kolektivní mír.
 
@@ -359,7 +354,7 @@ Moje zbožné poselství světu zní takto: získejme nejprve individuální mí
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:45-cs
+  :cite-key: sca:45-cs
   :date-event: 1993-12-21
   :END:
 
@@ -380,7 +375,7 @@ Moje zbožné poselství světu zní takto: získejme nejprve individuální mí
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:46-cs
+  :cite-key: sca:46-cs
   :date-event: 1993-12-21
   :END:
 
@@ -398,7 +393,7 @@ Moje zbožné poselství světu zní takto: získejme nejprve individuální mí
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:47-cs
+  :cite-key: sca:47-cs
   :date-event: 1993-12-21
   :END:
 
@@ -413,12 +408,12 @@ Moje zbožné poselství světu zní takto: získejme nejprve individuální mí
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:48-cs
+  :cite-key: sca:48-cs
   :date-event: 1993-12-21
   :END:
   
   
-/Sri Chinmoy:/ Pokud ještě nejsme připraveni přijmout nejvyšší filozofii, říkáme si: „Pokud nebudu schopen udržet svoje tělo v pořádku, nebudu schopen nikoho porazit.“ Jestliže přechováváme v mysli takovou myšlenku, aspoň se snažíme udržet tělo zdravé. Ale z nejvyššího úhlu pohledu není cílem někoho porazit, ale pouze soutěžit se sebou samým. Soutěžíme-li s ostatními, nikdy nebudeme šťastní. Možná, že dnes někoho porazím v běžeckém závodě, ale zítra se podívám kolem sebe a zjistím, že je tam někdo, kdo je daleko lepší než já. Bez ohledu na to, co děláme, vždycky existuje někdo, kdo to dokáže lépe. V tomto okamžiku mohu být nejlepší, ale v příštím okamžiku někdo přijde, zničí moji pýchu a já se budu cítit špatně. 
+/Sri Chinmoy:/ pokud ještě nejsme připraveni přijmout nejvyšší filozofii, říkáme si: „Pokud nebudu schopen udržet svoje tělo v pořádku, nebudu schopen nikoho porazit.“ Jestliže přechováváme v mysli takovou myšlenku, aspoň se snažíme udržet tělo zdravé. Ale z nejvyššího úhlu pohledu není cílem někoho porazit, ale pouze soutěžit se sebou samým. Soutěžíme-li s ostatními, nikdy nebudeme šťastní. Možná, že dnes někoho porazím v běžeckém závodě, ale zítra se podívám kolem sebe a zjistím, že je tam někdo, kdo je daleko lepší než já. Bez ohledu na to, co děláme, vždycky existuje někdo, kdo to dokáže lépe. V tomto okamžiku mohu být nejlepší, ale v příštím okamžiku někdo přijde, zničí moji pýchu a já se budu cítit špatně. 
 
 Když soutěžím pouze sám se sebou, vždycky získám ohromnou radost. Včera jsem se nacházel na určité úrovni, ale moje dnešní úroveň je vyšší. Včera jsem měl ve své povaze určitý počet slabostí nebo nedostatků, ale dnes se budu ze všech sil snažit, abych jich měl o několik méně. Takto dělám neustále pokrok a jsem stále šťastný. Tady není žádný třetí člověk, který posuzuje dva soupeře. Já sám jsem sudí, vím, kolik lží jsem včera řekl, takže dnes se jich budu snažit říci méně. Jestliže jsem se včera modlil pět minut, dnes se pokusím modlit deset minut. Dobré věci se pokusím zvětšit a špatné věci se pokusím zmenšit. Takto soutěžím jenom sám se sebou. Také ve sportu je naším cílem vždy dosáhnout nejlepšího výsledku a snažit se soupeřit neustále jenom se sebou. Ale ať už to dopadne jakkoli, měli bychom výsledek přijmout s radostí. My se budeme maximálně snažit a přijmeme cokoli, co bude Bůh chtít, abychom z toho měli.
 
@@ -430,7 +425,7 @@ Když soutěžím pouze sám se sebou, vždycky získám ohromnou radost. Včera
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:49-cs
+  :cite-key: sca:49-cs
   :date-event: 1993-12-21
   :END:
 
@@ -448,7 +443,7 @@ Každý by se měl snažit vyniknout ve svém vlastním životě; měl by soutě
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:50-cs
+  :cite-key: sca:50-cs
   :date-event: 1993-12-21
   :END:
 
@@ -464,7 +459,7 @@ Každý by se měl snažit vyniknout ve svém vlastním životě; měl by soutě
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:51e1-cs
+  :cite-key: sca:51e1-cs
   :END:
   
 
@@ -474,7 +469,7 @@ Každý by se měl snažit vyniknout ve svém vlastním životě; měl by soutě
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:51-cs
+  :cite-key: sca:51-cs
   :date-event: 1994-01-00
   :END:
 
@@ -497,12 +492,12 @@ Když hledající a milovníci Boha mluví o míru, vychází to z jejich pocitu
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:52-cs
+  :cite-key: sca:52-cs
   :date-event: 1994-01-00
   :END:
 
 
-/Sri Chinmoy:/ Sri Chinmoy: Modlitba a meditace zahrnují vše, musíme však vědět, že existují dva druhy modlitby. Jedna modlitba je jenom pro mě: modlím se k Bohu, aby ze mě udělal dobrého člověka, modlím se k Bohu, aby pro mě udělal toto nebo tamto. Tento druh modlitby mě v konečném důsledku neuspokojí. Dokonce i kdyby mi Bůh dal všechno, oč jej požádám, uvidím kolem sebe bezpočet lidí, kteří tyto věci nemají -- lidí, kteří jsou hladoví, chudí a nešťastní. Jakmile zjistím, že ostatní jsou nešťastní, nebudu mít ze své modlitby radost, bez ohledu na to, jaké výsledky přinese. Pokud se ale budu modlit k Bohu, aby dal všem svoji Lásku, Soucit a Požehnání a moje modlitba bude vyslyšena, budu skutečně šťastný. Takže se modleme k našemu Nebeskému Otci, aby dal všem vnitřní potravu, a až On vyslyší naše modlitby, bude to skutečně božská hostina.
+/Sri Chinmoy:/ sri chinmoy: modlitba a meditace zahrnují vše, musíme však vědět, že existují dva druhy modlitby. jedna modlitba je jenom pro mě: modlím se k Bohu, aby ze mě udělal dobrého člověka, modlím se k Bohu, aby pro mě udělal toto nebo tamto. Tento druh modlitby mě v konečném důsledku neuspokojí. Dokonce i kdyby mi Bůh dal všechno, oč jej požádám, uvidím kolem sebe bezpočet lidí, kteří tyto věci nemají -- lidí, kteří jsou hladoví, chudí a nešťastní. Jakmile zjistím, že ostatní jsou nešťastní, nebudu mít ze své modlitby radost, bez ohledu na to, jaké výsledky přinese. Pokud se ale budu modlit k Bohu, aby dal všem svoji Lásku, Soucit a Požehnání a moje modlitba bude vyslyšena, budu skutečně šťastný. Takže se modleme k našemu Nebeskému Otci, aby dal všem vnitřní potravu, a až On vyslyší naše modlitby, bude to skutečně božská hostina.
 
 Když rodiče dají něco jednomu dítěti a ostatní děti to nedostanou, budou smutní a děti budou plakat a žárlit. Má-li rodina deset členů a otec přinese jenom jeden kus ovoce, devět lidí nic nedostane. Jak může být šťastný ten obdarovaný, když uvidí smutné tváře ostatních? Ze stejného důvodu se modlím, aby Bůh dal svoje Požehnání, Lásku a Zájem všem. Jenom takto budeme všichni opravdu šťastní. Nikdy nebudu spokojený, pokud se budu modlit jenom pro sebe. Všechno, co děláme, musíme dělat pro všechny.
 
@@ -512,7 +507,7 @@ Když rodiče dají něco jednomu dítěti a ostatní děti to nedostanou, budou
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:53-cs
+  :cite-key: sca:53-cs
   :date-event: 1994-01-00
   :END:
 
@@ -529,7 +524,7 @@ Já se snažím být dobrý, lepší, nejlepší -- nikoli proto, abych vás por
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:54-cs
+  :cite-key: sca:54-cs
   :date-event: 1994-01-00
   :END:
   
@@ -541,16 +536,3 @@ Když jsem byl mladý, po celé hodiny jsem se modlil, modlil a modlil. Teď má
 Podobné je to i u vás, ta stejná Osoba, která předtím chtěla, abyste pracoval sám na poli a dostal radost, vás teď žádá, abyste radil tomuto člověku a tamtomu člověku. Vaše předchozí práce byla dobrá, ale byla hlavně pro vás -- stejně jako u mě, když jsem se modlil a meditoval v Indii. Vaše současná práce je však důležitější, protože se snažíte pomoci mnoha lidem současně. Předtím po vás Bůh chtěl, abyste pracoval ve svém obývacím pokoji, a vy jste byl šťastný. Teď vás žádá, abyste pracoval v kuchyni a připravoval velice chutná jídla mnoha lidem, aby mohli být silní a mohli pro něj pracovat. 
 
 Všechno co máte dělat, musíte dělat s radostí. Tím potěšíte Boha nejvíce. Nejprve Bůh chtěl, abyste žil v Japonsku. Teď vás přivedl na Fidži. Po několika letech vás může poslat někam jinam, abyste mu mohl sloužit. Ať půjdete kamkoli, musíte být šťastný. Nemyslete si - „Ach, v Japonsku jsem měl mnoho přátel a příbuzných. Byl jsem tam šťastný, ale tady nemám žádné přátele.“ Ne, zkuste cítit, že v Japonsku jste byl šťastný, protože jste sloužil přátelům, které jste tam měl, a tady budete šťastný, protože budete sloužit přátelům, které zde budete mít. Tímto způsobem -- službou, službou a službou lidstvu různými způsoby se z vás stane dobrý a dokonalý člověk. 
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

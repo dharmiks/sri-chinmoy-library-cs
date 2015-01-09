@@ -1,12 +1,7 @@
-#+TITLE: Soucítění
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Soucítění
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -22,8 +17,8 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:1-cs
+  :genre: aphorism
+  :cite-key: symt:1-cs
   :END:
 
 Soucítění je pláčem srdce po jednotě.
@@ -33,8 +28,8 @@ Soucítění je pláčem srdce po jednotě.
 * 2.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:2-cs
+  :genre: aphorism
+  :cite-key: symt:2-cs
   :END:
 
 Soucítění je krásou úsměvu sladkosti.
@@ -44,8 +39,8 @@ Soucítění je krásou úsměvu sladkosti.
 * 3.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:3-cs
+  :genre: aphorism
+  :cite-key: symt:3-cs
   :END:
 
 Soucítění je vůní plné lásky.
@@ -55,8 +50,8 @@ Soucítění je vůní plné lásky.
 * 4.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:4-cs
+  :genre: aphorism
+  :cite-key: symt:4-cs
   :END:
 
 Soucítění přináší lidstvu svěží úsvit štěstí.
@@ -66,8 +61,8 @@ Soucítění přináší lidstvu svěží úsvit štěstí.
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:5-cs
+  :genre: aphorism
+  :cite-key: symt:5-cs
   :END:
 
 Soucítění je projevem moudrosti jednoty.
@@ -77,8 +72,8 @@ Soucítění je projevem moudrosti jednoty.
 * 6.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:6-cs
+  :genre: aphorism
+  :cite-key: symt:6-cs
   :END:
 
 Soucítění je nekonečně silnější a sladší než laskavost.
@@ -88,8 +83,8 @@ Soucítění je nekonečně silnější a sladší než laskavost.
 * 7.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:7-cs
+  :genre: aphorism
+  :cite-key: symt:7-cs
   :END:
 
 Soucítění je dokonalým odhalením božskosti.
@@ -99,8 +94,8 @@ Soucítění je dokonalým odhalením božskosti.
 * 8.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:8-cs
+  :genre: aphorism
+  :cite-key: symt:8-cs
   :END:
 
 Soucítění je slunečním svitem Nebe.
@@ -110,8 +105,8 @@ Soucítění je slunečním svitem Nebe.
 * 9.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:9-cs
+  :genre: aphorism
+  :cite-key: symt:9-cs
   :END:
 
 Soucítění dokáže zdaleka nejlépe vysušit slzy ostatních.
@@ -121,8 +116,8 @@ Soucítění dokáže zdaleka nejlépe vysušit slzy ostatních.
 * 10.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:10-cs
+  :genre: aphorism
+  :cite-key: symt:10-cs
   :END:
 
 Soucítění je nesrovnatelným přítelem smutku.
@@ -132,8 +127,8 @@ Soucítění je nesrovnatelným přítelem smutku.
 * 11.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:11-cs
+  :genre: aphorism
+  :cite-key: symt:11-cs
   :END:
 
 Soucítění je nektarovou blažeností srdce.
@@ -143,8 +138,8 @@ Soucítění je nektarovou blažeností srdce.
 * 12.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:12-cs
+  :genre: aphorism
+  :cite-key: symt:12-cs
   :END:
 
 Vnitřním jménem soucítění je oběť.
@@ -154,8 +149,8 @@ Vnitřním jménem soucítění je oběť.
 * 13.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:13-cs
+  :genre: aphorism
+  :cite-key: symt:13-cs
   :END:
 
 Soucítění je osvěcujícím světlem slz soucitu.
@@ -165,8 +160,8 @@ Soucítění je osvěcujícím světlem slz soucitu.
 * 14.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:14-cs
+  :genre: aphorism
+  :cite-key: symt:14-cs
   :END:
 
 Soucítění je tryskajícím srdcem zájmu.
@@ -176,8 +171,8 @@ Soucítění je tryskajícím srdcem zájmu.
 * 15.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:15-cs
+  :genre: aphorism
+  :cite-key: symt:15-cs
   :END:
 
 Soucítění spontánně nabízí útěchu srdci, mysli, vitálnu a tělu.
@@ -187,8 +182,8 @@ Soucítění spontánně nabízí útěchu srdci, mysli, vitálnu a tělu.
 * 16.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:16-cs
+  :genre: aphorism
+  :cite-key: symt:16-cs
   :END:
 
 Soucítění je milovníkem jednoty a slz.
@@ -198,8 +193,8 @@ Soucítění je milovníkem jednoty a slz.
 * 17.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:17-cs
+  :genre: aphorism
+  :cite-key: symt:17-cs
   :END:
 
 Soucítění nepřemýšlí. Jedná. Jedná, aby odstranilo neutuchající utrpení světa.
@@ -209,8 +204,8 @@ Soucítění nepřemýšlí. Jedná. Jedná, aby odstranilo neutuchající utrpe
 * 18.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:18-cs
+  :genre: aphorism
+  :cite-key: symt:18-cs
   :END:
 
 Soucítění je radostí sebedávající síly.
@@ -220,8 +215,8 @@ Soucítění je radostí sebedávající síly.
 * 19.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:19-cs
+  :genre: aphorism
+  :cite-key: symt:19-cs
   :END:
 
 Srdce soucítění nezná rozdělení. Zná pouze jednotu.
@@ -230,8 +225,8 @@ Srdce soucítění nezná rozdělení. Zná pouze jednotu.
 * 20.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:20-cs
+  :genre: aphorism
+  :cite-key: symt:20-cs
   :END:
 
 Soucítění je bezpodmínečným dárcem naděje.
@@ -240,8 +235,8 @@ Soucítění je bezpodmínečným dárcem naděje.
 * 21.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:21-cs
+  :genre: aphorism
+  :cite-key: symt:21-cs
   :END:
 
 Soucítění hasí žízeň naděje.
@@ -251,8 +246,8 @@ Soucítění hasí žízeň naděje.
 * 22.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:22-cs
+  :genre: aphorism
+  :cite-key: symt:22-cs
   :END:
 
 Soucítění nejúspěšněji utěšuje proudící slzy.
@@ -262,8 +257,8 @@ Soucítění nejúspěšněji utěšuje proudící slzy.
 * 23.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:23-cs
+  :genre: aphorism
+  :cite-key: symt:23-cs
   :END:
 
 Soucítění přichází. Zármutek mizí.
@@ -273,8 +268,8 @@ Soucítění přichází. Zármutek mizí.
 * 24.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:24-cs
+  :genre: aphorism
+  :cite-key: symt:24-cs
   :END:
 
 Srdce soucítění je velmi zvláštní hrdostí Boha.
@@ -284,8 +279,8 @@ Srdce soucítění je velmi zvláštní hrdostí Boha.
 * 25.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:25-cs
+  :genre: aphorism
+  :cite-key: symt:25-cs
   :END:
 
 Životu moře soucítění se nic nevyrovná.
@@ -296,8 +291,8 @@ Srdce soucítění je velmi zvláštní hrdostí Boha.
 * 26.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:26-cs
+  :genre: aphorism
+  :cite-key: symt:26-cs
   :END:
 
 Soucítění přináší Nebe do našeho krvácejícího srdce.
@@ -307,8 +302,8 @@ Soucítění přináší Nebe do našeho krvácejícího srdce.
 * 27.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:27-cs
+  :genre: aphorism
+  :cite-key: symt:27-cs
   :END:
 
 Soucítění je největší ze všech ctností.
@@ -318,8 +313,8 @@ Soucítění je největší ze všech ctností.
 * 28.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:28-cs
+  :genre: aphorism
+  :cite-key: symt:28-cs
   :END:
 
 Soucítění poskytuje okamžité přístřeší zármutku.
@@ -329,8 +324,8 @@ Soucítění poskytuje okamžité přístřeší zármutku.
 * 29.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:29-cs
+  :genre: aphorism
+  :cite-key: symt:29-cs
   :END:
 
 Soucítění je proudem a září dobroty.
@@ -340,8 +335,8 @@ Soucítění je proudem a září dobroty.
 * 30.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:30-cs
+  :genre: aphorism
+  :cite-key: symt:30-cs
   :END:
 
 Soucítění je představitelem Boha na zemi.
@@ -351,8 +346,8 @@ Soucítění je představitelem Boha na zemi.
 * 31.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:31-cs
+  :genre: aphorism
+  :cite-key: symt:31-cs
   :END:
 
 Soucitné srdce je životem plným Boha.
@@ -362,8 +357,8 @@ Soucitné srdce je životem plným Boha.
 * 32.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:32-cs
+  :genre: aphorism
+  :cite-key: symt:32-cs
   :END:
 
 Soucítění přeměňuje utrpení na růže.
@@ -373,8 +368,8 @@ Soucítění přeměňuje utrpení na růže.
 * 33.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:33-cs
+  :genre: aphorism
+  :cite-key: symt:33-cs
   :END:
 
 Soucítění rozvíjí. Útěcha kvete.
@@ -384,8 +379,8 @@ Soucítění rozvíjí. Útěcha kvete.
 * 34.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:34-cs
+  :genre: aphorism
+  :cite-key: symt:34-cs
   :END:
 
 Soucítění přichází k zármutku, aby ho bezpodmínečně zahojilo.
@@ -395,8 +390,8 @@ Soucítění přichází k zármutku, aby ho bezpodmínečně zahojilo.
 * 35.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:35-cs
+  :genre: aphorism
+  :cite-key: symt:35-cs
   :END:
 
 Soucítění je vrcholně požehnáno ne Božíma Rukama, ne Božím Srdcem, ale Božím Dechem.
@@ -406,8 +401,8 @@ Soucítění je vrcholně požehnáno ne Božíma Rukama, ne Božím Srdcem, ale
 * 36.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:36-cs
+  :genre: aphorism
+  :cite-key: symt:36-cs
   :END:
 
 Kéž je má mysl řekou soucítění.
@@ -417,8 +412,8 @@ Kéž je má mysl řekou soucítění.
 * 37.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:37-cs
+  :genre: aphorism
+  :cite-key: symt:37-cs
   :END:
 
 Kéž je mé srdce mořem soucítění.
@@ -428,8 +423,8 @@ Kéž je mé srdce mořem soucítění.
 * 38.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:38-cs
+  :genre: aphorism
+  :cite-key: symt:38-cs
   :END:
 
 Kéž je můj život královstvím soucítění.
@@ -439,8 +434,8 @@ Kéž je můj život královstvím soucítění.
 * 39.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:39-cs
+  :genre: aphorism
+  :cite-key: symt:39-cs
   :END:
 
 Soucítění je člověkem uskutečněný čin, který naplňuje vlastní touhu Boha.
@@ -450,8 +445,8 @@ Soucítění je člověkem uskutečněný čin, který naplňuje vlastní touhu 
 * 40.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:40-cs
+  :genre: aphorism
+  :cite-key: symt:40-cs
   :END:
 
 Soucítění přichází od Boha Stvořitele a jde k Bohu stvoření.
@@ -461,8 +456,8 @@ Soucítění přichází od Boha Stvořitele a jde k Bohu stvoření.
 * 41.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:41-cs
+  :genre: aphorism
+  :cite-key: symt:41-cs
   :END:
 
 Moře zármutku a obloha soucítění se narodily současně.
@@ -471,8 +466,8 @@ Moře zármutku a obloha soucítění se narodily současně.
 * 42.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:42-cs
+  :genre: aphorism
+  :cite-key: symt:42-cs
   :END:
 
 Soucítění je cestovatelem se zájmem o bolest světa.
@@ -482,8 +477,8 @@ Soucítění je cestovatelem se zájmem o bolest světa.
 * 43.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:43-cs
+  :genre: aphorism
+  :cite-key: symt:43-cs
   :END:
 
 Zármutek si myslí, že je nevyléčitelný. Soucítění nesouhlasí. Soucítění srdce zármutku léčí.
@@ -493,8 +488,8 @@ Zármutek si myslí, že je nevyléčitelný. Soucítění nesouhlasí. Soucít�
 * 44.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:44-cs
+  :genre: aphorism
+  :cite-key: symt:44-cs
   :END:
 
 Tak jako je tento svět chorobou, tak je soucítění lékem.
@@ -504,8 +499,8 @@ Tak jako je tento svět chorobou, tak je soucítění lékem.
 * 45.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:45-cs
+  :genre: aphorism
+  :cite-key: symt:45-cs
   :END:
 
 Soucitné srdce radostně a bezvýhradné vítá naříkající mysl.
@@ -515,8 +510,8 @@ Soucitné srdce radostně a bezvýhradné vítá naříkající mysl.
 * 46.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:46-cs
+  :genre: aphorism
+  :cite-key: symt:46-cs
   :END:
 
 Soucítění je rozpětím srdce, osvícením mysli a uspokojením jednoty.
@@ -526,8 +521,8 @@ Soucítění je rozpětím srdce, osvícením mysli a uspokojením jednoty.
 * 47.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:47-cs
+  :genre: aphorism
+  :cite-key: symt:47-cs
   :END:
 
 Bolest nás zarmoutí. Soucítění nás potěší.
@@ -537,8 +532,8 @@ Bolest nás zarmoutí. Soucítění nás potěší.
 * 48.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:48-cs
+  :genre: aphorism
+  :cite-key: symt:48-cs
   :END:
 
 Soucítění je mateřským srdcem lidstva.
@@ -548,8 +543,8 @@ Soucítění je mateřským srdcem lidstva.
 * 49.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:49-cs
+  :genre: aphorism
+  :cite-key: symt:49-cs
   :END:
 
 Slzy očišťují náš život. Soucítění osvěcuje naše srdce.
@@ -559,8 +554,8 @@ Slzy očišťují náš život. Soucítění osvěcuje naše srdce.
 * 50.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:50-cs
+  :genre: aphorism
+  :cite-key: symt:50-cs
   :END:
 
 Když nás přepadne bolest, soucítění k nám běží, aby nás zachránilo.
@@ -570,8 +565,8 @@ Když nás přepadne bolest, soucítění k nám běží, aby nás zachránilo.
 * 51.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:51-cs
+  :genre: aphorism
+  :cite-key: symt:51-cs
   :END:
 
 Dokud je soucítění naživu, Bůh se o své stvoření nemusí strachovat.
@@ -581,25 +576,8 @@ Dokud je soucítění naživu, Bůh se o své stvoření nemusí strachovat.
 * 52.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SYMT:52-cs
+  :genre: aphorism
+  :cite-key: symt:52-cs
   :END:
 
 Soucítění dostává Boží Srdce od Samotného Boha a vrací jej Božímu Tělu.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# END:
-
-
-
-

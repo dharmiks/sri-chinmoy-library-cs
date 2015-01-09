@@ -1,20 +1,15 @@
-#+TITLE: Siddhártha se stává Buddhou
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Siddhártha se stává Buddhou
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2006
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: SBB-cs
-  :GENRE: play
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2006
+  :publisher: Madal Bal
+  :cite-key: SBB-cs
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Kdo je vlastník, ten, kdo život zachraňuje, nebo ten, kdo život bere?
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:1-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:1-cs
   :END:
 
 
@@ -32,9 +27,9 @@
 * Kdo je vlastník, ten, kdo život zachraňuje, nebo ten, kdo život bere? (obsazení)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:2-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:2-cs
   :END:
 
 
@@ -47,9 +42,9 @@ SOUDCE
 Kdo je vlastník, ten, kdo život zachraňuje, nebo ten, kdo život bere? /(akt I, scéna I)/
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:3-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:3-cs
   :END:
 
 
@@ -67,7 +62,7 @@ Devadatta: Tvůj pták! Toho ptáka jsem sestřelil já. Patří mně. Toto je 
 
 Siddhártha: Devadatto, kdybych tomu ptákovi šíp nevytáhl, už by byl mrtvý.
 
-Devadatta: Nejde o to, zda by byl mrtvý nebo živý. Pták je živý a je mým vlastnictvím. Byla to má síla, má zručnost, má schopnost, která stáhla toho ptáka na zem. Ty ho nemůžeš mít. Všichni si tě cení, obdivují tě pro tvé srdce, pro tvou laskavost. Ale teď nech svět, aby ocenil mou schopnost, mou dovednost. Buď spokojený s tím, co máš: lásku. A já budu spokojený s tím, co mám já: sílu. Má síla, mé lučištnické umění si zasluhuje toho ptáka, ne tvá láska.
+Devadatta: nejde o to, zda by byl mrtvý nebo živý. pták je živý a je mým vlastnictvím. byla to má síla, má zručnost, má schopnost, která stáhla toho ptáka na zem. ty ho nemůžeš mít. všichni si tě cení, obdivují tě pro tvé srdce, pro tvou laskavost. ale teď nech svět, aby ocenil mou schopnost, mou dovednost. buď spokojený s tím, co máš: lásku. a já budu spokojený s tím, co mám já: sílu. Má síla, mé lučištnické umění si zasluhuje toho ptáka, ne tvá láska.
 
 Siddhártha: Ó Devadatto, ty máš sílu zabíjet a já mám sílu milovat. Ale protože tohoto ptáka, toho ubohého ptáka, mám já, nedostaneš ho zpět.
 
@@ -87,9 +82,9 @@ Siddhártha: Ano. Plně připraven.
 * Kdo je vlastník, ten, kdo život zachraňuje, nebo ten, kdo život bere? (akt I, scéna II)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:4-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:4-cs
   :END:
 
 
@@ -117,9 +112,9 @@ Siddhártha: Devadatto, mýlíš se. Láska vždy vítězí, protože Láska je 
 
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:5-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:5-cs
   :END:
 
 
@@ -127,9 +122,9 @@ Siddhártha: Devadatto, mýlíš se. Láska vždy vítězí, protože Láska je 
 * Princ Siddhárta opouští palác (obsazení)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:6-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:6-cs
   :END:
 
 
@@ -145,9 +140,9 @@ duchovní člověk
 * Princ Siddhárta opouští palác (akt II, scéna I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:7-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:7-cs
   :END:
 
 
@@ -180,9 +175,9 @@ Siddhártha: Samotné pomyšlení na to, že bych měl jednou zestárnout, mě n
 * Princ Siddhárta opouští palác (akt II, scéna II)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:8-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:8-cs
   :END:
 
 
@@ -213,9 +208,9 @@ Siddhártha: Tak je to tedy… Vůbec jsem o tom nevěděl… Zítra musíme jet
 * Princ Siddhárta opouští palác (akt II, scéna III)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:9-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:9-cs
   :END:
 
 /(Příštího dne. Siddhárta a Čanna jedou v kočáře. Čanna vybral jinou cestu.)/
@@ -253,9 +248,9 @@ Siddhártha: Já ne! Čanno, teď, když jsem viděl starého člověka, nemocn�
 * Princ Siddhárta opouští palác (akt II, scéna IV)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:10-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:10-cs
   :END:
 
 
@@ -296,9 +291,9 @@ Siddhártha: Čanno, od zítřka pro mě tedy začíná nový život. Budu se mo
 * Siddhárta se stává Buddhou
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:11-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:11-cs
   :END:
 
 
@@ -306,9 +301,9 @@ Siddhártha: Čanno, od zítřka pro mě tedy začíná nový život. Budu se mo
 * Siddhárta se stává Buddhou (obsazení)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:12-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:12-cs
   :END:
 
 
@@ -325,9 +320,9 @@ Pátý asketa
 * Siddhárta se stává Buddhou (akt III, scéna I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:13-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:13-cs
   :END:
 
 
@@ -442,9 +437,9 @@ Buddha: Prohlédl jsem. Konečně znám Pravdu! Znám cestu. Znám cestu, jak uk
 * Siddhárta se stává Buddhou (akt III, scéna II)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:14-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:14-cs
   :END:
 
 /(Pět asketů medituje. Vstoupí Buddha.)/
@@ -488,9 +483,9 @@ Buddha: Máte můj soucit. Máte mé světlo. Máte mou blaženost, mé děti, m
 * Otče, dej mi prosím
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:15-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:15-cs
   :END:
 
 
@@ -498,9 +493,9 @@ Buddha: Máte můj soucit. Máte mé světlo. Máte mou blaženost, mé děti, m
 * Otče, dej mi prosím (obsazení)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:16-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:16-cs
   :END:
 
 
@@ -513,9 +508,9 @@ Ráhul, Buddhův syn
 * Otče, dej mi prosím (akt IV, scéna I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:17-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:17-cs
   :END:
 
 
@@ -562,9 +557,9 @@ Buddha: Můj synu, jsem na tebe opravdu hrdý. Jsi ještě dítě, neviděl jsi 
 * Buddha žádá pár hořčičných semínek
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:18-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:18-cs
   :END:
 
 
@@ -572,9 +567,9 @@ Buddha: Můj synu, jsem na tebe opravdu hrdý. Jsi ještě dítě, neviděl jsi 
 * Buddha žádá pár hořčičných semínek (obsazení)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:19-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:19-cs
   :END:
 
 
@@ -589,9 +584,9 @@ dívka
 * Buddha žádá pár hořčičných semínek (akt V, scéna I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:20-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:20-cs
   :END:
 
 /(Buddha je v hluboké meditaci, oči dokořán otevřené. Vchází Krišna Gautamí, v náručí nese mrtvé dítě. Pokládá dítě k Buddhovým nohám.)/
@@ -613,9 +608,9 @@ Buddha: Ano, Gautamí, přineseš-li mi hořčičná semínka z domu, kam dosud
 * Buddha žádá pár hořčičných semínek (akt V, scéna II)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:21-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:21-cs
   :END:
 
 
@@ -664,9 +659,9 @@ Gautamí: Mé dítě, nemůžu si tvá semínka vzít.
 * Buddha žádá pár hořčičných semínek (akt V, scéna III)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:22-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:22-cs
   :END:
 
 
@@ -694,9 +689,9 @@ Buddha: Gautamí, máš pravdu, naprostou pravdu. Mé dítě, tvému životu je 
 
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:23-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:23-cs
   :END:
 
 
@@ -704,9 +699,9 @@ Buddha: Gautamí, máš pravdu, naprostou pravdu. Mé dítě, tvému životu je 
 * Místo setkání bytí a nebytí (obsazení)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:24-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:24-cs
   :END:
 
 král Prašendžit
@@ -718,9 +713,9 @@ Buddha
 * Místo setkání bytí a nebytí (akt VI, scéna I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:25-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:25-cs
   :END:
 
 
@@ -768,9 +763,9 @@ Kšema: Máte pravdu. Nikdo nedokáže spočítat zrnka písku na břehu Gangy a
 * Tady a nikde jinde
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:26-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:26-cs
   :END:
 
 
@@ -778,9 +773,9 @@ Kšema: Máte pravdu. Nikdo nedokáže spočítat zrnka písku na břehu Gangy a
 * Tady a nikde jinde (obsazení)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:27-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:27-cs
   :END:
 
 
@@ -798,9 +793,9 @@ komorník
 * Tady a nikde jinde (akt VII, scéna I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:28-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:28-cs
   :END:
 
 
@@ -833,9 +828,9 @@ Buddha: Tvé odpovědi mě velmi potěšily. Můžeš šířit mou filozofii. M�
 * Tady a nikde jinde (akt VII, scéna II)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:29-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:29-cs
   :END:
 
 
@@ -864,9 +859,9 @@ Buddha: Jsi mým žákem, Angulimale. Přijímám tě.
 * Tady a nikde jinde (akt VII, scéna III)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:30-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:30-cs
   :END:
 
 
@@ -876,7 +871,7 @@ Prašendžit: Mistře, tolik mě mrzí, že jsem k tobě tak dlouho nemohl při
 
 Buddha: Ano, můj synu, já vím. Tvé srdce zasvěcení a aspirace je tady, ale tvého těla je zapotřebí ve tvém království.
 
-Prašendžit: Svět je tak zkažený, Mistře. Tvůj sen se ale jednoho dne naplní a pak tento svět přestane trpět. Jednou svět přijde na to, že příčinou utrpení je touha. Teď se lidé pořád hádají, bojují mezi sebou a navzájem se zabíjejí. Mám pro tebe smutnou zprávu: zrovna minulý týden ubodal Angulimal, ten loupežník, k smrti jednoho člena královské rodiny. Jsem si jistý, že jsi o něm slyšel. Uříznul mému příbuznému palec a teď ho nosí na krku. Mé stráže se ho snaží chytit, kde můžou. Toho zločince ale nikdo nechytí. Je to pro mě tak smutná zpráva. Mistře, modlím se k tobě, abys pro mého příbuzného něco ve vnitřním světě udělal.
+Prašendžit: svět je tak zkažený, mistře. tvůj sen se ale jednoho dne naplní a pak tento svět přestane trpět. jednou svět přijde na to, že příčinou utrpení je touha. teď se lidé pořád hádají, bojují mezi sebou a navzájem se zabíjejí. mám pro tebe smutnou zprávu: zrovna minulý týden ubodal Angulimal, ten loupežník, k smrti jednoho člena královské rodiny. Jsem si jistý, že jsi o něm slyšel. Uříznul mému příbuznému palec a teď ho nosí na krku. Mé stráže se ho snaží chytit, kde můžou. Toho zločince ale nikdo nechytí. Je to pro mě tak smutná zpráva. Mistře, modlím se k tobě, abys pro mého příbuzného něco ve vnitřním světě udělal.
 
 Buddha: Určitě pro něj něco udělám.
 
@@ -899,9 +894,9 @@ Buddha: Již došlo k jeho proměně.
 * Tady a nikde jinde (akt VII, scéna IV)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:31-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:31-cs
   :END:
 
 
@@ -974,9 +969,9 @@ Buddha: Ach Ánando, nanejvýš milující dítě, budeme-li chodit z jednoho m�
 * Buddham šaranam gačhámí 
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:32-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:32-cs
   :END:
 
 
@@ -984,9 +979,9 @@ Buddha: Ach Ánando, nanejvýš milující dítě, budeme-li chodit z jednoho m�
 * Buddham šaranam gačhámí (obsazení)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:33-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:33-cs
   :END:
 
 
@@ -1003,9 +998,9 @@ Buddha
 * Buddham šaranam gačhámí (akt VIII, scéna I) 
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:34-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:34-cs
   :END:
 
 
@@ -1030,9 +1025,9 @@ Adžatašatru: Ano, pojď do mé komnaty, do mého pokoje. Nikdo tam není.
 * Buddham šaranam gačhámí (akt VIII, scéna II)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:35-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:35-cs
   :END:
 
 
@@ -1067,9 +1062,9 @@ Adžatašatru: Nejsem žádný nevděčník. Budu si tvou pomoc pamatovat. Chci 
 * Buddham šaranam gačhámí (akt VIII, scéna III)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:36-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:36-cs
   :END:
 
 
@@ -1109,9 +1104,9 @@ Džaivaka: Vaše duše je víc než připravená přijmout Buddhovo Světlo. Bud
 * Buddham šaranam gačhámí (akt VIII, scéna IV)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:37-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:37-cs
   :END:
 
 
@@ -1148,9 +1143,9 @@ Uchyluji se k Řádu pro útočiště.
 * Šariputro, jsi bláhový
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:38-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:38-cs
   :END:
 
 
@@ -1158,9 +1153,9 @@ Uchyluji se k Řádu pro útočiště.
 * Šariputro, jsi bláhový (obsazení)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:39-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:39-cs
   :END:
 
 
@@ -1172,9 +1167,9 @@ Buddha
 * Šariputro, jsi bláhový (akt IX, scéna I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:40-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:40-cs
   :END:
 
 
@@ -1198,9 +1193,9 @@ Buddha: Šariputro, nemysli na minulost, nemysli na budoucnost. Mysli jen na př
 * Buddha a Ánanda
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:41-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:41-cs
   :END:
 
 
@@ -1208,9 +1203,9 @@ Buddha: Šariputro, nemysli na minulost, nemysli na budoucnost. Mysli jen na př
 * Buddha a Ánanda (obsazení)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:42-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:42-cs
   :END:
 
 
@@ -1224,9 +1219,9 @@ A GROUP OF A FEW INTIMATE DISCIPLES
 * Buddha a Ánanda (akt X, scéna I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SBB:43-cs
+  :genre: play
+  :keywords:
+  :cite-key: sbb:43-cs
   :END:
 
 
@@ -1252,21 +1247,6 @@ Buddha: Ánando, dnešek mi připomíná mé dny u paty stromu Bódhi. Těsně p
 
 /(Ánanda propukne v pláč a chce odejít.)/
 
-Buddha: Ánando, zůstaň tady. Neodcházej. Mému životu už zbývají jen minuty. Neplač pro mě, Ánando. Říkám vám všem, abyste pro mě neplakali. Ánando, mnohokrát jsem ti opakoval, že všechno na zemi je pomíjivé. Nic tu není trvalé. Vše, co dostane život, se bude muset života vzdát. Ó Ánando, sloužil jsi mi nanejvýš oddaně, nanejvýš oduševněle, a za to ti nabízím své poslední požehnání. Pokračuj s pomocí své vlastní vnitřní síly a dostane se ti vysvobození. K tvému vysvobození dojde ve správný čas. Má duchovní cesta začala odříkáním a soucitem a dnes, na samém konci své cesty, nabízím světu stejné poselství: odříkání a soucit. Ó Ánando, netruchli.
+Buddha: Ánando, zůstaň tady. neodcházej. mému životu už zbývají jen minuty. neplač pro mě, Ánando. Říkám vám všem, abyste pro mě neplakali. Ánando, mnohokrát jsem ti opakoval, že všechno na zemi je pomíjivé. nic tu není trvalé. vše, co dostane život, se bude muset života vzdát. Ó Ánando, sloužil jsi mi nanejvýš oddaně, nanejvýš oduševněle, a za to ti nabízím své poslední požehnání. pokračuj s pomocí své vlastní vnitřní síly a dostane se ti vysvobození. k tvému vysvobození dojde ve správný čas. má duchovní cesta začala odříkáním a soucitem a dnes, na samém konci své cesty, nabízím světu stejné poselství: odříkání a soucit. Ó Ánando, netruchli.
 
 /(Buddha umírá.)/
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

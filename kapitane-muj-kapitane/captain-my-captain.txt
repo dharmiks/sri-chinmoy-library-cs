@@ -1,20 +1,15 @@
-#+TITLE: Kapitáne, můj Kapitáne
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Kapitáne, můj Kapitáne
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: CMC-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2007
+  :publisher: Madal Bal
+  :cite-key: CMC-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,10 +17,10 @@
 * Dychtivost[fn:: CMC 1. 14. července 1987]
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:1-cs
-  :DATE-EVENT: 1987-07-14
+  :genre: poem
+  :keywords:
+  :cite-key: cmc:1-cs
+  :date-event: 1987-07-14
   :END:
 
 
@@ -66,10 +61,10 @@ něžnou láskou Nesmrtelnosti Uspokojení.“
 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:2-cs
-  :DATE-EVENT: 1987-07-15
+  :genre: poem
+  :keywords:
+  :cite-key: cmc:2-cs
+  :date-event: 1987-07-15
   :END:
 
 
@@ -122,10 +117,10 @@ snílky přeměny země Věčnosti.“
 * Jestliže pro tebe nejsem na prvním místě[fn:: CMC 3. 16. července 1987] 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:3-cs
-  :DATE-EVENT: 1987-07-16
+  :genre: poem
+  :keywords:
+  :cite-key: cmc:3-cs
+  :date-event: 1987-07-16
   :END:
 
 
@@ -191,10 +186,10 @@ Tvému Oku Soucitu se klaním.
 * Tajemství, jak Tě učinit šťastným[fn:: CMC 4. 17. července 1987]
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:4-cs
-  :DATE-EVENT: 1987-07-17
+  :genre: poem
+  :keywords:
+  :cite-key: cmc:4-cs
+  :date-event: 1987-07-17
   :END:
 
 
@@ -257,10 +252,10 @@ se svou Blažeností Uspokojení Nesmrtelnosti.“
 * Kolikrát denně?[fn:: CMC 5. 18. července 1987]
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:5-cs
-  :DATE-EVENT: 1987-07-18
+  :genre: poem
+  :keywords:
+  :cite-key: cmc:5-cs
+  :date-event: 1987-07-18
   :END:
 
 
@@ -352,10 +347,10 @@ a tvé srdce je čistotou vděčnosti.“
 * Když se mi přiblížíš o jeden krok[fn:: CMC 6. 5. srpna 1987]
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:6-cs
-  :DATE-EVENT: 1987-08-05
+  :genre: poem
+  :keywords:
+  :cite-key: cmc:6-cs
+  :date-event: 1987-08-05
   :END:
 
 
@@ -395,10 +390,10 @@ Plodnou Jednotu Jednoduchosti.
 * Jsi mým jediným Přítelem[fn:: CMC 7. 8. srpna 1987]
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:7-cs
-  :DATE-EVENT: 1987-08-08
+  :genre: poem
+  :keywords:
+  :cite-key: cmc:7-cs
+  :date-event: 1987-08-08
   :END:
 
 
@@ -434,10 +429,10 @@ na bezdeché lásce jednoty tvého srdce.“
 * Musím se všeho vzdát?[fn:: CMC 8. 8. srpna 1987]
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:8-cs
-  :DATE-EVENT: 1987-08-08
+  :genre: poem
+  :keywords:
+  :cite-key: cmc:8-cs
+  :date-event: 1987-08-08
   :END:
 
 
@@ -471,10 +466,10 @@ Nektarové Blaženosti Mé Nekonečnosti.
 * Jak daleko jsem od realizace?[fn:: CMC 9. 9. srpna 1987]
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:9-cs
-  :DATE-EVENT: 1987-08-09
+  :genre: poem
+  :keywords:
+  :cite-key: cmc:9-cs
+  :date-event: 1987-08-09
   :END:
 
 
@@ -546,10 +541,10 @@ stal ses svou nejvyšší realizací.“
 * Potom mne potěšíš[fn:: CMC 10. 10. srpna 1987]
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:10-cs
-  :DATE-EVENT: 1987-08-10
+  :genre: poem
+  :keywords:
+  :cite-key: cmc:10-cs
+  :date-event: 1987-08-10
   :END:
 
 
@@ -577,10 +572,10 @@ než si dovedeš představit.“
 * Buď statečný uvnitř! Buď statečný navenek![fn:: CMC 11. 27. srpna 1987]
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:11-cs
-  :DATE-EVENT: 1987-08-27
+  :genre: poem
+  :keywords:
+  :cite-key: cmc:11-cs
+  :date-event: 1987-08-27
   :END:
 
 
@@ -656,16 +651,3 @@ a dosáhne Zlatého Břehu --
 Mého Nesmrtelného Příbytku Srdce.“
 
 #+END_VERSE
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

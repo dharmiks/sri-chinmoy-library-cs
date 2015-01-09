@@ -1,20 +1,15 @@
-#+TITLE: Šivadži
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Šivadži
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2007
-  :PUBLISHER: Sri Chinmoy Centrum
-  :CITE-KEY: SHVJ-cs
-  :GENRE: story
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2007
+  :publisher: Sri Chinmoy Centrum
+  :cite-key: SHVJ-cs
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Úvod...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:1e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: shvj:1e1-cs
   :END:
 
 Žil jednou jeden velký hinduistický král, který bojoval proti mogulským císařům. V každém ohledu byl nejvyšším hrdinou, kterého si všichni Indové bez výjimky vážili, obdivovali jej a zbožňovali. Jmenoval se Šivadži. Chtěl svou zemi osvobodit, zejména tu část Indie, ve které se narodil -- Maharaštru.  
@@ -36,9 +31,9 @@ O Šivadžim existuje velmi mnoho věrohodných příběhů, ale já jsem se roz
 * Šivadži a Aurangzeb
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:1-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:1-cs
   :END:
 
 
@@ -55,9 +50,9 @@ Když Šivadži vešel do přijímací místnosti a položil před Aurangzeba sv
 * Oplacená laskavost
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:2-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:2-cs
   :END:
 
 
@@ -74,9 +69,9 @@ Zatímco jim vařila jídlo, náhodou přišli bojovníci krále Šivadžiho Mar
 * Šivadži poslouchá svůj vlastní příkaz
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:3-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:3-cs
   :END:
 
 
@@ -93,9 +88,9 @@ Strážce vylezl na střechu pevnosti a k pilíři uvázal lano. Pak po něm se
 * Matka a syn 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:4-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:4-cs
   :END:
 
 
@@ -118,9 +113,9 @@ Nakonec Džidža Bai poznala, že se jedná o jejího dlouho ztraceného syna. J
 * Sloní stráže
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:5-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:5-cs
   :END:
 
 
@@ -159,9 +154,9 @@ Druhý král cítil, že tahle diskuse už trvala dost dlouho. Řekl: „Dobrá,
 * Šivadži a jeho pohostinnost
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:6-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:6-cs
   :END:
 
 
@@ -174,9 +169,9 @@ Jednou měl Šivadži na svém dvoře hosty z Anglie. Byli to nenasytní masož
 * Tukaram
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:7-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:7-cs
   :END:
 
 
@@ -191,9 +186,9 @@ Tukaram však jeho pozvání nepřijal. Poslal mu zpátky vzkaz: „Ó králi, p
 * Hledání Gurua
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:8-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:8-cs
   :END:
 
 
@@ -214,9 +209,9 @@ Poslušný vůli svého Mistra, král Šivadži se vrátil do paláce a pokračo
 * Šivadži poráží svou pýchu
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:9-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:9-cs
   :END:
 
 
@@ -233,9 +228,9 @@ Ramdas viděl a cítil ve svém žákovi pýchu, a tak ukázal Šivadžimu urči
 * Mistrovo utrpení
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:10-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:10-cs
   :END:
 
 
@@ -262,9 +257,9 @@ Král se zeptal: „Neexistuje nic, co by se dalo udělat? Není nikdo, kdo by m
 * Zvláštní léčba
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:11-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:11-cs
   :END:
 
 
@@ -281,9 +276,9 @@ Moderní věda této unikátní zkušenosti v životě krále Šivadžiho neuv�
 * Okrová látka
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:12-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:12-cs
   :END:
 
 
@@ -298,9 +293,9 @@ Ramdas řekl: „Dám ti kousek okrové látky. Od teď bys měl tuto látku pou
 * Štěstí otroka
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:13-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:13-cs
   :END:
 
 
@@ -327,9 +322,9 @@ Nakonec Ramdas Šivadžimu pokynul, aby k němu přišel. „Proč to děláš,
 * Mistrovy sandály
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:14-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:14-cs
   :END:
 
 
@@ -356,15 +351,15 @@ Takto se Šivadži vrátil, aby vládnul svému království. Vzal sandály své
 * Král se zříká
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:15-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:15-cs
   :END:
 
 
 Při jiné příležitosti král Šivadži vešel do chrámu a začal hořce plakat. Lítostivě plakal a říkal, že se nechce vrátit do paláce. Jeden z jeho služebníků mu řekl: „Ó králi, co to děláš? Musíš se k nám vrátit. Kdo bude místo tebe vládnout zemi?“
 
-Král zůstal v chrámu víc než deset dní. Stále opakoval: „Nevrátím se. Chci žít tady.“ Mnoho lidí se ho snažilo přesvědčit, aby se této myšlenky vzdal. Říkali: „Jak může král žít v chrámu? To je absurdní! Musíš se vrátit a vládnout svému království.“
+Král zůstal v chrámu víc než deset dní. Stále opakoval: „nevrátím se. chci žít tady.“ mnoho lidí se ho snažilo přesvědčit, aby se této myšlenky vzdal. Říkali: „Jak může král žít v chrámu? To je absurdní! Musíš se vrátit a vládnout svému království.“
 
 Avšak Šivadži byl neoblomný. Odmítal se vrátit. Nakonec řekl: „Protože mi není dovoleno zde žít, chci, abyste mě zde nechali zemřít.“
 
@@ -383,9 +378,9 @@ Avšak Šivadžiho služebníci oduševnělý požadavek svého krále neposlouc
 * „Matko, vezmi mě s sebou!“ 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:16-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:16-cs
   :END:
 
 
@@ -398,9 +393,9 @@ Když byl zapálen pohřební oheň krále Šivadžiho, jeho věrný pes Vaghja 
 * Zajetí Šambhudžiho
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:17-cs
+  :genre: story
+  :keywords:
+  :cite-key: shvj:17-cs
   :END:
 
 
@@ -411,22 +406,22 @@ Následovníkem Šivadžiho se stal jeho nejstarší syn Šambhudži. Mogulský 
 * Thákurova nesmrtelná píseň
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:18-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: shvj:18-cs
   :END:
 
 
-Ve většině svých básní a písní vynáší Rabíndranáth Thákur Bengálsko do nebes a říká, že zbytek Indie by měl jít ve šlépějích Bengálska. Avšak co se týče Šivadžiho, Thákur vybízel Bengálce, aby následovali příklad Šivadžiho. Šivadžiho motto, jeho oběť, jeho odvaha a sebedávání si získaly Thákurovu nejvyšší chválu. Řekl: „Ó Bengálci, následujte jej, následujte jej. Následujte Šivadžiho a říkejte: ,Vítězství Šivadžimu! Vítězství Šivadžimu! Vítězství Šivadžimu!‘“ To byla Thákurova nesmrtelná báseň.
+Ve většině svých básní a písní vynáší Rabíndranáth Thákur Bengálsko do nebes a říká, že zbytek Indie by měl jít ve šlépějích Bengálska. Avšak co se týče Šivadžiho, Thákur vybízel Bengálce, aby následovali příklad Šivadžiho. Šivadžiho motto, jeho oběť, jeho odvaha a sebedávání si získaly Thákurovu nejvyšší chválu. Řekl: „Ó bengálci, následujte jej, následujte jej. následujte Šivadžiho a říkejte: ,Vítězství Šivadžimu! Vítězství Šivadžimu! Vítězství Šivadžimu!‘“ To byla Thákurova nesmrtelná báseň.
 
 
 
 * Otrok Boha, a ne král člověka
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:19-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: shvj:19-cs
   :END:
 
 
@@ -439,9 +434,9 @@ Své vnější schopnosti získal Šivadži díky své morální odvaze a navíc
 * Všechno může být plodné
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:20-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: shvj:20-cs
   :END:
 
 
@@ -454,9 +449,9 @@ Duchovnost byla Šivadžiho životním dechem. Byl šťastný ne jako král, ale
 * Můj obdiv k Šivadžimu
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:21-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: shvj:21-cs
   :END:
 
 
@@ -486,9 +481,9 @@ Tím, že mi můj učitel bengálštiny, který mě měl tak rád, dal osm ze č
 * Šivadži Šivadži Šivadži
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: SHVJ:22-cs
+  :genre: song
+  :keywords:
+  :cite-key: shvj:22-cs
   :END:
 
 
@@ -496,18 +491,3 @@ Tím, že mi můj učitel bengálštiny, který mě měl tak rád, dal osm ze č
 /Taba prane savita mají/
 /Dekhayeche naba sharani/
 /Tumi ajanar swapani/
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

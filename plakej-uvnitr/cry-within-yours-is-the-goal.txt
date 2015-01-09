@@ -1,20 +1,15 @@
-#+TITLE: Plakej uvnitř - tvůj je Cíl
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Plakej uvnitř - tvůj je Cíl
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: CWYG-cs
-  :GENRE: discourse
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2007
+  :publisher: Madal Bal
+  :cite-key: CWYG-cs
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Pláč aspirace[fn:: CWYG 1-26. Aspirace je pláč po vyšším životě, více naplňujícím životě. V této knize esejí nabízí realizovaný duchovní Mistr Sri Chinmoy osvěcující rady aspirantům hledajícím nejvyšší Pravdu. Tyto eseje byly složeny v letech 1968-1974.]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:1-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:1-cs
   :END:
 
 
@@ -35,9 +30,9 @@ Aspirace je pláč uvnitř našeho srdce. Tak jako pláče dítě, stejně tak v
 * Probuzení
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:2-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:2-cs
   :END:
 
 
@@ -54,9 +49,9 @@ Svět nerozumí duchovním lidem, vážně je nechápe. Proto neposlouchejte, co
 * Jak poznat Boha
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:3-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:3-cs
   :END:
 
 
@@ -69,9 +64,9 @@ Naše touhy nemají konce. Ale aspirace existuje jen jedna a ta jde nahoru, naho
 * Cesta inspirace, cíl aspirace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:4-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:4-cs
   :END:
 
 
@@ -88,9 +83,9 @@ Když dítě pláče, matka k němu přijde bez ohledu na to, kde právě je. V
 * Inspirace od spoluhledajících
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:5-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:5-cs
   :END:
 
 Inspiraci a aspiraci určitě získáte od duchovního Mistra. Tyto duchovní vlastnosti můžete však získat i od žáků Mistra. Když se podíváte na některé žáky, nebo když jen stojíte v jejich blízkosti, aniž byste se na ně dívali, získáváte velmi dobré vibrace. Když získáte dobré vibrace, automaticky jste inspirováni jít hluboko do svého nitra. Když přijdete domů, budete nejméně pět minut meditovat, nebo budete meditovat při chůzi po ulici. Toto je výsledek inspirace, kterou jste od nich získali.
@@ -104,15 +99,15 @@ Inspirace je první krok. Ale jen s inspirací daleko nedojdete. Abyste dosáhl
 * Ztotožnění se s božským
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:6-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:6-cs
   :END:
 
 
-Jeden z velkých duchovních Mistrů Indie Sri Rámakrišna říkával, že pokud si někdo myslí: „Jsem hříšník, spáchal jsem hřích,“ bude vždycky hříšníkem, protože bude vždy spoután se zemí. Pozitivní přístup je říci: „Mým otcem je Bůh, On mě stvořil. Musím s Ním být vědomě sjednocen, tak jako je On sjednocen se mnou. Jsem sjednocen s věčnou Pravdou, ale nejsem si toho ještě vědom.“
+Jeden z velkých duchovních Mistrů Indie Sri Rámakrišna říkával, že pokud si někdo myslí: „jsem hříšník, spáchal jsem hřích,“ bude vždycky hříšníkem, protože bude vždy spoután se zemí. pozitivní přístup je říci: „Mým otcem je Bůh, On mě stvořil. Musím s Ním být vědomě sjednocen, tak jako je On sjednocen se mnou. Jsem sjednocen s věčnou Pravdou, ale nejsem si toho ještě vědom.“
 
-Cíle musíte dosáhnout svou aspirací, svým vnitřním pláčem nebo prosazováním své vlastní vnitřní vůle, když říkáte:„Jsem Boží syn.“ Buď musíte plakat po Cíli, nebo musíte cítit, že už Cíl máte uvnitř sebe, jen se s ním musíte vědomě sjednotit. Existují dva způsoby, jak dosáhnout Cíle. Jedním způsobem je jít k Bohu jako žebrák a plakat: „Otče, dej mi, dej mi, dej mi své Bohatství.“ Ten druhý způsob je cítit, že Bůh má všechno uvnitř vás. Má uvnitř vás krabici a v té krabici je poklad. Klíč je také uvnitř vás. A pokud máte jako svého průvodce duchovního učitele, může vám ukázat, kde je klíč, kde je krabice a jak ji otevřít. Ale pokud nemáte jako svého průvodce duchovního učitele, avšak chcete vnitřní zážitky, mystické zážitky, pak musíte po těchto vnitřních zážitcích plakat. Tento pláč je pláč aspirace; není to, jako když roníte slzy, protože jste udělali něco špatného.
+Cíle musíte dosáhnout svou aspirací, svým vnitřním pláčem nebo prosazováním své vlastní vnitřní vůle, když říkáte:„jsem boží syn.“ buď musíte plakat po cíli, nebo musíte cítit, že už cíl máte uvnitř sebe, jen se s ním musíte vědomě sjednotit. existují dva způsoby, jak dosáhnout cíle. jedním způsobem je jít k bohu jako žebrák a plakat: „Otče, dej mi, dej mi, dej mi své Bohatství.“ Ten druhý způsob je cítit, že Bůh má všechno uvnitř vás. Má uvnitř vás krabici a v té krabici je poklad. Klíč je také uvnitř vás. A pokud máte jako svého průvodce duchovního učitele, může vám ukázat, kde je klíč, kde je krabice a jak ji otevřít. Ale pokud nemáte jako svého průvodce duchovního učitele, avšak chcete vnitřní zážitky, mystické zážitky, pak musíte po těchto vnitřních zážitcích plakat. Tento pláč je pláč aspirace; není to, jako když roníte slzy, protože jste udělali něco špatného.
 
 Mezi zasetím semínka a úrodou uplyne vždy nějaká doba. Zasetí semínka není nic jiného než aspirace a úroda není nic jiného než realizace. Bez aspirace nikdy nedojde k realizaci. Aspirace: co je to? Je to něco, co už máme, i něco, co budeme mít. Pokud tvrdíme, že už aspiraci nějakou dobu máme, říkáme pravdu, protože žijeme ve věčně trvajícím životě. A pokud tvrdíme, že teď nemáme aspiraci, ale budeme ji mít, znamená to, že se snažíme a pláčeme, abychom vynesli do popředí vnitřní naléhání srdce. To je také správné. Když sedíme u nohou Věčnosti, uvědomujeme si, že je aspirace nutně následována realizací. A když se spřátelíme s věčným časem, uvědomíme si, že realizace tady už je, ukrytá v naší aspiraci. 
 
@@ -121,9 +116,9 @@ Mezi zasetím semínka a úrodou uplyne vždy nějaká doba. Zasetí semínka ne
 * Pláč po božském vědomí
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:7-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:7-cs
   :END:
 
 
@@ -131,7 +126,7 @@ Do božského vědomí můžeme vstoupit pomocí svého vnitřního pláče. Nen
 
 Někteří lidé na Vnitřního Kormidelníka úplně zapomínají. Na druhou stranu někteří o Jeho existenci vědí, ale nechtějí s Ním mít žádné spojení. Ale upřímný hledající cítí nezbytnost neustálého spojení s Vnitřním Kormidelníkem. Nespokojí se jen s tím, že ví o existenci Boha uvnitř sebe. Chce být v Božím vědomí a být s Ním ve styku dvacet čtyři hodin denně. Jedině pak bude spokojen. 
 
-Pokud chcete dosáhnout osvobození a vstoupit z lidského vědomí do božského vědomí, pak velmi významnou roli hraje také vděčnost. Když někdo něco dostane od Boha, pak se celé jeho srdce stává květinou vděčnosti. Pokud chce duše použít oči a vyjádřit svou vděčnost slzami, může tak učinit. Ale obvykle cítíme božskou vděčnost uvnitř svého srdce. Tam roste jako křehká rostlinka, ze které se nakonec stane obrovský banyánový strom. Každý hledající může říci Bohu: „Ó Bože, tolik jsi mi toho už dal, více, než si dokážu představit. Dal jsi mi pevné zdraví, dal jsi mi zdravý rozum, dal jsi mi schopnost rozpoznat dobré od špatného, temnotu od světla.“ Bůh už také dal každé bytosti schopnost vidět, poznat a cítit, co je dobré a co je špatné. Ale jedině hledající cítí nezbytnost modlit se k Bohu ještě pro něco jiného. Říká: „Ó Bože, dal jsi mi schopnost vidět rozdíl mezi dobrem a zlem. Teď mi prosím dej schopnost udělat tu správnou věc. Pouhé poznání nestačí, pouze cítit nestačí. Musím jednat. Musím na zemi dělat správnou věc.“
+Pokud chcete dosáhnout osvobození a vstoupit z lidského vědomí do božského vědomí, pak velmi významnou roli hraje také vděčnost. Když někdo něco dostane od Boha, pak se celé jeho srdce stává květinou vděčnosti. Pokud chce duše použít oči a vyjádřit svou vděčnost slzami, může tak učinit. Ale obvykle cítíme božskou vděčnost uvnitř svého srdce. Tam roste jako křehká rostlinka, ze které se nakonec stane obrovský banyánový strom. Každý hledající může říci Bohu: „Ó bože, tolik jsi mi toho už dal, více, než si dokážu představit. dal jsi mi pevné zdraví, dal jsi mi zdravý rozum, dal jsi mi schopnost rozpoznat dobré od špatného, temnotu od světla.“ bůh už také dal každé bytosti schopnost vidět, poznat a cítit, co je dobré a co je špatné. ale jedině hledající cítí nezbytnost modlit se k bohu ještě pro něco jiného. Říká: „Ó Bože, dal jsi mi schopnost vidět rozdíl mezi dobrem a zlem. Teď mi prosím dej schopnost udělat tu správnou věc. Pouhé poznání nestačí, pouze cítit nestačí. Musím jednat. Musím na zemi dělat správnou věc.“
 
 Neustále musíte hluboko ve svém nitru plakat. Pak uvidíte, že se vaše lidské vědomí koupe v moři božského vědomí. Musíte cítit nezbytnost božského vědomí uvnitř sebe a okolo sebe. A musíte vědět, že lidské vědomí, které právě teď představujete, není cílem. Pokud jste zcela nespokojení s lidským vědomím, pak se musíte posunout o krok kupředu směrem k cíli. Pokud cítíte, že lidský život vás zklamal a opustil a jedině božský život vás může naplnit, teprve pak do vás může vstoupit božské vědomí. A až do vás božské vědomí vstoupí, budete cítit, že božské vědomí nebude popírat vaše lidské vědomí. Naopak, bude lidské vědomí přeměňovat. Neodmítá, nezavrhuje nic lidského. Pročišťuje a osvěcuje lidské vědomí a přeměňuje ho ve vlastní božské vědomí.
 
@@ -141,9 +136,9 @@ Neustále musíte hluboko ve svém nitru plakat. Pak uvidíte, že se vaše lids
 * Co chceš?
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CWYG:8-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cwyg:8-cs
   :END:
 
 
@@ -172,9 +167,9 @@ tvé duše.
 * Touha a aspirace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:9-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:9-cs
   :END:
 
 
@@ -189,9 +184,9 @@ Dnes bych chtěl jiné auto a zítra bych rád jiný dům. Když jsem znechucen,
 * Zdroj aspirace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:10-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:10-cs
   :END:
 
 
@@ -202,9 +197,9 @@ Cítíme, že aspirace je něco, co vytváříme. Do jisté míry je to pravda. 
 * Netečnost
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:11-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:11-cs
   :END:
 
 
@@ -215,9 +210,9 @@ Když nedokážeme stále aspirovat se stejnou láskou, stejnou oddaností a ste
 * Bezcennost
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:12-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:12-cs
   :END:
 
 
@@ -228,9 +223,9 @@ Pocit bezcennosti je vážnou chybou. V duchovním životě byste měli cítit,
 * Hledat, nebo nacházet?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:13-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:13-cs
   :END:
 
 
@@ -247,9 +242,9 @@ Nyní chci říci, že ve vašem případě neděláte úplně velkou chybu, po
 * Dej co máš
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CWYG:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cwyg:14-cs
   :END:
 
 
@@ -272,9 +267,9 @@ co máš:
 * Je aspirace nejzazším cílem?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:15-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:15-cs
   :END:
 
 
@@ -293,9 +288,9 @@ Proniknete-li do hlubší filozofie, získáte vnitřní vizi. Filozofie znamen�
 * Plody zážitku
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:16-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:16-cs
   :END:
 
 Každý hledající musí věnovat největší pozornost aspiraci, a ne zážitku. Zážitek přichází od Boha. Aspirace přichází z našeho vnitřního bytí. V každém okamžiku musíme cítit potřebu naléhavé vnitřní touhy jít dopředu, nahoru a dovnitř. Samotný zážitek nedokáže přitáhnout Boha k nám a udržet Ho s námi po celou dobu. V duchovním životě musíme aspirovat. Pak jednoho dne dostaneme silou své aspirace vnitřní zážitek. Intenzivní aspirace je potravou pro naši vnitřní bytost. Tak jako nejíme vybraná jídla každý den, nemáme každý den vysoké zážitky. Ale nakonec přijde čas, kdy budeme mít tyto zážitky, kdykoliv budeme meditovat. Kdy přijde ten čas? Až budeme schopni se neoddělitelně ztotožnit s Kosmickou Vůlí. Právě teď máme velmi omezenou vůli. Ale když jsme v Kosmické Vůli, Vesmírné Vůli, pak v nás a kolem nás každý okamžik pluje a kvete. 
@@ -307,9 +302,9 @@ Proto chceme-li trvalý zážitek, musíme jít hluboko dovnitř a neodděliteln
 * Mír v hladu po Bohu
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:17-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:17-cs
   :END:
 
 Pokud chce mít člověk božsky naplněný život, život vnitřního a vnějšího míru, pak musí mít aspiraci, neustálou aspiraci. Z neustálé aspirace získá realizaci. A když získá realizaci, získá slib nejvyššího božského naplnění a míru. Jakmile vnitřní stoupající plamen aspirace získá příležitost dosáhnout nejvyššího, vnitřní mír začne nanejvýš přesvědčivě a mocně působit. V tu chvíli je hledající neoddělitelně spojen s mírem. Celé jeho bytí je uvnitř i navenek zaplaveno mírem. Ale aby člověk dosáhl takového míru, potřebuje neustálou aspiraci. 
@@ -321,9 +316,9 @@ Jsou hledající pokročilejší a méně pokročilí. Jsou hledající, kteří
 * Aspirace světa
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:18-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:18-cs
   :END:
 
 Při svých cestách po Evropě jsem byl na mnoha místech a na všech těch místech, která jsem navštívil, jsem zaznamenal aspiraci. Na některých místech jsem přirozeně pozoroval větší aspiraci než na jiných místech. Každé místo má aspiraci. Ale co se týče projevení na vnější úrovni, na některých místech je vnitřní poselství správně přijímáno a na jiných místech není ještě zdaleka objeveno. Existují i další rozdíly. Například, v jednom městě jsem viděl obrovské odhodlání, a to i v lidech, kteří neaspirují, nejsou duchovně uvědomělí. Je tam obrovské odhodlání na fyzické úrovni a na vitální úrovni. V jiném městě je navzdory aspiraci na vnitřní úrovni obrovský vnější chaos, neklid, nejistota. V některých šťastných městech můžeme vidět, že lidé vzývají světlo psychicky, vnitřním srdcem. Na dalších místech lidé vzývají duchovní světlo více myslí než srdcem. Vzývají světlo, modlí se, meditují, ale pomocí mysli. Na druhé straně jsou místa, kde lidé vzývají světlo aspirujícím a dynamickým vitálnem a fyzickým. Ale je jedno nebo dvě místa, kde je na vnější úrovni obrovský nepokoj a výrazné ­společenské změny. ­Aspirace je přítomna, ale na vnější úrovni je obrovský zmatek. Pokud tedy chcete srovnávat, pak existují rozdíly. Na vnější úrovni pozorujeme rozdíly, ale na vnitřní úrovni aspiruje každá země, každé město podle svých možností.
@@ -335,9 +330,9 @@ Co se týče aspirace, mohu rozhodně říci, že svět aspiruje více a více. 
 * Hledající poutníci
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:19-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:19-cs
   :END:
 
 
@@ -356,9 +351,9 @@ Realizace a projevení musí jít společně. Musíme nejprve aspirovat sami v 
 * Milost
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:20-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:20-cs
   :END:
 
 
@@ -375,9 +370,9 @@ Slunce svítí. Je na nás, abychom otevřeli všechna okna a dveře, abychom vp
 * Víra a aspirace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:21-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:21-cs
   :END:
 
 
@@ -390,9 +385,9 @@ Pokud mám přítele, který je dobrým řidičem, pak věřím, že mě doveze 
 * Jak si rozvíjet aspiraci
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:22-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:22-cs
   :END:
 
 
@@ -407,9 +402,9 @@ Když těšíte Boha a On vás požádá, abyste potěšili někoho jiného, jis
 * Pýcha
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CWYG:23-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cwyg:23-cs
   :END:
 
 
@@ -437,9 +432,9 @@ Boží Síly Dokonalosti.
 * Lidský vzestup a božské sestoupení
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:24-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:24-cs
   :END:
 
 
@@ -455,9 +450,9 @@ Každý rok můžeme zvyšovat svou aspiraci a dosáhnout něčeho velmi význam
 * Aspirace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWYG:25-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: cwyg:25-cs
   :END:
 
 
@@ -485,9 +480,9 @@ S aspirací svou cestu začínáme a s aspirací v ní pokračujeme. Jelikož
 * Bůh mě oceňuje
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CWYG:26-cs
+  :genre: poem
+  :keywords:
+  :cite-key: cwyg:26-cs
   :END:
 
 
@@ -507,18 +502,3 @@ ztělesním Jeho budoucí Závod
 a odhalím Jeho budoucí Tvář.
 
 #+END_VERSE
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

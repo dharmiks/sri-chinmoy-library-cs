@@ -1,20 +1,15 @@
-#+TITLE: Everest aspirace, část 2.
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Everest aspirace, část 2.
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2003
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: EA-2-cs
-  :GENRE: discourse
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2003
+  :publisher: Madal Bal
+  :cite-key: EA-2-cs
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,10 +17,10 @@
 * OSVÍCENÍ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:26-cs
-  :DATE-EVENT: 1977-07-12
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:26-cs
+  :date-event: 1977-07-12
   :END:
 
 
@@ -41,7 +36,7 @@ Chceme vlastnit svět, ale naše schopnost přijímání je tak omezená, že mu
 
 V božském světě je osvícení dokonalostí. Toto osvícení nikdy neodmítne svět vlastnění nebo svět ničení. Snadno jim může poskytnout přístřeší uvnitř sebe sama. Když vstoupí do světa ničení, vynáší do popředí energii, protože ničení má obrovskou energii. Vynáší tento aspekt Božího stvoření do popředí a pak jej používá pro božský účel. Když vstoupí do světa vlastnění, vlastní všechno. Nic nevylučuje. Vynáší do popředí božskou podstatu, která je ve všem. Dokonce i vnější tělo může být snadno přeměněno, když to Božské vystoupí do popředí. Svět osvícení nevylučuje ani svět vlastnění, ani svět ničení. Osvícení je světem přijetí. 
 
-Bůh stvořil celý svět pro své vlastní Uspokojení. Jeho Uspokojení je však jiné než naše uspokojení. Nás uspokojuje, když vyžadujeme a přivlastňujeme si, abychom mohli říci: "Toto je mé, toto mám." Bůh vždy považuje své stvoření a svou vlastní Existenci za jedno. V našem případě vlastnění zahrnuje vždy někoho nebo něco jiného. Říkáme: "Já jsem vlastník a ty jsi vlastnictví." Potom cítíme, že jsme svému vlastnictví nadřazeni, protože s ním můžeme dělat, co chceme. Bůh však cítí, že On a Jeho vlastnictví jsou jedním a tím samým. Jsou si rovni.
+Bůh stvořil celý svět pro své vlastní Uspokojení. Jeho Uspokojení je však jiné než naše uspokojení. Nás uspokojuje, když vyžadujeme a přivlastňujeme si, abychom mohli říci: "toto je mé, toto mám." bůh vždy považuje své stvoření a svou vlastní existenci za jedno. v našem případě vlastnění zahrnuje vždy někoho nebo něco jiného. Říkáme: "Já jsem vlastník a ty jsi vlastnictví." Potom cítíme, že jsme svému vlastnictví nadřazeni, protože s ním můžeme dělat, co chceme. Bůh však cítí, že On a Jeho vlastnictví jsou jedním a tím samým. Jsou si rovni.
 
 Někdy se stvoření postaví proti stvořiteli. Rodiče jsou stvořiteli svých dětí. Když děti vyrostou a dostanou se do puberty, často vzdorují. Stvoření může nabýt sílu a jít za hranice vize stvořitele. Když Bůh svou Vizí něco stvoří a Jeho stvoření překoná Skutečnost Jeho Vize, Bůh se necítí smutně nebo bídně. Naopak je to právě to, co ve skutečnosti chce. V Božím světě Vize Bůh vidí jednu Skutečnost, ale uvnitř této Skutečnosti existuje mnoho plně rozkvetlých skutečností.
 
@@ -65,10 +60,10 @@ Jamaica, New York \\
 * OČEKÁVÁNÍ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:27-cs
-  :DATE-EVENT: 1977-07-12
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:27-cs
+  :date-event: 1977-07-12
   :END:
 
 
@@ -90,10 +85,10 @@ United Nations, New York \\
 * POSLUŠNOST BYLA CESTA MÉHO ŽIVOTA
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:28-cs
-  :DATE-EVENT: 1977-07-13
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:28-cs
+  :date-event: 1977-07-13
   :END:
 
 
@@ -133,10 +128,10 @@ Jamaica, New York \\
 * TY A TVÁ DOKONALOST
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:29-cs
-  :DATE-EVENT: 1977-07-13
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:29-cs
+  :date-event: 1977-07-13
   :END:
 
 
@@ -160,10 +155,10 @@ New York, New York \\
 * JÓGA A JEDNOTA
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:30-cs
-  :DATE-EVENT: 1977-07-13
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:30-cs
+  :date-event: 1977-07-13
   :END:
 
 
@@ -189,10 +184,10 @@ New York, New York \\
 * HATHA JÓGA
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:31-cs
-  :DATE-EVENT: 1977-07-13
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:31-cs
+  :date-event: 1977-07-13
   :END:
 
 
@@ -217,10 +212,10 @@ New York
 * INTUICE
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:32-cs
-  :DATE-EVENT: 1977-07-13
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:32-cs
+  :date-event: 1977-07-13
   :END:
 
 
@@ -238,10 +233,10 @@ New York, New York \\
 * DOKONALOST
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:33-cs
-  :DATE-EVENT: 1977-07-13
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:33-cs
+  :date-event: 1977-07-13
   :END:
 
 
@@ -267,10 +262,10 @@ New York, New York \\
 * MÁŠ-LI, PŘIJĎ KE MNĚ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:34-cs
-  :DATE-EVENT: 1977-07-13
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:34-cs
+  :date-event: 1977-07-13
   :END:
 
 
@@ -292,10 +287,10 @@ New York, New York
 * MÁM VÝSADU
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:35-cs
-  :DATE-EVENT: 1977-07-14
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:35-cs
+  :date-event: 1977-07-14
   :END:
 
 
@@ -305,7 +300,7 @@ Mám tu výsadu, že sen nevědomosti se mě neodváží zastrašovat, protože 
 
 Mám tu výsadu, že mé srdce miluje mého Pána Nejvyššího nekonečně více, než si má mysl vůbec dokáže představit.
 
-Mám tu výsadu, že mě můj Pán Nejvyšší sám požádal, abych Mu brzy ráno, dříve než vstoupím do ruchu a shonu života, věnoval tichou modlitbu a oduševnělou meditaci. Má tichá modlitba je tato: "Ó Pane Nejvyšší, přijmi můj život odevzdání." Má oduševnělá meditace je tato: "Ó Pane Nejvyšší, vejdi do mého vděčného srdce a zůstaň v něm."
+Mám tu výsadu, že mě můj Pán Nejvyšší sám požádal, abych Mu brzy ráno, dříve než vstoupím do ruchu a shonu života, věnoval tichou modlitbu a oduševnělou meditaci. Má tichá modlitba je tato: "Ó pane nejvyšší, přijmi můj život odevzdání." má oduševnělá meditace je tato: "Ó Pane Nejvyšší, vejdi do mého vděčného srdce a zůstaň v něm."
 
 Mám tu výsadu, že se mnou v Nebi můj Pán Nejvyšší hovoří o svých Kosmických Plánech a učinil mne svým věrným zástupcem, abych zde na zemi vykonával Jeho Vůli.
 
@@ -323,10 +318,10 @@ Jamaica, New York
 * JSEM BEZMOCNÝ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:36-cs
-  :DATE-EVENT: 1977-07-14
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:36-cs
+  :date-event: 1977-07-14
   :END:
 
 
@@ -362,10 +357,10 @@ Jamaica, New York
 * PROBUĎ SE! 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:37-cs
-  :DATE-EVENT: 1977-07-14
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:37-cs
+  :date-event: 1977-07-14
   :END:
 
 
@@ -389,16 +384,16 @@ Jamaica, New York
 * NETRPTE!
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:38-cs
-  :DATE-EVENT: 1977-07-14
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:38-cs
+  :date-event: 1977-07-14
   :END:
 
 
 Ó mé tělo, ó mé vitálno, ó má mysli, ó mé srdce, netrpte. Neopatrujte utrpení. Nechovejte se jako blázni. Nemyslete si, že utrpení urychlí váš duchovní pokrok. Nemyslete si, že utrpení k vám okamžitě přivede Boha blíže. Nemyslete si, že utrpení je spolehlivou cestou, jedinou cestou, jak udělat pokrok. Nikdy!
 
-Podívejte se na to, co vám vaše utrpení dává a co vám bere. Co vám dává: vaše utrpení zvětšuje váš strach, váš neovladatelný strach. Vaše utrpení podporuje váš vzdorovitý postoj. Vaše utrpení zvětšuje vaše zklamání plné jedu. Vaše utrpení pomáhá vašemu pomalému a soustavnému ničení. Co vám bere: vaše utrpení vás připravuje o vše, čím vás obdaroval váš Milovaný Pán Nejvyšší. Ze své nekonečné Štědrosti vám dal svou Radost, dal vám svůj Zájem, dal vám svůj Soucit, dal vám svou Jednotu. Vy jste však opatrovali a uchovávali utrpení. Všechny Jeho dary byly proto ukradeny. Kým? Vaším vlastním utrpením.
+Podívejte se na to, co vám vaše utrpení dává a co vám bere. Co vám dává: vaše utrpení zvětšuje váš strach, váš neovladatelný strach. vaše utrpení podporuje váš vzdorovitý postoj. vaše utrpení zvětšuje vaše zklamání plné jedu. vaše utrpení pomáhá vašemu pomalému a soustavnému ničení. co vám bere: vaše utrpení vás připravuje o vše, čím vás obdaroval váš Milovaný Pán Nejvyšší. Ze své nekonečné Štědrosti vám dal svou Radost, dal vám svůj Zájem, dal vám svůj Soucit, dal vám svou Jednotu. Vy jste však opatrovali a uchovávali utrpení. Všechny Jeho dary byly proto ukradeny. Kým? Vaším vlastním utrpením.
 
 Utrpení není cestou, jak udělat duchovní pokrok. Připravuje vás o všechny vzácné dary, které vám dal Bůh. Zloděj utrpení vám krade jeden za druhým ty nejvzácnější, nejžádanější dary od Boha: Jeho vlastní Mír, Jeho vlastní Lásku, Jeho vlastní Blaženost, Jeho vlastní Zájem, Jeho vlastní Jednotu. 
 
@@ -424,17 +419,17 @@ Jamaica, New York
 * ŽÁCI, STOUPENCI, OBDIVOVATELÉ A PŘÍZNIVCI
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:39-cs
-  :DATE-EVENT: 1977-07-14
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:39-cs
+  :date-event: 1977-07-14
   :END:
 
 
 
 "Můj Pane Nejvyšší, řekni mi, jaký je rozdíl mezi žákem a stoupencem."
 
-"Můj synu, rozdíl je tento: žák je ten, kdo neustále myslí jen na potřeby svého Mistra. Cítí, že jeho existence na zemi je pro jeho Mistra samotného, pouze pro jeho Mistra. Když ho Mistr požádá, aby pro něj něco udělal, odpoví: „Mistře, už jsem to udělal.“ Udělal to na základě toho, že intuitivně cítil Mistrovu potřebu dlouho před tím, než ho Mistr na vnější úrovni požádal, aby pro něj něco udělal.
+"Můj synu, rozdíl je tento: žák je ten, kdo neustále myslí jen na potřeby svého mistra. cítí, že jeho existence na zemi je pro jeho mistra samotného, pouze pro jeho mistra. když ho mistr požádá, aby pro něj něco udělal, odpoví: „Mistře, už jsem to udělal.“ Udělal to na základě toho, že intuitivně cítil Mistrovu potřebu dlouho před tím, než ho Mistr na vnější úrovni požádal, aby pro něj něco udělal.
 
 Stoupenec je ten, kdo chce dělat to, o co ho Mistr požádá, aby udělal, ale řekne svému Mistrovi: „Ó Mistře, udělám to. Ale prosím, dej mi trochu času. Požádal jsi mě, abych to udělal, tak to určitě udělám, ale to, o co jsi mě požádal, není snadný úkol; proto to může trvat nějaký čas. Ale ujišťuji tě, udělám to. Věř mi. Nezklamu tě, nemluvě o tom, že bych tě opustil. Udělám-li to hned, nemusím uspět, a tak mi dej trochu času. Určitě to udělám.“
 
@@ -467,10 +462,10 @@ Hollis, New York
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:40-cs
-  :DATE-EVENT: 1977-07-14
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:40-cs
+  :date-event: 1977-07-14
   :END:
 
 
@@ -502,10 +497,10 @@ Hollis, New York
 * TO NESTAČÍ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:41-cs
-  :DATE-EVENT: 1977-07-15
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:41-cs
+  :date-event: 1977-07-15
   :END:
 
 
@@ -538,10 +533,10 @@ Jamaica, New York
 * UVĚDOMĚNÍ, ODDANOST, ODUŠEVNĚLOST A NESOBECKOST
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:42-cs
-  :DATE-EVENT: 1977-07-15
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:42-cs
+  :date-event: 1977-07-15
   :END:
 
 
@@ -567,10 +562,10 @@ United Nations New York, New York
 * NENAPODOBUJI, NEZAČÍNÁM
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:43-cs
-  :DATE-EVENT: 1977-07-15
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:43-cs
+  :date-event: 1977-07-15
   :END:
 
 
@@ -592,10 +587,10 @@ Great Neck, New York
 * PROČ SE SCHOVÁVÁM?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:44-cs
-  :DATE-EVENT: 1977-07-16
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:44-cs
+  :date-event: 1977-07-16
   :END:
 
 
@@ -618,10 +613,10 @@ Jamaica, New York
 * PŘIPRAVUJI SE
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:45-cs
-  :DATE-EVENT: 1977-07-16
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:45-cs
+  :date-event: 1977-07-16
   :END:
 
 
@@ -643,10 +638,10 @@ Bronx, New York
 * POKORA A SOUCIT
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:46-cs
-  :DATE-EVENT: 1977-07-16
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:46-cs
+  :date-event: 1977-07-16
   :END:
 
 
@@ -669,10 +664,10 @@ Na cestě do New Jersey
 * POSLUŠNOST
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:47-cs
-  :DATE-EVENT: 1977-07-16
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:47-cs
+  :date-event: 1977-07-16
   :END:
 
 
@@ -691,10 +686,10 @@ Na cestě do New Jersey
 * POTŘEBUJI VÍCE
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:48-cs
-  :DATE-EVENT: 1977-07-16
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:48-cs
+  :date-event: 1977-07-16
   :END:
 
 
@@ -718,10 +713,10 @@ Union, New Jersey
 * SPÁSA, OSVOBOZENÍ, REALIZACE, DOKONALOST A USPOKOJENÍ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:49-cs
-  :DATE-EVENT: 1977-07-16
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:49-cs
+  :date-event: 1977-07-16
   :END:
 
 
@@ -740,10 +735,10 @@ Na cestě na Jamaicu, New York
 * CHARITA
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:50-cs
-  :DATE-EVENT: 1977-07-17
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:50-cs
+  :date-event: 1977-07-17
   :END:
 
 
@@ -761,20 +756,3 @@ Moje nabízení jednoty mi nejen otevírá dveře Nebe, ale také otevírá dve�
 17. července 1977 \\
 Jamaica High School Track \\
 Jamaica, New York
-
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

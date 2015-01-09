@@ -1,29 +1,24 @@
-#+TITLE: Neposlušnosti, čas se navršil!
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Neposlušnosti, čas se navršil!
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: DTIU-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2007
+  :publisher: Madal Bal
+  :cite-key: DTIU-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:1-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:1-cs
   :END:
 
 #+BEGIN_VERSE
@@ -41,9 +36,9 @@ a zmiz!
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:2-cs
   :END:
 
 #+BEGIN_VERSE
@@ -60,9 +55,9 @@ a vůni mého srdce.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:3-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:3-cs
   :END:
 
 #+BEGIN_VERSE
@@ -77,9 +72,9 @@ jako zanedbatelná neposlušnost.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:4-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:4-cs
   :END:
 
 #+BEGIN_VERSE
@@ -96,9 +91,9 @@ nepřemožitelná.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:5-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:5-cs
   :END:
 
 #+BEGIN_VERSE
@@ -115,9 +110,9 @@ očí krásy mého srdce.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:6-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:6-cs
   :END:
 
 #+BEGIN_VERSE
@@ -134,9 +129,9 @@ před drakem neposlušnosti,
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:7-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:7-cs
   :END:
 
 #+BEGIN_VERSE
@@ -153,9 +148,9 @@ bouřlivou pohromou.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:8-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:8-cs
   :END:
 
 #+BEGIN_VERSE
@@ -170,9 +165,9 @@ je hladem tvé hlouposti.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:9-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:9-cs
   :END:
 
 #+BEGIN_VERSE
@@ -191,9 +186,9 @@ Jistě se ti to podaří.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:10-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:10-cs
   :END:
 
 #+BEGIN_VERSE
@@ -210,9 +205,9 @@ si člověk staví svůj svět.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:11-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:11-cs
   :END:
 
 #+BEGIN_VERSE
@@ -228,9 +223,9 @@ do svého hrobu bez duchovnosti.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:12-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:12-cs
   :END:
 
 #+BEGIN_VERSE
@@ -247,9 +242,9 @@ ale nikdy, nikdy se svou Hrdostí.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:13-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:13-cs
   :END:
 
 #+BEGIN_VERSE
@@ -274,9 +269,9 @@ mým vlastním způsobem?“
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:14-cs
   :END:
 
 #+BEGIN_VERSE
@@ -295,9 +290,9 @@ nakažlivá.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:15-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:15-cs
   :END:
 
 #+BEGIN_VERSE
@@ -314,9 +309,9 @@ o mé neposlušnosti.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:16-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:16-cs
   :END:
 
 #+BEGIN_VERSE
@@ -334,9 +329,9 @@ v popel mého zklamání.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:17-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:17-cs
   :END:
 
 #+BEGIN_VERSE
@@ -354,9 +349,9 @@ s neposlušností.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:18-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:18-cs
   :END:
 
 #+BEGIN_VERSE
@@ -376,9 +371,9 @@ ve mně?
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:19-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:19-cs
   :END:
 
 #+BEGIN_VERSE
@@ -396,9 +391,9 @@ abyste netěšily Boha?
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:20-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:20-cs
   :END:
 
 #+BEGIN_VERSE
@@ -414,9 +409,9 @@ a rozpaky mé duše.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:21-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:21-cs
   :END:
 
 #+BEGIN_VERSE
@@ -435,9 +430,9 @@ Boží Sopečné Oko.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:22-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:22-cs
   :END:
 
 #+BEGIN_VERSE
@@ -452,9 +447,9 @@ je spánkem všeobecné nevědomosti.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:23-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:23-cs
   :END:
 
 #+BEGIN_VERSE
@@ -471,9 +466,9 @@ revoluce života Země.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:24-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:24-cs
   :END:
 
 #+BEGIN_VERSE
@@ -490,9 +485,9 @@ dokonce i v pekle mé neposlušnosti.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:25-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:25-cs
   :END:
 
 #+BEGIN_VERSE
@@ -510,9 +505,9 @@ blaženosti poslušnosti Bohu.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:26-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:26-cs
   :END:
 
 #+BEGIN_VERSE
@@ -530,9 +525,9 @@ představit!
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:27-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:27-cs
   :END:
 
 #+BEGIN_VERSE
@@ -552,9 +547,9 @@ od Boha.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:28-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:28-cs
   :END:
 
 #+BEGIN_VERSE
@@ -570,9 +565,9 @@ výstřední požadavky.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:29-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:29-cs
   :END:
 
 #+BEGIN_VERSE
@@ -589,9 +584,9 @@ v zamítání Boha.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:30-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:30-cs
   :END:
 
 #+BEGIN_VERSE
@@ -608,9 +603,9 @@ miluji tě a potřebuji tě.
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:31-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:31-cs
   :END:
 
 #+BEGIN_VERSE
@@ -627,9 +622,9 @@ odhodila jsi úplnost.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:32-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:32-cs
   :END:
 
 #+BEGIN_VERSE
@@ -646,9 +641,9 @@ plísnit tě nemilosrdně.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:33-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:33-cs
   :END:
 
 #+BEGIN_VERSE
@@ -664,9 +659,9 @@ klanět se osvícenému srdci.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:34-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:34-cs
   :END:
 
 #+BEGIN_VERSE
@@ -682,9 +677,9 @@ s nevinným Bohem.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:35-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:35-cs
   :END:
 
 #+BEGIN_VERSE
@@ -700,9 +695,9 @@ jednoty srdce.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:36-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:36-cs
   :END:
 
 #+BEGIN_VERSE
@@ -717,9 +712,9 @@ tvrdý zpochybňovač Boha.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:37-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:37-cs
   :END:
 
 #+BEGIN_VERSE
@@ -735,9 +730,9 @@ od Boha.
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:38-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:38-cs
   :END:
 
 #+BEGIN_VERSE
@@ -755,9 +750,9 @@ k nezmapované pustině?
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:39-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:39-cs
   :END:
 
 #+BEGIN_VERSE
@@ -774,9 +769,9 @@ rozzuřený slon
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:40-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:40-cs
   :END:
 
 #+BEGIN_VERSE
@@ -792,9 +787,9 @@ největší autorita zápornosti
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:41-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:41-cs
   :END:
 
 #+BEGIN_VERSE
@@ -810,9 +805,9 @@ zcela ochromujícím
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:42-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:42-cs
   :END:
 
 #+BEGIN_VERSE
@@ -827,9 +822,9 @@ je štěkající pes-zpochybňovač Boha.
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:43-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:43-cs
   :END:
 
 #+BEGIN_VERSE
@@ -849,9 +844,9 @@ hrobem aspirace.
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:44-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:44-cs
   :END:
 
 #+BEGIN_VERSE
@@ -875,9 +870,9 @@ i prostřednictvím mého života.
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:45-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:45-cs
   :END:
 
 #+BEGIN_VERSE
@@ -894,9 +889,9 @@ dokonce ani s tebou.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:46-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:46-cs
   :END:
 
 #+BEGIN_VERSE
@@ -917,9 +912,9 @@ a milovníkem Božího Naplnění.
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:47-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:47-cs
   :END:
 
 #+BEGIN_VERSE
@@ -938,9 +933,9 @@ Neunikneš! Neunikneš!“
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:48-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:48-cs
   :END:
 
 #+BEGIN_VERSE
@@ -959,9 +954,9 @@ jako Absolutní Pán, Velitel Nejvyšší.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:49-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:49-cs
   :END:
 
 #+BEGIN_VERSE
@@ -984,9 +979,9 @@ zcela vlastního.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DTIU:50-cs
+  :genre: poem
+  :keywords:
+  :cite-key: dtiu:50-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1008,14 +1003,3 @@ Nezapomeň,
  JEN.
 
 #+END_VERSE
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

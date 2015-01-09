@@ -1,20 +1,15 @@
-#+TITLE: Sri Chinmoy odpovídá, část 11
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 11
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2001
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: SCA-11-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2001
+  :publisher: Madal Bal
+  :cite-key: SCA-11-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Část I[fn:: SCA 403-410. 7. srpna 1995 se Sri Chinmoy setkal s doktorkou Elenou Vladimirskou, zástupkyní ředitele Výzkumného ústavu hematologické pediatrie v Moskvě a jejím mužem, vojenským důstojníkem ve výslužbě, v restauraci Annam Brahma v Jamaice v New Yorku. V průběhu tohoto setkání se dr. Vladimirskaja a její manžel zeptali Sri Chinmoye na několik duchovních otázek. Jejich otázky a jeho odpovědi jsou spolu s dalšími poznámkami jsou zachyceny na následujících stránkách] 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:403e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:403e1-cs
   :END:
 
 
@@ -33,23 +28,23 @@
 * Plyne čas jen z minulosti do budoucnosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:403-cs
-  :DATE-EVENT: 1995-08-07  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:403-cs
+  :date-event: 1995-08-07  
   :END:
 
 
-/Sri Chinmoy:/ Existují dva druhy času: jeden je připoutaný k zemi, ten druhý je nebesky svobodný čas, nebo můžeme říci, univerzální čas. Pozemsky spoutaný čas postupuje od jedné ke dvěma, ke třem, čtyřem, k pěti. Ale univerzální čas je jako velký kruh, který každým okamžikem roste a roste. Je to jako celý Boží Vesmír -- věčný a nekonečný. Zemí spoutaný čas je jako několik kapek vody, můžete je snadno spočítat. Ale čas nebesky svobodný je jako rozlehlý oceán. Když myslíte na rozlehlý oceán, je naprosto nesmyslné pokusit se počítat kapky.
+/Sri Chinmoy:/ existují dva druhy času: jeden je připoutaný k zemi, ten druhý je nebesky svobodný čas, nebo můžeme říci, univerzální čas. Pozemsky spoutaný čas postupuje od jedné ke dvěma, ke třem, čtyřem, k pěti. Ale univerzální čas je jako velký kruh, který každým okamžikem roste a roste. Je to jako celý Boží Vesmír -- věčný a nekonečný. Zemí spoutaný čas je jako několik kapek vody, můžete je snadno spočítat. Ale čas nebesky svobodný je jako rozlehlý oceán. Když myslíte na rozlehlý oceán, je naprosto nesmyslné pokusit se počítat kapky.
 
 
 * Odkud pocházejí lidské bytosti? Vznikly z Adama a Evy, nebo z opic?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:404-cs
-  :DATE-EVENT: 1995-08-07  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:404-cs
+  :date-event: 1995-08-07  
   :END:
 
 
@@ -60,14 +55,14 @@
 * Jaký je Váš pohled na náboženství? Proč je tolik druhů náboženství vůči sobě nepřátelských?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:405-cs
-  :DATE-EVENT: 1995-08-07  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:405-cs
+  :date-event: 1995-08-07  
   :END:
 
 
-/Sri Chinmoy:/ Podstatou každého náboženství je láska k Bohu. Není jediného náboženství, které by nám říkalo: nemilujte Boha. Problém je ale se stoupenci každého náboženství. Velmi často říkají: „Mé náboženství je zdaleka nejlepší, zatímco tvé náboženství je velmi špatné.“ Stoupenci jednotlivých náboženství jsou jako děti v rodině. Tyto děti mají společné rodiče a dostává se jim od nich stejné náklonnosti, lásky a soucitu. Stejně se ale hádají a zápasí spolu. Když jedna ze sester vidí, že druhá sestra je hezčí, potom na ni okamžitě začne žárlit a hádat se s ní. Když vidí jeden bratr, že ten druhý je silnější, ten slabý mluví okamžitě o tom silném zle. V jiné rodině často řekne jeden bratr: „Já to vím lépe než kdokoli jiný!“ A další bratr pokračuje: „Ne, já to vím lépe než ty!“ Podobně je to s náboženstvím. Někdo řekne: „Já vím o Nebeském Otci víc než ty.“ Jiný zase říká: „Můj způsob jak milovat Boha je jediný správný, a tvůj způsob je špatný.“ Takže se velmi často stává, že je mezi rozličnými náboženstvími spousta hádek a soubojů. 
+/Sri Chinmoy:/ podstatou každého náboženství je láska k bohu. není jediného náboženství, které by nám říkalo: nemilujte boha. problém je ale se stoupenci každého náboženství. velmi často říkají: „mé náboženství je zdaleka nejlepší, zatímco tvé náboženství je velmi špatné.“ stoupenci jednotlivých náboženství jsou jako děti v rodině. tyto děti mají společné rodiče a dostává se jim od nich stejné náklonnosti, lásky a soucitu. stejně se ale hádají a zápasí spolu. když jedna ze sester vidí, že druhá sestra je hezčí, potom na ni okamžitě začne žárlit a hádat se s ní. když vidí jeden bratr, že ten druhý je silnější, ten slabý mluví okamžitě o tom silném zle. v jiné rodině často řekne jeden bratr: „já to vím lépe než kdokoli jiný!“ a další bratr pokračuje: „ne, já to vím lépe než ty!“ podobně je to s náboženstvím. někdo řekne: „já vím o nebeském otci víc než ty.“ jiný zase říká: „Můj způsob jak milovat Boha je jediný správný, a tvůj způsob je špatný.“ Takže se velmi často stává, že je mezi rozličnými náboženstvími spousta hádek a soubojů. 
 
 Ale to, na čem se všechna náboženství shodnou, je láska k Bohu. A pokud někoho opravdu milujeme, cítíme s touto osobou jednotu. Takže pokud milujeme Boha, cítíme svou jednotu s Bohem a budeme rovněž cítit svou jednotu s Božím stvořením. V největších hlubinách svého srdce víme, že jsme všichni jedním, ale potom do nás vstoupí pýcha a my řekneme ostatním: „Nepotřebuji vás.“ Ale my se navzájem potřebujeme. Všichni jsme součástí téže jsoucí skutečnosti. Strom se skládá z kmene, větví, listí, květů a plodů. Pokud kmen řekne, že nepotřebuje větve či listy, potom jaký to bude strom? A pokud květy řeknou, že nepotřebují větve a kmen, jak budou potom žít? Takže je zapotřebí dosáhnout jednoty.
 
@@ -78,28 +73,28 @@ Když vstoupíme do zahrady, okamžitě si uvědomíme její krásu, čistotu a 
 * Porozumí lidé jednoho dne nezbytnosti jednoty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:406-cs
-  :DATE-EVENT: 1995-08-07  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:406-cs
+  :date-event: 1995-08-07  
   :END:
 
 
-/Sri Chinmoy:/ Ne, nebude to otázka porozumění, bude to otázka cítění srdcem. Pokud chceme něčemu rozumět, musíme použít svou mysl. Porozumění je vždy v mysli. Ale lidské bytosti nevytvoří jedna s druhou jednotu tím, že k tomu použijí mysl. Mysl každou chvíli mění svůj názor. V tenhle okamžik vstoupí do mé mysli dobrá myšlenka a já vás vidím jako dobrého člověka. V příštím okamžiku vstoupí do mé mysli myšlenka jiná a já řeknu, že jste člověk velmi špatný. Když používám mysl, můj názor na vás je odrazem myšlenek, které právě mám. Další věc, která se týká mysli, je ta, že mysl vždy rozděluje a odděluje. Mysl řekne: „Já jsem dobrý, ale ty dobrý nejsi.“
+/Sri Chinmoy:/ ne, nebude to otázka porozumění, bude to otázka cítění srdcem. pokud chceme něčemu rozumět, musíme použít svou mysl. porozumění je vždy v mysli. ale lidské bytosti nevytvoří jedna s druhou jednotu tím, že k tomu použijí mysl. mysl každou chvíli mění svůj názor. v tenhle okamžik vstoupí do mé mysli dobrá myšlenka a já vás vidím jako dobrého člověka. v příštím okamžiku vstoupí do mé mysli myšlenka jiná a já řeknu, že jste člověk velmi špatný. když používám mysl, můj názor na vás je odrazem myšlenek, které právě mám. další věc, která se týká mysli, je ta, že mysl vždy rozděluje a odděluje. mysl řekne: „Já jsem dobrý, ale ty dobrý nejsi.“
 
 Srdce jen cítí jednotu s druhými. Říká: „Když jsem dobrý já, jsi dobrý i ty.“ Srdce je jako matka. Matka vždy cítí, že dítě je dobré. Celý čas své dítě zalévá mateřskou láskou, náklonností a soucitem. Matka nepoužívá mysl, aby určila, jak je její dítě krásné. Ne! Jakmile se na své dítě podívá, vidí jej celé krásné.
 
-Pokud se dítě chová jako cyklón a začne křičet a rozbíjet všechno v domě, její mysl může říci: „Bože, proč jsi mi dal takové nebožské dítě? Komu je to zapotřebí?“ Je to proto, že mysl odděluje matku od dítěte. Ale potom vyjde matčino srdce do popředí a řekne: „Pokud je špatné, potom jsem odpovědná já, protože jsem jej přivedla na svět.“
+Pokud se dítě chová jako cyklón a začne křičet a rozbíjet všechno v domě, její mysl může říci: „bože, proč jsi mi dal takové nebožské dítě? komu je to zapotřebí?“ je to proto, že mysl odděluje matku od dítěte. ale potom vyjde matčino srdce do popředí a řekne: „Pokud je špatné, potom jsem odpovědná já, protože jsem jej přivedla na svět.“
 
 
 
 * Dosáhnou jednoho dne lidské bytosti spásy tím, že budou mít tento pocit jednoty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:407-cs
-  :DATE-EVENT: 1995-08-07  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:407-cs
+  :date-event: 1995-08-07  
   :END:
 
 
@@ -107,17 +102,17 @@ Pokud se dítě chová jako cyklón a začne křičet a rozbíjet všechno v dom
 
 Když se dítě zašpiní od hraní v blátě a hlíně, jeho matka prostě přijde a umyje jej. Dítě se necítí provinile, že je špinavé, protože nezná nic lepšího. Jen si hraje, hraje a hraje. Ale matka ví, že bláto a hlína nejsou dobré, takže když k ní dítě přiběhne, okamžitě jej umyje a očistí. Podobně, bez ohledu na to, co děláme, pokud jen běžíme k našemu Nebeskému Otci, znovu nás očistí. Pokud si ale myslíme, že jsme velmi špatní, pokud cítíme, že jsme ošklivá špinavá zvířata, potom k Němu nepůjdeme. Takže když se dožadujeme Boha jako své matky a otce, Bůh pro nás udělá vše, a stane se Jeho odpovědností, aby nás očistil.
 
-Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyššího než spása, a to je jednota s Bohem. Když Kristus řekl: „Já a můj Otec jsme jedním,“ tehdy promluvila jeho realizace. Když řekl: „Ó Otče, proč jsi mě opustil?“, bylo to to lidské v něm, jež mluvilo a oddělilo se od Boha. Ale to božské v něm se nikdy od Boha nemohlo oddělit. Božské v něm cítilo: „Ať už jsem v Nebi či na zemi, Bůh je ve mně a já jsem v Něm, jsme jedním.“ Tento pocit jednoty se nazývá realizace.
+Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyššího než spása, a to je jednota s Bohem. Když Kristus řekl: „já a můj otec jsme jedním,“ tehdy promluvila jeho realizace. když řekl: „Ó otče, proč jsi mě opustil?“, bylo to to lidské v něm, jež mluvilo a oddělilo se od boha. ale to božské v něm se nikdy od boha nemohlo oddělit. božské v něm cítilo: „Ať už jsem v Nebi či na zemi, Bůh je ve mně a já jsem v Něm, jsme jedním.“ Tento pocit jednoty se nazývá realizace.
 
 
 
 * Chtěla bych vám poděkovat. Odkud získáváte tyto odpovědi?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:408-cs
-  :DATE-EVENT: 1995-08-07  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:408-cs
+  :date-event: 1995-08-07  
   :END:
 
 
@@ -132,10 +127,10 @@ Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyšš
 * Dr. Vladimirskaja: Budeme se to snažit udělat, ale je to v naší zemi velmi obtížné, protože zde bylo náboženství po mnoho a mnoho let zakázáno. Nyní už není.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:409-cs
-  :DATE-EVENT: 1995-08-07  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:409-cs
+  :date-event: 1995-08-07  
   :END:
 
 /Sri Chinmoy:/ Zde v Americe věří v Boha, ale modlit se je na školách zakázáno. Na školách nejsou modlitby povoleny.
@@ -145,10 +140,10 @@ Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyšš
 * Dr. Vladimirskaja: Je to velmi obtížná situace. Pokusíme se něco udělat. Snažíme se rovněž změnit situaci v naší nemocnici tím způsobem, abychom povolili každému dítěti být se svými rodiči. To je velmi důležité. Předtím to bylo zakázáno, ale nyní už může dítě se svou matkou, otcem a prarodiči být.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:410-cs
-  :DATE-EVENT: 1995-08-07  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:410-cs
+  :date-event: 1995-08-07  
   :END:
 
 /Sri Chinmoy:/ Laskavost je stejně důležitá jako medicína. V medicíně laskavost být nemusí. Ale uvnitř laskavosti je medicína vždy. Laskavost, kterou matka, otec, sestra a bratr dávají, je velkou pomocí. Velmi nemocnému dítěti pomáhá.
@@ -158,9 +153,9 @@ Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyšš
 * Část II[fn:: SCA 411-412. Následující otázky položili Sri Chinmoyovi jeho žáci v restauraci Annam Brahma v Jamaice v New Yorku 25. května 1996]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:411e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:411e1-cs
   :END:
 
 
@@ -170,10 +165,10 @@ Když se modlíme a meditujeme, uvědomujeme si, že je něco nekonečně vyšš
 * Hovoříš o vnitřním pláči a vnějším úsměvu. Když získám vnitřní pláč, z nějakého důvodu se mi nezdá, že bych byl schopen získat vnější úsměv. Vnitřní pláč mě nutí cítit se smutný a nedokážu získat vnější radost.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:411-cs
-  :DATE-EVENT: 1996-05-25  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:411-cs
+  :date-event: 1996-05-25  
   :END:
 
 
@@ -192,10 +187,10 @@ Neodrazuji tě. Mnohokrát jsi zažil radost svého srdce. Ale někdy je tento p
 * Když občas pozoruji situaci ve světě a nedostatek aspirace mezi lidmi, je těžké být šťastný.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:412-cs
-  :DATE-EVENT: 1996-05-25  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:412-cs
+  :date-event: 1996-05-25  
   :END:
 
 
@@ -203,7 +198,7 @@ Neodrazuji tě. Mnohokrát jsi zažil radost svého srdce. Ale někdy je tento p
 
 Snažíme se změnit tvář a osud tohoto světa, ale svět to nechce. Snažíme se dát někomu moudrost, ale tento člověk nám nerozumí a uráží nás. A tak musíme poslouchat jen jedinou osobu, Vnitřního kormidelníka. Pokud nás požádá, abychom něco někomu dali, dáme mu to. Pokud se nám na oplátku tato osoba vysměje a urazí nás, pokud náš dar nepřijme, není to náš problém. Naší úlohou je odevzdat se Vnitřnímu kormidelníkovi. Jakmile se modlíme a meditujeme, musíme poznat Boží Vůli tím, že nasloucháme tomuto Příkazu Boha. Musíme vědět, co chce, abychom udělali. Pokud dokážeme vykonat Boží Vůli podle své kapacity s nejvyšší upřímností, to stačí. 
 
-Díváme se kolem sebe a očekáváme, že se svět změní přes noc. Svět se ale přes noc nezmění. Naši sousedé, dokonce ani naši blízcí se nezmění. Budeme se snažit, jak nejlépe umíme. Navenek můžeme být nepochopeni, ale vnitřně můžeme nabídnout dobré myšlenky. Pokud se navenek nic nemění, co můžeme dělat? Je-li to Boží Vůle, budeme pokračovat. Pokud to Boží Vůle není, zanecháme toho. Své štěstí si můžeme udržet jen tím, že budeme naslouchat Boží Vůli. Jakmile Bůh řekne: „Udělej to,“ uděláme to. Potom na to zapomeneme. Když Bůh řekne: „Nedělej to,“ potom to jednoduše neuděláme.
+Díváme se kolem sebe a očekáváme, že se svět změní přes noc. Svět se ale přes noc nezmění. Naši sousedé, dokonce ani naši blízcí se nezmění. Budeme se snažit, jak nejlépe umíme. Navenek můžeme být nepochopeni, ale vnitřně můžeme nabídnout dobré myšlenky. Pokud se navenek nic nemění, co můžeme dělat? Je-li to Boží Vůle, budeme pokračovat. Pokud to Boží Vůle není, zanecháme toho. Své štěstí si můžeme udržet jen tím, že budeme naslouchat Boží Vůli. Jakmile Bůh řekne: „udělej to,“ uděláme to. potom na to zapomeneme. když bůh řekne: „Nedělej to,“ potom to jednoduše neuděláme.
 
 Naše štěstí musí vycházet z naší služby Bohu v lidstvu. Když stojíme před lidstvem, nesmíme zapomínat, že sloužíme lidstvu, protože uvnitř lidstva je Bůh. Pokud Bůh, jenž je uvnitř lidstva, ví, jak upřímně jsme se pokoušeli a pokud je potěšen naší upřímnou snahou, potom budeme mít radost bez ohledu na to, jaký je výsledek.
 
@@ -214,9 +209,9 @@ Naší potíží je, že tvrdě pracujeme, pořádáme přednášky a snažíme 
 * Část III[fn:: SCA 413-419. Následující otázky položili žáci Sri Chinmoye na „Aspiration-Ground“ 22. června 1996] 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:413e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:413e1-cs
   :END:
 
 
@@ -224,10 +219,10 @@ Naší potíží je, že tvrdě pracujeme, pořádáme přednášky a snažíme 
 * Vnější potřeby určitého člověka mohou být naší cestou uspokojeny. Například má kde bydlet, má jídlo, všichni jeho přátelé jsou zde a čím více duchovní se zdá být, tím více ho lidé mají rádi. Zůstává z vnějších příčin, ale uvnitř možná necítí tu nejvyšší aspiraci pro Nejvyššího. Je lépe pro takového člověka zůstat s neupřímnou aspirací v naději, že jednoho dne se stane aspirací upřímnou, nebo je pro něj lepší jít za něčím jiným?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:413-cs
-  :DATE-EVENT: 1996-06-22  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:413-cs
+  :date-event: 1996-06-22  
   :END:
 
 
@@ -237,7 +232,7 @@ Pokud nějaký člověk nedokáže po pěti či šesti letech znovu získat svou
 
 Každý začíná s upřímností. Každý, kdo přijme duchovní život, chce porazit nejistotu, žárlivost a další nedokonalosti. Ale po čtyřech nebo pěti letech klesání tyto slabosti začnou někteří žáci považovat za sílu. Tyto slabosti na sebe začnou brát podobu požadavků: „Jsem nejistý, proto ke mně můj Mistr musí být soucitnější. Jsem žárlivý, proto musí být můj Mistr soucitnější. Musí vědět, že jsem slabý. Jsem nečistý, proto ke mně musí být můj Mistr soucitnější. Vidí, že s čistotou zápasím.“
 
-Na začátku takový požadavek žáka vůbec nenapadl. Pokud byl neupřímný, zoufale se snažil být upřímný. Pokud byl nečistý, snažil se čistým být. Pokud byl nejistý, snažil se být jistý. Všechny tyto božské kvality toužil získat správnou metodou: modlitbou a meditací. Po pěti či šesti letech na sebe tyto vlastnosti vezmou odlišnou formu. Žáci kladou Mistrovi požadavky: „Jsem slabý. Byl jsem s tebou tolik let. Co jsi dělal? Proč mě neuděláš dokonalým?“ Předtím se všemožně snažili být dokonalými žáky. Potom, po několika letech, se jejich teorie změnila. Nyní říkají: „Protože jsem ti na několik let dal svůj život, Mistře, je tvou povinností mě zdokonalit.“
+Na začátku takový požadavek žáka vůbec nenapadl. Pokud byl neupřímný, zoufale se snažil být upřímný. Pokud byl nečistý, snažil se čistým být. Pokud byl nejistý, snažil se být jistý. Všechny tyto božské kvality toužil získat správnou metodou: modlitbou a meditací. po pěti či šesti letech na sebe tyto vlastnosti vezmou odlišnou formu. Žáci kladou mistrovi požadavky: „jsem slabý. byl jsem s tebou tolik let. co jsi dělal? proč mě neuděláš dokonalým?“ předtím se všemožně snažili být dokonalými žáky. potom, po několika letech, se jejich teorie změnila. nyní říkají: „Protože jsem ti na několik let dal svůj život, Mistře, je tvou povinností mě zdokonalit.“
 
 Pokud žáci, kteří během let značně klesli, cítí, že není naděje, že by znovu schodiště vystoupali, potom je pro ně ztráta času zůstávat na cestě. Naše filozofie je filozofií překonávání a pokroku. Jestliže nemohou po pěti či šesti letech znovu získat upřímnost nebo čistotu nebo další božské kvality, s nimiž začínali, pokud se nedokáží vrátit k vlastnímu počátečnímu bodu, jak budou znovu mít odhodlání běžet rychle, rychleji, nejrychleji? Cítím, že rychlost indického volského povozu není žádná rychlost. Pro tyhle lidi zůstane cíl nedosažitelný, protože je daleko, velmi, velmi daleko. 
 
@@ -247,7 +242,7 @@ Pokud se někdo nedokáže vrátit ke svému výchozímu bodu, ve kterém on sá
 
 Musím říci, že jsou lidé, kteří jsou naprosto disciplinovaní. Jsou někteří, kdo si udržují svou upřímnost a vrhají své srdce a duši do božských aktivit. Musím říci, že někteří lidé udělali během let ohromný pokrok, jinak by se tento člun už převrhl. Obzvláště v tomto roce, v roce překvapení, žáci zde i kdekoli jinde udělali ohromný pokrok. Navenek nemůže být tento pokrok měřen. Kdo přemohl žárlivost, kdo přemohl nejistotu, kdo přemohl další nedokonalosti -- pouze Mistr může soudit. Žáci nemohou soudit někoho, protože žáci nejsou v pozici, aby vstoupili do srdce těch, kdo učinili obrovský, obrovský pokrok. Jsou lidé, kteří mi dali během let svým úpadkem šokující zkušenosti. Říci, že klesli značně, je slabý výraz. 
 
-Pokud jsem dobře rozuměl tvé otázce, ptáš se: když se lidé obelhávají, když nemají žádnou upřímnou aspiraci, měli by pokračovat v cestě s nadějí, že jednoho dne získají nazpět svou aspiraci? Dříve jsem říkal: „I když ve člunu spíte, není to na škodu. Můžete spát.“ Ale nyní vidím, že někteří lidé, kteří spali a pochrupávali, se z ničeho nic probudili a podivili se. Říkají: „Kde to jsme?“ Potom získají pocit, že voda je to nejbezpečnější místo, a tak vyskočí ze člunu do vody. 
+Pokud jsem dobře rozuměl tvé otázce, ptáš se: když se lidé obelhávají, když nemají žádnou upřímnou aspiraci, měli by pokračovat v cestě s nadějí, že jednoho dne získají nazpět svou aspiraci? dříve jsem říkal: „i když ve člunu spíte, není to na škodu. můžete spát.“ ale nyní vidím, že někteří lidé, kteří spali a pochrupávali, se z ničeho nic probudili a podivili se. Říkají: „Kde to jsme?“ Potom získají pocit, že voda je to nejbezpečnější místo, a tak vyskočí ze člunu do vody. 
 
 Jedinou útěchou je, že jsou lidé, kteří udělali obrovský, obrovský pokrok, vnitřně i navenek, obzvláště letos, v roce překvapení. Jsou také tací, kteří klesli nadobro. Co se dá teď dělat? Je mi jich líto, protože marní svůj život, obzvláště mladá generace. Pokud nezískají nazpět svou aspiraci poté, co ji ztratili, potom až jim bude 40 nebo 50 let, budou obviňovat mě. Řeknou: „Proč jsi nám nepomohl, abychom učinili pokrok? Proč jsi nám nepomohl, abychom překonali tyhle obtíže?“ Mohu jen říci, že jsem se snažil, jak jsem jen mohl, ale oni neměli potřebnou vnímavost.
 
@@ -256,10 +251,10 @@ Jedinou útěchou je, že jsou lidé, kteří udělali obrovský, obrovský pokr
 * Někdy mám udělat spoustu věcí a nevím, jaké jsou mé priority.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:414-cs
-  :DATE-EVENT: 1996-06-22  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:414-cs
+  :date-event: 1996-06-22  
   :END:
 
 
@@ -270,44 +265,44 @@ Jedinou útěchou je, že jsou lidé, kteří udělali obrovský, obrovský pokr
 * Jak můžeme vědět, zda jsme na sebe oprávněně přísní, anebo zbytečně sebekritičtí negativním způsobem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:415-cs
-  :DATE-EVENT: 1996-06-22  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:415-cs
+  :date-event: 1996-06-22  
   :END:
 
 
-/Sri Chinmoy:/ Pokud upřímně aspirujeme, uvnitř naší aspirace bude světlo spravedlnosti. Jestliže máš planoucí aspiraci, bude uvnitř tvé aspirace světlo, a podle tohoto světla budeš soudit sám sebe spravedlivým způsobem. Toto světlo osvítí zmatení mysli, která je příliš sebekritická, nebo mysli, která říká, že můžeš odpočívat a užívat si ještě o trochu více. Intenzita tvé aspirace ti zákonitě řekne, zda jsi příliš sebekritický, shovívavý nebo si příliš dopřáváš. Aspirace má v sobě světlo a toto světlo ti ukáže, zda je tohle místo temné, plné zmatení či mentálních halucinací. Řekněme, že jedna strana je halucinace a druhá strana je zmatení. Pokud sem přineseš svítilnu, potom pokud jsi sebekritický a chceš být na sebe přísnější, světlo řekne: „Ne, toto není nutné.“ Pokud jsi k sobě příliš shovívavý, toto světlo řekne: „Musíš být přísnější.“
+/Sri Chinmoy:/ pokud upřímně aspirujeme, uvnitř naší aspirace bude světlo spravedlnosti. jestliže máš planoucí aspiraci, bude uvnitř tvé aspirace světlo, a podle tohoto světla budeš soudit sám sebe spravedlivým způsobem. toto světlo osvítí zmatení mysli, která je příliš sebekritická, nebo mysli, která říká, že můžeš odpočívat a užívat si ještě o trochu více. intenzita tvé aspirace ti zákonitě řekne, zda jsi příliš sebekritický, shovívavý nebo si příliš dopřáváš. aspirace má v sobě světlo a toto světlo ti ukáže, zda je tohle místo temné, plné zmatení či mentálních halucinací. Řekněme, že jedna strana je halucinace a druhá strana je zmatení. pokud sem přineseš svítilnu, potom pokud jsi sebekritický a chceš být na sebe přísnější, světlo řekne: „ne, toto není nutné.“ pokud jsi k sobě příliš shovívavý, toto světlo řekne: „Musíš být přísnější.“
 
 Je velmi málo lidí, kteří jsou sebekritičtí. Občas vstoupí do sebekritických lidí pýcha. Řeknou: „Jsem jediný, kdo chce být dokonalý.“ Sebekritičtí lidé si myslí, že jsou jediní, kdo touží po dokonalé dokonalosti. Cítí, že pouze oni získají dokonalou dokonalost, a ostatní nikoli. Samozřejmě taková myšlenka nemusí vstoupit do jejich vědomé mysli. 
 
 Kritizováním sebe sama nemohu dojít ke světlu. Kritizováním sebe sama se pouze oslabuji, protože se cíleně vzdávám pozitivního přístupu k životu. Pokud cítím, že nejsem dokonalý nebo že jsem nedošel k určitému bodu, potom ať se dokonalým stanu. Jestliže dnes cítím, že si nemohu dát sto bodů ze sta, pokud si mohu dát pouze šedesát, nesmím se přesto kritizovat. Měl bych jen říci: „Dnes jsem si dal šedesát. Uvidíme, zda si budu moci dát zítra sedmdesát.“ Kritizováním sebe sama za to, že mám dnes pouze známku 60, když jsem očekával, že dostanu 80 nebo 90, ztrácím svou mentální vyrovnanost a zničím tak své možnosti.
 
-Když házím basketbalovým míčem, přestože trefím jen padesát košů ze sta, nerozčílím se. Dělám si jen legraci ze svého „nejlepšího žáka“ a urážím jej, jak je den dlouhý! Dnes jsem mu řekl: „Můj nejlepší žák mi přináší takovou smůlu! Každá vteřina, kdy je se mnou, znamená smůlu. Když mi hází míče, nezískám ani padesát košů ze sta.“ Ale tohle jsem řekl jen jednou. Potom jsem s žertováním přestal. Jednou nebo dvakrát jsem měl potom velmi nízké skóre, ale Bůh mi řekl: „Buď zticha!“ Bůh chtěl okamžitě učinit mého nejlepšího žáka šťastným, a tak jsem získal 69 ze 100 košů. Kdybych se ale držel myšlenky, že ten chudák přináší smůlu, neměl bych ani 30 ze 100.
+Když házím basketbalovým míčem, přestože trefím jen padesát košů ze sta, nerozčílím se. Dělám si jen legraci ze svého „nejlepšího žáka“ a urážím jej, jak je den dlouhý! Dnes jsem mu řekl: „můj nejlepší žák mi přináší takovou smůlu! každá vteřina, kdy je se mnou, znamená smůlu. když mi hází míče, nezískám ani padesát košů ze sta.“ ale tohle jsem řekl jen jednou. potom jsem s žertováním přestal. jednou nebo dvakrát jsem měl potom velmi nízké skóre, ale bůh mi řekl: „Buď zticha!“ Bůh chtěl okamžitě učinit mého nejlepšího žáka šťastným, a tak jsem získal 69 ze 100 košů. Kdybych se ale držel myšlenky, že ten chudák přináší smůlu, neměl bych ani 30 ze 100.
 
-Pokud sis dal nízkou známku a cítíš, že jsi byl nestranný a dal sis spravedlivé ocenění, nekritizuj se. Když se budeš kritizovat, když řekneš: „Jak jsem mohl získat pouze 50?“, jenom se oslabíš. Namísto toho by sis měl říci: „Dal jsem si nízkou známku. Ať mám nyní více odhodlání. Namísto kritizování sebe sama se na to budu dívat pozitivně. Ať dostanu vyšší známku na základě svého odhodlání.“
+Pokud sis dal nízkou známku a cítíš, že jsi byl nestranný a dal sis spravedlivé ocenění, nekritizuj se. Když se budeš kritizovat, když řekneš: „jak jsem mohl získat pouze 50?“, jenom se oslabíš. namísto toho by sis měl říci: „Dal jsem si nízkou známku. Ať mám nyní více odhodlání. Namísto kritizování sebe sama se na to budu dívat pozitivně. Ať dostanu vyšší známku na základě svého odhodlání.“
 
 
 
 * Toto je otázka o Bohu Spravedlnosti a o Bohu Soucitu. Pokud se nějaká osoba chovala během let takovým způsobem, že Bůh Spravedlnost s ní teď účtuje, je možné cítit k Bohu Spravedlnosti neuvěřitelnou, intenzivní lásku namísto pocitu otřesení a děsu či negativní reakce vůči Němu? A může se Bůh Spravedlnost na základě této lásky změnit v Boha Soucit? Pokud tato osoba říká: „Bez ohledu na to, co děláš, já Tě miluji, miluji Tě,“ promění se potom Bůh Spravedlnost v Boha Soucit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:416-cs
-  :DATE-EVENT: 1996-06-22  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:416-cs
+  :date-event: 1996-06-22  
   :END:
 
 
-/Sri Chinmoy:/ Bůh Spravedlnost se nemusí proměňovat v Boha Soucit, protože tento člověk je natolik otevřený Božímu Světlu, že se stal s Bohem neoddělitelně jedním. Jeho láska k Bohu je tak nesmírná, že když ho Bůh kopne, cítí, že Bůh ho krmí nektarem. Nemůže v tu chvíli oddělit Boha Spravedlnost a Boha Soucit, protože jeho láska k Bohu je tak nesmírná a intenzivní. Můžeš být třetí osobou, jež vše pozoruje a říká: „Ó můj Bože! Bůh ho trestá!“, ale pokud je tvé srdce neoddělitelně jedním s Božím Srdcem, v tu chvíli uvidíš, že tato osoba má k Bohu ohromnou lásku.
+/Sri Chinmoy:/ bůh spravedlnost se nemusí proměňovat v boha soucit, protože tento člověk je natolik otevřený božímu světlu, že se stal s bohem neoddělitelně jedním. jeho láska k bohu je tak nesmírná, že když ho bůh kopne, cítí, že bůh ho krmí nektarem. nemůže v tu chvíli oddělit boha spravedlnost a boha soucit, protože jeho láska k bohu je tak nesmírná a intenzivní. můžeš být třetí osobou, jež vše pozoruje a říká: „Ó můj Bože! Bůh ho trestá!“, ale pokud je tvé srdce neoddělitelně jedním s Božím Srdcem, v tu chvíli uvidíš, že tato osoba má k Bohu ohromnou lásku.
 
-Je to jako známý příběh o Naradovi. Narada několik let meditoval a potom se zeptal Višnua, kolik let potrvá, než realizuje Boha. Višnu řekl: „Už jen tři inkarnace.“ Narada řekl: „Tři další inkarnace? To je příliš, příliš!“ Byl připraven vzdát se. 
+Je to jako známý příběh o Naradovi. Narada několik let meditoval a potom se zeptal Višnua, kolik let potrvá, než realizuje Boha. Višnu řekl: „už jen tři inkarnace.“ narada řekl: „Tři další inkarnace? To je příliš, příliš!“ Byl připraven vzdát se. 
 
-Potom se jiný chlapík, opilec, zeptal Višnua: „Kolik mi bude trvat inkarnací, než realizuji Boha?“ Višnu řekl: „Tolik inkarnací, kolik je listí na tomto stromě!“ Opilec začal radostí tančit! Řekl: „Ó, jednoho dne budu schopen realizovat Boha! To je tak malý strom. Má jen velmi málo listí.“ Podívejte se na jeho postoj! Tančil radostí, protože jednoho dne realizuje Boha. Neviděl všechny ty nesčetné listy. Není nepředstavitelné, že mu to mělo trvat tolik inkarnací? A Narada nedokázal čekat ani tři další inkarnace.
+Potom se jiný chlapík, opilec, zeptal Višnua: „kolik mi bude trvat inkarnací, než realizuji boha?“ višnu řekl: „tolik inkarnací, kolik je listí na tomto stromě!“ opilec začal radostí tančit! Řekl: „Ó, jednoho dne budu schopen realizovat Boha! To je tak malý strom. Má jen velmi málo listí.“ Podívejte se na jeho postoj! Tančil radostí, protože jednoho dne realizuje Boha. Neviděl všechny ty nesčetné listy. Není nepředstavitelné, že mu to mělo trvat tolik inkarnací? A Narada nedokázal čekat ani tři další inkarnace.
 
 Mudrc Bhrigu chtěl vidět, který z Bohů je nejsoucitnější. Šel k Brahmovi a neukázal mu žádný respekt. Brahma se rozzuřil. Potom šel k Šivovi a neukázal mu žádný respekt, a tak se Šiva rozzuřil a chtěl jej proměnit v popel. Nakonec zašel Bhrigu k Višnuovi, který ležel a spal. Velmi bolestivě Višnua kopnul a potom si stoupnul na Višnuova chodidla. Namísto aby použil svou okultní sílu, aby Bhrigu zničil, Višnu si mnul chodidlo a řekl: „Jak se máš, mé dítě? Bolí tě něco? Je mi to tak líto. Udeřil jsi mě. Neporanil ses?“ Toto je soucitný aspekt božského. Když přišel Bhrigu k ostatním a neukázal jim žádný respekt, rozzuřili se. Potom ale vstoupil do Višnuovy místnosti, kde Višnu spal. Kopl jej velmi tvrdě a potom si stoupl na jeho nohy. Od té chvíle měl na sobě Višnu stopu Bhriguových nohou.
 
-Mělo by to být naprosto stejné, když cítíme Boha Spravedlnost. Říkáme, že nás Bůh udeří, když uděláme něco špatného. Ale měli bychom říkat: „Ne, to je pro mé dobro, že mě udeřil.“ Ve chvíli, kdy cítíme, že nás Bůh po tolika letech udeřil pro naše vlastní dobro, ve chvíli, kdy si vyvineme takové božské vnímání, nebudeme to ani nazývat Boží Spravedlností. Řekneme: „Ó můj Bože, Ty jsi přišel, přišel jsi, přišel jsi. Nyní dělej vše, co se Ti líbí! Kopej mě nebo mě odhoď, cokoli chceš udělat, zkrátka to udělej! I když mě chceš zabít, můžeš mě zabít, protože já chci Tvé štěstí.“ Když se hledající stane neoddělitelně jedním s Boží Vůlí, řekne: „Dělej, co chceš! Pokud mě chceš zabít, zabij mě; já chci jen Tvé štěstí.“
+Mělo by to být naprosto stejné, když cítíme Boha Spravedlnost. Říkáme, že nás Bůh udeří, když uděláme něco špatného. Ale měli bychom říkat: „ne, to je pro mé dobro, že mě udeřil.“ ve chvíli, kdy cítíme, že nás bůh po tolika letech udeřil pro naše vlastní dobro, ve chvíli, kdy si vyvineme takové božské vnímání, nebudeme to ani nazývat boží spravedlností. Řekneme: „Ó můj bože, ty jsi přišel, přišel jsi, přišel jsi. nyní dělej vše, co se ti líbí! kopej mě nebo mě odhoď, cokoli chceš udělat, zkrátka to udělej! i když mě chceš zabít, můžeš mě zabít, protože já chci tvé štěstí.“ když se hledající stane neoddělitelně jedním s boží vůlí, řekne: „Dělej, co chceš! Pokud mě chceš zabít, zabij mě; já chci jen Tvé štěstí.“
 
 Tak se Bůh Spravedlnost nemusí proměňovat v Boha Soucit. I když je hledající kopán, může to brát jako Světlo Božího Soucitu. Cokoliv Bůh s nějakou osobou dělá v Boží zvolenou Hodinu, je pro ni to nejlepší. To je ten nejlepší postoj. Pokud má hledající takový postoj, znamená to, že Bůh pozvedl jeho vědomí do ohromné výše. Hledající ví, že cokoliv Bůh udělá, je pro jeho dobro, a cítí, že jediný způsob, jak může potěšit Boha v každém okamžiku, je skrze neoddělitelnou jednotu s Ním. Hledající se dostal v tu chvíli daleko za hranice Spravedlnosti a Soucitu. Je v říši radosti a extáze, protože se jej Bůh dotkl. Právě proto, že si Bůh vybral čas, aby se jej dotkl, hledající plave v moři radosti. 
 
@@ -316,10 +311,10 @@ Tak se Bůh Spravedlnost nemusí proměňovat v Boha Soucit. I když je hledají
 * Slyšela jsem tě během let říkat, že žáci mnohdy po meditaci nevstřebají to, co obdrželi. Mohl bys nám prosím říci, co máme dělat, abychom vstřebali to, co jsme obdrželi, a také co bychom dělat neměli?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:417-cs
-  :DATE-EVENT: 1996-06-22  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:417-cs
+  :date-event: 1996-06-22  
   :END:
 
 
@@ -332,10 +327,10 @@ Existují rovněž další způsoby. Jedním z nich je velmi, velmi pomalu se p
 * Po naší meditaci v budově Spojených národů se musíme všichni vrátit k práci. Protože si nemůžeme lehnout nebo zpívat, existuje něco jiného, co bychom mohli udělat pro vstřebání meditace? Někdy začnou všichni prostě mluvit, jakmile odejdeš.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:418-cs
-  :DATE-EVENT: 1996-06-22  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:418-cs
+  :date-event: 1996-06-22  
   :END:
 
 
@@ -348,10 +343,10 @@ Další věc, kterou můžete vědomě a záměrně dělat, když máte vyšš�
 * Když si nevážím člověka, se kterým pracuji, nevím, jak se chovat.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:419-cs
-  :DATE-EVENT: 1996-06-22  
+  :genre: qa
+  :keywords:
+  :cite-key: sca:419-cs
+  :date-event: 1996-06-22  
   :END:
 
 
@@ -372,9 +367,9 @@ Jestliže nadřízení nedělají správné věci, potom je pro lidi pracující
 * Část IV[fn:: SCA 420-425. Následující rozhovor s panem Radhakršnou Pathakem, spoluvydavatelem jistého deníku v Dillí, se odehrálo 2. září 1996 na Aspiration Ground] 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:420e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:420e1-cs
   :END:
 
 
@@ -382,10 +377,10 @@ Jestliže nadřízení nedělají správné věci, potom je pro lidi pracující
 * Taková je Matka Kálí
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:420-cs
-  :DATE-EVENT: 1996-09-02  
+  :genre: interview
+  :keywords:
+  :cite-key: sca:420-cs
+  :date-event: 1996-09-02  
   :END:
 
 
@@ -402,12 +397,12 @@ Ze všech kosmických bohyní je Matka Kálí mou nejdražší Matkou. Je Matkou
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:421-cs
-  :DATE-EVENT: 1996-09-02  
+  :cite-key: sca:421-cs
+  :date-event: 1996-09-02  
   :END:
   
 
-/Sri Chinmoy:/ Máte velmi krásnou duši. Rodiče vám dali nanejvýš krásné, oduševnělé jméno, Radhakršna. Ztělesňujete jak Radhu, tak i Kršnu. Radha byla samou láskou a oddaností vůči Kršnovi. Její láska ke Kršnovi neměla obdoby. A zároveň se podívejte na Kršnovu lásku k Radze. Mateřský aspekt v Radze je aspektem soucitu. Je jako magnet. Je nekonečně snazší jít k pánu Kršnovi skrze Radhu než jinak. Také v lidském životě je snazší jít k otci přes matku. Jakmile musíme jít k otci přímo, je to obtížné. Ale matka ví, kdy je otec dosažitelný a přístupný. Matka je mostem mezi dítětem a otcem, protože dítě má důvěrnější spojení se svou matkou než se svým otcem. Matka reprezentuje Matku Zemi. Otec reprezentuje Otce Nebe. Je obtížné jít přímo do Nebe. Potřebujeme most: matku. 
+/Sri Chinmoy:/ máte velmi krásnou duši. rodiče vám dali nanejvýš krásné, oduševnělé jméno, radhakršna. ztělesňujete jak radhu, tak i kršnu. radha byla samou láskou a oddaností vůči kršnovi. její láska ke kršnovi neměla obdoby. a zároveň se podívejte na kršnovu lásku k radze. mateřský aspekt v radze je aspektem soucitu. je jako magnet. je nekonečně snazší jít k pánu kršnovi skrze radhu než jinak. také v lidském životě je snazší jít k otci přes matku. jakmile musíme jít k otci přímo, je to obtížné. ale matka ví, kdy je otec dosažitelný a přístupný. matka je mostem mezi dítětem a otcem, protože dítě má důvěrnější spojení se svou matkou než se svým otcem. matka reprezentuje matku zemi. otec reprezentuje otce nebe. je obtížné jít přímo do nebe. potřebujeme most: matku. 
 
 Ale jakmile matka uslyší dítě plakat, sejde dolů, aby zjistila, zda dítě nepotřebuje mléko nebo něco jiného. Když otec slyší dítě plakat, řekne, „Už jdu,“ ale dá si trošku načas. Otec cítí, že v příští minutu dítě neumře. Ale matčina náklonnost je taková, že má pocit, že se něco stalo. Nestalo se nic. Dítě jen pláče po matčině mléce nebo něčem jiném. Ale matka nedokáže čekat ani okamžik.
 
@@ -432,8 +427,8 @@ Máte nějakou konkrétní otázku, na kterou byste se rád zeptal?
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:422-cs
-  :DATE-EVENT: 1996-09-02  
+  :cite-key: sca:422-cs
+  :date-event: 1996-09-02  
   :END:
   
 
@@ -446,8 +441,8 @@ Máte nějakou konkrétní otázku, na kterou byste se rád zeptal?
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:423-cs
-  :DATE-EVENT: 1996-09-02  
+  :cite-key: sca:423-cs
+  :date-event: 1996-09-02  
   :END:
   
 
@@ -460,12 +455,12 @@ Máte nějakou konkrétní otázku, na kterou byste se rád zeptal?
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:424-cs
-  :DATE-EVENT: 1996-09-02  
+  :cite-key: sca:424-cs
+  :date-event: 1996-09-02  
   :END:
   
 
-/Sri Chinmoy:/ Co dělá Guru? Role Gurua je velmi prostá. Říká vám: „Podívej se, nevíš, co uvnitř sebe máš. Uvnitř tebe je pokladnice. V této pokladnici je ten nejkrásnější, nejdražší diamant, ale tys někam založil klíč. Mým úkolem je pomoci ti pátrat po tomto klíči. Budu po něm pátrat a najdu jej. Potom ti tento klíč dám a ty pokladnici otevřeš. Jakmile bude otevřena, uvidíš v sobě tento diamant. To je tvá božskost.“
+/Sri Chinmoy:/ co dělá guru? role gurua je velmi prostá. Říká vám: „Podívej se, nevíš, co uvnitř sebe máš. Uvnitř tebe je pokladnice. V této pokladnici je ten nejkrásnější, nejdražší diamant, ale tys někam založil klíč. Mým úkolem je pomoci ti pátrat po tomto klíči. Budu po něm pátrat a najdu jej. Potom ti tento klíč dám a ty pokladnici otevřeš. Jakmile bude otevřena, uvidíš v sobě tento diamant. To je tvá božskost.“
 
 Guruova role je ukázat vám cestu. Vy jste svou božskost ztratil, ale Guru přijde a přinese vám vaši ztracenou božskost. Tato božskost tam již je. Guru vám tuto božskost nedá; Bůh vám dal božskost. Ale Guru je poslíček. Guru vám ukáže vaši božskost.
 
@@ -487,9 +482,9 @@ Přesně tím samým způsobem, když se na nás Pán Kršna nebo Radha usmějí
 
 Naší potíží je, že když jdeme k Bohu, máme pocit, že musíme být čistí, musíme být upřímní. Bůh řekne: „Dobře, staň se čistým, staň se upřímným. Pokud jsi ale stále nečistý, kam půjdeš? Pokud jsi stále neupřímný, kam půjdeš? Musíš za Mnou přijít se svou čistotou i se svou nečistotou, se svou upřímností i neupřímností.“
 
-Dítě vyjde z domu a hraje si na zemi, v písku, blátě, hlíně. Potom jde za tím správným člověkem: za svou matkou. Co jeho matka udělá? Očistí jej. Než přijde dítě za matkou, jde se nejprve vykoupat do rybníka nebo bazénu, aby se očistilo? Ne, jde ke své matce celé od bláta, hlíny a písku. Ví, že jeho matka řekne: „Je to mé dítě,“ a že jej umyje a ukáže mu celou svou náklonnost.
+Dítě vyjde z domu a hraje si na zemi, v písku, blátě, hlíně. Potom jde za tím správným člověkem: za svou matkou. co jeho matka udělá? očistí jej. než přijde dítě za matkou, jde se nejprve vykoupat do rybníka nebo bazénu, aby se očistilo? ne, jde ke své matce celé od bláta, hlíny a písku. ví, že jeho matka řekne: „Je to mé dítě,“ a že jej umyje a ukáže mu celou svou náklonnost.
 
-Úplně stejným způsobem musíme jít za Bohem, se všemi svými nedokonalostmi. Když řekneme: „Ne, musím nejprve porazit svou nečistotu, musím překonat svou žárlivost a nejistotu,“ pak budeme čekat další milióny let. Říkáme: „Bože, ty znáš mé srdce. Jsem neupřímný, jsem nečistý, jsem žárlivý. Můžeš mě jen tak odkopnout.“ Bůh ale říká: „Pojď ke Mně. Hodina udeřila. Nadešel tvůj čas, abys Mně běžel vstříc.“
+Úplně stejným způsobem musíme jít za Bohem, se všemi svými nedokonalostmi. Když řekneme: „ne, musím nejprve porazit svou nečistotu, musím překonat svou žárlivost a nejistotu,“ pak budeme čekat další milióny let. Říkáme: „bože, ty znáš mé srdce. jsem neupřímný, jsem nečistý, jsem žárlivý. můžeš mě jen tak odkopnout.“ bůh ale říká: „Pojď ke Mně. Hodina udeřila. Nadešel tvůj čas, abys Mně běžel vstříc.“
 
 Když Pán Kršna hrával v kteroukoli hodinu na flétnu, starala se Radha o něco jiného? Měla svého manžela, ale ona běžela k Pánu Kršnovi, protože přišlo volání. Jakmile hrál pán Kršna na flétnu, ať už to bylo v jakoukoli hodinu, Radha a gópí vždy přiběhly, protože hodina udeřila. Nechaly všeho. V tu chvíli nepřemýšlely: „Ó můj bože, my nejsme čisté.“ Přibíhaly za Pánem Kršnou, aby získaly jeho  náklonost, lásku a požehnání.
 
@@ -508,8 +503,8 @@ Pouhá vaše přítomnost dokáže inspirovat vaše přátelé, kolegy a vaše d
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:425-cs
-  :DATE-EVENT: 1996-09-02  
+  :cite-key: sca:425-cs
+  :date-event: 1996-09-02  
   :END:
   
 
@@ -540,9 +535,9 @@ Kdokoliv má víru v Boha, prochází v určitou chvíli skrze temný tunel. Kdy
 * Část V[fn:: SCA 426-435. Následují úryvky z interview, které Sri Chinmoy poskytl reportérovi The New York Times 3. dubna 1997 v restauraci Annam Brahma v newyorské Jamaice] 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:426e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:426e1-cs
   :END:
 
 
@@ -550,10 +545,10 @@ Kdokoliv má víru v Boha, prochází v určitou chvíli skrze temný tunel. Kdy
 * Reportér: Sri Chinmoyi, sledoval jsem videonahrávku, kde jste hovořil o jednotě a o svých kresbách. Co znamená sedm miliónů ptáčků, když hovoříte o jednotě?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:426-cs
-  :DATE-EVENT: 1997-04-03  
+  :genre: interview
+  :keywords:
+  :cite-key: sca:426-cs
+  :date-event: 1997-04-03  
   :END:
 
 
@@ -568,10 +563,10 @@ Jsem studentem míru a snažím se studovat tento předmět tím, že jej nabíz
 * Reportér: Jak jste se dostal do Queensu?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:427-cs
-  :DATE-EVENT: 1997-04-03  
+  :genre: interview
+  :keywords:
+  :cite-key: sca:427-cs
+  :date-event: 1997-04-03  
   :END:
 
 
@@ -582,10 +577,10 @@ Jsem studentem míru a snažím se studovat tento předmět tím, že jej nabíz
 * Reportér: Kdy v budově OSN meditujete?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:428-cs
-  :DATE-EVENT: 1997-04-03  
+  :genre: interview
+  :keywords:
+  :cite-key: sca:428-cs
+  :date-event: 1997-04-03  
   :END:
 
 
@@ -598,10 +593,10 @@ Prvním generálním tajemníkem byl Trygve Lie, potom Dag Hammarskjöld a po n�
 * Reportér: Jsou vaše aktivity určeny pro zaměstnance a delegáty?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:429-cs
-  :DATE-EVENT: 1997-04-03  
+  :genre: interview
+  :keywords:
+  :cite-key: sca:429-cs
+  :date-event: 1997-04-03  
   :END:
 
 
@@ -612,10 +607,10 @@ Prvním generálním tajemníkem byl Trygve Lie, potom Dag Hammarskjöld a po n�
 * Reportér: Vypadá to, že děláte spoustu věcí!
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:430-cs
-  :DATE-EVENT: 1997-04-03  
+  :genre: interview
+  :keywords:
+  :cite-key: sca:430-cs
+  :date-event: 1997-04-03  
   :END:
 
 
@@ -630,10 +625,10 @@ Ve všech sférách života je tomu stejně. Vloni se zdálo, že Carl Lewis ve 
 * Reportér: Hrajete basketbal?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:431-cs
-  :DATE-EVENT: 1997-04-03  
+  :genre: interview
+  :keywords:
+  :cite-key: sca:431-cs
+  :date-event: 1997-04-03  
   :END:
 
 
@@ -652,10 +647,10 @@ Ve všech sférách života je tomu stejně. Vloni se zdálo, že Carl Lewis ve 
 * Reportér: Mohu se vás zeptat na vaše kresby ptáčků? Tento nápad jste dostal asi před šesti lety, nemýlím-li se.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:432-cs
-  :DATE-EVENT: 1997-04-03  
+  :genre: interview
+  :keywords:
+  :cite-key: sca:432-cs
+  :date-event: 1997-04-03  
   :END:
 
 
@@ -677,14 +672,14 @@ Pocházíte z Japonska?
 * Reportér: Sri Chinmoyi, které postavy, ať už žijící nebo historické, nejvíce obdivujete?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:433-cs
-  :DATE-EVENT: 1997-04-03  
+  :genre: interview
+  :keywords:
+  :cite-key: sca:433-cs
+  :date-event: 1997-04-03  
   :END:
 
 
-/Sri Chinmoy:/ Pokud jde o ty současné, je hodně lidí, které obdivuji, ale na prvním místě je prezident Gorbačov. Po něm je to Matka Tereza, současný papež[fn:: SCA 433. V době, kdy Sri Chinmoy odpovídal, byl papežem Jan Pavel II] a prezident Nelson Mandela. Jsou i další světové postavy, se kterými jsem se setkal a které velmi obdivuji, jako arcibiskup Desmond Tutu, prezident Václav Havel a několik generálních tajemníků OSN.
+/Sri Chinmoy:/ pokud jde o ty současné, je hodně lidí, které obdivuji, ale na prvním místě je prezident gorbačov. po něm je to matka tereza, současný papež[fn:: SCA 433. V době, kdy Sri Chinmoy odpovídal, byl papežem Jan Pavel II] a prezident Nelson Mandela. Jsou i další světové postavy, se kterými jsem se setkal a které velmi obdivuji, jako arcibiskup Desmond Tutu, prezident Václav Havel a několik generálních tajemníků OSN.
 
 Rád bych něco řekl o těch prvně zmíněných. V Matce Tereze nacházím dva aspekty: matku a sestru. V jednu chvíli je matkou soucitu; v dalším okamžiku je sestrou náklonnosti. Když ji vidím a hovořím s ní, žehná mi, jako matka žehná svému dítěti, a prokazuje mi nejvyšší sesterskou náklonnost. 
 
@@ -706,10 +701,10 @@ Další vzácnou vlastností Gorbačova je, že je natolik upřímný a odvážn
 
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:434-cs
-  :DATE-EVENT: 1997-04-03  
+  :genre: interview
+  :keywords:
+  :cite-key: sca:434-cs
+  :date-event: 1997-04-03  
   :END:
 
 
@@ -720,10 +715,10 @@ Další vzácnou vlastností Gorbačova je, že je natolik upřímný a odvážn
 * Reportér: Řekl jste: „Ten, kdo slouží, se modlí“?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:435-cs
-  :DATE-EVENT: 1997-04-03  
+  :genre: interview
+  :keywords:
+  :cite-key: sca:435-cs
+  :date-event: 1997-04-03  
   :END:
 
 /Sri Chinmoy:/ Zajisté! Sloužíme druhým, protože je vidíme jako ztělesnění Boha. Bůh se projevuje skrze každou lidskou bytost určitým způsobem. V rodině může mít každý jiné povolání. Jeden bude lékařem, druhý hudebníkem a tak dále. Jsou ale jedna rodina. Večer se sejdou a jedí společně. Každý člověk je jedinečný svým vlastním způsobem, a tato jedinečnost musí být použita pro zlepšení tohoto světa. 
@@ -731,19 +726,3 @@ Další vzácnou vlastností Gorbačova je, že je natolik upřímný a odvážn
 Je naprostá pravda, že ten, kdo slouží Bohu, se rovněž modlí, a stejně tak ten, kdo se modlí, slouží také Bohu. Řekněme, že se někdo modlí v jeskyni v Himálajích. Když se stane dobrým člověkem, bude na zemi o jednoho nebožského člověka méně. Tímto způsobem člověk, který se modlí v himálajských jeskyních, slouží rovněž lidstvu.
 
 Naproti tomu ten, kdo nabízí svou službu, se také zvláštním způsobem modlí. Neaspirující člověk nezasvětí svůj život ani na jedinou vteřinu. Dobrý člověk zasvětí celý svůj život. Toto zasvěcení není nic jiného než aspirace. Člověk, který ztělesňuje světlo, nemůže být oddělen od člověka, který nabízí své světlo celému světu.
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

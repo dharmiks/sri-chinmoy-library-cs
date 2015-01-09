@@ -1,12 +1,7 @@
-#+TITLE: Můj Pane Nejvyšší, máš chvilku?
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Můj Pane Nejvyšší, máš chvilku?
 
   :PROPERTIES:
+  :language: cs
   :book-number:
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -26,7 +21,7 @@
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:1-cs
+  :cite-key: mlsm:1-cs
   :END:
 
 
@@ -48,7 +43,7 @@ duchovní i neduchovní.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:2-cs
+  :cite-key: mlsm:2-cs
   :END:
 
 
@@ -74,7 +69,7 @@ v každou chvíli zde na zemi.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:3-cs
+  :cite-key: mlsm:3-cs
   :END:
 
 
@@ -100,7 +95,7 @@ na univerzitě oddanosti.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:4-cs
+  :cite-key: mlsm:4-cs
   :END:
 
 
@@ -122,7 +117,7 @@ staneš-li se dechem dobroty.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:5-cs
+  :cite-key: mlsm:5-cs
   :END:
 
 
@@ -144,7 +139,7 @@ uspokojením naplnění Mého Příkazu.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:6-cs
+  :cite-key: mlsm:6-cs
   :END:
 
 
@@ -171,7 +166,7 @@ vysoko, výše, nejvýše.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:7-cs
+  :cite-key: mlsm:7-cs
   :END:
 
 
@@ -194,7 +189,7 @@ fyzickou mysl ignorovalo, tak ji zbožňuješ.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:8-cs
+  :cite-key: mlsm:8-cs
   :END:
 
 
@@ -214,7 +209,7 @@ prostě se spřátel s ochráncem-víry.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:9-cs
+  :cite-key: mlsm:9-cs
   :END:
 
 
@@ -242,7 +237,7 @@ jen o dokonalost tvé aspirace.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:10-cs
+  :cite-key: mlsm:10-cs
   :END:
 
 
@@ -267,7 +262,7 @@ pláčem upřímnosti svého srdce.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:11-cs
+  :cite-key: mlsm:11-cs
   :END:
 
 
@@ -291,7 +286,7 @@ za svého vlastního, zcela vlastního.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:12-cs
+  :cite-key: mlsm:12-cs
   :END:
 
 
@@ -319,7 +314,7 @@ a v Mých ozařujících úsměvech.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:13-cs
+  :cite-key: mlsm:13-cs
   :END:
 
 
@@ -343,7 +338,7 @@ a tvá neteř letargický život.“
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:14-cs
+  :cite-key: mlsm:14-cs
   :END:
 
 
@@ -360,7 +355,7 @@ nepotřebuje protahovací cvičení.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:15-cs
+  :cite-key: mlsm:15-cs
   :END:
 
 
@@ -379,7 +374,7 @@ Bůh překvapuje člověka tím, že dokazuje,
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:16-cs
+  :cite-key: mlsm:16-cs
   :END:
 
 
@@ -398,7 +393,7 @@ bezchybným konáním nemožného.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:17-cs
+  :cite-key: mlsm:17-cs
   :END:
 
 
@@ -415,7 +410,7 @@ Bezvýhradně miluji svou večerní utišenou mysl.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:18-cs
+  :cite-key: mlsm:18-cs
   :END:
 
 
@@ -433,7 +428,7 @@ neobjímáš Bohem naplněnou budoucnost?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:19-cs
+  :cite-key: mlsm:19-cs
   :END:
 
 
@@ -452,7 +447,7 @@ je balón naplněný vzduchem zoufalství.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:20-cs
+  :cite-key: mlsm:20-cs
   :END:
 
 
@@ -471,7 +466,7 @@ na bezpodmínečné náklady mého Pána.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:21-cs
+  :cite-key: mlsm:21-cs
   :END:
 
 
@@ -488,7 +483,7 @@ je nesrovnatelnou silou.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:22-cs
+  :cite-key: mlsm:22-cs
   :END:
 
 
@@ -505,7 +500,7 @@ Ticho mého srdce je večeří sytící Boha.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:23-cs
+  :cite-key: mlsm:23-cs
   :END:
 
 
@@ -523,7 +518,7 @@ aby dospělo k paláci-výšky-soucitu.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:24-cs
+  :cite-key: mlsm:24-cs
   :END:
 
 
@@ -541,7 +536,7 @@ mé srdce aspirace a život oddanosti.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:25-cs
+  :cite-key: mlsm:25-cs
   :END:
 
 
@@ -558,7 +553,7 @@ Jsem trpícím na plný úvazek.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:26-cs
+  :cite-key: mlsm:26-cs
   :END:
 
 
@@ -577,7 +572,7 @@ jdu se hřmotem.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:27-cs
+  :cite-key: mlsm:27-cs
   :END:
 
 
@@ -596,7 +591,7 @@ pro můj život-manifestace-Boha cizincem.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:28-cs
+  :cite-key: mlsm:28-cs
   :END:
 
 
@@ -613,7 +608,7 @@ Dnes zjišťuji, že je absolutně skutečný.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:29-cs
+  :cite-key: mlsm:29-cs
   :END:
 
 
@@ -633,7 +628,7 @@ který brzy začne?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: MLSM:30-cs
+  :cite-key: mlsm:30-cs
   :END:
 
 
@@ -656,15 +651,3 @@ Kdy, můj Pane Nejvyšší?
 píseň odevzdání života tvého srdce.“
 
 #+END_VERSE
-
-
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

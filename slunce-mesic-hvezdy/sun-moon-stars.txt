@@ -1,10 +1,6 @@
-#+TITLE: Slunce, měsíc, hvězdy
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-* Index
+* Slunce, měsíc, hvězdy
   :PROPERTIES:
+  :language: cs
   :book-number:
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -19,8 +15,8 @@
 
 * 1.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:1-cs
+  :genre: aphorism
+  :cite-key: sms:1-cs
   :END:
 
 
@@ -30,8 +26,8 @@ Vnější slunce věčně, bezesně a bez dechu pracuje, aby dokázalo něco ú�
 
 * 2.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:2-cs
+  :genre: aphorism
+  :cite-key: sms:2-cs
   :END:
 
 
@@ -42,8 +38,8 @@ Večerní slunce nám dává moře aspirace.
 
 * 3.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:3-cs
+  :genre: aphorism
+  :cite-key: sms:3-cs
   :END:
 
 
@@ -53,8 +49,8 @@ Pokaždé, když pohlédnu na úplněk, získávám extázi vůně lásky.
 
 * 4.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:4-cs
+  :genre: aphorism
+  :cite-key: sms:4-cs
   :END:
 
 
@@ -64,8 +60,8 @@ Pokaždé, když pohlédnu na úplněk, získávám extázi vůně lásky.
 
 * 5.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:5-cs
+  :genre: aphorism
+  :cite-key: sms:5-cs
   :END:
 
 
@@ -75,8 +71,8 @@ Ticho zapadajícího slunce tak sladce a soucitně promlouvá k mému srdci.
 
 * 6.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:6-cs
+  :genre: aphorism
+  :cite-key: sms:6-cs
   :END:
 
 
@@ -86,8 +82,8 @@ Slunce mi říká, abych dával v hojné míře a nikdy si nepůjčoval.
 
 * 7.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:7-cs
+  :genre: aphorism
+  :cite-key: sms:7-cs
   :END:
 
 
@@ -97,8 +93,8 @@ Když se modlím a medituji, vidím na obloze svého srdce slunce sebepřekonán
 
 * 8.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:8-cs
+  :genre: aphorism
+  :cite-key: sms:8-cs
   :END:
 
 
@@ -108,8 +104,8 @@ Sladký šepot večerního slunce okamžitě uklidňuje mou rozbouřenou mysl.
 
 * 9.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:9-cs
+  :genre: aphorism
+  :cite-key: sms:9-cs
   :END:
 
 
@@ -121,8 +117,8 @@ Večerní slunce vzdychá, když nemedituji.
 
 * 10.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:10-cs
+  :genre: aphorism
+  :cite-key: sms:10-cs
   :END:
 
 
@@ -132,8 +128,8 @@ Večerní slunce vzdychá, když nemedituji.
 
 * 11.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:11-cs
+  :genre: aphorism
+  :cite-key: sms:11-cs
   :END:
 
 
@@ -143,8 +139,8 @@ Večerní slunce vzdychá, když nemedituji.
 
 * 12.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:12-cs
+  :genre: aphorism
+  :cite-key: sms:12-cs
   :END:
 
 
@@ -154,8 +150,8 @@ Každá hvězda není ničím jiným než kouzelným a přitažlivým úsměvem.
 
 * 13.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:13-cs
+  :genre: aphorism
+  :cite-key: sms:13-cs
   :END:
 
 
@@ -165,8 +161,8 @@ Kéž jsem každý den připraven ocenit krásu Matky-Země, když slunce zaklep
 
 * 14.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:14-cs
+  :genre: aphorism
+  :cite-key: sms:14-cs
   :END:
 
 
@@ -176,8 +172,8 @@ Kéž jsem každý den připraven ocenit krásu Matky-Země, když slunce zaklep
 
 * 15.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:15-cs
+  :genre: aphorism
+  :cite-key: sms:15-cs
   :END:
 
 
@@ -187,8 +183,8 @@ Slunce vroucně miluje dokonce i toho, kdo vstává pozdě.
 
 * 16.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:16-cs
+  :genre: aphorism
+  :cite-key: sms:16-cs
   :END:
 
 
@@ -199,8 +195,8 @@ Měsíc pomáhá zvětšovat radost v našem životě.
 
 * 17.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:17-cs
+  :genre: aphorism
+  :cite-key: sms:17-cs
   :END:
 
 Chci, aby slunce bylo vládcem mého života. 
@@ -212,8 +208,8 @@ Chci, aby měsíc byl snílkem mého srdce.
 
 * 18.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:18-cs
+  :genre: aphorism
+  :cite-key: sms:18-cs
   :END:
 
 
@@ -225,8 +221,8 @@ Měsíc ke mně přichází jako vypravěč příběhů.
 
 * 19.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:19-cs
+  :genre: aphorism
+  :cite-key: sms:19-cs
   :END:
 
 
@@ -236,8 +232,8 @@ Měsíc ke mně přichází jako vypravěč příběhů.
 
 * 20.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:20-cs
+  :genre: aphorism
+  :cite-key: sms:20-cs
   :END:
 
 
@@ -251,8 +247,8 @@ Měsíc ke mně přichází jako vypravěč příběhů.
 
 * 21.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:21-cs
+  :genre: aphorism
+  :cite-key: sms:21-cs
   :END:
 
 
@@ -262,8 +258,8 @@ Jestliže chceš zářit jako slunce, začni zpívat píseň sebenabízení své
 
 * 22.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:22-cs
+  :genre: aphorism
+  :cite-key: sms:22-cs
   :END:
 
 
@@ -273,8 +269,8 @@ Jestliže chceš zářit jako slunce, začni zpívat píseň sebenabízení své
 
 * 23.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:23-cs
+  :genre: aphorism
+  :cite-key: sms:23-cs
   :END:
 
 
@@ -284,8 +280,8 @@ Jestliže chceš zářit jako slunce, začni zpívat píseň sebenabízení své
 
 * 24.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:24-cs
+  :genre: aphorism
+  :cite-key: sms:24-cs
   :END:
 
 
@@ -295,8 +291,8 @@ Je-li pravda, že mysl je nocí nevědomostí, pak je také pravda, že srdce je
 
 * 25.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:25-cs
+  :genre: aphorism
+  :cite-key: sms:25-cs
   :END:
 
 
@@ -306,8 +302,8 @@ Nechci být vlastníkem východu slunce, ale chci být milovníkem východu slun
 
 * 26.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:26-cs
+  :genre: aphorism
+  :cite-key: sms:26-cs
   :END:
 
 
@@ -317,8 +313,8 @@ Nechci být vlastníkem východu slunce, ale chci být milovníkem východu slun
 
 * 27.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:27-cs
+  :genre: aphorism
+  :cite-key: sms:27-cs
   :END:
 
 
@@ -330,8 +326,8 @@ Nové slunce je pro novou naději.
 
 * 28.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:28-cs
+  :genre: aphorism
+  :cite-key: sms:28-cs
   :END:
 
 
@@ -341,8 +337,8 @@ Vnější slunce a vnější měsíc jsou každý den stejné, nikoliv však vni
 
 * 29.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:29-cs
+  :genre: aphorism
+  :cite-key: sms:29-cs
   :END:
 
 
@@ -352,8 +348,8 @@ Má noc zápolení byla, má noc zápolení stále je. Ale má noc zápolení se
 
 * 30.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:30-cs
+  :genre: aphorism
+  :cite-key: sms:30-cs
   :END:
 
 
@@ -363,8 +359,8 @@ Připravenost mé mysli běží rychle, velmi rychle ke slunci.
 
 * 31.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:31-cs
+  :genre: aphorism
+  :cite-key: sms:31-cs
   :END:
 
 
@@ -374,8 +370,8 @@ Ochota mého srdce běží rychle, velmi rychle k měsíci.
 
 * 32.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:32-cs
+  :genre: aphorism
+  :cite-key: sms:32-cs
   :END:
 
 
@@ -385,8 +381,8 @@ Dychtivost mé mysli běží rychle, velmi rychle ke hvězdám.
 
 * 33.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:33-cs
+  :genre: aphorism
+  :cite-key: sms:33-cs
   :END:
 
 
@@ -396,8 +392,8 @@ Plamen odpovědnosti dává zrod slunci spokojenosti.
 
 * 34.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:34-cs
+  :genre: aphorism
+  :cite-key: sms:34-cs
   :END:
 
 
@@ -407,8 +403,8 @@ Kéž mé srdce každý den zpívá s vycházejícím sluncem.
 
 * 35.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:35-cs
+  :genre: aphorism
+  :cite-key: sms:35-cs
   :END:
 
 
@@ -418,8 +414,8 @@ Kéž mé srdce každý den tančí s vycházejícím měsícem.
 
 * 36.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:36-cs
+  :genre: aphorism
+  :cite-key: sms:36-cs
   :END:
 
 
@@ -429,8 +425,8 @@ Kéž mé srdce každý den tančí s vycházejícím měsícem.
 
 * 37.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:37-cs
+  :genre: aphorism
+  :cite-key: sms:37-cs
   :END:
 
 
@@ -440,8 +436,8 @@ Kéž mé srdce každý den tančí s vycházejícím měsícem.
 
 * 38.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:38-cs
+  :genre: aphorism
+  :cite-key: sms:38-cs
   :END:
 
 
@@ -451,8 +447,8 @@ Ranní hvězdy mi říkají, odkud pocházím: z neznámého.
 
 * 39.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:39-cs
+  :genre: aphorism
+  :cite-key: sms:39-cs
   :END:
 
 
@@ -462,8 +458,8 @@ Večerní hvězdy mi říkají, kam musím jít: k nepoznatelnému.
 
 * 40.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:40-cs
+  :genre: aphorism
+  :cite-key: sms:40-cs
   :END:
 
 
@@ -473,8 +469,8 @@ Má mysl koncentrace je požehnáním slunce.
 
 * 41.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:41-cs
+  :genre: aphorism
+  :cite-key: sms:41-cs
   :END:
 
 
@@ -484,8 +480,8 @@ Mé srdce meditace je požehnáním měsíce.
 
 * 42.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:42-cs
+  :genre: aphorism
+  :cite-key: sms:42-cs
   :END:
 
 
@@ -495,8 +491,8 @@ Když radostně dávám, stávám se vycházející hvězdou.
 
 * 43.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:43-cs
+  :genre: aphorism
+  :cite-key: sms:43-cs
   :END:
 
 
@@ -506,8 +502,8 @@ Když váhavě přijímám, stávám se zapadající hvězdou.
 
 * 44.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:44-cs
+  :genre: aphorism
+  :cite-key: sms:44-cs
   :END:
 
 
@@ -517,8 +513,8 @@ Ranní hvězda mi říká, abych nemyslel na minulost.
 
 * 45.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:45-cs
+  :genre: aphorism
+  :cite-key: sms:45-cs
   :END:
 
 
@@ -528,8 +524,8 @@ Večerní hvězda mi říká, abych myslel pouze na budoucnost.
 
 * 46.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:46-cs
+  :genre: aphorism
+  :cite-key: sms:46-cs
   :END:
 
 
@@ -539,8 +535,8 @@ Slib dosažení získávám od vycházejícího slunce.
 
 * 47.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:47-cs
+  :genre: aphorism
+  :cite-key: sms:47-cs
   :END:
 
 
@@ -550,8 +546,8 @@ Naplnění dokonalosti získávám od vycházejícího měsíce.
 
 * 48.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:48-cs
+  :genre: aphorism
+  :cite-key: sms:48-cs
   :END:
 
 
@@ -561,8 +557,8 @@ Má mysl je pláčem stoupajícím ke slunci.
 
 * 49.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:49-cs
+  :genre: aphorism
+  :cite-key: sms:49-cs
   :END:
 
 
@@ -572,8 +568,8 @@ Mé srdce je úsměvem sestupujícím ze slunce.
 
 * 50.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:50-cs
+  :genre: aphorism
+  :cite-key: sms:50-cs
   :END:
 
 
@@ -583,8 +579,8 @@ Slunce mi říká: „Neboj se minulosti. Můj soucit se o tebe postará.“
 
 * 51.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:51-cs
+  :genre: aphorism
+  :cite-key: sms:51-cs
   :END:
 
 
@@ -594,8 +590,8 @@ Měsíc mi říká: „Neboj se budoucnosti. Má láska se o tebe postará.“
 
 * 52.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:52-cs
+  :genre: aphorism
+  :cite-key: sms:52-cs
   :END:
 
 
@@ -605,8 +601,8 @@ Má utrápená mysl je kolébána konejšivými večerními hvězdami.
 
 * 53.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:53-cs
+  :genre: aphorism
+  :cite-key: sms:53-cs
   :END:
 
 
@@ -616,8 +612,8 @@ Ranní hvězdy mi slibují, že mě požehnají květy přeměny mého života.
 
 * 54.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:54-cs
+  :genre: aphorism
+  :cite-key: sms:54-cs
   :END:
 
 
@@ -627,8 +623,8 @@ Hvězdy žádají mou mysl, aby ukončila svou neklidnou a zbytečnou hru.
 
 * 55.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:55-cs
+  :genre: aphorism
+  :cite-key: sms:55-cs
   :END:
 
 
@@ -638,8 +634,8 @@ Hvězdy žádají mé srdce, aby začalo svou nezrozenou a nesmrtelnou hru.
 
 * 56.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:56-cs
+  :genre: aphorism
+  :cite-key: sms:56-cs
   :END:
 
 
@@ -649,8 +645,8 @@ Rannímu slunci radostně nabízím své modlící se srdce.
 
 * 57.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:57-cs
+  :genre: aphorism
+  :cite-key: sms:57-cs
   :END:
 
 
@@ -660,8 +656,8 @@ Večernímu slunci bezpodmínečně nabízím svůj milující život.
 
 * 58.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:58-cs
+  :genre: aphorism
+  :cite-key: sms:58-cs
   :END:
 
 
@@ -671,8 +667,8 @@ Obloha bez míru je noc bez měsíce.
 
 * 59.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:59-cs
+  :genre: aphorism
+  :cite-key: sms:59-cs
   :END:
 
 
@@ -682,16 +678,9 @@ Jak bych si přál, abych mohl být ve svém vnějším životě tak krásný ja
 
 * 60.
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: SMS:60-cs
+  :genre: aphorism
+  :cite-key: sms:60-cs
   :END:
 
 
 Tiché oko slunce je vskutku tváří blaženosti vesmíru. 
-
-
-#+SETUPFILE: ~/.org-templates/level-0.org
-# Local Variables:
-# mode: org
-# End:
-

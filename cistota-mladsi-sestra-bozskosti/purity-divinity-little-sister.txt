@@ -1,20 +1,15 @@
-#+TITLE: Čistota: mladší sestra božskosti
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Čistota: mladší sestra božskosti
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :BOOK-YEAR: 2012
-  :PUBLISHER: (knižně nevydáno)
-  :CITE-KEY: PDLS-cs
-  :GENRE: discourse
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :book-year: 2012
+  :publisher: (knižně nevydáno)
+  :cite-key: PDLS-cs
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -23,9 +18,9 @@
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PDLS:1-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: pdls:1-cs
   :END:
 
 
@@ -50,9 +45,9 @@ Všichni duchovní aspiranti bez výjimky spatřili a pocítili potřebu čistot
 * Vnitřní pročištění
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PDLS:2-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: pdls:2-cs
   :END:
 
 
@@ -73,9 +68,9 @@ Abyste získali čistotu v průběhu vaší meditace, je třeba pokusit se při
 * Emoce lidské a božské
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PDLS:3-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: pdls:3-cs
   :END:
 
 
@@ -103,9 +98,9 @@ Ve vnitřním životě není vůbec obtížné být odpoutaný od našeho vněj�
 * Překážky na duchovní cestě
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PDLS:4-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: pdls:4-cs
   :END:
 
 
@@ -115,7 +110,7 @@ Když si začneme být vědomí božského vnitřního života, když se začnem
 
 Když vedeme běžný život, nemáme intenzitu. Dnes máme jednu touhu, zítra čtyři a další den deset nebo dvacet. Dokonce i ve snaze dosáhnout a naplnit naše vlastní touhy jsme intenzivní jen zřídka. Naše touhy jsou pouze přání. Nemáme schopnost nebo snahu pracovat na jejich naplnění. Chceme být bohatí, slavní, velcí, oslniví, nebo krásní, nedokážeme ale pracovat na dosažení těchto tužeb, dokonce se za jejich naplnění nebudeme ochotni ani upřímně modlit. 
 
-Když hledající vstoupí na duchovní cestu a nepřijme ji celým svým srdcem, nebo pokud není dostatečně pokročilý, mohou během jeho meditace vyjít do popředí ty stejné touhy. Začne přemýšlet: „Tento člověk je velice bohatý, tento velmi krásný, tento má některé velmi dobré vlastnosti, které já nemám.“ Zatím, co se modlí pro Mír, Světlo a Blaženost, jedna část jeho bytosti může vědomě a záměrně uchovávat touhu stát se multimilionářem. V ten okamžik se intenzita meditace hledajícího střetne s těmito pozemskými touhami. Co se potom stane? Intenzita meditace vstoupí do těchto tužeb a učiní je mnohem silnějšími, než původně byly. Nevědomě, či vědomě dovolujeme, aby do nás vstupovaly myšlenky, a intenzita naší meditace je zvětšuje a posilňuje. Nejvyšší nám ale tyto překážky nedal. Dal nám aspiraci, abychom se modlili pro Mír, Světlo a Blaženost. Ztotožňovali jsme se s touhami po mnoho, mnoho let. A když chceme toto spojení přerušit, naši staří přátelé nám řeknou: „Kam jdeš? Proč bychom ti měli dovolit jít do jiné místnosti? Ty s námi nejsi spokojený? Dokonce i když s námi nejsi spokojený, jedl jsi s námi u jednoho stolu. Teď je čas zaplatit. Nedovolíme ti odejít.“ Budou bojovat vší silou, aby nás vrátili do svého panství. S velkými obtížemi jsme vyšli z jejich místnosti a vstoupili do místnosti aspirace. Poté tyto touhy přicházejí a pochlebují nám. Dávají nám pocítit, že nepotřebujeme tyto aspirující vlastnosti, že Mír není skutečný, Světlo není skutečné, Blaženost není skutečná. Říkají: „Nezůstávej tam. Vrať se k nám, tam, kde je vše skutečné. My naplníme tebe a ty naplníš nás.“
+Když hledající vstoupí na duchovní cestu a nepřijme ji celým svým srdcem, nebo pokud není dostatečně pokročilý, mohou během jeho meditace vyjít do popředí ty stejné touhy. Začne přemýšlet: „tento člověk je velice bohatý, tento velmi krásný, tento má některé velmi dobré vlastnosti, které já nemám.“ zatím, co se modlí pro mír, světlo a blaženost, jedna část jeho bytosti může vědomě a záměrně uchovávat touhu stát se multimilionářem. v ten okamžik se intenzita meditace hledajícího střetne s těmito pozemskými touhami. co se potom stane? intenzita meditace vstoupí do těchto tužeb a učiní je mnohem silnějšími, než původně byly. nevědomě, či vědomě dovolujeme, aby do nás vstupovaly myšlenky, a intenzita naší meditace je zvětšuje a posilňuje. nejvyšší nám ale tyto překážky nedal. dal nám aspiraci, abychom se modlili pro mír, světlo a blaženost. ztotožňovali jsme se s touhami po mnoho, mnoho let. a když chceme toto spojení přerušit, naši staří přátelé nám řeknou: „kam jdeš? proč bychom ti měli dovolit jít do jiné místnosti? ty s námi nejsi spokojený? dokonce i když s námi nejsi spokojený, jedl jsi s námi u jednoho stolu. teď je čas zaplatit. nedovolíme ti odejít.“ budou bojovat vší silou, aby nás vrátili do svého panství. s velkými obtížemi jsme vyšli z jejich místnosti a vstoupili do místnosti aspirace. poté tyto touhy přicházejí a pochlebují nám. dávají nám pocítit, že nepotřebujeme tyto aspirující vlastnosti, že mír není skutečný, světlo není skutečné, blaženost není skutečná. Říkají: „Nezůstávej tam. Vrať se k nám, tam, kde je vše skutečné. My naplníme tebe a ty naplníš nás.“
 
 Je to skrze neosvícenou mysl, jak se nás touhy pokouší získat dokonce i po té, co jsme vstoupili do života aspirace. Nejlepší věc, co můžeme udělat, je nikdy nedovolit žádné nečistotě ve formě touhy, pochybnosti, úzkosti, žárlivosti nebo jakýchkoliv neaspirujících myšlenek vstoupit do naší mysli v průběhu meditace. Vstoupí-li do nás touha, když nemeditujeme, není dobré ji uchovávat; je ale nekonečně horší ji uchovávat během naší meditace. Uchováváme-li touhu nebo nějakou nečistou myšlenku během meditace, jednoduše zesilujeme moc této negativní síly a ztěžujeme si tak naši duchovní cestu.
 
@@ -130,9 +125,9 @@ Půjdeme-li hluboko dovnitř, můžeme každou nesnáz vnímat jako laskavost. D
 * Čistotnost a čistota
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PDLS:5-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: pdls:5-cs
   :END:
 
 
@@ -157,15 +152,15 @@ Nabídneme-li náš životní dech, jsme čistí jako květina. Teprve v ten ok
 * Celibát
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PDLS:6-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: pdls:6-cs
   :END:
 
 
-Abychom dosáhli Seberealizace, celibát je zcela nezbytný. Nemůžeme ale dosáhnout Seberealizace mžiknutím oka. K jejímu dosažení je třeba čas, je třeba aspirace a meditace. Student nezíská mistrovský titul za jeden den či za měsíc; a realizace Boha není pouhé studium, ale nanejvýš obtížný předmět. Trvá mnoho let a mnoho inkarnací, než ji získáme. Je to velmi dlouhá cesta. Řeknete-li začátečníkovi, že se musí okamžitě zcela vzdát svého nižšího vitálního života, řekne: „Ó, to je ale nemožné! Duchovní život je pro mě vzdáleným pláčem.“ Pokud se bude muset vzdát všech svých nižších vitálních sklonů v ten okamžik, kdy vstoupí na duchovní cestu, potom se na ni nikdy nevydá. Opustí-li ale hledající svůj nižší vitální život postupně -- poté, co se bude věnovat duchovnímu životu po mnoho let, přijde čas, kdy bude schopen žít zcela v celibátu. Každý jedinec má svoji vlastní úroveň aspirace. Aspiruje-li někdo jednu minutu, medituje jednu minutu a po zbytek dne zůstane ve vnějším světě ve zvířecím vědomí, domníváte se, že následující den realizuje Boha? Ne! Je-li někdo začátečník, připravený získat uspokojení z trochy radosti, z trochy světla, potom se nesmí pokoušet vzdát se sexuálního života najednou. Začátečníkovi radím: „Pomalý a vytrvalý vyhrává závod.“ A když postupuje dopředu, když dělá pokrok v duchovním životě, potřeba po nižších vitálních aktivitách se automaticky zmenší. Do té doby by se měl snažit dělat vše, aby vedl čistý, upřímný život odpovídající jeho vlastní úrovni.
+Abychom dosáhli Seberealizace, celibát je zcela nezbytný. Nemůžeme ale dosáhnout Seberealizace mžiknutím oka. K jejímu dosažení je třeba čas, je třeba aspirace a meditace. Student nezíská mistrovský titul za jeden den či za měsíc; a realizace Boha není pouhé studium, ale nanejvýš obtížný předmět. Trvá mnoho let a mnoho inkarnací, než ji získáme. Je to velmi dlouhá cesta. Řeknete-li začátečníkovi, že se musí okamžitě zcela vzdát svého nižšího vitálního života, řekne: „Ó, to je ale nemožné! duchovní život je pro mě vzdáleným pláčem.“ pokud se bude muset vzdát všech svých nižších vitálních sklonů v ten okamžik, kdy vstoupí na duchovní cestu, potom se na ni nikdy nevydá. opustí-li ale hledající svůj nižší vitální život postupně -- poté, co se bude věnovat duchovnímu životu po mnoho let, přijde čas, kdy bude schopen žít zcela v celibátu. každý jedinec má svoji vlastní úroveň aspirace. aspiruje-li někdo jednu minutu, medituje jednu minutu a po zbytek dne zůstane ve vnějším světě ve zvířecím vědomí, domníváte se, že následující den realizuje boha? ne! je-li někdo začátečník, připravený získat uspokojení z trochy radosti, z trochy světla, potom se nesmí pokoušet vzdát se sexuálního života najednou. začátečníkovi radím: „Pomalý a vytrvalý vyhrává závod.“ A když postupuje dopředu, když dělá pokrok v duchovním životě, potřeba po nižších vitálních aktivitách se automaticky zmenší. Do té doby by se měl snažit dělat vše, aby vedl čistý, upřímný život odpovídající jeho vlastní úrovni.
  
-V okamžiku, kdy aspirující dosáhne úrovně, kde může říct: „Chci neomezené světlo, neomezenou Radost, neomezenou Blaženost, neomezený Mír: Chci jít daleko, dále, nejdále,“ potom musí věnovat veškerou pozornost pročištění svého vitálního života. Je-li jeho cílem Realizace Boha, Nekonečnost, Věčnost, Nesmrtelnost, potom musí aspirovat celým svým srdcem: fyzicky, vitálně, mentálně, duševně, celou svojí bytostí, vším co má a vším, čím je. V ten okamžik musí zcela dodržovat celibát, nejen fyzicky, ale i mentálně. Musí cítit, že ho sexuální život svazuje k nejnižší úrovni vědomí země, zatímco to, po čem touží, je nejvyšší vědomí Boha. Bůh je uvnitř země i uvnitř člověka. Ale člověk bude schopný božsky pracovat až poté, co odevzdá všechna svá připoutání k zemi a k člověku a realizuje svoji jednotu s Bohem.
+V okamžiku, kdy aspirující dosáhne úrovně, kde může říct: „chci neomezené světlo, neomezenou radost, neomezenou blaženost, neomezený mír: chci jít daleko, dále, nejdále,“ potom musí věnovat veškerou pozornost pročištění svého vitálního života. je-li jeho cílem realizace boha, nekonečnost, věčnost, nesmrtelnost, potom musí aspirovat celým svým srdcem: fyzicky, vitálně, mentálně, duševně, celou svojí bytostí, vším co má a vším, čím je. V ten okamžik musí zcela dodržovat celibát, nejen fyzicky, ale i mentálně. Musí cítit, že ho sexuální život svazuje k nejnižší úrovni vědomí země, zatímco to, po čem touží, je nejvyšší vědomí Boha. Bůh je uvnitř země i uvnitř člověka. Ale člověk bude schopný božsky pracovat až poté, co odevzdá všechna svá připoutání k zemi a k člověku a realizuje svoji jednotu s Bohem.
  
 Celibátu je možno dosáhnout jen řádným postupem. Pokud vstoupíte do duchovního života a řeknete: „Dnes porazím všechny své nižší vitální sklony,“ potom jste hlupák. Zítra vaše mysl začne zpochybňovat nutnost těchto sebe-zamítnutí a vaše vitálno vás bude všemi možnými způsoby týrat. Není-li vaše vitálno připravené, není-li dostatečně čisté, vzepře se pod touto drsnou disciplínou a zničí vaši aspiraci, nebo se začne vzpírat vaše tělo a zlomí se. Potlačujete-li své vitální potřeby, aniž byste měli dostatečnou čistotu, potom po dvou nebo třech letech nebo dokonce už po pár měsících znovu vyjdou do popředí a to nanejvýš prudce. Ovládáte-li nižší vitálno pod tlakem, s velkými obtížemi a není to něco spontánního a uspokojujícího, potom budete jednoho dne vystaveni pokušení mimo hranice své kapacity. Vaše vitálno vyjde do popředí jako sopka a vy budete téměř jako šílení. V tu chvíli se lidské bytosti chovají jako zvířata. Toto se přihodilo mnoha, mnoha aspirujícím v Indii poté, co pět nebo šest let potlačovali vitálno bez řádného pročištění. Je-li hledající stále pokoušen vitálním životem a neustále své touhy potlačuje, nikdy ničeho nedosáhne. Může je přeměnit jen skrze spontánní vnitřní uvědomění, že sexuální život pro něho není důležitý.
  
@@ -191,13 +186,13 @@ Pravý aspirující pláče pro to nejvyšší a nejhlubší v něm v každém
 * Touha a aspirace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PDLS:7-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: pdls:7-cs
   :END:
 
 
-Touha zahrnuje vše, co je konečné. Ať je to potěšení, či vášeň, co vidíme v konečném světě, patří to do oblasti touhy. Dokud se vitálno zcela nepročistí, lidské vědomí bude cítit, že potěšení je něco velmi sladkého. Je to něco, co nazýváme „pohodlí“. Pohodlí a potěšení jdou ruku v ruce. Existují dvě indická slova: /aram/, které znamená „pohodlí“ a /haram/, které znamená „velmi nebezpečné a zničující“. Náš bývalý předseda vlády Nehru říkával: /Aram je haram/. Pohodlí se zdá být něčím příjemným, ale v podstatě je to totéž jako potěšení v podobě vášně a je nevyhnutelně následováno zničením.
+Touha zahrnuje vše, co je konečné. Ať je to potěšení, či vášeň, co vidíme v konečném světě, patří to do oblasti touhy. Dokud se vitálno zcela nepročistí, lidské vědomí bude cítit, že potěšení je něco velmi sladkého. Je to něco, co nazýváme „pohodlí“. Pohodlí a potěšení jdou ruku v ruce. Existují dvě indická slova: /aram/, které znamená „pohodlí“ a /haram/, které znamená „velmi nebezpečné a zničující“. náš bývalý předseda vlády nehru říkával: /Aram je haram/. Pohodlí se zdá být něčím příjemným, ale v podstatě je to totéž jako potěšení v podobě vášně a je nevyhnutelně následováno zničením.
 
 Když vstoupíme do života aspirace, jednáme s Nekonečností, Věčností a Nesmrtelností. Žijeme-li ve světě tužeb, vidíme, že v něm setrvává vášeň. Touha nakonec končí v nižším vitálnu, kde se nachází vášeň. Dokážeme-li pročistit touhy skrze naši aspiraci, uvidíme, že se automaticky i vášeň přemění v intenzivní aspiraci. Abychom pročistili touhy, musíme mít vnitřní aspiraci a tato aspirace přichází, když jsme probuzení uvnitř. Pokud je naše aspirace stálá, potom hořící plamen uvnitř nás vyrovnaně stoupá vzhůru. Pokud ovšem plamen nehoří, stahující síla vitálna se stane velmi mocnou. Neexistuje žádný jiný způsob jak porazit vášeň nebo jak osvítit vášeň, než pomocí aspirace.
 
@@ -207,16 +202,16 @@ Existují starší lidé, kteří jsou přesně takoví -- nemají téměř žá
  
 Má-li někdo touhy, ale nemá aspiraci, je to lepší, než nemít ani touhy ani aspiraci. Takový člověk bude mít spoustu nezbytných zkušeností a nakonec uvidí, že v naplnění tužeb není žádné naplnění. Poté skočí do moře aspirace. Vrátí-li se ale někdo do království tužeb poté, co jednou vstoupil do světa aspirace, je to opravdová katastrofa. Pokud někdo neaspiruje, můžeme říct, že je jen neznalým jedincem; neví, že existuje něco jako vnitřní mír, vnitřní blaženost, vnitřní světlo. Nespatřil-li někdo světlo a zůstává v temné místnosti, Bůh ho nebude obviňovat z toho, že si není vědom existence místnosti plné světla. Ale pokud už tuto zkušenost měl a chce se poté vrátit do obyčejného světa, stane se obětí frustrace a vnitřního zničení. Když člověk jednou pozná záři světla v osvícené místnosti a vitálno ho stáhne znovu zpět do tmavé místnosti, zasáhne ho nanejvýš mučivá vnitřní duševní bolest. Když spatřil světlo, měla radost, kterou získal, určitou intenzitu. V temné místnosti je rovněž intenzita, ale tato intenzita je jako ostrý nůž. Ve světlé místnosti byl někdo, kdo mu mohl ukázat, jak nůž správně použít. V temné místnosti mu ale nikdo neporadí a on se pobodá.
  
-Vstoupíte-li jednou do duchovního života, nikdy, nikdy se nevracejte zpět do obyčejného života. Vrátíte-li se zpět do obyčejného života, stanete se terčem výsměchu ve vnějším světě a terčem nedůvěry ve světě vnitřním. Lidé budou říkat: „Tento člověk selhal, to je důvod, proč to vzdal a vrátil se zpět k nám.“ Božské síly ve vesmíru řeknou: „Ó, on se o nás nezajímá. Zajímá se více o svět nevědomosti“ a už se vám nikdy nebudou snažit pomáhat. Stejně tak vy budete neustále vědomě či nevědomě srovnávat božský život, který jste opustili s životem, do kterého jste se vrátili. Toto srovnávání bude vždy v neprospěch pro obyčejný život. Vaše duše, božská jiskra uvnitř vás, vás nechá pocítit, že jste vzdali něco nanejvýš plodného. Váš běžný život doširoka prostoupí frustrace. Pokud nedokážete být upřímní a skočit do moře duchovního života celým svým srdcem, potom je lepší zůstat na břehu s vašimi touhami, dokud nebudete skutečně připraveni přijmout duchovní život natrvalo. 
+Vstoupíte-li jednou do duchovního života, nikdy, nikdy se nevracejte zpět do obyčejného života. Vrátíte-li se zpět do obyčejného života, stanete se terčem výsměchu ve vnějším světě a terčem nedůvěry ve světě vnitřním. Lidé budou říkat: „tento člověk selhal, to je důvod, proč to vzdal a vrátil se zpět k nám.“ božské síly ve vesmíru řeknou: „Ó, on se o nás nezajímá. Zajímá se více o svět nevědomosti“ a už se vám nikdy nebudou snažit pomáhat. Stejně tak vy budete neustále vědomě či nevědomě srovnávat božský život, který jste opustili s životem, do kterého jste se vrátili. Toto srovnávání bude vždy v neprospěch pro obyčejný život. Vaše duše, božská jiskra uvnitř vás, vás nechá pocítit, že jste vzdali něco nanejvýš plodného. Váš běžný život doširoka prostoupí frustrace. Pokud nedokážete být upřímní a skočit do moře duchovního života celým svým srdcem, potom je lepší zůstat na břehu s vašimi touhami, dokud nebudete skutečně připraveni přijmout duchovní život natrvalo. 
 
 
 
 * Cíl přeměny
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PDLS:8-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: pdls:8-cs
   :END:
 
 
@@ -240,9 +235,9 @@ Pravidelná, upřímná a oduševnělá meditace je jedinou cestou, jak dojít k
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PDLS:9-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: pdls:9-cs
   :END:
 
 #+BEGIN_VERSE
@@ -274,14 +269,3 @@ Aspirující člověk si musí být jistý svým cílem. Může požadovat Boha 
 Silou své upřímné aspirace pravý hledající říká: “Ó Bože, pokud cítíš, že bych měl mít Tvoji Vizi, pokud cítíš, že chceš naplnit Sebe ve mně a skrze mě, pokud cítíš, že mě můžeš využít jako Svůj nástroj, jsem k Tvým službám. Pokud chceš, abych stál před Tebou, přijdu a postavím se tam. Pokud Ty chceš stát přede mnou, budu stejně šťastný. Nechceš-li ani jedno z toho, ale chceš, aby před Tebou stál někdo jiný, budu stále šťastný.“ Toto je to, co nazýváme odevzdání. Toto je vrcholné odevzdání.
 
 Aspirující člověk musí znát svůj cíl. Je-li jeho cílem realizace Boha, může s ním začít v mysli. Vrcholným Cílem je ale bezpodmínečné odevzdání se Boží Vůli. Když Bůh vidí, že Jeho dítě, Jeho nanejvýš zasvěcené dítě učinilo toto bezpodmínečné odevzdání ne na vteřinu, ne na jeden den či rok, ale na celý svůj život, na všechny budoucí inkarnace, na celou věčnost, potom samotný Bůh obejme Své nejdražší, Své nejsladší, Své nejzasvěcenější dítě. A v okamžiku, kdy dojde k tomuto obětí, člověk se promění v Boha Samotného. Nám všem, bez výjimky, byla dána příležitost naplnit Boha zde na zemi. Pokusíme-li se o to, jsme svázáni k tomu zvítězit. My můžeme naplnit Boha a tím, že ho naplníme, pochopíme, že my sami jsme již naplněni.
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

@@ -1,19 +1,14 @@
-#+TITLE: Mystická cesta světem vzpírání, část 1
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Mystická cesta světem vzpírání, část 1
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2002
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: MJWW-1-cs
-  :GENRE: interview, qa
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2002
+  :publisher: Madal Bal
+  :cite-key: MJWW-1-cs
+  :genre: interview, qa
   :END:
 
 
@@ -21,8 +16,8 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: MJWW:1-cs
+  :genre: poem
+  :cite-key: mjww:1-cs
   :END::
 
 #+BEGIN_VERSE
@@ -37,12 +32,12 @@ tíhu světa.
 
 
 
-* /Redaktor:/ Proč to děláte?[fn:: MJWW 2-3. 2. listopadu 1998 poskytl Sri Chinmoy rozhovor deníku The Record v Bergenu, New Jersey. Bylo to poté, co zvedl letadlo Piper Arrow III s osmi muži ve Sparta Avian School v Teterboro, New Jersey.] 
+* /Redaktor:/ proč to děláte?[fn:: MJWW 2-3. 2. listopadu 1998 poskytl Sri Chinmoy rozhovor deníku The Record v Bergenu, New Jersey. Bylo to poté, co zvedl letadlo Piper Arrow III s osmi muži ve Sparta Avian School v Teterboro, New Jersey.] 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:2-cs
-  :DATE-EVENT: 1998-11-02
+  :genre: qa
+  :cite-key: mjww:2-cs
+  :date-event: 1998-11-02
   :END:
 
 /Sri Chinmoy:/ Podle své pokorné schopnosti se snažím oddaně sloužit světu. Od roku 1970 navštěvuji Organizaci spojených národů a nabízím zde meditace. Kromě toho jsem složil mnoho písní a napsal mnoho básní, namaloval jsem tisíce a tisíce maleb. Všechno to dělám proto, abych inspiroval ostatní. Stejně tak oni dělají mnoho, mnoho věcí, aby mě inspirovali. Jestliže inspiruji lidi a oni inspirují mne, stáváme se lepšími lidskými bytostmi. Když máme inspiraci, snažíme se dělat pro lidstvo mnoho, mnoho dobrých věcí. Když inspiraci nemáme, děláme mnoho, mnoho špatných věcí. Inspirace je božskou součástí našeho života. Když máme inspiraci, snažíme se slézt Himaláje. Když máme inspiraci, zkoušíme přeplavat kanál La Manche. Když máme inspiraci, jezdíme ze země do země, abychom inspirovali lidi a nechali se jimi inspirovat. Cítím, že když inspirujeme lidstvo, automaticky se stáváme dobrými občany světa. Toto je má filozofie. Vzpěračské výkony dělám jedině proto, abych inspiroval lidstvo.
@@ -54,9 +49,9 @@ To, co lidstvo chce, je radost. Uvnitř radosti je mír. Budeme-li šťastní, n
 * /Redaktor:/ Co je to ‚srdce jednoty‘, o kterém mluvíte?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:3-cs
-  :DATE-EVENT: 1998-11-02
+  :genre: qa
+  :cite-key: mjww:3-cs
+  :date-event: 1998-11-02
   :END:
 
 /Sri Chinmoy:/ ,Srdce jednoty‘ znamená, že vy mi dáváte své dobré vlastnosti a já vám dávám své dobré vlastnosti. S radostí mi nabízíte své božské vlastnosti a já nabízím s radostí své božské vlastnosti vám. Když máte jednotu a dobré pohnutky, dáváte mi to, co je ve vás nejlepší, a já dávám vám to, co je nejlepšího ve mně. Vyměňujeme si své dobré vlastnosti. To se nazývá ,srdce jednoty‘.
@@ -66,9 +61,9 @@ To, co lidstvo chce, je radost. Uvnitř radosti je mír. Budeme-li šťastní, n
 * /Redaktor:/ Řekněte nám, za jakým účelem jste přivedl slony a zvedl je na tomto zařízení.[fn:: MJWW 4. 4. listopadu 1998 poskytl Sri Chinmoy rozhovor televizi Reuters. Bylo to poté, co zvedl několik slonů v Big Apple Cirkuse v Lincolnově Centru v New Yorku.]  
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:4-cs
-  :DATE-EVENT: 1998-11-04
+  :genre: qa
+  :cite-key: mjww:4-cs
+  :date-event: 1998-11-04
   :END:
 
 /Sri Chinmoy:/ Jsem člověk modlitby a meditace. Cítím, že inspirace je vrcholně důležitá. Jestliže někoho mohu inspirovat a on může inspirovat mě, pak můžeme udělat mnoho dobrých věcí pro zlepšení tohoto světa. Tady inspiruji hodně lidí a také oni inspirují mě. Jestliže já budu mít inspiraci, vy budete mít inspiraci, on bude mít inspiraci, budeme moci pracovat společně. Když inspiraci nemáme, stěžujeme si na ostatní lidské bytosti, hádáme se, bojujeme a děláme mnoho politováníhodných věcí. Ale máme-li inspiraci, děláme mnoho dobrých věcí pro zdokonalení tohoto světa. 
@@ -78,12 +73,12 @@ Jsem studentem míru. Chtěl bych, aby celé lidstvo bylo na jedné lodi a plulo
 
 
 
-* /Reportér:/ Proč zvedáte?[fn:: MJWW 5. 6. listopadu 1998 poskytl Sri Chinmoy rozhovor televizi News 12 z New Jersey. Bylo to poté, co zvedl letadlo Aero Commander 658 se šesti pasažéry (celková hmotnost 10 527 liber) v leteckém parku Rogera J. Millera v Berkeley v New Jersey.]  
+* /Reportér:/ proč zvedáte?[fn:: MJWW 5. 6. listopadu 1998 poskytl Sri Chinmoy rozhovor televizi News 12 z New Jersey. Bylo to poté, co zvedl letadlo Aero Commander 658 se šesti pasažéry (celková hmotnost 10 527 liber) v leteckém parku Rogera J. Millera v Berkeley v New Jersey.]  
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:5-cs
-  :DATE-EVENT: 1998-11-06
+  :genre: qa
+  :cite-key: mjww:5-cs
+  :date-event: 1998-11-06
   :END:
 
 /Sri Chinmoy:/ Každý chce dělat něco, co ho činí šťastným. Toto je jeden ze způsobů, který mě činí šťastným, a zjišťuji, že existují i další lidé, kteří jsou inspirováni tím, co dělám. Z inspirace získáváme radost. Tím, že zvedám, inspiruji hodně lidí a oni z této inspirace získávají radost.
@@ -103,12 +98,12 @@ Jsem studentem míru. Chtěl bych, aby celé lidstvo bylo na jedné lodi a plulo
 
 
 
-* /Redaktor:/ Pětinásobný Mr.Universe to nazval „úžasnou ukázkou síly pro kohokoliv, jakéhokoliv věku, jakékoliv tělesné hmotnosti.“ Sri Chinmoyi, proč zvedáte tak obrovské předměty?[fn:: MJWW 6. 28. listopadu 1998 měl Sri Chinmoy rozhovor v rádiu CBS.]  
+* /Redaktor:/ pětinásobný mr.universe to nazval „úžasnou ukázkou síly pro kohokoliv, jakéhokoliv věku, jakékoliv tělesné hmotnosti.“ sri chinmoyi, proč zvedáte tak obrovské předměty?[fn:: MJWW 6. 28. listopadu 1998 měl Sri Chinmoy rozhovor v rádiu CBS.]  
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:6-cs
-  :DATE-EVENT: 1998-11-28
+  :genre: qa
+  :cite-key: mjww:6-cs
+  :date-event: 1998-11-28
   :END:
 
 /Sri Chinmoy:/ Nechci se chlubit. Je to čin mého sebenabízení, které nazývám inspirace. Snažím se inspirovat ostatní. Jestliže mohu inspirovat ostatní a jestliže oni na oplátku inspirují zbytek světa, pak můžeme mít lepší svět. Díky inspiraci můžeme pro lidstvo dělat dobré věci. Všichni toužíme po míru, po míru, po míru. Cítím, že je to naše vnitřní síla, která nám může dát mír, a vnitřní síla je jednota, univerzální jednota.
@@ -128,9 +123,9 @@ Jsem studentem míru. Chtěl bych, aby celé lidstvo bylo na jedné lodi a plulo
 * 2.[fn:: MJWW 7. 17. listopadu 1999 ráno v den 14. výročí svého vzpírání se Sri Chinmoy setkal s Mahasamratem Billem Pearlem a Bhavatarini Judy Pearlovou u snídaně v restauraci Annam Brahma v Queensu v New Yorku. Následují výňatky z jejich rozhovoru.]  
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:7-cs
-  :DATE-EVENT: 1999-11-17
+  :genre: qa
+  :cite-key: mjww:7-cs
+  :date-event: 1999-11-17
   :END:
 
 /Sri Chinmoy:/ Snažím se být integrální -- fyzicky, vitálně, mentálně, psychicky i duchovně. Cítím, že bychom měli dělat všechno společně. Proto dělám tolik různých věcí. Bůh nám dal tělo, vitálno, mysl a srdce. Jsou součástí naší existence. Snažíme se z nich dostat to nejlepší, aby se to projevilo. Cokoli je dobrého v těle, měli bychom vynést do popředí, aby se to mohlo projevit, cokoli je dobrého v mysli a tak dále.
@@ -151,7 +146,7 @@ Nervozita přichází, jen když cítíme, že jsme to my, kdo koná. Ale je-li 
 
 Když jsem jako mladý vynikal ve sportech, když jsem byl šampiónem naší duchovní komunity v desetiboji, býval jsem prvních několik let nervózní. Pak jsem ale viděl, že mí bratři a sestry jsou v době našich sportovních dnů ještě nervóznější než já. Vzali mi mou nervozitu.
 
-Včera se mě kanadský boxer Donny Lalonde zeptal: „Sri Chinmoyi, jste nervózní?“ Řekl jsem: „Svou nervozitu jsem před mnoha lety nechal na atletickém oválu.“ Protože žiji duchovní život, to, jestli dnes neuspěji nebo uspěji, svůj úspěch i neúspěch pokládám k Nohám Boha. Musím být jen dobrým a čistým nástrojem, aby mě mohl použít svým vlastním Způsobem. Jestliže nebudu, nedokáži Jej těšit Jeho vlastním Způsobem. A tak se snažím být dobrým člověkem, alespoň nyní. Když nebudu dobrý, jak může jednat ve mně a skrze mě? Zodpovědnost je na Něm. Mojí jedinou zodpovědností je udržet svou mysl tichou a klidnou, prázdnou a čistou. Na druhou stranu je to pro některé lidi neobyčejně obtížné. Protože nemají tichou mysl, jsou napadáni úzkostí, obavami a tak dál.
+Včera se mě kanadský boxer Donny Lalonde zeptal: „sri chinmoyi, jste nervózní?“ Řekl jsem: „Svou nervozitu jsem před mnoha lety nechal na atletickém oválu.“ Protože žiji duchovní život, to, jestli dnes neuspěji nebo uspěji, svůj úspěch i neúspěch pokládám k Nohám Boha. Musím být jen dobrým a čistým nástrojem, aby mě mohl použít svým vlastním Způsobem. Jestliže nebudu, nedokáži Jej těšit Jeho vlastním Způsobem. A tak se snažím být dobrým člověkem, alespoň nyní. Když nebudu dobrý, jak může jednat ve mně a skrze mě? Zodpovědnost je na Něm. Mojí jedinou zodpovědností je udržet svou mysl tichou a klidnou, prázdnou a čistou. Na druhou stranu je to pro některé lidi neobyčejně obtížné. Protože nemají tichou mysl, jsou napadáni úzkostí, obavami a tak dál.
 
 Tady je to rodinná hra před mými bratry a sestrami, mými duchovními přáteli a mými studenty. Musím se obávat? Jestliže neuspěji, budou se mnou soucítit. Jestliže uspěji, budou velmi šťastní, že to jejich učitel dokázal. V žádném případě nic neztratím, protože jejich soucitná jednota se mnou je taková, že nehledě na to, co dělám, jsme jedním. 
 
@@ -173,12 +168,12 @@ Dnes už nesoutěžíš, ale se svou autobiografií máš zvláštní zodpovědn
 
 
 
-* /Redaktor:/ Sri Chinmoyi, můžete nám říci, co se snažíte vyjádřit svým životem?[fn:: MJWW 8. 24. listopadu 1999 měl Sri Chinmoy rozhovor v rádiu CNN.]  
+* /Redaktor:/ sri chinmoyi, můžete nám říci, co se snažíte vyjádřit svým životem?[fn:: MJWW 8. 24. listopadu 1999 měl Sri Chinmoy rozhovor v rádiu CNN.]  
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:8-cs
-  :DATE-EVENT: 1999-11-24
+  :genre: qa
+  :cite-key: mjww:8-cs
+  :date-event: 1999-11-24
   :END:
 
 /Sri Chinmoy:/ Jsem hledající. Denně se modlím k Bohu a medituji na Boha. Ze života své modlitby a ze života své meditace získávám inspiraci. Tuto inspiraci se svým velmi pokorným způsobem snažím nabízet lidstvu.
@@ -193,7 +188,7 @@ Když zvedám těžké, těžké váhy -- slony a podobně -- snažím se inspi
 
 /Redaktor:/ Zdá se mi, že děláte věci, které se vymykají normálním věkovým hranicím.
 
-/Sri Chinmoy:/ Ano, máte naprostou pravdu! Věk přestane vzdorovat. Zde neexistuje věková hranice. Když se modlíme a meditujeme, jdeme daleko za pole působnosti mysli, fyzické mysli, která zpochybňuje naše schopnosti. Když se modlíme a meditujeme, ztotožňujeme se s něčím rozsáhlým a nekonečným. Proto neexistuje věková hranice, ale musíme jít daleko za pole působnosti fyzické mysli, která nás svazuje a v každém okamžiku odrazuje. Říká: „Nemůžeš dělat toto, nemůžeš dělat tamto, je to pro tebe nemožné.“ Ale když se modlíme a meditujeme, když žijeme v srdci, neexistuje nic takového jako něco nemožného.
+/Sri Chinmoy:/ ano, máte naprostou pravdu! věk přestane vzdorovat. zde neexistuje věková hranice. když se modlíme a meditujeme, jdeme daleko za pole působnosti mysli, fyzické mysli, která zpochybňuje naše schopnosti. když se modlíme a meditujeme, ztotožňujeme se s něčím rozsáhlým a nekonečným. proto neexistuje věková hranice, ale musíme jít daleko za pole působnosti fyzické mysli, která nás svazuje a v každém okamžiku odrazuje. Říká: „Nemůžeš dělat toto, nemůžeš dělat tamto, je to pro tebe nemožné.“ Ale když se modlíme a meditujeme, když žijeme v srdci, neexistuje nic takového jako něco nemožného.
 
 /Redaktor:/ Jak jste začal se vzpíráním?
 
@@ -211,7 +206,7 @@ Když se modlím a medituji, získávám zevnitř poselství. Používám termí
 
 /Redaktor:/ Jste vy osobně spokojen, když je někdo inspirován vaším příkladem?
 
-/Sri Chinmoy:/ Ano, rozhodně. Když posloužím i jen jedinému člověku, dokáže-li někdo přijmout mou inspiraci, cítím se neobyčejně spokojen. Jestliže posloužím i jen jedinému člověku, cítím, že je to obrovská pomoc ve zvyšování úrovně lidstva. Cokoliv dělám na poli sportu nebo atletiky -- na mnoha, mnoha místech pořádáme naše běžecké závody na dlouhé vzdálenosti -- vše je pro inspiraci. Cokoliv, co dělá naše organizace, má jediný záměr: každý by měl být inspirován. Tak jako my se pokoušíme inspirovat ostatní, i oni mají právo inspirovat nás.
+/Sri Chinmoy:/ ano, rozhodně. když posloužím i jen jedinému člověku, dokáže-li někdo přijmout mou inspiraci, cítím se neobyčejně spokojen. jestliže posloužím i jen jedinému člověku, cítím, že je to obrovská pomoc ve zvyšování úrovně lidstva. cokoliv dělám na poli sportu nebo atletiky -- na mnoha, mnoha místech pořádáme naše běžecké závody na dlouhé vzdálenosti -- vše je pro inspiraci. cokoliv, co dělá naše organizace, má jediný záměr: každý by měl být inspirován. Tak jako my se pokoušíme inspirovat ostatní, i oni mají právo inspirovat nás.
 
 
 
@@ -220,12 +215,12 @@ Když se modlím a medituji, získávám zevnitř poselství. Používám termí
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:9-cs
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :cite-key: mjww:9-cs
+  :date-event: 1999-11-25
   :END:
 
-/Sri Chinmoy:/ Z čeho jsem měl největší radost? Z Mahasamratova úsměvu. Myslím to vážně! Nikdo se nesměje tak jako Mahasamrat. Mahasamratův úsměv mi dával radost a sílu. Když jsem zvedl 600 liber a on řekl: „Guru, dokázal jsi to!“ dal mi radost a sílu deseti slonů. Když jsem zvedl těch 600 liber, podíval jsem se na Mahasamrata a jeho úsměv mě nanejvýš uspokojil -- ten úsměv nekonečné náklonnosti, lásky a důvěry.
+/Sri Chinmoy:/ z čeho jsem měl největší radost? z mahasamratova úsměvu. myslím to vážně! nikdo se nesměje tak jako mahasamrat. mahasamratův úsměv mi dával radost a sílu. když jsem zvedl 600 liber a on řekl: „Guru, dokázal jsi to!“ dal mi radost a sílu deseti slonů. Když jsem zvedl těch 600 liber, podíval jsem se na Mahasamrata a jeho úsměv mě nanejvýš uspokojil -- ten úsměv nekonečné náklonnosti, lásky a důvěry.
 
 
 
@@ -234,9 +229,9 @@ Když se modlím a medituji, získávám zevnitř poselství. Používám termí
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:10-cs
-  :DATE-EVENT: 2000-02-20
+  :genre: qa
+  :cite-key: mjww:10-cs
+  :date-event: 2000-02-20
   :END:
 
 /Sri Chinmoy:/ Když něco vymyslíte, vždy budou existovat lidé, kteří vás budou kritizovat. Boží stvoření je plné kritiků, ale vzdal se kvůli nim Bůh svého stvoření? Na druhou stranu existuje mnoho lidí, kteří Boha milují a modlí se k Němu, protože je dobrý. Řekněme, že pro nás je měsíc velmi krásný. Milujeme čistotu měsíce. Ale přijde vědec s dalekohledem a poukáže na jeho tmavé skvrny. Budeme ho poslouchat a budeme z měsíce roztrpčení, nebo se budeme řídit svým vlastním srdcem a dál získávat z měsíce radost a inspiraci?
@@ -251,7 +246,7 @@ Mé vzpírání je rovněž vynález. Když něco vymyslíte, lidé to kritizuj�
 
 Jestliže ostatní říkají, že můj způsob zvedání je něco velmi jednoduchého, ať to zkusí. Když kanadský boxer Donny Lalonde viděl mé vzpírání, plakal. Je to silný boxer, ale věděl, že toto udělat nedokáže. A tak by si lidé, kteří mají tendence kritizovat můj způsob vzpírání, měli stoupnout pod tisíc liber a zvednout je.
 
-Vzpomínám si na příběh devadesátileté indické vdovy. Když slyšela, že Hillary a Tensing vylezli na Mount Everest, řekla: „Mohla jsem tam vylézt také, kdybych trénovala!“ Já říkám: Kdo ji žádal, aby netrénovala?
+Vzpomínám si na příběh devadesátileté indické vdovy. Když slyšela, že Hillary a Tensing vylezli na Mount Everest, řekla: „mohla jsem tam vylézt také, kdybych trénovala!“ já říkám: Kdo ji žádal, aby netrénovala?
 
 Kdo dokáže umlčet ústa kritiků? Vždy používají slovo ,kdyby‘, kdyby byli bývali. . . kdyby byli bývali trénovali. . . Kdo je proboha žádal, aby to nedělali?
 
@@ -259,7 +254,7 @@ Vždycky budou existovat kritici, my ale musíme jít svou vlastní cestou. Al O
 
 Například zpočátku existovaly jen rýmované básně. Pak přišli někteří nesmrtelní básníci, kteří psali epiku pětistopým jambickým blankversem. Jak je kritizovali! Ale proč by měla epika následovat formu sonetu nebo jiných rýmovaných básní? Je to úplně odlišný styl. Kdyby se tito kritikové pokusili napsat epickou báseň, trvalo by jim to dvacet inkarnací!
 
-Je pravda, že nové věci budou kritizovány. Ale měli bychom dovolit, aby byly naše nové věci zmařeny žárlivostí ostatních? Pokud má někdo pocit, že věc, která je nová, je tak nesmyslná, měl by to dokázat tím, že se bude snažit dělat stejnou věc. Když jsem jednou zvedal lidi v Seattlu, jeden kulturista předváděl své obrovské svaly. A co se pak stalo? Když jsem ho zvedl nad hlavu, sešel dolů, sundal si tričko a řekl mi: „Nedokázal bych to.“ Ze dvou tisíc lidí, které jsem zvedl, přišel snad někdo a řekl: „Teď zvednu já vás, Sri Chinmoyi“? Byli tam lidé, kteří byli mnohem, mnohem silnější než já. Ani jeden jediný člověk neřekl: „Teď vystupte nahoru vy. Já vás zdvihnu.“ Zde je důkaz. Ani jeden jediný člověk ze dvou tisíc lidí, které jsem zvedl, mě nevyzval. V tu dobu jsem vážil 150 nebo 160 liber. Zvedl jsem mnoho lidí, kteří měli přes 250 liber, a někteří měli dokonce přes 300 liber. Ale nikdo, i jen z čiré náklonnosti, se nenabídnul, že by udělal totéž. 
+Je pravda, že nové věci budou kritizovány. Ale měli bychom dovolit, aby byly naše nové věci zmařeny žárlivostí ostatních? Pokud má někdo pocit, že věc, která je nová, je tak nesmyslná, měl by to dokázat tím, že se bude snažit dělat stejnou věc. Když jsem jednou zvedal lidi v Seattlu, jeden kulturista předváděl své obrovské svaly. A co se pak stalo? Když jsem ho zvedl nad hlavu, sešel dolů, sundal si tričko a řekl mi: „nedokázal bych to.“ ze dvou tisíc lidí, které jsem zvedl, přišel snad někdo a řekl: „teď zvednu já vás, sri chinmoyi“? byli tam lidé, kteří byli mnohem, mnohem silnější než já. ani jeden jediný člověk neřekl: „Teď vystupte nahoru vy. Já vás zdvihnu.“ Zde je důkaz. Ani jeden jediný člověk ze dvou tisíc lidí, které jsem zvedl, mě nevyzval. V tu dobu jsem vážil 150 nebo 160 liber. Zvedl jsem mnoho lidí, kteří měli přes 250 liber, a někteří měli dokonce přes 300 liber. Ale nikdo, i jen z čiré náklonnosti, se nenabídnul, že by udělal totéž. 
 
 Jednou jsem šel v Německu do posilovny. Posnídal jsem a oblékl jsem si svůj indický oděv. Neměl jsem na sobě vzpěračský pás. Chtěl jsem vyzkoušet jeden přístroj na lýtkové svaly. Bylo tam hodně kulturistů a vzpěračů, zvědavě mě pozorovali a smáli se mému oděvu. Když jsem potom na tom přístroji jednou nohou zvedl 800 liber, všichni odešli. Mohli si z toho udělat legraci a říci, že to nebyl obvyklý zdvih. Mohli to zkusit. Ale ani jeden to nezkusil, a to byli dvakrát větší než já. V posilovně nebylo víc než 800 liber. Jinak jsem chtěl zvedat víc. Kdo může zapomenout na tuto příhodu?
 
@@ -274,9 +269,9 @@ V mém případě rovněž objevuji nové cesty. Ve světě mé hudby mě lidé
 * Wordsworth řekl, že génius musí vytvořit směr, kterým má být zakoušen.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:11-cs
-  :DATE-EVENT: 2000-02-20
+  :genre: qa
+  :cite-key: mjww:11-cs
+  :date-event: 2000-02-20
   :END:
 
 /Sri Chinmoy:/ Skutečný génius není spoutaný jakýmikoliv společenskými konvencemi. Génius je génius. Musí postupovat vpřed jako slon a nedbat na štěkání psů. Swámí Vivekananda říkával, že když jde slon na tržiště, aby se najedl banánů, psi štěkají a štěkají. Ale slon jim nevěnuje pozornost. Jde na trh, sní banány a pak se vrací domů. Psi nemohou mít z banánů radost.
@@ -286,9 +281,9 @@ V mém případě rovněž objevuji nové cesty. Ve světě mé hudby mě lidé
 * Někteří vzpěrači chtějí, abys hrál hru podle jejich pravidel. Jedině pak tě přijmou.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:12-cs
-  :DATE-EVENT: 2000-02-20
+  :genre: qa
+  :cite-key: mjww:12-cs
+  :date-event: 2000-02-20
   :END:
 
 /Sri Chinmoy:/ Říkají: „Budeš silný, jedině když budeš jíst stejné jídlo jako já.“ Ale já nesouhlasím. Cítím, že jsem silný, když jím jiné jídlo. A jsou i jiní, kteří jsou na mé straně. Jak jsem už řekl, vždycky budou existovat kritici, kteří chtějí, abychom zůstávali na stejném místě. Podívejte se na Guinessovu knihu rekordů. Každý rok se objeví tolik nových disciplín. Jednoduše mohli zůstat u deseti disciplín, ale oni se snaží přijímat nové věci.
@@ -303,11 +298,11 @@ Pak sestoupí Boží Milost. Když jsem poprvé zvedl 1300 liber, řekl jsem, ž
 
 Takové je moje spojení s Bohem. Budu postupovat normálním způsobem tak daleko, jak to jen půjde. Na druhou stranu vím, že mohu trénovat normálním způsobem díky Jeho Milosti. Rok za rokem jsem vstával brzy ráno, dělal všechna možná cvičení. Jednou za čas, když se nechci rozcvičením rozehřát, řekne: „Dobrá, nechť působí Milost.“
 
-V ašrámu jsem šestnáct let vyhrával závod na 100 metrů. Jeden rok jsem si řekl: „Chci se ztotožnit s utrpením těch, kteří skončí druzí, třetí nebo i poslední.“ Rozhodl jsem se, že budu mít horečku. Bylo to pro mě jednoduché. Vyvolal jsem si takovou horečku, že jsem sotva viděl. Pak jsem řekl: „Dnes rozhodně prohraji. Možná budu dokonce poslední. Ať se lidé smějí, ale já chci cítit bolest těch, kteří nevyhrají.“
+V ašrámu jsem šestnáct let vyhrával závod na 100 metrů. Jeden rok jsem si řekl: „chci se ztotožnit s utrpením těch, kteří skončí druzí, třetí nebo i poslední.“ rozhodl jsem se, že budu mít horečku. bylo to pro mě jednoduché. vyvolal jsem si takovou horečku, že jsem sotva viděl. pak jsem řekl: „Dnes rozhodně prohraji. Možná budu dokonce poslední. Ať se lidé smějí, ale já chci cítit bolest těch, kteří nevyhrají.“
 
 Obvykle jsem se čtyřicet minut rozcvičoval, ale ten den jsem se nerozcvičoval vůbec. Byl jsem si stoprocentně jist, že budu poslední. Myslel jsem si, že upadnu, a jen jsem se modlil, abych nikoho nesrazil, protože dráhy byly velmi úzké. Jedině toho jsem se bál. Nemohl jsem ze závodu couvnout, neboť by si lidé řekli: „Ó, tentokrát netrénoval. Nechce prohrát.“ Místo toho jsem se rozhodl normálně startovat. Potom by lidé viděli, že jsem nedokázal být první. 
 
-Když startér řekl: „Na svá místa,“ celé mé tělo se třáslo, ne strachem, ale proto, že jsem se vůbec necítil dobře. Když pak řekl: „Teď!“ zčistajasna sestoupil můj Milovaný Nejvyšší a nesl mě celou cestu až do cíle. Nedělal jsem ani přípravný jogging, nic, ale byl jsem první.
+Když startér řekl: „na svá místa,“ celé mé tělo se třáslo, ne strachem, ale proto, že jsem se vůbec necítil dobře. když pak řekl: „Teď!“ zčistajasna sestoupil můj Milovaný Nejvyšší a nesl mě celou cestu až do cíle. Nedělal jsem ani přípravný jogging, nic, ale byl jsem první.
 
 Přál jsem si být druhý nebo třetí nebo dokonce poslední, ale Bůh nevyslyšel mou upřímnou modlitbu. Jeho Způsob je jediný způsob. Tak jsem se snažil stát se světcem: chtěl jsem cítit utrpení ostatních. Ale Bůh jejich utrpení skrze mě a ve mně cítit nechtěl.
 
@@ -321,7 +316,7 @@ V mém případě jsem ještě nedosáhl vrcholu a to je mi téměř šedesát 
 
 Je velmi obtížné vzpírat současně oběma rukama. Když vzpíráte jednou rukou, zcela se koncentrujete na tu ruku, na zápěstí. Kolik síly a energie získáte, když používáte jen jednu ruku! Když používáte obě ruce, vaše koncentrace se rozdělí. Jak se můžete zcela koncentrovat, když používáte pravou a levou ruku najednou? Musíme se koncentrovat na pravou i levou stranu v jeden okamžik, aby šly obě ruce nahoru. Tlak musí vzejít zprava i zleva současně. Bill Pearl řekl, že tento zdvih je tak těžký z toho důvodu, že musí být vyvážený.
 
-Ve světě vzpírání s nikým nesoutěžím. Dělám to pro svůj vnitřní pokrok, pro svou jednotu s Bohem. Říkám: „Tolik se mi na tomto poli daří. Co je s vámi ve vašem vlastním oboru?“ Zvláště svým žákům říkám: „Dělejte stejně tak se svou nejistotou, se svou žárlivostí. Zkuste, jak rychle dokážete zmenšit svou nejistotu nebo zvýšit svou čistotu. Učím se jednomu předmětu, abych vám to ukázal. Vy pak můžete studovat tolik předmětů. Snažte se dělat je stejně dobře.“
+Ve světě vzpírání s nikým nesoutěžím. Dělám to pro svůj vnitřní pokrok, pro svou jednotu s Bohem. Říkám: „tolik se mi na tomto poli daří. co je s vámi ve vašem vlastním oboru?“ zvláště svým žákům říkám: „Dělejte stejně tak se svou nejistotou, se svou žárlivostí. Zkuste, jak rychle dokážete zmenšit svou nejistotu nebo zvýšit svou čistotu. Učím se jednomu předmětu, abych vám to ukázal. Vy pak můžete studovat tolik předmětů. Snažte se dělat je stejně dobře.“
 
 Pro někoho jsem zdrojem inspirace. Když vidí, jak je pro mě těžké vzpírat, také se pak snaží dělat něco ve svém vlastním životě, ve svém vlastním oboru. Když vidí na mé tváři odhodlání, snaží se mít stejné odhodlání. Mohou také soutěžit sami se sebou a ukázat zprávu o svém pokroku.
 
@@ -331,9 +326,9 @@ Pro někoho jsem zdrojem inspirace. Když vidí, jak je pro mě těžké vzpíra
 * 3.[fn:: MJWW 13. Následující doplňkový komentář Sri Chinmoye je z 20. února 2000 ze setkání uspořádaného v P.S. 117 v Queensu v New Yorku.]  
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:13-cs
-  :DATE-EVENT: 2000-02-20
+  :genre: qa
+  :cite-key: mjww:13-cs
+  :date-event: 2000-02-20
   :END:
 
 Není třeba říkat, že kritikové budou existovat stále, ale já pevně věřím, že díváme-li se na zápornou stránku lidstva, nemůžeme udělat žádný pokrok. Tím, že se díváme na kladnou stránku lidstva, děláme pokrok a vidíme ostatní dělat pokrok. Jestliže je něco mým oborem, budu spokojen. Jestliže je něco oborem někoho jiného, budu rovněž spokojen.
@@ -363,8 +358,8 @@ Vraťme se k tématu. Ti, kteří chtějí, abych vzpíral podle toho, co ostat
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: MJWW:14-cs
+  :genre: poem
+  :cite-key: mjww:14-cs
   :END:
 
 #+BEGIN_VERSE
@@ -382,9 +377,9 @@ bude rychle stoupat.
 * Zdá se, že vzpíráním můžeš projevit duchovnost na vnější úrovni mnohem více než jinými aktivitami, jako je například běh.[fn:: MJWW 15-29. Následují výňatky z přátelského rozhovoru Sri Chinmoye s jeho studenty ze dne 27. února 2000.]
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:15-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:15-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ To je pravda. Milióny lidí mě mohou porazit v běhu, ale divil bych se, kdyby mě milióny lidí porazily ve vzpírání, zvlášť mezi lidmi mého věku. Kdybych pozval Američany nad šedesát let, kteří žijí zde v okolí, nebo i z Briarwoodu, aby zvedli 100 liber každou rukou, nemyslím si, že by byl někdo, kdo by vystoupil a udělal to. Nikdo nezvedne 100 liber oběma rukama, a pro mě je to snadné. Dělám něco, co je pro můj věk mimořádné. Dělám ale také některé věci, které jsou považovány za mimořádné v jakémkoliv věku. Loni a také předloni na výročí mého vzpírání řekl Mahasamrat Bill Pearl, aby byl můj věk zapomenut. Žádal lidi jakéhokoliv věku, aby vystoupili nahoru a zkusili to. On a pár dalších jako Jim Smith, Mike Katz a jiní se věnovali vzpírání a kulturistice celý svůj život. Ví, jak je to těžké. Na poli vzpírání jsem udělal něco ojedinělého, nejen co se týče věku, ale také tím, že jsem ukázal své schopnosti v různých typech zvedání -- zdvih oběma rukama, zvedání lýtkami ve stoje, zvedání slonů a tak dále
@@ -394,9 +389,9 @@ bude rychle stoupat.
 * Cítíš se skutečně fyzicky silnější, nebo jsi tak úplně mimo své tělo, že to nemá smysl?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:16-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:16-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Necítím se silný. Jsem zcela odkázán na Milost Boha. Jsem šťastný, když mohu chodit. Když mohu slušně chodit, mám z toho obrovskou radost. Jinak každou vteřinu kulhám, kulhám. 
@@ -410,9 +405,9 @@ V mém případě, když lidé vidí sílu mých svalů, vědí, že neberu ž�
 * Která skupina atletů má lepší vědomí -- kulturisti, nebo běžci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:17-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:17-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Pro mě mají běžci všeobecně lepší vědomí. Mnoho, mnoho běžců nebere drogy. Je pravda, že existují běžci, kteří berou drogy, ale je tolik obyčejných běžců, kteří neberou nic. Vědí, že nebudou dalším Frankem Shorterem nebo Billem Rodgersem, a tak neberou drogy. Jakmile se jim jednou začne dařit, možná je začnou brát, kdo ví. Ale v případě kulturistů dokonce i ti obyčejní, když začínají, chtějí být dalším Arnoldem Schwarzeneggerem nebo Billem Pearlem. A tak hned od začátku berou drogy. 
@@ -428,9 +423,9 @@ Proto si myslím, že trénovat venku je daleko lepší než trénovat vevnitř.
 * Je lepší pro ty, kdo nemají rádi běhání nebo jsou zranění, trénovat s činkami než nedělat nic?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:18-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:18-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Jistě! Je velmi důležité něco dělat. Možná nemůžete chodit nebo běhat. Ale co vaše plíce nebo ruce? Musí existovat jiné části vašeho těla, které ještě dobře fungují. A tak můžete rozvíjet tyto části. Možná jste omezeni svým zraněním, ale v tom omezeném světě dokážete něco udělat. 
@@ -448,9 +443,9 @@ Co se týče počtu, je strašlivý rozdíl mezi těmi, kteří běhají, a těm
 * Spousta běžců vzpírá, aby zlepšili svůj běh, obzvláště vrcholoví běžci.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:19-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:19-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ To je pravda, ale zvednou stolibrovou činku?
@@ -476,9 +471,9 @@ Sám život je cesta a ta cesta má cíl. Běžíme po Cestě Věčnosti k zít
 * Mnoho kulturistů oceňuje zvedání, které děláš, ale vzpěrači se celkově nezdají být tak schopní přijímat.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:20-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:20-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Cítím, že když se podíváte na kulturisty, vyzařují lepší vibrace než vzpěrači. Kulturisté zaměřují svou mysl na jemnější věc. Mohou zvedat těžké váhy, ale přitom myslí na jemné věci, věci, které jsou velmi něžné.
@@ -492,9 +487,9 @@ Kulturisté se velmi starají o dokonalost svého těla. Mohou brát drogy nebo 
 * Jsi nějakým způsobem těžkými závažími ovlivněn?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:21-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:21-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Ne, po vzpírání se mohu dostat do své nejvyšší meditace. Jde to, dokonce i když vzpírám. Jakmile jednou někdo dosáhne to Nejvyšší, může v té chvíli přeměnit tíhu v lehkost.
@@ -509,16 +504,16 @@ Před mnoha lety přišel na naše meditační setkání v Organizaci spojenýc
 * Kdo nakonec ocení tvé výkony více -- vzpěrači, nebo kulturisté?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:22-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:22-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Kulturisté vědí, jak je obtížné zvedat těžká závaží. Ačkoliv jejich cílem není zvedat velmi těžká závaží, zároveň vědí, jak bojují, když se pokouší je zvednout. 
 
 Na druhou stranu otázkou není, zda tyto věci více ocení kulturisté, nebo vzpěrači. Záleží jedině na srdci daného člověka. Má-li vzpěrač dobré srdce, ocení je. Do každé oblasti musíme vstupovat svým srdcem. Jeden člověk může být zpěvák, jiný vzpěrač. Žije-li zpěvák ve svém srdci, ocení i vzpěrače, protože ten září v jiném oboru. A podobně ocení vzpěrač zpěváka.
 
-Máme-li dobré srdce, oceníme ostatní. Máme-li špatné srdce, budeme je kritizovat nebo budeme říkat: „Kdybych trénoval, mohl bych toho člověka porazit. Mohl bych se stát druhým Carlem Lewisem.“ Slůvkem ,kdyby‘ pochybujeme o dosažení ostatních. Říkáme: „Kdybych měl příležitost, mohl jsem toho také dosáhnout.“ Takto začínáme obviňovat Boha už od začátku. Proč dal Bůh Billu Rodgersovi příležitost, aby se stal nejrychlejším maratónským běžcem na světě? Proč dovolil Bůh siru Edmundu Hillarymu, aby zdolal Mount Everest? Zeptejte se Boha. Kritizujte Boha. Ale říkám vám, i kdyby nám Bůh dal příležitost, necenili bychom si toho. 
+Máme-li dobré srdce, oceníme ostatní. Máme-li špatné srdce, budeme je kritizovat nebo budeme říkat: „kdybych trénoval, mohl bych toho člověka porazit. mohl bych se stát druhým carlem lewisem.“ slůvkem ,kdyby‘ pochybujeme o dosažení ostatních. Říkáme: „Kdybych měl příležitost, mohl jsem toho také dosáhnout.“ Takto začínáme obviňovat Boha už od začátku. Proč dal Bůh Billu Rodgersovi příležitost, aby se stal nejrychlejším maratónským běžcem na světě? Proč dovolil Bůh siru Edmundu Hillarymu, aby zdolal Mount Everest? Zeptejte se Boha. Kritizujte Boha. Ale říkám vám, i kdyby nám Bůh dal příležitost, necenili bychom si toho. 
 
 Tolik lidí se dostalo do rodiny skvělého hudebníka, a přece se nezabývají hudbou. Tolik lidí se dostalo do rodiny skvělého běžce, ale neběhá. Neváží si toho, co dělají jejich rodiče. Vidíte tolik případů, kdy jsou rodiče v určitém oboru skvělí, ale děti nejdou v jejich šlépějích. Naskytla se jim příležitost, ale oni si jí necenili.
 
@@ -527,9 +522,9 @@ Tolik lidí se dostalo do rodiny skvělého hudebníka, a přece se nezabývají
 * Kdyby se vzpěrači pokusili získat božský přístup místo užívání agresivních vlastností, mohlo by se vzpírání stát pozitivní cestou pokroku?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:23-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:23-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Jistě! Proč jen vzpírání? Když člověk použije božské metody, správné metody v jakémkoliv oboru, může dělat nepředstavitelný pokrok.
@@ -559,9 +554,9 @@ Tak jsem ztratil skutečného přítele a velkého obdivovatele. Jmenoval se Kri
 * Guru, dal bys přednost soutěži kulturistů, nebo olympijské soutěži vzpěračů? Co by ti udělalo větší radost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:24-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:24-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Rozhodně dávám přednost sledování kulturistů, protože v tom je jistý druh umění. Když vidím tělo Franka Zanea, je to jako sledování řeckého boha. V jeho těle je tolik umění. Když se na něj podívám, vidím skrze něj proudit řeku s velkou životní energií, krásou, kouzlem a silou. Jak upřímně jej obdivuji a obdivuji! Je to umění. Celé jeho tělo -- svaly a všechno -- je jako umělecké dílo. Vypadá, jako by umělec udělal krásný náčrt lidské bytosti.
@@ -575,9 +570,9 @@ Kdyby byla soutěž kulturistů, zůstanu a budu se dívat, ačkoliv nevím, kte
 * Ale v kulturistice vypadají všichni soutěžící téměř stejně, zatímco ve vzpírání existuje přinejmenším cíl.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:25-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:25-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Nedívejte se na svaly kulturistů. Dívejte se na jejich tvář, obzvláště do jejich očí. Ihned vyzařují božskou vibraci. Nedívejte se na jejich břicha nebo kvadricepsy nebo cokoliv. Dívejte se jen od krku nahoru, na jejich oči a tvář. Jakmile se podíváte do jejich očí, kulturisté vyzařují dobré vibrace. Ale když se díváte do očí vzpěračů, ihned získáte jiné vibrace.
@@ -587,9 +582,9 @@ Kdyby byla soutěž kulturistů, zůstanu a budu se dívat, ačkoliv nevím, kte
 * Jsem skutečně ohromen, jak lidé různého společenského postavení oceňují tvá dosažení ve vzpírání.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:26-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:26-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Podívejte na jejich dobrá srdce! Když zvedám velké hmotnosti, ocení to tolik lidí, kteří nepatří do světa vzpírání. Mohli by říci, že vzpírání je nesmyslné, ale protože mají dobrá srdce, říkají takové krásné věci. Jestliže máte dobré srdce, budete oceňovat všechno, co je dobré, i když to sami neděláte. Lidé s dobrým srdcem budou obdivovat každého, kdo se snaží nabídnout něco světu. Mnoho lidí má bohužel pocit, že to, co dělají, je nejdůležitější a všechno ostatní je zbytečné. Proč by to tak mělo být?
@@ -599,26 +594,26 @@ Kdyby byla soutěž kulturistů, zůstanu a budu se dívat, ačkoliv nevím, kte
 * Někdy si myslím, že bych měl být silnější, abych ti mohl podávat těžké činky.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:27-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:27-cs
+  :date-event: 2000-02-27
   :END:
 
 /Sri Chinmoy:/ Pak to udělej. Kdo tě žádá, abys nebyl silný? Vidím, že ti, kteří mi podávají činky, tak mají dobrý trénink, ačkoliv nemyslí na to, aby zesílili. Lidé, kteří mi pomáhají, to dělají s láskou a oddaně. Mají takovou trpělivost! Někdy musí počítat pět set vzepření jednou rukou.
 
-Zpravidla nemám rád, když činku zvedají a podávají dva lidé. Je to jako můj známý příběh o tom, jak se lilo mléko do králova rybníka. Jeden člověk si pomyslí: „Jestliže nedonesu mléko, nic se nestane. Donesou ho ostatní. Dám jen vodu.“ Další člověk si pak řekne totéž, až je rybník naplněn jen vodou. Podobně si jeden člověk myslí: „Jestliže se nebudu soustředit z plného srdce, ten druhý se soustředit bude.“ Ale ten druhý si bude myslet totéž. Zatímco děláte-li to sami, jste za to plně zodpovědní. V těchto dnech, když ležím, používám automatický přístroj. Tak jsem v bezpečí. Nemohu-li zvednout závaží, nespadne na mě a nezraní mě. S tímto přístrojem jsem zvedl sto dvacet liber každou rukou. Jinak rád pravidelně zvedám sto deset liber každou rukou.
+Zpravidla nemám rád, když činku zvedají a podávají dva lidé. Je to jako můj známý příběh o tom, jak se lilo mléko do králova rybníka. Jeden člověk si pomyslí: „jestliže nedonesu mléko, nic se nestane. donesou ho ostatní. dám jen vodu.“ další člověk si pak řekne totéž, až je rybník naplněn jen vodou. podobně si jeden člověk myslí: „Jestliže se nebudu soustředit z plného srdce, ten druhý se soustředit bude.“ Ale ten druhý si bude myslet totéž. Zatímco děláte-li to sami, jste za to plně zodpovědní. V těchto dnech, když ležím, používám automatický přístroj. Tak jsem v bezpečí. Nemohu-li zvednout závaží, nespadne na mě a nezraní mě. S tímto přístrojem jsem zvedl sto dvacet liber každou rukou. Jinak rád pravidelně zvedám sto deset liber každou rukou.
 
 
 
 * Co je těžší zvednout -- závaží o hmotnosti tři sta liber, nebo člověka vážícího tři sta liber?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:28-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:28-cs
+  :date-event: 2000-02-27
   :END:
 
-/Sri Chinmoy:/ Závaží je obtížnější, neboť člověk má lidské vlastnosti. Většina lidí ke mně bude laskavá a bude vědomě spolupracovat s nadějí, že je dokážu zvednout. Ze zábavy budou někteří říkat: „Chudák, tak těžce zakouší. Zabíjí sám sebe. Nebudu stát proti němu.“
+/Sri Chinmoy:/ závaží je obtížnější, neboť člověk má lidské vlastnosti. většina lidí ke mně bude laskavá a bude vědomě spolupracovat s nadějí, že je dokážu zvednout. ze zábavy budou někteří říkat: „Chudák, tak těžce zakouší. Zabíjí sám sebe. Nebudu stát proti němu.“
 
 Ale železná závaží taková nejsou. Nezískávám od nich žádnou vědomou pomoc. Nevědomě vzdorují. Když je zvedám, musím do nich vlít světlo.
 
@@ -629,9 +624,9 @@ Většinou jsou lidé velmi milí, když se pokouším je zvednout. Nabízejí m
 * Jaký je hlubší význam tvého vzpírání?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: MJWW:29-cs
-  :DATE-EVENT: 2000-02-27
+  :genre: qa
+  :cite-key: mjww:29-cs
+  :date-event: 2000-02-27
   :END:
 
 
@@ -643,8 +638,8 @@ Lidé mne znají jako muže míru, proto podporují mé vzpírání a ostatní a
 * Poznámky
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MJWW:30e1-cs
+  :genre: section
+  :cite-key: mjww:30e1-cs
   :END:
 
 100 liber     45,3 kg
@@ -666,8 +661,8 @@ Lidé mne znají jako muže míru, proto podporují mé vzpírání a ostatní a
 * Dates
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MJWW:30e2-cs
+  :genre: note
+  :cite-key: mjww:30e2-cs
   :END:
 
 
@@ -690,18 +685,3 @@ Lidé mne znají jako muže míru, proto podporují mé vzpírání a ostatní a
 /Poznámky ze setkání ve škole P.S. 117, 20. února 2000/
 
 /Rozhovor 27. února 2000/
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

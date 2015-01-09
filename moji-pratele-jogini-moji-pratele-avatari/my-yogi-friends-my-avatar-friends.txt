@@ -1,13 +1,8 @@
-#+TITLE: Moji přátelé Jogíni, moji přátelé Avatáři
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Moji přátelé Jogíni, moji přátelé Avatáři
 
 
   :PROPERTIES:
+  :language: cs
   :book-number:
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -23,8 +18,8 @@
 * Část první -- Moji přátelé Jogíni
 
   :PROPERTIES:
-  :GENRE: section
-  :cite-key: YFAF:1e1
+  :genre: section
+  :cite-key: yfaf:1e1
   :END:
 
 
@@ -32,8 +27,8 @@
 * I.
 
   :PROPERTIES:
-  :GENRE: colloquy
-  :cite-key: YFAF:1
+  :genre: colloquy
+  :cite-key: yfaf:1
   :END:
 
 
@@ -72,8 +67,8 @@
 * II.
 
   :PROPERTIES:
-  :GENRE: colloquy
-  :cite-key: YFAF:2
+  :genre: colloquy
+  :cite-key: yfaf:2
   :END:
 
 
@@ -106,8 +101,8 @@
 * III.
 
   :PROPERTIES:
-  :GENRE: colloquy
-  :cite-key: YFAF:3
+  :genre: colloquy
+  :cite-key: yfaf:3
   :END:
 
 
@@ -117,7 +112,7 @@
 
 	Můj přítel Jogín B řekl: „Bůh byl se mnou nespokojen mnohokrát. Říká, že jsem ke svým žákům neuvěřitelně povolný. Chce, abych jednal jako velitel.“
 
-	Můj Přítel Jogín C řekl: „Dvakrát byl se mnou Bůh mimořádně nespokojen: jednou, když jsem řekl, že mí žáci jsou více než neužiteční, a jednou, když jsem řekl, že chci opustit zemi.“
+	Můj Přítel Jogín C řekl: „dvakrát byl se mnou bůh mimořádně nespokojen: jednou, když jsem řekl, že mí žáci jsou více než neužiteční, a jednou, když jsem řekl, že chci opustit zemi.“
 
 	Můj přítel Jogín D řekl: „Bůh byl se mnou nejen v mnoha případech nespokojen, ale také mi bez milosti mnohokrát huboval. Říká, že jsem skutečný hlupák. V mé Lodi je mnoho neupřímných pasažérů. Loď je těžce naložená. Podle Boha je zde možnost, že se loď převrhne hřměním pochybností, drakem obav a sprchou strachu neupřímných pasažérů. Také říká, že ta trocha upřímných hledajících, kteří jsou na Lodi, bude mít bohužel stejný osud jako ti neužiteční pasažéři. Chce, abych ihned řekl neaspirujícím cestujícím, aby opustili mou Loď.“
 
@@ -158,8 +153,8 @@
 
 
   :PROPERTIES:
-  :GENRE: section
-  :cite-key: YFAF:4e1
+  :genre: section
+  :cite-key: yfaf:4e1
   :END:
 
 
@@ -167,8 +162,8 @@
 * I.
 
   :PROPERTIES:
-  :GENRE: colloquy
-  :cite-key: YFAF:4
+  :genre: colloquy
+  :cite-key: yfaf:4
   :END:
 
 
@@ -186,7 +181,7 @@
 
 	Řekl jsem: „V tom případě si nebesa nezaslouží pozemskou vděčnost a aspiraci.“
 
-	Náhle přišel Nejvyšší. Řekl: „Tady je mé posouzení země a nebe:
+	Náhle přišel Nejvyšší. Řekl: „tady je mé posouzení země a nebe:
 
 		Země je dobrá. 
 		Nebe je skvělé.
@@ -212,8 +207,8 @@
 * II.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: YFAF:5
+  :genre:
+  :cite-key: yfaf:5
   :END:
 
 
@@ -263,14 +258,14 @@
 * Poznámky vydavatele
 
   :PROPERTIES:
-  :GENRE: note
-  :cite-key: YFAF:6e1
+  :genre: note
+  :cite-key: yfaf:6e1
   :END:
 
 
-	Publikovaná díla Sri Chinmoye přicházejí z Nekonečného Vědomí Nejvyššího. Tyto texty jsou určeny upřímným hledajícím kdekoliv na duchovní cestě vedoucí zpět k jejich zdroji: k Nejvyššímu. Píše: „Bůh ronil nekonečné slzy radosti, když se s ním poprvé setkal.“
+	Publikovaná díla Sri Chinmoye přicházejí z Nekonečného Vědomí Nejvyššího. Tyto texty jsou určeny upřímným hledajícím kdekoliv na duchovní cestě vedoucí zpět k jejich zdroji: k nejvyššímu. píše: „Bůh ronil nekonečné slzy radosti, když se s ním poprvé setkal.“
 
-	Sri Chinmoy prošel onu dlouhou Cestu přes sedm vyšších světů až k nejvyššímu poschodí Božího Paláce. Nejvyšší jej seslal, aby nás vedl, chránil a ukazoval nám cestu k Určenému Cíli. Je to cesta srdce, cesta Božské Lásky. Píše: „Bůh řekl mým jménem mým Přátelům Jogínům: „Když jsme se on a Já setkali poprvé, probodli jsme se vzájemně láskou.“ Jak by se mohl náš svět změnit, kdybychom zahodili dýky a ostatní zbraně a pozvedli prapory oddané lásky a nesobecké služby.
+	Sri Chinmoy prošel onu dlouhou Cestu přes sedm vyšších světů až k nejvyššímu poschodí Božího Paláce. Nejvyšší jej seslal, aby nás vedl, chránil a ukazoval nám cestu k Určenému Cíli. Je to cesta srdce, cesta Božské Lásky. Píše: „bůh řekl mým jménem mým přátelům jogínům: „Když jsme se on a Já setkali poprvé, probodli jsme se vzájemně láskou.“ Jak by se mohl náš svět změnit, kdybychom zahodili dýky a ostatní zbraně a pozvedli prapory oddané lásky a nesobecké služby.
 
 	Tyto božské rozhovory mezi Sri Chinmoyem a jeho Přáteli Jogíny a Avatáry jsou v převážné části mantrického charakteru. Upřímným neustálým opakováním posvátných slov může duchovní hledající udělat velmi rychlý pokrok na cestě k Realizaci Boha.
 
@@ -284,19 +279,8 @@
 
 	Světlo Sri Chinmoye přenáší duchovní hledající do Boží Přítomnosti. Bližší než nejbližší je vztah aspirujícího k Bohu. Můžeme slyšet Boha mluvit ústy Sri Chinmoye: „Můj Synu, tvůj život je Můj Zájem, tvůj život je Mé Projevení.“
 
-	Země snad není připravena na Sri Chinmoye, ale on se bezvýhradně připravil pro zemi. Sestupuje daleko pod omezené vědomí svých žáků a zvedá je na vrcholek jejich možností. Jeden jeho Přítel Avatár jej vroucně prosí: „Ukonči svou hru na zemi a přijď sem, pojď se těšit z dokonalé Blaženosti nebes. Velmi zoufale potřebujeme tvoji přítomnost.“ Ale Sri Chinmoy božsky veselým, přitom však nejvýše utěšujícím způsobem odpovídá: „Ty a já milujeme hluboce jeden druhého.“
+	Země snad není připravena na Sri Chinmoye, ale on se bezvýhradně připravil pro zemi. Sestupuje daleko pod omezené vědomí svých žáků a zvedá je na vrcholek jejich možností. Jeden jeho Přítel Avatár jej vroucně prosí: „ukonči svou hru na zemi a přijď sem, pojď se těšit z dokonalé blaženosti nebes. velmi zoufale potřebujeme tvoji přítomnost.“ ale sri chinmoy božsky veselým, přitom však nejvýše utěšujícím způsobem odpovídá: „Ty a já milujeme hluboce jeden druhého.“
 
 	Posvěceným posláním Sri Chinmoye je sloužit lidstvu a zůstat s námi zde na zemi, i když si najde čas k rozmluvě se svými Přáteli Jogíny a Přáteli Avatáry tam v nebi. Nejvyšší skutečně požehnal a naplnil jeho dech všeprostupujícím Vědomím.
 
 	Dulal
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-
-

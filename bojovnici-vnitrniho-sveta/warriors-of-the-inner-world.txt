@@ -1,30 +1,25 @@
-#+TITLE: Bojovníci vnitřního světa
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Bojovníci vnitřního světa
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: WIW-cs
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2007
+  :publisher: Madal Bal
+  :cite-key: WIW-cs
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
 * Bojovníci vnitřního světa
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WIW:1-cs
-  :DATE-EVENT: 1976-02-25
+  :genre: discourse
+  :keywords:
+  :cite-key: wiw:1-cs
+  :date-event: 1976-02-25
   :END:
 
 
@@ -64,7 +59,7 @@ Neposlušnost je nejhorší slabost v životě hledajícího. Hledající může
  
 Poslední nebožskou silou nebo bojovníkem je shovívavost. Když vcházíme do světa shovívavosti, běžíme nazpět. Vstupujeme do zvířecího království. Věříme v evoluci. Z kamenného světa jsme přešli do světa rostlinného. Z rostlinného světa jsme přešli do světa zvířecího. Ze zvířecího světa do světa lidského. Teď máme jít do světa božského. Ale pokud vstoupíme do světa shovívavosti, běžíme dozadu, místo dopředu. Pokaždé, kdy běžíme nazpět, znovu se přátelíme se svým starým přítelem-pochybností.
  
-Duchovní hledající si musí být vědom těchto nebožských sil: nejistoty, strachu, pochybnosti, letargie, neposlušnosti a shovívavosti. Božští bojovníci nám sdělují jen jednu jedinou věc: Přijmi světlo a odmítni noc. Přijetí světla je jediná věc, kterou je potřeba udělat. Noc je nevědomost v nás. Noc nevědomosti spoutává naše tělo, oslepuje naše oči, bodá do našeho srdce. Noc nevědomosti představuje nebožské bojovníky nejistoty, strachu, pochybnosti, letargie, neposlušnosti a shovívavosti. Když nás tito nebožští bojovníci napadnou, přijdou nám božští bojovníci na pomoc a nabídnou nám světlo dokonalosti. Jako představitel Nejvyššího nás světlo dokonalosti nejprve osvobodí, pak osvítí a požehná nás vizí. Požehná naše oči vizí a pak znesmrtelní naše srdce. Toto pro nás světlo dokonalosti učiní.
+Duchovní hledající si musí být vědom těchto nebožských sil: nejistoty, strachu, pochybnosti, letargie, neposlušnosti a shovívavosti. božští bojovníci nám sdělují jen jednu jedinou věc: Přijmi světlo a odmítni noc. Přijetí světla je jediná věc, kterou je potřeba udělat. Noc je nevědomost v nás. Noc nevědomosti spoutává naše tělo, oslepuje naše oči, bodá do našeho srdce. Noc nevědomosti představuje nebožské bojovníky nejistoty, strachu, pochybnosti, letargie, neposlušnosti a shovívavosti. Když nás tito nebožští bojovníci napadnou, přijdou nám božští bojovníci na pomoc a nabídnou nám světlo dokonalosti. Jako představitel Nejvyššího nás světlo dokonalosti nejprve osvobodí, pak osvítí a požehná nás vizí. Požehná naše oči vizí a pak znesmrtelní naše srdce. Toto pro nás světlo dokonalosti učiní.
 
 Existují božští bojovníci vnějšího světa stejně jako bojovníci vnitřního světa. Vnějšími bojovníky jsou naše božská osobnost a božská individualita, které říkají: „Jsem Boha a jsem pro Boha.“ Vnitřní bojovníci nebojují navenek. Sjednocují se s Vůlí Boha a tak cítí, že vytváří Boha --  věčnou Pravdu a Světlo ve vnitřním světě. Vnější bojovníci cítí, že musí bojovat. Bojovníci-hrdinové každým okamžikem bojují ve vnějším světě pro Boží vítězství na zemi.
  
@@ -79,18 +74,18 @@ Univerzita v Ottawě
 * Otázky a odpovědi
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: WIW:2e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: wiw:2e1-cs
   :END:
 
 
 * Jak může někdo přenést vědomí duše do pracovního života?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:2-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:2-cs
   :END:
 
 
@@ -102,9 +97,9 @@ Někdo se stane odborníkem, protože studoval určitý obor. Pokud se tento čl
 * Jak poznáme, zda se vyhýbáme svým povinnostem vůči společnosti, nebo děláme správnou věc?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:3-cs
   :END:
 
 
@@ -116,9 +111,9 @@ Až vnitřně zesílíte a bude-li to vůle Boha, pak můžete dávat světlo sv
 * Cítím, jak ve mně vzniká nádech strachu, když medituji a sahám po světle. Zdá se, že mé ego se bojí své smrti.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:4-cs
   :END:
 
 
@@ -134,9 +129,9 @@ Je to jako dítě a jeho rodiče. Tak jako rodiče považují malé dítě za sv
 * Jakmile se někdo stane vaším žákem, jak začne duchovní osvícení? Chodíme sem meditovat jednou týdně, ale co ještě je zapotřebí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:5-cs
   :END:
 
 
@@ -149,9 +144,9 @@ Meditací se mnou nebo na můj obrázek ode mě žák načerpává značnou síl
 * Nedávno jsem se snažil cvičit nepřipoutanost. Opustil jsem věci, které jsem považoval za své a které jsem miloval. Přivádělo mě to však k vzteku. Nemohl jsem myslet na Boha. Jediné, na co jsem myslel, bylo to, co jsem opustil. Mohl byste mi říci, jestli jsem něčemu špatně porozuměl?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:6-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:6-cs
   :END:
 
 
@@ -169,7 +164,7 @@ Proto, pokud se jednoduše zřeknete fyzického, vitálního, mentálního nebo 
  
 Pokud chcete praktikovat duchovní život v nejčistším slova smyslu a na začátku jsou kolem vás lidé nebo věci, které vám stojí v cestě, pak musíte být velmi opatrní. Nemůžete s nimi bojovat a říkat: „Jsem zcela pro Boha, proto musíte podřídit svá přání mým.“ Ne, tehdy se musíte modlit tajně, oduševněle. Pokud se budete snažit je přemoci ihned nebo se jich ihned zříci, nebudete mít vnitřní sílu a schopnosti uspět. Jak jste řekl ve své otázce, rozzlobíte se nebo budete celou dobu myslet na to, čeho jste se vzdal. 
 
-Dejme tomu, že jste se právě pustil do duchovního života a vaši rodinu to nezajímá. Je absurdní, abyste na začátku řekl: „Protože jsem právě začal s duchovním životem, musím se zříci členů své rodiny.“ Dnes se zřeknete rodiny a odejdete žít někam jinam, ale zítra nebo pozítří se všechna vaše připoutání objeví a vy řeknete: „Ó, co jsem to udělal?“
+Dejme tomu, že jste se právě pustil do duchovního života a vaši rodinu to nezajímá. Je absurdní, abyste na začátku řekl: „protože jsem právě začal s duchovním životem, musím se zříci členů své rodiny.“ dnes se zřeknete rodiny a odejdete žít někam jinam, ale zítra nebo pozítří se všechna vaše připoutání objeví a vy řeknete: „Ó, co jsem to udělal?“
 
 Na druhou stranu musíte být velmi opatrní. Zrovna teď nejste s to setkávat se se všemi lidmi. Pokud chcete být duchovní, musíte se co nejčastěji setkávat s duchovními lidmi. Oni jsou vašimi skutečnými přáteli. Musíte s nimi trávit většinu času a postupně trávit méně a méně času s těmi přáteli nebo členy rodiny, kteří nejsou duchovní. Musí k tomu ale dojít postupně. Mezitím se nemusíte zříkat kohokoliv nebo čehokoliv, co milujete.
  
@@ -183,9 +178,9 @@ Jelikož víte, že vaším cílem je světlo, snažte se vždy obracet ke svět
 * Osvícení intelektu
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WIW:7-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: wiw:7-cs
   :END:
 
 
@@ -205,10 +200,10 @@ Duchovní srdce objímá celý svět jako svůj zcela vlastní, ale neosvícený
 * Vítězství
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WIW:8-cs
-  :DATE-EVENT: 1968-06-23
+  :genre: discourse
+  :keywords:
+  :cite-key: wiw:8-cs
+  :date-event: 1968-06-23
   :END:
 
 
@@ -230,7 +225,7 @@ Existuje mnoho kosmických bohů s omezenou silou, kteří se snaží zabránit
 
 Rád bych vám řekl osobní zkušenost. Asi všichni z vás víte, že jsem býval dobrý atlet. Vždycky jsem vyhrával v běhu, sprintu a tak dál. Pokaždé, když skončil závod, pozorovali ostatní soutěžící na dráze moji tvář. Ihned po závodě vídali v mé tváři záblesk pocitu uspokojení a radosti, ale v dalším okamžiku ve mně vídali ještě něco jiného. Byl jsem zvyklý vstupovat do vědomí závodníka, který skončil jako poslední. Svůj úspěch jsem si odbyl, ale obvykle jsem pronikal do jeho neúspěchu a zcela jsem se s ním ztotožnil, abych mohl ochutnat, jak bolestivé je skončit v závodě poslední. Jeho utrpení jsem brával jako své vlastní utrpení. Teprve až jsem se stal nedílnou součástí jeho existence, jeho utrpení, cítil jsem, že jsem dosáhl skutečného vítězství. Toto ztotožnění bylo daleko od pohrdání či pýchy. Vycházelo z lásky a pocitu jednoty. Měl jsem nekonečně větší radost a potěšení, když jsem se ztotožnil s tím, kdo skončil poslední, než jsem měl ze svého původního úspěchu. Proto bych vám všem tady rád řekl, prosím, snažte se ztotožnit s ostatními v jejich utrpení, v jejich radosti, v jejich úspěchu, v jejich zklamání a v jejich naplnění. V okamžiku, kdy se ztotožníte s někým jiným, uvidíte, že jste rozšířili svůj mentální a psychický obzor. A čím více se ­rozšíříte, tím větší bude vaše radost a naplnění. Co je největší povinností v lidském životě? Zvítězit sami nad sebou, podrobení si svého vlastního já. Tedy podrobení si nejnižšího já, zvířecího já v nás. Máme dvě já: zvířecí já a božské Já. Musíme porazit zvířecí v nás a položit toto zvířecí vědomí k nohám Božského, Nejvyššího. 
 
-Kdo ve skutečnost vyhraje, když porazíme to zvířecí v nás? Nejsme to my, ale Bůh Nejvyšší uvnitř nás je ten, kdo vyhraje. V Upanišadách je významný příběh. Jednou bohové vyhráli nad démony a jejich pýcha samozřejmě neznala mezí. Mysleli si, že oni jsou zodpovědní za své vítězství. Cítili, že to byla jejich vlastní síla a moc, která jim umožnila démony porazit. Absolutní Brahman chtěl jejich pýchu zlomit. Proto se přestrojil za brahmína, starého, slabého muže, a přišel ke kosmickým bohům. Byli trochu překvapeni a ptali se ho, co chce. Řekl: „Nic od vás nechci. Chci jen vědět, čím se to vychloubáte.“ Proto řekli: „Právě jsme vyhráli nad démony, díky naší síle a udatnosti. Proto jásáme.“ Starý muž řekl: „Prokažte mi laskavost. Nechávám tady přímo před vámi stéblo. Prosil bych někoho z vás, zda by ho mohl odfouknout nebo s ním něco udělat.“ Bůh větru tedy přistoupil a snažil se stéblo odfouknout, ale stéblo se ani nepohnulo. Pak přistoupil bůh ohně, Agni, a snažil se stéblo zapálit, ale běda, oheň ho ­nedokázal pohltit. Podobně to šlo dál a dál. Nakonec přistoupil Indra, Pán všech bohů. Když přistoupil, brahmín zmizel a na jeho místě se objevila bohyně ve sloupci světla. Indra se bohyně zeptal na brahmínovu záhadu. Bohyně řekla: „Nebyl to brahmín, byl to Absolutní Brahman, který vám chtěl ukázat Pravdu. To Jeho silou jste porazili démony. Vy lidé nemáte žádnou moc. Byl to Brahman Absolutní, kdo chtěl pokořit vaši pýchu a naučit vás, že ne vaší silou, ale Jeho silou jste zvítězili.“
+Kdo ve skutečnost vyhraje, když porazíme to zvířecí v nás? Nejsme to my, ale Bůh Nejvyšší uvnitř nás je ten, kdo vyhraje. V Upanišadách je významný příběh. Jednou bohové vyhráli nad démony a jejich pýcha samozřejmě neznala mezí. Mysleli si, že oni jsou zodpovědní za své vítězství. Cítili, že to byla jejich vlastní síla a moc, která jim umožnila démony porazit. Absolutní Brahman chtěl jejich pýchu zlomit. Proto se přestrojil za brahmína, starého, slabého muže, a přišel ke kosmickým bohům. Byli trochu překvapeni a ptali se ho, co chce. Řekl: „nic od vás nechci. chci jen vědět, čím se to vychloubáte.“ proto řekli: „právě jsme vyhráli nad démony, díky naší síle a udatnosti. proto jásáme.“ starý muž řekl: „prokažte mi laskavost. nechávám tady přímo před vámi stéblo. prosil bych někoho z vás, zda by ho mohl odfouknout nebo s ním něco udělat.“ bůh větru tedy přistoupil a snažil se stéblo odfouknout, ale stéblo se ani nepohnulo. pak přistoupil bůh ohně, agni, a snažil se stéblo zapálit, ale běda, oheň ho ­nedokázal pohltit. podobně to šlo dál a dál. nakonec přistoupil indra, pán všech bohů. když přistoupil, brahmín zmizel a na jeho místě se objevila bohyně ve sloupci světla. indra se bohyně zeptal na brahmínovu záhadu. bohyně řekla: „Nebyl to brahmín, byl to Absolutní Brahman, který vám chtěl ukázat Pravdu. To Jeho silou jste porazili démony. Vy lidé nemáte žádnou moc. Byl to Brahman Absolutní, kdo chtěl pokořit vaši pýchu a naučit vás, že ne vaší silou, ale Jeho silou jste zvítězili.“
  
 Jakmile tedy získáme úspěch nebo dosáhneme nějaké dokonalosti, musíme cítit, že nám to umožnila božská síla. Potřebujeme pomoc, potřebujeme požehnání Nejvyššího. Nejvyšší chce, abychom se osvobodili ze zajetí nevědomosti. V den, kdy se osvobodíme od nevědomosti, nebude Jeho radost znát mezí. Právě teď je božskost uvnitř nás zahalena. S požehnáním Nejvyššího a vedením a milujícím zájmem duchovního učitele --  kormidelníka lodi našeho života --  dokážeme snadno odhalit božskost uvnitř nás. Ve stejný okamžik dokážeme přeplavat oceán nevědomosti a proniknout do oceánu Světla. Jakmile pronikneme do oceánu Světla, uvidíme, ucítíme a staneme se vítězstvím. A čí je to vítězství? Je to Vítězství Nejvyššího.
 
@@ -241,9 +236,9 @@ Každá lidská bytost vědomě nebo nevědomě usiluje o Vítězství Nejvyšš
 * Vážit si duchovního jména
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WIW:9-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: wiw:9-cs
   :END:
 
 
@@ -261,9 +256,9 @@ Kdykoliv uděláte něco špatně, Bůh vám odpustí, já vám odpustím, ale t
 * Proč žáci opouštějí svého Mistra
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WIW:10-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: wiw:10-cs
   :END:
 
 
@@ -271,9 +266,9 @@ Bůh mi dal srdce --  lidské srdce a božské srdce. Mé lidské srdce, naště
  
 Existují různé příčiny toho, proč jdou někteří žáci nějakou dobu po naší cestě a pak v ní nechtějí pokračovat nebo nechtějí dosáhnout svého cíle pomocí naší cesty. Každý má hned odpověď na to, proč on nebo ona chtějí opustit naši cestu. Neexistuje žádné pravidlo, které by platilo bez výjimky. Jedním důvodem je, že jsou unavení. Jsou unavení chůzí po této cestě. Jiným důvodem je, že mají pocit, že když půjdou nějakou jinou cestou, poběží rychleji. Nebo mají pocit, že nepotřebují žádnou cestu. Mají pocit, že všechny cesty jsou zkažené, temné, zmatené a že ani jediná cesta není osvícená. Pět minut je cesta osvícená a deset hodin je zcela temná a pochybná, jako když procházíte tunelem. Nebo mají pocit, že osoba, v níž věřili, není pro ně ta pravá, nebo že takovou osobu mohou najít nejen v tomto Centru, ale i na jiných duchovních místech.
 
-Někdy říkají, že cesta je špatná nebo ti, co po ní jdou, jsou špatní. Říkají Mistrovi: „Ne, ne, ne, nepodezříváme tě. Ty jsi duchovní. Kdo se nám nelíbí, jsou jedině žáci.“ Ale já vám říkám ne. Pokud chtějí členové rodiny bojovat, v tu chvíli bojují. V indických vesnicích stojíme všichni při sobě --  sedm nebo osm členů rodiny. Každý den se třeba bratři a sestry hádají a bojují spolu. Ale neodcházejí od svých rodičů. Nenazývají kohokoliv jiného svým bratrem. Neříkají: „Protože mí bratři a sestry jsou velmi zlí, nejlepší po mě bude najít si někoho jiného jako svou matku a otce a odejít k jiné rodině.“ Také v duchovním životě je to stejné.
+Někdy říkají, že cesta je špatná nebo ti, co po ní jdou, jsou špatní. Říkají Mistrovi: „ne, ne, ne, nepodezříváme tě. ty jsi duchovní. kdo se nám nelíbí, jsou jedině žáci.“ ale já vám říkám ne. pokud chtějí členové rodiny bojovat, v tu chvíli bojují. v indických vesnicích stojíme všichni při sobě --  sedm nebo osm členů rodiny. každý den se třeba bratři a sestry hádají a bojují spolu. ale neodcházejí od svých rodičů. nenazývají kohokoliv jiného svým bratrem. neříkají: „Protože mí bratři a sestry jsou velmi zlí, nejlepší po mě bude najít si někoho jiného jako svou matku a otce a odejít k jiné rodině.“ Také v duchovním životě je to stejné.
  
-Říkám vám, že nakonec se viníkem stává Mistr. Mnoho, mnoho lidí, kteří odešli, říkají, že odešli, protože žáci jsou špatní. Ale když odejdou, skutečný šíp zacílí na Mistra. „Především, proč si vydržuje takové darebáky?“ Nejprve říkají: „Kvůli těmto darebákům odcházím.“ Pak se dostaví myšlenka: „Ale kdo si vydržuje ty darebáky? Mistr.“ Proto tak nebo tak, nakonec se stává viníkem Mistr. Žádný žák neopustí Centrum, dokud neucítí, že Mistr je nějakým způsobem vinen. Když nás lidé opouštějí, je to tím, že jsme tak nebo onak zklamali jejich vlastní ­očekávání. Když k vám nepřistoupím a nemluvím s vámi, když se na vás neusměji, ihned jste se mnou nespokojení. Ale pokud je to otázka Mistra a žáka, dokud já jsem Mistr, musím říci, že já vím, koho musím potěšit. Musím potěšit jen jedinou Osobu na zemi a v Nebi, a tou je Nejvyšší. Cítím, že pokud dokážu potěšit Nejvyššího, Nejvyšší má schopnost potěšit tebe, potěšit jeho, potěšit kohokoliv tady. Ale pokud se budu snažit potěšit vás všechny tady a zapomenu na Nejvyššího, říkám vám, že pak nebudu moci potěšit jediného člověka na jedinou prchavou vteřinu. Není to má falešná skromnost. Ne, věřte mi. Právě teď jsou se mnou někteří spokojení. Proč? Ne proto, že se vás snažím potěšit, ale proto, že těším Někoho, kdo má schopnost vás potěšit. Právě proto, že Ho těším, ještě tolik vás tady dokážu udržet.
+Říkám vám, že nakonec se viníkem stává Mistr. Mnoho, mnoho lidí, kteří odešli, říkají, že odešli, protože žáci jsou špatní. Ale když odejdou, skutečný šíp zacílí na Mistra. „Především, proč si vydržuje takové darebáky?“ Nejprve říkají: „kvůli těmto darebákům odcházím.“ pak se dostaví myšlenka: „Ale kdo si vydržuje ty darebáky? Mistr.“ Proto tak nebo tak, nakonec se stává viníkem Mistr. Žádný žák neopustí Centrum, dokud neucítí, že Mistr je nějakým způsobem vinen. Když nás lidé opouštějí, je to tím, že jsme tak nebo onak zklamali jejich vlastní ­očekávání. Když k vám nepřistoupím a nemluvím s vámi, když se na vás neusměji, ihned jste se mnou nespokojení. Ale pokud je to otázka Mistra a žáka, dokud já jsem Mistr, musím říci, že já vím, koho musím potěšit. Musím potěšit jen jedinou Osobu na zemi a v Nebi, a tou je Nejvyšší. Cítím, že pokud dokážu potěšit Nejvyššího, Nejvyšší má schopnost potěšit tebe, potěšit jeho, potěšit kohokoliv tady. Ale pokud se budu snažit potěšit vás všechny tady a zapomenu na Nejvyššího, říkám vám, že pak nebudu moci potěšit jediného člověka na jedinou prchavou vteřinu. Není to má falešná skromnost. Ne, věřte mi. Právě teď jsou se mnou někteří spokojení. Proč? Ne proto, že se vás snažím potěšit, ale proto, že těším Někoho, kdo má schopnost vás potěšit. Právě proto, že Ho těším, ještě tolik vás tady dokážu udržet.
  
 Na druhou stranu musíte vědět, že je to věc víry. Ty, kteří vědí a cítí, že těším Nejvyššího, ty ihned dokážu potěšit. Ale ty, které netěším, ti cítí, že nejsem ve styku se Zdrojem. Ti cítí, že nejsem ve spojení s Nejvyšším a že jen Nejvyššího zneužívám. Cítí, že používám Nejvyššího, jen když chci uniknout před jejich zlobou namířenou vůči mně. Cítí, že když je nepotěším, hodím celou vinu na Nejvyššího. Ale když udělám něco dobrého nebo božského, okamžitě vystoupím a řeknu: „To já jsem to udělal, to já jsem to udělal.“
  
@@ -291,18 +286,18 @@ Proto vám všem chci říci, že jsem zcela připraven vzít obvinění od vše
 * Otázky a odpovědi
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: WIW:11e2-cs
+  :genre: section
+  :keywords:
+  :cite-key: wiw:11e2-cs
   :END:
 
 
 * Během meditace cítím v hlavě chvění.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:11-cs
   :END:
 
 
@@ -314,9 +309,9 @@ Je i jiné chvění, které mohou hledající mít --  chvění extáze. Není v
 * Všichni velcí Mistři minulosti něco pro své žáky odhalili nebo jim něco dali. Krišna dával Ardžunovi. Ježíš dával apoštolům. Udělal by to i Mistr dneška?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:12-cs
   :END:
 
 
@@ -326,9 +321,9 @@ Je i jiné chvění, které mohou hledající mít --  chvění extáze. Není v
 * Vidíte ve všem jednotu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:13-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:13-cs
   :END:
 
 
@@ -340,9 +335,9 @@ Když se ponoříme hluboko do svého nitra, v tu chvíli vidíme jednotu, cít
 * Jaké druhy vědeckých duchovních technik používáte?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:14-cs
   :END:
 
 
@@ -352,9 +347,9 @@ Když se ponoříme hluboko do svého nitra, v tu chvíli vidíme jednotu, cít
 * Můžete říci, které národy mají zvířecí vlastnosti a jaké?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:15-cs
   :END:
 
 
@@ -364,21 +359,21 @@ Když se ponoříme hluboko do svého nitra, v tu chvíli vidíme jednotu, cít
 * Jak můžeme přeměnit každodenní stres a ničivou sebekritiku?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:16-cs
   :END:
 
 
-/Sri Chinmoy:/ Sebekritiku můžete brát jako trn, který jste si zapíchli. Jste velmi zlí, nebožští, hloupí. Cítíte, že jsou ve vás všechny špatné vlastnosti světa. Berte sebekritiku jako trn. Trn, který jste si zapíchli, má mnoho jmen. Jednou je to hloupost, hned zase nejistota a tak dál. Co musíte udělat, je použít jiný trn. Tím trnem je: „Jsem Boží dítě, Bohem vybrané dítě, a stanu se Jeho dokonalým nástrojem. Na světě není nic, co by mi mohlo zabránit stát se Jeho vybraným nástrojem.“ Použijte tento trn, abyste odstranili trn, který vám způsobuje potíže. Sebekritika může být poražena jedině správným božským oceněním. Musíte považovat za svou vlastní tu správnou osobu. Bůh je vaším Zdrojem. Musíte mít pozitivní přístup. Musíte si uvědomit, kdo jste a co znamenáte, a to ne v agresivním slova smyslu, ale v duchovním smyslu. Právě teď nejste uvědomělí celých dvacet čtyři hodin denně. Ale přijde doba, kdy si budete po celý čas vědomi, že jste Bohem vybrané dítě. Jste na zemi, abyste Mu sloužili, abyste Jej naplnili.
+/Sri Chinmoy:/ sebekritiku můžete brát jako trn, který jste si zapíchli. jste velmi zlí, nebožští, hloupí. cítíte, že jsou ve vás všechny špatné vlastnosti světa. berte sebekritiku jako trn. trn, který jste si zapíchli, má mnoho jmen. jednou je to hloupost, hned zase nejistota a tak dál. co musíte udělat, je použít jiný trn. tím trnem je: „Jsem Boží dítě, Bohem vybrané dítě, a stanu se Jeho dokonalým nástrojem. Na světě není nic, co by mi mohlo zabránit stát se Jeho vybraným nástrojem.“ Použijte tento trn, abyste odstranili trn, který vám způsobuje potíže. Sebekritika může být poražena jedině správným božským oceněním. Musíte považovat za svou vlastní tu správnou osobu. Bůh je vaším Zdrojem. Musíte mít pozitivní přístup. Musíte si uvědomit, kdo jste a co znamenáte, a to ne v agresivním slova smyslu, ale v duchovním smyslu. Právě teď nejste uvědomělí celých dvacet čtyři hodin denně. Ale přijde doba, kdy si budete po celý čas vědomi, že jste Bohem vybrané dítě. Jste na zemi, abyste Mu sloužili, abyste Jej naplnili.
 
 
 * Poučíme se více z úspěchu, nebo z neúspěchu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:17-cs
   :END:
 
 /Sri Chinmoy:/ To je individuální a záleží to na způsobu, jak člověk zkušenost zužitkuje. Je-li to neúspěch a my z něho uděláme příležitost, jak zdokonalit svou přirozenost, pak se přibližujeme k cíli. Je-li to úspěch a my jej využijeme, abychom inspirovali sebe sama k většímu zdokonalování, pak se také přibližujeme k cíli. Neexistuje pravidlo, které platí bez výjimky a které by říkalo, že se naučíme více z neúspěchu, nebo z úspěchu. Záleží jen na tom, jak zkušenost zužitkujeme. 
@@ -387,9 +382,9 @@ Když se ponoříme hluboko do svého nitra, v tu chvíli vidíme jednotu, cít
 * Jak poznáme, že něco děláme špatně?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:18-cs
   :END:
 
 
@@ -404,9 +399,9 @@ Pokud je člověk natolik statečný, že přijímá své slabosti a hledá, jak
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:19-cs
   :END:
 
 /Sri Chinmoy:/ Bůh je strom. Strom nebude mít jen jednu větev. Který strom budete obdivovat --  ten, který má jen jednu větev, nebo ten, který má několik větví? Otec může mít jen jednoho syna. Na druhou stranu, co je špatného na tom mít dva syny? Nemůžete říci, že otec nemůže mít více než jednoho syna. Má-li otec více než jedno dítě, pak jeden syn může být lékařem, jeden může být inženýrem, jeden může být básníkem. Ale když má jen jednoho syna, pak ten syn nemůže být vším. Berme Boha jako lidskou bytost. Má-li lidský otec více než jednoho syna, může ve svých dětech a jejich prostřednictvím dosáhnout mnoha věcí. Má-li jen jednoho syna, může dělat jen pár věcí.
@@ -417,13 +412,13 @@ Bůh chce projevit na zemi Sám Sebe. Cítíme, že přinést Nebe dolů na zem 
 * Je kontemplace výsledkem dechových cvičení?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:20-cs
   :END:
 
 
-/Sri Chinmoy:/ Jsou tři stupně: koncentrace, meditace, kontemplace. Měli bychom začít dechovými cvičeními. Fyzickým cvičením a hlubokým dýcháním se musíme zabývat ještě předtím, než začneme s koncentrací, řekněme ještě dříve, než se začneme koncentrací vůbec zabývat. Nejprve uvolníme tělo a snažíme se zhluboka dýchat. Když se nadechujeme a vydechujeme, musíme to dělat tak jemně, že když si před nos dáme nit, ani se nepohne. V tu chvíli můžeme cítit, že náš dech je dokonale připraven pro koncentraci. Když se pak koncentrujeme, musíme cítit, že zaměřujeme svou pozornost na jednu věc, na jeden předmět. Mysl nebloudí, všechny myšlenky umlknou. Až k tomu dojde, až zmizí myšlenky a představy, je koncentrace dokonalá. A pak ucítíme nezbytnost meditace.
+/Sri Chinmoy:/ jsou tři stupně: koncentrace, meditace, kontemplace. Měli bychom začít dechovými cvičeními. Fyzickým cvičením a hlubokým dýcháním se musíme zabývat ještě předtím, než začneme s koncentrací, řekněme ještě dříve, než se začneme koncentrací vůbec zabývat. Nejprve uvolníme tělo a snažíme se zhluboka dýchat. Když se nadechujeme a vydechujeme, musíme to dělat tak jemně, že když si před nos dáme nit, ani se nepohne. V tu chvíli můžeme cítit, že náš dech je dokonale připraven pro koncentraci. Když se pak koncentrujeme, musíme cítit, že zaměřujeme svou pozornost na jednu věc, na jeden předmět. Mysl nebloudí, všechny myšlenky umlknou. Až k tomu dojde, až zmizí myšlenky a představy, je koncentrace dokonalá. A pak ucítíme nezbytnost meditace.
 
 Když pronikáme do meditace, vidíme před sebou a všude kolem sebe rozlehlost a snažíme se do ní vstoupit nebo jí dovolit vstoupit do nás. Nakonec se pustíme do kontemplace. To je poslední stupeň. V něm se stáváme tím, o co usilujeme. Dlouhou dobu usilujeme o to něčím se stát, do něčeho vrůst. Když kontemplujeme, ten, kdo poznává, se stává Poznaným, ten, kdo miluje, se stává Samotným Milovaným, a konečné se stává nekonečným. Každý se stává nedílnou součástí toho druhého.
 
@@ -431,21 +426,21 @@ Když pronikáme do meditace, vidíme před sebou a všude kolem sebe rozlehlost
 * Jaký je to druh zážitku, když má někdo pocit, že je ve svém těle a mysli zcela svobodný a zároveň zcela tichý a čistý, mnohem čistší, než jsme viděli a slyšeli dnes večer?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:21-cs
   :END:
 
 
-/Sri Chinmoy:/ To je velmi vysoký zážitek. O takovém druhu zážitku říkáme: „Je v pohybu, není v pohybu.“ Podívejte se na moře. Když se ponoříte do hloubky, je tiché a klidné. Ale na hladině neustále uvidíte obrovské vlny, neklidné a převalující se. Moře má dvě roviny: Na povrchu je neustálý pohyb a na dně je ticho. Podobné je to, když se stanete skutečně pokročilým a realizujete Boha. Uvnitř vás bude naprostý a úplný klid, i když budete zaujati četnými vnějšími aktivitami. Váš vnitřní klid není rušen vnějšími aktivitami.
+/Sri Chinmoy:/ to je velmi vysoký zážitek. o takovém druhu zážitku říkáme: „je v pohybu, není v pohybu.“ podívejte se na moře. když se ponoříte do hloubky, je tiché a klidné. ale na hladině neustále uvidíte obrovské vlny, neklidné a převalující se. moře má dvě roviny: Na povrchu je neustálý pohyb a na dně je ticho. Podobné je to, když se stanete skutečně pokročilým a realizujete Boha. Uvnitř vás bude naprostý a úplný klid, i když budete zaujati četnými vnějšími aktivitami. Váš vnitřní klid není rušen vnějšími aktivitami.
 
 
 * Je nezbytné vidět Boha v Jeho osobním aspektu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:22-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:22-cs
   :END:
 
 
@@ -457,23 +452,10 @@ Když dítě vidí svého otce osobně, je šťastnější, než kdyby jen věd�
 * Když s vámi meditujeme, cítím někdy takový mír, že usnu. Je to správné?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WIW:23-cs
+  :genre: qa
+  :keywords:
+  :cite-key: wiw:23-cs
   :END:
 
 
 /Sri Chinmoy:/ Mír, který snáším dolů, je dynamický mír. Pokud máte Boží Mír, je tento mír tvořením, vnitřním tvořením, neustálým tvořením. Když usnete, nezískáte nic. Nezískáte naprosto nic. Jedině když usnete po meditaci, někdy vstřebáváte, co jste získali. Ale pokud z meditace nezískáte nic, co odpočinek nadělá? Když jste nic z meditace nezískali, co můžete během spánku vstřebat? Neaspirujete -- spíte. Když se vám nedaří meditace a pak usnete, myslíte si, že z Nebe spadne anděl a bude meditovat za vás? Ne! Žádný anděl za vás meditovat nebude.
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

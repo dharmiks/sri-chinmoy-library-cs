@@ -1,12 +1,7 @@
-#+TITLE: Sri Chinmoy promlouvá, část 10
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy promlouvá, část 10
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCS:265e1-cs
+  :cite-key: scs:265e1-cs
   :END:
 
 
@@ -34,8 +29,8 @@
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: SCS:265-cs
-  :DATE-EVENT: 1975-09-29
+  :cite-key: scs:265-cs
+  :date-event: 1975-09-29
   :END:
 
 
@@ -47,7 +42,7 @@ Medituji. Proč medituji? Medituji, protože Bůh potřebuje mě.
 Když se modlím, myslím si, že Bůh je nade mnou, nad mou hlavou. 
 Když medituji, cítím, že Bůh je hluboko ve mně, uvnitř mého srdce.
 
-Jsou dva typy modliteb: správná modlitba a špatná modlitba. Podobně jsou dva typy meditace: správná meditace a špatná meditace. Správná modlitba říká, „Jsem bezmocný, jsem nevinný, jsem slabý. Potřebuji Tě, ó Pane Nejvyšší, abys mne posílil, abys mne očistil, abys mne zdokonalil, potřebuji Tě, abys mne učinil nesmrtelným, ó Pane Nejvyšší.“
+Jsou dva typy modliteb: správná modlitba a špatná modlitba. podobně jsou dva typy meditace: správná meditace a špatná meditace. Správná modlitba říká, „Jsem bezmocný, jsem nevinný, jsem slabý. Potřebuji Tě, ó Pane Nejvyšší, abys mne posílil, abys mne očistil, abys mne zdokonalil, potřebuji Tě, abys mne učinil nesmrtelným, ó Pane Nejvyšší.“
 
 Špatná modlitba říká, „Ačkoliv Tě potřebuji, ó Pane Nejvyšší, mám nějakou vlastní sílu, mám trochu svých vlastních schopností. Potřebuji Tě, protože když budu mít Tvou Sílu a Tvé Schopnosti, tak přijde čas, kdy budu moci panovat nad světem a ovládat svět. Celý svět bude ležet u mých nohou a já budu jednat v souladu se svou sladkou vůlí. Avšak k tomu potřebuji sílu v neomezené míře. Mám trochu síly, ale já potřebuji nekonečně více. Proto Tě vzývám, ó Pane Nejvyšší.“ Toto je špatná modlitba. Je to modlitba pro uspokojení vitálna v nás, toho vitálna, které chce ovládat celý svět. 
 
@@ -78,7 +73,7 @@ Veď mne od smrti k Nesmrtelnosti.
 
 Toto je modlitba, kterou jsme se naučili od védských zřeců z pradávné minulosti. Tato nesmrtelná modlitba nemá na obloze indického vědění sobě rovnou.
 
-Zde na západě nás Spasitel naučil nejvyšší modlitbu: „Staň se Vůle Tvá.“ A opět, ten stejný Spasitel nás naučil nejvyšší meditaci: „Já a můj Otec jsme jedním.“
+Zde na západě nás Spasitel naučil nejvyšší modlitbu: „staň se vůle tvá.“ a opět, ten stejný spasitel nás naučil nejvyšší meditaci: „Já a můj Otec jsme jedním.“
 
 /Tat twam asi/: „Ty jsi To.“ Ty jsi To, všepřesahující Za, Pán Nejvyšší. To je nejvyšší výška modlitby.
  
@@ -101,7 +96,7 @@ Univerzita Massachusetts
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCS:266e1-cs
+  :cite-key: scs:266e1-cs
   :END:
   
 
@@ -111,15 +106,15 @@ Univerzita Massachusetts
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:266-cs
-  :DATE-EVENT: 1975-09-29
+  :cite-key: scs:266-cs
+  :date-event: 1975-09-29
   :END:
 
 
 
-/Sri Chinmoy:/ Je jedna nejdůležitější věc v duchovním životě, a ta nejdůležitější věc je: Bůh jako první a Bůh jako poslední. Bůh by měl přijít jako první v mém životě, a Bůh by měl přijít jako poslední v mém životě. Začnu svou cestu s Bohem, a skončím svou cestu s Bohem a mezi tím tam Bůh bude také. Nepotřebuji nikoho zachraňovat kromě Boha. Kdokoliv považuje Boha za svého vlastního, toho považuji i já za svého vlastního. Ten, kdo se nestará o to, aby považoval Boha za svého vlastního, prohlašuje nevědomost za svou vlastní. Já nemohu prohlásit nevědomost za svou vlastní. Tak každý, kdo je v Bohu, s Bohem a pro Boha je mým. 
+/Sri Chinmoy:/ je jedna nejdůležitější věc v duchovním životě, a ta nejdůležitější věc je: Bůh jako první a Bůh jako poslední. Bůh by měl přijít jako první v mém životě, a Bůh by měl přijít jako poslední v mém životě. Začnu svou cestu s Bohem, a skončím svou cestu s Bohem a mezi tím tam Bůh bude také. Nepotřebuji nikoho zachraňovat kromě Boha. Kdokoliv považuje Boha za svého vlastního, toho považuji i já za svého vlastního. Ten, kdo se nestará o to, aby považoval Boha za svého vlastního, prohlašuje nevědomost za svou vlastní. Já nemohu prohlásit nevědomost za svou vlastní. Tak každý, kdo je v Bohu, s Bohem a pro Boha je mým. 
 
-V duchovním životě není žádná taková věc jako neutralita. V běžném životě říkáme: „Nechci být do toho zapojen.“ Ale v duchovním životě je to nemožné. Buď se postavíte na Boží stranu, nebo vás nepřátelské síly přitáhnou a vy budete nuceni přijmout, vědomě či nevědomě, nevědomost světa jako svou vlastní. Ta vás chytí a pohltí vás. Takže prosím, ciťte, že ti, kteří neaspirují, již přijali stranu nevědomosti. A co je nevědomost? Něco, co nás záměrně odvádí od Skutečného v nás. Někteří lidé říkají, že necvičí duchovnost, ale také říkají, že nejsou ve vězení nevědomosti. Ale já říkám: „Už jste tam, ale nevíte o tom.“
+V duchovním životě není žádná taková věc jako neutralita. V běžném životě říkáme: „nechci být do toho zapojen.“ ale v duchovním životě je to nemožné. buď se postavíte na boží stranu, nebo vás nepřátelské síly přitáhnou a vy budete nuceni přijmout, vědomě či nevědomě, nevědomost světa jako svou vlastní. ta vás chytí a pohltí vás. takže prosím, ciťte, že ti, kteří neaspirují, již přijali stranu nevědomosti. a co je nevědomost? něco, co nás záměrně odvádí od skutečného v nás. někteří lidé říkají, že necvičí duchovnost, ale také říkají, že nejsou ve vězení nevědomosti. ale já říkám: „Už jste tam, ale nevíte o tom.“
 
 Existují dva magnety. Pokud dovolíte, aby vás přitáhl duchovní magnet, bude vás určitě táhnout směrem k realizaci. Ale pokud to nedovolíte, pak vás do sebe vtáhne nevědomost. Nemůžete stát uprostřed; nemůžete zůstat neutrální. Musíte přijmout jednu stranu.
 
@@ -130,8 +125,8 @@ Existují dva magnety. Pokud dovolíte, aby vás přitáhl duchovní magnet, bud
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:267-cs
-  :DATE-EVENT: 1975-09-29
+  :cite-key: scs:267-cs
+  :date-event: 1975-09-29
   :END:
 
 
@@ -145,8 +140,8 @@ Existují dva magnety. Pokud dovolíte, aby vás přitáhl duchovní magnet, bud
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:268-cs
-  :DATE-EVENT: 1975-09-29
+  :cite-key: scs:268-cs
+  :date-event: 1975-09-29
   :END:
 
 
@@ -162,8 +157,8 @@ Pomluva je velmi špatná. Nikomu nepomůže. Zde se všichni snažíme být mou
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:269-cs
-  :DATE-EVENT: 1975-09-29
+  :cite-key: scs:269-cs
+  :date-event: 1975-09-29
   :END:
 
 
@@ -177,8 +172,8 @@ Pomluva je velmi špatná. Nikomu nepomůže. Zde se všichni snažíme být mou
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:270-cs
-  :DATE-EVENT: 1975-09-29
+  :cite-key: scs:270-cs
+  :date-event: 1975-09-29
   :END:
 
 
@@ -187,7 +182,7 @@ Pomluva je velmi špatná. Nikomu nepomůže. Zde se všichni snažíme být mou
 
 Dítě si nevědomky vezme jed. Myslíte si, že jen proto, že si ho vzalo nevědomě, ho to nezabije? Nevědomky dítě položí prst do ohně a popálí se. Znamená to, že jen proto, že si není vědomo, jak něco dělat, nebude trpět následky? Od chvíle, kdy jste přijali duchovní život, nemusíte vědomě vstupovat do nižšího vitálního světa. Ale ve své mysli tam nevědomě vstupujete. Na fyzické rovině můžete zůstat tisíce kilometrů daleko od vitálního světa. Ale mentálně, pokud pěstujete nízké vitální, emocionální myšlenky, destruktivní myšlenky, bude to přirozeně mysl ničit.
 
-Pokud je vaše aspirace stálá, pak hořící plamen ve vás bude stoupat výš, výš a výš. Ale pokud plamen nehoří, tak se vitální síly stávají velmi silné, velmi silné. Na druhou stranu, když po celou dobu plamen hoří směrem vzhůru, jak to může jít dolů? Hoří-li plamen velmi jasně, vitál cítí: „Tady pro mě není místo.“ Nižší vitálno nemá šanci v dané osobě zůstat. Potom se nižší vitálno snaží zasadit smrtelnou ránu, absolutně smrtelný úder. V té chvíli musí být aspirant velmi bdělý a musí tomuto úderu čelit. Pokud se tomuto úderu statečně postaví, pak bude nižší vitálno cítit: „Ach, on mě nepotřebuje.“
+Pokud je vaše aspirace stálá, pak hořící plamen ve vás bude stoupat výš, výš a výš. Ale pokud plamen nehoří, tak se vitální síly stávají velmi silné, velmi silné. Na druhou stranu, když po celou dobu plamen hoří směrem vzhůru, jak to může jít dolů? Hoří-li plamen velmi jasně, vitál cítí: „tady pro mě není místo.“ nižší vitálno nemá šanci v dané osobě zůstat. potom se nižší vitálno snaží zasadit smrtelnou ránu, absolutně smrtelný úder. v té chvíli musí být aspirant velmi bdělý a musí tomuto úderu čelit. pokud se tomuto úderu statečně postaví, pak bude nižší vitálno cítit: „Ach, on mě nepotřebuje.“
 
 Chcete, abyste byli dokonalí, a chcete získat osvícení. Pokud stále cítíte, že se chcete stát dokonalými a nechcete nic jiného, pak máte schopnost udržet si svou vlastní výšku. Postupně budete z této výšky stoupat až do nejvyšší výšky, která je vaším cílem. Vaše vlastní výška je teď vaše stoupající aspirace a nic jiného. Váš konečný cíl musí přijít k vám, pokud neustále usilujete o to, abyste zůstali tam, kde jste právě teď, ve vaší stoupající aspiraci.
 
@@ -202,7 +197,7 @@ Tak, prosím, utíkejte vstříc slunci. Pak vás temnota musí opustit. Nebojte
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCS:271e1-cs
+  :cite-key: scs:271e1-cs
   :END:
   
   
@@ -212,7 +207,7 @@ Tak, prosím, utíkejte vstříc slunci. Pak vás temnota musí opustit. Nebojte
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: SCS:271-cs
+  :cite-key: scs:271-cs
   :END:
 
 Mám-li říci, co je nejdůležitější v duchovním životě vedle realizace Boha, okamžitě řeknu „čistota“. Čistotu a realizaci Boha nelze oddělit. Čistota musí být ve fyzickém, vitálním, mentálním a psychickém. V běžném životě mluvíme o vnější čistotě /[cleanliness]/: on je čistý, on je špinavý. Ale čistota /[purity]/ je něco, co je nekonečně vyšší a naplňující, než pouhá vnější čistota. Člověk si může dát sprchu a hned po osprchování může opatrovat nebožské myšlenky a zajímat se o špatné zlé síly. A teď, jaký druh čistoty získal? Očistil své tělo, ale jeho vitálno, jeho mysl, jeho vnitřní existence je samá nečistota. Takže vnější čistota má velmi málo co do činění s vnitřní čistotou srdce, se skutečným srdcem. Ale na druhou stranu vnější čistota /může/ být velkou pomocí a podpořit vnitřní čistotu. Pokud bychom se osprchovali a vzali si čisté, čerstvé oblečení, pak věci, které obklopují naše tělo, jsou již čisté a božské. Pak bude pro nás jednodušší, abychom zabránili nebožským, nepřátelským, nižší vitálním silám do nás vstoupit, a udržet svou mysl a vitálno čisté a božské.
@@ -230,7 +225,7 @@ V duchovním životě musí každý hledající cítit, že je dítě. Můžeme-
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: SCS:272-cs
+  :cite-key: scs:272-cs
   :END:
 
 Existují různé druhy pokušení. Jeden druh pokušení každý zná, a to je fyzické pokušení, pokušení vést obyčejný život, nižší život. Toto pokušení nás pokouší, abychom vstoupili do světa potěšení, vitálního světa, sexuálního života a do všech druhů nebožských činností. Budeme-li tomuto pokušení naslouchat, bude to smrt našeho duchovního života. Vstoupíme-li do tohoto pokušení, bude to trvat roky a roky a roky, než z tohoto života vyjdeme.
@@ -254,14 +249,14 @@ Když se staneme ‚pánem‘, když cítíme, že neexistuje žádný jiný ‚
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: SCS:273-cs
+  :cite-key: scs:273-cs
   :END:
 
 Jóga je jediný způsob, jak realizovat Boha a získat osvobození. Neexistuje žádný jiný způsob. Jóga znamená spojení s Bohem. Pokud chce někdo získat magisterský titul, jde studovat na univerzitu. Pokud někdo řekne, „Nebudu studovat, ale získám magisterský titul jinak,“ je to nemožné. Stejně tak, pokud člověk necvičí jógu, pokud nemá disciplínu, pokud nemedituje, pokud neaspiruje, pak je nemožné získat osvobození. Osvobození je jako vyšší kurz. Pokud jsem nejprve neprošel střední školou ani vysokou školou nebo univerzitou, jak mohu dostat svůj magisterský titul? Podobně, v józe také půjdeme krok za krokem nahoru, nahoru, nahoru, nahoru. Pak, na konci našeho vnitřního studia, dostaneme osvobození.
 
 Nabízíme-li svou existenci Bohu, Pravdě, Světlu, pak můžeme očekávat Mír, Světlo a Blaženost v bezmezné míře. Budeme-li ve škole pilně studovat, samozřejmě budeme očekávat dobrou známku. Jak jsme zaseli, tak sklidíme. Pokud jsme zaseli božské semínka, semínka aspirace, pak dříve nebo později musíme uvidět bohatou úrodu realizace Boha. Můžeme-li nabídnout vnitřní pláč, můžeme-li plakat pro Mír, Světlo a Blaženost, pak Bůh musí přijít. Náš pláč bude naplněn Bohem, který je vlastníkem nekonečného Míru, Světla a Blaženosti.
 
-Někteří duchovní Mistři říkají svým žákům, kteří dokonce meditovali deset nebo dvacet let, aby nepoužívali slova jako ‚spasení‘, ‚osvobození‘ a ‚osvícení‘. Jedná se o velmi vysoká slova. Začínáme s abecedou duchovního života. Dokonce i když myslíme ve spánku na dosažení cíle, jen klameme sami sebe. Cíle dosáhneme, ale v Boží zvolené Hodině. Spása, osvobození, realizace: tyto věci přichází na konci cesty. Právě teď musí všichni hledající myslet na základní věci v jejich duchovním životě. Meditovat pět nebo deset minut nebo půl hodiny: to je právě teď vaše studium. Dítě nemyslí na své magisterské studium, když se dosud nenaučilo abecedu; to je nemožné. Tak ho nechme, aby se učilo přípravné věci, základní věci; pak, když bude na univerzitě, může myslet na osvobození a realizaci.
+Někteří duchovní Mistři říkají svým žákům, kteří dokonce meditovali deset nebo dvacet let, aby nepoužívali slova jako ‚spasení‘, ‚osvobození‘ a ‚osvícení‘. Jedná se o velmi vysoká slova. Začínáme s abecedou duchovního života. Dokonce i když myslíme ve spánku na dosažení cíle, jen klameme sami sebe. Cíle dosáhneme, ale v Boží zvolené Hodině. Spása, osvobození, realizace: tyto věci přichází na konci cesty. právě teď musí všichni hledající myslet na základní věci v jejich duchovním životě. meditovat pět nebo deset minut nebo půl hodiny: to je právě teď vaše studium. Dítě nemyslí na své magisterské studium, když se dosud nenaučilo abecedu; to je nemožné. Tak ho nechme, aby se učilo přípravné věci, základní věci; pak, když bude na univerzitě, může myslet na osvobození a realizaci.
 
 Prosím, nemyslete si, že vás odrazuji. Daleko od toho. Konečným cílem dítěte je určitě získat jeho magisterský titul. Ale tím, že bude po celou dobu myslet na nejvyšší kurz, nikdy magisterský titul nedosáhne. Hledající musí jít krok za krokem. Pokud stále myslí na cíl, bude cítit, že cíl je příliš daleko. Tady ještě nezačal cestu a cíl je miliony kilometrů daleko. Pak si začne myslet, „Jsem tak slabý, jsem tak neupřímný, tolik věcí neznám. Jak mohu dosáhnout svého cíle?“ Když tyto myšlenky přijdou, bude zklamaný a sklíčený a vzdá se duchovního života.
 
@@ -272,7 +267,7 @@ Prosím, nemyslete si, že vás odrazuji. Daleko od toho. Konečným cílem dít
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCS:274e1-cs
+  :cite-key: scs:274e1-cs
   :END:
 
 
@@ -282,7 +277,7 @@ Prosím, nemyslete si, že vás odrazuji. Daleko od toho. Konečným cílem dít
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: SCS:274-cs
+  :cite-key: scs:274-cs
   :END:
 
 Jedna věc je cítit; jiná věc je vidět. Nemusíš mě vidět dvacet čtyři hodiny denně. Pokud můžeš cítit mou vnitřní přítomnost, stačí to. Když matka pracuje v kuchyni a dítě si hraje v obývacím pokoji, dítě nemusí vidět matku po celou dobu. Ví, že jeho matka je tam. Stále získává vibrace své matky. Atmosféra v místnosti je prosycena vědomím matky a pýchou otce. Tak tady také, když večer meditujete předtím, než jdete do postele, jestli mě můžete vidět ve svých snech, to je výborné. Ale pokud mě nevidíte, musíte cítit, „Chce-li přijít a být v mém snu, v pořádku. Ale jestli chce, abych jen v sobě cítil jeho přítomnost, je to víc než dost.“
@@ -302,7 +297,7 @@ Postupně, postupně předávejte veškerou odpovědnost Nejvyššímu ve mně. 
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: SCS:275-cs
+  :cite-key: scs:275-cs
   :END:
 
 
@@ -319,7 +314,7 @@ Největší příležitost dostáváme, když do světa přijde skutečný ducho
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: SCS:276-cs
+  :cite-key: scs:276-cs
   :END:
 
 Cítíte-li, že jsem alespoň Boží vědomý zástupce, a můžete-li čtyřiadvacet hodin denně cítit, že se o vás starám, pak můžete snadno urychlit Boží vybranou hodinu. Většina z vás tady má jednu společnou nemoc. Musíme otevřít nemocnici pro všechny pacienty, kteří trpí touto nemocí. V naší nemocnici, všichni trpí jednou nemocí: mají pocit, že se o ně nestarám. Ale můžete-li cítit, že se o vás /starám/ jako o jednotlivce, jako o hledajícího a jako o dítě mé duše, pak okamžitě můžete urychlit Boží hodinu.
@@ -335,8 +330,8 @@ Lidským způsobem si myslíte, že snad od vás něco potřebuji, nějakou lask
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: SCS:277-cs
-  :DATE-EVENT: 1969-04-13
+  :cite-key: scs:277-cs
+  :date-event: 1969-04-13
   :END:
 
 /Sri Chinmoy předal toto poselství svým žákům dne 13. dubna 1969 k pátému výročí svého příchodu na Západ./
@@ -351,7 +346,7 @@ Naše rozhodnutí je být věčně oddaným dechem v naplňování Božího vesm
 
 #+END_QUOTE
 
-Ó Nejvyšší, Tobě nabízím to, co jsem: svůj život oduševnělé vděčnosti. Ó děti Nejvyššího, dám vám to, co mám: svůj život nesobecké oddanosti a jednoty. Moje láska je mojí váhou. Moje láska je mojí výškou. Moje láska je zároveň mojí váhou a mojí výškou. Moje láska k oddaným žákům je silou mé jednoty s nimi, je mojí váhou. Moje láska k Nejvyššímu, je silou mé jednoty s Ním, je mojí výškou.
+Ó Nejvyšší, Tobě nabízím to, co jsem: svůj život oduševnělé vděčnosti. Ó děti nejvyššího, dám vám to, co mám: svůj život nesobecké oddanosti a jednoty. Moje láska je mojí váhou. Moje láska je mojí výškou. Moje láska je zároveň mojí váhou a mojí výškou. Moje láska k oddaným žákům je silou mé jednoty s nimi, je mojí váhou. Moje láska k Nejvyššímu, je silou mé jednoty s Ním, je mojí výškou.
 
 V posledních několika letech vstoupili žáci do mého života a já jsem vstoupil do jejich životů. Já sloužím Nejvyššímu v nich; oni slouží Nejvyššímu ve mně. Společně rosteme. Společně budeme věčně růst. Postupně budeme dávat a brát. Já od vás očekávám absolutní oddanost a vy ode mne očekáváte absolutní realizaci Absolutna.
 
@@ -372,7 +367,7 @@ Takže prosím, od této chvíle změňte svůj názor, pokud jde o Boha. Bůh n
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCS:278e1-cs
+  :cite-key: scs:278e1-cs
   :END:
 
 
@@ -384,13 +379,13 @@ Takže prosím, od této chvíle změňte svůj názor, pokud jde o Boha. Bůh n
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:278-cs
-  :DATE-EVENT: 1976-06-19
+  :cite-key: scs:278-cs
+  :date-event: 1976-06-19
   :END:
 
 
 
-/Sri Chinmoy:/ Pokud člověk nevede duchovní život a jiný člen jeho rodiny se pro něj modlí a medituje, samozřejmě, že to pomůže. Ale pokud člověk vědomě odmítá lásku a duchovní pomoc, kterou dostává, pak z toho nebude mít žádný prospěch. Například člen vaší rodiny nepřijal duchovní život, ale vy jste jej přijal oduševněle a modlíte se za tuto osobu jen proto, že je členem vaší rodiny. Vaše modlitba bude rozhodně plodná za předpokladu, že nedojde k jejímu odmítnutí. On může říci: „Jsem příliš letargický. Nechci to udělat, ale pokud to pro mě uděláš, budu ti vděčný. Mám hlad, to je pravda, ale nechce se mi jít do kuchyně. Přineseš mi něco k jídlu?“ Pak můžete jít do kuchyně a otevřít chladničku a přinést mu jídlo. Přinášíte mu jídlo jen proto, že je líný. Ale pokud mu přinesete jídlo a on ho prostě odhodí a ještě se rozzlobí, pak co můžete dělat? Takže je to na něm. Když mu přinesete jídlo, měl by ho alespoň sníst. Když bude jíst, tak bude živen. V té chvíli pak nezáleží na tom, jestli šel do kuchyně sám. Ale pokud odmítá jídlo, pak bez ohledu na to, jak upřímní jste, s jakým dobrým úmyslem mu jídlo přinášíte, ztrácíte svůj čas. Zcela to závisí na jeho přijetí nebo odmítnutí. Pokud to přijme, pak samozřejmě budete cítit, že síla vaší modlitby, plod vaší modlitby, k němu přijde. Ale pokud to odmítne, pak je to nemožné.
+/Sri Chinmoy:/ pokud člověk nevede duchovní život a jiný člen jeho rodiny se pro něj modlí a medituje, samozřejmě, že to pomůže. ale pokud člověk vědomě odmítá lásku a duchovní pomoc, kterou dostává, pak z toho nebude mít žádný prospěch. například člen vaší rodiny nepřijal duchovní život, ale vy jste jej přijal oduševněle a modlíte se za tuto osobu jen proto, že je členem vaší rodiny. vaše modlitba bude rozhodně plodná za předpokladu, že nedojde k jejímu odmítnutí. on může říci: „Jsem příliš letargický. Nechci to udělat, ale pokud to pro mě uděláš, budu ti vděčný. Mám hlad, to je pravda, ale nechce se mi jít do kuchyně. Přineseš mi něco k jídlu?“ Pak můžete jít do kuchyně a otevřít chladničku a přinést mu jídlo. Přinášíte mu jídlo jen proto, že je líný. Ale pokud mu přinesete jídlo a on ho prostě odhodí a ještě se rozzlobí, pak co můžete dělat? Takže je to na něm. Když mu přinesete jídlo, měl by ho alespoň sníst. Když bude jíst, tak bude živen. V té chvíli pak nezáleží na tom, jestli šel do kuchyně sám. Ale pokud odmítá jídlo, pak bez ohledu na to, jak upřímní jste, s jakým dobrým úmyslem mu jídlo přinášíte, ztrácíte svůj čas. Zcela to závisí na jeho přijetí nebo odmítnutí. Pokud to přijme, pak samozřejmě budete cítit, že síla vaší modlitby, plod vaší modlitby, k němu přijde. Ale pokud to odmítne, pak je to nemožné.
 
 
 
@@ -399,15 +394,15 @@ Takže prosím, od této chvíle změňte svůj názor, pokud jde o Boha. Bůh n
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:279-cs
-  :DATE-EVENT: 1976-06-19
+  :cite-key: scs:279-cs
+  :date-event: 1976-06-19
   :END:
 
 
 
 /Sri Chinmoy:/ To závisí na Boží Vůli a také na dychtivosti duše. Pokud Bach hrál svou roli jako skvělý, nejvyšší hudebník, a když už dál nechce projevovat hudbu, a pokud je to Vůle Nejvyššího, pak takový život zcela opustí. Ve své další inkarnaci může vstoupit do oblasti literární činnosti. Pokud Shakespeare dokončil svou roli velkého spisovatele a chce-li vstoupit do hudby, může to udělat. Opět platí, že pokud Shakespeare nebo Bach mají pocit, že neodehráli svou roli uspokojivě, že by mohli ještě více přispět do literárního nebo do hudebního světa, pak budou pokračovat ve stejném oboru i v příští inkarnaci.
 
-Cítíme, že Bach složil skvělou hudbu. Kdo by mohl být lepší hudebník než on, nebo kdo by mohl být větší spisovatel než Shakespeare? Ale jen duše těchto dvou velkých postav ví, zda přispěli v plném rozsahu tomu, co ztělesňovali, a co nám přišli předat. Jestliže předali všechno, pak už více nemusí procházet literárním či hudebním životem. Ale pokud všechno nepředali a chtějí-li pokračovat, a je-li Vůle Nejvyššího, aby i nadále pokračovali a předali více své duši-vzrušující hudby a duši-povznášející literatury, pak budou dávat. Opět platí, že nemusí chtít pokračovat v této konkrétní hře. Na sportovním poli trvá hra pětačtyřicet minut nebo hodinu. Jestliže někdo hraje pětačtyřicet minut a pak se unaví, může si říct: „Já už nechci hrát tuto hru, chci hrát nějakou jinou hru. Hrál jsem fotbal a bylo to velmi vyčerpávající. Teď chci hrát něco jiného, nějakou hru v místnosti.“ A pak Bůh může říct: „V pořádku, nemusíte hrát tuto hru. Můžete hrát jinou hru. Já vám nabízím svůj Soucit.“
+Cítíme, že Bach složil skvělou hudbu. Kdo by mohl být lepší hudebník než on, nebo kdo by mohl být větší spisovatel než Shakespeare? Ale jen duše těchto dvou velkých postav ví, zda přispěli v plném rozsahu tomu, co ztělesňovali, a co nám přišli předat. Jestliže předali všechno, pak už více nemusí procházet literárním či hudebním životem. Ale pokud všechno nepředali a chtějí-li pokračovat, a je-li Vůle Nejvyššího, aby i nadále pokračovali a předali více své duši-vzrušující hudby a duši-povznášející literatury, pak budou dávat. Opět platí, že nemusí chtít pokračovat v této konkrétní hře. Na sportovním poli trvá hra pětačtyřicet minut nebo hodinu. Jestliže někdo hraje pětačtyřicet minut a pak se unaví, může si říct: „já už nechci hrát tuto hru, chci hrát nějakou jinou hru. hrál jsem fotbal a bylo to velmi vyčerpávající. teď chci hrát něco jiného, nějakou hru v místnosti.“ a pak bůh může říct: „V pořádku, nemusíte hrát tuto hru. Můžete hrát jinou hru. Já vám nabízím svůj Soucit.“
 
 Obvykle velcí géniové, jako jsou Shakespeare a Bach, dokončili své role. Pak je Bůh poslal do vědy nebo duchovnosti. V případě Bacha, ten již přijal duchovnost, zatímco Shakespeare vědomě duchovnost nepřijal. Takže Bachova hudba je plná duchovnosti. Ale Shakespearovy vyšší ideály nejsou duchovní; vyjadřují něco jiného. Duchovnost je všude, to je pravda, ale musíte vědět, kam duchovno míří. Jeden se již dotkl duchovnosti; druhý se dotkl skutečné duchovnosti nesprávně. Je zcela na Boží Vůli, co budou dělat dál.
 
@@ -418,8 +413,8 @@ Obvykle velcí géniové, jako jsou Shakespeare a Bach, dokončili své role. Pa
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:280-cs
-  :DATE-EVENT: 1976-06-19
+  :cite-key: scs:280-cs
+  :date-event: 1976-06-19
   :END:
 
 
@@ -433,13 +428,13 @@ Obvykle velcí géniové, jako jsou Shakespeare a Bach, dokončili své role. Pa
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:281-cs
-  :DATE-EVENT: 1976-06-19
+  :cite-key: scs:281-cs
+  :date-event: 1976-06-19
   :END:
 
 
 
-/Sri Chinmoy:/ Některá náboženství říkají: „Náš Otec je v Nebi. On je tam a my jsme tady, v pekle.“ Tak se samozřejmě snaží jít do Nebe, kde je On. A pak, jakmile jsou tam, řeknou: „Ó, On je náš Milovaný. Jsme takoví hlupáci, abychom se vrátili na zem? Kdo potřebuje reinkarnaci?“
+/Sri Chinmoy:/ některá náboženství říkají: „náš otec je v nebi. on je tam a my jsme tady, v pekle.“ tak se samozřejmě snaží jít do nebe, kde je on. a pak, jakmile jsou tam, řeknou: „Ó, On je náš Milovaný. Jsme takoví hlupáci, abychom se vrátili na zem? Kdo potřebuje reinkarnaci?“
 
 Ale když víme, že On je v Nebi i na zemi, pak se samozřejmě vrátíme. Všude tam, kde jsme my, Bůh, chudák, je tam také; On má povinnost být s námi. Jsme-li v nejnižším podlaží, ve sklepě, On je tam také. A i když jsme v nejvyšším patře, v podkroví, On je s námi. A tak přijmete-li Boží Univerzálnost, pak víte, že reinkarnace je naprosto skutečná. Ale přijmete-li pouze Boha Transcendentální Výšku, pak s Ním zůstanete jen nahoře. Nevrátíte se zpátky. Když lidé říkají, že Bůh je jen v Nebi, vytváří to problém. Ale řekneme-li, že je jak v Nebi, tak i na zemi, pak tento problém nevznikne.
 
@@ -450,8 +445,8 @@ Ale když víme, že On je v Nebi i na zemi, pak se samozřejmě vrátíme. Všu
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:282-cs
-  :DATE-EVENT: 1976-06-19
+  :cite-key: scs:282-cs
+  :date-event: 1976-06-19
   :END:
 
 
@@ -465,8 +460,8 @@ Ale když víme, že On je v Nebi i na zemi, pak se samozřejmě vrátíme. Všu
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:283-cs
-  :DATE-EVENT: 1976-06-19
+  :cite-key: scs:283-cs
+  :date-event: 1976-06-19
   :END:
 
 
@@ -484,7 +479,7 @@ Svět představivosti není mentální halucinace; je to svět skutečnosti dale
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCS:284e1-cs
+  :cite-key: scs:284e1-cs
   :END:
 
 
@@ -494,7 +489,7 @@ Svět představivosti není mentální halucinace; je to svět skutečnosti dale
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:284-cs
+  :cite-key: scs:284-cs
   :END:
 
 
@@ -508,7 +503,7 @@ Svět představivosti není mentální halucinace; je to svět skutečnosti dale
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:285-cs
+  :cite-key: scs:285-cs
   :END:
 
 
@@ -526,7 +521,7 @@ Když se koncentrujeme, musíme proniknout jako kulka skrz věc, která nám sto
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:286-cs
+  :cite-key: scs:286-cs
   :END:
 
 
@@ -542,7 +537,7 @@ Učitel by měl být vaším nejintimnějším, věčným přítelem. Pokud vám
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:287-cs
+  :cite-key: scs:287-cs
   :END:
 
 
@@ -562,7 +557,7 @@ Takže musíte být velmi opatrní, zda světlo, které vidíte, je skutečné s
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:288-cs
+  :cite-key: scs:288-cs
   :END:
 
 
@@ -578,7 +573,7 @@ Z přísně duchovního hlediska není nic takového, jako dobré nebo zlé. Zlo
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:289-cs
+  :cite-key: scs:289-cs
   :END:
 
 
@@ -600,7 +595,7 @@ Hledající cítí a zažívá /shakti/, Sílu uvnitř sebe, podle svého vlastn
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:290-cs
+  :cite-key: scs:290-cs
   :END:
 
 
@@ -614,7 +609,7 @@ Hledající cítí a zažívá /shakti/, Sílu uvnitř sebe, podle svého vlastn
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:291-cs
+  :cite-key: scs:291-cs
   :END:
 
 
@@ -630,23 +625,9 @@ S vědomím je to zcela odlišné. Vědomí je rozsáhlé, velmi rozsáhlé. Kon
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCS:292-cs
+  :cite-key: scs:292-cs
   :END:
 
 
 
 /Sri Chinmoy:/ Přijde-li k někomu Mistr ve snu, znamená to, že duše tohoto konkrétního člověka již rozeznala Mistra. Jako magnet, duše přitahuje Mistrovu lásku, zájem, požehnání a pozornost. Duše přitahuje přítomnost tohoto Mistra. Pak za několik dní nebo několik měsíců později, fyzická mysl, pozemské, fyzické oči, budou moci Mistra vidět. Duše rozeznala Mistra na úrovni duší, vnitřní úrovni; pak předala tuto pravdu, tuto skutečnost, na úrovni snů do vědomí snu. Z vědomí snu přijde tato skutečnost časem do fyzického vědomí, na fyzickou úroveň. To je velmi dobré znamení a velmi dobrá indikace, že dříve či později se bude student schopen setkat se svým Mistrem.
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-
-

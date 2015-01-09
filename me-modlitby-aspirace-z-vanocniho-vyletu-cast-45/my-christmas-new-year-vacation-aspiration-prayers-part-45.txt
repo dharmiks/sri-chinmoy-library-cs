@@ -1,20 +1,15 @@
-#+TITLE: Mé modlitby aspirace z vánočního výletu, část 45
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Mé modlitby aspirace z vánočního výletu, část 45
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: APR-45-cs
-  :GENRE: prayer
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2007
+  :publisher: Madal Bal
+  :cite-key: APR-45-cs
+  :genre: prayer
+  :keywords:
   :END: 
 
 
@@ -22,9 +17,9 @@
 * Poznámka editora
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:3591e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: apr:3591e1-cs
   :END:
 
 
@@ -39,10 +34,10 @@
 * 1 Úsměv mého rozkvétajícího srdce...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3591-cs
-  :DATE-EVENT: 2005-12-30
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3591-cs
+  :date-event: 2005-12-30
   :END:
 
 
@@ -59,10 +54,10 @@ mému Pánu Nejvyššímu.
 * 2 Snílci Boha...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3592-cs
-  :DATE-EVENT: 2005-12-30
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3592-cs
+  :date-event: 2005-12-30
   :END:
 
 
@@ -78,10 +73,10 @@ kdo naplňují projevení Boha.
 * 3 Čím více cestujeme...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3593-cs
-  :DATE-EVENT: 2005-12-30
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3593-cs
+  :date-event: 2005-12-30
   :END:
 
 
@@ -98,10 +93,10 @@ navenek.
 * 4 Má vděčnost Bohu...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3594-cs
-  :DATE-EVENT: 2005-12-30
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3594-cs
+  :date-event: 2005-12-30
   :END:
 
 
@@ -117,10 +112,10 @@ přeměnitelem života.
 * 5 Jak nalézám štěstí?...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3595-cs
-  :DATE-EVENT: 2005-12-30
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3595-cs
+  :date-event: 2005-12-30
   :END:
 
 
@@ -137,10 +132,10 @@ stále více.
 * 6 Zdrojem mé inspirace...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3596-cs
-  :DATE-EVENT: 2005-12-30
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3596-cs
+  :date-event: 2005-12-30
   :END:
 
 
@@ -157,10 +152,10 @@ Matka Země.
 * 7 Zdrojem mé aspirace...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3597-cs
-  :DATE-EVENT: 2005-12-30
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3597-cs
+  :date-event: 2005-12-30
   :END:
 
 
@@ -177,10 +172,10 @@ mé vnitřní slunce.
 * 8 Zdrojem mého úspěchu...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3598-cs
-  :DATE-EVENT: 2005-12-30
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3598-cs
+  :date-event: 2005-12-30
   :END:
 
 
@@ -197,10 +192,10 @@ odhodlání mé mysli.
 * 9 Zdrojem mého pokroku...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3599-cs
-  :DATE-EVENT: 2005-12-30
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3599-cs
+  :date-event: 2005-12-30
   :END:
 
 
@@ -217,10 +212,10 @@ můj život odevzdaný Bohu.
 * 10 Každou hodinu...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3600-cs
-  :DATE-EVENT: 2005-12-30
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3600-cs
+  :date-event: 2005-12-30
   :END:
 
 
@@ -237,10 +232,10 @@ nové semínko přeměny.
 * 31. prosince 2005 ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:3601e2-cs
-  :DATE-EVENT: 2005-12-31
+  :genre: note
+  :keywords:
+  :cite-key: apr:3601e2-cs
+  :date-event: 2005-12-31
   :END:
 
 
@@ -254,10 +249,10 @@ Kuantan, Malaysia
 ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3601-cs
-  :DATE-EVENT: 2005-12-31
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3601-cs
+  :date-event: 2005-12-31
   :END:
 
 
@@ -274,10 +269,10 @@ ale mysl není spokojena.
 * 12 Život meditace...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3602-cs
-  :DATE-EVENT: 2005-12-31
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3602-cs
+  :date-event: 2005-12-31
   :END:
 
 
@@ -293,10 +288,10 @@ nesmírnou radost.
 * 13 Má mysli,...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3603-cs
-  :DATE-EVENT: 2005-12-31
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3603-cs
+  :date-event: 2005-12-31
   :END:
 
 
@@ -313,10 +308,10 @@ nebudu mít nic společného!
 * 14 Váhavost ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3604-cs
-  :DATE-EVENT: 2005-12-31
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3604-cs
+  :date-event: 2005-12-31
   :END:
 
 
@@ -333,10 +328,10 @@ co máme.
 * 15 Když vidíme Boha...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3605-cs
-  :DATE-EVENT: 2005-12-31
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3605-cs
+  :date-event: 2005-12-31
   :END:
 
 
@@ -355,10 +350,10 @@ je pouze mocný.
 * 16 Bez ohledu na to...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3606-cs
-  :DATE-EVENT: 2005-12-31
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3606-cs
+  :date-event: 2005-12-31
   :END:
 
 
@@ -376,10 +371,10 @@ Je obejmout.
 * 17 Jedině ti, co poslouchají Boha...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3607-cs
-  :DATE-EVENT: 2005-12-31
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3607-cs
+  :date-event: 2005-12-31
   :END:
 
 
@@ -394,10 +389,10 @@ jsou mí praví přátelé.
 * 18 Duchovnost ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3608-cs
-  :DATE-EVENT: 2005-12-31
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3608-cs
+  :date-event: 2005-12-31
   :END:
 
 
@@ -414,10 +409,10 @@ neúplná.
 * 19 Bůh miluje stejně ty...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3609-cs
-  :DATE-EVENT: 2005-12-31
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3609-cs
+  :date-event: 2005-12-31
   :END:
 
 
@@ -433,10 +428,10 @@ i ty, kteří oddaně slouží.
 * 20 Bůh nemá rád spáče...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3610-cs
-  :DATE-EVENT: 2005-12-31
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3610-cs
+  :date-event: 2005-12-31
   :END:
 
 
@@ -452,10 +447,10 @@ ale nemiluje je.
 * 1. ledna 2006 ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:3611e3-cs
-  :DATE-EVENT: 2006-01-01
+  :genre: note
+  :keywords:
+  :cite-key: apr:3611e3-cs
+  :date-event: 2006-01-01
   :END:
 
 
@@ -468,10 +463,10 @@ Kuantan, Malaysia
 * 21 Když se mi Bůh představuje...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3611-cs
-  :DATE-EVENT: 2006-01-01
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3611-cs
+  :date-event: 2006-01-01
   :END:
 
 
@@ -487,10 +482,10 @@ se okamžitě stává Nekonečným.
 * 22 Když se já představuji Bohu ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3612-cs
-  :DATE-EVENT: 2006-01-01
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3612-cs
+  :date-event: 2006-01-01
   :END:
 
 
@@ -506,10 +501,10 @@ se okamžitě stává konečným.
 * 23 Jsem zamilován...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3613-cs
-  :DATE-EVENT: 2006-01-01
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3613-cs
+  :date-event: 2006-01-01
   :END:
 
 
@@ -526,10 +521,10 @@ svého Pána Nejvyššího.
 * 24 Mé srdce vděčnosti...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3614-cs
-  :DATE-EVENT: 2006-01-01
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3614-cs
+  :date-event: 2006-01-01
   :END:
 
 
@@ -546,10 +541,10 @@ v každém okamžiku.
 * 25 Ó Pane...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3615-cs
-  :DATE-EVENT: 2006-01-01
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3615-cs
+  :date-event: 2006-01-01
   :END:
 
 
@@ -565,10 +560,10 @@ a zvěčni můj vnitřní hlas.
 * 26 Můj Pane...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3616-cs
-  :DATE-EVENT: 2006-01-01
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3616-cs
+  :date-event: 2006-01-01
   :END:
 
 
@@ -586,10 +581,10 @@ aby si Mě tvá mysl uvědomila.“
 * 27 Bez přestání zvoním...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3617-cs
-  :DATE-EVENT: 2006-01-01
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3617-cs
+  :date-event: 2006-01-01
   :END:
 
 
@@ -605,10 +600,10 @@ na svůj zvon srdce vděčnosti Bohu.
 * 28 Každý život má...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3618-cs
-  :DATE-EVENT: 2006-01-01
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3618-cs
+  :date-event: 2006-01-01
   :END:
 
 
@@ -625,10 +620,10 @@ do Nebe.
 * 29 Buď statečný! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3619-cs
-  :DATE-EVENT: 2006-01-01
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3619-cs
+  :date-event: 2006-01-01
   :END:
 
 
@@ -644,10 +639,10 @@ nynější zarážející skutečností.
 * 30 Jestli si opravdu přeji...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3620-cs
-  :DATE-EVENT: 2006-01-01
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3620-cs
+  :date-event: 2006-01-01
   :END:
 
 
@@ -664,10 +659,10 @@ nejsladší hlas.
 * 2. ledna 2006 ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:3621e4-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: note
+  :keywords:
+  :cite-key: apr:3621e4-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -680,10 +675,10 @@ Kuantan, Malaysia
 * 31 Bůh vstupuje...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3621-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3621-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -705,10 +700,10 @@ v Rajskou Zahradu.
 * 32 Touha vidí měsíc...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3622-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3622-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -724,10 +719,10 @@ v blátě a hlíně
 * 33 Pochybující mysl ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3623-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3623-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -744,10 +739,10 @@ do Paláce Božího Srdce.
 * 34 Duchovní pokrok ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3624-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3624-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -764,10 +759,10 @@ kdy se daří
 * 35 Věk nesouvisí...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3625-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3625-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -782,10 +777,10 @@ se životem světce.
 * 36 Bůh hladoví a hladoví...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3626-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3626-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -801,10 +796,10 @@ mého vnitřního pokroku.
 * 37 Modlitba ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3627-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3627-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -820,10 +815,10 @@ před nocí nevědomosti.
 * 38 Meditace ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3628-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3628-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -839,10 +834,10 @@ osvícením noci nevědomosti.
 * 39 Neztrácej čas...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3629-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3629-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -859,10 +854,10 @@ dychtivě čeká.
 * 40 Ani krok nazpět...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3630-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3630-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -880,10 +875,10 @@ s vírou.
 * 41 Můj Pane...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3631-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3631-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -901,10 +896,10 @@ letící do Nebe.
 * 42 Zemí spoutaná...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3632-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3632-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -919,10 +914,10 @@ mysl cestuje.
 * 43 Nebesky svobodné...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3633-cs
-  :DATE-EVENT: 2006-01-02
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3633-cs
+  :date-event: 2006-01-02
   :END:
 
 
@@ -937,10 +932,10 @@ srdce létá.
 * 3. ledna 2006 ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:3634e5-cs
-  :DATE-EVENT: 2006-01-03
+  :genre: note
+  :keywords:
+  :cite-key: apr:3634e5-cs
+  :date-event: 2006-01-03
   :END:
 
 3. ledna 2006
@@ -952,10 +947,10 @@ Kuantan, Malaysia
 * 44 Nechť se mé srdce aspirace...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3634-cs
-  :DATE-EVENT: 2006-01-03
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3634-cs
+  :date-event: 2006-01-03
   :END:
 
 
@@ -972,10 +967,10 @@ nerozlučnými přáteli.
 * 45 Bůh odpouští...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3635-cs
-  :DATE-EVENT: 2006-01-03
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3635-cs
+  :date-event: 2006-01-03
   :END:
 
 
@@ -991,10 +986,10 @@ ale nikdy na něj nezapomene.
 * 46 Upřímný hledající...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3636-cs
-  :DATE-EVENT: 2006-01-03
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3636-cs
+  :date-event: 2006-01-03
   :END:
 
 
@@ -1010,10 +1005,10 @@ o dovolenou.
 * 47 Jestliže se neochota...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3637-cs
-  :DATE-EVENT: 2006-01-03
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3637-cs
+  :date-event: 2006-01-03
   :END:
 
 
@@ -1029,10 +1024,10 @@ nechopí příležitosti,
 * 48 Když moje mysl...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3638-cs
-  :DATE-EVENT: 2006-01-03
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3638-cs
+  :date-event: 2006-01-03
   :END:
 
 
@@ -1050,10 +1045,10 @@ zaplaví mé srdce.
 * 49 První a hlavní povinnost hledajícího...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3639-cs
-  :DATE-EVENT: 2006-01-03
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3639-cs
+  :date-event: 2006-01-03
   :END:
 
 
@@ -1071,10 +1066,10 @@ Božím vlastním Způsobem.
 * 50 Mé naděje...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3640-cs
-  :DATE-EVENT: 2006-01-03
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3640-cs
+  :date-event: 2006-01-03
   :END:
 
 
@@ -1090,10 +1085,10 @@ zdobí zahradu mého srdce.
 * 51 Život odevzdání Nohám Boha...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3641-cs
-  :DATE-EVENT: 2006-01-03
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3641-cs
+  :date-event: 2006-01-03
   :END:
 
 
@@ -1109,10 +1104,10 @@ dokud nevydechneme naposled.
 * 52 Zaspat neobyčejnou Hodinu Boha...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3642-cs
-  :DATE-EVENT: 2006-01-03
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3642-cs
+  :date-event: 2006-01-03
   :END:
 
 
@@ -1129,10 +1124,10 @@ v životě hledajícího.
 * 53 Bůh tleská...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3643-cs
-  :DATE-EVENT: 2006-01-03
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3643-cs
+  :date-event: 2006-01-03
   :END:
 
 
@@ -1152,10 +1147,10 @@ nehledě na to, co děláme?
 * 4. ledna 2006 ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:3644e6-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: note
+  :keywords:
+  :cite-key: apr:3644e6-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1168,10 +1163,10 @@ Kijal, Malaysia
 * 54 Musíme čelit...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3644-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3644-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1188,10 +1183,10 @@ nanejvýš dokonalými nástroji.
 * 55 Naše mocná meditace...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3645-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3645-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1209,10 +1204,10 @@ a s největším požehnáním.
 * 56 Vždy existuje lepší způsob...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3646-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3646-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1229,10 +1224,10 @@ tento způsob objevit.
 * 57 Má meditace...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3647-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3647-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1248,10 +1243,10 @@ mého srdce.
 * 58 Naše srdce jednoty...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3648-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3648-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1267,10 +1262,10 @@ Tancem Extáze.
 * 59 Bůh chce, abych si získal nejprve...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3649-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3649-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1287,10 +1282,10 @@ na vnější svět.
 * 60 Požehnání a Zájem Nebe...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3650-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3650-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1307,10 +1302,10 @@ planetě Zemi.
 * 61 Ne fantazii mysli...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3651-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3651-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1326,10 +1321,10 @@ potřebuji.
 * 62 Výsada...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3652-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3652-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1348,10 +1343,10 @@ nepředstavitelná.
 * 63 Mé oddané srdce...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3653-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3653-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1367,10 +1362,10 @@ zpívají v dokonalém souzvuku.
 * 64 Jestliže milujeme Boha...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3654-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3654-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1387,10 +1382,10 @@ bez zastávek.
 * 65 Mysl...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3655-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3655-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1406,10 +1401,10 @@ na své dobré mínění.
 * 66 Srdce...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3656-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3656-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1426,10 +1421,10 @@ k Nohám Boha.
 * 67 Jestliže chceme pracovat na zemi...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3657-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3657-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1447,10 +1442,10 @@ Soucitem a Zájmem Nebe.
 * 68 Naši blízkost k Bohu...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:3658-cs
-  :DATE-EVENT: 2006-01-04
+  :genre: prayer
+  :keywords:
+  :cite-key: apr:3658-cs
+  :date-event: 2006-01-04
   :END:
 
 
@@ -1462,14 +1457,3 @@ abychom zvětšili
 jednotu světa. 
 
 #+END_VERSE
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

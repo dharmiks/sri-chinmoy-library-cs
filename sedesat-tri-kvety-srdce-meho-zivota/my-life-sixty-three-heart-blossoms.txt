@@ -1,20 +1,15 @@
-#+TITLE: Šedesát tři květy srdce mého života
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Šedesát tři květy srdce mého života
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2007
-  :PUBLISHER: Sri Chinmoy Centrum
-  :CITE-KEY: MLHB-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2007
+  :publisher: Sri Chinmoy Centrum
+  :cite-key: MLHB-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Jedna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:1-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:1-cs
   :END:
 
 
@@ -41,9 +36,9 @@ svého vnitřního Kruhu.
 * Dvě
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:2-cs
   :END:
 
 
@@ -61,9 +56,9 @@ a ne diktátorem mé duše, života a srdce.
 * Tři
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:3-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:3-cs
   :END:
 
 
@@ -81,9 +76,9 @@ abys mě přiměl si uvědomit,
 * Čtyři
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:4-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:4-cs
   :END:
 
 
@@ -101,9 +96,9 @@ přístupnou jen pro Tebe.
 * Pět
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:5-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:5-cs
   :END:
 
 
@@ -123,9 +118,9 @@ pravé, osvěcující a naplňující naděje.
 * Šest
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:6-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:6-cs
   :END:
 
 
@@ -143,9 +138,9 @@ obřího ega mé mysli.
 * Sedm
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:7-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:7-cs
   :END:
 
 
@@ -163,9 +158,9 @@ mému objímajícímu srdci.
 * Osm
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:8-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:8-cs
   :END:
 
 
@@ -183,9 +178,9 @@ slz pokání mé neposlušnosti.
 * Devět
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:9-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:9-cs
   :END:
 
 
@@ -203,9 +198,9 @@ své schopnosti projevit Boha.
 * Deset
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:10-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:10-cs
   :END:
 
 
@@ -226,9 +221,9 @@ a Snílkem úsměvu mého života.
 * Jedenáct
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:11-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:11-cs
   :END:
 
 
@@ -255,9 +250,9 @@ tance vítězství svého života?“
 * Dvanáct
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:12-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:12-cs
   :END:
 
 
@@ -274,9 +269,9 @@ po mém srdci uspokojení.
 * Třináct
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:13-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:13-cs
   :END:
 
 
@@ -293,9 +288,9 @@ mou nezdolnou vůlí.
 * Čtrnáct
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:14-cs
   :END:
 
 
@@ -312,9 +307,9 @@ slunečný úsměv mého srdce.
 * Patnáct
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:15-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:15-cs
   :END:
 
 
@@ -331,9 +326,9 @@ a horu příslibu mé duše.
 * Šestnáct
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:16-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:16-cs
   :END:
 
 
@@ -350,9 +345,9 @@ jedině v upřímnosti dobroty své aspirace.
 * Sedmnáct
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:17-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:17-cs
   :END:
 
 
@@ -370,9 +365,9 @@ a prostotu mého života.
 * Osmnáct
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:18-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:18-cs
   :END:
 
 
@@ -388,9 +383,9 @@ Bůh tančí v mé dychtivosti.
 * Devatenáct
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:19-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:19-cs
   :END:
 
 
@@ -407,9 +402,9 @@ miluje refrén sjednocení.
 * Dvacet
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:20-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:20-cs
   :END:
 
 
@@ -425,9 +420,9 @@ mysl nečistoty člověka.
 * Dvacet jedna
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:21-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:21-cs
   :END:
 
 
@@ -444,9 +439,9 @@ do proudu žárlivosti.
 *  Dvacet dva
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:22-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:22-cs
   :END:
 
 
@@ -463,9 +458,9 @@ a Úsměvy Božího Srdce Nekonečnosti.
 *  Dvacet tři
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:23-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:23-cs
   :END:
 
 
@@ -481,9 +476,9 @@ a dosažitelné Srdce Boha
 *  Dvacet čtyři
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:24-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:24-cs
   :END:
 
 
@@ -501,9 +496,9 @@ vetřelce -- pochybnost mysli.
 *  Dvacet pět
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:25-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:25-cs
   :END:
 
 
@@ -521,9 +516,9 @@ nadšení svého srdce.
 *  Dvacet šest
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:26-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:26-cs
   :END:
 
 
@@ -540,9 +535,9 @@ je věčným životem.
 *  Dvacet sedm
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:27-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:27-cs
   :END:
 
 
@@ -558,9 +553,9 @@ nikdy nemohou být spolu.
 *  Dvacet osm
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:28-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:28-cs
   :END:
 
 
@@ -576,9 +571,9 @@ můj Pán mi říká:
 *  Dvacet devět
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:29-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:29-cs
   :END:
 
 
@@ -594,9 +589,9 @@ před džunglí touhy mé mysli.
 * Třicet
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:30-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:30-cs
   :END:
 
 
@@ -612,9 +607,9 @@ srdce bezpodmínečného odevzdání.
 * Třicet jedna 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:31-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:31-cs
   :END:
 
 
@@ -631,9 +626,9 @@ v Božím Oku.
 * Třicet dva
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:32-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:32-cs
   :END:
 
 
@@ -651,9 +646,9 @@ a slib, který se dotýká
 * Třicet tři
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:33-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:33-cs
   :END:
 
 
@@ -670,9 +665,9 @@ kteří jsou připraveni přivítat Boha.
 * Třicet čtyři
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:34-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:34-cs
   :END:
 
 
@@ -688,9 +683,9 @@ a váhavému srdci.
 * Třicet pět
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:35-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:35-cs
   :END:
 
 
@@ -706,9 +701,9 @@ a vděčnou odpověď.
 * Třicet šest
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:36-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:36-cs
   :END:
 
 
@@ -726,9 +721,9 @@ Zítřky naplnění mého snu.
 * Třicet sedm
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:37-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:37-cs
   :END:
 
 
@@ -747,9 +742,9 @@ milovníkem Boha.
 * Třicet osm
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:38-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:38-cs
   :END:
 
 
@@ -766,9 +761,9 @@ nemá žádné nepřátele.
 * Třicet devět
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:39-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:39-cs
   :END:
 
 
@@ -786,9 +781,9 @@ nevědomost.
 * Čtyřicet
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:40-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:40-cs
   :END:
 
 
@@ -804,9 +799,9 @@ uši Matky Země.
 * Čtyřicet jedna 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:41-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:41-cs
   :END:
 
 
@@ -823,9 +818,9 @@ radostí ticha Nebes.
 * Čtyřicet dva
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:42-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:42-cs
   :END:
 
 
@@ -842,9 +837,9 @@ slunce srdce hledajícího.
 * Čtyřicet tři
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:43-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:43-cs
   :END:
 
 
@@ -862,9 +857,9 @@ když jsem zavřenými ústy!
 * Čtyřicet čtyři
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:44-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:44-cs
   :END:
 
 
@@ -884,9 +879,9 @@ když se stane srdcem vděčnosti.
 * Čtyřicet pět
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:45-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:45-cs
   :END:
 
 
@@ -903,9 +898,9 @@ našeho výkonu?
 * Čtyřicet šest
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:46-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:46-cs
   :END:
 
 
@@ -923,9 +918,9 @@ vnějšího života.
 * Čtyřicet sedm
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:47-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:47-cs
   :END:
 
 
@@ -946,9 +941,9 @@ nahrávek dokonalosti.
 * Čtyřicet osm
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:48-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:48-cs
   :END:
 
 
@@ -965,9 +960,9 @@ dlouho čeká.
 * Čtyřicet devět
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:49-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:49-cs
   :END:
 
 
@@ -984,9 +979,9 @@ Transcendentálního Boha.
 * Padesát 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:50-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:50-cs
   :END:
 
 
@@ -1002,9 +997,9 @@ jestliže Boha opravdu potřebuješ.
 * Padesát jedna 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:51-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:51-cs
   :END:
 
 
@@ -1021,9 +1016,9 @@ je tancem mé duše.
 * Padesát dva
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:52-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:52-cs
   :END:
 
 
@@ -1039,9 +1034,9 @@ když Jej tajně miluji.
 * Padesát tři
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:53-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:53-cs
   :END:
 
 
@@ -1059,9 +1054,9 @@ svého srdce.
 * Padesát čtyři
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:54-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:54-cs
   :END:
 
 
@@ -1078,9 +1073,9 @@ Boží mínění o něm.
 * Padesát pět
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:55-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:55-cs
   :END:
 
 
@@ -1096,9 +1091,9 @@ všechny své myšlenky neposlušnosti Bohu!
 * Padesát šest
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:56-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:56-cs
   :END:
 
 
@@ -1114,9 +1109,9 @@ chuligány pochybnosti.
 * Padesát sedm
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:57-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:57-cs
   :END:
 
 
@@ -1134,9 +1129,9 @@ aby ukradl vůni víry duše.
 * Padesát osm
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:58-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:58-cs
   :END:
 
 
@@ -1153,9 +1148,9 @@ sen nevědomosti.
 * Padesát devět
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:59-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:59-cs
   :END:
 
 
@@ -1172,9 +1167,9 @@ je dokonalý.
 * Šedesát
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:60-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:60-cs
   :END:
 
 
@@ -1191,9 +1186,9 @@ Způsobem Bohu vlastním.
 * Šedesát jedna 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:61-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:61-cs
   :END:
 
 
@@ -1210,9 +1205,9 @@ její vlastní nicotnosti.
 * Šedesát dva
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:62-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:62-cs
   :END:
 
 
@@ -1230,9 +1225,9 @@ k jeho spálení.
 * Šedesát tři
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:63-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mlhb:63-cs
   :END:
 
 
@@ -1245,21 +1240,3 @@ Když ale nazývám Tebe svým vlastním,
 vždy mě obejmeš.
 
 #+END_VERSE
-
-
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

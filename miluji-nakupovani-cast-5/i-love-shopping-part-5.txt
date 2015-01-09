@@ -1,20 +1,15 @@
-#+TITLE: Miluji nakupování, část 5.
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Miluji nakupování, část 5.
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil 
-  :YEAR: 2008
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: ILS-5-cs
-  :GENRE: story
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: nil 
+  :year: 2008
+  :publisher: Madal Bal
+  :cite-key: ILS-5-cs
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,10 +17,10 @@
 * Stejný úsměv
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:174-cs
-  :DATE-EVENT: 1988-01-08
+  :genre: story
+  :keywords:
+  :cite-key: ils:174-cs
+  :date-event: 1988-01-08
   :END:
 
 
@@ -40,10 +35,10 @@ Odpověděl jsem na to 200 rupií a ona se na mě usmála úplně stejně jako p
 * Rozhovor dvou duší
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:175-cs
-  :DATE-EVENT: 1988-01-12
+  :genre: story
+  :keywords:
+  :cite-key: ils:175-cs
+  :date-event: 1988-01-12
   :END:
 
 
@@ -86,10 +81,10 @@ Bali je zemí prostoty. Mohl bych si jinak dovolit s někým takhle mluvit? Byl
 * Jak mohl jít nakupovat?
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:176-cs
-  :DATE-EVENT: 1988-02-04
+  :genre: story
+  :keywords:
+  :cite-key: ils:176-cs
+  :date-event: 1988-02-04
   :END:
 
 
@@ -106,10 +101,10 @@ Ten muž přišel dvakrát na naši meditaci do základní školy 86 a viděl m�
 * Možná mi uvěřila!
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:177-cs
-  :DATE-EVENT: 1988-02-18
+  :genre: story
+  :keywords:
+  :cite-key: ils:177-cs
+  :date-event: 1988-02-18
   :END:
 
 
@@ -134,10 +129,10 @@ Poté jsem jí řekl, že jsem hrál také v Royal Albert Hall v Londýně a v
 * Kolik toho napovídám!
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:178-cs
-  :DATE-EVENT: 1988-03-21
+  :genre: story
+  :keywords:
+  :cite-key: ils:178-cs
+  :date-event: 1988-03-21
   :END:
 
 
@@ -155,7 +150,7 @@ On odpověděl: „Mýlíte se. Jaro začíná dnes.“
 
 Řekl jsem: „Dobrá, ať jaro začalo včera, nebo dnes, každopádně je stále velmi chladno.“
 
-Odvětil něco ve smyslu: „To je smůla!“ Poté řekl: „Proč si nekoupíte tohle? Pokud s tím nebudete spokojen, můžete to vrátit.“
+Odvětil něco ve smyslu: „to je smůla!“ poté řekl: „Proč si nekoupíte tohle? Pokud s tím nebudete spokojen, můžete to vrátit.“
 
 Řekl jsem: „Nebudu se sem vracet, abych ji mohl vrátil.“
 
@@ -168,10 +163,10 @@ Když nakupuji, kolik toho s těmito lidmi napovídám!
 * Moudrý chlapík
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:179-cs
-  :DATE-EVENT: 1988-03-27
+  :genre: story
+  :keywords:
+  :cite-key: ils:179-cs
+  :date-event: 1988-03-27
   :END:
 
 
@@ -193,7 +188,7 @@ A ona se zeptala: „Teď se chcete stát občanem?“
 
 Poté jsem se otočil a začal si prohlížet knihy v oddělení náboženství. Koupil jsem si nějaké knihy o Sokratovi, Buddhovi a  Kristovi. Rovněž jsem tam viděl malou brožuru od Thomase Mertona. Vidagdha o něm psala svou disertační práci.
 
-Ta paní mě stále sledovala. Uviděl jsem jednu ze svých knih, Fontánové srdce moudrosti. Cenovka  překrývala slovo „moudrost“ a já se pod ní pokoušel titul přečíst. Ta paní viděla, jak se snažím titul přečíst, a řekla: „moudrosti“. Poté dodala: „Od Sri Chinmoye – moudrého chlapíka Sri Chinmoye.“
+Ta paní mě stále sledovala. Uviděl jsem jednu ze svých knih, Fontánové srdce moudrosti. Cenovka  překrývala slovo „moudrost“ a já se pod ní pokoušel titul přečíst. Ta paní viděla, jak se snažím titul přečíst, a řekla: „moudrosti“. poté dodala: „Od Sri Chinmoye – moudrého chlapíka Sri Chinmoye.“
 
 Byl jsem tím docela pobavený a jen jsem se na ni usmál. Neměl jsme to srdce jí říct, že ten moudrý chlapík jsem já.
 
@@ -205,10 +200,10 @@ Byl jsem tím docela pobavený a jen jsem se na ni usmál. Neměl jsme to srdce 
 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:180-cs
-  :DATE-EVENT: 1988-04-30
+  :genre: story
+  :keywords:
+  :cite-key: ils:180-cs
+  :date-event: 1988-04-30
   :END:
 
 
@@ -237,10 +232,10 @@ Nakonec jsem získal svých 200 srdíčkových sušenek.
 * Založené brýle
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:181-cs
-  :DATE-EVENT: 1988-05-28
+  :genre: story
+  :keywords:
+  :cite-key: ils:181-cs
+  :date-event: 1988-05-28
   :END:
 
 
@@ -248,7 +243,7 @@ Když stojím ve frontě na placení a slyším slovo „kreditní karta“, jdu
 
 Zatímco prodavač počítal nakoupené zboží, chudák paní si odložila brýle a vložila je do pouzdra. Zapomněla ale vrátit pouzdro do kabelky a odešla bez něj. Viděl jsem, co se přihodilo, a tak jsem brýle vzal  a snažil se ji najít. Já ale pokulhávám a nemohu chodit moc rychle a ani jsem nevěděl, kterým směrem se vydat. Modlil jsem se k Bohu, abych tu paní našel.
 
-Poté jsem ji uviděl procházet se pouhých pět nebo šest metrů ode mě. Trochu jsem zapochyboval, zda je to opravdu ona, a tak jsem se zeptal: „Je to vaše?“ Byla tak šťastná. Řekla mi: „Takové věci se mi stávají pořád. Jsem vám velmi vděčná.“
+Poté jsem ji uviděl procházet se pouhých pět nebo šest metrů ode mě. Trochu jsem zapochyboval, zda je to opravdu ona, a tak jsem se zeptal: „je to vaše?“ byla tak šťastná. Řekla mi: „Takové věci se mi stávají pořád. Jsem vám velmi vděčná.“
 
 28. května 1988
 
@@ -257,10 +252,10 @@ Poté jsem ji uviděl procházet se pouhých pět nebo šest metrů ode mě. Tro
 * Nákupní taška s Taj Mahal
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:182-cs
-  :DATE-EVENT: 1988-05-28
+  :genre: story
+  :keywords:
+  :cite-key: ils:182-cs
+  :date-event: 1988-05-28
   :END:
 
 
@@ -279,10 +274,10 @@ Poté řekla: „Ó, tady je váš Taj Mahal“ a tašku mi dala.
 * Špatně vrácené peníze 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:183-cs
-  :DATE-EVENT: 1988-05-28
+  :genre: story
+  :keywords:
+  :cite-key: ils:183-cs
+  :date-event: 1988-05-28
   :END:
 
 
@@ -311,10 +306,10 @@ Když jsem šel do auta za Vinaya, všiml jsem si, že mi vrátil jen 58 centů 
 * Baterie zdarma
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:184-cs
-  :DATE-EVENT: 1988-05-28
+  :genre: story
+  :keywords:
+  :cite-key: ils:184-cs
+  :date-event: 1988-05-28
   :END:
 
 
@@ -329,10 +324,10 @@ Vtom přišla jeho manželka a vynadala mu. „Co to děláš?“ řekla. A tak 
 * Americké smlouvání
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:185-cs
-  :DATE-EVENT: 1988-05-28
+  :genre: story
+  :keywords:
+  :cite-key: ils:185-cs
+  :date-event: 1988-05-28
   :END:
 
 
@@ -356,7 +351,7 @@ On na to: „Nemůžete dát víc?“
 
 Odpověděl: „Zrovna včera jsem tohle prodal za 55 dolarů.“
 
-Na to jsem řekl: „Ne, nedám víc“ a odešel jsem pryč. Později, když jsem kolem něho znovu procházel, řekl: „Hej! Proč se musíte chovat takto?“ Potom dodal něco urážlivého. Tentokrát jsem k němu nešel.
+Na to jsem řekl: „ne, nedám víc“ a odešel jsem pryč. později, když jsem kolem něho znovu procházel, řekl: „Hej! Proč se musíte chovat takto?“ Potom dodal něco urážlivého. Tentokrát jsem k němu nešel.
 
 Poté řekl: „55 dolarů.“
 
@@ -373,10 +368,10 @@ Někdy s vámi lidé zachází tak nemilosrdně, ale já se tím bavím. Když 
 * Vaječné rolky
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:186-cs
-  :DATE-EVENT: 1988-05-28
+  :genre: story
+  :keywords:
+  :cite-key: ils:186-cs
+  :date-event: 1988-05-28
   :END:
 
 
@@ -403,10 +398,10 @@ Jdu nakupovat a vrátím se s celou Mahábháratou příběhů!
 * Prodejní daň
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:187-cs
-  :DATE-EVENT: 1988-05-28
+  :genre: story
+  :keywords:
+  :cite-key: ils:187-cs
+  :date-event: 1988-05-28
   :END:
 
 
@@ -414,7 +409,7 @@ V jednom obchodě jsem si chtěl koupit něco za 20 dolarů, ale prodavačka ř
 
 Řekl jsem na to: „Je zde napsané 20 dolarů.“
 
-Odpověděla: „Ještě daň!“ Poté se mě zeptala: „Odkud pocházíte?“
+Odpověděla: „ještě daň!“ poté se mě zeptala: „Odkud pocházíte?“
 
 Řekl jsem: „Z Indie.“
 
@@ -435,10 +430,10 @@ Odpověděl jsem: „Ale toto je ve výprodeji.“
 * Indická oddanost
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:188-cs
-  :DATE-EVENT: 1988-05-28
+  :genre: story
+  :keywords:
+  :cite-key: ils:188-cs
+  :date-event: 1988-05-28
   :END:
 
 
@@ -453,10 +448,10 @@ Někteří indičtí majitelé obchodů mi projevují takovou oddanost! V jedno
 * Stejná kniha
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:189-cs
-  :DATE-EVENT: 1988-05-28
+  :genre: story
+  :keywords:
+  :cite-key: ils:189-cs
+  :date-event: 1988-05-28
   :END:
 
 
@@ -473,10 +468,10 @@ V tom knihkupectví jsem neviděl žádnou jinou knihu, kterou bych chtěl, ale
 * Malý svět
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:190-cs
-  :DATE-EVENT: 1988-06-05
+  :genre: story
+  :keywords:
+  :cite-key: ils:190-cs
+  :date-event: 1988-06-05
   :END:
 
 
@@ -505,10 +500,10 @@ Svět je tak malý. Dříve bydlela v oblasti Flatbush. Já jsem tam také bydle
 * Nicholas je vaším největším obdivovatelem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:191-cs
-  :DATE-EVENT: 1988-06-13
+  :genre: story
+  :keywords:
+  :cite-key: ils:191-cs
+  :date-event: 1988-06-13
   :END:
 
 
@@ -527,10 +522,10 @@ Má šestnáctiletého syna Nicka. Řekl: „Nicholas se na vaši fotku dívá k
 * Vzdálený mléčný koktejl
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:192-cs
-  :DATE-EVENT: 1988-09-23
+  :genre: story
+  :keywords:
+  :cite-key: ils:192-cs
+  :date-event: 1988-09-23
   :END:
 
 
@@ -551,10 +546,10 @@ Nastavil jsem si hodinky a viděl jsem, že to netrvalo ani 11 minut. Taková ja
 * Přijde k mé smrtelné posteli
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:193-cs
-  :DATE-EVENT: 1988-09-26
+  :genre: story
+  :keywords:
+  :cite-key: ils:193-cs
+  :date-event: 1988-09-26
   :END:
 
 
@@ -578,11 +573,11 @@ Když mi řekl to místo, odpověděl jsem: „To je velice známé místo. Naro
 
 Ten muž neznal jména spisovatelů, která jsem zmínil.
 
-Poté jeho manželka řekla: „Přijďte nás prosím navštívit a požehnejte nás prachem svých nohou.“ To je bengálský způsob, jak říct: „Přijďte k nám na večeři.“ 
+Poté jeho manželka řekla: „přijďte nás prosím navštívit a požehnejte nás prachem svých nohou.“ to je bengálský způsob, jak říct: „Přijďte k nám na večeři.“ 
 
 Odpověděl jsem: „Jsem tu s tolika lidmi. Nebudu moci přijít.“
 
-Ona na to: „Přijďte jen na pár minut. Jste tak moudrý.“ Její manžel si to ale nepřál a pořádně se naštval. Začali se spolu dohadovat. Ten muž řekl: „Ten přijde jedině k mé smrtelné posteli.“
+Ona na to: „přijďte jen na pár minut. jste tak moudrý.“ její manžel si to ale nepřál a pořádně se naštval. začali se spolu dohadovat. ten muž řekl: „Ten přijde jedině k mé smrtelné posteli.“
 
 Na to jsem řekl: „Nechci, abyste zemřel.“ Poté jsem se vytratil.
 
@@ -593,16 +588,16 @@ Na to jsem řekl: „Nechci, abyste zemřel.“ Poté jsem se vytratil.
 * Indický způsob smlouvání
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:194-cs
-  :DATE-EVENT: 1988-09-26
+  :genre: story
+  :keywords:
+  :cite-key: ils:194-cs
+  :date-event: 1988-09-26
   :END:
 
 
 V jiném korejském obchodě se mi líbila jedna věc, a tak jsem se zeptal starší paní za pokladnou na cenu.
 
-Řekla: „13 dolarů.“ Už jsem si u ní pár věcí koupil, a tak jsem řekl: „Ne, 10 dolarů“ a dal jsem jí 10 dolarů.
+Řekla: „13 dolarů.“ už jsem si u ní pár věcí koupil, a tak jsem řekl: „Ne, 10 dolarů“ a dal jsem jí 10 dolarů.
 
 Odpověděla: „Ne, musíte mi dát ještě o tři dolary víc.“ Jelikož jsem smlouval, tvrdil jsem jí, že nemám víc peněz. 
 
@@ -621,10 +616,10 @@ Když jsem tvrdil, že nemám peníze, nelhal jsem. Jen jsem smlouval po indick�
 * Proč kupovat tak hloupou věc?
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:195-cs
-  :DATE-EVENT: 1988-09-26
+  :genre: story
+  :keywords:
+  :cite-key: ils:195-cs
+  :date-event: 1988-09-26
   :END:
 
 
@@ -645,10 +640,10 @@ Tak jsem ji nekoupil. Řekl jsem si: „Proč bych měl kupovat tak hloupou věc
 * Musíte být Ind
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:196-cs
-  :DATE-EVENT: 1988-09-26
+  :genre: story
+  :keywords:
+  :cite-key: ils:196-cs
+  :date-event: 1988-09-26
   :END:
 
 
@@ -671,10 +666,10 @@ Musíte být Ind, abyste smlouvali!
 * Nakupování jo-jo
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:197-cs
-  :DATE-EVENT: 1988-09-26
+  :genre: story
+  :keywords:
+  :cite-key: ils:197-cs
+  :date-event: 1988-09-26
   :END:
 
 
@@ -689,10 +684,10 @@ Musel jsem tolik bojovat, když jsem se snažil nakoupit jo-ja. Jo-ja měly uvni
 * Přívěšek na klíče
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:198-cs
-  :DATE-EVENT: 1988-09-26
+  :genre: story
+  :keywords:
+  :cite-key: ils:198-cs
+  :date-event: 1988-09-26
   :END:
 
 
@@ -707,10 +702,10 @@ Nemyslím nejprve na člověka. Až poté, co uvidím nějakou věc, která se m
 * Varování v Řecku
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:199-cs
-  :DATE-EVENT: 1988-10-08
+  :genre: story
+  :keywords:
+  :cite-key: ils:199-cs
+  :date-event: 1988-10-08
   :END:
 
 
@@ -729,10 +724,10 @@ Tak jsem dovnitř nešel.
 * Dva pochybující
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:200-cs
-  :DATE-EVENT: 1988-10-13
+  :genre: story
+  :keywords:
+  :cite-key: ils:200-cs
+  :date-event: 1988-10-13
   :END:
 
 
@@ -749,10 +744,10 @@ Nejprve on nevěřil nám, poté jsme my nevěřili jemu. Tak jsme šli ven děl
 * Dva upřímní vyjednavači
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:201-cs
-  :DATE-EVENT: 1988-12-18
+  :genre: story
+  :keywords:
+  :cite-key: ils:201-cs
+  :date-event: 1988-12-18
   :END:
 
 
@@ -777,10 +772,10 @@ Já na to: „Ne, já jsem souhlasil s tím, že zaplatím 180“ a vrátil jse
 * Girlandy
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:202-cs
-  :DATE-EVENT: 1988-12-22
+  :genre: story
+  :keywords:
+  :cite-key: ils:202-cs
+  :date-event: 1988-12-22
   :END:
 
 
@@ -799,10 +794,10 @@ Nakonec jsem si řekl: „Musím je koupit.“ Tak jsem jí dal 10 bahtů. Dívk
 * Výhoda toho, když umíte tamilsky
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:203-cs
-  :DATE-EVENT: 1988-12-28
+  :genre: story
+  :keywords:
+  :cite-key: ils:203-cs
+  :date-event: 1988-12-28
   :END:
 
 
@@ -831,10 +826,10 @@ Tak jsem dostal slevu 5 dolarů, protože jsem uměl tamilsky.
 * Čas navštívit ušního lékaře
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:204-cs
-  :DATE-EVENT: 1988-12-30
+  :genre: story
+  :keywords:
+  :cite-key: ils:204-cs
+  :date-event: 1988-12-30
   :END:
 
 
@@ -867,10 +862,10 @@ Když jsem mu dával těch 10 dolarů, řekl jsem: „Je nejvyšší čas, abych
 * Tamilské knihkupectví
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: ILS:205-cs
-  :DATE-EVENT: 1989-01-04
+  :genre: story
+  :keywords:
+  :cite-key: ils:205-cs
+  :date-event: 1989-01-04
   :END:
 
 
@@ -891,20 +886,3 @@ Odpověděl jsem: „Dvacet let jsem žil v Jižní Indii!“
 Poté mi knihy dala za 50 dolarů.
 
 4. ledna 1989
-
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

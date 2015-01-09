@@ -1,20 +1,15 @@
-#+TITLE: Pán Gauranga: ztělesněná Láska
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Pán Gauranga: ztělesněná Láska
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2008
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: LGLI-cs
-  :GENRE: play
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2008
+  :publisher: Madal Bal
+  :cite-key: LGLI-cs
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * PŘÁTELSTVÍ SE NIC NEVYROVNÁ
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:1-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:1-cs
   :END:
 
 
@@ -32,9 +27,9 @@
 * Přátelství se nic nevyrovná
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:2-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:2-cs
   :END:
 
 
@@ -46,9 +41,9 @@ RAGHUNATH, JEHO PŘÍTEL
 * Přátelství se nic nevyrovná -- /(Akt I, scéna I)/
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:3-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:3-cs
   :END:
 
 
@@ -80,7 +75,7 @@ RAGHUNATH: Chyby? Žádné chyby, ale dokonalá Dokonalost. Běda, také jsem na
 
 RAGHUNATH: Co jsi to udělal? Co jsi to udělal? Tak cennou a hodnotnou knihu jsi hodil do Gangy?
 
-ČAITANJA: Přátelství je na prvním místě. Přátelství s tebou si vážím nekonečně více, než si vážím své knihy. Raghunathe, ty potřebuješ jméno a slávu. Bůh ti je dá. Já potřebuji jen jedinou věc: přítomnost Pána Kršny ve svém srdci. Potřebuji pouze jeho přítomnost, jeho nohy ve svém srdci.
+ČAITANJA: přátelství je na prvním místě. přátelství s tebou si vážím nekonečně více, než si vážím své knihy. raghunathe, ty potřebuješ jméno a slávu. bůh ti je dá. já potřebuji jen jedinou věc: přítomnost Pána Kršny ve svém srdci. Potřebuji pouze jeho přítomnost, jeho nohy ve svém srdci.
 
 /(Čaitanja zpívá.)/
 
@@ -122,9 +117,9 @@ RAGHUNATH: Vidíš vše svým vnitřním Světlem, svou vlastní realizací. Mez
 * Ó ZŘÍKAJÍCÍ SE SVĚTA, BUĎ OPATRNÝ!
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:4-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:4-cs
   :END:
 
 
@@ -132,9 +127,9 @@ RAGHUNATH: Vidíš vše svým vnitřním Světlem, svou vlastní realizací. Mez
 * Ó zříkající se světa, buď opatrný!
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:5-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:5-cs
   :END:
 
 
@@ -148,9 +143,9 @@ GÓVINDA, ŽÁK
 * Ó zříkající se světa, buď opatrný! -- /(Akt II, scéna I)/
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:6-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:6-cs
   :END:
 
 
@@ -226,9 +221,9 @@ HARIDAŠ: Pane, protože se se mnou už nikdy nesetkáš, můj život je zbyteč
 * DAMODARE, JSEM VYSOKO NAD MORÁLKOU
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:7-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:7-cs
   :END:
 
 
@@ -236,9 +231,9 @@ HARIDAŠ: Pane, protože se se mnou už nikdy nesetkáš, můj život je zbyteč
 * Damodare, jsem vysoko nad morálkou
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:8-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:8-cs
   :END:
 
 
@@ -251,9 +246,9 @@ KRÁSNÝ MLADÝ CHLAPEC -- ŽÁK ČAITANJI
 * Damodare, jsem vysoko nad morálkou -- /(Akt III, scéna I)/
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:9-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:9-cs
   :END:
 
 
@@ -316,9 +311,9 @@ DAMODAR: Dokonce i když jsi upřímný, dokonce, i když jak říkáš, nemáš
 * KRŠNO, PŘI TVÉ NEPŘÍTOMNOSTI ZEMŘU
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:10-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:10-cs
   :END:
 
 
@@ -326,9 +321,9 @@ DAMODAR: Dokonce i když jsi upřímný, dokonce, i když jak říkáš, nemáš
 * Kršno, při tvé nepřítonmosti zemřu
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:11-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:11-cs
   :END:
 
 
@@ -342,9 +337,9 @@ DALŠÍ ŽÁCI
 * Kršno, při tvé nepřítonmosti zemřu -- /(Akt IV, scéna I)/
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:12-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:12-cs
   :END:
 
 /(Čaitanja je sám.)/
@@ -384,9 +379,9 @@ OZVĚNA: Nai, nai, ...[nikde, nikde]
 * ŠRIBAŠ
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:13-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:13-cs
   :END:
 
 
@@ -394,9 +389,9 @@ OZVĚNA: Nai, nai, ...[nikde, nikde]
 * Šribaš
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:14-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:14-cs
   :END:
 
 
@@ -413,9 +408,9 @@ SYN ŠRIBAŠE
 * Šribaš -- /(Akt V, scéna I)/
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:15-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:15-cs
   :END:
 
 
@@ -492,9 +487,9 @@ MANŽELKA /(dotkne se Čaitanjových nohou)/: Pane, v Tobě vidím své dítě.
 * MATKA SE DOTÝKÁ SYNOVÝCH NOHOU
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:16-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:16-cs
   :END:
 
 
@@ -502,10 +497,10 @@ MANŽELKA /(dotkne se Čaitanjových nohou)/: Pane, v Tobě vidím své dítě.
 * Matka se dotýká synových nohou
 
   :PROPERTIES:
-  :SUBTITLE: Cast
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:17-cs
+  :subtitle: Cast
+  :genre: play
+  :keywords:
+  :cite-key: lgli:17-cs
   :END:
 
 
@@ -518,9 +513,9 @@ MANŽELKA /(dotkne se Čaitanjových nohou)/: Pane, v Tobě vidím své dítě.
 * Matka se dotýká synových nohou -- /(Akt VI, scéna I)/
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:18-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:18-cs
   :END:
 
 
@@ -575,9 +570,9 @@ a Tobě se klaním a klaním.]
 * Ó ČAITANJO, POTŘEBUJI TVOU LÁSKU
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:19-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:19-cs
   :END:
 
 
@@ -585,9 +580,9 @@ a Tobě se klaním a klaním.]
 * Ó Čaitanjo, potřebuji tvou lásku
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:20-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:20-cs
   :END:
 
 
@@ -599,9 +594,9 @@ CÍSAŘOVNA
 * Ó Čaitanjo, potřebuji tvou lásku -- /(Akt VII, scéna I)/
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:21-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:21-cs
   :END:
 
 
@@ -652,9 +647,9 @@ dnem i nocí zpívat píseň Světla?]
 * MÝM POSLEDNÍM PŘÁNÍM JE POLOŽIT TVÉ NOHY NA MÉ SRDCE
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:22-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:22-cs
   :END:
 
 
@@ -662,9 +657,9 @@ dnem i nocí zpívat píseň Světla?]
 * Mým posledním přáním je položit Tvé nohy na mé srdce
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:23-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:23-cs
   :END:
 
 STARŠÍ HARIDAŠ
@@ -677,9 +672,9 @@ DESET ŽÁKŮ ČAITANJI
 * Mým posledním přáním je položit Tvé nohy na mé srdce -- /(Akt VIII, scéna I)/
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:24-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:24-cs
   :END:
 
 
@@ -724,16 +719,16 @@ HARIDAŠ: Můj Pane, ty jsi mým světem. Jsi mým světlem. Jsi dechem mého sr
 
 /(Haridaš umírá. Čaitanja zvedne Haridašovo tělo a začne tančit a zpívat Hari Bol, Hari Bol.)/
 
-ČAITANJA: Odešel do mého druhého domova. Mám dva domovy: jeden na zemi a jeden v Nebi. Odešel do mého Nebeského domova. Připraví vše na můj příchod. V duchovním životě neexistuje žádná kasta, neexistuje žádná hodnost. Pocházel z nízké rodiny, ale v Božím Oku jsme všichni jedním. Pravda není monopolem bráhminů. Pravda patří každému. Ten, kdo realizuje Pravdu, stojí nad všemi ostatními. Haridaš realizoval Pravdu. Je nad vším, nad každým. Mít žáka, jako je Haridaš, něco znamená. Splnit jeho poslední přání něco znamená. Být s ním na onom světě něco znamená. Něco dobrého. Něco božského. Něco nesmrtelného.
+ČAITANJA: odešel do mého druhého domova. mám dva domovy: jeden na zemi a jeden v Nebi. Odešel do mého Nebeského domova. Připraví vše na můj příchod. V duchovním životě neexistuje žádná kasta, neexistuje žádná hodnost. Pocházel z nízké rodiny, ale v Božím Oku jsme všichni jedním. Pravda není monopolem bráhminů. Pravda patří každému. Ten, kdo realizuje Pravdu, stojí nad všemi ostatními. Haridaš realizoval Pravdu. Je nad vším, nad každým. Mít žáka, jako je Haridaš, něco znamená. Splnit jeho poslední přání něco znamená. Být s ním na onom světě něco znamená. Něco dobrého. Něco božského. Něco nesmrtelného.
 
 
 
 * PÁN GAURANGA: ZTĚLESNĚNÁ LÁSKA
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:25-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:25-cs
   :END:
 
 
@@ -741,9 +736,9 @@ HARIDAŠ: Můj Pane, ty jsi mým světem. Jsi mým světlem. Jsi dechem mého sr
 * Pán Gauranga: ztělesněná Láska
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:26-cs
+  :genre: play
+  :keywords:
+  :cite-key: lgli:26-cs
   :END:
 
 
@@ -756,10 +751,10 @@ DŽAGAI, MADHAI -- DVA BRATŘI, CHULIGÁNI
 * Pán Gauranga: ztělesněná Láska -- /(Akt IX, scéna I)/
 
   :PROPERTIES:
-  :SUBTITLE:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:27-cs
+  :subtitle:
+  :genre: play
+  :keywords:
+  :cite-key: lgli:27-cs
   :END:
 
 
@@ -820,18 +815,3 @@ Dnes Tě prosím, abys mi nabídnul jen jedinou věc: ticho, ticho.
 Ó Ty z nejvyšších výšek, zasvěť mě dnes. ]
 
 #+END_VERSE
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

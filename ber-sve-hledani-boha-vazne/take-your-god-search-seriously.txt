@@ -1,12 +1,7 @@
-#+TITLE: Ber své hledání Boha vážně
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Ber své hledání Boha vážně
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: nil
@@ -25,7 +20,7 @@
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:1-cs
+  :cite-key: gss:1-cs
   :END:
 
 
@@ -45,7 +40,7 @@ hraje na flétnu osvícení.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:2-cs
+  :cite-key: gss:2-cs
   :END:
 
 
@@ -68,7 +63,7 @@ na Boha.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:3-cs
+  :cite-key: gss:3-cs
   :END:
 
 
@@ -90,7 +85,7 @@ své mysli.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:4-cs
+  :cite-key: gss:4-cs
   :END:
 
 
@@ -110,7 +105,7 @@ odborník na Boha?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:5-cs
+  :cite-key: gss:5-cs
   :END:
 
 
@@ -130,7 +125,7 @@ se plné bolesti skrývá.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:6-cs
+  :cite-key: gss:6-cs
   :END:
 
 
@@ -150,7 +145,7 @@ na naše rozličná očekávání.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:7-cs
+  :cite-key: gss:7-cs
   :END:
 
 
@@ -171,7 +166,7 @@ Tvé Lásky.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:8-cs
+  :cite-key: gss:8-cs
   :END:
 
 
@@ -191,7 +186,7 @@ společně.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:9-cs
+  :cite-key: gss:9-cs
   :END:
 
 
@@ -212,7 +207,7 @@ tvůj pochod do Nebe.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:10-cs
+  :cite-key: gss:10-cs
   :END:
 
 
@@ -231,7 +226,7 @@ která nikdy nepřijde.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:11-cs
+  :cite-key: gss:11-cs
   :END:
 
 
@@ -252,7 +247,7 @@ ve svůj vlak mysli a vitálna.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:12-cs
+  :cite-key: gss:12-cs
   :END:
 
 
@@ -280,7 +275,7 @@ a nakonec do něj vrůst.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:13-cs
+  :cite-key: gss:13-cs
   :END:
 
 
@@ -300,7 +295,7 @@ se zapadajícím sluncem.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:14-cs
+  :cite-key: gss:14-cs
   :END:
 
 
@@ -322,7 +317,7 @@ za svou vlastní.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:15-cs
+  :cite-key: gss:15-cs
   :END:
 
 
@@ -344,7 +339,7 @@ jak dokonalý je tvůj dech!
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:16-cs
+  :cite-key: gss:16-cs
   :END:
 
 
@@ -365,7 +360,7 @@ za své vlastní.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:17-cs
+  :cite-key: gss:17-cs
   :END:
 
 
@@ -385,7 +380,7 @@ Světlu Soucitu Boha.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:18-cs
+  :cite-key: gss:18-cs
   :END:
 
 
@@ -406,7 +401,7 @@ ve všemohoucí Vůli.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:19-cs
+  :cite-key: gss:19-cs
   :END:
 
 
@@ -429,7 +424,7 @@ u oltáře své mysli.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:20-cs
+  :cite-key: gss:20-cs
   :END:
 
 
@@ -451,7 +446,7 @@ a nesmírnou blaženost.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:21-cs
+  :cite-key: gss:21-cs
   :END:
 
 
@@ -473,7 +468,7 @@ ze své zlaté sklizně.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:22-cs
+  :cite-key: gss:22-cs
   :END:
 
 
@@ -493,7 +488,7 @@ tím, že je vlastněn pouze Bohem.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:23-cs
+  :cite-key: gss:23-cs
   :END:
 
 
@@ -513,7 +508,7 @@ smrt naší aspirace.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:24-cs
+  :cite-key: gss:24-cs
   :END:
 
 
@@ -532,7 +527,7 @@ dokonalým dárcem míru.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:25-cs
+  :cite-key: gss:25-cs
   :END:
 
 
@@ -553,7 +548,7 @@ je tvou bezesnou a bezdechou volbou.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:26-cs
+  :cite-key: gss:26-cs
   :END:
 
 
@@ -573,7 +568,7 @@ neochotou vitálna a mysli.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:27-cs
+  :cite-key: gss:27-cs
   :END:
 
 
@@ -593,7 +588,7 @@ nejrychlejší pokrok v duchovnosti?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:28-cs
+  :cite-key: gss:28-cs
   :END:
 
 
@@ -613,7 +608,7 @@ Boží Oko Soucitu.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:29-cs
+  :cite-key: gss:29-cs
   :END:
 
 
@@ -635,7 +630,7 @@ jak jít zpět.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:30-cs
+  :cite-key: gss:30-cs
   :END:
 
 
@@ -656,7 +651,7 @@ než nesčetná poranění.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:31-cs
+  :cite-key: gss:31-cs
   :END:
 
 
@@ -676,7 +671,7 @@ o důvěrnost mého srdce.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:32-cs
+  :cite-key: gss:32-cs
   :END:
 
 
@@ -695,7 +690,7 @@ Květům Slibu mého Pána.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:33-cs
+  :cite-key: gss:33-cs
   :END:
 
 
@@ -715,7 +710,7 @@ pokušení je nuceno se mi vyhnout.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:34-cs
+  :cite-key: gss:34-cs
   :END:
 
 
@@ -735,7 +730,7 @@ mysli.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:35-cs
+  :cite-key: gss:35-cs
   :END:
 
 
@@ -754,7 +749,7 @@ od vždy se tyčících tužeb.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:36-cs
+  :cite-key: gss:36-cs
   :END:
 
 
@@ -776,7 +771,7 @@ slunce tvé naděje.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:37-cs
+  :cite-key: gss:37-cs
   :END:
 
 
@@ -797,7 +792,7 @@ zde a nyní.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:38-cs
+  :cite-key: gss:38-cs
   :END:
 
 
@@ -819,7 +814,7 @@ tvá mysl.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:39-cs
+  :cite-key: gss:39-cs
   :END:
 
 
@@ -840,7 +835,7 @@ univerzální svobody.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:40-cs
+  :cite-key: gss:40-cs
   :END:
 
 
@@ -861,7 +856,7 @@ na Zemi.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:41-cs
+  :cite-key: gss:41-cs
   :END:
 
 
@@ -881,7 +876,7 @@ Svůj Tanec Osvícení?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:42-cs
+  :cite-key: gss:42-cs
   :END:
 
 
@@ -900,7 +895,7 @@ uvnitř svého srdce aspirace.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:43-cs
+  :cite-key: gss:43-cs
   :END:
 
 
@@ -920,7 +915,7 @@ jestliže o Něm pochybuješ.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:44-cs
+  :cite-key: gss:44-cs
   :END:
 
 
@@ -939,7 +934,7 @@ doživotní utrpení.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:45-cs
+  :cite-key: gss:45-cs
   :END:
 
 
@@ -960,7 +955,7 @@ nade vše.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:46-cs
+  :cite-key: gss:46-cs
   :END:
 
 
@@ -980,7 +975,7 @@ všechno zničila.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:47-cs
+  :cite-key: gss:47-cs
   :END:
 
 
@@ -999,7 +994,7 @@ nemá s ničím srovnání.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:48-cs
+  :cite-key: gss:48-cs
   :END:
 
 
@@ -1018,7 +1013,7 @@ nám žehná
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:49-cs
+  :cite-key: gss:49-cs
   :END:
 
 
@@ -1038,7 +1033,7 @@ a transformující svět.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: GSS:50-cs
+  :cite-key: gss:50-cs
   :END:
 
 
@@ -1050,25 +1045,3 @@ své srce a svůj život
 věčně šťastnými.
 
 #+END_VERSE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

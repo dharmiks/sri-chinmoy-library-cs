@@ -1,20 +1,15 @@
-#+TITLE: Boží Velikost a Boží Dobrota
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Boží Velikost a Boží Dobrota
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :BOOK-YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: GGGG-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :book-year: 2007
+  :publisher: Madal Bal
+  :cite-key: GGGG-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:1-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:1-cs
   :END:
 
 
@@ -42,9 +37,9 @@ mě osvítila.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:2-cs
   :END:
 
 
@@ -62,9 +57,9 @@ mě osvobodila.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:3-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:3-cs
   :END:
 
 
@@ -82,9 +77,9 @@ Tvou Dobrotu.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:4-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:4-cs
   :END:
 
 
@@ -104,9 +99,9 @@ kterou potřebuji.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:5-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:5-cs
   :END:
 
 
@@ -124,9 +119,9 @@ je mým hladem aspirace.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:6-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:6-cs
   :END:
 
 
@@ -146,9 +141,9 @@ Tvou Dobrotu.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:7-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:7-cs
   :END:
 
 
@@ -166,9 +161,9 @@ Tvou Dobrotu.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:8-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:8-cs
   :END:
 
 
@@ -187,9 +182,9 @@ abys řídil loď mého srdce.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:9-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:9-cs
   :END:
 
 
@@ -207,9 +202,9 @@ mě osvěcuje.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:10-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:10-cs
   :END:
 
 
@@ -227,9 +222,9 @@ z čisté lásky.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:11-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:11-cs
   :END:
 
 
@@ -247,9 +242,9 @@ nad Tvou Dobrotou.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:12-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:12-cs
   :END:
 
 
@@ -267,9 +262,9 @@ je nepředstavitelně míruplný.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:13-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:13-cs
   :END:
 
 
@@ -287,9 +282,9 @@ sytí mou pokoru.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:14-cs
   :END:
 
 
@@ -307,9 +302,9 @@ kolébá můj život.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:15-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:15-cs
   :END:
 
 
@@ -327,9 +322,9 @@ Tvou Dobrotu.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:16-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:16-cs
   :END:
 
 
@@ -347,9 +342,9 @@ sytí mé upřímné srdce.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:17-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:17-cs
   :END:
 
 
@@ -369,9 +364,9 @@ stávám se tanečníkem měsíce.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:18-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:18-cs
   :END:
 
 
@@ -391,9 +386,9 @@ Srdcem Soucitu.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:19-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:19-cs
   :END:
 
 
@@ -413,9 +408,9 @@ snadno.
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:20-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:20-cs
   :END:
 
 
@@ -433,9 +428,9 @@ Bože, Tvá Dobrota
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:21-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:21-cs
   :END:
 
 
@@ -455,9 +450,9 @@ není ničím jiným než
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:22-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:22-cs
   :END:
 
 
@@ -475,9 +470,9 @@ Bože, Tvá Dobrota
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:23-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:23-cs
   :END:
 
 
@@ -495,9 +490,9 @@ nabízím svůj seznam aspirace.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:24-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:24-cs
   :END:
 
 
@@ -515,9 +510,9 @@ je Tvou dobrotivou Shovívavostí.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:25-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:25-cs
   :END:
 
 
@@ -535,9 +530,9 @@ je přeměnitelem naší temnoty.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:26-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:26-cs
   :END:
 
 
@@ -555,9 +550,9 @@ je Posluchačem Tvého Srdce.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:27-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:27-cs
   :END:
 
 
@@ -580,9 +575,9 @@ pro Tvé Odpuštění.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:28-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:28-cs
   :END:
 
 
@@ -600,9 +595,9 @@ otevírá mé zavřené srdce.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:29-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:29-cs
   :END:
 
 
@@ -620,9 +615,9 @@ ve mně vytváří vnímavost.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:30-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:30-cs
   :END:
 
 
@@ -642,9 +637,9 @@ je bezpodmínečná:
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:31-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:31-cs
   :END:
 
 
@@ -662,9 +657,9 @@ si naplněním mého srdce.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:32-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:32-cs
   :END:
 
 
@@ -684,9 +679,9 @@ hrdá na mé srdce.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:33-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:33-cs
   :END:
 
 
@@ -707,9 +702,9 @@ Tě těšit.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:34-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:34-cs
   :END:
 
 
@@ -729,9 +724,9 @@ tak brzo, jak jen to bude možné.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:35-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:35-cs
   :END:
 
 
@@ -751,9 +746,9 @@ bez příměsí zklamání.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:36-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:36-cs
   :END:
 
 
@@ -775,9 +770,9 @@ a dechem nesobeckosti.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:37-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:37-cs
   :END:
 
 
@@ -797,9 +792,9 @@ abych těšil Tebe.
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:38-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:38-cs
   :END:
 
 
@@ -817,9 +812,9 @@ já jsem Tvou Oblohou Míru.
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:39-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:39-cs
   :END:
 
 
@@ -837,9 +832,9 @@ Tvá nekonečná Láska si mne ochočuje.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:40-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:40-cs
   :END:
 
 
@@ -861,9 +856,9 @@ tou nejrychlejší příležitostí.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:41-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:41-cs
   :END:
 
 
@@ -881,9 +876,9 @@ Ty povzbuzuješ mou připravenost.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:42-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:42-cs
   :END:
 
 
@@ -905,9 +900,9 @@ nejhlubších Snů.
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:43-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:43-cs
   :END:
 
 
@@ -929,9 +924,9 @@ vším, čím Jsem.“
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:44-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:44-cs
   :END:
 
 
@@ -949,9 +944,9 @@ Ty jsi svými Tajemstvími.
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:45-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:45-cs
   :END:
 
 
@@ -969,9 +964,9 @@ Ty jsi svými Sny Požehnání všude.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:46-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:46-cs
   :END:
 
 
@@ -989,9 +984,9 @@ Ty jsi vyzařováním mého slibu.
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:47-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:47-cs
   :END:
 
 
@@ -1013,9 +1008,9 @@ zahrady mého srdce.
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:48-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:48-cs
   :END:
 
 
@@ -1037,9 +1032,9 @@ v mém životě.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:49-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:49-cs
   :END:
 
 
@@ -1059,9 +1054,9 @@ neoddělitelně jedním.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:50-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:50-cs
   :END:
 
 
@@ -1081,9 +1076,9 @@ stávám se mořem míru.
 * 51.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:51-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:51-cs
   :END:
 
 
@@ -1103,9 +1098,9 @@ s jednosměrnou jízdenkou.
 * 52.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:52-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:52-cs
   :END:
 
 
@@ -1123,9 +1118,9 @@ Ty inspiruješ mou poslušnost.
 * 53.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:53-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:53-cs
   :END:
 
 
@@ -1147,9 +1142,9 @@ svého života.
 * 54.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:54-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:54-cs
   :END:
 
 
@@ -1171,9 +1166,9 @@ bezvýhradně.
 * 55.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:55-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:55-cs
   :END:
 
 
@@ -1195,9 +1190,9 @@ Srdce.
 * 56.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:56-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:56-cs
   :END:
 
 
@@ -1220,9 +1215,9 @@ děti
 * 57.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:57-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:57-cs
   :END:
 
 
@@ -1243,9 +1238,9 @@ aby projevili Tvou Božskost.
 * 58.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:58-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:58-cs
   :END:
 
 
@@ -1271,9 +1266,9 @@ Způsobem.
 * 59.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:59-cs
+  :genre: poem
+  :keywords:
+  :cite-key: gggg:59-cs
   :END:
 
 
@@ -1292,11 +1287,3 @@ Jsem Úsměvy Nekonečnosti.
 Jsem Písní Nesmrtelnosti.“
 
 #+END_VERSE
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:

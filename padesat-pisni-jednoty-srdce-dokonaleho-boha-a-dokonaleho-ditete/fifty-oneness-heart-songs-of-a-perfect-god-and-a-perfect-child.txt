@@ -1,12 +1,7 @@
-#+TITLE: Padesát písní jednoty srdce dokonalého Boha a dokonalého dítěte
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Padesát písní jednoty srdce dokonalého Boha a dokonalého dítěte
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -23,9 +18,9 @@
 * 1.[fn:: FOSH 1-50. Sri Chinmoy začal psát tuto sbírku meditativních aforismů 23. ledna 2005 v Číně, během cesty autobusem z Xianu do Huangshanu, a dokončil ji při příjezdu do Huangshanu. ]
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:1-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:1-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -41,9 +36,9 @@ každý den.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:2-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:2-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -58,9 +53,9 @@ Moje máma je krásná.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:3-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:3-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -75,9 +70,9 @@ Můj táta je silný.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:4-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:4-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -93,9 +88,9 @@ rozechvívá radostí mé srdce.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:5-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:5-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -111,9 +106,9 @@ dává řád mému životu.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:6-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:6-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -128,9 +123,9 @@ Miluji každého.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:7-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:7-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -146,9 +141,9 @@ koho bych nenáviděl.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:8-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:8-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -164,9 +159,9 @@ Myslím si,
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:9-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:9-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -182,9 +177,9 @@ radost mým očím.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:10-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:10-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -200,9 +195,9 @@ mír mému srdci.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:11-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:11-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -219,9 +214,9 @@ protože je příliš daleko.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:12-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:12-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -239,9 +234,9 @@ a mně se bude stýskat po nich.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:13-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:13-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -261,9 +256,9 @@ k chudákům rodičům.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:14-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:14-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -280,9 +275,9 @@ tu nejkrásnější růži.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:15-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:15-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -299,9 +294,9 @@ nejkrásnější strom plný míru.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:16-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:16-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -317,9 +312,9 @@ co je to pochybnost a žárlivost.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:17-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:17-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -337,9 +332,9 @@ a nečistotu ve své mysli.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:18-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:18-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -357,9 +352,9 @@ Zůstaň takové po celý život.“
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:19-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:19-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -376,9 +371,9 @@ nebudu se Ho bát.
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:20-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:20-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -397,9 +392,9 @@ aby mě potěšil.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:21-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:21-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -415,9 +410,9 @@ Pomlouvat je moc špatné.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:22-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:22-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -435,9 +430,9 @@ vždy myslel na Boha.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:23-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:23-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -454,9 +449,9 @@ Poslouchám je.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:24-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:24-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -474,9 +469,9 @@ Poslouchám je.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:25-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:25-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -493,9 +488,9 @@ a zájem svojí mámy.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:26-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:26-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -514,9 +509,9 @@ dokonce ještě víc.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:27-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:27-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -534,9 +529,9 @@ abych uviděl Boží Oko.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:28-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:28-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -554,9 +549,9 @@ cítit Boží Srdce ve svém srdci.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:29-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:29-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -575,9 +570,9 @@ Já sám jsem důkazem.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:30-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:30-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -593,9 +588,9 @@ svou hlasitou mysl.
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:31-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:31-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -611,9 +606,9 @@ své šťastné květinové srdce.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:32-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:32-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -634,9 +629,9 @@ Nikdy!
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:33-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:33-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -652,9 +647,9 @@ Jsem teď mnohem šťastnější.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:34-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:34-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -671,9 +666,9 @@ jsou stejně důležité.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:35-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:35-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -691,9 +686,9 @@ Je na mě tak hrdý,
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:36-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:36-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -712,9 +707,9 @@ Bůh s úsměvem a pýchou dodává:
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:37-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:37-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -734,9 +729,9 @@ ale velmi, velmi dobrého.“
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:38-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:38-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -757,9 +752,9 @@ stejně jako tátu.
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:39-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:39-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -776,9 +771,9 @@ je uvnitř mých očí.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:40-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:40-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -795,9 +790,9 @@ je uvnitř mého srdce.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:41-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:41-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -820,9 +815,9 @@ kdykoli nahlédnu do tvého srdce.“
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:42-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:42-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -840,9 +835,9 @@ a cítím se teď plný nadšení a radosti.
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:43-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:43-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -862,9 +857,9 @@ a cítím se tak dobře, tak dobře!
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:44-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:44-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -884,9 +879,9 @@ a cítím se tak dobře, tak dobře!
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:45-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:45-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -903,9 +898,9 @@ a tajemství své meditace.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:46-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:46-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -927,9 +922,9 @@ Abych řekl pravdu, mám úžasné výsledky.
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:47-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:47-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -951,9 +946,9 @@ Když jsem s tím hotov, začnu meditovat.
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:48-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:48-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -972,9 +967,9 @@ nemám, co bych Ti dal.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:49-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:49-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -991,9 +986,9 @@ sladký a roztomilý úsměv.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :cite-key: FOHS:50-cs
-  :DATE-EVENT: 2005-01-23
+  :genre: poem
+  :cite-key: fohs:50-cs
+  :date-event: 2005-01-23
   :END:
 
 
@@ -1013,13 +1008,3 @@ mysli na to,
 „Bože, už jsem začal.“
 
 #+END_VERSE
-
-
-
-
-#+SETUPFILE: ~/.org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

@@ -1,20 +1,15 @@
-#+TITLE: Dětské rozhovory s Bohem
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Dětské rozhovory s Bohem
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2007 
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: CCG-cs
-  :GENRE: story
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2007 
+  :publisher: Madal Bal
+  :cite-key: CCG-cs
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Miguelův rozhovor s Bohem 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:1-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:1-cs
   :END:
 
 
@@ -42,9 +37,9 @@
 * Eduardův rozhovor s Bohem 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:2-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:2-cs
   :END:
 
 
@@ -69,9 +64,9 @@ Každé ráno si stoupni před veliké zrcadlo v obývacím pokoji a měj oči
 * Štěpánčin rozhovor s Bohem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:3-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:3-cs
   :END:
 
 
@@ -113,9 +108,9 @@ S nejpyšnějším úsměvem Bůh odchází.
 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:4-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:4-cs
   :END:
 
 
@@ -160,9 +155,9 @@ Bůh se na Kristýnu usmál úsměvem sladké Blaženosti a Soucitu.“
 * Melániin rozhovor s Bohem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:5-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:5-cs
   :END:
 
 
@@ -189,9 +184,9 @@ Bůh se na Kristýnu usmál úsměvem sladké Blaženosti a Soucitu.“
 * Maxův rozhovor s Bohem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:6-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:6-cs
   :END:
 
 
@@ -222,9 +217,9 @@ Bůh se na Kristýnu usmál úsměvem sladké Blaženosti a Soucitu.“
 * Andrein rozhovor s Bohem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:7-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:7-cs
   :END:
 
 
@@ -249,9 +244,9 @@ Bůh se na Kristýnu usmál úsměvem sladké Blaženosti a Soucitu.“
 * Juliánův rozhovor s Bohem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:8-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:8-cs
   :END:
 
 
@@ -292,9 +287,9 @@ Bůh roní slzy radosti.
 * Nikolin rozhovor s Bohem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:9-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:9-cs
   :END:
 
 
@@ -327,9 +322,9 @@ Bůh říká: „Nikol, jsi tak šťastná. Co ti dává takovou radost?“
 * Petrův rozhovor s Bohem 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:10-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:10-cs
   :END:
 
 
@@ -365,9 +360,9 @@ Bůh říká: „Nikol, jsi tak šťastná. Co ti dává takovou radost?“
 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:11-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:11-cs
   :END:
 
 
@@ -391,9 +386,9 @@ Bůh říká: „Nikol, jsi tak šťastná. Co ti dává takovou radost?“
 * Štěpánův rozhovor s Bohem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:12-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:12-cs
   :END:
 
 
@@ -401,7 +396,7 @@ Bůh říká: „Nikol, jsi tak šťastná. Co ti dává takovou radost?“
 
 „Jaké lži ti říkal?“
 
-„Lež číslo jedna: řekl mi, že jsi mnohem starší než on. Lež číslo dvě: řekl mi, že abys viděl, nepotřebuješ oči jako my. Lež číslo tři: řekl mi, že abys slyšel, nepotřebuješ uši jako my. Lež číslo čtyři: řekl mi, že nepotřebuješ ústa, abys mohl mluvit.
+„Lež číslo jedna: řekl mi, že jsi mnohem starší než on. lež číslo dvě: řekl mi, že abys viděl, nepotřebuješ oči jako my. lež číslo tři: řekl mi, že abys slyšel, nepotřebuješ uši jako my. lež číslo čtyři: řekl mi, že nepotřebuješ ústa, abys mohl mluvit.
 
 Stojíš přímo přede mnou. Vidím, že máš dvě oči, dvě uši a ústa jako já, a vidím také, že jsi velmi mladý a krásný. Nejsi ani tak starý jako můj otec. Jak mi může děda říkat, že jsi starší než on?“
 
@@ -413,9 +408,9 @@ Stojíš přímo přede mnou. Vidím, že máš dvě oči, dvě uši a ústa ja
 * Burnetův rozhovor s Bohem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:13-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:13-cs
   :END:
 
 
@@ -445,9 +440,9 @@ Bůh se usmívá a pláče radostí.
 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:14-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:14-cs
   :END:
 
 
@@ -471,9 +466,9 @@ Bůh se usmívá a pláče radostí.
 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:15-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:15-cs
   :END:
 
 
@@ -503,9 +498,9 @@ Chci tě překvapit tím, že ti řeknu něco o tvé budoucnosti. Chci ti říc
 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:16-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:16-cs
   :END:
 
 
@@ -522,9 +517,9 @@ Chci tě překvapit tím, že ti řeknu něco o tvé budoucnosti. Chci ti říc
 * Markův rozhovor s Bohem 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:17-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:17-cs
   :END:
 
 
@@ -541,9 +536,9 @@ Chci tě překvapit tím, že ti řeknu něco o tvé budoucnosti. Chci ti říc
 * Ludvíkův rozhovor s Bohem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:18-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:18-cs
   :END:
 
 
@@ -562,9 +557,9 @@ Chci tě překvapit tím, že ti řeknu něco o tvé budoucnosti. Chci ti říc
 * Jhardinův rozhovor s Bohem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:19-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:19-cs
   :END:
 
 
@@ -600,9 +595,9 @@ Chci tě překvapit tím, že ti řeknu něco o tvé budoucnosti. Chci ti říc
 * Verončin rozhovor s Bohem  
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:20-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:20-cs
   :END:
 
 
@@ -631,9 +626,9 @@ Bůh se na Veroniku usmívá svým nanejvýš milujícím Úsměvem.
 * Karlův rozhovor s Bohem 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CCG:21-cs
+  :genre: story
+  :keywords:
+  :cite-key: ccg:21-cs
   :END:
 
 
@@ -670,18 +665,3 @@ Bůh se na Veroniku usmívá svým nanejvýš milujícím Úsměvem.
 „Ve svém vnitřním životě máš mnoho nepřátel. Mezi nimi je neobyčejně nebezpečný strach a pochyby. Když je porazíš, velice Mě potěšíš a Já na tebe budu hluboce pyšný.“
 
 „Slibuji, že to udělám. Děkuji Ti, Bože.“        
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

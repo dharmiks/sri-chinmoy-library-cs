@@ -1,20 +1,15 @@
-#+TITLE: Dva hltaví bratři: Pochybnost a Ego
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Dva hltaví bratři: Pochybnost a Ego
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2002
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: TBDE-cs
-  :GENRE: discourse
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2002
+  :publisher: Madal Bal
+  :cite-key: TBDE-cs
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Introduction
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: TBDE:1e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: tbde:1e1-cs
   :END:
 
 
@@ -35,9 +30,9 @@ Ego a pochybnost: dva hltaví bratři. Nedovolme, aby náš vnitřní život byl
 * Ego
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBDE:1-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: tbde:1-cs
   :END:
 
 Cítit nepřítomnost ega je tak obtížné jako cítit přítomnost Boha v našem srdci. Cítit nepřítomnost ega je tak těžké jako cítit přítomnost Boha uvnitř nás. 
@@ -74,11 +69,11 @@ Druhá žába řekla: „Ne, pole je nekonečně rozlehlejší.“
 
 Takovéto věci jsou také sklonem lidského ega. Velcí duchovní mistři a mudrcové mluví o Nekonečnosti, Věčnosti a Nesmrtelnosti. Začátečník, který právě začíná svůj duchovní život, bude okamžitě pochybovat. „Je nekonečnost o trochu větší než obloha?“, bude se ptát. Mudrc řekne: „Ne, nekonečnost je nekonečně rozlehlejší než tvá představivost, rozlehlejší, než je tvé pojetí.“ Mudrc bude okamžitě kritizován a stane se terčem výsměchu, protože naše ego nás spoutává a nutí nás cítit, že to, co jsme viděli a co jsme poznali, nemůže být nikdy překonáno poznáním a zkušeností ostatních. Ego nerado cítí, že někdo jiný má více schopností nebo že někdo jiný může dělat věci, které ono samo dělat nedokáže.
 
-Jsem si jistý, že jste všichni slyšeli o Šankarovi, velkém védántinovi. Védántin je ten, kdo následuje pravdy ztělesněné ve Védách nebo Upanišadách a kdo realizoval Védický Zákon, Védickou Pravdu. Velký védántin Šankara kráčel po koupeli v Ganze ulicí domů. Stalo se, že o něj zavadil řezník nesoucí kus masa. Šankara se rozzuřil a řekl: „Já jsem Brahmín! Jak si dovoluješ dotknout se mě! Já jsem absolutně čistý!“ Řezník řekl: „Ó Šankaro, ty jsi Já a já jsem také Já. Já se nikoho nedotkne, a zároveň Já není nikým dotčeno.“ Nato se Šankara vzpamatoval.
+Jsem si jistý, že jste všichni slyšeli o Šankarovi, velkém védántinovi. Védántin je ten, kdo následuje pravdy ztělesněné ve Védách nebo Upanišadách a kdo realizoval Védický Zákon, Védickou Pravdu. Velký védántin Šankara kráčel po koupeli v Ganze ulicí domů. Stalo se, že o něj zavadil řezník nesoucí kus masa. Šankara se rozzuřil a řekl: „já jsem brahmín! jak si dovoluješ dotknout se mě! já jsem absolutně čistý!“ Řezník řekl: „Ó Šankaro, ty jsi Já a já jsem také Já. Já se nikoho nedotkne, a zároveň Já není nikým dotčeno.“ Nato se Šankara vzpamatoval.
 
 V našem běžném životě každý člověk cítí, že je čistší než ostatní. Může dělat nesmyslné věci, může být princem emocionálních záležitostí, ale přesto cítí, že v oblasti čistoty stojí nad ostatními. Kdo je teď odpovědný za jeho hloupost? Je to znovu jeho ego. Když žijeme v duši, nemáme problémy s nadřazeností nebo podřazeností, protože duše nás okamžitě přinutí cítit, že jsme jedním, absolutně jedním s celým světem.
 
-Brahmosmi znamená v sanskritu „Já jsem Bráhman“. Je to vyjádření duše, která dosáhla vědomé jednoty s Absolutním. Vychytralé ego nás však někdy nutí říci: „Já jsem Bůh.“ Šankara měl žáka, který ho ve všem napodoboval. Když Šankara realizoval Boha, absolutní Bráhman, začal říkat „Já jsem Bráhman.“ A tak žák říkal stejně: „Já jsem Bráhman.“ Všichni ostatní se mu vysmívali a nadávali mu. „Nedovoluj si říkat, že jsi Bráhman,“ říkali. „Mistr Šankara to může říkat, protože realizoval Boha, ale ty nesmíš.“ Avšak žák řekl, že chce napodobovat svého Mistra úplně ve všem. Jednoho dne požádal Šankara tohoto žáka, aby jej následoval. Přišli ke slévárně a Šankara vzal trochu roztaveného zlata a pohltil ho. Potom řekl žákovi: „Když mě ve všem napodobuješ, měl bys mě napodobit také v tomto.“ Žák byl vyděšený k smrti a utekl. Tehdy ostatní žáci poznali, že měli pravdu a že nesmějí nikdy vyslovit slovo Brahmosmi, dokud a pokud této vědomé a neoddělitelné jednoty skutečně nedosáhnou. Později, když tento žák překonal své ego a své emoce, stal se opravdovým, blízkým oddaným Šankary. Ale nejdříve se musel zbavit obyčejného lidského ega a vstoupit upřímně do světa aspirace a realizace.
+Brahmosmi znamená v sanskritu „Já jsem Bráhman“. Je to vyjádření duše, která dosáhla vědomé jednoty s Absolutním. Vychytralé ego nás však někdy nutí říci: „já jsem bůh.“ Šankara měl žáka, který ho ve všem napodoboval. když Šankara realizoval boha, absolutní bráhman, začal říkat „já jsem bráhman.“ a tak žák říkal stejně: „já jsem bráhman.“ všichni ostatní se mu vysmívali a nadávali mu. „nedovoluj si říkat, že jsi bráhman,“ říkali. „mistr Šankara to může říkat, protože realizoval boha, ale ty nesmíš.“ avšak žák řekl, že chce napodobovat svého mistra úplně ve všem. jednoho dne požádal Šankara tohoto žáka, aby jej následoval. přišli ke slévárně a Šankara vzal trochu roztaveného zlata a pohltil ho. potom řekl žákovi: „Když mě ve všem napodobuješ, měl bys mě napodobit také v tomto.“ Žák byl vyděšený k smrti a utekl. Tehdy ostatní žáci poznali, že měli pravdu a že nesmějí nikdy vyslovit slovo Brahmosmi, dokud a pokud této vědomé a neoddělitelné jednoty skutečně nedosáhnou. Později, když tento žák překonal své ego a své emoce, stal se opravdovým, blízkým oddaným Šankary. Ale nejdříve se musel zbavit obyčejného lidského ega a vstoupit upřímně do světa aspirace a realizace.
 
 Pokud se pokusíme napodobovat slova a činy velkých Mistrů a jsme přitom stále ponořeni do běžného života, bude to naprostá hloupost. Nejdříve musíme růst na poli duchovnosti. Tato oblast je plná zážitků. Poté můžeme vstoupit do pole realizace. Tehdy budeme také moci říct: „Bůh a já jsme jedním.“ Právě nyní nejsme s Bohem sjednoceni vědomě. Ve sféře duše jsme jedním, ale ne v našem každodenním životě. V našem denním životě cítíme, že Bůh je někdo od nás oddělený. Nakonec dozajista musíme objevit, že samotný Bůh je uvnitř nás. Jednoho dne Jej budeme schopni realizovat; budeme Ho schopni vidět a cítit neustále. Je od nás naprostou pošetilostí a hloupostí, když říkáme, že jsme sjednoceni s Bohem, zatímco setrváváme v hluboké nevědomosti. Musíme vyjít z nevědomosti a oduševněle a oddaně se stát s Bohem jedním. Je-li to potom Vůle Boha, abychom učili lidstvo, abychom je probudili z věčného spánku nevědomosti, můžeme prohlásit, že jsme sjednoceni s Bohem, že jsme Boží vybrané děti zde na zemi pro naplnění Boha Jeho vlastním Způsobem.
 
@@ -94,18 +89,18 @@ Když nám ego říká, že jsme pouze Boží otroci, musíme to také odmítnou
 * Jak překonat ego
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBDE:2-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: tbde:2-cs
   :END:
 
 Ciťte, že ego je zloděj uvnitř vás. Co uděláte, když uvidíte zloděje? Budete ho pronásledovat. Ciťte, že do vás, do vašeho pokoje aspirace, vstoupil zloděj. Začněte pronásledovat své ego, zloděje, brzy ráno. Večer jej budete schopni chytit. Jakmile ho chytíte, rozsekejte ho na kousky svým obnaženým vnitřním mečem univerzální jednoty. Pokud skutečně cítíte, že vaše ego je zloděj, přijde den, kdy ho budete moci chytit. Nemusí to přijít hned najednou, ale když víte, že je něco ukradeno, a vy jste viděli zloděje, budete pokračovat v hledání. Co se stane, když ego chytíte? Váš meč univerzální jednoty ho přemění. 
 
-Ego je oddělení a individualita. Oddělení a lidská individualita nemohou žít v moři jednoty a univerzálnosti. Jestliže chceme udržovat svou oddělenou individualitu, náš život skončí zničením. Předtím, než kapka vstoupí do oceánu, říká: „Ó, budu úplně ztracená, budu úplně ztracená! Tady je mocný oceán, obrovský oceán. Když do něj vstoupím, budu úplně ztracená, budu úplně zničená, nebudu mít žádnou existenci!“ Ale to je špatný způsob myšlení. Kapka by měla být duchovně moudrá. Měla by cítit: „Když vstoupím do tohoto obrovského oceánu, má existence s ním neoddělitelně splyne. Potom budu moci považovat nekonečný oceán za svou součást.“ Kdo to může popřít? Ve chvíli, kdy kapka vstoupí do oceánu, sjednocuje se s oceánem, stává se součástí oceánu; stává se oceánem samotným. Kdo může v tu chvíli oddělit vědomí kapky od vědomí celého nezměrného oceánu?
+Ego je oddělení a individualita. Oddělení a lidská individualita nemohou žít v moři jednoty a univerzálnosti. Jestliže chceme udržovat svou oddělenou individualitu, náš život skončí zničením. Předtím, než kapka vstoupí do oceánu, říká: „Ó, budu úplně ztracená, budu úplně ztracená! tady je mocný oceán, obrovský oceán. když do něj vstoupím, budu úplně ztracená, budu úplně zničená, nebudu mít žádnou existenci!“ ale to je špatný způsob myšlení. kapka by měla být duchovně moudrá. měla by cítit: „Když vstoupím do tohoto obrovského oceánu, má existence s ním neoddělitelně splyne. Potom budu moci považovat nekonečný oceán za svou součást.“ Kdo to může popřít? Ve chvíli, kdy kapka vstoupí do oceánu, sjednocuje se s oceánem, stává se součástí oceánu; stává se oceánem samotným. Kdo může v tu chvíli oddělit vědomí kapky od vědomí celého nezměrného oceánu?
 
 Lidské ego nás neustále obtěžuje. Ale pokud máme božské ego, které nám dává cítit: „Jsem Boží syn, jsem Boží dcera,“ potom nebudeme tíhnout k oddělení naší existence od zbytku Božího stvoření. Bůh je vševědoucí, všemohoucí, všudypřítomný. Pokud On je vším, pokud On je všude, pokud já jsem Jeho syn, jak mohu být omezen na jedno určité místo? Toto božské ego nebo božská hrdost je absolutně nezbytná. „Nemohu si libovat v potěšeních nevědomosti. Jsem Boží dítě. Je mým rodným právem realizovat Ho, objevit Ho v sobě a ve všech. On je můj Otec. Když On může být tak božský, potom co je to se mnou? Vzešel jsem z Něho, z Absolutního, z Nejvyššího; proto bych měl být také božský.“ Tento druh božské pýchy musí vystoupit do popředí. Běžné ego, které nás neustále spoutává, musí být přeměněno. Božské ego, božská hrdost, která považuje za svůj celý vesmír, by měla být naší jedinou volbou. 
 
-Ego se zajímá o osobu a její vlastnictví. Když se zabýváme univerzálním Vědomím, stáváme se veškerým vesmírem. V tomto vědomí nejednáme jako drobný jedinec, který se může pyšnit pouze sám sebou a cítit: „Toto je mé vlastnictví. Toto je má kapacita. Toto je moje osobnost. Toto je mé dosažení.“ Ne, v tu chvíli řekneme: „Veškerá dosažení jsou má. Není nic, co bych si nemohl považovat za své zcela vlastní.“ 
+Ego se zajímá o osobu a její vlastnictví. Když se zabýváme univerzálním Vědomím, stáváme se veškerým vesmírem. V tomto vědomí nejednáme jako drobný jedinec, který se může pyšnit pouze sám sebou a cítit: „toto je mé vlastnictví. toto je má kapacita. toto je moje osobnost. toto je mé dosažení.“ ne, v tu chvíli řekneme: „Veškerá dosažení jsou má. Není nic, co bych si nemohl považovat za své zcela vlastní.“ 
 
 Nejrychlejší cestou, jak v duchovním životě překonat ego, je nabídnout Bohu pět minut denně vděčnost. Pokud nedokážete nabízet vděčnost pět minut denně, potom ji nabízejte jednu minutu. Nabídněte svoji vděčnost Bohu. Potom ucítíte, že uvnitř vás vyrůstá sladká, vonící a krásná květina. To je květina pokory. Když Mu nabídnete svou vděčnost, Bůh vám dá něco nanejvýš krásného, a tím je pokora. Když objevíte uvnitř sebe květinu pokory, ucítíte, že vaše vědomí pokrylo délku a šířku celého vesmíru. Pomyslete na stéblo trávy a okamžitě ucítíte pokoru. Šlapeme po trávě, ale ta si nikdy neztěžuje ani neodporuje. Pokud chodíme po trávě zlehoučka, můžeme ucítit pocit jednoty s Matkou Zemí a s nekonečnou Rozlehlostí. Dotkneme se srdce Matky Země a cítíme srdce Nebe v naší radosti, neboť když se dotkneme srdce Matky Země, Otec Nebe okamžitě odpoví radostí. V duchovním životě pěstujeme pokoru skrze vědomou vděčnost. Jakmile ego jednou spatří květinu pokory, odchází pryč, protože cítí, že se může stát něčím lepším: univerzální jednotou.
 
@@ -116,16 +111,16 @@ Nejrychlejší cestou, jak v duchovním životě překonat ego, je nabídnout Bo
 * Otázky a odpovědi o egu
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:3-cs
   :END:
 
 
 /Občas cítím, že trpíme, protože jsme odkázáni na milost našeho ega. Jak můžeme ukončit toto utrpení?/
 
 
-/Sri Chinmoy:/ Musíme se neustále modlit k Bohu, aby v nás vyšel do popředí. Nechme Ho vést a tvarovat nás Jeho vlastním Způsobem, do své vlastní podoby. My nejsme vykonavatelé. Musíme cítit, že my jsme nástroje a On je hráčem. Máme-li takovýto pocit, potom můžeme být vždy šťastní. Pokud cítíme, že jsme Božími nástroji a že jsme bezmocní, dokud Bůh nezačne konat uvnitř a skrze nás, potom On přirozeně bude uvnitř a skrze nás dělat tu správnou věc. Správnou věc pro koho? Pro nás. Ale musíme Mu vědomě dát šanci. Dáme Mu tuto šanci oduševněle, oddaně a bezpodmínečně. Řekneme Bohu: „Pečuj o nás. Vzešli jsme z Tebe. Chceme, aby ses nyní o nás staral Ty.“ 
+/Sri Chinmoy:/ musíme se neustále modlit k bohu, aby v nás vyšel do popředí. nechme ho vést a tvarovat nás jeho vlastním způsobem, do své vlastní podoby. my nejsme vykonavatelé. musíme cítit, že my jsme nástroje a on je hráčem. máme-li takovýto pocit, potom můžeme být vždy šťastní. pokud cítíme, že jsme božími nástroji a že jsme bezmocní, dokud bůh nezačne konat uvnitř a skrze nás, potom on přirozeně bude uvnitř a skrze nás dělat tu správnou věc. správnou věc pro koho? pro nás. ale musíme mu vědomě dát šanci. dáme mu tuto šanci oduševněle, oddaně a bezpodmínečně. Řekneme bohu: „Pečuj o nás. Vzešli jsme z Tebe. Chceme, aby ses nyní o nás staral Ty.“ 
 
 Proč vstupujeme do duchovního života? Do duchovního života vstupujeme, abychom dali Bohu, co máme, a abychom se stali tím, čím je On. Co máme, je nevědomost. Pokud ji dokážeme s radostí dát Bohu, potom se on může s naší nevědomostí vypořádat. Jestliže se budeme snažit zvládnout nevědomost sami, potom nemáme šanci z nevědomosti vyjít.
 
@@ -137,9 +132,9 @@ Bůh je vskutku velký. Může dělat ty největší věci, a stejně tak ty nej
 * Jak můžeme jít po duchovní cestě rychleji?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:4-cs
   :END:
 
 /Sri Chinmoy:/ Skrze stálé a vědomé odevzdání naší vnější i vnitřní existence Vůli Boha. Odevzdání stolu nebo židle je tamasické neboli pasivní odevzdání. Můžeme je odtáhnout odtud někam jinam. Takové odevzdání není duchovní odevzdání. Duchovní odevzdání je vědomé odevzdání. Vědomě nabízíme naše tělo, vitálno, mysl, srdce, duši a veškeré naše schopnosti Nejvyššímu k Jeho službám. Jsme připraveni běžet k cíli a zároveň, když Bůh chce, aby někdo běžel rychleji než my, nebo když Bůh chce, abychom běželi určitou rychlostí, budeme spokojení. Pokud dokážeme bez přestání nabízet svou individuální vůli a dokonce i svou aspiraci Nejvyššímu, potom naše lidské ego musí být osvíceno. Když je ego osvíceno, můžeme a budeme mít pocit své opravdové jednoty s nejvyšším Světlem. Máme-li jednotu s tímto Světlem, nemůže do nás vstoupit omezení, a tak nemůžeme mít žádné ego.
@@ -148,9 +143,9 @@ Bůh je vskutku velký. Může dělat ty největší věci, a stejně tak ty nej
 
 * Jak mohu vyléčit své problémy s egem?
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:5-cs
   :END:
 
 /Sri Chinmoy:/ Aspirace je jediným lékem na vyléčení vaší nemoci-ega. Pokud chcete čekat, dokud se vaše ego nerozplyne, aby se ve vašem životě mohla objevit aspirace, potom budete muset čekat Věčnost. Společně s aspirací byste měl mít stálou oddanost někomu, v koho máte víru, kdo vás může utvářet, tvarovat a vést vás k vašemu cíli. Skrze sebezasvěcení jemu, jeho poslání, jeho manifestaci, ucítíte, že se jeho prostřednictvím rozšiřujete. Jeho potřeby se stávají vašimi potřebami. Skrze svou víru obsáhnete celý svět. Jak potom můžete mít ego? Vše je rozlehlostí samou. V Rozlehlosti, v nekonečné Rozlehlosti, není žádné ego.
@@ -160,9 +155,9 @@ Bůh je vskutku velký. Může dělat ty největší věci, a stejně tak ty nej
 * Cožpak není nutné těšit Boha, předtím než těšíme sami sebe?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:6-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:6-cs
   :END:
 
 /Sri Chinmoy:/ Ano, to je pravda, jakmile se začnete starat o to, zda těšíte Boha nebo ne, a co Bůh chce, abyste dělali. Když těšíte Boha Božím vlastním Způsobem, v tom okamžiku jste sehráli svou úlohu. Když uděláte pro Boha něco Božím vlastním Způsobem, vaše srdce se natolik rozšíří, že budete schopni vidět všechny své přátele, dokonce i své takzvané nepřátele, uvnitř svého vlastního srdce. Ale pokud těšíte Boha vaším vlastním způsobem, potom uvnitř vašeho srdce nebude božské uspokojení. Když se snažíte těšit Boha svým vlastním způsobem, můžete se klamat pocitem, že jste potěšili Boha, ale ve skutečnosti jste potěšili pouze své ego. Když těšíte vlastní ego, nebudete skutečně schopni těšit na zemi někoho jiného. Ale když těšíte Boha božsky, uvidíte uspokojení dokonce ve vašem nejhorším nepříteli.
@@ -172,9 +167,9 @@ Bůh je vskutku velký. Může dělat ty největší věci, a stejně tak ty nej
 * Jak poznáme, zda pouze netěšíme naše ego?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:7-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:7-cs
   :END:
 
 /Sri Chinmoy:/ Předpokládejme, že jsi udělala něco dobrého a já tě pochválím. Zatímco tě chválím, můžeš cítit, že toto ocenění je nabízeno všem přítomným. Pokud cítíš, že jsi jediná osoba na zemi, která to udělala nebo která to může udělat, a ostatní nemají tuto schopnost, potom sytíš své lidské ego. V tu chvíli odděluješ sebe od zbytku světa. Ale pokud při tom, když tě chválím, cítíš, že jde o vědomou aspiraci všech žáků, kteří byli naplněni uvnitř a skrze tebe, potom nesytíš své ego. Pokud cítíš, že všichni vnitřně aspirují, aby udělali něco pro Boha, což naneštěstí nemohli provést na vnější úrovni, a že ty jsi nástrojem, s jehož pomocí se jejich vědomá aspirace manifestovala, potom netěšíš své lidské ego. Kdykoliv uděláte něco dobrého, musíte cítit, že jste nedílnou součástí duchovního kolektivu.
@@ -190,9 +185,9 @@ Tímto způsobem můžete vždy udržet ego pod kontrolou. Když jste udělali n
 * Jak můžeme ego překonat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:8-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:8-cs
   :END:
 
 /Sri Chinmoy:/ Ego můžeme překonat a mít úplnou pokoru, když neustále cítíme, že nejsme nezbytní, že pouze Bůh je nezbytný. Bůh neustále stojí před aspirujícím jedincem jako zlatá příležitost. Musíme cítit, že tato příležitost je tím jediným, co potřebujeme. Pokud máme pocit, že nás Bůh potřebuje pro určitý účel, který můžeme naplnit pouze my, potom jsme úplně ztraceni. Musíme cítit, že samotná naše duchovní aspirace je tím největším požehnáním, které můžeme získat od Boha. Na zemi jsou miliardy lidí, kteří se nestarají o duchovní život, kteří duchovně stále tvrdě spí. Jak to, že jeden určitý jedinec si je vědomý duchovního života, zatímco ostatní stále spí? Ve chvíli, kdy jsme si vědomi duchovního života, musíme cítit, že jsme od Boha obdrželi to největší požehnání.
@@ -202,9 +197,9 @@ Tímto způsobem můžete vždy udržet ego pod kontrolou. Když jste udělali n
 * Je pokora v duchovním životě skutečně velmi důležitá?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:9-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:9-cs
   :END:
 
 /Sri Chinmoy:/ Pokud nemáme pokoru, potom ať následujeme jakoukoliv cestu, veškeré úsilí bude zbytečné. Někteří aspiranti, zvláště ti noví, nemají vůbec žádnou pokoru. Avšak ti, kteří přicházejí meditovat s arogancí a kteří cítí, že znají vše, by udělali lépe, kdyby zůstali doma. Nezáleží na tom, co máme ve vnějším životě -- zda materiální bohatství, brilantní mysl nebo fyzickou sílu -- všechny tyto poklady jsou ničím, absolutně ničím, v porovnání s vnitřním duchovním bohatstvím. 
@@ -218,9 +213,9 @@ Takže buďme v našem duchovním životě velmi pokorní a přikládejme nejvy�
 * Jak můžeme být osvobození od ega?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:10-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:10-cs
   :END:
 
 /Sri Chinmoy:/ Uvažujme nejprve o slovu „ego“. V sanskrtu se řekne /aham/, což znamená vědomí si svého já, sama sebe. Pocit jáství znamená omezení. Je to omezení našeho vědomí. Ego je něco, co nás spoutává, co nám nedovolí uvolnit se z okovů nevědomosti. Jsem si jistý, že většina z vás slyšela sanskrtské slovo /mája/. /Mája/ se používá ve smyslu „iluze“. Ale ve skutečnosti /mája/ znamená „něco, co poměřuje“. Kdekoliv je rozměr, což je omezení, tam je iluze, tam je přítomnost ega. „Moje rodina“, „moje země“ a tak dále; to všechno vyjadřuje pocit vlastnictví, což je omezení.
@@ -236,9 +231,9 @@ Ponoř se hluboko, hlouběji, nejhlouběji do moře duchovnosti. Zde, jedině zd
 * Může lidské ego zažít opravdovou vnitřní radost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:11-cs
   :END:
 
 /Sri Chinmoy:/ Lidské ego nemůže nikdy, za žádných okolností zažít pravou vnitřní radost. Lidské ego může zažít potěšení v dosahování mnoha věcí, ve shromažďování bohatství a v získávání moci nad ostatními. Ale opravdová vnitřní radost vzniká sama od sebe. Není závislá na vnějších okolnostech nebo vnějších dosaženích.
@@ -248,9 +243,9 @@ Ponoř se hluboko, hlouběji, nejhlouběji do moře duchovnosti. Zde, jedině zd
 * Když se snažím zbavit ega, zdá se, že jsem jím více spoután.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:12-cs
   :END:
 
 /Sri Chinmoy:/ Jsem si jistý, že stále na své ego myslíš. Když se koncentruješ na omezené vědomí, budeš více spoután ve svém vnějším životě. Pokud se opravdu chceš zbavit svého ega, potom vždy mysli na svou duši. Postupuj pozitivním způsobem. Pokus se mít neoddělitelnou jednotu s Rozlehlostí. S dokořán otevřenýma očima se pokus cítit svou vlastní totožnost s rozlehlou oblohou, nekonečnou oblohou. Na základě svého ztotožnění budeš spoután nebo osvobozen. Rozlehlost tě osvobodí, zatímco ubohé ego tě nemilosrdně spoutá.
@@ -260,9 +255,9 @@ Ponoř se hluboko, hlouběji, nejhlouběji do moře duchovnosti. Zde, jedině zd
 * Proč „já“ tak vytrvale pátrá po tom, zda je „já“?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:13-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:13-cs
   :END:
 
 /Sri Chinmoy:/ Jedno „já“ je malé „já“. Toto „já“ je ego. To druhé je velké „Já“, nesmrtelné „Já“, Bráhman, Absolutní.
@@ -278,21 +273,21 @@ Malé „já“ je neustále nespokojené. Pláče po svém uspokojení tady a t
 * Vyčerpá se ego postupně, když sytíme jeho požadavky?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:14-cs
   :END:
 
-/Sri Chinmoy:/ Pokud někdo cítí, že plněním požadavků ega se ego vyčerpá, tak jako vyčerpáme své peníze tím, že je utrácíme, pak se mýlí. Pokud máme peníze, užíváme je a ony se vytratí. V případě ega tomu tak není. Žije dál a dál. Matkou ega je nevědomost. Tak jako není konec naší nevědomosti, dokud nezačneme aspirovat, tak také není žádné omezení našemu egu. Naopak, pokud ho krmíme naplňováním jeho požadavků, jen se stane silnějším a silnějším. Pokud opravdu chceme život vnitřní radosti a naplnění, potom ego, zloděj, musí být chycen, a čím dříve, tím lépe. Tento zloděj neustále krade naše vnitřní božské kvality: naší radost, náš mír, náš pocit jednoty s okolním světem.
+/Sri Chinmoy:/ pokud někdo cítí, že plněním požadavků ega se ego vyčerpá, tak jako vyčerpáme své peníze tím, že je utrácíme, pak se mýlí. pokud máme peníze, užíváme je a ony se vytratí. v případě ega tomu tak není. Žije dál a dál. matkou ega je nevědomost. tak jako není konec naší nevědomosti, dokud nezačneme aspirovat, tak také není žádné omezení našemu egu. naopak, pokud ho krmíme naplňováním jeho požadavků, jen se stane silnějším a silnějším. pokud opravdu chceme život vnitřní radosti a naplnění, potom ego, zloděj, musí být chycen, a čím dříve, tím lépe. tento zloděj neustále krade naše vnitřní božské kvality: naší radost, náš mír, náš pocit jednoty s okolním světem.
 
 
 
 * Posílí společnost s osobou s velmi silným egem naše vlastní ego?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:15-cs
   :END:
 
 /Sri Chinmoy:/ Ano, posílí. Když jste s někým, kdo má silné ego, budete tím vědomě nebo nevědomě ovlivněni. Jak? Jeho neosvícenou, zatemňující, arogantní a agresivní silou. Jeho ego se vás bude neustále snažit učinit svým otrokem. Ale zatímco se vás bude snažit udělat svým otrokem, z hloubky uvnitř vás vystoupí do popředí vaše vlastní ego, aby mu odolalo. Zatímco on používá své ego, zasévá semínko ego do vás a toto semínko klíčí a roste. Postupně se stane drobnou rostlinkou. Osoba se silným egem je již v říši ega obrovský banyánový strom a vy jste běžná malá rostlinka. Ale vy z ní budete moci růst. Po několika měsících nebo rocích se pokusíte užívat své vlastní ego tím, že si budete dělat otroka z někoho jiného. On naplňuje své ego tím, že je uplatňuje na vás, a vy se pokusíte naplnit vaše ego tak, že je budete uplatňovat na někom jiném, protože to je to, co jste se od něj naučili. Ale když někdo užívá své ego, nemůže nikdy být šťastný a spokojený. Navenek může vám nebo sobě vnucovat pocit, že je šťastný, ale vnitřně se nikdy necítí šťastný. Používáním ega nemůže být nikdo ve vnitřním životě šťastný. Také to poznáte, pokud dovolíte svému egu vyjít do popředí.
@@ -310,9 +305,9 @@ Pokud usilujete o to Nejvyšší, musíte věnovat pozornost překročení ega. 
 * Jakým způsobem je stvoření odděleno od Stvořitele?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:16-cs
   :END:
 
 /Sri Chinmoy:/ Stvoření je odděleno od Stvořitele díky svému egu. Avšak prostřednictvím našeho vnitřního pláče se můžeme naučit cítit jednotu s Bohem. Můžeme vstoupit do univerzálního Vědomí, kde spatříme, že stvoření a Stvořitel jsou jedním.
@@ -326,9 +321,9 @@ Ego nežije v duši. Vitálno nežije v duši. Mysl nežije v duši. Ale pouz
 * Co se stane s lidským egem, když je překonáno?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:17-cs
   :END:
 
 /Sri Chinmoy:/ Když je lidské ego zcela překonáno, odumře navždy. Duše, která je plná světla, se potom otevře svému pravému božskému já, jímž je kosmické Já.
@@ -338,9 +333,9 @@ Ego nežije v duši. Vitálno nežije v duši. Mysl nežije v duši. Ale pouz
 * Když je lidské ego překonáno, je možné sklouznout zpátky do egocentrismu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:18-cs
   :END:
 
 /Sri Chinmoy:/ Ne. Když je lidské ego překonáno, nikdy do něj nespadneme zpátky. Pouze při částečném překonání ega můžeme sklouznout zpět do egocentrismu. Jakmile student svou zkoušku složí, již nikdy u této zkoušky nepropadne. Už ji nebude muset znovu skládat.
@@ -350,9 +345,9 @@ Ego nežije v duši. Vitálno nežije v duši. Mysl nežije v duši. Ale pouz
 * Mohl byste něco říci k přeměně osobního vědomí na univerzální Vědomí a k smrti lidské osobnosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:19-cs
   :END:
 
 /Sri Chinmoy:/ Začněme smrtí lidské osobnosti. Neexistuje nic takového jako smrt. V duchovním životě znamená smrt omezení, nic jiného. Zatím jsme v našem životě neztělesnili poselství Nesmrtelnosti. Proto stále procházíme narozením a smrtí. Když vstoupí malá kapka do oceánu, cítíme, že je to smrt této drobné kapky. Oceán je tak obrovský, že když do něj spadne malá kapka, je ztracena. Tak uvažujeme svou lidskou myslí, když přemýšlíme o omezeném osobním vědomí, splývajícím s univerzálním nebo nekonečným Vědomím. Ale pokud se s kapkou a zároveň s rozlehlým oceánem ztotožníme, vidíme, že osobnost kapky není ztracena, nýbrž rozšířena do rozlehlé Nekonečnosti oceánu. V tu chvíli kapka nejen považuje oceán za svůj zcela vlastní, ale také ví a cítí, že se stala rozlehlostí oceánu samotnou. To je takzvaná smrt lidské osobnosti. Našima běžnýma lidskýma očima to můžeme vidět jako smrt; ale okem našeho srdce, okem naší duše, naší schopností vnitřní jednoty, vidíme přeměnu drobné kapky v nekonečný oceán.
@@ -364,12 +359,12 @@ Lidské vědomí je také částí univerzálního Vědomí. Tento malíček je 
 * Jsou chvíle, kdy mi mé ego dává pocítit, že jsem úžasně dobrý, a jindy mě nutí cítit, že jsem úžasně špatný.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:20-cs
   :END:
 
-/Sri Chinmoy:/ Svámí Vivékánanda říkával: „Když nemůžete získat posvátnou vodu z Gangy, když nemůžete mít čistou, destilovanou vodu, budete pít špinavou vodu ze stoky nebo z kanálu?
+/Sri Chinmoy:/ svámí vivékánanda říkával: „Když nemůžete získat posvátnou vodu z Gangy, když nemůžete mít čistou, destilovanou vodu, budete pít špinavou vodu ze stoky nebo z kanálu?
 
 Pokud nemohu pít nektar, neznamená to, že budu pít jed. Nektar mě učiní nesmrtelným, ale jed mě zabije, proto když nemohu pít tu nejlepší možnou věc, pokusím se přinejmenším pít něco lepšího než to nejhorší. Může to trvat roky, než získám kapku nektaru, ale budu na něj čekat, protože vím, že nektar mě učiní nesmrtelným. Když mezitím musím něco pít, nebudu pít jed. Takže když necítíte, že jste zvláště dobří, nedovolte svému egu, aby vás vtáhlo do opačného extrému. Snadno můžete zůstat někde mezi.
 
@@ -379,12 +374,12 @@ Pokud nemohu pít nektar, neznamená to, že budu pít jed. Nektar mě učiní n
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:21-cs
   :END:
 
-/Sri Chinmoy:/ Musíte vědět, jakým druhem ega trpíte. Pokud máte soutěživé ego, budete chtít dělat všechno lépe než ostatní. Když je někdo lepší běžec než vy, budete ho chtít v běhu překonat. Když je někdo starší než vy a studuje ve vyšším ročníku, řeknete: „Přestože jsem mladší než on, přeji si ho předstihnout.“ 
+/Sri Chinmoy:/ musíte vědět, jakým druhem ega trpíte. pokud máte soutěživé ego, budete chtít dělat všechno lépe než ostatní. když je někdo lepší běžec než vy, budete ho chtít v běhu překonat. když je někdo starší než vy a studuje ve vyšším ročníku, řeknete: „Přestože jsem mladší než on, přeji si ho předstihnout.“ 
 
 Nikdy nepřikládejte ani trochu důležitosti egu, které chce soutěžit s ostatními. Musíte s každým cítit svou jednotu. Když tak uděláte, okamžitě rozšíříte své vědomí. Když někdo udělá něco dobře, musíte okamžitě cítit, že jste to vy, kdo to učinil. On by měl cítit to samé, když uděláte něco významného vy. Kdykoliv někdo udělá něco velmi dobře, ostatní musí cítit, že je to jejich vědomá inspirace a aspirace, které učinily toho člověka schopným dosáhnout tohoto úspěchu. Pokud máme vždy postoj týmové práce, potom budeme schopni překonat ego.
 
@@ -411,9 +406,9 @@ Naše ego může být překonáno těmito dvěma způsoby. Když se ztotožňuje
 * Pochybnost: pomalý jed
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBDE:22-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: tbde:22-cs
   :END:
 
 
@@ -438,9 +433,9 @@ Ale když cítíme, že uděláme něco pro Boha, nepoužívejme termín „velk
 * Pochybnost, víra a aspirace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBDE:23-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: tbde:23-cs
   :END:
 
 
@@ -448,7 +443,7 @@ Ten, kdo pochybuje, ztrácí. Pokud v duchovním životě cítíme, že pochybo
 
 Na poražení pochybnosti existuje zbraň a tou je víra. Naše víra je nekonečně silnější než pochybnost a Bůh nám dal tuto víru v hojné míře. Víra je uvnitř nás, ale my nedovolíme své víře vystoupit do popředí. Místo toho do svého života dovolujeme vstoupit cizincům, kteří ve skutečnosti nejsou naši. Těmito cizinci jsou strach, pochybnost, úzkost a ostatní nebožské síly. Víme, že strach nám nepatří a že pochybnost je zloděj. Víme, že bychom neměli dovolit vetřelcům a zlodějům do nás vstoupit. Ale tomu, které je naším zcela vlastním, dítěti víry, nedovolíme vystoupit do popředí a přeměnit náš život.
 
-V duchovním životě je pouze jedno pravidlo, a to mít víru. Víra je jako sval: lze ji posílit. Tak jako posílíme svalstvo, když pravidelně cvičíme, můžeme stejně tak cvičit a zvýšit svou vnitřní kapacitu. Bůh nikoho nepřivede na svět, aniž by mu nedal kapacitu. Pravidelným cvičením se můžeme stát vnitřně silnými. Když se každé ráno oduševněle a upřímně koncentrujeme a meditujeme, potom uvnitř nás pochybnost nemůže hrát svou destruktivní roli. Až se staneme silnějšími ve svém vnitřním životě, budeme moci říct: „Ať si mě pochybnost napadne. Já si dokážu udržet svou dokonalou víru.“
+V duchovním životě je pouze jedno pravidlo, a to mít víru. Víra je jako sval: lze ji posílit. tak jako posílíme svalstvo, když pravidelně cvičíme, můžeme stejně tak cvičit a zvýšit svou vnitřní kapacitu. bůh nikoho nepřivede na svět, aniž by mu nedal kapacitu. pravidelným cvičením se můžeme stát vnitřně silnými. když se každé ráno oduševněle a upřímně koncentrujeme a meditujeme, potom uvnitř nás pochybnost nemůže hrát svou destruktivní roli. až se staneme silnějšími ve svém vnitřním životě, budeme moci říct: „Ať si mě pochybnost napadne. Já si dokážu udržet svou dokonalou víru.“
 
 Negativní síly, jako vše ostatní, mají pýchu. Velmi brzy pochybnost pocítí, že je pod její úroveň, být neustále odmítána a odpírána. Pochybnost nás brzy opustí, pokud ji nebudeme vítat. Pokud si pochybnosti nebudeme všímat, pokud s ní budeme jednat jako s neznámým člověkem nebo cizincem, její pýcha bude dotčena a opustí nás navždy. Tím, že pravidelně a oddaně meditujeme, můžeme se před vstupem pochybnosti ochránit.
 
@@ -459,9 +454,9 @@ Víra je naší nejmocnější zbraní. Pokud chceme a potřebujeme víru, musí
 * Když pochybujeme o sobě, stáváme se tím, kdo opravdu ztrácí
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBDE:24-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: tbde:24-cs
   :END:
 
 
@@ -480,9 +475,9 @@ Hledající, kteří mají duchovního Mistra, o sobě nesmí pochybovat. Když
 * Musí bojovat s pochybností i vysoké duše, které byly osvobozeny v předchozí inkarnaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:25-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:25-cs
   :END:
 
 /Sri Chinmoy:/ Pochybnost je téměř neléčitelná nemoc. Dokud a pokud nerealizujeme nejvyšší Pravdu, je zde vždy možnost, že do nás pochybnost vstoupí. Mnoho duchovních hledajících se stává obětí pochybnosti, dokonce i když dělají velmi rychlý duchovní pokrok, nebo poté, co ušli v duchovním životě dlouhou cestu. Ale jakmile se jednou uskuteční realizace, pochybnost je  našeho života navždy vyhoštěna. 
@@ -492,9 +487,9 @@ Hledající, kteří mají duchovního Mistra, o sobě nesmí pochybovat. Když
 * Proč duchovní Mistr zůstává se svými žáky, když se tak často stávají obětí pochyb?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:26-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:26-cs
   :END:
 
 /Sri Chinmoy:/: Když někdo stojí na břehu a vidí, že se někdo jiný topí v moři, musí skočit do moře a zachránit topící se osobu. Zůstane-li stát na břehu, potom nemůže tonoucímu zachránit život. Když Mistr vidí, že lidé umírají v moři nevědomosti, musí přijít a zachránit je.
@@ -518,9 +513,9 @@ Když Mistr vidí, že o něm žáci pochybují, přirozeně se může jednoduš
 * Guru, dá se popsat realizace Boha jako stav, kdy nemáme vůbec žádnou pochybnost, kdy máme absolutní kontrolu nad pochybností mysli
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:27-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:27-cs
   :END:
 
 /Sri Chinmoy:/ Realizace Boha je daleko obtížnější než kontrola mysli. Upřímný aspirant může mysl utišit natolik, že v ní není žádná pochybnost. V klidné, tiché mysli, prázdné mysli není vůbec žádná pochybnost. Ale musíme jít mnohem dál, hlouběji a výš, abychom realizovali Boha.
@@ -538,9 +533,9 @@ Ale pro hledajícího není absolutně nevyhnutelné tímto procházet. V někt
 * Ústí nepřítomnost pochybnosti v absolutní víru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:28-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:28-cs
   :END:
 
 /Sri Chinmoy:/ Pouze to, že o někom nepochybujete, neznamená, že v tu osobu máte automaticky víru. Je mnoho lidí, kteří nepochybují o kapacitě duchovního učitele nebo Mistra, ale zároveň v něj nemají víru. Místo toho s ním jednoduše nemají nic společného. Vědí, že je duchovním Mistrem, a nepochybují o jeho duchovní výšce. Vůbec nepochybují o tom, že je upřímným člověkem. Ale pouze to, že cítí, že je upřímným člověkem, neznamená, že v něj budou mít automaticky velkou víru. Nikdy se nedotknou jeho nohou ani se nestanou jeho žáky. Jednoduše se o něj nestarají.
@@ -550,31 +545,17 @@ Ale pro hledajícího není absolutně nevyhnutelné tímto procházet. V někt
 * Když přijdu do Centra, napadají mě takové pochybnosti, jaké nikdy nemám, když jsem doma. Čím to je?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TBDE:29-cs
+  :genre: qa
+  :keywords:
+  :cite-key: tbde:29-cs
   :END:
 
-/Sri Chinmoy:/ Když vstoupíš do duchovního života, někdy najednou vidíš a cítíš, jak do popředí vystupuje mnoho nebožských kvalit. Někteří žáci se ptají svých Mistrů: „Jak to, že jsem dříve nebyl žárlivý? Neměl jsem tento pocit nejistoty, frustrace a jiné věci. Proč je nyní získávám?“ 
+/Sri Chinmoy:/ když vstoupíš do duchovního života, někdy najednou vidíš a cítíš, jak do popředí vystupuje mnoho nebožských kvalit. někteří žáci se ptají svých mistrů: „Jak to, že jsem dříve nebyl žárlivý? Neměl jsem tento pocit nejistoty, frustrace a jiné věci. Proč je nyní získávám?“ 
 
 Předtím než jsme vstoupili do duchovního života, byli jsme zcela nevědomí; tygr uvnitř nás spal. Ale když tygr vidí, že se pokoušíme opustit jeho panství, řekne: „Kam jdeš? Jaké máš právo mě opustit? Spolknu tě dříve, než mě opustíš.“ Dokud si je tygr-pochybnost dostatečně jistý tím, že s ním stále zůstáváš, necítí potřebu hrozit ti a strašit tě. Ale když se začneš snažit dostat se ze své klece spoutanosti, tygr nevědomosti ti v tom bude chtít zabránit. Zaútočí na tebe nanejvýš mocně pochybnostmi a ostatními nebožskými silami, jakmile cítí, že mu hrozíš tím, že ho opustíš. Proto jsi napadán, jakmile přijdeš meditovat do Centra. Tam jsou božské síly nejsilnější, takže tam se tebou tygr nevědomosti cítí ohrožen.
 
 Nemysli si, že slabosti a nedokonalosti v tobě vystupují do popředí pouze proto, že jsi přijal duchovní život. Naopak, byly zde i dříve, ale byly schované. Měl bys být svému duchovnímu životu vděčný za to, že tvé nedokonalosti vynáší do popředí. Čím dříve vystoupí tvé nedokonalosti do popředí, tím dříve se jim budeš schopen postavit a porazit je. Takže když tě napadne pochybnost a jiné nedokonalosti, měl bys říci: „Přišly jste. Nyní vás porazím jednou provždy. Potom budu volný.“
 
-Mnoho žáků je dokonalých, když jsou doma, ale ve chvíli, kdy přijdou do Centra, stanou se žárlivými nebo o sobě začnou pochybovat anebo se jejich mysl naplní nebožskými myšlenkami. Jakmile se na mne podívají, vnitřně řeknou: „Och, chovám tak nebožské myšlenky!“ Bojí se, že uvidím jejich nebožské myšlenky, takže se je snaží schovat jako zloděj. Ale měli by se snažit jednat jako dítě, a ne jako zloděj. Dítě není zahanbené, když je špinavé. Pouze přiběhne k matce a ta ho očistí. Vy jste mé duchovní děti, takže musíte vhodit svou žárlivost a nebožské myšlenky do mne. Místo toho mylně říkáte: „Když schovám své nebožské myšlenky, on je neuvidí. Až přijdu příště, možná budou pryč.“ To je zcela absurdní. Kdykoliv máte špatné myšlenky, snažte se je vhodit do mne. Pokud si myslíte: „Ach, on vidí, jak jsem nebožský,“ a držíte si své smetí uvnitř, jak vám mohu pomoci? Jsem připraven vaše nebožské myšlenky odejmout. Pouze vhoďte své odpadky nevědomosti do mě. Naneštěstí je mnoho žáků, kteří ke mně přijdou a bojují nebo se snaží schovat. Nebojujte, neschovávejte nic. Je to pro vás nejlepší příležitost, abyste vhodili tyto problémy do mne.
+Mnoho žáků je dokonalých, když jsou doma, ale ve chvíli, kdy přijdou do Centra, stanou se žárlivými nebo o sobě začnou pochybovat anebo se jejich mysl naplní nebožskými myšlenkami. Jakmile se na mne podívají, vnitřně řeknou: „och, chovám tak nebožské myšlenky!“ bojí se, že uvidím jejich nebožské myšlenky, takže se je snaží schovat jako zloděj. ale měli by se snažit jednat jako dítě, a ne jako zloděj. dítě není zahanbené, když je špinavé. pouze přiběhne k matce a ta ho očistí. vy jste mé duchovní děti, takže musíte vhodit svou žárlivost a nebožské myšlenky do mne. místo toho mylně říkáte: „když schovám své nebožské myšlenky, on je neuvidí. až přijdu příště, možná budou pryč.“ to je zcela absurdní. kdykoliv máte špatné myšlenky, snažte se je vhodit do mne. pokud si myslíte: „Ach, on vidí, jak jsem nebožský,“ a držíte si své smetí uvnitř, jak vám mohu pomoci? Jsem připraven vaše nebožské myšlenky odejmout. Pouze vhoďte své odpadky nevědomosti do mě. Naneštěstí je mnoho žáků, kteří ke mně přijdou a bojují nebo se snaží schovat. Nebojujte, neschovávejte nic. Je to pro vás nejlepší příležitost, abyste vhodili tyto problémy do mne.
 
 Pro žáka je docela možné vzdát se najednou strachu, pochybnosti a žárlivosti. Mnoho lidí to udělalo. Musíte jednoduše vědět, co získáte, když překonáte tyto nebožské kvality. Ciťte, že získáte nekonečný Mír, Světlo a Blaženost. Učiňte tento pocit skutečností. Ciťte, že odmítáte jednu věc a přijímáte něco jiného. Řekněte si: „Pokud porazím svojí pochybnost, žárlivost a nejistotu, získám vše v nekonečné míře.“ Přirozeně se pokusíte získat věc, která je nanejvýš naplňující, věc, po které pláčete ve svém životě aspirace.
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

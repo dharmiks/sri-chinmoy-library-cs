@@ -1,12 +1,7 @@
-#+TITLE: Představ si...
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Představ si...
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -22,8 +17,8 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:1-cs
+  :genre: aphorism
+  :cite-key: imgn:1-cs
   :END:
 
 Představ si krásu zahrady svého srdce.
@@ -33,8 +28,8 @@ Představ si krásu zahrady svého srdce.
 * 2.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:2-cs
+  :genre: aphorism
+  :cite-key: imgn:2-cs
   :END:
 
 Představ si vůni blaženosti své duše.
@@ -44,8 +39,8 @@ Představ si vůni blaženosti své duše.
 * 3.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:3-cs
+  :genre: aphorism
+  :cite-key: imgn:3-cs
   :END:
 
 Představ si ticho v hlubinách moře.
@@ -55,8 +50,8 @@ Představ si ticho v hlubinách moře.
 * 4.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:4-cs
+  :genre: aphorism
+  :cite-key: imgn:4-cs
   :END:
 
 Představ si ticho na vrcholku hory.
@@ -66,8 +61,8 @@ Představ si ticho na vrcholku hory.
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:5-cs
+  :genre: aphorism
+  :cite-key: imgn:5-cs
   :END:
 
 Představ si ticho.
@@ -77,8 +72,8 @@ Představ si ticho.
 * 6.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:6-cs
+  :genre: aphorism
+  :cite-key: imgn:6-cs
   :END:
 
 Představ si smích, zpívání a hraní dětí.
@@ -88,8 +83,8 @@ Představ si smích, zpívání a hraní dětí.
 * 7.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:7-cs
+  :genre: aphorism
+  :cite-key: imgn:7-cs
   :END:
 
 Představ si modrou oblohu.
@@ -99,8 +94,8 @@ Představ si modrou oblohu.
 * 8.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:8-cs
+  :genre: aphorism
+  :cite-key: imgn:8-cs
   :END:
 
 Představ si ranní duhu.
@@ -110,8 +105,8 @@ Představ si ranní duhu.
 * 9.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:9-cs
+  :genre: aphorism
+  :cite-key: imgn:9-cs
   :END:
 
 Představ si krásu jednoduchosti.
@@ -121,8 +116,8 @@ Představ si krásu jednoduchosti.
 * 10.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:10-cs
+  :genre: aphorism
+  :cite-key: imgn:10-cs
   :END:
 
 Představ si záplavu soucitu měsíce.
@@ -132,8 +127,8 @@ Představ si záplavu soucitu měsíce.
 * 11.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:11-cs
+  :genre: aphorism
+  :cite-key: imgn:11-cs
   :END:
 
 Představ si tanec mihotajících se hvězd.
@@ -143,8 +138,8 @@ Představ si tanec mihotajících se hvězd.
 * 12.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:12-cs
+  :genre: aphorism
+  :cite-key: imgn:12-cs
   :END:
 
 Představ si hravou veselost mořských vln.
@@ -154,8 +149,8 @@ Představ si hravou veselost mořských vln.
 * 13.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:13-cs
+  :genre: aphorism
+  :cite-key: imgn:13-cs
   :END:
 
 Představ si zurčení řeky.
@@ -165,8 +160,8 @@ Představ si zurčení řeky.
 * 14.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:14-cs
+  :genre: aphorism
+  :cite-key: imgn:14-cs
   :END:
 
 Představ si vůni padajících okvětních lístků.
@@ -176,8 +171,8 @@ Představ si vůni padajících okvětních lístků.
 * 15.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:15-cs
+  :genre: aphorism
+  :cite-key: imgn:15-cs
   :END:
 
 Představ si zrození mírového světa.
@@ -187,8 +182,8 @@ Představ si zrození mírového světa.
 * 16.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:16-cs
+  :genre: aphorism
+  :cite-key: imgn:16-cs
   :END:
 
 Představ si, že každý člověk pláče po světovém míru.
@@ -198,8 +193,8 @@ Představ si, že každý člověk pláče po světovém míru.
 * 17.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:17-cs
+  :genre: aphorism
+  :cite-key: imgn:17-cs
   :END:
 
 Představ si, že světový mír plodí krásné květy a lahodné ovoce.
@@ -209,8 +204,8 @@ Představ si, že světový mír plodí krásné květy a lahodné ovoce.
 * 18.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:18-cs
+  :genre: aphorism
+  :cite-key: imgn:18-cs
   :END:
 
 Představ si naprosté ukončení světových konfliktů.
@@ -220,8 +215,8 @@ Představ si naprosté ukončení světových konfliktů.
 * 19.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:19-cs
+  :genre: aphorism
+  :cite-key: imgn:19-cs
   :END:
 
 Představ si, že máš sehrát zvláštní roli ve vytvoření světového míru.
@@ -231,8 +226,8 @@ Představ si, že máš sehrát zvláštní roli ve vytvoření světového mír
 * 20.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:20-cs
+  :genre: aphorism
+  :cite-key: imgn:20-cs
   :END:
 
 Představ si nebývalou světovou harmonii.
@@ -242,8 +237,8 @@ Představ si nebývalou světovou harmonii.
 * 21.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:21-cs
+  :genre: aphorism
+  :cite-key: imgn:21-cs
   :END:
 
 Představ si stále stoupající plameny svého srdce.
@@ -253,8 +248,8 @@ Představ si stále stoupající plameny svého srdce.
 * 22.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:22-cs
+  :genre: aphorism
+  :cite-key: imgn:22-cs
   :END:
 
 Představ si nanejvýš uchvacující melodii flétny svého srdce.
@@ -264,8 +259,8 @@ Představ si nanejvýš uchvacující melodii flétny svého srdce.
 * 23.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:23-cs
+  :genre: aphorism
+  :cite-key: imgn:23-cs
   :END:
 
 Představ si hodinu jednoty mysli.
@@ -275,8 +270,8 @@ Představ si hodinu jednoty mysli.
 * 24.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:24-cs
+  :genre: aphorism
+  :cite-key: imgn:24-cs
   :END:
 
 Představ si věž plnosti srdce.
@@ -286,8 +281,8 @@ Představ si věž plnosti srdce.
 * 25.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:25-cs
+  :genre: aphorism
+  :cite-key: imgn:25-cs
   :END:
 
 Představ si, že tě volá ranní rosa.
@@ -297,8 +292,8 @@ Představ si, že tě volá ranní rosa.
 * 26.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:26-cs
+  :genre: aphorism
+  :cite-key: imgn:26-cs
   :END:
 
 Představ si, že tě volají večerní hvězdy.
@@ -308,8 +303,8 @@ Představ si, že tě volají večerní hvězdy.
 * 27.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:27-cs
+  :genre: aphorism
+  :cite-key: imgn:27-cs
   :END:
 
 Představ si, že všichni létáme po obloze s modrými ptáky.
@@ -319,8 +314,8 @@ Představ si, že všichni létáme po obloze s modrými ptáky.
 * 28.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:28-cs
+  :genre: aphorism
+  :cite-key: imgn:28-cs
   :END:
 
 Představ si krásu Země bez slz.
@@ -330,8 +325,8 @@ Představ si krásu Země bez slz.
 * 29.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:29-cs
+  :genre: aphorism
+  :cite-key: imgn:29-cs
   :END:
 
 Představ si, že jsme teď všichni v Nebi.
@@ -341,8 +336,8 @@ Představ si, že jsme teď všichni v Nebi.
 * 30.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:30-cs
+  :genre: aphorism
+  :cite-key: imgn:30-cs
   :END:
 
 Představ si stále kvetoucí jaro.
@@ -352,8 +347,8 @@ Představ si stále kvetoucí jaro.
 * 31.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:31-cs
+  :genre: aphorism
+  :cite-key: imgn:31-cs
   :END:
 
 Představ si mír teď a tady.
@@ -363,8 +358,8 @@ Představ si mír teď a tady.
 * 32.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:32-cs
+  :genre: aphorism
+  :cite-key: imgn:32-cs
   :END:
 
 Představ si mír právě zde na Zemi.
@@ -374,8 +369,8 @@ Představ si mír právě zde na Zemi.
 * 33.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:33-cs
+  :genre: aphorism
+  :cite-key: imgn:33-cs
   :END:
 
 Představ si Boží stvoření v bezmezné čistotě.
@@ -385,8 +380,8 @@ Představ si Boží stvoření v bezmezné čistotě.
 * 34.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:34-cs
+  :genre: aphorism
+  :cite-key: imgn:34-cs
   :END:
 
 Představ si a sni sen o světovém míru.
@@ -396,8 +391,8 @@ Představ si a sni sen o světovém míru.
 * 35.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:35-cs
+  :genre: aphorism
+  :cite-key: imgn:35-cs
   :END:
 
 Představ si svět snů nádherné krásy.
@@ -407,8 +402,8 @@ Představ si svět snů nádherné krásy.
 * 36.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:36-cs
+  :genre: aphorism
+  :cite-key: imgn:36-cs
   :END:
 
 Představ si modrozlaté ptáky letící po obloze.
@@ -418,8 +413,8 @@ Představ si modrozlaté ptáky letící po obloze.
 * 37.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:37-cs
+  :genre: aphorism
+  :cite-key: imgn:37-cs
   :END:
 
 Představ si, že bychom všichni mohli prostě žít v míru.
@@ -429,8 +424,8 @@ Představ si, že bychom všichni mohli prostě žít v míru.
 * 38.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:38-cs
+  :genre: aphorism
+  :cite-key: imgn:38-cs
   :END:
 
 Představ si, že bychom všichni mohli být ve světě plném blaženosti.
@@ -440,8 +435,8 @@ Představ si, že bychom všichni mohli být ve světě plném blaženosti.
 * 39.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:39-cs
+  :genre: aphorism
+  :cite-key: imgn:39-cs
   :END:
 
 Představ si, že by celý svět mohl společně sdílet v dobré vůli.
@@ -451,8 +446,8 @@ Představ si, že by celý svět mohl společně sdílet v dobré vůli.
 * 40.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:40-cs
+  :genre: aphorism
+  :cite-key: imgn:40-cs
   :END:
 
 Představ si, že by celý svět mohl zpívat krásné písně.
@@ -462,8 +457,8 @@ Představ si, že by celý svět mohl zpívat krásné písně.
 * 41.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:41-cs
+  :genre: aphorism
+  :cite-key: imgn:41-cs
   :END:
 
 Představ si, že by celý svět mohl zjistit, že je Božím stvořením.
@@ -473,8 +468,8 @@ Představ si, že by celý svět mohl zjistit, že je Božím stvořením.
 * 42.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:42-cs
+  :genre: aphorism
+  :cite-key: imgn:42-cs
   :END:
 
 Představ si nový svět plně rozkvetlý v kráse.
@@ -484,8 +479,8 @@ Představ si nový svět plně rozkvetlý v kráse.
 * 43.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:43-cs
+  :genre: aphorism
+  :cite-key: imgn:43-cs
   :END:
 
 Představ si svět bez bolesti.
@@ -495,8 +490,8 @@ Představ si svět bez bolesti.
 * 44.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:44-cs
+  :genre: aphorism
+  :cite-key: imgn:44-cs
   :END:
 
 Představ si svět bez utrpení.
@@ -506,8 +501,8 @@ Představ si svět bez utrpení.
 * 45.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:45-cs
+  :genre: aphorism
+  :cite-key: imgn:45-cs
   :END:
 
 Představ si svět bez žárlivosti.
@@ -517,8 +512,8 @@ Představ si svět bez žárlivosti.
 * 46.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:46-cs
+  :genre: aphorism
+  :cite-key: imgn:46-cs
   :END:
 
 Představ si svět plný vzájemné důvěry.
@@ -528,8 +523,8 @@ Představ si svět plný vzájemné důvěry.
 * 47.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:47-cs
+  :genre: aphorism
+  :cite-key: imgn:47-cs
   :END:
 
 Představ si svět se šťastnými, smějícími se tvářemi.
@@ -539,8 +534,8 @@ Představ si svět se šťastnými, smějícími se tvářemi.
 * 48.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:48-cs
+  :genre: aphorism
+  :cite-key: imgn:48-cs
   :END:
 
 Představ si svět se smějícíma se očima.
@@ -550,8 +545,8 @@ Představ si svět se smějícíma se očima.
 * 49.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:49-cs
+  :genre: aphorism
+  :cite-key: imgn:49-cs
   :END:
 
 Představ si svěží svět.
@@ -561,8 +556,8 @@ Představ si svěží svět.
 * 50.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:50-cs
+  :genre: aphorism
+  :cite-key: imgn:50-cs
   :END:
 
 Představ si lidské bytosti, jak se všechny přátelí.
@@ -572,8 +567,8 @@ Představ si lidské bytosti, jak se všechny přátelí.
 * 51.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:51-cs
+  :genre: aphorism
+  :cite-key: imgn:51-cs
   :END:
 
 Představ si sám sebe jako tvůrce nového světa.
@@ -583,8 +578,8 @@ Představ si sám sebe jako tvůrce nového světa.
 * 52.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:52-cs
+  :genre: aphorism
+  :cite-key: imgn:52-cs
   :END:
 
 Představ si všechny své přátele, s tebou a pro tebe.
@@ -594,8 +589,8 @@ Představ si všechny své přátele, s tebou a pro tebe.
 * 53.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:53-cs
+  :genre: aphorism
+  :cite-key: imgn:53-cs
   :END:
 
 Představ si přátelství, které tě posilňuje.
@@ -605,8 +600,8 @@ Představ si přátelství, které tě posilňuje.
 * 54.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:54-cs
+  :genre: aphorism
+  :cite-key: imgn:54-cs
   :END:
 
 Představ si svět bez jakéhokoliv utrpení.
@@ -616,8 +611,8 @@ Představ si svět bez jakéhokoliv utrpení.
 * 55.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:55-cs
+  :genre: aphorism
+  :cite-key: imgn:55-cs
   :END:
 
 Představ si svět, kde je všechen déšť čistý.
@@ -627,8 +622,8 @@ Představ si svět, kde je všechen déšť čistý.
 * 56.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:56-cs
+  :genre: aphorism
+  :cite-key: imgn:56-cs
   :END:
 
 Představ si svět, kde jsou všechny stromy zelené.
@@ -638,8 +633,8 @@ Představ si svět, kde jsou všechny stromy zelené.
 * 57.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:57-cs
+  :genre: aphorism
+  :cite-key: imgn:57-cs
   :END:
 
 Představ si hluboký les se stále zelenými stromy.
@@ -649,8 +644,8 @@ Představ si hluboký les se stále zelenými stromy.
 * 58.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:58-cs
+  :genre: aphorism
+  :cite-key: imgn:58-cs
   :END:
 
 Představ si všechny ptáky létající po jasné obloze.
@@ -660,8 +655,8 @@ Představ si všechny ptáky létající po jasné obloze.
 * 59.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:59-cs
+  :genre: aphorism
+  :cite-key: imgn:59-cs
   :END:
 
 Představ si všechnu vodu, čistou, jasnou a průzračnou.
@@ -671,8 +666,8 @@ Představ si všechnu vodu, čistou, jasnou a průzračnou.
 * 60.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:60-cs
+  :genre: aphorism
+  :cite-key: imgn:60-cs
   :END:
 
 Představ si všechny oceány bez znečištění.
@@ -682,8 +677,8 @@ Představ si všechny oceány bez znečištění.
 * 61.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:61-cs
+  :genre: aphorism
+  :cite-key: imgn:61-cs
   :END:
 
 Představ si všechny oceány dostatečně čisté na plavání.
@@ -693,8 +688,8 @@ Představ si všechny oceány dostatečně čisté na plavání.
 * 62.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:62-cs
+  :genre: aphorism
+  :cite-key: imgn:62-cs
   :END:
 
 Představ si, že všechny naše naděje plavou v moři našeho života.
@@ -704,8 +699,8 @@ Představ si, že všechny naše naděje plavou v moři našeho života.
 * 63.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:63-cs
+  :genre: aphorism
+  :cite-key: imgn:63-cs
   :END:
 
 Představ si svět se zlatými úsměvy.
@@ -715,27 +710,8 @@ Představ si svět se zlatými úsměvy.
 * 64.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :cite-key: IMGN:64-cs
+  :genre: aphorism
+  :cite-key: imgn:64-cs
   :END:
 
 Představ si svět, kterému vládne láska.
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# END:
-
-
-
-
-

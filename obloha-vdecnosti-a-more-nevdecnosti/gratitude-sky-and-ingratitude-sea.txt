@@ -1,12 +1,7 @@
-#+TITLE: Obloha vděčnosti a moře nevděčnosti
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Obloha vděčnosti a moře nevděčnosti
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: nil
@@ -25,18 +20,18 @@
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: GSIS:1-cs
+  :cite-key: gsis:1-cs
   :date-event: 1974-09-14
   :END:
 
 
 Byl jednou jeden duchovní Mistr, který měl jen třicet žáků. Bůh mu dal dobré srdce, ale mnoho lidí toho zneužívalo. Docela často se se svými žáky scházel. Měl stále ve zvyku je utěšovat a zkoušel osvítit jejich nevědomost, když byli mentálně a vitálně nemocní. Ale oni si nevážili jeho laskavosti, náklonnosti, soucitu a lásky. Nikdy nevyjádřili žádnou vděčnost, ani vnitřně ani vnějšně, a všechno, co udělal, pokládali za samozřejmé. Nežádal je o žádný druh lásky, nabídku nebo příspěvek, a nikdy nežádal žádný poplatek za své schůzky. Všechno bylo zdarma. Měl velmi malý výdělek z jiného zdroje než z duchovního života. Tak to šlo léta.
 
-Jednoho dne se cítil smutně a mizerně, protože jeho světlo nebylo správně přijato, a jeho žáci nedělali uspokojující duchovní pokrok. A tak měl tu noc rozmluvu s Bohem. Řekl Bohu: „Víš, kolik času jsem strávil s těmito beznadějnými případy, zbytečnými, nevděčnými lidmi, ale nic jsem zatím pro tebe na zemi nedokončil. A pokud jde o uznání světla uvnitř mne, nemluvě o vděčnosti, nezpozoroval jsem žádnou reakci od svých žáků nebo mých přátel a známých. Bůh se na něho usmál a řekl: „Dobře, dokážu ti, že vděčnost na zemi existuje. Jednoho dne rozhodně potkáš lidi, kteří ti nabídnou vděčnost."
+Jednoho dne se cítil smutně a mizerně, protože jeho světlo nebylo správně přijato, a jeho žáci nedělali uspokojující duchovní pokrok. A tak měl tu noc rozmluvu s Bohem. Řekl Bohu: „víš, kolik času jsem strávil s těmito beznadějnými případy, zbytečnými, nevděčnými lidmi, ale nic jsem zatím pro tebe na zemi nedokončil. a pokud jde o uznání světla uvnitř mne, nemluvě o vděčnosti, nezpozoroval jsem žádnou reakci od svých žáků nebo mých přátel a známých. bůh se na něho usmál a řekl: „Dobře, dokážu ti, že vděčnost na zemi existuje. Jednoho dne rozhodně potkáš lidi, kteří ti nabídnou vděčnost."
 
 Následujícího rána vyšel duchovní Mistr z domu a šel do parku meditovat. Na cestě potkal jednu ze svých neupřímných žaček. Tato žena řekla Mistrovi: „Mistře, mám přítele, který umírá po tom, aby se s tebou setkal. Mohl bys s ním strávit chvilku? Právě je v mém domě, je to velmi blízko. Vím, že nepiješ kávu ani čaj, ale mohu-li nabídnout mléko nebo džus. Budu tak šťastná, tak vděčná, tak poctěná, když ke mně přijdeš a zodpovíš některé otázky mého přítele.
 
-Byla to otázka minuty, a tak to mistr udělal. Přítel té ženy, řekl Mistrovi: „Ahoj, jak se máš?" Mistr řekl: "Pěkně, děkuji," a podal mu ruku. Pán si s Mistrem potřásl rukou. Mistr se na něj usmál a šel do parku.
+Byla to otázka minuty, a tak to mistr udělal. Přítel té ženy, řekl Mistrovi: „ahoj, jak se máš?" mistr řekl: "Pěkně, děkuji," a podal mu ruku. Pán si s Mistrem potřásl rukou. Mistr se na něj usmál a šel do parku.
 
 Když se o dvě hodiny později vrátil Mistr domů, čekala na něho tato žákyně u dveří. Řekla: „Mistře, tady je deset dolarů. Můj přítel řekl, že tvůj úsměv zodpověděl všechny jeho otázky. Krátce ses na něj usmál a v té chvilce byly všechny jeho životní otázky zodpovězeny. Těchto deset dolarů ti dal s nejvyšší láskou a vděčností. Je chudý, jinak by ti dal mnohem více peněz. Řekl mi. abych ti pověděla, že je plný vděčnosti a bude ti věčně vděčný za tvůj úsměv."
 
@@ -51,7 +46,7 @@ Mistr si vzpomněl na svou konverzaci s Bohem předešlé noci, když ho Bůh ut
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: GSIS:3-cs
+  :cite-key: gsis:3-cs
   :date-event: 1974-09-14
   :END:
 
@@ -117,7 +112,7 @@ Mistr ronil slzy vděčnosti. Řekl hledající: „Cítíš, že nejsi připrav
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: GSIS:4-cs
+  :cite-key: gsis:4-cs
   :date-event: 1974-09-14
   :END:
 
@@ -125,17 +120,17 @@ Byl jednou jeden duchovni mistr, který měl jen sto žáků. Většina žáků 
 
 Jedna žákyně, paní okolo padesáti, byla velmi nejistá. Nehledě na to, měla jisté potíže v plíci. A proto měl Mistr pro ni zvláštní zájem. Navštívila spoustu doktorů, ale ti ji neuměli vyléčit. Občas obdržela Mistrovo světlo, a pak se cítila trochu lépe. Když ale jeho světlo neobdržela, hodné trpěla, V důsledku své slabé plíce někdy nemohla spát a Mistr jí musel dát okultní radu na tělesné úrovni na to, jak usnout. Poté byla schopna spát několik dní, ale zanedlouho trpěla opět. Mistr byl velmi soucitný s touto paní, ale věděl, že její utrpení by skončilo, jen kdyby jí mohl upřímně říci příčinu. Říkala mu: „Buď ke mně prosím upřímný a řekni mi, proč tak mnoho trpím."
 
-Mistr se zeptal Boha, zda by jí mohl říci, proč se u ní rozvinula slabá plíce. Ale Bůh mu řekl: „Když jí řekneš, proč trpí, zítra tě opustí." Mistr odpověděl: Potřebuju ji?"
+Mistr se zeptal Boha, zda by jí mohl říci, proč se u ní rozvinula slabá plíce. Ale Bůh mu řekl: „když jí řekneš, proč trpí, zítra tě opustí." mistr odpověděl: Potřebuju ji?"
 
 "Je pravda, že ji nepotřebuješ," řekl Bůh. „ale když s tebou zůstane, když bude k tobě dále chodit pro duchovni vedení, tak je zde jakási šance, že jednoho dne od tebe obdrží nezměrné světlo. Potom budeš moci vyléčit její plíci. Ale když jí řekneš, že trpí kvůli svému emocionálnímu životu, svému nižšímu vitálnímu životu, a že tohoto života musí zanechat, bude toho schopna? Teď vede ve skutečnosti dvojí život. Má padesát pět let; a je svobodná, ale žije v emocionálním světě. Když jí řekneš, aby vedla čistý život a vzdala se všech svých vitálních vztahů, bude to pro ni nemožné. Jen se vzdá duchovního života. Proto je nejlepší to pominout a zkusit jí pomoci, jak nejlépe dovedeš. Víš, jak mnoho trpí v důsledku svého emocionálního života."
 
 Mistr řekl: „Právě proto, že trpí kvůli svému emocionálnímu životu, by bylo ode mě moudré, abych jí upřímně řekl příčinu jejího utrpení -- i přestože budu jednat jako řezník."
 
-Bůh velmi zvážněl a řekl Mistrovi: „Nejednej proti mé vůli. Nikdy jí nesmíš říct, proč trpí. Jen jí dej tolik světla, kolik můžeš. To je to, co od tebe chci." Mistr se okamžitě odevzdal Boží Vůli a řekl: „Jistě." Mistr dále nabízel této paní nejvyšší soucit. Věděl, že když někdo trpí tímto druhem plicního onemocnění, je pro něho nejlepší dělat lehkou práci. Tak jí učinil svou zahradnicí a dal jí i trochu kancelářské práce. Někdy jí požádal, aby mu zjednala schůzku, zúčastnila se duchovních setkání a zaznamenávala různá setkání.
+Bůh velmi zvážněl a řekl Mistrovi: „nejednej proti mé vůli. nikdy jí nesmíš říct, proč trpí. jen jí dej tolik světla, kolik můžeš. to je to, co od tebe chci." mistr se okamžitě odevzdal boží vůli a řekl: „Jistě." Mistr dále nabízel této paní nejvyšší soucit. Věděl, že když někdo trpí tímto druhem plicního onemocnění, je pro něho nejlepší dělat lehkou práci. Tak jí učinil svou zahradnicí a dal jí i trochu kancelářské práce. Někdy jí požádal, aby mu zjednala schůzku, zúčastnila se duchovních setkání a zaznamenávala různá setkání.
 
 Mistr ji povzbuzoval, aby byla ve světě květin. Tajně doufal, že když zůstane ve světě květin, zasvitne v ní kousek čistoty a bude chtít vést lepší život. Samozřejmě, že to byl hloupý nápad. Kdyby se tak stalo, všichni zahradníci a květináři by se stali čistými prvotřídními dušemi. Člověk se může dotknout květin a přivonět si k jejich vůni, ale jeho mysl může zůstávat nečistá. Ale protože květiny ztělesňují čistotu, Mistr zoufale doufal, že by mohly v jejím srdci, mysli a fyzickém vytvořit určitou čistotu.
 
-Tak to šlo po nějakou dobu. Paní trpěla a Mistr také trpěl. Jednoho dne řekla jednomu z Mistrových nejdražších žáků: „Tento Mistr není dobrý. Nemá žádnou duchovní sílu, žádnou okultní sílu, nic, nic, nic! Věřila jsem v něho. Někdy jsem ho v tajnosti nazývala 'otče' a na den otců jsem mu dala dopis, v němž stálo: "otcové přicházejí a otcové odcházejí, ale zde je otec, který mě neopustí, i když ho chci opustit. Je můj věčný otec, můj otec věčnosti." Teď vidím, že jsem se mýlila ve všem, co jsem si o něm myslela."
+Tak to šlo po nějakou dobu. Paní trpěla a Mistr také trpěl. Jednoho dne řekla jednomu z Mistrových nejdražších žáků: „tento mistr není dobrý. nemá žádnou duchovní sílu, žádnou okultní sílu, nic, nic, nic! věřila jsem v něho. někdy jsem ho v tajnosti nazývala 'otče' a na den otců jsem mu dala dopis, v němž stálo: "otcové přicházejí a otcové odcházejí, ale zde je otec, který mě neopustí, i když ho chci opustit. Je můj věčný otec, můj otec věčnosti." Teď vidím, že jsem se mýlila ve všem, co jsem si o něm myslela."
 
 „Kdyby měl můj fyzický otec nějaké možnosti, kdyby měl nějaké peníze, dal by mi, o cokoliv bych ho požádala, kdyby mohl. Buď nemá schopnost, nebo má schopnost, ale nevyužívá ji pro mě. Můj pocit je, že nemá schopnost. Proč bych si to měla myslet jinak? Nemá schopnost a tak je pro mě nejlepší, abych ho opustila a poohlédla se po jiném Mistrovi."
 
@@ -151,13 +146,13 @@ Mistr řekl Bohu vše, co slyšel od ženina přítele. Bůh se smál a smál a 
 
 Protože paní bydlela blízko Mistra, další den pro ni poslal a ona přišla pracovat na jeho zahradu. Tehdy Mistr neměl tak mnoho žáků, aby pro něho vařili a on sám zřídka vařil -- snad jednou do roka. Ale v ten den Mistr cítil, jak do jeho života vstoupil ohromný soucit.
 
-Jelikož dostal nařízení od šéfa, Nejvyššího, vypustit atomovou bombu, cítil, že nejlepší věcí bude paní předem utěšit. Nejprve by jí ukázal moře náklonosti a soucitu. Tak sám Mistr uvařil s největší láskou, zájmem a soucitem jídlo, které se dalo nebo nedalo jíst. Udělal několik jídel a potom pozval žačku, aby přišla a pojedla s ním v kuchyni. Žákyně byla velmi vděčná, byla ohromně vděčná. Řekla Mistrovi: „Dnes mi ukazuješ takovou náklonost, takový zájem, takový soucit. Jak to, že mě stále nemůžeš vyléčit? Víš, jak trpím. Dokonce minulou noc jsem tolik trpěla." Mistr si okamžitě vzpomněl, co mu Bůh řekl, aby udělal a řekl: "Jak můžeš očekávat, že tě vyléčím, když velmi dobře víš, jaký život vedeš. Vedeš velmi nečistý život" „Ha!" plakala žákyně a začínala se hněvat. Když vstávala, svrhla sklenici, která spadla na zem a rozbila se. Jakou scénu udělala! „Toto sis tajně myslel! To sis myslel! Ty víš, jaký druh života jsem vedla -- nejčistší. Jsem svobodná žena. Nikdy jsem se nevdala, ale místo toho jsem přišla k tobě, abych realizovala Boha. A teď, po tolika letech mi říkáš toto. Máš nějakého žáka, který je tak čistý jako já?" 
+Jelikož dostal nařízení od šéfa, Nejvyššího, vypustit atomovou bombu, cítil, že nejlepší věcí bude paní předem utěšit. Nejprve by jí ukázal moře náklonosti a soucitu. Tak sám Mistr uvařil s největší láskou, zájmem a soucitem jídlo, které se dalo nebo nedalo jíst. Udělal několik jídel a potom pozval žačku, aby přišla a pojedla s ním v kuchyni. Žákyně byla velmi vděčná, byla ohromně vděčná. Řekla Mistrovi: „dnes mi ukazuješ takovou náklonost, takový zájem, takový soucit. jak to, že mě stále nemůžeš vyléčit? víš, jak trpím. dokonce minulou noc jsem tolik trpěla." mistr si okamžitě vzpomněl, co mu bůh řekl, aby udělal a řekl: "Jak můžeš očekávat, že tě vyléčím, když velmi dobře víš, jaký život vedeš. Vedeš velmi nečistý život" „Ha!" plakala žákyně a začínala se hněvat. Když vstávala, svrhla sklenici, která spadla na zem a rozbila se. Jakou scénu udělala! „Toto sis tajně myslel! To sis myslel! Ty víš, jaký druh života jsem vedla -- nejčistší. Jsem svobodná žena. Nikdy jsem se nevdala, ale místo toho jsem přišla k tobě, abych realizovala Boha. A teď, po tolika letech mi říkáš toto. Máš nějakého žáka, který je tak čistý jako já?" 
 
 Mistr se smál a smál a řekl: „Mám nějakého žáka, který je větší pokrytec než ty? Když mí ostatní žáci vedou nebožský život, tak mi to okamžitě řeknou. Dokonce na fyzické úrovni mi to řeknou. Nemusím se koncentrovat na vnitřní úrovni, abych věděl, co se děje na fyzických, vitálních a emocionálních úrovních jejich životů. Jejich životy jsou pro mě otevřenou knihou. Ale poslední tři roky jsi mě klamala. Po určitou dobu mě Bůh žádal, abych byl potichu, protože kdybych ti to řekl, opustila bys naši cestu dlouho předtím. Ale nyní mi Bůh řekl, abych byl k tobě krutě upřímný. A tak ti to říkám."
 
 „Zůstaň se svým Bohem! Nepotřebuji tě a nepotřebuji tvého Boha. Jen tolik mohu říci. Na sto procent se mýlíš!"
 
-Mistr se rozčílil a řekl: „Koho zkoušíš klamat? Můžeš klamat celý svět, ale mě ne. Kdo před šesti dny, okolo třetí ráno, zvonil u tvých dveří? Nebyl to tvůj přítel? Neotevřela jsi své dveře, i když zvonil a zvonil. Proč? Protože jsem osvěcoval tvou duši. Zkoušel jsem přinést světlo tvé duše do tvého vitálního života, emocionálního života a vnitřně jsi mě viděla. Další den jsi ke mně přišla a řekla: "Mistře, viděla jsem tě ve snu. Byl jsi tak krásný, tak zářící! Byla jsem tak potěšena, že jsem tě viděla doma." Usmál jsem se na tebe. Už jsi to zapomněla? Protože světlo mé duše vstoupilo do tvé duše, byla jsi tak pohnuta, že jsi svému příteli neodpovídala. Co bys dělala se svým přítelem v tuto hodinu? Proč přišel?"
+Mistr se rozčílil a řekl: „koho zkoušíš klamat? můžeš klamat celý svět, ale mě ne. kdo před šesti dny, okolo třetí ráno, zvonil u tvých dveří? nebyl to tvůj přítel? neotevřela jsi své dveře, i když zvonil a zvonil. proč? protože jsem osvěcoval tvou duši. zkoušel jsem přinést světlo tvé duše do tvého vitálního života, emocionálního života a vnitřně jsi mě viděla. další den jsi ke mně přišla a řekla: "Mistře, viděla jsem tě ve snu. Byl jsi tak krásný, tak zářící! Byla jsem tak potěšena, že jsem tě viděla doma." Usmál jsem se na tebe. Už jsi to zapomněla? Protože světlo mé duše vstoupilo do tvé duše, byla jsi tak pohnuta, že jsi svému příteli neodpovídala. Co bys dělala se svým přítelem v tuto hodinu? Proč přišel?"
 
 „Oh, oh, můj přítel, přišel... Nežije zde, žije někde jinde. Šel do kina a byl opilý. Ztratil se a nemohl jít domů. a tak si myslel, že když by mohl strávit...?"
 
@@ -179,7 +174,7 @@ Zkoušej osvítit nevědomost; buď příjemný, buď laskavý, buď plný zájm
   :PROPERTIES:
   :genre: story
   :keywords:
-  :cite-key: GSIS:6-cs
+  :cite-key: gsis:6-cs
   :date-event: 1974-09-16
   :END:
 
@@ -194,7 +189,7 @@ Teď se paní chtěla stát bohatou, bohatší, nejbohatší. Chtěla závodit s
 
 Jiná žákyně, která tam v tu dobu náhodou byla, řekla, "Jestliže má Mistr zvláštní mantru, nemyslíš, že by jí použil, aby se sám stal bohatým? Tak nutně potřebuje peníze a materiální věci."
 
-Mistr se na ni usmál a řekl ženě: „Ano, ano, máš pravdu." Jiná žákyně vstala a řekla ženě: „Ach, ne, ne; je pod jeho důstojnost, aby se modlil k Bohu pro peníze. Bůh mu dal vnitřní bohatství a vnitřní bohatství je důležitější. Vnější bohatství není pro duchovní Mistry nezbytné. Proto o něj nežádá. Ačkoli on sám ho nepotřebuje nebo se o něj nezajímá, může ho dát někomu jinému, je-li s ním spokojen. Jestliže někdo potřebuje a chce materiální bohatství, možná mu jej Mistr dá."
+Mistr se na ni usmál a řekl ženě: „ano, ano, máš pravdu." jiná žákyně vstala a řekla ženě: „Ach, ne, ne; je pod jeho důstojnost, aby se modlil k Bohu pro peníze. Bůh mu dal vnitřní bohatství a vnitřní bohatství je důležitější. Vnější bohatství není pro duchovní Mistry nezbytné. Proto o něj nežádá. Ačkoli on sám ho nepotřebuje nebo se o něj nezajímá, může ho dát někomu jinému, je-li s ním spokojen. Jestliže někdo potřebuje a chce materiální bohatství, možná mu jej Mistr dá."
 
 Mistr se na ni široce usmál a řekl: „To je absolutně pravda. Znám určité mantry, které mají sílu dát materiální bohatství. Jestliže je to vůle Nejvyššího, řeknu tyto mantry. Mnoho lidí je použilo a všichni byli úspěšní za předpokladu, že opakovali mantry upřímně a oduševněle. A také Mistři vložili do manter duchovní sílu navíc; jinak by lidé mantrám nevěřili a brali je jako pouhá slova bez jakékoliv síly. Mistři dávají život do těchto manter svým vlastním duchovním světlem. A tak poskytnou-li mantry, lidé se mohou stát velmi bohatí. V mém případě, když Bůh chce, abych dal tyto konkrétní mantry, mohu jim je dát. Když ne, nikdy, nikdy jim je nebudu schopen dát."
 
@@ -220,7 +215,7 @@ Její dcery věděly o jejím slibu a připomněly jí ho. Řekly: „Dej prosí
 
 „Ne, ne, to není pravda, absolutně ne. Byl to můj osud. Bůh byl ke mně laskavý, a tak jsem je dostala. Bylo to pouze štěstí. S Mistrem a jeho mantrou to nemá co dělat."
 
-Dcery řekly: "Jsi tak nevděčná!" Dala jim facku a řekla: „Chcete mě učit o vděčnosti a nevděčnosti? Vím, co pro mě udělal. Zachránil mi syna; to je pravda! Byl ke mně hodný a laskavý. Když jste mi dělaly problémy, utěšoval mne. Tehdy jsem mu byla vděčná. Ale teď to nebyla jeho mantra, která mi přinesla peníze, byl to jen Bůh. A tak mu nemusím být vděčná. Jsem vděčná pouze Bohu. A jsem vděčná lidem, kteří mají na starosti loterii a dali mi peníze. Jsou to oni. kdo si zaslouží mou vděčnost, ne Mistr. Nemusím mu být vůbec vděčná."
+Dcery řekly: "jsi tak nevděčná!" dala jim facku a řekla: „Chcete mě učit o vděčnosti a nevděčnosti? Vím, co pro mě udělal. Zachránil mi syna; to je pravda! Byl ke mně hodný a laskavý. Když jste mi dělaly problémy, utěšoval mne. Tehdy jsem mu byla vděčná. Ale teď to nebyla jeho mantra, která mi přinesla peníze, byl to jen Bůh. A tak mu nemusím být vděčná. Jsem vděčná pouze Bohu. A jsem vděčná lidem, kteří mají na starosti loterii a dali mi peníze. Jsou to oni. kdo si zaslouží mou vděčnost, ne Mistr. Nemusím mu být vůbec vděčná."
 
 Netřeba říkat, že Mistra opustila a že také opustila svého syna a své dcery.
 
@@ -234,21 +229,8 @@ Netřeba říkat, že Mistra opustila a že také opustila svého syna a své dc
   :PROPERTIES:
   :genre: preface
   :keywords:
-  :cite-key: GSIS:8e1-cs
+  :cite-key: gsis:8e1-cs
   :END:
 
 
 /Tato kniha obsahuje první sérii krátkých příběhů, kterou Sri Chinmoy napsal o vděčnosti a nevděčnosti. Příběhy jsou založeny na zkušenostech, které měl se svými vlastními žáky, nebo o kterých ví, že ostatní Mistři měli se svými. Ačkoli se některé z nich mohou zdát nevšední, všechny jsou součástí každodenních zkušeností pravého duchovního Mistra, jehož nezměrná láska a soucit pro lidstvo je někdy odměněna vděčností a někdy nanejvýš žalostnou nevděčností./
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

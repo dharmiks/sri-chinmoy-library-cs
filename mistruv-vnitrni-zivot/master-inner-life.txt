@@ -1,20 +1,15 @@
-#+TITLE: Mistrův vnitřní život
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Mistrův vnitřní život
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2000
-  :PUBLISHER: (knižně nevydáno)
-  :CITE-KEY: MIL-cs
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2000
+  :publisher: (knižně nevydáno)
+  :cite-key: MIL-cs
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -23,9 +18,9 @@
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MIL:1-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: mil:1-cs
   :END:
 
 
@@ -33,41 +28,41 @@
 
    Stejně jako v obyčejném lidském životě, i v duchovním životě velmi často pozorujeme, že důvěrnosti snižují vážnost, úctu, nebo řekněme, že nás důvěrnost odvádí od našeho cíle. Zkoušíme se spřátelit s člověkem, s duchovním Mistrem, abychom realizovali Nejvyšší v něm. A ve chvíli, kdy se s ním na vnější úrovni sblížíme, pocítíme, že jsme dosáhli jeho Nejvyšší. Jenom proto, že se na nás usmívá nebo říká: „Jsi velmi dobrý, jsi velmi milý, mám tě rád, jsem na tebe hrdý," cítíme, že jsme dosáhli všeho.
 
-   V takových okamžicích ale musíme vědět, že to Mistr říká s ohledem na žákovu vnímavost, a ne s ohledem na jeho vnitřní dosažení. Na žebříčku vědomí jsou různé stupně. Jsou tu stovky úrovní a právě proto, že se hledající dotkl první úrovně, kterou mnozí teprve budou muset dosáhnout, je Mistr tak potěšen. Právě proto, že aspirant činí vědomý pokrok a s Mistrovou Milostí se dotkl určité úrovně, říká Mistr: „Velice jsi mě potěšil, jsem na tebe velmi hrdý." Jistě je, protože hledající té určité úrovně dosáhl, zatímco jiným se to ještě nepodařilo. Tentýž aspirant však musí cítit, že v Mistrově vědomí není jen jedna, ale stovky a tisíce úrovní. Dotkne-li se první úrovně, neměl by si myslet: „Ó dotkl jsem se Mistrovy nejvyšší úrovně." Musí vědět, že když jen jednou v životě spatří Mistrovo absolutně Nejvyšší, jeho Transcendentální Vědomí, že je to nejvyšší požehnání. Potom, v tomto nebo v dalším životě, nebo Bůh ví v kolikáté inkarnaci vstoupí do nekonečného moře Mistrova Světla-Vědomí.
+   V takových okamžicích ale musíme vědět, že to Mistr říká s ohledem na žákovu vnímavost, a ne s ohledem na jeho vnitřní dosažení. Na žebříčku vědomí jsou různé stupně. Jsou tu stovky úrovní a právě proto, že se hledající dotkl první úrovně, kterou mnozí teprve budou muset dosáhnout, je Mistr tak potěšen. Právě proto, že aspirant činí vědomý pokrok a s Mistrovou Milostí se dotkl určité úrovně, říká Mistr: „velice jsi mě potěšil, jsem na tebe velmi hrdý." jistě je, protože hledající té určité úrovně dosáhl, zatímco jiným se to ještě nepodařilo. tentýž aspirant však musí cítit, že v mistrově vědomí není jen jedna, ale stovky a tisíce úrovní. dotkne-li se první úrovně, neměl by si myslet: „Ó dotkl jsem se Mistrovy nejvyšší úrovně." Musí vědět, že když jen jednou v životě spatří Mistrovo absolutně Nejvyšší, jeho Transcendentální Vědomí, že je to nejvyšší požehnání. Potom, v tomto nebo v dalším životě, nebo Bůh ví v kolikáté inkarnaci vstoupí do nekonečného moře Mistrova Světla-Vědomí.
 
-   Lidé mluví jedním dechem o Sri Rámakrišnovi a Vivékánandovi, ale postavení Rámakrišny jako Gurua a postavení Vivékánandy jako žáka bylo nepředstavitelně rozdílné. Mezi Vivékánandovou realizací a Rámakrišnovou realizací je zející propast. Sri Aurobindo jednou řekl, že Vivékánanda dostal jen letmé záblesky moře, ve kterém Sri Rámakrišna žil po celý svůj čas. Proč tedy mluvíme o Sri Rámakrišnovi a Vivékánandovi společně? Protože cítíme, že Vivékánanda, nejdražší žák Rámakrišny, se naprosto ztotožnil se svým Mistrem. Myslíme si, že když se Vivékánanda ztotožnil s vědomím Rámakrišny, potom to znamená, že co měl Rámakrišna, měl i Vivékánanda. Ale to není pravda. Rámakrišna Vivékánandu uznával a obdivoval. Řekl: „Jsi opravdu velký, přinesl jsem tvoji duši dolů na zem," a tak podobně. Rámakrišna ale vědomě viděl, jak daleko došel Vivékánanda a jak velká byla jeho vlastní výška. Když však do Vivékánandy vstoupila skromnost a pokora, řekl: „Z tohoto zrníčka prachu může Rámakrišna učinit tisíce Vivékánandů."
+   Lidé mluví jedním dechem o Sri Rámakrišnovi a Vivékánandovi, ale postavení Rámakrišny jako Gurua a postavení Vivékánandy jako žáka bylo nepředstavitelně rozdílné. Mezi Vivékánandovou realizací a Rámakrišnovou realizací je zející propast. Sri Aurobindo jednou řekl, že Vivékánanda dostal jen letmé záblesky moře, ve kterém Sri Rámakrišna žil po celý svůj čas. Proč tedy mluvíme o Sri Rámakrišnovi a Vivékánandovi společně? Protože cítíme, že Vivékánanda, nejdražší žák Rámakrišny, se naprosto ztotožnil se svým Mistrem. Myslíme si, že když se Vivékánanda ztotožnil s vědomím Rámakrišny, potom to znamená, že co měl Rámakrišna, měl i Vivékánanda. Ale to není pravda. Rámakrišna Vivékánandu uznával a obdivoval. Řekl: „jsi opravdu velký, přinesl jsem tvoji duši dolů na zem," a tak podobně. rámakrišna ale vědomě viděl, jak daleko došel vivékánanda a jak velká byla jeho vlastní výška. když však do vivékánandy vstoupila skromnost a pokora, řekl: „Z tohoto zrníčka prachu může Rámakrišna učinit tisíce Vivékánandů."
 
    Nyní jsem v několika případech pozvedl vědomí žáků z úrovně kanálu -- odpusťte mi, že to tak říkám -- na trochu vyšší úroveň. Pokrok, který učinili s mojí pomocí, je daleko za jejich představivostí. Jak jej učinili? Učinili jej pouze silou své poslušnosti. Byla to jejich poslušnost, která mohla přitáhnout Mistrovu náklonnost, milost a soucit.
 
-   Poslušnost je žákovou největší silou. Ten, který do konce svého života nebude mít poslušnost, musí vědět, že přijde čas, kdy se jeho pokrok zastaví. Někdo může být spokojen s tím, že zůstane na své úrovni. Řekne: „Ó získal jsem velmi mnoho a nepotřebuji více. Je tolik lidí, kteří jsou daleko za mnou." Je mnoho těch, kteří jsou spokojeni se svými dosaženími a nechtějí jít dále, protože vidí, že je mnoho, mnoho stovek a tisíců těch, kteří se loudají za nimi. A tak řeknou: „Pro tento život to už stačí. Příště udělám další pokrok." Jaké je tedy v tomto případě moje stanovisko?
+   Poslušnost je žákovou největší silou. Ten, který do konce svého života nebude mít poslušnost, musí vědět, že přijde čas, kdy se jeho pokrok zastaví. Někdo může být spokojen s tím, že zůstane na své úrovni. Řekne: „Ó získal jsem velmi mnoho a nepotřebuji více. je tolik lidí, kteří jsou daleko za mnou." je mnoho těch, kteří jsou spokojeni se svými dosaženími a nechtějí jít dále, protože vidí, že je mnoho, mnoho stovek a tisíců těch, kteří se loudají za nimi. a tak řeknou: „Pro tento život to už stačí. Příště udělám další pokrok." Jaké je tedy v tomto případě moje stanovisko?
 
-   Ve skutečné poslušnosti je vždy pokrok. Aspirant musí ve své poslušnosti vždy cítit úplnou jednotu se svým Mistrem. Jeho poslušnost musí být spontánní. Velitel zavelí a vojáci ihned poslechnou: „Vlevo v bok, vlevo v bok, vpravo v bok." Byl vydán povel a vojáci jej poslechnou z povinnosti. Není to vnitřní radost, která je nutí poslechnout svého velitele. V duchovním životě to tak ale není. V duchovním životě nikdo nikoho nenutí kráčet po duchovní cestě. Aspirant přijde k Mistrovi a řekne: „Mistře, přicházím tě naplnit a díky tomuto naplnění budu naplněn i já." Na to Mistr dává aspirantovi stále vzrůstající vnitřní radost a sílu.
+   Ve skutečné poslušnosti je vždy pokrok. Aspirant musí ve své poslušnosti vždy cítit úplnou jednotu se svým Mistrem. Jeho poslušnost musí být spontánní. Velitel zavelí a vojáci ihned poslechnou: „vlevo v bok, vlevo v bok, vpravo v bok." byl vydán povel a vojáci jej poslechnou z povinnosti. není to vnitřní radost, která je nutí poslechnout svého velitele. v duchovním životě to tak ale není. v duchovním životě nikdo nikoho nenutí kráčet po duchovní cestě. aspirant přijde k mistrovi a řekne: „Mistře, přicházím tě naplnit a díky tomuto naplnění budu naplněn i já." Na to Mistr dává aspirantovi stále vzrůstající vnitřní radost a sílu.
 
    Kdykoliv Mistr řekne žákovi, aby něco udělal, žák musí ihned pocítit, že se mu od jeho Mistra dostalo nejvyšší pocty. Ať už ho žádá, aby zametl podlahu, nebo aby napsal nejnádhernější báseň, sám fakt, že tato žádost přišla od jeho Mistra, činí tuto žádost největším požehnáním. Zároveň by měl cítit, že to není rozkaz; je to vědomá jednota, kterou Mistr nabízí žákovi, aby naplnili společně Misi Nejvyššího. Mistr říká: „Hleď, jsem s tebou. Vstupuji do tebe a ztotožnil jsem se s tebou. Moje mise a tvá mise jsou jedno a totéž." Potom, když žák vyplní Mistrovu žádost, musí Mistr pocítit, že to byl on, kdo to udělal. Podobně, když on něčeho dosáhne, musí žáci pocítit, že to byli oni, kdo toho dosáhli. V případě lidského přátelství mezi žáky znamená jednota to, že když ty něco uděláš, tvůj přítel musí ihned pocítit, že to byl on, kdo to udělal, a když on něco udělá, musíš pocítit, že jsi to udělal ty. V případě věčného přátelství mezi Mistrem a žákem musí být tato jednota nekonečně silnější. Mistr je stále naplňován žákem a žák je stále naplňován svou jednotou s Mistrem, který je Nejvyšším.
 
-   Co se však naneštěstí v našem obyčejném každodenním životě stává? Mám žáky, kterým je sedmdesát nebo osmdesát let. Někteří z těchto žáků jednají tak, jako by byli mým otcem či matkou, nebo mými staršími bratry. Myslí si: „Ó, je mu jenom třicet osm let a my jsme viděli mnohem, mnohem více let. Co on ví o praktické stránce života a ostatních věcech?" Zde si přeji říci, že jsem možná neprošel těmi životními zkušenostmi, kterými prošli někteří z vás. Musíte ale vědět, že jsem vědomým, vybraným nástrojem Nejvyššího, Absolutního Nejvyššího. Někomu z vás řeknu: „Udělej toto," a vy ihned řeknete: „Ne, když to udělám tak, jak si to přeje můj Mistr, nebude to mít úspěch." Protože to cítíte takto, můžete se pokusit o úspěch svým vlastním způsobem.
+   Co se však naneštěstí v našem obyčejném každodenním životě stává? Mám žáky, kterým je sedmdesát nebo osmdesát let. Někteří z těchto žáků jednají tak, jako by byli mým otcem či matkou, nebo mými staršími bratry. Myslí si: „Ó, je mu jenom třicet osm let a my jsme viděli mnohem, mnohem více let. co on ví o praktické stránce života a ostatních věcech?" zde si přeji říci, že jsem možná neprošel těmi životními zkušenostmi, kterými prošli někteří z vás. musíte ale vědět, že jsem vědomým, vybraným nástrojem nejvyššího, absolutního nejvyššího. někomu z vás řeknu: „udělej toto," a vy ihned řeknete: „Ne, když to udělám tak, jak si to přeje můj Mistr, nebude to mít úspěch." Protože to cítíte takto, můžete se pokusit o úspěch svým vlastním způsobem.
 
    Zde ale děláte chybu. Když něco vyjde z úst realizovaného Mistra, není to jen nějaké povídání nebo zbytečné řečnění. Ne, i když vám to řeknu žertovným způsobem, abyste něco udělali, stále reprezentuji Nejvyšší Sílu. Dokonce i když cítíte, že vyplněním mé rady upadnete do největšího nebezpečí, říkám vám, že mám sílu toto nebezpečí okamžitě obrátit v největší úspěch. Když ale vidíte obtíže a nebezpečí, ihned ve mě ztrácíte víru. Moje mise je i vaší misí, to je pravda. Ale protože jednám jako vůdce, byla mi dána plná příležitost jednat jako nejvyšší velitel. Já jsem navigátor, já dláždím cestu. Dokonce i když vidíte, že jsou i jiné možnosti, u kterých cítíte, že by byly efektivnější, nechte proboha odpovědnost na mne, protože já znám ten způsob, jak to udělat. Když vás o něco požádám, udělejte to tak, jak jsem vám řekl. Potom, jestliže vidíte nějakou zřejmou chybu, říkám vám, že mám sílu ji napravit.
 
    Když cítíte, že jsem řekl něco naprosto nesprávného, a jestliže chcete dělat pokrok, musíte vědět, že nejrychlejší pokrok uděláte jen díky poslušnosti mému vnitřnímu diktátu, a ne tím, že mne budete opravovat. Jestliže cítíte, že opravením mé chyby jste dosáhli něčeho velikého, potom se mýlíte. Ale když mi nasloucháte, a i když jde o chybu, vstupuje vaše poslušnost do mne a moje záplava lásky a soucitu vstupuje do vás. Jestliže řeknu žákovi, aby něco udělal a on to udělá takovým způsobem, jak to měl udělat, potom jsem odpovědný já; zatímco když žák udělá nějaké rozhodnutí a já udělám jiné, nebudu odpovědný za jeho rozhodnutí. Jestliže chce žák utvářet svůj život svou vlastní vyšší moudrostí, jsem bezmocný. Proč bych měl být zodpovědný za rozhodnutí někoho jiného? Nemohu tak učinit ani tehdy, když jsem někoho přijal jako svého nejbližšího a nejdražšího žáka. Nejvyšší mi rozbije hlavu! Řekne: „Co to je? To je tvoje slabost, nic jiného." Je zde kdosi, kdo je mi nadřazen, a to je Nejvyšší, kterého nazývám svým Nejdražším. Ale tento Nadřízený mi rozbije hlavu, jestliže si to bude přát, a On mi ji rozbije, jestliže vám řeknu něco špatného. Vztah mezi Mistrem a žákem by tedy měl být velice jasný. Jestliže chce žák realizaci, měl by být na konci svého duchovního života naprosto odevzdán Nejvyššímu uvnitř svého Mistra.
 
-   Velký indický Avatár Sri Čaitanja měl jednoho nejdražšího žáka, jenž se jmenoval Nityánanda. Když Nityánanda dosáhl zralého, vysokého věku, požádal ho Čaitanja, aby se oženil. V tak vysokém věku se lidé nežení, zejména v Indii ne. Ale Nityánanda byl nejdražším žákem svého Mistra. Neustále zpíval duchovní písně a kázal filozofii svého Mistra. A tak když Čaitanja řekl: „Musíš se oženit," Nityánanda se ihned oženil. Potom Čaitanja řekl: „Nyní si přeji, abys měl dítě." Nityánanda si přál mít dítě, ale jeho žena naneštěstí zemřela. Čaitanja ihned řekl: „Nyní se musíš znovu oženit." V Indii se druhý sňatek v takovém věku považuje za absurdní. Ale on se oženil. Na to Čaitanja řekl: „Nejsem spokojen. Musíš mít děti." A tak Nityánanda řekl: „V pořádku, budu mít děti". Kdosi se zeptal: „Mistře, co jsi to udělal s jeho životem?" Ale Čaitanja řekl: „Co? Jen jsem dosáhl největšího úspěchu."
+   Velký indický Avatár Sri Čaitanja měl jednoho nejdražšího žáka, jenž se jmenoval Nityánanda. Když Nityánanda dosáhl zralého, vysokého věku, požádal ho Čaitanja, aby se oženil. V tak vysokém věku se lidé nežení, zejména v Indii ne. Ale Nityánanda byl nejdražším žákem svého Mistra. Neustále zpíval duchovní písně a kázal filozofii svého Mistra. A tak když Čaitanja řekl: „musíš se oženit," nityánanda se ihned oženil. potom Čaitanja řekl: „nyní si přeji, abys měl dítě." nityánanda si přál mít dítě, ale jeho žena naneštěstí zemřela. Čaitanja ihned řekl: „nyní se musíš znovu oženit." v indii se druhý sňatek v takovém věku považuje za absurdní. ale on se oženil. na to Čaitanja řekl: „nejsem spokojen. musíš mít děti." a tak nityánanda řekl: „v pořádku, budu mít děti". kdosi se zeptal: „mistře, co jsi to udělal s jeho životem?" ale Čaitanja řekl: „Co? Jen jsem dosáhl největšího úspěchu."
 
    Čaitanja dobře věděl, proč to udělal. Chtěl ukázat světu, že skutečně duchovní člověk může být vysoko nad světem nevědomosti, dokonce i když se ožení a žije ve světě. Jak? Silou své bezprostřední poslušnosti. Mistr ví, že kdyby chtěl každý realizovat Boha, kdyby každý opustil svět a nikdo by se neoženil, byl by svět jednostranný. Svět si ale přeje být naplněný. Bůh chce naplnit svět a chce být naplněn uvnitř světa, a muž a žena musí jít společně. V některých případech Mistr nepožaduje manželství a v některých požaduje. Když nechce, aby aspirant vstoupil do manželství, musí aspirant vědět, že je to Bůh, který si toto nepřeje. Ale jestliže si Bůh přeje, aby vstoupil do manželství, musí to udělat.
 
    Poslušnost musí být bezprostřední, spontánní, oduševnělá a plná vnitřní radosti. V poslušnosti není žádný nátlak. Poslušnost absolutně ztotožní žáka s Mistrovým nejvyšším Vědomím jen tehdy, je-li v ní vnitřní radost. Nejdražší žáci by měli být Mistrovi zcela odevzdaní. Tím se nemyslí slepé odevzdání. Není zde nic takového, jako je slepota. Je zde pouze vnitřní moudrost ztotožnění sebe sama s Mistrovým Nejvyšším.
    
-   Ardžuna a Sri Krišna se jednou procházeli po ulici. Sri Krišna se zeptal Ardžuny: „Podívej, co vidíš tam na tom stromě? Co vidíš?" Ardžuna odpověděl: „Vidím ovoce." Krišna se zeptal: „Jakou má barvu?" Ardžuna řekl: „Červenou." Krišna na to ihned řekl: „Myslím, že je černé." Ardžuna odpověděl, „Ano, je černé." Nyní Krišna řekl: „Ó, zdá se, že je šedé. Ne, je zelené." Ardžuna ihned řekl: „Je zelené."
+   Ardžuna a Sri Krišna se jednou procházeli po ulici. Sri Krišna se zeptal Ardžuny: „podívej, co vidíš tam na tom stromě? co vidíš?" ardžuna odpověděl: „vidím ovoce." krišna se zeptal: „jakou má barvu?" ardžuna řekl: „Červenou." krišna na to ihned řekl: „myslím, že je černé." ardžuna odpověděl, „ano, je černé." nyní krišna řekl: „Ó, zdá se, že je šedé. ne, je zelené." ardžuna ihned řekl: „Je zelené."
 
-   Můžete nyní říci: „Podívejte se na toho člověka. Nemá svoji osobnost. Je jako ovce nebo otrok. Když Mistr řekne, že je něco černé, řekne, že je to černé. Když Mistr řekne, že je to bílé, řekne, že je to bílé." To je obyčejný způsob, jak posuzovat pravdu. Ale ve chvíli, kdy jdeme hluboko dovnitř, vidíme, že když Ardžuna, naslouchající svému Mistrovi, říká: „Je černé", ztotožnil sebe sama s vědomím Mistra a viděl to, co viděl Mistr se svým vlastním Světlem. Co může být pro lidskou bytost větším dosažením, než se ztotožnit s Mistrovým vědomím a vidět Pravdu tím způsobem, jakým ji vidí Mistr? Existuje tolik způsobů, jak posuzovat tvůj případ v tvém lidském životě. Ale jestliže se opravdu chceš ztotožnit s Nejvyšším, a jestliže nazýváš svého Mistra nebo Boha svým Nejvyšším, musíš zkoušet vidět Pravdu s Mistrovým Světlem. Jestliže se tvé vizi zdá Mistrovo Světlo špatné nebo chybné, musíš vědět, že tvoje jednota není úplná. Kdyby byla tvá jednota úplná, potom jakmile Mistr řekl, abys něco udělal, neobjevila by se v tvé mysli ihned jiná myšlenka, odporující myšlenka, protože bys byl s Mistrem ztotožněn. Jestliže jsi již ztotožněný s Mistrem, jak bys mohl být schopen myslet jinak než tvůj Mistr? Řekne-li Mistr: „Tam je sever", a ty ses ztotožnil s Mistrovou vůlí, přirozeně řekneš, že je tam sever. Nejsi-li ztotožněný, řekneš: „Ne, tam je jih." Potom budete mít smutný rozhovor, smutné argumenty a ty se svou vizí řekneš: „Mistře, ty se mýlíš."
+   Můžete nyní říci: „podívejte se na toho člověka. nemá svoji osobnost. je jako ovce nebo otrok. když mistr řekne, že je něco černé, řekne, že je to černé. když mistr řekne, že je to bílé, řekne, že je to bílé." to je obyčejný způsob, jak posuzovat pravdu. ale ve chvíli, kdy jdeme hluboko dovnitř, vidíme, že když ardžuna, naslouchající svému mistrovi, říká: „je černé", ztotožnil sebe sama s vědomím mistra a viděl to, co viděl mistr se svým vlastním světlem. co může být pro lidskou bytost větším dosažením, než se ztotožnit s mistrovým vědomím a vidět pravdu tím způsobem, jakým ji vidí mistr? existuje tolik způsobů, jak posuzovat tvůj případ v tvém lidském životě. ale jestliže se opravdu chceš ztotožnit s nejvyšším, a jestliže nazýváš svého mistra nebo boha svým nejvyšším, musíš zkoušet vidět pravdu s mistrovým světlem. jestliže se tvé vizi zdá mistrovo světlo špatné nebo chybné, musíš vědět, že tvoje jednota není úplná. kdyby byla tvá jednota úplná, potom jakmile mistr řekl, abys něco udělal, neobjevila by se v tvé mysli ihned jiná myšlenka, odporující myšlenka, protože bys byl s mistrem ztotožněn. jestliže jsi již ztotožněný s mistrem, jak bys mohl být schopen myslet jinak než tvůj mistr? Řekne-li mistr: „tam je sever", a ty ses ztotožnil s mistrovou vůlí, přirozeně řekneš, že je tam sever. nejsi-li ztotožněný, řekneš: „ne, tam je jih." potom budete mít smutný rozhovor, smutné argumenty a ty se svou vizí řekneš: „Mistře, ty se mýlíš."
 
    Tvůj Mistr se může mýlit, ale v konečném důsledku se Mistr nemýlí. Jestliže cítíš, že se tvůj Mistr mýlí, je v tvém vědomí vážná chyba, protože ve chvíli, kdy máš svůj vlastní způsob vidění Pravdy, jsi tisíce mil od Mistrova vědomí. Když jsi daleko od Mistrova vědomí, Mistr cítí svým lidským srdcem lítost, protože chce, abys byl jeho nejdražším a nejbližším. Nejvyšší si přeje, aby ukázal toto Světlo k vedení světa, ale svět vedení nechce. Se svým nejvyšším, nejčistším božským srdcem se Mistr ztotožnil s Vůlí Nejvyššího, a zde není žádný smutek. Ale když se zkouší sjednotit s momentálním stavem vědomí žáka, cítí svým lidským srdcem lítost. Cítí lítost, protože propast mezi ním a žákem je velmi rozlehlá.
 
    Otázka poslušnosti je tedy pro všechny žáky velice důležitá. Jestliže Mistr řekne, abyste něco přijali, měli byste to přijmout okamžitě. A když Mistr řekne, abyste něco odmítli, a vy se ptáte: „Proč? Jak? Kvůli čemu? Kdy? Kde?", potom musíte cítit, že nejste v Mistrově vědomí. Když jste ve svém vlastním vědomí, může vás Mistr inspirovat k tomu, abyste byli dobří, abyste byli poctiví. Ale když nemáte žádnou další myšlenku, žádnou odporující myšlenku, a dokonce ani žádné doplňující nápady, ale jen jednu myšlenku, myšlenku, která přichází od duchovního Mistra, vaše vlastní porozumění Pravdy bude naprosto totožné s porozuměním vašeho Mistra. Tímto způsobem může být mise vašeho Mistra naplněna ve velmi krátkém čase. Nebudete muset čekat stovky let k naplnění Mistrovy mise na zemi.
 
-   Poslušnost by tedy měl každý žák nabídnout co nejdříve. Když říkám žák, myslím tím skutečného žáka. Nikdy, nikdy nemůžeme přijmout poslušnost od falešných žáků. V tuto chvíli mne budou žádat, abych je zachránil, a zítra půjdou k jinému Mistrovi a řeknou: „Ó zachraň mě, zachraň mě!" Potom na mne zcela zapomenou. Ti, kteří mají bezprostřední, předem danou víru v Nejvyššího ve mně, budou i v okamžiku smrti myslet na mne. Řeknou: „Mistře, přijď," a tehdy jejich Mistr přijde. To se ale nemůže stát tomu, kdo má dvacet Mistrů. Jsem šokován, když vstupuji do vědomí některých žáků a vidím, že oni cítí, že jsou miliony Avatárů, miliony duchovních Mistrů, miliony Spasitelů. Existuje jen jeden Spasitel a tím je Nejvyšší. Tento Nejvyšší je uvnitř vašeho Mistra a je také uvnitř jiného Mistra. Musíte ale přistupovat jen k jedné osobě. Jinak budete prvním člověkem, který vstoupí do moře nevědomosti. Poslušnost musíte nabídnout jen jediné osobě, kterou nazýváte vaším Mistrem. A kdo je tento Mistr? Je vaší nejvyšší částí, vaší nejzářivější částí.
+   Poslušnost by tedy měl každý žák nabídnout co nejdříve. Když říkám žák, myslím tím skutečného žáka. Nikdy, nikdy nemůžeme přijmout poslušnost od falešných žáků. V tuto chvíli mne budou žádat, abych je zachránil, a zítra půjdou k jinému Mistrovi a řeknou: „Ó zachraň mě, zachraň mě!" potom na mne zcela zapomenou. ti, kteří mají bezprostřední, předem danou víru v nejvyššího ve mně, budou i v okamžiku smrti myslet na mne. Řeknou: „Mistře, přijď," a tehdy jejich Mistr přijde. To se ale nemůže stát tomu, kdo má dvacet Mistrů. Jsem šokován, když vstupuji do vědomí některých žáků a vidím, že oni cítí, že jsou miliony Avatárů, miliony duchovních Mistrů, miliony Spasitelů. Existuje jen jeden Spasitel a tím je Nejvyšší. Tento Nejvyšší je uvnitř vašeho Mistra a je také uvnitř jiného Mistra. Musíte ale přistupovat jen k jedné osobě. Jinak budete prvním člověkem, který vstoupí do moře nevědomosti. Poslušnost musíte nabídnout jen jediné osobě, kterou nazýváte vaším Mistrem. A kdo je tento Mistr? Je vaší nejvyšší částí, vaší nejzářivější částí.
 
-   A tak si přeji říci všem svým žákům, že pokud máte poslušnost, už nic jiného nepotřebujete. Dejme tomu, že nemáte silnou aspiraci, a já vám řeknu, že musíte mít silnou aspiraci. Potom řeknete: „Řekl mi, abych měl aspiraci a tak ji budu mít. Od této chvíle se budu snažit o silnou aspiraci." Tak tedy zkoušíte. Možná uvidím, že pro to nemáte dostatečné schopnosti, ale vy se snažíte, vy se více než snažíte mít silnou aspiraci právě proto, protože jsem vás o to požádal. A když vidím, že jste si přes svoji nejlepší snahu nevypěstovali aspiraci, skočím do moře nevědomosti a dám vám všechnu aspiraci, kterou potřebujete, právě proto, protože vím, že jste to zkoušeli. Ale jestliže řeknete: „Jak mohu mít aspiraci? Jsem tak pozadu, mám tolik rodinných problémů," a tak podobně; jestliže použijete všechny tyto argumenty, budu bezmocný. Ale v okamžiku, kdy řeknu: „Musíš mít aspiraci," a vy se o to pokoušíte, okamžitě budu tam, abych vám pomohl. Ve chvíli, kdy vidím, že jste moji žádost přijali vesele, ochotně a spontánně, ve chvíli, kdy vidím žákovo úsilí, aby splnil můj požadavek, budu tam. Když vás požádám, abyste něco udělali, a jste-li upřímní, jste-li se mnou ztotožnění, potom pocítíte, že jsem vám nedal jenom příkaz, ale také potřebnou sílu k jeho vyplnění. Ucítíte, že jsem vám dal nekonečně větší sílu, než je potřeba.
+   A tak si přeji říci všem svým žákům, že pokud máte poslušnost, už nic jiného nepotřebujete. Dejme tomu, že nemáte silnou aspiraci, a já vám řeknu, že musíte mít silnou aspiraci. Potom řeknete: „Řekl mi, abych měl aspiraci a tak ji budu mít. od této chvíle se budu snažit o silnou aspiraci." tak tedy zkoušíte. možná uvidím, že pro to nemáte dostatečné schopnosti, ale vy se snažíte, vy se více než snažíte mít silnou aspiraci právě proto, protože jsem vás o to požádal. a když vidím, že jste si přes svoji nejlepší snahu nevypěstovali aspiraci, skočím do moře nevědomosti a dám vám všechnu aspiraci, kterou potřebujete, právě proto, protože vím, že jste to zkoušeli. ale jestliže řeknete: „jak mohu mít aspiraci? jsem tak pozadu, mám tolik rodinných problémů," a tak podobně; jestliže použijete všechny tyto argumenty, budu bezmocný. ale v okamžiku, kdy řeknu: „Musíš mít aspiraci," a vy se o to pokoušíte, okamžitě budu tam, abych vám pomohl. Ve chvíli, kdy vidím, že jste moji žádost přijali vesele, ochotně a spontánně, ve chvíli, kdy vidím žákovo úsilí, aby splnil můj požadavek, budu tam. Když vás požádám, abyste něco udělali, a jste-li upřímní, jste-li se mnou ztotožnění, potom pocítíte, že jsem vám nedal jenom příkaz, ale také potřebnou sílu k jeho vyplnění. Ucítíte, že jsem vám dal nekonečně větší sílu, než je potřeba.
 
    Někteří z vás pracují na službě Nejvyššímu velmi tvrdě. Jsem vám velice vděčný. Všem těm, kteří se věnují nesobecké službě, si přeji říci, že jsem vám velice vděčný. Nechci se chlubit, ale zároveň si přeji říci, že jsem vám dal více než dost sil k vyplnění mise. Nikdo nemůže říci: „Guru, nedal jsi mi dostatek síly nebo schopností." Ne, Nejvyšší uvnitř mne vám ji dal. Moje filozofie je podobná filozofii Vivékánandy. Vivékánanda řekl, že je lepší se strhat než zrezivět. Ale vy se nestrháte, protože Nejvyšší je uvnitř vás se svým nekonečným Světlem, nekonečnou Energií, nekonečnou Silou. Jak byste se tedy mohli strhat? Nemůže být žádného konce vašemu pokroku, nemůže být žádného konce vašemu úspěchu, nemůže být žádného konce vašemu projevení, prostě proto, protože Nejvyšší stále překračuje sám sebe.
 
@@ -78,9 +73,9 @@
 * Mistrův vnitřní život: Mistrova síla Zázraku
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MIL:2-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: mil:2-cs
   :END:
 
 
@@ -97,9 +92,9 @@
 * Otázky a odpovědi
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MIL:3e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: mil:3e1-cs
   :END:
 
 
@@ -108,9 +103,9 @@
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:3-cs
   :END:
 
 
@@ -128,9 +123,9 @@
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:4-cs
   :END:
 
 
@@ -141,9 +136,9 @@
 * Když je v lidském těle nějaký Avatár, nebo realizovaný Mistr, jaká jsou omezení pro jeho vědomosti? Nemám na mysli pomocí okultních sil, ale kolik toho může vědět ve svém normálním, každodenním životě o svých žácích?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:5-cs
   :END:
 
 
@@ -156,9 +151,9 @@
 
   :PROPERTIES:
   :SUBTITLE
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MIL:6-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: mil:6-cs
   :END:
 
 
@@ -187,9 +182,9 @@
 * Otázky a odpovědi
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MIL:7e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: mil:7e1-cs
   :END:
 
 
@@ -197,9 +192,9 @@
 * Jednou jsi řekl, že ve tvém předchozím životě ti byli žáci oddáni z devadesáti devíti procent. Proč za tebou nepřišli i tentokrát?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:7-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:7-cs
   :END:
 
 
@@ -212,9 +207,9 @@
 * Jak se s tebou může žák co možná nejčastěji vědomě ztotožňovat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:8-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:8-cs
   :END:
 
 
@@ -232,15 +227,15 @@
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MIL:9-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: mil:9-cs
   :END:
 
 
-/Sri Chinmoy:/ Někteří žáci říkají: „Každý den jsem dokonalý, ale jen tě vidím, přicházejí na mne ďábelské myšlenky z celého světa. Když tě nevidím, když na tebe nemyslím, jsem dokonalý. Ale jen na tebe pomyslím, vyjde všechno do popředí. Proč to tak je? Proč ty myšlenky přicházejí?"
+/Sri Chinmoy:/ někteří žáci říkají: „Každý den jsem dokonalý, ale jen tě vidím, přicházejí na mne ďábelské myšlenky z celého světa. Když tě nevidím, když na tebe nemyslím, jsem dokonalý. Ale jen na tebe pomyslím, vyjde všechno do popředí. Proč to tak je? Proč ty myšlenky přicházejí?"
 
-   Musíte na těchto ďábelských myšlenkách pracovat. Nyní máte nepřátele a tito nepřátelé vám říkají, že existují. Musíte s nimi bojovat. Jestliže ale usnete, můžete pocítit, že tyto nepřátele nemáte. Ale když přijdou, neciťte se za ně odpovědní. Jenom je okamžitě vhoďte do mne. Musíte svou existenci od nich naprosto oddělit a cítit, že nejsou vaše. Buď musíte říci: „Neopatruji je vědomě, nejsou moje," nebo řeknete: „Jsou moje, odevzdávám ti je." Místo toho ale k vám přichází strach a pocit bezcennosti. Jestliže se bojíte a jste k smrti vystrašeni tím, co vám dávám, v té chvíli vůbec nic nepřijímáte. Když přicházíte meditovat do meditační místnosti a já se na vás upřeně zadívám a dám najevo svůj nejvyšší soucit, můžete pocítit obavu. Nemusím ani položit svou ruku na vaši hlavu a požehnat vám, a vy se stejně polekáte.
+   Musíte na těchto ďábelských myšlenkách pracovat. Nyní máte nepřátele a tito nepřátelé vám říkají, že existují. Musíte s nimi bojovat. Jestliže ale usnete, můžete pocítit, že tyto nepřátele nemáte. Ale když přijdou, neciťte se za ně odpovědní. Jenom je okamžitě vhoďte do mne. Musíte svou existenci od nich naprosto oddělit a cítit, že nejsou vaše. Buď musíte říci: „neopatruji je vědomě, nejsou moje," nebo řeknete: „Jsou moje, odevzdávám ti je." Místo toho ale k vám přichází strach a pocit bezcennosti. Jestliže se bojíte a jste k smrti vystrašeni tím, co vám dávám, v té chvíli vůbec nic nepřijímáte. Když přicházíte meditovat do meditační místnosti a já se na vás upřeně zadívám a dám najevo svůj nejvyšší soucit, můžete pocítit obavu. Nemusím ani položit svou ruku na vaši hlavu a požehnat vám, a vy se stejně polekáte.
 
    Když občas někomu požehnám, pocítí moje záda, moje lidská záda, jako by byla na dvou či třech místech hluboce poraněna. Dnes se to při meditaci stalo nejméně patnáctkrát nebo šestnáctkrát. Stává se to kdekoliv. Stalo se to tehdy, když jsem se na někoho díval, než jsem vyšel na pódium. Při veřejných meditacích občas přijdou lidé, kteří si sednou do přední řady. Někteří z nich mi jsou blízcí a své žáky přirozeně znám. Vím, jaký druh síly jim mohu dát a vím, jaký druh síly mohou přijmout. Ale když se podívám na nové lidi, kteří přicházejí a nejsou mými žáky, vidím, že se mne pokouší soudit, zda jsem či nejsem upřímný. Přijdu s mým nejvyšším soucitem a zkouším jim dát trochu Světla. Oni si ale myslí: „Je to podvodník nebo není?“ Proč vytváří problémy tím, že chodí na meditaci, aby mne soudili? Nevím. Přijdou, já se na ně podívám a -- ó Bože, jaké druhy sil v nich jsou. Někteří jsou velmi zlí. Stává se to také ve všech Centrech. Děláte všechny možné věci s velmi upřímnou aspirací, ale co za věci z takových lidí vychází! 
 
@@ -248,9 +243,9 @@
 * Otázky a odpovědi
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MIL:10e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: mil:10e1-cs
   :END:
 
 
@@ -259,9 +254,9 @@
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:10-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:10-cs
   :END:
 
 
@@ -276,9 +271,9 @@
 * Můžeš mi dát nějakou radu, jak si udržet dobrou meditaci, i když nemohu často chodit do centra?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:11-cs
   :END:
 
 
@@ -293,9 +288,9 @@
 * Když z naší meditace přijmeme Světlo a Mír, je to vstřebáno a uschováno pro naše postupné použití, nebo je to stejné jako s jídlem, které musíme jíst stále?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:12-cs
   :END:
 
 
@@ -309,9 +304,9 @@
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MIL:13-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: mil:13-cs
   :END:
 
 
@@ -342,9 +337,9 @@
 * Otázky a odpovědi
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MIL:14e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: mil:14e1-cs
   :END:
 
 
@@ -352,9 +347,9 @@
 * Jaký je vztah mezi duší Gurua a duší žáka? Jsou totožné?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:14-cs
   :END:
 
 
@@ -371,9 +366,9 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
 * Guru, byli všichni žáci předurčeni k tomu, aby za tebou v této inkarnaci přišli?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:15-cs
   :END:
 
 
@@ -388,13 +383,13 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
 * Ale když k tobě žáci přicházejí, vidíš ihned, jestli půjdou velmi vysoko, nebo jestli upadnou, nebo je to všechno otevřené?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:16-cs
   :END:
 
 
-/Sri Chinmoy:/ V některých případech to vím najisto a v jiných případech vidím jistou pravděpodobnost. V některých případech je mohu zcela zlomit a tvarovat. Zde je tomu, jako když Kristus řekl: „Já jsem ta Cesta a Cíl." V těchto případech znám výsledek. V jiných případech jsem jenom cestou a tehdy znám určitou pravděpodobnost. Tehdy moje milost, Světlo Nejvyššího, dává nejrychlejší pokrok v souladu se schopností žáka. Ve většině případů jsem cestou. Ale v některých případech jsem také Cílem. Tam, kde jsem Cílem, naprosto zlomím tyto individuality, tvaruji je a dávám jim podobu. Nedělám to ale svým vlastním způsobem, nýbrž způsobem Nejvyššího.
+/Sri Chinmoy:/ v některých případech to vím najisto a v jiných případech vidím jistou pravděpodobnost. v některých případech je mohu zcela zlomit a tvarovat. zde je tomu, jako když kristus řekl: „Já jsem ta Cesta a Cíl." V těchto případech znám výsledek. V jiných případech jsem jenom cestou a tehdy znám určitou pravděpodobnost. Tehdy moje milost, Světlo Nejvyššího, dává nejrychlejší pokrok v souladu se schopností žáka. Ve většině případů jsem cestou. Ale v některých případech jsem také Cílem. Tam, kde jsem Cílem, naprosto zlomím tyto individuality, tvaruji je a dávám jim podobu. Nedělám to ale svým vlastním způsobem, nýbrž způsobem Nejvyššího.
 
    Proč u některých měním jejich podobu a vkládám do nich svůj otisk, zatímco jiným nechávám v souladu se svou milostí jejich vlastní rychlost, ať už velkou nebo malou? V těch prvních případech došli žáci do takové pozice, kde jsou schopni přijmout tento způsob změny. Někdo se třeba chce stát žákem první třídy, ale když tohoto člověka požádám, aby něco udělal, řekne: „Ó, co si pomyslí můj otec, co si pomyslí má matka?" Když ale požádám jiného žáka, nebude zde žádný otec, žádná matka -- bude zde pouze radostná poslušnost.
 
@@ -405,9 +400,9 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
 * Je dobré pro naši duchovnost, abychom byli v tvé blízkosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:17-cs
   :END:
 
 
@@ -419,7 +414,7 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
 
    Tím, že jste tady, získáváte více než jen příležitost. Negativní stránkou věci je, že se můžete nafouknout pýchou, nebo že se bojíte, že někdo přijde a odvede mne pryč, nebo že cítíte, že když jste dnes dobře nemeditovali, že vás Guru nepožádá, abyste se vrátili a pracovali v Centru. Potom tuto příležitost nevyužijete správně. Jestliže ji můžete správně využít, opravdu něco získáváte. Jste-li v mé fyzické přítomnosti a dokážete-li využít každou sekundu božským způsobem, můžete činit nejrychlejší pokrok. To je důvod, proč někteří lidé umírají touhou zůstat se svým Mistrem. Pro jiné to ale může vytvořit pochybnosti a další problémy, což je důvod, proč někteří duchovní Mistři nenechávají své blízké u sebe.
 
-   Je zde jedna stará indická tradice, v níž Mistr říká: „Zasvětím tě, ale s podmínkou, že odtud odejdeš." Je to z toho důvodu, že když tento určitý žák u Mistra zůstane, nebude vůbec aspirovat. Bude si myslet, že Mistr udělá všechno za něho. Někteří z žáků, kteří jsou mi blízcí, nyní odpočívají. Stali se králi a královnami odpočinku. Myslí si, že všechno udělám za ně. Ale jiní lidé, kteří jsou daleko ode mne, dostanou strach: „Ó, jestliže neuděláme správnou věc, proč by ji měl dělat Guru? Musíme dělat všechno, co můžeme, a teprve tehdy on udělá zbytek.“
+   Je zde jedna stará indická tradice, v níž Mistr říká: „zasvětím tě, ale s podmínkou, že odtud odejdeš." je to z toho důvodu, že když tento určitý žák u mistra zůstane, nebude vůbec aspirovat. bude si myslet, že mistr udělá všechno za něho. někteří z žáků, kteří jsou mi blízcí, nyní odpočívají. stali se králi a královnami odpočinku. myslí si, že všechno udělám za ně. ale jiní lidé, kteří jsou daleko ode mne, dostanou strach: „Ó, jestliže neuděláme správnou věc, proč by ji měl dělat Guru? Musíme dělat všechno, co můžeme, a teprve tehdy on udělá zbytek.“
 
    Jestliže ti žáci, kteří bydlí zde v mé blízkosti, cítí, že mohou odpočívat, je konec jejich pokroku v realizaci Míru, Světla a Blaženosti. A to, co získali do této chvíle, je ničím ve srovnání s tím, co by mohli přijmout. Žáci, kteří jsou blízko mě, dostali nejlepší příležitost běžet nejvyšší rychlostí, protože ode mne přijímají jak ve vnitřním, tak i ve vnějším světě. Když nevyužijí správně čas strávený se mnou, je to opravdové prokletí. Jestliže ale tento čas využijí správně, přirozeně poběží nejvyšší rychlostí.
 
@@ -428,13 +423,13 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
 * Jak můžeme poznat, jestli nějaký náš nápad přichází od tebe?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:18-cs
   :END:
 
 
-/Sri Chinmoy:/ Jste-li oddaní a naprosto odevzdaní, potom jakýkoliv nápad, který dostanete, přichází skrze mne. Jestliže je to tento případ, můžete převzít iniciativu. Pokud ale nejste naprosto odevzdaní, můžete cosi udělat a já potom řeknu: „Ne, toto nechci." Jestliže je kanál dokonalý, jsem to já, kdo skrze něj prochází.
+/Sri Chinmoy:/ jste-li oddaní a naprosto odevzdaní, potom jakýkoliv nápad, který dostanete, přichází skrze mne. jestliže je to tento případ, můžete převzít iniciativu. pokud ale nejste naprosto odevzdaní, můžete cosi udělat a já potom řeknu: „Ne, toto nechci." Jestliže je kanál dokonalý, jsem to já, kdo skrze něj prochází.
 
    Až opustím tělo, uvidím, kolik lidí chce opravdu zůstat v duchovním životě a pracovat pro mne, a kolik se jich vrátí do normálního života. Ti, kteří opustí duchovní život, budou naprosto ztraceni. Nebudou se těšit ani z radostí duchovního života, ani z potěšení normálního života. Proto lidem říkám: „Jestliže mne nechcete potěšit, ani když jsem na zemi, myslíte si, že mne budete schopni potěšit, až odejdu?" Když je Mistr ve fyzickém těle, můžete učinit největší pokrok. Potom, jestliže jste si vybudovali svoji neoddělitelnou jednotu s Mistrem, můžete pokračovat nejvyšší rychlosti. Nyní je ten správný čas k největšímu pokroku.
 
@@ -443,9 +438,9 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
 * Vadí ti, když ti žáci dávají dárky?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:19-cs
   :END:
 
 
@@ -456,9 +451,9 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
 * Co bych měl dělat, když tě potkám na ulici?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:20-cs
   :END:
 
 
@@ -473,9 +468,9 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
 * Jsi si vědom mých myšlenek, když na tebe myslím?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: mil:21-cs
   :END:
 
 
@@ -487,19 +482,6 @@ Jakmile je sebedávání žáka trvalé, Guru vidí sám sebe žákovým srdcem 
 
    Pokud bych chtěl něco vědět o mých ostatních žácích, mohl bych to ihned udělat. Tímto způsobem však nebudu zasahovat. Když jsem byl ještě v Indii, udělal jsem to mnohokrát, ale cítím, že jsem tím pro tyto lidi ve skutečnosti vytvořil více problémů. Oni si potom ani netroufli na nic pomyslet. Bylo to pro ně trápení, protože věděli, že bych o tom mohl mluvit. Dělal jsem to z lásky k těm lidem, ale přesto to bylo pro ně trápení.
 
-   A tak vždy říkám: „Mějte potěšení, ale ne do té míry, abyste se cítili naprosto ztraceni." Žákům říkám: „Stojíte-li přede mnou, pokuste se setrvat ve svém nejvyšším vědomí. Když jste mimo moji bezprostřední auru, pokuste se zůstat ve svém nejčistším." Přeji si ale říci všem svým upřímným žákům, aby nedělali to, co nemohou dělat přímo v mé přítomnosti. Jestliže chcete být mými nejdražšími žáky, nedělejte nic, co byste nemohli dělat v mé přítomnosti. Neříkejte nic, co nemůžete říci mně. Jestliže máte takový druh živoucího spojení a živoucí jednoty se mnou, nezáleží na tom, zda jsem zde nebo v Indii nebo v Japonsku, jste pod ochranou Nejvyššího ve mně.
+   A tak vždy říkám: „mějte potěšení, ale ne do té míry, abyste se cítili naprosto ztraceni." Žákům říkám: „Stojíte-li přede mnou, pokuste se setrvat ve svém nejvyšším vědomí. Když jste mimo moji bezprostřední auru, pokuste se zůstat ve svém nejčistším." Přeji si ale říci všem svým upřímným žákům, aby nedělali to, co nemohou dělat přímo v mé přítomnosti. Jestliže chcete být mými nejdražšími žáky, nedělejte nic, co byste nemohli dělat v mé přítomnosti. Neříkejte nic, co nemůžete říci mně. Jestliže máte takový druh živoucího spojení a živoucí jednoty se mnou, nezáleží na tom, zda jsem zde nebo v Indii nebo v Japonsku, jste pod ochranou Nejvyššího ve mně.
 
    Modlím se k vám všem, abyste se vždy pokoušeli cítit Nejvyššího ve svém srdci. Musíme se vždy chovat i myslet tak, jako že Nejvyšší není jen uvnitř nás, ale také vně nás, kolem nás, že si je nás stále vědom. Jinak, v okamžiku, kdy odejdete z této meditační místnosti, půjdete do kavárny, nebo někam jinam a promrháte všechnu svoji duchovní pravdu a všechna svá duchovní dosažení. Mnohokrát jsem viděl, že jste po odchodu z meditační místnosti vyhodili všechno své duchovní bohatství na ulici.
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

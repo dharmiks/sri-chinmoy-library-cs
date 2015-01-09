@@ -1,20 +1,15 @@
-#+TITLE: Mistr a žák
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Mistr a žák
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 1993
-  :PUBLISHER:Madal Bal
-  :CITE-KEY: MSDS-cs
-  :GENRE: discourse
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 1993
+  :publisher:Madal Bal
+  :cite-key: MSDS-cs
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,17 +17,17 @@
 * Část I. GURU
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MSDS:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: msds:1e1-cs
   :END:
 
 * 1. GURU
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MSDS:1-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: msds:1-cs
   :END:
 
 Guru vidí ve svém žákovi skutečnou podobu Boha, a proto se pro žáka naprosto obětuje. Žák ve svém Guruovi vidí a cítí jediné útočiště svých omezení, a proto svého Gurua naprosto miluje.
@@ -52,9 +47,9 @@ Dosáhnout realizace vlastní silou je jako přeplout oceán na voru. Avšak dos
 * 2. Tvůj skutečný učitel
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MSDS:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: msds:2-cs
   :END:
 
 #+BEGIN_VERSE
@@ -80,9 +75,9 @@ je tvůj skutečný učitel.
 * 3. Role Gurua
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MSDS:3-cs
+  :genre: poem
+  :keywords:
+  :cite-key: msds:3-cs
   :END:
 
 #+BEGIN_VERSE
@@ -105,9 +100,9 @@ nebesky rozlehlé Modři.
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MSDS:4-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: msds:4-cs
   :END:
 
 Skutečným duchovním Mistrem je ten, kdo dosáhl realizace Boha. Každý člověk je sjednocen s Bohem, ale skutečný duchovní Mistr si s Bohem vytvořil vědomou jednotu. Může kdykoliv vstoupit do vyššího vědomí a přinést od Boha poselství pro ty žáky, kteří v něj mají víru. Mistr, je-li opravdový, představuje Boha na zemi pro hledající, kteří v něj věří a mají skutečnou aspiraci. Byl Bohem pověřen a zmocněn, aby jim pomáhal. Skutečným Učitelem, skutečným Guruem, je sám Bůh. Na zemi však bude často působit prostřednictvím určitého duchovního Mistra. Mistr hledajícího inspiruje a postupem času mu pomocí nekonečné Milosti Nejvyššího nabízí osvícení.
@@ -124,7 +119,7 @@ Nejvyšší transcendentální Pravda je v našem srdci, ale bohužel jsme ji j
 
 Je-li člověk již pokročilý -- to znamená, že vedl duchovní život již v dřívějších inkarnacích, a dokáže naslouchat příkazům své vnitřní bytosti, není pro něj zcela nezbytné mít duchovního Mistra. V takovém případě musí jít jen hluboko dovnitř a nanejvýš upřímně žít duchovním životem. Protože nechce Mistrovu pomoc, musí zcela záviset sám na sobě a na bezmezné Milosti Boha. Musíme ale vědět, že duchovní cesta je velmi obtížná. Bez pomoci duchovního Mistra realizovali lidé Boha jen v ojedinělých případech. I většina duchovních Mistrů přijala od někoho pomoc -- na den, na měsíc nebo na rok či na deset let -- než sami realizovali Boha.
 
-Stejně jako potřebujeme učitele na vnější vědomosti k osvícení naší vnější bytosti, potřebujeme také duchovního Mistra, aby nám pomáhal a vedl nás v našem vnitřním životě, obzvlášť na začátku. Jinak bude náš pokrok velmi pomalý a nejistý a můžeme být nesmírně zmateni. Získáme vysoké, povznášející zážitky, ale nedáme jim přiměřený význam. Naši mysl může zatemnit pochybnost a my si řekneme: „Jsem jen obyčejný člověk. Jak bych mohl mít takovýto zážitek? Možná si něco namlouvám.“ Nebo to povíme svým přátelům a oni řeknou: „To celé je mentální halucinace. Zapomeň na duchovní život.“ Avšak je-li zde někdo, kdo ví, co je Skutečnost, řekne: „Nebuď hloupý. Zážitky, které jsi měl, jsou naprosto skutečné.“ Mistr hledajícího povzbudí a inspiruje a jeho zážitky mu správně vysvětlí. A bude-li hledající dělat ve své meditaci něco špatně, Mistr ho dokáže opravit. 
+Stejně jako potřebujeme učitele na vnější vědomosti k osvícení naší vnější bytosti, potřebujeme také duchovního Mistra, aby nám pomáhal a vedl nás v našem vnitřním životě, obzvlášť na začátku. Jinak bude náš pokrok velmi pomalý a nejistý a můžeme být nesmírně zmateni. Získáme vysoké, povznášející zážitky, ale nedáme jim přiměřený význam. Naši mysl může zatemnit pochybnost a my si řekneme: „jsem jen obyčejný člověk. jak bych mohl mít takovýto zážitek? možná si něco namlouvám.“ nebo to povíme svým přátelům a oni řeknou: „to celé je mentální halucinace. zapomeň na duchovní život.“ avšak je-li zde někdo, kdo ví, co je skutečnost, řekne: „Nebuď hloupý. Zážitky, které jsi měl, jsou naprosto skutečné.“ Mistr hledajícího povzbudí a inspiruje a jeho zážitky mu správně vysvětlí. A bude-li hledající dělat ve své meditaci něco špatně, Mistr ho dokáže opravit. 
 
 Proč chodí člověk na univerzitu, když může studovat doma? Protože cítí, že se mu dostane odborného výkladu od těch, kteří předmět dobře znají. Víte, že bylo několik –- velmi, velmi málo –- opravdu moudrých lidí, kteří na žádné univerzitě nestudovali. Ano, existují výjimky. Každé pravidlo připouští výjimky. Bůh je v každém a cítí-li hledající, že nepotřebuje lidskou pomoc, je nanejvýš vítán vyzkoušet si svou schopnost sám. Když je ale někdo moudrý a chce k cíli běžet, místo aby jen klopýtal či kráčel, tehdy může být pomoc Gurua jistě značná.
 
@@ -134,15 +129,15 @@ Duchovní Mistr k vám přichází s lodí. Říká: „Pojďte! Chcete-li se 
 
 Po tisíciletí jsme plavali v moři nevědomosti. Když se probudíme, chceme moře nevědomosti přeplavat a dostat se do oceánu Světla a Blaženosti. Jestliže víme, že existuje lodivod a existuje loď, která nás může k cíli bezpečně dovézt, potom se samozřejmě pokusíme získat pomoc. Pravý duchovní Mistr zná cestu a musí nám pomoci dosáhnout cíle. Jako lodivod nás odveze ke druhému břehu. 
 
-Když vám někdo pomáhá ve vnějším světě -- například právník nebo lékař -- bude vám za to něco účtovat. Avšak když vás Guru zaveze k vašemu cíli, nic si nevezme. Guruovi nemusíte dávat nic ze svého bohatství, protože on má své vlastní nekonečné bohatství. Nakonec zjistíte, že vaše bohatství je stejné. Jeho cíl, váš cíl, cíl každého člověka je stejný: nekonečný Mír, Světlo a Blaženost. Duchovní Mistr říká: „Jsi hladový. Já mám nekonečnou zásobu božského jídla, které chceš, takže si nemusím brát nic z tvého.“
+Když vám někdo pomáhá ve vnějším světě -- například právník nebo lékař -- bude vám za to něco účtovat. Avšak když vás Guru zaveze k vašemu cíli, nic si nevezme. Guruovi nemusíte dávat nic ze svého bohatství, protože on má své vlastní nekonečné bohatství. Nakonec zjistíte, že vaše bohatství je stejné. Jeho cíl, váš cíl, cíl každého člověka je stejný: nekonečný mír, světlo a blaženost. duchovní mistr říká: „Jsi hladový. Já mám nekonečnou zásobu božského jídla, které chceš, takže si nemusím brát nic z tvého.“
 
-Když v běžném životě lidé vidí, že si někdo nechal pomoci, mohou říci: „Och, nedokázal to udělat sám.“ Ale člověk, který je skutečně hladový po Bohu, řekne: „Nezáleží na tom, kdo jídlo nabízí. Já mám hlad a chci jíst hned. To je jídlo, po kterém jsem plakal celý svůj život, a on mi ho dává. Dokud mě bude sytit pravou Božskostí, budu jíst.“
+Když v běžném životě lidé vidí, že si někdo nechal pomoci, mohou říci: „och, nedokázal to udělat sám.“ ale člověk, který je skutečně hladový po bohu, řekne: „Nezáleží na tom, kdo jídlo nabízí. Já mám hlad a chci jíst hned. To je jídlo, po kterém jsem plakal celý svůj život, a on mi ho dává. Dokud mě bude sytit pravou Božskostí, budu jíst.“
 
 Máte-li pocit, že se přijetím Mistra vyhýbáte svým vlastním zodpovědnostem, děláte chybu. V tu chvíli se totiž od svého Mistra oddělujete. Mí velmi oddaní žáci necítí, že jsou cizí. Cítí se mnou jednotu. Cítí, že mám větší schopnost než oni, a tak svou malou schopnost ztotožňují s mou větší schopností. Když vstupují do mé schopnosti, cítí, že vstupují do své vlastní schopnosti, neboť ve mně vidí veškerou lásku a zájem.
 
 Skutečný pokrok můžete udělat jen tehdy, cítíte-li jednotu se svým Mistrem. Jestliže máte pocit, že jste v Mistrově srdci cizincem či vetřelcem, nebo dokonce i tehdy, když si myslíte, že jste jen hostem, potom ve svém duchovním životě nikdy neuspějete. Jak dlouho můžete pobývat u svého přítele jako host? Několik dní nebo měsíc, a pak budete muset odejít. Dokonce i když cítíte, že přicházíte jako přítel, přesto budete muset odejít. Cítíte-li však, že jeho dům je i vaším domem, tehdy jste v bezpečí, navěky v bezpečí..
 
-Nachází-li se žák bezpečně v Mistrově srdci a Mistr v žákově srdci, hodina zasvěcení se rychle přibližuje. Když Mistr někoho zasvětí, dává mu část svého životního dechu. V době zasvěcení skládá Guru slavnostní slib hledajícímu i Nejvyššímu, že pro hledajícího v jeho duchovním životě udělá to nejlepší, že nabídne své srdce a duši, aby žáka přivedl do nejvyšších oblastí světa Za. Mistr říká Nejvyššímu: „Dokud k Tobě nepřivedu toto dítě, neopustím jej; má hra nebude skončena.“ A žákovi říká: „Od této chvíle se na mě můžeš spolehnout; můžeš mě považovat za svého vlastního.“
+Nachází-li se žák bezpečně v Mistrově srdci a Mistr v žákově srdci, hodina zasvěcení se rychle přibližuje. Když Mistr někoho zasvětí, dává mu část svého životního dechu. V době zasvěcení skládá Guru slavnostní slib hledajícímu i Nejvyššímu, že pro hledajícího v jeho duchovním životě udělá to nejlepší, že nabídne své srdce a duši, aby žáka přivedl do nejvyšších oblastí světa Za. Mistr říká Nejvyššímu: „dokud k tobě nepřivedu toto dítě, neopustím jej; má hra nebude skončena.“ a žákovi říká: „Od této chvíle se na mě můžeš spolehnout; můžeš mě považovat za svého vlastního.“
 
 V době zasvěcení Mistr ve skutečnosti přebírá četné nedokonalosti žáka z této inkarnace i z inkarnací minulých. Samozřejmě existují praví a upřímní duchovní Mistři stejně jako falešní Mistři. Zde mluvím o pravých Mistrech. Někteří velmi upřímní Mistři zasvětí za měsíc jen jednoho žáka. Poté, co žáka zasvětí, onemocní a nesmírně trpí, protože na sebe opravdu vzali žákovy nedokonalosti. Na druhou stranu jsou duchovní Mistři, kteří dokáží zasvětit mnoho žáků, aniž by trpěli, protože mají schopnost vhodit nedokonalosti, které na sebe berou, do Univerzálního Vědomí. Naproti tomu existují falešní Mistři, kteří najednou zasvětí padesát, šedesát nebo sto žáků nebo kteří zasvěcují v zastoupení. Tento druh hromadného zasvěcení je však nesmyslným podvodem.
 
@@ -177,9 +172,9 @@ Jak může Guru naplnit Nejvyššího? Guru sehrává svou úlohu tím, že bere
 * 5. Guru není tělem… 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MSDS:5-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: msds:5-cs
   :END:
 
 
@@ -190,9 +185,9 @@ Guru není tělem. Guru je odhalením a projevením božské Síly na zemi.
 * 6. Setkat se s Bohem bez prostředníka… 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MSDS:6-cs
+  :genre: poem
+  :keywords:
+  :cite-key: msds:6-cs
   :END:
 
 #+BEGIN_VERSE
@@ -206,9 +201,9 @@ avšak je to jistě ten největší horolezecký úkol.
 * 7. Pomáhal ti někdo…
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MSDS:7-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: msds:7-cs
   :END:
 
 Pomáhal ti někdo, když ses učil abecedu? Potřeboval jsi učitele, aby ti pomohl zvládnout tvůj hudební nástroj? Chodil jsi na přednášky, které ti umožnily získat akademický titul? Pokud jsi ke zvládnutí těchto věcí potřeboval pomocníka, nepotřebuješ snad také učitele, který tě dokáže dovést ke znalosti Božského, k moudrosti Nekonečného? Tím učitelem je tvůj Guru a nikdo jiný.
@@ -218,9 +213,9 @@ Pomáhal ti někdo, když ses učil abecedu? Potřeboval jsi učitele, aby ti po
 * 8. Vzájemné přijetí
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MSDS:8-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: msds:8-cs
   :END:
 
 Guru a žák se musí něžně, opravdově a dokonale zkoušet, než dojde k jejich vzájemnému přijetí. Jinak -- pokud se ve volbě zmýlí -- bude muset Guru tančit se selháním a žák se zničením.
@@ -230,9 +225,9 @@ Guru a žák se musí něžně, opravdově a dokonale zkoušet, než dojde k je
 * 9. Co znamená, když Guru přijme žáka?
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MSDS:9-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: msds:9-cs
   :END:
 
 Co znamená, když Guru přijme žáka? Znamená to, že Guru bude ochotně žít ve světě zlatého obětování.
@@ -242,9 +237,9 @@ Co znamená, když Guru přijme žáka? Znamená to, že Guru bude ochotně ží
 * 10. Nejvyšší zasvěcení je …
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MSDS:10-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: msds:10-cs
   :END:
 
 Nejvyšší zasvěcení je, 
@@ -259,18 +254,18 @@ a žák řekne Mistrovi:
 * Část II. Výběr Gurua
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MSDS:11e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: msds:11e1-cs
   :END:
 
 
 * 1. Výběr Gurua
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MSDS:11-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: msds:11-cs
   :END:
 
 #+BEGIN_VERSE
@@ -313,9 +308,9 @@ Dokonce i když je duchovní Mistr pravý, nemusí být určen pro vás. Jak poz
 
 Máte-li vnitřní spojení s opravdovým Mistrem, toto spojení velice pravděpodobně existuje již po mnoho inkarnací. A tak v okamžiku, kdy tohoto Mistra uvidíte, budete mít nesmírnou, ohromnou radost. Celá vaše bytost bude zaplavena vnitřní radostí a světlem. Pocítíte, že váš život našel v Mistrovi konečně svůj zdroj. Pocítíte, že vy jste list a Mistr je strom. Duchovní Mistr, který vám dává okamžitou radost, spontánní radost, nesmírnou radost, je vaším Mistrem. Někdy, máte-li dostatečné štěstí, najdete svého vlastního Mistra hned, když poprvé uvidíte nějakého duchovního Mistra. Je ale také možné, že budete muset navštívit několik duchovních Mistrů. 
 
-Jestliže najdete Mistra, jehož pouhá přítomnost vám dá okamžitě inspiraci, radost, mír a blaženost, potom si musíte položit poslední a naprosto nejdůležitější otázku: „Pokud mi tento Mistr nedá realizaci, osvobození a nic z toho, co chci, dokážu mu i přesto dát svou lásku, svou oddanost, své odevzdání, svůj život?“ Bude-li odpověď: „Ano, nechci od něj nic než to, aby mi dovolil sloužit mu a dát mu to, co mám a čím jsem,“ pak budete najisto vědět, že je vaším Mistrem. On je dozajista vaším Mistrem.
+Jestliže najdete Mistra, jehož pouhá přítomnost vám dá okamžitě inspiraci, radost, mír a blaženost, potom si musíte položit poslední a naprosto nejdůležitější otázku: „pokud mi tento mistr nedá realizaci, osvobození a nic z toho, co chci, dokážu mu i přesto dát svou lásku, svou oddanost, své odevzdání, svůj život?“ bude-li odpověď: „Ano, nechci od něj nic než to, aby mi dovolil sloužit mu a dát mu to, co mám a čím jsem,“ pak budete najisto vědět, že je vaším Mistrem. On je dozajista vaším Mistrem.
 
-Říká se: „Je-li student připraven, učitel se objeví.“ Častokrát -- tisíckrát -- se nicméně stává, že Mistr přijde a žák je také připraven, ale je zahalen závojem nevědomosti. Nevidí světlo, ačkoliv je přímo před ním. I když váš učitel stojí přímo před vámi a dvacetkrát vám požehná, ani tehdy ho nemusíte poznat. Učitel vás pozná, ale nemůže vám říci: „Ty jsi mým studentem,“ protože by byl špatně pochopen. Pomysleli byste si například: „Mám milióny dolarů. Proto mi říká, že jsem jeho žákem. Žádá mě, abych byl jeho žákem, aby si mohl přivlastnit moje peníze nebo to nebo ono.“
+Říká se: „je-li student připraven, učitel se objeví.“ Častokrát -- tisíckrát -- se nicméně stává, že mistr přijde a žák je také připraven, ale je zahalen závojem nevědomosti. nevidí světlo, ačkoliv je přímo před ním. i když váš učitel stojí přímo před vámi a dvacetkrát vám požehná, ani tehdy ho nemusíte poznat. učitel vás pozná, ale nemůže vám říci: „ty jsi mým studentem,“ protože by byl špatně pochopen. pomysleli byste si například: „Mám milióny dolarů. Proto mi říká, že jsem jeho žákem. Žádá mě, abych byl jeho žákem, aby si mohl přivlastnit moje peníze nebo to nebo ono.“
 
 Cítíme, že na tomto světě je pravda jen to, na co sami přijdeme. Když něco objeví někdo jiný a řekne nám o tom, nevěříme mu, zpochybňujeme to. Přijde-li z vašeho nitra poznání, že jsem vaším Mistrem, pak pocítíte, že to je vaše vlastní zjištění. Když vám to však řeknu já, potom ucítíte, že máte právo o mně pochybovat. Viděl jsem několik upřímných hledajících, kteří byli předurčeni být mými žáky a dříve nebo později se jimi stali, něco jim ale tehdy bránilo v tom, aby mě přijali. Kdybych jim to řekl, jejich poznání by to neurychlilo. Naopak, jen by je to pozdrželo. A tak jsem mlčel, aby -- až dozraje čas -- mohli získat uspokojení ze svého vlastního objevu.
 
@@ -329,7 +324,7 @@ Učitel je jako loď. Jste-li na jedné lodi, jste v bezpečí. Avšak máte-li
 
 Řím je jedno místo, ale existuje mnoho cest, jak se tam dostat, a každý cestovatel půjde jinudy. Každý Mistr má pravdu svým vlastním způsobem. Jakmile si ale jednou Mistra vyberete, musíte na jeho cestě zůstat s naprostým zasvěcením a odevzdáním, protože v jedné chvíli můžete jít jen po jedné cestě. 
 
-Jeden Mistr učí to, další Mistr učí něco jiného a třetí Mistr učí něco naprosto odlišného. Můžete mít pocit, že je to jako různé předměty ve škole: dějepis, zeměpis, filozofie a tak dále. Ale přeji si říci, že v duchovním životě existuje jen jeden předmět: realizace Boha. Pro tento předmět, nejhlubší předmět, byste měli následovat jednu určitou cestu. Je-li to cesta oddanosti, skvělé. Je-li to cesta poznání, skvělé. Je-li to cesta nesobecké služby, skvělé. Pak je můžete všechny zkombinovat do jediné. Až realizujete Boha, všechny cesty se stanou jedinou cestou; tři hlavní cesty oddanosti, poznání a nesobecké služby se nevyhnutelně spojí v jedinou.
+Jeden Mistr učí to, další Mistr učí něco jiného a třetí Mistr učí něco naprosto odlišného. Můžete mít pocit, že je to jako různé předměty ve škole: dějepis, zeměpis, filozofie a tak dále. ale přeji si říci, že v duchovním životě existuje jen jeden předmět: realizace Boha. Pro tento předmět, nejhlubší předmět, byste měli následovat jednu určitou cestu. Je-li to cesta oddanosti, skvělé. Je-li to cesta poznání, skvělé. Je-li to cesta nesobecké služby, skvělé. Pak je můžete všechny zkombinovat do jediné. Až realizujete Boha, všechny cesty se stanou jedinou cestou; tři hlavní cesty oddanosti, poznání a nesobecké služby se nevyhnutelně spojí v jedinou.
 
 Nemůžeme říci, že naše cesta je pro každého zdaleka tou nejlepší. Nebuďme takoví hlupáci. Můžeme jen říci, že naše cesta je cestou lásky, oddanosti a odevzdání. Pokud ji druzí chtějí přijmout, je to dobré a v pořádku. Naše cesta je nejlepší pro nás a zůstáváme na ní, protože je to cesta, kterou Nejvyšší chce, abychom následovali. Také druzí si musí najít takovou cestu, která pro ně bude tou nejlepší. 
 
@@ -341,9 +336,9 @@ Není na zemi hledající, který by zůstal bez učitele, když zoufale nějak�
 * 2. Jednou věcí je znát učitele …
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MSDS:12-cs
+  :genre: aphorism
+  :keywords:
+  :cite-key: msds:12-cs
   :END:
 
 Jednou věcí je znát učitele a druhou je znát jeho učení. Jeho učení ukazuje světu, co má, avšak to, co je, je jiným jménem pro Vizi Věčnosti.
@@ -352,9 +347,9 @@ Jednou věcí je znát učitele a druhou je znát jeho učení. Jeho učení uka
 * 3. Co potřebují …
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MSDS:13-cs
+  :genre: poem
+  :keywords:
+  :cite-key: msds:13-cs
   :END:
 
 #+BEGIN_VERSE
@@ -372,9 +367,9 @@ potřebuje správného Boha.
 * 4. Nenechávej se ubíjet obavami 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MSDS:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: msds:14-cs
   :END:
 
 #+BEGIN_VERSE
@@ -391,9 +386,9 @@ toho skutečného učitele.
 * 5. Jen falešný duchovní učitel … 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MSDS:15-cs
+  :genre: poem
+  :keywords:
+  :cite-key: msds:15-cs
   :END:
 
 
@@ -411,9 +406,9 @@ jsou falešní.
 * 6. Tvůj Mistr se před tebou neskrývá.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MSDS:16-cs
+  :genre: poem
+  :keywords:
+  :cite-key: msds:16-cs
   :END:
 
 #+BEGIN_VERSE
@@ -431,18 +426,18 @@ se svým Okem Soucitu Věčnosti.
 * Část III. Realizovaný Mistr
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MSDS:17e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: msds:17e1-cs
   :END:
 
 
 * 1. Realizovaný Mistr
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MSDS:17-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: msds:17-cs
   :END:
 
 #+BEGIN_VERSE
@@ -472,7 +467,7 @@ Realizovaný Mistr je někdo, kdo umí dobře vylézt na strom a také z něj sl
 
 Když tvrdě spíte a někdo vás štípne a zakřičí: „Vstávej! Vstávej!“ neprokazuje vám tím žádnou laskavost. Rozzlobíte se. Duchovní Mistr vás ale nebude rušit; nebude vás žádat, abyste vstali. Zůstane u vaší postele a bude čekat, dokud se neprobudíte, a až se probudíte, požádá vás, abyste se podívali na slunce.
 
-Pokud zde na zemi člověk něco nabízí a někdo si to nevezme, nabízející se rozzuří. Řekne: „Ty hlupáku! Dávám ti to pro tvé vlastní dobro.“ Je-li jeho nabídka odmítnuta, vyhubuje tomu člověku a urazí se. U duchovního Mistra je to jiné. Přijde se svým bohatstvím, ale jestliže ho lidstvo nepřijme, nebude ho proklínat. Dokonce i když ho lidstvo bude urážet a bude o něm špatně mluvit, nebude si Bohu stěžovat. Se svou nekonečnou trpělivostí řekne: „Dobrá, dnes spíte. Možná se zítra probudíte a uvidíte, co nabízím. Počkám na vás.“
+Pokud zde na zemi člověk něco nabízí a někdo si to nevezme, nabízející se rozzuří. Řekne: „ty hlupáku! dávám ti to pro tvé vlastní dobro.“ je-li jeho nabídka odmítnuta, vyhubuje tomu člověku a urazí se. u duchovního mistra je to jiné. přijde se svým bohatstvím, ale jestliže ho lidstvo nepřijme, nebude ho proklínat. dokonce i když ho lidstvo bude urážet a bude o něm špatně mluvit, nebude si bohu stěžovat. se svou nekonečnou trpělivostí řekne: „Dobrá, dnes spíte. Možná se zítra probudíte a uvidíte, co nabízím. Počkám na vás.“
 
 Pravý duchovní Mistr nic neztratí, pokud země odmítne to, co má, neboť je dobře zakotven ve svém vnitřním životě a vnitřním vědomí. A když lidstvo přijme to, co nabízí, ani tehdy nic neztratí. Čím více dává, tím více ze Zdroje získává. To neplatí pro obyčejné aspiranty a falešné Mistry. Pokud oni něco dají, nemohou to nahradit. Avšak Mistr, který je ve vnitřním světě v kontaktu s neomezenou schopností, má jako svůj zdroj nekonečný oceán. Tento nekonečný vnitřní oceán nemůže člověk vyprázdnit. 
 
@@ -486,7 +481,7 @@ Na druhou stranu musíte vědět, že pravý Mistr se velmi důkladně stará o 
 
 Nikdo není nepostradatelný, pravda. Zároveň je ale nepostradatelný každý, kdo je ve své aspiraci a službě Misi Nejvyššího naprosto upřímný. Z pýchy a marnivosti by nikdo neměl cítit, že je nezbytný. Každý je ale nezbytný, je-li upřímným, zasvěceným, vybraným nástrojem Boha. Mistr potřebuje žáky, neboť jsou vyjádřením jeho vlastního vědomí. Když dostane od Nejvyššího Příkaz, aby na zemi něco vykonal, musí se pokusit najít ty, kteří budou nedílnou součástí jeho vědomí a pomohou mu tento Příkaz splnit. 
 
-Duchovní Mistři tradičně říkávali: „Když něco máš, druzí k tobě dozajista přijdou. Jezero nepřichází k žíznivému člověku -- žíznivý člověk jde k jezeru.“ To je naprostá pravda, má-li žízeň dospělý člověk. Pokud však cítíte, že ten, kdo má žízeň, je nemluvně, je to úplně jiné. Dítě bude plakat ve svém pokoji a matka k němu bude muset přiběhnout a nakrmit ho. Neřekne dítěti: „Musíš přijít ty ke mně, protože ode mě něco chceš.“ Ne, všechno odloží a poběží k dítěti. Stejně tak v duchovním světě, někteří Mistři cítí potřebu vejít do světa, protože mají pocit, že vnější svět je ve svém vědomí pouhým dítětem. Tito Mistři cítí, že je mnoho dětí, které volají po duchovním životě, duchovní moudrosti, duchovní dokonalosti, ale které neví, kde nebo jak je najít. A tak tito Mistři chodí z místa na místo a nabízejí své světlo s úmyslem sloužit božskosti v lidstvu.
+Duchovní Mistři tradičně říkávali: „když něco máš, druzí k tobě dozajista přijdou. jezero nepřichází k žíznivému člověku -- žíznivý člověk jde k jezeru.“ to je naprostá pravda, má-li žízeň dospělý člověk. pokud však cítíte, že ten, kdo má žízeň, je nemluvně, je to úplně jiné. dítě bude plakat ve svém pokoji a matka k němu bude muset přiběhnout a nakrmit ho. neřekne dítěti: „Musíš přijít ty ke mně, protože ode mě něco chceš.“ Ne, všechno odloží a poběží k dítěti. Stejně tak v duchovním světě, někteří Mistři cítí potřebu vejít do světa, protože mají pocit, že vnější svět je ve svém vědomí pouhým dítětem. Tito Mistři cítí, že je mnoho dětí, které volají po duchovním životě, duchovní moudrosti, duchovní dokonalosti, ale které neví, kde nebo jak je najít. A tak tito Mistři chodí z místa na místo a nabízejí své světlo s úmyslem sloužit božskosti v lidstvu.
 
 Když svět pláče po vnitřním jídle, musíme ho nakrmit, jestliže to dokážeme. Dokážu-li vám něco dát a mohu-li také přijít a postavit se přímo před vás, proč bych vás měl volat k sobě? Mám-li schopnost k vám přijít a dát vám duchovní potravu, kterou chcete, pak to musím udělat. 
 
@@ -495,9 +490,9 @@ Když svět pláče po vnitřním jídle, musíme ho nakrmit, jestliže to doká
 * 2. Duše, která opravdu realizovala Boha …
 
   :PROPERTIES:
-  :GENRE:poem:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:18-cs
+  :genre:poem:
+  :keywords:
+  :cite-key: msds:18-cs
   :END:
 
 #+BEGIN_VERSE
@@ -512,9 +507,9 @@ do pozemských lidských událostí.
 * 3. On nemedituje pro svou vlastní realizaci …
 
   :PROPERTIES:
-  :GENRE:poem:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:19-cs
+  :genre:poem:
+  :keywords:
+  :cite-key: msds:19-cs
   :END:
 
 #+BEGIN_VERSE
@@ -531,9 +526,9 @@ pro tvé osvícení.
 * 4. Skutečný Guru je …
 
   :PROPERTIES:
-  :GENRE:aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:20-cs
+  :genre:aphorism:
+  :keywords:
+  :cite-key: msds:20-cs
   :END:
 
 Skutečný Guru je nesobeckým, zasvěceným a věčným žebrákem, který od Boha žádá všemohoucnost a všudypřítomnost, aby nasytil své nevědomě hladové a vědomě aspirující žáky -- v dokonalém souladu s potřebami jejich duše.
@@ -543,9 +538,9 @@ Skutečný Guru je nesobeckým, zasvěceným a věčným žebrákem, který od B
 * 5. Guru je duchovním magnetem 
 
   :PROPERTIES:
-  :GENRE:aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:21-cs
+  :genre:aphorism:
+  :keywords:
+  :cite-key: msds:21-cs
   :END:
 
 Guru je duchovním magnetem, 
@@ -557,9 +552,9 @@ k nekonečnému Světlu Nejvyššího.
 * 6. Jen ten je božským vůdcem …
 
   :PROPERTIES:
-  :GENRE:aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:22-cs
+  :genre:aphorism:
+  :keywords:
+  :cite-key: msds:22-cs
   :END:
 
 Jen ten je božským vůdcem, 
@@ -571,9 +566,9 @@ do srdce lidské duše.
 * 7. Pravý duchovní Mistr musí nést …
 
   :PROPERTIES:
-  :GENRE: poem:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:23-cs
+  :genre: poem:
+  :keywords:
+  :cite-key: msds:23-cs
   :END:
 
 #+BEGIN_VERSE
@@ -587,18 +582,18 @@ Pravý duchovní Mistr musí nést na svých bedrech nesčetné odpovědnosti sv
 * Část IV. Mistr a žák
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MSDS:24e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: msds:24e1-cs
   :END:
 
 
 * 1. Mistr a žák
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MSDS:24-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: msds:24-cs
   :END:
 
 
@@ -638,9 +633,9 @@ Neupřímný žák si myslí, že si může Mistra získat vnějším lichocení
 * 2. Lidský učitel říká studentovi:…
 
   :PROPERTIES:
-  :GENRE: aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:25-cs
+  :genre: aphorism:
+  :keywords:
+  :cite-key: msds:25-cs
   :END:
 
 #+BEGIN_VERSE
@@ -658,9 +653,9 @@ Neotálej, pojď Jej se mnou navštívit.“
 * 3. Výborným duchovním Učitelem je ten …
 
   :PROPERTIES:
-  :GENRE: aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:26-cs
+  :genre: aphorism:
+  :keywords:
+  :cite-key: msds:26-cs
   :END:
 
 #+BEGIN_VERSE
@@ -677,9 +672,9 @@ a jehož srdce je odpuštěním.
 * 4. Skutečným Mistrem nikdy nemůže být ten …
 
   :PROPERTIES:
-  :GENRE: aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:27-cs
+  :genre: aphorism:
+  :keywords:
+  :cite-key: msds:27-cs
   :END:
 
 #+BEGIN_VERSE
@@ -694,9 +689,9 @@ podle tvých vlastních podmínek.
 * 5. Protože je Božím představitelem …
 
   :PROPERTIES:
-  :GENRE: aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:28-cs
+  :genre: aphorism:
+  :keywords:
+  :cite-key: msds:28-cs
   :END:
 
 #+BEGIN_VERSE
@@ -712,9 +707,9 @@ jako se svým vlastním.
 * 6. Krátká, kratší, nejkratší cesta …
 
   :PROPERTIES:
-  :GENRE: aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:29-cs
+  :genre: aphorism:
+  :keywords:
+  :cite-key: msds:29-cs
   :END:
 
 #+BEGIN_VERSE
@@ -737,9 +732,9 @@ k duchovnímu pokroku.
 * 7. Pro žáka neexistuje lepší způsob …
 
   :PROPERTIES:
-  :GENRE: aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:30-cs
+  :genre: aphorism:
+  :keywords:
+  :cite-key: msds:30-cs
   :END:
 
 Pro žáka neexistuje lepší způsob,
@@ -751,18 +746,18 @@ než poslouchat jeho rady.
 * Část V. Jednota s Mistrem
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MSDS:31e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: msds:31e1-cs
   :END:
 
 
 * 1. Jednota s Mistrem
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MSDS:31-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: msds:31-cs
   :END:
 
 #+BEGIN_VERSE
@@ -798,7 +793,7 @@ Protože žáci většinou bohužel nemají schopnost neustále vstupovat do Mis
 
 Potom je tu třetí způsob. Zde žáci cítí, že pokud Mistr řekne, aby něco dělali, budou to dělat, a pokud Mistr řekne, aby něco nedělali, nebudou to dělat. Jestliže se potom něco nepovede, ubohý Mistr na sebe musí vzít všechnu vinu. Když se ale věci daří, jejich ego vyjde okamžitě do popředí a řekne: „To naše aspirace způsobila tento úspěch.“ 
 
-Těmto žákům duchovní Mistr říká: „Když řeknu: ,Udělej tohle,‘ protože to je to, co vaše duše chce, abyste udělali, je dobré, že to uděláte. Pokud byste to však udělali ze svého vlastního vnitřního popudu, měli byste nekonečně větší radost, protože byste cítili, že jste pravdu objevili vy sami.“ Mistr za ně pravdu už objevil. Teď je ale na žácích, aby v nejvnitřnějších zákoutích svého srdce objevili, že to, co chtějí oni, a to, co chce jejich Mistr, je totéž.
+Těmto žákům duchovní Mistr říká: „když řeknu: ,Udělej tohle,‘ protože to je to, co vaše duše chce, abyste udělali, je dobré, že to uděláte. Pokud byste to však udělali ze svého vlastního vnitřního popudu, měli byste nekonečně větší radost, protože byste cítili, že jste pravdu objevili vy sami.“ Mistr za ně pravdu už objevil. Teď je ale na žácích, aby v nejvnitřnějších zákoutích svého srdce objevili, že to, co chtějí oni, a to, co chce jejich Mistr, je totéž.
 
 Mistr může žákům říci: „Udělej tohle! Udělej tamto!“ Může to ale říci jen těm duchovním dětem, které mu zcela nabídly své tělo, vitálno, mysl, srdce a duši, a ne těm lidem, kteří se jen přišli podívat, zda je duchovní a zda dokáže vyřešit jejich problémy. Pro ty, kteří ho opravdu přijali, musí Mistr udělat vše. Žáci ale musí vědět, že Mistr je připraven sloužit jim podle toho, jak hluboko do něj vstoupili a nakolik opravdu milují Nejvyššího v něm.
 
@@ -808,7 +803,7 @@ A nakonec je zde čtvrtý přístup. Takzvaní aspiranti často přijmou Mistra 
 
 Někteří lidé se duchovního Mistra ptají, co mají dělat, a když jim to řekne, udělají pravý opak. Jestliže víte, že svého Mistra nedokážete poslechnout, raději se ho neptejte, co máte dělat. Jinak až do vašeho srdce vstoupí upřímnost a vaše aspirace zesílí jako stoupající plamen, budete velice nešťastní, že jste ho neposlechli. Kdybyste se ho bývali neptali, nebyli byste nešťastní, protože byste od začátku až do konce měli dokonalou svobodu dělat svá vlastní rozhodnutí a také je sami uskutečňovat. Když Mistr radí, vyjadřuje Vůli Nejvyššího. Záleží na žákovi, zda ji přijme, či odmítne. Mistr nebude nikdy nespokojen, jestliže ji žák odmítne. Skutečný Mistr je daleko nad žákovým přijetím nebo odmítnutím. Pokud však bude Mistr chtít, může tomuto žákovi říci: „Brzdíš svůj vlastní pokrok. Bůh je ale v tobě a bude stále pochodovat. Pomalu a jistě tě jednoho dne dovede k Cíli.“ Nic víc nemusí Mistr říkat. 
 
-Když Mistr žákovi něco říká, říká to pro jeho vlastní dobro. Žák si bohužel velice často myslí, že pokud Mistr něco říká, má k tomu nějaký motiv. Dokonce i když žák nemá takový pocit, často přijímá Mistrovy názory jen s největší vnitřní neochotou. Co může ubohý Mistr dělat? Když mlčí, žák si myslí, že je k němu lhostejný. Říká si: „Mistr se o mě nezajímá; zajímá se jen o druhé. Mně nic neříká.“ Dokonce i když ve vnitřním světě plakal měsíce a léta pro Mistrovu radu, řekne-li mu Mistr, aby udělal to nebo ono, okamžitě něco namítá. Říká celému světu: „Mistr mě požádal, abych to udělal -- to je důvod, proč to dělám. Sám pro sebe to nechci ani nepotřebuji; dělám to, jen abych Mistra potěšil.“ Ve vnitřním světě budou žáci pro něco plakat a ve vnějším světě budou Mistra obviňovat za to, že jim to dal.
+Když Mistr žákovi něco říká, říká to pro jeho vlastní dobro. Žák si bohužel velice často myslí, že pokud Mistr něco říká, má k tomu nějaký motiv. Dokonce i když žák nemá takový pocit, často přijímá Mistrovy názory jen s největší vnitřní neochotou. Co může ubohý Mistr dělat? Když mlčí, žák si myslí, že je k němu lhostejný. Říká si: „mistr se o mě nezajímá; zajímá se jen o druhé. mně nic neříká.“ dokonce i když ve vnitřním světě plakal měsíce a léta pro mistrovu radu, řekne-li mu mistr, aby udělal to nebo ono, okamžitě něco namítá. Říká celému světu: „Mistr mě požádal, abych to udělal -- to je důvod, proč to dělám. Sám pro sebe to nechci ani nepotřebuji; dělám to, jen abych Mistra potěšil.“ Ve vnitřním světě budou žáci pro něco plakat a ve vnějším světě budou Mistra obviňovat za to, že jim to dal.
 
 Duchovní Mistr se snaží své žáky potěšit na všech úrovních. Někdy se mu to daří, jindy ne. Někdy od nich dostane sto bodů ze sta, jindy dostane nula bodů ze sta. Co nejoddaněji se je snaží potěšit ve fyzickém světě, vitálním světě, mentálním světě, intuitivním světě a ve světě duše. Většina jeho žáků si těchto vnitřních světů nemusí být vědoma, uvědomují si však vnější svět, ve kterém žijí.
 
@@ -824,7 +819,7 @@ Takovíto žáci velmi často nechtějí skutečné zdůvodnění. Chtějí jen 
 
 Pokud Mistr říká něco, čemu mentálně nerozumíte, pak na to meditujte. Pochopíte vnitřní význam Mistrova tvrzení. Budete-li mít námitky nebo budete požadovat náležité mentální odpovědi, uspokojíte tím jen svou mentální zvědavost. Zároveň tím doslova znečistíte čistá srdce těch, kteří si s Mistrem vytvořili nebo chtějí vytvořit svou jednotu. Z nejvyššího duchovního pohledu jestliže Mistr řekne, že je něco černé, jeho žáci budou cítit, že je to černé, i když to bude bílé. Vy teď namítnete, že černá je černá a bílá je bílá. Ale z nejvyššího duchovního pohledu jestliže realizovaný Mistr vidí něco jako černé a vy dokážete vstoupit do jeho vědomí a také to vidět jako černé, v tu chvíli si s ním vytváříte svou vnitřní jednotu. A to je začátek realizace Boha. 
 
-Říkám svým žákům: „Pokud cítíte, že váš způsob vidění pravdy je mocnější nebo skutečnější, tak s vámi mohu souhlasit, abych se vyhnul komplikacím. Řeknu-li: ,Udělej tohle,‘ a vy řeknete: ,Ne, ne, to je špatně,‘ okamžitě s vámi budu souhlasit. Vím, že se nemýlím, ale nechci se hádat. Počkám, až vaše duše vyjde do popředí a nechá vás pocítit, že jsem měl pravdu.“ Někdy mají žáci pocit: „Co o tom Guru ví?“ Nebo: „Co on ví o vnějším životě?“ Dobrá, potom budu zticha. Jednoho dne však jejich duše vyjde do popředí a řekne jim, že jsem měl pravdu, naprostou pravdu. 
+Říkám svým žákům: „pokud cítíte, že váš způsob vidění pravdy je mocnější nebo skutečnější, tak s vámi mohu souhlasit, abych se vyhnul komplikacím. Řeknu-li: ,udělej tohle,‘ a vy řeknete: ,ne, ne, to je špatně,‘ okamžitě s vámi budu souhlasit. vím, že se nemýlím, ale nechci se hádat. počkám, až vaše duše vyjde do popředí a nechá vás pocítit, že jsem měl pravdu.“ někdy mají žáci pocit: „co o tom guru ví?“ nebo: „Co on ví o vnějším životě?“ Dobrá, potom budu zticha. Jednoho dne však jejich duše vyjde do popředí a řekne jim, že jsem měl pravdu, naprostou pravdu. 
 
 V duchovním životě neustále směřujeme k cíli. Když fotbalista míří na branku, někdy to vypadá, že kopne pravou nohou. Pokud však cítí, že u pravé nohy má velmi silného protivníka, okamžitě si míč přehodí na levou nohu a tou dá gól. Protože to vypadalo, že do míče kopne pravou nohou, někdo si teď může říci: „Podívej, nedokázal dát gól pravou nohou, jeho pravá noha nic neumí. Proto použil levou.“ Co je však nakonec důležité, je to, že dal gól. Zda k tomu použil pravou či levou nohu, důležité není. 
 
@@ -850,9 +845,9 @@ Každý aspirant musí složit vnitřní slib, že bude poslouchat Vůli Nejvyš
 * 2. Čisté srdce je nesmrtelné …
 
   :PROPERTIES:
-  :GENRE: aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:32-cs
+  :genre: aphorism:
+  :keywords:
+  :cite-key: msds:32-cs
   :END:
 
 
@@ -871,9 +866,9 @@ a Pláčem Věčnosti.
 * 3. Realizace může být dosaženo …
 
   :PROPERTIES:
-  :GENRE: aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:33-cs
+  :genre: aphorism:
+  :keywords:
+  :cite-key: msds:33-cs
   :END:
 
 Realizace může být dosaženo 
@@ -889,9 +884,9 @@ Hleď, bohatou úrodou je realizace!
 * 4. Tvůj Mistr je posvátný most …
 
   :PROPERTIES:
-  :GENRE: aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:34-cs
+  :genre: aphorism:
+  :keywords:
+  :cite-key: msds:34-cs
   :END:
 
 #+BEGIN_VERSE
@@ -906,9 +901,9 @@ a dosáhnout tvého předurčeného cíle.
 * 5. Plavíš-li se v Mistrově lodi …
 
   :PROPERTIES:
-  :GENRE: aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:35-cs
+  :genre: aphorism:
+  :keywords:
+  :cite-key: msds:35-cs
   :END:
 
 #+BEGIN_VERSE
@@ -923,9 +918,9 @@ Věčnou Píseň Jednoty.
 * 6. Duchovní Mistr je živoucí dynamo …
 
   :PROPERTIES:
-  :GENRE: aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:36-cs
+  :genre: aphorism:
+  :keywords:
+  :cite-key: msds:36-cs
   :END:
 
 #+BEGIN_VERSE
@@ -943,9 +938,9 @@ Svět je jen musí přijmout.
 * 7. Máš spoustu otázek …
 
   :PROPERTIES:
-  :GENRE: aphorism:
-  :KEYWORDS:
-  :CITE-KEY: MSDS:37-cs
+  :genre: aphorism:
+  :keywords:
+  :cite-key: msds:37-cs
   :END:
 
 #+BEGIN_VERSE
@@ -963,18 +958,18 @@ a průvodce tě čeká.
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MSDS:38e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: msds:38e1-cs
   :END:
 
 * Tato rostlina je člověk, tamta rostlina je Bůh
 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MSDS:38-cs
+  :genre: story
+  :keywords:
+  :cite-key: msds:38-cs
   :END:
 
 Byl jednou jeden hledající. Mnoho let hledal Mistra, Gurua. Bohužel žádného nenašel. Navštívil mnoho duchovních skupin, ale učitelé, se kterými se setkal, mu nebyli po chuti. A tak stále hledal a hledal nějakého duchovního Mistra. Jednoho dne šel po ulici a spatřil duchovního Mistra s několika žáky. Seděli na krásném trávníku, někteří žáci právě zalévali.
@@ -983,7 +978,7 @@ Hledající přistoupil k Mistrovi a řekl: „Mistře, všichni tvoji žáci t
 
 Mistr řekl: „Pravda rozhodně není mým výhradním monopolem. Jestliže jsi nějakou pravdu objevil, samozřejmě ji z celého srdce přijmu. Teď mi, prosím tě, řekni, jakou pravdu jsi objevil?“
 
-A tak hledající řekl: „Můj objev je tento: světský člověk nemůže realizovat Boha úplně snadno. Jsem světská lidská bytost a vím, že dokonce i jen získat Mistra je prostě nemožné. Nenašel jsem duchovního učitele, protože mi žádný nevyhovuje. Jak mohu realizovat Boha, což je nekonečně obtížnější? Už jen získat Mistra je pro mě tak těžké, že je prostě nemožné, abych v tomto životě získal realizaci. Souhlasíš se mnou?“
+A tak hledající řekl: „můj objev je tento: světský člověk nemůže realizovat Boha úplně snadno. Jsem světská lidská bytost a vím, že dokonce i jen získat Mistra je prostě nemožné. Nenašel jsem duchovního učitele, protože mi žádný nevyhovuje. Jak mohu realizovat Boha, což je nekonečně obtížnější? Už jen získat Mistra je pro mě tak těžké, že je prostě nemožné, abych v tomto životě získal realizaci. Souhlasíš se mnou?“
 
 Mistr odpověděl: „Bohužel s tebou nesouhlasím. Ostatní si mohou myslet, že máš pravdu, ale rád bych na to řekl, že získat Mistra nebo realizovat Boha není tak těžké.“
 
@@ -995,7 +990,7 @@ Poté Mistr řekl: „Podívej se sem. Tato rostlina je člověk a tamta rostlin
 
 Nový hledající řekl. „Mistře, přeji si být tvým žákem. Prosím, zasvěť mě.“
 
-„Brzy tě zasvětím, mé dítě,“ odpověděl Mistr. Pak pokračoval: „Jestliže si myslíš, že realizovat Boha je téměř nemožné, znamená to, že tvá představa Boha je mylná, tvá představa duchovnosti je mylná. Jsi připoután ke světu. Kdybys byl ale stejně tak připoután k Bohu, viděl bys, že Jej můžeš snadno dosáhnout. Když přijdu k Bohu, zaklepu na dveře. Okamžitě je otevře a přistoupí ke mně. Řeknu: „Prosím, pojď se mnou.“ On jde se svou nekonečnou Láskou, Radostí, Požehnáním a Soucitem. Potom jdu a klepu na tvoje dveře, ale když klepu, ty neotvíráš. Necháváš zavřeno, zamčeno. Bůh a já přirozeně odcházíme. Když tě potom chci vzít do Božího Paláce, říkám ti: „Pojď se mnou.“ Jakmile znovu zaklepu na Boží dveře, Bůh řekne, že jako jsi Mu neotevřel ty, když jsem Jej k tobě dovedl, ani On ti neotevře. Kdybys dveře otevřel, když jsem Boha přivedl jako Hosta, a kdybys Mu dovolil vstoupit, Bůh by ti přirozeně také dovolil vstoupit do svého Paláce. A tak pokud necháš dveře svého srdce otevřené, Bůh bude moci snadno vejít.
+„Brzy tě zasvětím, mé dítě,“ odpověděl Mistr. Pak pokračoval: „jestliže si myslíš, že realizovat boha je téměř nemožné, znamená to, že tvá představa boha je mylná, tvá představa duchovnosti je mylná. jsi připoután ke světu. kdybys byl ale stejně tak připoután k bohu, viděl bys, že jej můžeš snadno dosáhnout. když přijdu k bohu, zaklepu na dveře. okamžitě je otevře a přistoupí ke mně. Řeknu: „prosím, pojď se mnou.“ on jde se svou nekonečnou láskou, radostí, požehnáním a soucitem. potom jdu a klepu na tvoje dveře, ale když klepu, ty neotvíráš. necháváš zavřeno, zamčeno. bůh a já přirozeně odcházíme. když tě potom chci vzít do božího paláce, říkám ti: „Pojď se mnou.“ Jakmile znovu zaklepu na Boží dveře, Bůh řekne, že jako jsi Mu neotevřel ty, když jsem Jej k tobě dovedl, ani On ti neotevře. Kdybys dveře otevřel, když jsem Boha přivedl jako Hosta, a kdybys Mu dovolil vstoupit, Bůh by ti přirozeně také dovolil vstoupit do svého Paláce. A tak pokud necháš dveře svého srdce otevřené, Bůh bude moci snadno vejít.
 
 Když se k tobě ale přiblížím, jsi okamžitě zneklidněn. Myslíš si, že máš strach, máš pochybnost, máš emocionální problémy, máš vitální problémy, jsi žárlivý a tak dále. Nechceš být odhalen; chceš se skrývat. Tato rostlina-člověk, kterou jsem přesadil, ale neprojevila při mém dotyku žádný strach, žádnou pochybnost, žádnou nedůvěru -- naprosto nic. Vůbec se nebála své vlastní nevědomosti. Byla rozechvělá, že ji někdo přenáší na jiné místo, kterým je Bůh. A tak když se vás dotýkám, když vám duchovní Mistr žehná nebo na vás medituje -- jestliže mu v takovou chvíli nabídnete spolu se svými oddanými vlastnostmi také svou nevědomost a své nedokonalosti, bude pro něj nesmírně snadné dovést vás úplně k Bohu. Pokud to neuděláte, je pro Mistra téměř nemožné přeměnit, nebo dokonce jen pročistit vědomí žáků. Je to jen výměna dvou rostlin. To je to, co Mistr dělá, když jedná se svými duchovními dětmi. Jedna rostlina je Bůh, druhá rostlina je člověk.“ Poté Mistr pomalu odešel.
 
@@ -1004,15 +999,15 @@ Když se k tobě ale přiblížím, jsi okamžitě zneklidněn. Myslíš si, ž
 * Mistrova rada při výběru duchovní cesty
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MSDS:39-cs
+  :genre: story
+  :keywords:
+  :cite-key: msds:39-cs
   :END:
 
 
 Byl jednou jeden duchovní Mistr, který chtěl každému svému duchovnímu dítěti věnovat zvláštní pozornost, zájem, požehnání a vedení, i když měl stovky a stovky žáků. Týdně pořádal mnoho setkání, někdy i dvě v jednom dni, tak aby každé mohlo zůstat malé a důvěrné bez ohledu na to, kolik nových hledajících vítal do své duchovní rodiny.
 
-Jeden nebo dva dny v týdnu Mistr dovolil, aby na setkání přicházeli hosté. Poté se někteří z nich rozhodli následovat jeho cestu. Jednoho dne přišli po takovém setkání za Mistrem čtyři hosté: tři chlapci a jedna dívka. Jeden z chlapců se Mistrovi uklonil a řekl: „Mistře, přijmeš mě za svého žáka? Minulý měsíc jsem přicházel každý týden a konečně jsem se rozhodl, že toto je moje cesta.“ 
+Jeden nebo dva dny v týdnu Mistr dovolil, aby na setkání přicházeli hosté. Poté se někteří z nich rozhodli následovat jeho cestu. Jednoho dne přišli po takovém setkání za Mistrem čtyři hosté: tři chlapci a jedna dívka. jeden z chlapců se mistrovi uklonil a řekl: „Mistře, přijmeš mě za svého žáka? Minulý měsíc jsem přicházel každý týden a konečně jsem se rozhodl, že toto je moje cesta.“ 
 
 Mistr se hledajícího zeptal na jeho jméno a na několik věcí o jeho vnějším životě a pak se v tichosti soustředil na jeho duši. Nakonec řekl: „Zajisté, přijmu tě za svého žáka. Přijímám tě z celého svého srdce. Prosím, přicházej na naše setkání pravidelně a oddaně. Jasně vidím, že toto je tvoje cesta.“
 
@@ -1042,7 +1037,7 @@ Třetí hledající řekl: „Mistře, budu se řídit tvou radou a jsem si jist
 
 Poslední návštěvník, dívka, teď řekla Mistrovi: „Ačkoliv medituji a žiji vnitřním životem již mnoho let, tohle je poprvé, kdy se snažím najít nějakého Mistra. Cítím se k tobě silně přitahována, není ale příliš brzy, abych se rozhodla?“
 
-Mistr řekl: „Má dcero, vejdi do svého srdce a své duše a pokud ucítíš, že tohle je cesta pro tebe, pak bys sem určitě měla chodit. Jestliže ucítíš, že toto není tvoje cesta, potom jdi jinam. Tohle je ale má prosba k tobě a ke každému, kdo nemá duchovního Mistra: najdi si svého Mistra, jak nejrychleji to jen půjde. Právě proto, že jsi upřímná, tě žádám, abys neotálela. Můžeš říci, že musíš počkat na Hodinu Boha, ale já říkám, že ta hodina již udeřila. Proto jsi sem přišla a proto zamýšlíš jít také jinam. Někteří lidé jsou věčně nespokojení. I když už v prvním obchodě vidí věc, která se jim líbí, myslí si, že jinde možná seženou něco lepšího. Obejdou dalších dvacet obchodů a doufají, že takovou věc najdou. Dívají se a dívají a nakonec většinou skončí zpátky v prvním obchodě. 
+Mistr řekl: „má dcero, vejdi do svého srdce a své duše a pokud ucítíš, že tohle je cesta pro tebe, pak bys sem určitě měla chodit. jestliže ucítíš, že toto není tvoje cesta, potom jdi jinam. tohle je ale má prosba k tobě a ke každému, kdo nemá duchovního mistra: najdi si svého Mistra, jak nejrychleji to jen půjde. Právě proto, že jsi upřímná, tě žádám, abys neotálela. Můžeš říci, že musíš počkat na Hodinu Boha, ale já říkám, že ta hodina již udeřila. Proto jsi sem přišla a proto zamýšlíš jít také jinam. Někteří lidé jsou věčně nespokojení. I když už v prvním obchodě vidí věc, která se jim líbí, myslí si, že jinde možná seženou něco lepšího. Obejdou dalších dvacet obchodů a doufají, že takovou věc najdou. Dívají se a dívají a nakonec většinou skončí zpátky v prvním obchodě. 
 
 Pokud jsou však lidé moudří a skutečně hladoví, pak když hned v prvním obchodě najdou ovoce, které je nasytí, sní ho tam a nebudou se namáhat chozením po dalších obchodech. Samozřejmě -- pokud se jim jídlo, které tam nabízejí, nebude líbit, mají plné právo jít jinam. Někteří lidé ale používají to, čemu říkají lidská moudrost, která nemá z duchovního hlediska žádný význam. Jejich samotnou přirozeností je říci: ,Pojďme a prohlédněme si i další věci.‘ Potíž je ale v tom, že čas je velmi vzácný. Zatímco obcházím mnoho obchodů a všechno si prohlížím, zatímco plýtvám svým časem, někdo může přijít a koupit ovoce, které jsem původně chtěl. Obchod také nemá otevřeno dvacet čtyři hodin denně. Budu-li se v obchodě dlouho rozhlížet, aniž bych si koupil, co potřebuji, majitel se může rozhodnout, že je čas zavřít, a požádat mě, abych se šel dívat někam jinam. V tu chvíli jsem to já, kdo zůstane neuspokojený a nenaplněný.
 
@@ -1059,9 +1054,9 @@ Hledající se uklonila a řekla: „Mistře, nepromarním ani vteřinu. Půjdu 
 * Chci jen jednoho studenta: srdce
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MSDS:40-cs
+  :genre: story
+  :keywords:
+  :cite-key: msds:40-cs
   :END:
 
 
@@ -1094,9 +1089,9 @@ Uši a oči sehrály svou úlohu. Ukázaly se být nebožskými studenty a já j
 * Lidské očekávání a božské naplnění
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MSDS:41-cs
+  :genre: story
+  :keywords:
+  :cite-key: msds:41-cs
   :END:
 
 
@@ -1140,9 +1135,9 @@ Očekáváme-li od Boha božským způsobem, vynoří se uvnitř nás Skutečnos
 * Kdo je důležitější -- Guru, nebo Bůh?
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MSDS:42-cs
+  :genre: story
+  :keywords:
+  :cite-key: msds:42-cs
   :END:
 
 
@@ -1157,7 +1152,7 @@ První odpověděl: „Mistře, jablkem sváru jsi ty a nikdo jiný.“
 
 „Prosím?“ zeptal se Mistr.
 
-Žák pokračoval: „On říká, že Mistr, Guru, je důležitější než Bůh. Já říkám: nemožné, Bůh je důležitější. On říká, že Guru je důležitější, protože ukazuje cestu, dláždí cestu a bere žáka k Bohu. Říká také, že i když se Bůh stará o všechny, i o ty, co spí a neaspirují, chce-li člověk od Boha okamžitý zájem a požehnání, může je dostat prostřednictvím Gurua. Proto je Guru důležitější.
+Žák pokračoval: „on říká, že mistr, guru, je důležitější než bůh. já říkám: nemožné, Bůh je důležitější. On říká, že Guru je důležitější, protože ukazuje cestu, dláždí cestu a bere žáka k Bohu. Říká také, že i když se Bůh stará o všechny, i o ty, co spí a neaspirují, chce-li člověk od Boha okamžitý zájem a požehnání, může je dostat prostřednictvím Gurua. Proto je Guru důležitější.
 
 Já ale říkám ne, je to Bůh, kdo dal Guruovi takovou lásku a soucit; je to Bůh, kdo z Gurua udělal nástroj, aby pomáhal lidstvu. A tak je pro mě Bůh důležitější.
 
@@ -1184,9 +1179,9 @@ Bůh a Guru jsou ve Věčné Hře, Božském Dramatu, stejně důležití.“
 * Každý se musí řídit svou přirozeností
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MSDS:43-cs
+  :genre: play
+  :keywords:
+  :cite-key: msds:43-cs
   :END:
 
 
@@ -1246,7 +1241,7 @@ MISTR: Mám mnoho, mnoho žáků.
 
 ŽÁK: Co s nimi děláš?
 
-MISTR: Dávám a beru, beru a dávám. Každý den beru jejich jed a dávám jim nektar. Beru jejich aspiraci a dávám jim realizaci. Beru od nich to, co mají, nevědomost, a dávám jim to, co mám, moudrost. Oni mi dávají ujištění mého projevení a já jim dávám ujištění jejich realizace. Potřebujeme se navzájem. Vy potřebujete mě, abyste do mě mohli vlít svou nečistotu, nedokonalost, temnotu a nevědomost. A já potřebuji vás, abych vás mohl naplnit vším, co mám, vším, co je ve mně. Takto se navzájem naplňujeme. Vaší přirozeností je dát mi to, co máte: nečistotu, temnotu, nedokonalost, omezení, spoutání a smrt. Mou přirozeností je dát vám, co mám já: čistotu, lásku, radost, světlo, blaženost a dokonalost. Když vaše přirozenost vstoupí do mé přirozenosti a má přirozenost vstoupí do vaší přirozenosti, budeme oba zcela projeveni a zcela naplněni. Takto hledající a učitel naplňují Věčného Kormidelníka, Nejvyššího.
+MISTR: dávám a beru, beru a dávám. každý den beru jejich jed a dávám jim nektar. beru jejich aspiraci a dávám jim realizaci. beru od nich to, co mají, nevědomost, a dávám jim to, co mám, moudrost. oni mi dávají ujištění mého projevení a já jim dávám ujištění jejich realizace. potřebujeme se navzájem. vy potřebujete mě, abyste do mě mohli vlít svou nečistotu, nedokonalost, temnotu a nevědomost. a já potřebuji vás, abych vás mohl naplnit vším, co mám, vším, co je ve mně. takto se navzájem naplňujeme. vaší přirozeností je dát mi to, co máte: nečistotu, temnotu, nedokonalost, omezení, spoutání a smrt. mou přirozeností je dát vám, co mám já: čistotu, lásku, radost, světlo, blaženost a dokonalost. Když vaše přirozenost vstoupí do mé přirozenosti a má přirozenost vstoupí do vaší přirozenosti, budeme oba zcela projeveni a zcela naplněni. Takto hledající a učitel naplňují Věčného Kormidelníka, Nejvyššího.
 
 
 
@@ -1271,21 +1266,21 @@ PRVNÍ ŽÁK: Ty mu věříš? Tak si mu věř. Zůstaň s ním a trp. Zemři s
 
 DRUHÝ ŽÁK: Zemřu s ním. Nejenže zemřu s ním, ale zemřu pro něj.
 
-PRVNÍ ŽÁK: Bůh stvořil na zemi dva typy lidí: jedni podvádí, druzí jsou podváděni. Jedni jsou darebáci, druzí jsou využíváni. 
+PRVNÍ ŽÁK: bůh stvořil na zemi dva typy lidí: jedni podvádí, druzí jsou podváděni. Jedni jsou darebáci, druzí jsou využíváni. 
 
 (Vstupuje Mistr. První žák se snaží zmizet. Druhý žák se dotýká Mistrových nohou.)
 
-MISTR (k prvnímu žákovi): Ty tedy víš, že nemám žádnou schopnost, že se jen vychloubám. Nejsem pro tebe tím pravým Mistrem. Uděláš nejlépe, když půjdeš k nějakému jinému Mistrovi nebo počkáš, až ten správný Mistr přijde k tobě. Odejdi ode mne. Jdi domů a žij pokojně. (K druhému žákovi): Ty mi věříš. Je mou povinností ti pomáhat, vést tě. Teď mi řekni, opravdu cítíš, že do svého těla beru tvou nevědomost a tvou nedokonalost? Nebo to říkáš jen proto, že jsi studoval mou filozofii a knihy, které napsali jiní? Četl jsi o Rámakrišnovi, který odebíral nečistotu, nedokonalost a nevědomost svých žáků a tolik trpěl. Mnoho, mnoho duchovních Mistrů říkalo, že dělají totéž. Myslíš si, že to říkám jen proto, že to říkalo tolik jiných? Myslíš si, že jen mluvím, nebo si myslíš, že tyto věci skutečně odebírám?
+MISTR (k prvnímu žákovi): ty tedy víš, že nemám žádnou schopnost, že se jen vychloubám. nejsem pro tebe tím pravým mistrem. uděláš nejlépe, když půjdeš k nějakému jinému mistrovi nebo počkáš, až ten správný mistr přijde k tobě. odejdi ode mne. jdi domů a žij pokojně. (k druhému žákovi): Ty mi věříš. Je mou povinností ti pomáhat, vést tě. Teď mi řekni, opravdu cítíš, že do svého těla beru tvou nevědomost a tvou nedokonalost? Nebo to říkáš jen proto, že jsi studoval mou filozofii a knihy, které napsali jiní? Četl jsi o Rámakrišnovi, který odebíral nečistotu, nedokonalost a nevědomost svých žáků a tolik trpěl. Mnoho, mnoho duchovních Mistrů říkalo, že dělají totéž. Myslíš si, že to říkám jen proto, že to říkalo tolik jiných? Myslíš si, že jen mluvím, nebo si myslíš, že tyto věci skutečně odebírám?
 
 DRUHÝ ŽÁK: Mistře, vím, co mi odebíráš. Každý den mi bereš neupřímnost, temnotu, nečistotu, žárlivost, pochybnost, nejistotu a mnoho dalších nedokonalostí. Kam se podějí? Dávám ti je; přichází k tobě. Není-li na zemi nikdo jiný, kdo by tomu věřil, mně to nevadí. I když mi řekneš, že je neodebíráš, že je to tvá vlastní karma, nebudu ti věřit. Vím, že ti Bůh dává tuto zkušenost kvůli mně. Kdybych touto zkušeností prošel já, možná bych zemřel.
 
 MISTR: Mé dítě, jsou dva důvody, proč trpím. Jedním důvodem je, že na sebe beru břímě, nedokonalosti a nebožské kvality svých blízkých žáků. To je to, co Nejvyšší chce, abych dělal. Existují dva způsoby, jak odebírat tuto karmu. Jedním způsobem je vzít ji na sebe a trpět, druhým způsobem je vhodit nedokonalosti žáků do Vesmírného Vědomí. Avšak jednodušší způsob, nekonečně jednodušší, je vzít ji na sebe. Je to přímý způsob. Vy trpíte, já se vás přímo dotknu a vaše utrpení odeberu. Ten druhý způsob je jako odvést vás na jiné místo, do Univerzálního Vědomí. Na Vesmírné Vědomí se můžeme dívat jako na hromadu odpadků. Odeberu vaše nečistoty a nedokonalosti a udělám z nich uzlíček. Ten potom musím odnést a zahodit. Při prvním způsobu se vás jen dotknu a jako magnet odeberu vaše utrpení, vaše bolesti, vaše nebožské kvality. To je snazší, a proto to tak dělám. Bůh chce, abych to tak dělal.
 
-Říkám Bohu: „Bože, mé děti mě tolik milují, a já je nemiluji, netěším je.“ Bůh mi poté říká: „Podívej, jak kvůli nim trpíš. Podívej se na svou lásku, Můj synu, jak upřímně, jak oddaně je miluješ. Cítíš, že v dokonalosti tvých dětí je tvá dokonalost, což je naprostá pravda. Ony tě milují, protože cítí, že když tě budou vlastnit, budou vlastnit všechno. Milují tě, aby tě dostaly; ty je miluješ, abys je mohl dovést ke Mně. Miluješ je, protože cítíš, že jakmile je ke Mně dokážeš přivést, sehraješ svou úlohu. Ony cítí, že když tě milují samy pro sebe, sehrály svou úlohu. A když je miluješ ty, když je přivádíš ke Mně, k tomu Nejvyššímu v sobě, v tu chvíli cítíš, že jsi sehrál svoji roli.“
+Říkám Bohu: „bože, mé děti mě tolik milují, a já je nemiluji, netěším je.“ bůh mi poté říká: „Podívej, jak kvůli nim trpíš. Podívej se na svou lásku, Můj synu, jak upřímně, jak oddaně je miluješ. Cítíš, že v dokonalosti tvých dětí je tvá dokonalost, což je naprostá pravda. Ony tě milují, protože cítí, že když tě budou vlastnit, budou vlastnit všechno. Milují tě, aby tě dostaly; ty je miluješ, abys je mohl dovést ke Mně. Miluješ je, protože cítíš, že jakmile je ke Mně dokážeš přivést, sehraješ svou úlohu. Ony cítí, že když tě milují samy pro sebe, sehrály svou úlohu. A když je miluješ ty, když je přivádíš ke Mně, k tomu Nejvyššímu v sobě, v tu chvíli cítíš, že jsi sehrál svoji roli.“
 
 Bůh mi dal také další důvod, proč trpět. Mnoho lidí ke mně přichází jen s touhou, touhou, touhou. Přichází ke mně, jen abych splnil jejich touhy. Když ale vidí, že jsem ochromen bolestí, že i já trpím a jsem nemocný, že jsem stejně slabý jako oni, říkají: „Je to invalida, je bezmocný. Jak by nám mohl pomoci? V čem je lepší než my?“ Cítí, že nejlepší bude, když půjdou k někomu jinému, kdo jim dokáže pomoci, a mnoho z nich odejde. Pravdou ale je, že Bůh chce, aby mě tito lidé opustili. Když odejdou, má loď bude lehčí a bude moci jet k Cíli mnohem rychleji. Bůh chce, aby neaspirující lidé opustili svého Mistra, aby jeho loď byla lehčí.
 
-To jsou tedy důvody, proč trpím. Když upřímný žák vidí, že kvůli němu trpím, řekne si: „Pokud svého Mistra skutečně miluji, měl bych mu dávat jen radost.“ A tak složí slib, vnitřní slib: „Chci, aby na mě byl neustále pyšný. Nic mi nedá větší radost než vidět, že můj Mistr je na mě neustále pyšný.“ A tak už žák nedělá další chyby a Mistr je šťastný a pyšný. 
+To jsou tedy důvody, proč trpím. Když upřímný žák vidí, že kvůli němu trpím, řekne si: „pokud svého mistra skutečně miluji, měl bych mu dávat jen radost.“ a tak složí slib, vnitřní slib: „Chci, aby na mě byl neustále pyšný. Nic mi nedá větší radost než vidět, že můj Mistr je na mě neustále pyšný.“ A tak už žák nedělá další chyby a Mistr je šťastný a pyšný. 
 
 (První žák se dotkne Mistrových nohou.)
 
@@ -1303,17 +1298,17 @@ MISTR (k prvnímu žákovi): Tím, že jsi rozpoznal svou hloupost, svou nevědo
 * Naše cesta
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MSDS:44e1-cs
+  :genre: section
+  :cite-key: msds:44e1-cs
   :END:
 
 
 * Naše cesta
 
   :PROPERTIES:
-  :GENRE: 
-  :KEYWORDS:
-  :CITE-KEY: MSDS:44-cs
+  :genre: 
+  :keywords:
+  :cite-key: msds:44-cs
   :END:
 
 
@@ -1349,19 +1344,6 @@ K čemu se musíte zavázat, abyste mohli následovat naši cestu? Není to zá
 
 Naše cesta, cesta srdce, je také cestou přijetí. Musíme přijmout svět. Jestliže se uchýlíme do himalájské jeskyně nebo se posadíme na vrchol hory a budeme plakat pro své vlastní osobní dosažení či uspokojení, neuděláme nic pro svět. Bude to asi takto: najím se, co hrdlo ráčí, a své bratry nechám nenasycené a hladové. To není správné. Jsem-li skutečná lidská bytost, musím se postarat o to, aby se mí bratři najedli se mnou. Skutečného uspokojení se nám dostane, jen když budeme jíst společně. 
 
-V duchovním životě je to podobné: praví duchovní Mistři cítí, že je jejich povinností jíst před lidstvem a duchovní potravu s ním sdílet. Samozřejmě, co může duchovní Mistr dělat, když lidstvo jako celek nechce jíst tak, jak by mělo, když mnozí lidé stále ještě spí a nepocítili duchovní hlad? Existuje-li však několik upřímně hladových hledajících, duchovní Mistr jim říká: „Jídlo je připraveno. Pojďme se společně najíst.“ 
+V duchovním životě je to podobné: praví duchovní mistři cítí, že je jejich povinností jíst před lidstvem a duchovní potravu s ním sdílet. samozřejmě, co může duchovní mistr dělat, když lidstvo jako celek nechce jíst tak, jak by mělo, když mnozí lidé stále ještě spí a nepocítili duchovní hlad? existuje-li však několik upřímně hladových hledajících, duchovní mistr jim říká: „Jídlo je připraveno. Pojďme se společně najíst.“ 
 
 Na naší cestě přijetí si musíme uvědomit, že země má k dokonalosti dosud daleko. Dokud ale pozemské vědomí nepřijmeme, jak ho dokážeme zdokonalit? Když někoho něco bolí, musím mu to místo namasírovat. Jen tehdy bolest odejde. A podobně: je-li země v určitém místě nedokonalá, musím se jí dotknout svou aspirací a zájmem. Jen tehdy ji dokážu přeměnit. Dokud nebude pozemské vědomí plně realizováno, budu se snažit zůstat na zemi, abych mohl lidstvu sloužit svým vnitřním vědomím.
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

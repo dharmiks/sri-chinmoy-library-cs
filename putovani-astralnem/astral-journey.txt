@@ -1,20 +1,15 @@
-#+TITLE: Putování astrálnem
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Putování astrálnem
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 1994
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: AJ-cs
-  :GENRE: story
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 1994
+  :publisher: Madal Bal
+  :cite-key: AJ-cs
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Putování astrálnem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:1-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:1-cs
   :END:
 
 
@@ -44,7 +39,7 @@
 
    Ke svému velkému překvapení obdržel soudce o osm hodin později telegram z Londýna. Telegram obsahoval nejšťastnější zprávu o narození dítěte. A čas přesně souhlasil s dobou mnichova zjevení.
 
-   O šest měsíců později mnich znovu přišel ke dvoru. Tentokrát soudci řekl: ´Chci vidět tvou ženu´. Soudce byl mnichovým příchodem nesmírně potěšen, a tak jej doprovodil ke své manželce. Ta řekla: ´Ó, už jsem tohoto muže viděla dříve. Přišel za mnou do nemocnice.´
+   O šest měsíců později mnich znovu přišel ke dvoru. Tentokrát soudci řekl: ´chci vidět tvou ženu´. soudce byl mnichovým příchodem nesmírně potěšen, a tak jej doprovodil ke své manželce. ta řekla: ´Ó, už jsem tohoto muže viděla dříve. Přišel za mnou do nemocnice.´
 
    Otec řekl svému synkovi, že to bylo jemnohmotné tělo budhistického mnicha, které odešlo do nemocnice v Londýně, zatímco mnich sám zůstal v Indii. Bohužel, synek tomuto příběhu neuvěřil. Když naslouchal vyprávění svého otce, pomyslel si, že snad mnich nějakým způsobem odněkud dostal telegram. Bránil se spoustou pošetilých argumentů.
 
@@ -52,7 +47,7 @@
 
    Učitel odvětil: ´Těší mne tvá útěcha.´
     
-   ´Během několika hodin,´ řekl mladík, ´ti budu schopen říci všechny podrobnosti o té operaci. Dokonce i nyní bych ti mohl sdělit několik údajů, ale bohužel, astrální kanál nefunguje dobře.´ Mladík měl na mysli, že astrální cestování je značně závislé na silách v éteru. Někdy je dokonce i pro zkušené okultisty obtížné cestovat skrze éter. Ten den bylo ve vnitřním světě velice špatné počasí. Když učitel uslyšel tato slova od svého mladého přítele, smál se a smál. Mladík si řekl sám pro sebe: ´I přestože mi nevěří, chci svého učitele utěšit. Byl ke mně tak laskavý.´ Tento rozhovor se odehrál asi v deset hodin ráno. V jednu hodinu se mladík vrátil do domu svého učitele a řekl: ´Operace dopadla neobyčejně dobře; byla stoprocentně úspěšná. Nedělej si prosím vůbec žádné starosti.´
+   ´Během několika hodin,´ řekl mladík, ´ti budu schopen říci všechny podrobnosti o té operaci. Dokonce i nyní bych ti mohl sdělit několik údajů, ale bohužel, astrální kanál nefunguje dobře.´ Mladík měl na mysli, že astrální cestování je značně závislé na silách v éteru. Někdy je dokonce i pro zkušené okultisty obtížné cestovat skrze éter. Ten den bylo ve vnitřním světě velice špatné počasí. Když učitel uslyšel tato slova od svého mladého přítele, smál se a smál. Mladík si řekl sám pro sebe: ´i přestože mi nevěří, chci svého učitele utěšit. byl ke mně tak laskavý.´ tento rozhovor se odehrál asi v deset hodin ráno. v jednu hodinu se mladík vrátil do domu svého učitele a řekl: ´Operace dopadla neobyčejně dobře; byla stoprocentně úspěšná. Nedělej si prosím vůbec žádné starosti.´
 
    Učitelova žena byla náhodou v Bombaji se svou sestrou. Mladíka do té doby viděla už mnohokrát. Zatímco žena byla mimo operační pokoj, viděla živě tohoto mladého muže, přestože byl se svým učitelem vzdálen více než tisíc mil. Její sestra, která byla operována, byla uspána chloroformem po obvyklém indickém způsobu. Ale přesto také ona viděla mladíka třikrát nebo čtyřikrát během operace. Když vše skončilo, řekla: ´Viděla jsem zde mladého muže, ale zapomněla jsem jeho jméno. Je to přítel tvého manžela. Co tady dělal? Až budeš psát svému muži, zeptej se ho na to prosím.´ 
 
@@ -70,9 +65,9 @@
 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:2-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:2-cs
   :END:
 
 
@@ -107,9 +102,9 @@
 * Kočičí přání
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:3-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:3-cs
   :END:
 
 
@@ -123,7 +118,7 @@
 
    Asi v osm hodin, když nastal čas přednášky, vstoupil Mistr do druhého pokoje, kde lidé čekali na jeho proslov. Ale potíže s kočkou nepřestaly. Všude Mistra následovala, přestože se ji snažil ze všech sil odehnat. Toho dne Mistr zapomněl celý svůj proslov. Všichni si mysleli, že se tak stalo kvůli kočce a že jinak by měl Mistr skvělou řeč, což byla pravda. 
 
-   Deset minut jej kočka obtěžovala, až nakonec Mistr řekl: ´Dobrá, podívám se na ni.´ Díval se na ni a díval. Potom kočce nahlas řekl: ´Ano, vím co máš na srdci, ale nemohu ti odpovědět hned teď. Zítra ráno asi ve tři hodiny se zeptám Boha, zdali ti dá lidskou inkarnaci. Pokud pro tebe není možné lidské vtělení, přinejmenším psí inkarnace ti může být dána; tolik ti můžu s jistotou říci hned teď. Psí inkarnace je možná. A teď mě prosím už nech. Jestliže mi nedáš pokoj, pak ve tři hodiny nebudu brát zřetel na tvůj případ.´ 
+   Deset minut jej kočka obtěžovala, až nakonec Mistr řekl: ´dobrá, podívám se na ni.´ díval se na ni a díval. potom kočce nahlas řekl: ´Ano, vím co máš na srdci, ale nemohu ti odpovědět hned teď. Zítra ráno asi ve tři hodiny se zeptám Boha, zdali ti dá lidskou inkarnaci. Pokud pro tebe není možné lidské vtělení, přinejmenším psí inkarnace ti může být dána; tolik ti můžu s jistotou říci hned teď. Psí inkarnace je možná. A teď mě prosím už nech. Jestliže mi nedáš pokoj, pak ve tři hodiny nebudu brát zřetel na tvůj případ.´ 
 
    Toto vše vyslovil anglicky, vůbec ne v nějakém kočičím jazyce a v přítomnosti více než dvaceti hledajících. Toho času neměl Mistr ani jednoho žáka. Lidé si říkali sami pro sebe: ´Pěkně vymyšlená historka, jen co je pravda´, ale kočka byla dostatečně moudrá, aby hned odešla. 
 
@@ -139,9 +134,9 @@
 * Od zvířete k člověku
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:4-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:4-cs
   :END:
 
    "Mistře," řekl jeden žák, "viděl nebo poznal jsi vůbec někdy ve své minulé inkarnaci, nebo dokonce i v tomto vtělení, nějaké zvíře, abys ho po několika letech spatřil znova jako lidskou bytost?"
@@ -183,9 +178,9 @@
 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:5-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:5-cs
   :END:
 
 
@@ -231,9 +226,9 @@
 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:6-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:6-cs
   :END:
 
 
@@ -259,9 +254,9 @@
 * Božské poslání ochraňovalo
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:7-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:7-cs
   :END:
 
 
@@ -293,7 +288,7 @@
    
    Šel asi půl hodiny, až přišel ke břehu malé říčky, kde se posadil na větev mangovníku. Větev byla nakloněná přes vodu, takže si vsedě mohl umýt nohy. Celou tu dobu mluvil se svým vlastním duchovním Mistrem, tak jako ještě nikdy předtím. Měli spolu nádherný rozhovor.
     
-   V té chvíli se oba soustředili na přítelovu sestru. Dělala si veliké starosti, a tak jí Mistr otevřel její třetí oko. A víte co se stalo? Slyšela zřetelně jejich rozhovor a dokonce viděla vše, co se událo. O čtyři hodiny později, když se přítel vrátil domů, sestra mu řekla: ´Posaď se. Řeknu ti příběh.´ Můj přítel se posadil na židli a sestra začala: ´Byl jsi na břehu malé říčky a mluvil jsi s naším Mistrem. Viděla jsem vás tam oba.´
+   V té chvíli se oba soustředili na přítelovu sestru. Dělala si veliké starosti, a tak jí Mistr otevřel její třetí oko. A víte co se stalo? Slyšela zřetelně jejich rozhovor a dokonce viděla vše, co se událo. O čtyři hodiny později, když se přítel vrátil domů, sestra mu řekla: ´posaď se. Řeknu ti příběh.´ můj přítel se posadil na židli a sestra začala: ´Byl jsi na břehu malé říčky a mluvil jsi s naším Mistrem. Viděla jsem vás tam oba.´
    
    Na závěr svého úžasného příběhu mi můj přítel řekl: ´Drahý příteli, v mých předešlých inkarnacích jsem měl doslova stovky okultních zážitků. V tomto vtělení už nejsem více dítětem, které se raduje ze svých hraček. Mám pro Boha v této inkarnaci vykonat něco nanejvýš významného.´
    
@@ -304,9 +299,9 @@
 
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:8-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:8-cs
   :END:
 
 
@@ -314,13 +309,13 @@
 
    "Ale Mistře," otázal se jeden žák, "jak je možné, že jsme tě nikdy neviděli předvádět takové zázraky?"
 
-   Mistr odpověděl: "Dokonce i skuteční Mistři čas od času používají okultní síly, aniž by o to byli žádáni Bohem. Je zbytečné říkat, že se později cítí bídně. Dávají potom přísahu, že budou používat okultních sil, jen když si to bude přát Bůh k naplnění svého úmyslu. Dále jsou zde dva významné důvody, proč Mistři nepoužívají okultních sil. První důvod je ten, že se nesmí snažit porušit Boží kosmické zákony. Druhým důvodem je, věřte tomu nebo ne, že když vidí, že jejich děti nemohou používat okultních sil, oni sami je neradi používají. Když rodiče něco dělají a děti řeknou: ´Ó, to my nedokážeme udělat,´ je tam bolest. Rodiče nemají žádnou radost, když děti nemohou dělat něco, co dělají oni sami. A tak to rodiče nedělají otevřeně.
+   Mistr odpověděl: "dokonce i skuteční mistři čas od času používají okultní síly, aniž by o to byli žádáni bohem. je zbytečné říkat, že se později cítí bídně. dávají potom přísahu, že budou používat okultních sil, jen když si to bude přát bůh k naplnění svého úmyslu. dále jsou zde dva významné důvody, proč mistři nepoužívají okultních sil. první důvod je ten, že se nesmí snažit porušit boží kosmické zákony. druhým důvodem je, věřte tomu nebo ne, že když vidí, že jejich děti nemohou používat okultních sil, oni sami je neradi používají. když rodiče něco dělají a děti řeknou: ´Ó, to my nedokážeme udělat,´ je tam bolest. Rodiče nemají žádnou radost, když děti nemohou dělat něco, co dělají oni sami. A tak to rodiče nedělají otevřeně.
     
    Ale je na vnitřní úrovni vůbec den, kdy by duchovní Mistr neprováděl okultní činy? Co se mne týká, dělám jich někdy dvacet nebo třicet nebo i více během dnů, kdy jsem úplně sám. Někdy dlouhé hodiny sedím, protože toho mám tolik na práci. Z vnějšího pohledu nedělám naprosto nic, ale v nitru dělám všechno. Pro koho? Pro vás, mé duchovní děti.
     
    Předvedl jsem svou okultní moc některým žákům, a vykonal jsem věci, které fyzická síla jednoduše nemůže vykonat. To dokáží pouze duchovní síly. Jednou se několik mladých žáků snažilo ze všech sil cosi otevřít. S fyzickou silou už byli úplně v koncích. Jen jsem s tím před nimi třikrát zašrouboval a bylo to otevřené. To mi připomíná jeden zážitek Mistra, kterého jsem znal v mé poslední inkarnaci.
     
-   Jednoho dne tento Mistr požádal čtyři ze svých nejsilnějších žáků, aby zvedli sochu a přenesli ji na nějaké jiné místo. Nemohli ji unést. Vlastními silami ji nemohli uzvednout. Tak jim Mistr řekl, že by jim rád předvedl svou fyzickou sílu. Hrál si s nimi, dělal si z nich šašky. Fyzicky byl tak hubený, že nedokázal uzvednout dokonce ani dvacet či třicet kilogramů. Kdyby měl uzvednout třicet kilo, určitě by ho to zabilo. A Bůh ví, kolik stovek kilo ta socha vážila. Ale on řekl svým žákům: ´Podívejte, používám svou fyzickou sílu.´ Potom popadl sochu a roztomile řekl: ´A nyní mé drahé děti, když nepůjdete se svým otcem, s kým tedy půjdete?´ Nadzvedl sochu a  přenesl ji o dvacet metrů dál. Kdybyste ho požádali, aby zvedl dvacet kilo, nedokázal by to udělat, ale v tomto případě přemístil celou sochu sám s pomocí své okultní síly. Poté laškovně řekl svým žákům: ´Podívejte, jakou mám fyzickou sílu!´
+   Jednoho dne tento Mistr požádal čtyři ze svých nejsilnějších žáků, aby zvedli sochu a přenesli ji na nějaké jiné místo. Nemohli ji unést. Vlastními silami ji nemohli uzvednout. Tak jim Mistr řekl, že by jim rád předvedl svou fyzickou sílu. Hrál si s nimi, dělal si z nich šašky. Fyzicky byl tak hubený, že nedokázal uzvednout dokonce ani dvacet či třicet kilogramů. Kdyby měl uzvednout třicet kilo, určitě by ho to zabilo. A Bůh ví, kolik stovek kilo ta socha vážila. Ale on řekl svým žákům: ´podívejte, používám svou fyzickou sílu.´ potom popadl sochu a roztomile řekl: ´a nyní mé drahé děti, když nepůjdete se svým otcem, s kým tedy půjdete?´ nadzvedl sochu a  přenesl ji o dvacet metrů dál. kdybyste ho požádali, aby zvedl dvacet kilo, nedokázal by to udělat, ale v tomto případě přemístil celou sochu sám s pomocí své okultní síly. poté laškovně řekl svým žákům: ´Podívejte, jakou mám fyzickou sílu!´
    
    Není zde ani jeden žák, nad kterým bych nevykonával okultní a duchovní síly. Ale někdy musím čekat dva roky, čtyři roky nebo šest let, než se vyvine žákova upřímnost, aby to navenek připustil. Na vnitřní úrovni jsou všechny tyto věci známé, ale ve vnějších rovinách to trvá nějaký čas, než jsou rozpoznány.
     
@@ -330,9 +325,9 @@
 * Trest z Božského přičinění
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:9-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:9-cs
   :END:
 
 
@@ -387,9 +382,9 @@
 * Životní síla odchází
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:10-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:10-cs
   :END:
 
 
@@ -407,9 +402,9 @@
 * Žáci poznají svou budoucnost
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:11-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:11-cs
   :END:
 
 
@@ -431,7 +426,7 @@
     
    Vše bylo připraveno. Den nastal a kosmická hra měla začít v deset hodin. Ale přišel jiný Mistr, který se od svého žáka dozvěděl o Mistrově hádání osudu. Tento žák obvinil svého vlastního Mistra a řekl mu: ´Nikdy jsi s námi nehovořil o našem osudu. Sloužili jsme ti tolika způsoby a ty jsi nám neřekl vůbec nic. Mistr našeho přítele Gokula dnes bude říkat svým žákům vše o jejich budoucnosti. My jdeme také. Nepotřebujeme tě.´
     
-   Mistr pravil: ´Ano, ano, nepotřebujete mě; to je pravda. Ale dnes se stane skutečná pohroma, jakmile se vy lidé dozvíte, jak daleko se dostanete a kam jste se už dostali. Nemůžu už dokonce ani řídit svůj ašrám kvůli problémům vašeho ega. Vy lidé jste si stvořili z některých lidí idoly -- cítíte, že jsou tak skvělí, zatímco o jiných si myslíte, že jsou tak podřadní, že je dokonce pod vaši důstojnost dotknout se jich pouhou nohou. A tak jestli uslyšíte, jak velcí jste byli nebo jak skvělí budete, bude to skutečné neštěstí. Až Gokulův Mistr řekne nějakému člověku: Jsi toto a budeš tamto, vytvoří nejvážnější problémy nejenom pro vás všechny, ale také pro jeho samého. Ale já musím jít a zachránit Gokulova Mistra. Půjdu osobně k němu a dám mu několik rad.´
+   Mistr pravil: ´ano, ano, nepotřebujete mě; to je pravda. ale dnes se stane skutečná pohroma, jakmile se vy lidé dozvíte, jak daleko se dostanete a kam jste se už dostali. nemůžu už dokonce ani řídit svůj ašrám kvůli problémům vašeho ega. vy lidé jste si stvořili z některých lidí idoly -- cítíte, že jsou tak skvělí, zatímco o jiných si myslíte, že jsou tak podřadní, že je dokonce pod vaši důstojnost dotknout se jich pouhou nohou. a tak jestli uslyšíte, jak velcí jste byli nebo jak skvělí budete, bude to skutečné neštěstí. až gokulův mistr řekne nějakému člověku: Jsi toto a budeš tamto, vytvoří nejvážnější problémy nejenom pro vás všechny, ale také pro jeho samého. Ale já musím jít a zachránit Gokulova Mistra. Půjdu osobně k němu a dám mu několik rad.´
     
    Mistr přišel do ašrámu Gokulova Mistra. Chtěl ho varovat. Gokulův Mistr mu okamžitě řekl: ´Nepotřebuji tvé rady. Koneckonců, vůbec nic ti do toho není. Já budu jednat se svými žáky; ty jednej se svými. Nepleť se mi do toho a hleď si svého. Budu se zabývat svými žáky po svém vlastním způsobu. Očividně nemáš žádnou okultní moc a bojíš se, že jakmile tví žáci přijdou ke mně, aby poznali svou budoucnost, ztratíš je všechny. Vskutku, jsi ubohý, ale chytrý. Ale přesto ti odpouštím. Zůstaň se svými dětmi. Ale neopovažuj se vstoupit na pole mé působnosti, do okultní sféry. V okultním světě jsi ty žebrák a já princ. Žebrák si nemůže vybírat.´
     
@@ -442,9 +437,9 @@
 * Zázrak levitace
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:12-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:12-cs
   :END:
 
 
@@ -460,31 +455,18 @@
 * Je čistota nutností pro okultní moc?
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: AJ:13-cs
+  :genre: story
+  :keywords:
+  :cite-key: aj:13-cs
   :END:
 
 
    "Říkám vám děti, že toto bude můj úplně poslední okultní příběh.
     
-   Před dvěma sty lety, v jedné duchovní komunitě v Indii, se procházel Mistr po hřišti. Několik mladíků řeklo svému Mistrovi, že velice dychtí po ovládnutí okultních sil. Mistr tedy řekl: ´Mohu vám říci, co máte udělat. Pokud přemůžete dvě věci, okamžitě vám dám okultní moc.´ Tři nebo čtyři chlapci vykročili kupředu. Mistr pokračoval: ´První věc, kterou musíte přemoci, je strach.´
+   Před dvěma sty lety, v jedné duchovní komunitě v Indii, se procházel Mistr po hřišti. Několik mladíků řeklo svému Mistrovi, že velice dychtí po ovládnutí okultních sil. Mistr tedy řekl: ´mohu vám říci, co máte udělat. pokud přemůžete dvě věci, okamžitě vám dám okultní moc.´ tři nebo čtyři chlapci vykročili kupředu. mistr pokračoval: ´První věc, kterou musíte přemoci, je strach.´
     
    Chlapci si mysleli: ´Ó, to nic není!´ Zvítězit nad strachem je pro mladé muže hračka. Jsou to samí vojáci. Dokážou přemoci strach dříve než bys řekl švec.
     
    Mistrův druhý požadavek byl bohužel stěží přijatelný. Řekl: ´Musíte zcela přemoci svůj sexuální život.´ Dívali se jeden na druhého. Ani jeden z nich se nechtěl vzdát zrovna tohoto. A na tom vše skončilo.
     
    Ale tento požadavek nebyl opodstatněný. Je spousta okultistů, zvláště těch, kteří praktikují černou magii, kteří nedbají na tento druh čistoty. Jen použijí svou ohromnou vitální sílu vůle a získají okultní síly. K získání okultních sil nemusí být nižší vitálno pročištěno. Mistr jim to řekl jen proto, aby je uchránil od snah rozvíjet tyto síly. Nebyl jejich učitelem, oni nebyli jeho žáci a tímto způsobem je zachránil od možného nebezpečí. Byl bezpochyby moudrý. Buďme všichni tak moudří jako on."
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

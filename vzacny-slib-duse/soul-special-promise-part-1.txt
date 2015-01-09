@@ -1,20 +1,15 @@
-#+TITLE: Vzácný slib duše, část 1
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Vzácný slib duše, část 1
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2014
-  :PUBLISHER: (knižně nevydáno)
-  :CITE-KEY: SSP-1-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2014
+  :publisher: (knižně nevydáno)
+  :cite-key: SSP-1-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Otázky a odpovědi
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SSP:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: ssp:1e1-cs
   :END:
 
 
@@ -32,9 +27,9 @@
 * Kdy slaví Bůh Své Narozeniny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:1-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:1-cs
   :END:
 
 
@@ -45,9 +40,9 @@ Bůh slaví Své Narozeniny v srdci hledajícího, jedině když vidí, že hle
 * Jak Bůh slaví Své Narozeniny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:2-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:2-cs
   :END:
 
 
@@ -60,9 +55,9 @@ Bůh slaví Své Narozeniny na zemi skrze Svou požehnanou Radost ze Života.
 * Dávají všechny duše v podstatě stejný slib, když vstupují do pozemské arény?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:3-cs
   :END:
 
 Ne! Před vstupem do pozemské arény učiní každá duše zvláštní slib a tento slib musí zvláštním způsobem splnit předtím, než opustí svět.
@@ -72,9 +67,9 @@ Ne! Před vstupem do pozemské arény učiní každá duše zvláštní slib a t
 * Objeví se svědomí hned při narození nebo až po několika letech?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:4-cs
   :END:
 
 Svědomí obvykle přijde po třech letech dítěte na zemi.
@@ -83,9 +78,9 @@ Svědomí obvykle přijde po třech letech dítěte na zemi.
 * Je slib duše něco jako proroctví?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:5-cs
   :END:
 
 Ne! Slib duše může být snadno zdržen nebo zničen, pokud se stane temnota nebožského těla, vitálna nebo mysli velice silnou. I když je slib duše velmi silný a upřímný, je ve většině případů do jisté míry ovlivněn vzpurnými členy rodiny duše. To se stává docela často.
@@ -95,9 +90,9 @@ Ne! Slib duše může být snadno zdržen nebo zničen, pokud se stane temnota n
 * Jaká jsou naše nepopiratelná práva od narození?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:6-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:6-cs
   :END:
 
 Naše nezcizitelné právo je od našeho zrození právo vlastnit Boha. Náš hlavní cíl je stát se Jeho nejvybranějším a nejdokonalejším nástrojem.
@@ -107,9 +102,9 @@ Naše nezcizitelné právo je od našeho zrození právo vlastnit Boha. Náš hl
 * Jaký je nejlepší způsob, jak mohou rodiče přijmout nově narozené dítě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:7-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:7-cs
   :END:
 
 Nejlepším způsobem je při přijetí nově narozeného dítěte nabídnout vděčnost Absolutnímu Nejvyššímu a zbožně vložit oduševnělé sny do srdce dítěte.
@@ -119,9 +114,9 @@ Nejlepším způsobem je při přijetí nově narozeného dítěte nabídnout vd
 * Jak těsné spojení se Zdrojem má malé dítě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:8-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:8-cs
   :END:
 
 Jedinec si neudržuje toto spojení mentálně. Ale duše sama může mít velmi blízké a přímé spojení s Bohem, i když je v malém těle. Bůh dal duši dostatek vnitřního světla, aby s Ním mohla komunikovat. Duše je díky svému spojení s Bohem nejmocnějším členem vnitřní rodiny. Ale když se duše sjednotí s tělem, vitálnem, myslí a srdcem, předstírá, že je bezmocná. Ptáček duše může kdykoliv jednoduše vylétnout z klece, pokud si jej Bůh chce vzít. Ale dokud je ptáček uvnitř klece, musí se vypořádat s tělem, vitálnem, myslí a srdcem a tak se s nimi neustále pře.
@@ -133,9 +128,9 @@ Spojení duše s Bohem je vždy nejsilnější, dokud jsou tělu jen dva, tři 
 * Jsou pro duši důležité narozeniny, když je ve zvířecí inkarnaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:9-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:9-cs
   :END:
 
 Když vidíte některá zvířata, víte, že ve své další inkarnaci budou lidmi. Můžete je vidět v ZOO, ale jejich oči a dokonce i jejich vědomí připomíná lidské. Je-li zvíře velice rozvinuté a vyspělé a blízko tomu, aby se stalo člověkem, tak může duše zvířete slavit narozeniny.
@@ -145,9 +140,9 @@ Když vidíte některá zvířata, víte, že ve své další inkarnaci budou li
 * Slaví duše zemí své narozeniny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:10-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:10-cs
   :END:
 
 To záleží na tom, zda země je či není duchovní. Některé země nevěří v duši nebo v Boha a tak jejich duše narozeniny neslaví. Ale pokud země věří v Boha a duši pak může duše určitě slavit své narozeniny. 
@@ -159,9 +154,9 @@ Narozeniny země nemusí být v přesný den. V takovém případě má země 
 * Mají kosmičtí bohové a bohyně narozeniny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:11-cs
   :END:
 
 Mají, ale jako svoje narozeniny slaví den, kdy se jim stala ta nejšťastnější věc. Když porazí nepřátelské síly na zemi či v Nebi, tak slaví své vítězství.
@@ -171,9 +166,9 @@ Mají, ale jako svoje narozeniny slaví den, kdy se jim stala ta nejšťastněj�
 * Slaví duše tvých děl, například maleb nebo písní, své narozeniny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:12-cs
   :END:
 
 Vědomě ne. Protože jsem jejich stvořitel já, mohu slavit jejich narozeniny, pokud chci. Jestliže namaluji něco výjimečného a chci oslavit den, kdy jsem malbu vytvořil, mohu tak učinit. Ale ty duše samotné vědomě neslaví.
@@ -184,9 +179,9 @@ Vědomě ne. Protože jsem jejich stvořitel já, mohu slavit jejich narozeniny,
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:13-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:13-cs
   :END:
 
 Ano, vaše poslední narozeniny a také první narozeniny mají velmi zvláštní význam. Při vašich posledních narozeninách, předtím než opustíte tělo, duše počítá, kolik dobrých a kolik špatných věcí jste udělali, kolik slibů bylo splněno a kolik slibů nebylo splněno.
@@ -200,9 +195,9 @@ Ano, vaše poslední narozeniny a také první narozeniny mají velmi zvláštn�
 * Jsou některé narozeniny významnější než jiné?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:14-cs
   :END:
 
 Ano, při některých narozeninách jste si více vědomi vašeho vnitřního života, vaší aspirace a zasvěcení. Takové narozeniny jsou nekonečně, nekonečně důležitější než narozeniny, při kterých myslíte na oslavy a přátele a počítáte, kolik dárků jste dostali. Není důležité kolika vnějších nebo pozemských úspěchů jste dosáhli, ale kolik hodin jste mysleli na Boha a nabízeli Bohu vděčnost za to, že vás poslal do tohoto světa, abyste pro Něj pracovali. Pokud jste si díky síle své modlitby a meditace během konkrétních narozenin vědomi svého cíle, tak takové narozeniny jsou nekonečně důležitější než jiné narozeniny, kdy se vědomě a upřímně nepokoušíte udělat něco významného, nebo se stát něčím dobrým pro Boha.
@@ -212,9 +207,9 @@ Ano, při některých narozeninách jste si více vědomi vašeho vnitřního ž
 * Lze obecně říci, že narozeniny jsou nejlepším dnem, kdy lze udělat pokrok?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:15-cs
   :END:
 
 Musíme si uvědomit, že žádný den není stejný. Někdy prší a jindy je slunečno. Když je vnitřní počasí jasné a čisté, můžeme dostat v ten den přirozeně více inspirace. Den duše takovým je. Pokud si ho ale nejsme vědomi nebo pokud mu nevěnujeme pozornost, potom je stejný jako jakýkoliv jiný den. Takže nelze rozhodně říci, že uděláme největší pokrok v den našich narozenin.
@@ -226,9 +221,9 @@ Musíme si uvědomit, že žádný den není stejný. Někdy prší a jindy je s
 * Jak lze být co nejvnímavější při narozeninách?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:16-cs
   :END:
 
 Nejlepším způsobem je neustále si opakovat: „Přišel jsem do světa milovat Boha, sloužit Bohu a projevit Boha.“ Pokud to budete opakovat, můžete udělat největší pokrok.
@@ -238,9 +233,9 @@ Nejlepším způsobem je neustále si opakovat: „Přišel jsem do světa milov
 * Je síla modlitby mocnější v den narozenin?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:17-cs
   :END:
 
 Síla modlitby člověka závisí na jeho vědomí. Je-li vědomí vysoko, potom bude jeho modlitba mocnější. Jestliže jeho vědomí není vysoko, potom mocná nebude dokonce ani při jeho narozeninách.
@@ -252,9 +247,9 @@ Síla modlitby člověka závisí na jeho vědomí. Je-li vědomí vysoko, potom
 * Jak můžeme udělat pokrok, když s tebou nejsme fyzicky při našich narozeninách?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:18-cs
   :END:
 
 To zcela závisí na vaší vnitřní víře. Pokud meditujete na mé nejvyšší transcendentální vědomí, určitě ucítíte mou duchovní přítomnost. Pokud dokážete při své meditaci cítit, že v tom vědomí jsem zcela pro vás, pro váš duchovní úspěch a pokrok, tak bude vaše meditace výjimečně mocná.
@@ -266,9 +261,9 @@ To zcela závisí na vaší vnitřní víře. Pokud meditujete na mé nejvyšš�
 * Pomůže nám, když se budeme v předstihu před narozeninami modlit pro vnímavost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:19-cs
   :END:
 
 Ano, měli byste se začít modlit a meditovat už několik dní před narozeninami, abyste si vytvořili mocnou vnímavost na své narozeniny.
@@ -278,9 +273,9 @@ Ano, měli byste se začít modlit a meditovat už několik dní před narozenin
 * Má nějaký duchovní přínos pro přátele, když jim o narozeninách člověk dá materiální dárek?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:20-cs
   :END:
 
 To záleží na vašem spojení s tím člověkem. Pokud upřímně cítíte vnitřní spojení, pak dávání dárků pomůže oběma uvnitř i navenek. Ale pokud žádné spojení nemáte, pokud někomu dáváte narozeninový dárek jen proto, že vám ten člověk dal dárek o vašich narozeninách, pak za tím není žádný pocit a je to hloupé. Ale pokud darujete něco s největším upřímností, zájmem a milující jednotou, pak to opravdově pomůže.
@@ -291,9 +286,9 @@ To záleží na vašem spojení s tím člověkem. Pokud upřímně cítíte vn
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:21-cs
   :END:
 
 Být plný míru je nekonečně důležitější než kupovat prašád nebo jít do restaurace s vašimi přáteli. Tyto věci nejsou důležité. Pokud dokážete získat mír, radost a vnitřní aspiraci, zatím, co jíte čínské jídlo s vašimi přáteli, tak je vše v pořádku. Ale pokud se všechen váš vnitřní klid, vnitřní výška a intenzivní vnitřní pláč úplně ztratí ve vašem čínském jídle, tak to není dobře. Pokud se věnujete jen vnějším, společenským aktivitám a nevěnujete žádnou pozornost duchovnosti, potom přijdete o všechno své vnitřní bohatství.
@@ -305,9 +300,9 @@ Být plný míru je nekonečně důležitější než kupovat prašád nebo jít
 * Dává duše přednost konkrétnímu ročnímu období, ve kterém se hodlá narodit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:22-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:22-cs
   :END:
 
 
@@ -318,9 +313,9 @@ Když si duše bere inkarnaci, tak se nezajímá o zimu nebo léto nebo jaro. Se
 * Má duše volný přístup k minulosti, přitomnosti a budoucnosti a také k Boží vlastní Moudrosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:23-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:23-cs
   :END:
 
 
@@ -331,9 +326,9 @@ To záleží na tom, jak je duše pokročilá. Obyčejné duše tuto kapacitu ne
 * Pokud má duše přístup k nadduši, která má přístup k Bohu, tak co se vlastně rozvíjí v každém z nás?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:24-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:24-cs
   :END:
 
 Přístup není všechno. Přicházíte ke mně, abyste mě viděli, když hraji tenis. Máte ke mně přístup, ale neznamená to, že máte mé světlo moudrosti. Co se vyvíjí v případě žáků? Rozvíjí se vaše dychtivost. Dnes máte určitou dychtivost mě potěšit, přiblížit se mi, dostat ode mě mír nebo světlo. Jak roste vaše dychtivost, tak roste vaše vnímavost a vy ode mě dokážete přijmout více vnitřních kvalit. Díky síle své dychtivosti dostáváte pokaždé o trochu víc, trochu víc. A jak roste vaše vnitřní bohatství, tak se rozvíjí váš duchovní a vnitřní život.
@@ -343,9 +338,9 @@ Přístup není všechno. Přicházíte ke mně, abyste mě viděli, když hraji
 * Když říkáte, že k vám přišla něčí duše, přichází k vám ta duše v nějaké konkrétní formě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:25-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:25-cs
   :END:
 
 Když říkám, že ke mně přišla něčí duše, tak to neznamená, že ta duše musí vždy přijít ve své vlastní formě. Duše může také přijmout formu vaší tváře nebo vašeho těla v subtilním fyzickém světě. Někdy ke mně duše přijde těsně předtím, než vidím toho člověka. Nejprve vidím duši, a pak toho člověka. Někdy ke mně duše přijde ve své vlastní formě, s nezměrnou krásou, kterou nelze popsat. Jindy duše může přijmout formu fyzického těla toho konkrétního člověka.
@@ -358,9 +353,9 @@ Když říkám, že ke mně přišla něčí duše, tak to neznamená, že ta du
 * Často vídám zprávy o vážných problémech s přelidněním. Vzhledem k tomu, že na zem přicházejí všechny ty nové duše a všechny rostliny a zvířata se postupně vyvíjejí v lidské bytosti, bude na zemi dost místa, aby se všechny tyto duše mohly inkarnovat a vyvíjet?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:26-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:26-cs
   :END:
 
 Zapomněl jste, že jednoho dne vy i já zemřeme? Duše neustále přicházejí a odcházejí. Je to jako přeprava. Zítra jedete do Bostonu a za pár dní budete zpět. Stejně tak se duše inkarnuje a poté, co sehraje svoji roli, ať už úspěšně nebo neúspěšně, se vrací zpět. Potom přichází nové duše.
@@ -370,9 +365,9 @@ Zapomněl jste, že jednoho dne vy i já zemřeme? Duše neustále přicházejí
 * Budou někdy v budoucnosti duše vstupovat do těla jinak než teď?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:27-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:27-cs
   :END:
 
 
@@ -391,9 +386,9 @@ Někteří duchovní Mistři říkají, že v průběhu evoluce, což může tr
 * Je pro duši příliš obtížné vyjít během narozenin do popředí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:28-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:28-cs
   :END:
 
 V životě vždy oslavujeme významné dny. Jinak by náš život byl monotónní. Každý den jíme, ale pamatujeme si den, kdy jdeme do restaurace a dáme si něco zvláštního. Každý den naše duše pozoruje naše tělo, vitálno, mysl a srdce. Ale při našich narozeninách duše obnovuje svůj slib Bohu a svůj slib Bohu obnovují také členové její rodiny -- srdce, mysl, vitálno a tělo. Duše učinila vědomý slib Bohu a členové její rodiny učinili nevědomé sliby. Ale existuje jen jeden slib, který všichni učinili: naplnění Boha. Naplnění Boha v těle, ve vitálnu, v mysli, v srdci a v celé bytosti.
@@ -405,9 +400,9 @@ V životě vždy oslavujeme významné dny. Jinak by náš život byl monotónn
 * Protože v Nebi neexistuje pozemský čas, jak duše ví, kdy se má inkarnovat, aby byla v souladu s astrologií? Řekne Nejvyšší, počkej, musíš sejít dolů v ten a ten den kvůli astrologii?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:29-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:29-cs
   :END:
 
 Nejvyšší nemá s astrologií nic společného. Duše nebude myslet na čas a datum, kdy by měla sejít dolů a kdo u toho bude. Duše je šéf. Kdykoliv chce šéf přijít dolů do dílny, tak přijde. Pracovníci potom vidí, zda jsou tři hodiny nebo pět hodin a v jaké pozici je zvěrokruh.
@@ -419,9 +414,9 @@ Nejvyšší nemá s astrologií nic společného. Duše nebude myslet na čas a
 * Kdy se duše rozhodne, že se narodí v určité rodině v určité zemi?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:30-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:30-cs
   :END:
 
 Duše se může rozhodnout pět nebo šest let dopředu, několik měsíců dopředu nebo dokonce minutu předtím než dítě opustí matčino tělo. Může se dokonce rozhodnout i hodinu nebo dvě poté, co dítě opustilo matčino tělo. Někdy se dítě narodí, ale duše ještě nepřišla. Je-li dítě narozené déle než tři hodiny, tak už duše obvykle nepřijde. Pak dítě nebude žít.
@@ -431,9 +426,9 @@ Duše se může rozhodnout pět nebo šest let dopředu, několik měsíců dop�
 * Když si duše vybere konkrétní rodinu, do které se narodí, je to proto, že má členy rodiny velmi ráda?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:31-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:31-cs
   :END:
 
 
@@ -444,9 +439,9 @@ Ve výjimečných případech se může stát, že se duše rozhodne pět či š
 * Stává se někdy, že dvě duše chtějí vstoupit do stejné rodiny ve stejném okamžiku?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:32-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:32-cs
   :END:
 
 Samozřejmě. V případě dvojčat, trojčat a tak dále se duše snaží ze všech sil přijít spolu a Nejvyšší to povolí. Často se dvě duše rozhodnou sejít dolů jako dvojčata, protože se mají rády a jsou připraveny se jedna pro druhou obětovat.
@@ -456,9 +451,9 @@ Samozřejmě. V případě dvojčat, trojčat a tak dále se duše snaží ze v
 * Guru, tvá duše je vždy v popředí. Co se v tvém případě děje ve vnitřním světě, když máš své fyzické narozeniny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:33-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:33-cs
   :END:
 
 Já mám každý den narozeniny. Ale mé fyzické narozeniny jsou důležitější, protože v ten den vidím, že se moji žáci pokouší snést se Shora více Milosti, buď pro sebe, nebo pro mé vítězství. Kdykoli dokončím něco dobrého, je to vítězství mé duše. Takže při mých narozeninách se moji žáci pokouší získat více požehnání, sympatie a zájmu od mé duše. Žádají mě o více soucitu, více světla a více božských kvalit protože vědí, že jsem vstoupil do světa, abych jim sloužil, nebo se modlí k Nejvyššímu pro Vítězství Nejvyššího nebo pro mé vítězství.
@@ -470,9 +465,9 @@ Já mám každý den narozeniny. Ale mé fyzické narozeniny jsou důležitějš
 * Jako lékař vím, že struktura našeho těla je určena geny, které dostaneme od rodičů. Zajímalo by mě, zda existuje podobné spojení mezi duší dítěte a duší jeho rodičů?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:34-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:34-cs
   :END:
 
 
@@ -485,9 +480,9 @@ Rodiče mají své vlastní duše a dítě má svou vlastní duši. V některý
 * Je pro dítě dobré, když má jeho duše z předchozích životů spojení s dušemi jeho rodičů?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:35-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:35-cs
   :END:
 
 
@@ -511,9 +506,9 @@ To může být velmi dobré -- jako dávné přátelství. Jsem-li s někým ka
 * Co si myslíte o sebevraždě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:36-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:36-cs
   :END:
 
 Sebevražda je na zemi ten nejhorší zločin. Je nižší než nejnižší, horší než nejhorší. Je to urážka Boha. Spáchá-li někdo sebevraždu, je to nejhorší možná zrada Boha, protože každý člověk je ztělesněním nejvyššího Snu Boha. Nejvyšším snem Boha je učinit každého jednotlivce Jeho naprosto vybraným nástrojem. Bůh nám dává omezenou svobodu, ale když tuto omezenou svobodu využijeme, abychom zničili sami sebe, tak ničíme vše, co v nás a skrze nás Bůh chtěl vytvořit. Bůh nám dá nůž a myslí si, že s ním nakrájíme mango a podělíme se o něj s našimi přáteli. Ale když namísto řezání manga sami sebe kvůli zlosti, frustraci či pochybnostem bodneme, je to ten nejhorší hřích, který pácháme.
@@ -527,14 +522,14 @@ Sebevražda je na zemi ten nejhorší zločin. Je nižší než nejnižší, hor
 * Kdyby lidské bytosti věděly o svých dřívějších inkarnacích, nebyly by v této inkarnaci lepší?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:37-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:37-cs
   :END:
 
-Pokud budete vědět, že jste ve své poslední inkarnaci byl velmi špatným, tak v této inkarnaci si řeknete: „Pokud jsem byl takovým člověkem tak jak mohu očekávat, že budu dobrým a božským teď?“ Pokud jste byl krutým vojenským důstojníkem, který zabil ve své poslední inkarnaci mnoho lidí, a nyní ti lidé, které jste zabil, jsou kolem vás jako vaši přátelé, tak do vaší mysli vstoupí tolik špatných myšlenek a budete se cítit špatně. Podobně pokud budete vědět, že jste ve své poslední inkarnaci byl světcem, tak si řeknete: „Když jsem byl ve své minulé inkarnaci tak božský a duchovní, tak jak je možné, že mám teď tolik špatných myšlenek? Jak je možné, že cítím takovou žárlivost a nejistotu?“ Zase se budete cítit sklesle a bídně. Takže nejlepší přístup je zablokovat minulé životy a otevřít se svěžím novým zkušenostem.
+Pokud budete vědět, že jste ve své poslední inkarnaci byl velmi špatným, tak v této inkarnaci si řeknete: „pokud jsem byl takovým člověkem tak jak mohu očekávat, že budu dobrým a božským teď?“ pokud jste byl krutým vojenským důstojníkem, který zabil ve své poslední inkarnaci mnoho lidí, a nyní ti lidé, které jste zabil, jsou kolem vás jako vaši přátelé, tak do vaší mysli vstoupí tolik špatných myšlenek a budete se cítit špatně. podobně pokud budete vědět, že jste ve své poslední inkarnaci byl světcem, tak si řeknete: „Když jsem byl ve své minulé inkarnaci tak božský a duchovní, tak jak je možné, že mám teď tolik špatných myšlenek? Jak je možné, že cítím takovou žárlivost a nejistotu?“ Zase se budete cítit sklesle a bídně. Takže nejlepší přístup je zablokovat minulé životy a otevřít se svěžím novým zkušenostem.
 
-	Když jste ve svém pokoji a někdo klepe na vaše dveře, tak nevíte, zda je to dobrý nebo špatný člověk. Takže nejlepší věcí je po nějakou dobu dveře neotvírat. Je-li to špatná osoba tak si řekne: „Je pod mojí důstojnost stále klepat na tyto dveře, když mi nevěnuje žádnou pozornost“ a odejde pryč. Klepe-li na dveře přítel, tak si řekne: „Možná dělá něco velmi důležitého. Počkám.“
+	Když jste ve svém pokoji a někdo klepe na vaše dveře, tak nevíte, zda je to dobrý nebo špatný člověk. Takže nejlepší věcí je po nějakou dobu dveře neotvírat. Je-li to špatná osoba tak si řekne: „je pod mojí důstojnost stále klepat na tyto dveře, když mi nevěnuje žádnou pozornost“ a odejde pryč. klepe-li na dveře přítel, tak si řekne: „Možná dělá něco velmi důležitého. Počkám.“
 
 	Stejným způsobem k vám přijde mnoho myšlenek, když se modlíte a meditujete. Ale pokud nepřestanete meditovat a nebudete těm myšlenkám věnovat pozornost, tak nakonec špatné myšlenky odejdou a jen dobré myšlenky zůstanou. Řeknou si: „Modlí se a medituje a pokouší se dosáhnout Nejvyššího. Počkáme a pomůžeme mu.“ A pak, když konečně otevřete dveře tak uvidíte, že na vás čekají jen dobré myšlenky.
 
@@ -545,9 +540,9 @@ Pokud budete vědět, že jste ve své poslední inkarnaci byl velmi špatným, 
 * Někdy ve svých snech vidím pobřeží a cítím, že jsem tam kdysi žil. Nevím proč, ale je to pro mě velmi nepříjemné.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SSP:38-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ssp:38-cs
   :END:
 
 Někdy nám chce duše dát přímou, osvětlující zkušenost reality a to, co vidíme ve svých snech, může být pravda. Ale někdy se mohou do snu vmísit neaspirující věci, které pocházejí z vitálního světa. Sen je jako závoj skutečnosti. Jakmile dáte pryč ubrus, tak uvidíte stůl. Pod ubrusem může být tolik špinavých, nečistých věcí. 
@@ -555,17 +550,3 @@ Někdy nám chce duše dát přímou, osvětlující zkušenost reality a to, co
 	Stejně tak sny přicházející přímo od duše jsou velmi čisté. Takové sny jsou naprosto čisté, jasné, povzbuzující a inspirující. Nic nestojí mezi takovým snem a skutečností. Ale v jiných případech mnoho nezdravých a neaspirujících věcí učiní sen zmateným tak, že skutečnost není skrze sen jasně viditelná. Někdy je sen jako naprosto jasná obloha a snadno vidíme slunce. Ale někdy je obloha pokryta plynoucími mraky a slunce je úplně zakryto. Když máme takové sny, tak si musíme uvědomit, že vyšlo do popředí vitálno a nenechává nás vidět skutečnost. Musíme se několik let upřímně modlit a meditovat, abychom se naučili rozlišovat sny, které přicházejí přímo od duše a ukazují nám skutečnost a sny které přicházejí z vitálna a skutečnost nám neukazují.
 
 	Když víme, ze které úrovně sen pochází, tak víme, zda ho máme či nemáme brát vážně. Pokud pochází z vitálního světa, tak mu nebudeme věnovat žádnou pozornost, protože víme, že to je jen zmatek. Pokud pochází z psychického světa, tak musíme vědět, jak si ho vyložit. Pokud pochází z vysokého, duchovního světa a ukazuje absolutní skutečnost, tak budeme nedočkaví a dychtiví vědět co se děje nebo co se stane.
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

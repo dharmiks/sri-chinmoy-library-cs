@@ -1,20 +1,15 @@
-#+TITLE: Pij, pij nektar mé Matky
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Pij, pij nektar mé Matky
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2010
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: DDMM-cs
-  :GENRE: play
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2010
+  :publisher: Madal Bal
+  :cite-key: DDMM-cs
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Žádný Bůh neexistuje
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:1-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:1-cs
   :END:
 
 
@@ -32,9 +27,9 @@
 * Obsazení
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DDMM:2e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: ddmm:2e1-cs
   :END:
 
 
@@ -46,9 +41,9 @@ BHUPEN, mladší bratr Narena
 * Akt I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:2-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:2-cs
   :END:
 
 
@@ -56,19 +51,19 @@ BHUPEN, mladší bratr Narena
 * Scéna I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:3-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:3-cs
   :END:
 
 
 /(Naren medituje ve svém pokoji. Vstoupí Bhavananda.)/
 
-NAREN /(postaví se)/: Pojď dál. Pojď dál, prosím. Jsem tak rád, že tě vidím. Dlouho jsem tě neviděl.  Chci s tebou probrat tolik věcí. První věc, na kterou se tě chci zeptat je: existuje Bůh, bratře? Zdá se mi, že žádný Bůh není. A jestli existuje, pak v tom pro mě není žádný rozdíl. Nikdy neslyší, nikdy necítí kruté bolesti chudých. Nikdy necítí utrpení krvácejícího lidstva.  Bůh, který není schopen nakrmit hladovějící kouskem chleba, je lhostejný Bůh, krutý Bůh. Kdo může věřit tomu, že od takového Boha dostane štěstí a spokojenost na onom světě?
+NAREN /(postaví se)/: pojď dál. pojď dál, prosím. jsem tak rád, že tě vidím. dlouho jsem tě neviděl.  chci s tebou probrat tolik věcí. první věc, na kterou se tě chci zeptat je: existuje Bůh, bratře? Zdá se mi, že žádný Bůh není. A jestli existuje, pak v tom pro mě není žádný rozdíl. Nikdy neslyší, nikdy necítí kruté bolesti chudých. Nikdy necítí utrpení krvácejícího lidstva.  Bůh, který není schopen nakrmit hladovějící kouskem chleba, je lhostejný Bůh, krutý Bůh. Kdo může věřit tomu, že od takového Boha dostane štěstí a spokojenost na onom světě?
 
 BHAVANANDA: Narene, zbláznil ses? Co je s tebou? Co to říkáš za nesmysly? Proč takhle mluvíš?
 
-NAREN: Proč ne? Proč ne?  Víš, bratře, co se stalo dnes ráno? Brzy ráno, když jsem vstal, opakoval jsem Boží jméno z celé duše. Má matka mi řekla: „Mlč. Od svého dětství se modlíš k Bohu a medituješ na Boha. A teď se podívej, co nám Bůh udělal. Tvůj otec odešel z tohoto světa a nás postihla bída, utrpení a chudoba.  Nemáme žádné jídlo, žádné peníze, žádné prostředky k obživě naší rodiny. Mé srdce je zlomené. Nemohu nakrmit ani své nejmenší děti, své sladké děti. Nebudu mít nic společného s Bohem, který nás nedokáže zbavit našeho utrpení.“ Nyní mi pověz, bratře, co mám říci své matce?
+NAREN: proč ne? proč ne?  víš, bratře, co se stalo dnes ráno? brzy ráno, když jsem vstal, opakoval jsem boží jméno z celé duše. má matka mi řekla: „Mlč. Od svého dětství se modlíš k Bohu a medituješ na Boha. A teď se podívej, co nám Bůh udělal. Tvůj otec odešel z tohoto světa a nás postihla bída, utrpení a chudoba.  Nemáme žádné jídlo, žádné peníze, žádné prostředky k obživě naší rodiny. Mé srdce je zlomené. Nemohu nakrmit ani své nejmenší děti, své sladké děti. Nebudu mít nic společného s Bohem, který nás nedokáže zbavit našeho utrpení.“ Nyní mi pověz, bratře, co mám říci své matce?
 
 BHAVANANDA: Narene, nehledejme chyby na Bohu. Když budeš kritizovat Boha, stane se tvé rodině vážné neštěstí. Varuji tě. 
 
@@ -88,7 +83,7 @@ BHUPEN: Půjdu, ale nejdřív mi musíš slíbit, že mi přineseš bonbóny.  N
 
 NAREN: Vidíš, bratře? Jsem jeho starší bratr a nebudu schopen splnit jeho toužebné přání. Nemám žádné peníze, nemám ani na to, abych mu mohl kopit jediný bonbón. Ten, kdo není schopen splnit svému mladšímu bratrovi tak jednoduché přání, si nezaslouží být zván starším bratrem. Jeho život je naprostá hanba. Proč bych se tedy měl starat o Boha? Ne! My hinduisté uctíváme kamenné bohy, takže srdce našeho Boha zkamenělo. 
 
-BHAVANANDA: Nemluv tak, Narene. Bůh je sám Soucit. Vidím, že to, co jsem slyšel od lidí, je pravda: stal se z tebe ateista. 
+BHAVANANDA: nemluv tak, narene. bůh je sám soucit. vidím, že to, co jsem slyšel od lidí, je pravda: stal se z tebe ateista. 
 
 /(Bhavananda odejde)/
 
@@ -126,9 +121,9 @@ rozbouřenými proudy života.]
 * Můj Naren nikdy nemůže být ateista
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:4-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:4-cs
   :END:
 
 
@@ -136,9 +131,9 @@ rozbouřenými proudy života.]
 * Obsazení
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DDMM:5e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: ddmm:5e1-cs
   :END:
 
 
@@ -155,9 +150,9 @@ NAREN
 * Akt II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:5-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:5-cs
   :END:
 
 
@@ -165,9 +160,9 @@ NAREN
 * Scéna I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:6-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:6-cs
   :END:
 
 
@@ -208,9 +203,9 @@ SRI RÁMAKRŠNA: Mé dítě, to neříkej. Nemá kamenné srdce. Je samou lásko
 * Matko, dej mi Světlo poznání, Světlo rozlišování a Světlo odříkání 
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:7-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:7-cs
   :END:
 
 
@@ -226,9 +221,9 @@ SRI RÁMAKRŠNA
 * Akt III
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:8-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:8-cs
   :END:
 
 
@@ -236,9 +231,9 @@ SRI RÁMAKRŠNA
 * Scéna I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:9-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:9-cs
   :END:
 
 
@@ -305,9 +300,9 @@ Uvidět Tvou Tvář.]
 * Zeptej se ho, zda mi slouží nebo zda mě hlídá
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:10-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:10-cs
   :END:
 
 
@@ -315,9 +310,9 @@ Uvidět Tvou Tvář.]
 * Obsazení
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DDMM:11e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: ddmm:11e1-cs
   :END:
 
 
@@ -331,9 +326,9 @@ SRI RÁMAKRŠNA
 * Akt IV
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:11-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:11-cs
   :END:
 
 
@@ -341,9 +336,9 @@ SRI RÁMAKRŠNA
 * Scéna I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:12-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:12-cs
   :END:
 
 
@@ -363,7 +358,7 @@ VIDYASAGAR: Netrapte mě, bratře, netrapte mě. Už jsem začal mít problémy 
 
 PUNDIT: Nevděčnost je na pořádku dne. Bengálci jsou chudáci jen proto, že začali být naprosto nevděční. Před několika dny jsme měli zvláštní setkání učenců a Pundit Panchanan na tomto setkání řekl, že jste zničil hinduistické náboženství. Řekl, že s pomocí mnoha mladých hinduistů ničíte celou zemi. Řekl, že ve vašich aktivitách není nic božského, že ve vaší nezištné práci pro Bangladéš není žádný skutečný cit nebo sebeobětování. Má pocit, že vše děláte jen pro vlastní jméno a slávu. Tolik mě mrzí, že vám to říkám. Nedokážete si představit, jak jsem trpěl a jak trpím těch několik dní od chvíle, kdy jsem slyšel Panchanana, ze všech lidí právě jeho, mluvit proti vám.
 
-VIDYASAGAR: Není proč se trápit. Vše je Boží hra. Já nic nedělám, příteli.  Je to Bůh, kdo koná ve mně a skrze mě. Já jsem pouhým nástrojem: Nimmita matram. Mám ale pocit, že se mýlíte. Mám pocit, že jste určitou věc slyšel špatně. /(odmlčí se)/ Nikdy jsem pro tohoto učence nic neudělal. Jak to, že o mě mluví špatně? Dospěl jsem k závěru, že mě budou kritizovat jen ti, kterým jsem nějak pomohl.  Ti, kterým jsem nijak nepomáhal, mě nikdy kritizovat nebudou.  A jasně si vzpomínám, že Panchananovi jsem nijak nepomáhal. Určitě mluvil o někom jiném. 
+VIDYASAGAR: není proč se trápit. vše je boží hra. já nic nedělám, příteli.  je to bůh, kdo koná ve mně a skrze mě. já jsem pouhým nástrojem: Nimmita matram. Mám ale pocit, že se mýlíte. Mám pocit, že jste určitou věc slyšel špatně. /(odmlčí se)/ Nikdy jsem pro tohoto učence nic neudělal. Jak to, že o mě mluví špatně? Dospěl jsem k závěru, že mě budou kritizovat jen ti, kterým jsem nějak pomohl.  Ti, kterým jsem nijak nepomáhal, mě nikdy kritizovat nebudou.  A jasně si vzpomínám, že Panchananovi jsem nijak nepomáhal. Určitě mluvil o někom jiném. 
 
 /(vstoupí Hriday)/
 
@@ -412,9 +407,9 @@ PUNDIT: Vidyasagare, jste velmi vzácný muž. Bangladéš je požehnaná, že v
 * Podstata všech náboženství
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:13-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:13-cs
   :END:
 
 
@@ -422,9 +417,9 @@ PUNDIT: Vidyasagare, jste velmi vzácný muž. Bangladéš je požehnaná, že v
 * Obsazení
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DDMM:14e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: ddmm:14e1-cs
   :END:
 
 SRI RÁMAKRŠNA /(THÁKUR)/
@@ -436,9 +431,9 @@ NAREN, RAKHAL, BABURAM, TARUP -- Thákurovi žáci
 * Akt V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:14-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:14-cs
   :END:
 
 
@@ -446,9 +441,9 @@ NAREN, RAKHAL, BABURAM, TARUP -- Thákurovi žáci
 * Scéna I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:15-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:15-cs
   :END:
 
 
@@ -467,7 +462,7 @@ HRIDAY: Já jdu, ale nezůstávejte tu dlouho.
 
 /(Hriday odejde)/
 
-THÁKUR /(k sobě)/: Syntéza všech náboženství, sjednocení Východu a Západu, zasvěcení sebe sama, sebeobětování: to jsou všechno velká, velká slova, velké teorie, velké ideje, velké ideály. Kde ale jsou, Matko? Matko, mluvíš ke mně o všech těchto věcech. Jsou to tak vysoké ideály. Kde ale jsou tví oddaní vojáci? Matko, ty mi nikdy nelžeš. Kde jsou? Kde jsou tvé vybrané děti? Ó, vybrané děti Matky Kálí, mé srdce po vás pláče. Přijďte, přijďte. Vykonejte dílo Matky. Musíte naplnit Matku. Musíte projevit matku zde na zemi. 
+THÁKUR /(k sobě)/: syntéza všech náboženství, sjednocení východu a západu, zasvěcení sebe sama, sebeobětování: to jsou všechno velká, velká slova, velké teorie, velké ideje, velké ideály. Kde ale jsou, Matko? Matko, mluvíš ke mně o všech těchto věcech. Jsou to tak vysoké ideály. Kde ale jsou tví oddaní vojáci? Matko, ty mi nikdy nelžeš. Kde jsou? Kde jsou tvé vybrané děti? Ó, vybrané děti Matky Kálí, mé srdce po vás pláče. Přijďte, přijďte. Vykonejte dílo Matky. Musíte naplnit Matku. Musíte projevit matku zde na zemi. 
 
 /(vstoupí Naren)/
 
@@ -507,7 +502,7 @@ THÁKUR: Samozřejmě, samozřejmě. Když neodpovím na tvou otázku tobě, kom
 
 RAKHAL: Řekni mi, prosím, co je podstata filosofie Vaišnavismu.
 
-THÁKUR: Filosofie Vaišnavismu je velmi prostá. Miluj lidstvo a služ lidstvu: to je ta filosofie.
+THÁKUR: filosofie vaišnavismu je velmi prostá. miluj lidstvo a služ lidstvu: to je ta filosofie.
 
 RAKHAL: Vysvětli mi to, prosím, podrobněji. Není mi to jasné.
 
@@ -570,9 +565,9 @@ a osvoboď lidstvo ze snu nevědomosti.]
 * Pij, pij, nektar mé Matky
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:16-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:16-cs
   :END:
 
 
@@ -580,9 +575,9 @@ a osvoboď lidstvo ze snu nevědomosti.]
 * Obsazení
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DDMM:17e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: ddmm:17e1-cs
   :END:
 
 
@@ -598,9 +593,9 @@ Oddaný
 * Akt VI
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:17-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:17-cs
   :END:
 
 
@@ -608,9 +603,9 @@ Oddaný
 * Scéna I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:18-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:18-cs
   :END:
 
 
@@ -641,9 +636,9 @@ RÁMAKRŠNA: Ty tomu říkáš rozpory, já tomu říkám nedostatek pochopení.
 * Toto tělo zde nebude dlouho
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:19-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:19-cs
   :END:
 
 
@@ -651,9 +646,9 @@ RÁMAKRŠNA: Ty tomu říkáš rozpory, já tomu říkám nedostatek pochopení.
 * Obsazení
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DDMM:20e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: ddmm:20e1-cs
   :END:
 
 
@@ -667,9 +662,9 @@ OSTATNÍ VYBRANÍ ŽÁCI
 * Akt VII
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:20-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:20-cs
   :END:
 
 
@@ -677,9 +672,9 @@ OSTATNÍ VYBRANÍ ŽÁCI
 * Scéna I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:21-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:21-cs
   :END:
 
 
@@ -693,7 +688,7 @@ RÁMAKRŠNA: To záleží na Vůli Boha.
 
 NAREN: Vím, že tvá vůle se stala neoddělitelně sjednocenou s Vůlí Boha. 
 
-RÁMAKRŠNA: V tomto těle žijí dvě osoby: Bůh v podobě Avatára a Bůh v podobě oddaného. Oddaní Avatára přicházejí s ním a odcházejí s ním. 
+RÁMAKRŠNA: v tomto těle žijí dvě osoby: Bůh v podobě Avatára a Bůh v podobě oddaného. Oddaní Avatára přicházejí s ním a odcházejí s ním. 
 
 RAKHAL: Proto nesmíš sám odejít a nechat nás zde. 
 
@@ -731,9 +726,9 @@ NAREN: Thákure, ve tvém srdci je mé naplnění. U tvých nohou je má dokonal
 
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:22-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:22-cs
   :END:
 
 
@@ -741,9 +736,9 @@ NAREN: Thákure, ve tvém srdci je mé naplnění. U tvých nohou je má dokonal
 * Obsazení
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DDMM:23e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: ddmm:23e1-cs
   :END:
 
 
@@ -760,9 +755,9 @@ NAREN
 * Akt VIII
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:23-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:23-cs
   :END:
 
 
@@ -770,9 +765,9 @@ NAREN
 * Scéna I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:24-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:24-cs
   :END:
 
 
@@ -788,7 +783,7 @@ PRVNÍ ŽÁK: Rámakršna bude připadat jednomu člověku jako muž zmítaný e
 
 DRUHÝ ŽÁK: Je přirozené, že různí lidé budou mít na jeho osobnost různé názory. Protože v případech, jako je on, není možný bezchybný intelektuální posudek a jakýkoliv náš lidský názor smutně selže, aniž by nám dal nějakou uspokojivou odpověď. 
 
-TŘETÍ ŽÁK: Nikdo ale nebude nikdy váhat, aby o něm mluvil jako o nejmilovanějším dítěti Božské Matky Kálí. Jediným cílem jeho života bylo nemít nic jiného, než neustálou jednotu s Matkou Kálí. Tento cíl naplnil. Poselství jeho života se dá shrnout jediným slovem: Matka. 
+TŘETÍ ŽÁK: nikdo ale nebude nikdy váhat, aby o něm mluvil jako o nejmilovanějším dítěti božské matky kálí. jediným cílem jeho života bylo nemít nic jiného, než neustálou jednotu s matkou kálí. tento cíl naplnil. poselství jeho života se dá shrnout jediným slovem: Matka. 
 
 PRVNÍ ŽÁK: Je to také Rámakršna, kdo ženám prokazoval největší úctu, jakou kdy svět viděl. Cítí, že ženy jsou ztělesněním Božské Matky a jedná s nimi jako s bohyněmi. Svou duchovní družku, SARADA DÉVÍ, uctívá jako samu Božskou Matku.  
 
@@ -825,9 +820,9 @@ SARADA DÉVÍ: Ano, můj Božský Pane, máš pravdu. Ty jsi semínkem zasetým 
 * Vivékánanda čeká na vnitřní poselství
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:25-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:25-cs
   :END:
 
 
@@ -835,9 +830,9 @@ SARADA DÉVÍ: Ano, můj Božský Pane, máš pravdu. Ty jsi semínkem zasetým 
 * Obsazení
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DDMM:26e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: ddmm:26e1-cs
   :END:
 
 
@@ -849,9 +844,9 @@ POSLÍČEK
 * Akt IX
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:26-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:26-cs
   :END:
 
 
@@ -859,9 +854,9 @@ POSLÍČEK
 * Scéna I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:27-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:27-cs
   :END:
 
 /(Madras. Vivékánanda ve svém pokoji.)/
@@ -876,9 +871,9 @@ Ale nyní v předvečer svého odjezdu do Ameriky jsem se rozhodl, že pojedu z
 * Scéna II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:28-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:28-cs
   :END:
 
 /(o týden později)/
@@ -892,9 +887,9 @@ VIVÉKÁNANDA: Celý týden jsem čekal na nějaké konkrétní znamení od své
 * Scéna III
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:29-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:29-cs
   :END:
 
 
@@ -932,9 +927,9 @@ VIVÉKÁNANDA: A! To je od mé božské Matky! /(čte dopis)/ Získal jsem srde�
 * Narene, jsi Thákurovým slibem
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:30-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:30-cs
   :END:
 
 
@@ -942,9 +937,9 @@ VIVÉKÁNANDA: A! To je od mé božské Matky! /(čte dopis)/ Získal jsem srde�
 * Obsazení
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DDMM:31e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: ddmm:31e1-cs
   :END:
 
 
@@ -957,9 +952,9 @@ Několik bratrů žáků
 * Akt X
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:31-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:31-cs
   :END:
 
 
@@ -967,9 +962,9 @@ Několik bratrů žáků
 * Scéna I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:32-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:32-cs
   :END:
 
 
@@ -1018,9 +1013,9 @@ RAKHAL: V tobě je Thákurova hrdost a naplnění. Ty jsi Thákurův slib.
 * Narene, jsi má radost; jsi má pýcha
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:33-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:33-cs
   :END:
 
 
@@ -1028,9 +1023,9 @@ RAKHAL: V tobě je Thákurova hrdost a naplnění. Ty jsi Thákurův slib.
 * Obsazení
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DDMM:34e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: ddmm:34e1-cs
   :END:
 
 
@@ -1043,9 +1038,9 @@ NAREN
 * Akt XI
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:34-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:34-cs
   :END:
 
 
@@ -1053,9 +1048,9 @@ NAREN
 * Scéna I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:35-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:35-cs
   :END:
 
 
@@ -1102,9 +1097,9 @@ svému Měsíci Blaženosti Světla.]
 * Dvě matky a jeden syn
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:36-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:36-cs
   :END:
 
 
@@ -1112,9 +1107,9 @@ svému Měsíci Blaženosti Světla.]
 * Obsazení
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DDMM:37e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: ddmm:37e1-cs
   :END:
 
 
@@ -1128,9 +1123,9 @@ Přítelkyně BHUVANÉŠVARÍ
 * Akt XII
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DDMM:37e2-cs
+  :genre: section
+  :keywords:
+  :cite-key: ddmm:37e2-cs
   :END:
 
 
@@ -1138,9 +1133,9 @@ Přítelkyně BHUVANÉŠVARÍ
 * Scéna I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DDMM:37-cs
+  :genre: play
+  :keywords:
+  :cite-key: ddmm:37-cs
   :END:
 
 
@@ -1164,7 +1159,7 @@ BHUVANÉŠVARÍ: To všechno je dílo mého Narena.
 
 /(Vivékánanda uslyší svou matku a okamžitě se k ní otočí.)/
 
-VIVÉKÁNANDA: Matko, musím tě opravit. Ne tvůj Naren, ale její. /(Ukáže na SARADA DÉVÍ, která medituje.)/ Tvůj Naren by nikdy nedokázal takové věci.  Žiju mezi dvěma extrémy: naprostou neschopností a všemocnou silou.  Tvůj Naren nedokáže nic.  Nedokázal se postarat ani o svou matku a své mladší sourozence, když zemřel jeho otec. Naren mé božské Matky dokáže všechno.  Jedině její bezpodmínečné požehnání ze mě udělalo to, čím teď jsem. Její srdce je můj skutečný zdroj. Její nohy jsou můj jediný cíl.  
+VIVÉKÁNANDA: matko, musím tě opravit. ne tvůj naren, ale její. /(ukáže na sarada dÉvÍ, která medituje.)/ tvůj naren by nikdy nedokázal takové věci.  Žiju mezi dvěma extrémy: naprostou neschopností a všemocnou silou.  Tvůj Naren nedokáže nic.  Nedokázal se postarat ani o svou matku a své mladší sourozence, když zemřel jeho otec. Naren mé božské Matky dokáže všechno.  Jedině její bezpodmínečné požehnání ze mě udělalo to, čím teď jsem. Její srdce je můj skutečný zdroj. Její nohy jsou můj jediný cíl.  
 
 /(Naren zpívá)/
 
@@ -1200,19 +1195,3 @@ to je jediná aspirace mého života,
 jediná meditace, jediný Cíl.]
 
 #+END_VERSE
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

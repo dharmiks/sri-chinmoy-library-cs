@@ -1,20 +1,15 @@
-#+TITLE: Mé modlitby aspirace z vánočního výletu, část 35
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Mé modlitby aspirace z vánočního výletu, část 35
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: APR-35-cs
-  :GENRE: prayer
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2007
+  :publisher: Madal Bal
+  :cite-key: APR-35-cs
+  :genre: prayer
+  :keywords:
   :END: 
 
 
@@ -22,9 +17,9 @@
 * Poznámka editora 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: APR:2868e1-cs
-  :KEYWORDS:
+  :genre: note
+  :cite-key: apr:2868e1-cs
+  :keywords:
   :END:
 
 /Následující modlitby nabídl Sri Chinmoy během své návštěvy v Qingdao v Číně v prosinci roku 2004/
@@ -38,10 +33,10 @@
 * 1 Smrt není konec...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2868-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2868-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +52,10 @@ je náš tichý přítel.
 * 2 Smrt má konec ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2869-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2869-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +71,10 @@ je nekonečný proud.
 * 3 Můj Pán mi říká ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2870-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2870-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +90,10 @@ daleko přesahuje všechny hranice.
 * 4 Boží Oko Spravedlnosti...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2871-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2871-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -113,10 +108,10 @@ bere dovolenou.
 * 5 Samolibý život...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2872-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2872-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +126,10 @@ je neobyčejně zničující.
 * 6 Upřímně aspirující hledající...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2873-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2873-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -149,10 +144,10 @@ vždy uspějí.
 * 7 Život poslušnosti Bohu...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2874-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2874-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -168,10 +163,10 @@ a zároveň vnější krásou.
 * 8 Vlak Soucitu Boha...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2875-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2875-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -188,10 +183,10 @@ v Boží Soucit.
 * 9 Bůh chce, aby byl každý hledající...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2876-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2876-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -207,10 +202,10 @@ a napořád.
 * 10 Mé radostné odevzdání se...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2877-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2877-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 
@@ -228,10 +223,10 @@ k Božím Nohám.
 * 11 Naše aspirující okamžiky...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2878-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2878-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 
@@ -248,10 +243,10 @@ náš příchod k Bohu.
 * 12 Pamatuj ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2879-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2879-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +262,10 @@ je pro všechny.
 * 13 Veselost ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2880-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2880-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -286,10 +281,10 @@ nanejvýš pozoruhodným začátkem.
 * 14 Nikdy nedovol...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2881-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2881-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -305,10 +300,10 @@ snížila.
 * 15 Láska srdce se nachází...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2882-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-21
+  :genre: prayer
+  :cite-key: apr:2882-cs
+  :keywords:
+  :date-event: 2004-12-21
   :END:
 
 #+BEGIN_VERSE
@@ -323,10 +318,10 @@ lásky každého.
 * 22. prosince 2004...
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: APR-2883e2-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-22
+  :genre: note
+  :cite-key: APR-2883e2-cs
+  :keywords:
+  :date-event: 2004-12-22
   :END:
 
 
@@ -340,10 +335,10 @@ lásky každého.
 * 16 Život není...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2883-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-22
+  :genre: prayer
+  :cite-key: apr:2883-cs
+  :keywords:
+  :date-event: 2004-12-22
   :END:
 
 #+BEGIN_VERSE
@@ -360,10 +355,10 @@ odvážná pouť.
 * 17 Uvnitř mého spoléhání se...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2884-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-22
+  :genre: prayer
+  :cite-key: apr:2884-cs
+  :keywords:
+  :date-event: 2004-12-22
   :END:
 
 #+BEGIN_VERSE
@@ -379,10 +374,10 @@ panuje velká nejistota.
 * 18 Uvnitř mého spoléhání se na Boha...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2885-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-22
+  :genre: prayer
+  :cite-key: apr:2885-cs
+  :keywords:
+  :date-event: 2004-12-22
   :END:
 
 #+BEGIN_VERSE
@@ -398,10 +393,10 @@ zvon mého vítězství.
 * 19 Nechceš-li být...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2886-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-22
+  :genre: prayer
+  :cite-key: apr:2886-cs
+  :keywords:
+  :date-event: 2004-12-22
   :END:
 
 #+BEGIN_VERSE
@@ -420,10 +415,10 @@ svého Pána Nejvyššího.
 * 20 Naše Boží bezpečí...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2887-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-22
+  :genre: prayer
+  :cite-key: apr:2887-cs
+  :keywords:
+  :date-event: 2004-12-22
   :END:
 
 #+BEGIN_VERSE
@@ -440,10 +435,10 @@ a uvnitř hlubin našeho srdce.
 * 23. prosince 2004...
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: APR-2888e3-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: note
+  :cite-key: APR-2888e3-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 /23. prosince 2004/
@@ -455,10 +450,10 @@ a uvnitř hlubin našeho srdce.
 * 21 Bůh říká mému srdci...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2888-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2888-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -474,10 +469,10 @@ mé dítě aspirace.“
 * 22 Má víra ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2889-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2889-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -493,10 +488,10 @@ Dveře Božího Srdce.
 * 23 Neobviňuj nikoho ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2890-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2890-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -513,10 +508,10 @@ Božím Stvořením.
 * 24 Vše, co je dobré...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2891-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2891-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -531,10 +526,10 @@ opatruji.
 * 25 Vše, co je špatné...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2892-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2892-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -550,10 +545,10 @@ zapomínám.
 * 26 Nemůžeme pronásledovat božské myšlenky...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2893-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2893-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -569,10 +564,10 @@ jakým nás pronásleduje neštěstí?
 * 27 Svět tužeb...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2894-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2894-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -588,10 +583,10 @@ skutečnost.
 * 28 Můj výtah realizace...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2895-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2895-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -608,10 +603,10 @@ všechny své Sny o přeměně světa.
 * 29 Jsem hrdý...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2896-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2896-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -626,10 +621,10 @@ Jsem hrdý
 * 30 Bůh mě neoceňuje...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2897-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2897-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -645,10 +640,10 @@ je nenapravitelné.
 * 31 Má modlitba...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2898-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2898-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -664,10 +659,10 @@ písní mého života.
 * 32 Má meditace...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2899-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2899-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -683,10 +678,10 @@ slunečním svitem mého srdce.
 * 33 Svět je plný ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2900-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2900-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -702,10 +697,10 @@ vězení nevědomosti.
 * 34 Mé vděčné srdce...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2901-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2901-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -721,10 +716,10 @@ květinou krásy mé duše.
 * 35 Válka ničí...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2902-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2902-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -739,10 +734,10 @@ Bůh pláče.
 * 36 Nejoblíbenější dítě Boha, Mír, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2903-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2903-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -759,10 +754,10 @@ bez války.
 * 37 Jak dlouho může má mysl skrývat...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2904-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2904-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 
@@ -778,10 +773,10 @@ jak dlouho?
 * 38 Má touha...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2905-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2905-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 
@@ -798,10 +793,10 @@ lákadla světa.
 * 39 Má falešná aspirace...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2906-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2906-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -817,10 +812,10 @@ pozornost světa.
 * 40 Má upřímná aspirace...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2907-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2907-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -836,10 +831,10 @@ Zájmu Boha.
 * 41 Já toužím po...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2908-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2908-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -854,10 +849,10 @@ odhodlaném naplnění projevení Boha.
 * 42 Aspirace stoupá...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2909-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2909-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -872,10 +867,10 @@ vysoko, výše, nejvýše.
 * 43 Přeměna probíhá...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2910-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2910-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -891,10 +886,10 @@ tady, tam a všude.
 * 44 Neposlušnost ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2911-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2911-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -910,10 +905,10 @@ hledajícího.
 * 45 Negativní mysl...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2912-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2912-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -929,10 +924,10 @@ okamžité pohřbení.
 * 46 Neobávej se...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2913-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2913-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -948,10 +943,10 @@ Jen buď tentokrát opatrný!
 * 47 Vroucně miluji...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2914-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2914-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -967,10 +962,10 @@ své duše.
 * 48 Jak si přeji...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2915-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2915-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -987,10 +982,10 @@ svého Pána Nejvyššího!
 * 49 Přeji si stát se ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2916-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2916-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -1006,10 +1001,10 @@ a služebníkem Boha.
 * 50 Bůh si přeje...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: APR:2917-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2004-12-23
+  :genre: prayer
+  :cite-key: apr:2917-cs
+  :keywords:
+  :date-event: 2004-12-23
   :END:
 
 #+BEGIN_VERSE
@@ -1020,17 +1015,3 @@ než Jeho bezesným a bezdechým
 partnerem.
 
 #+END_VERSE
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

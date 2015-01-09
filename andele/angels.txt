@@ -1,12 +1,7 @@
-#+TITLE: Andělé
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Andělé
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -22,8 +17,8 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:1-cs
+  :genre:
+  :cite-key: angl:1-cs
   :END:
 
 
@@ -35,8 +30,8 @@ Andělé inspirují a více září. Andělé září a více ochraňují.
 * 2.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:2-cs
+  :genre:
+  :cite-key: angl:2-cs
   :END:
 
 
@@ -51,8 +46,8 @@ Dobrota andělů odhaluje.
 * 3.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:3-cs
+  :genre:
+  :cite-key: angl:3-cs
   :END:
 
 
@@ -68,8 +63,8 @@ je anděl.
 * 4.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:4-cs
+  :genre:
+  :cite-key: angl:4-cs
   :END:
 
 
@@ -81,8 +76,8 @@ Anděl je pozemské poslání služby vzestupujícího Boha.
 * 5.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:5-cs
+  :genre:
+  :cite-key: angl:5-cs
   :END:
 
 
@@ -93,8 +88,8 @@ Anděl žehná světu snu blažeností.
 * 6.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:6-cs
+  :genre:
+  :cite-key: angl:6-cs
   :END:
 
 
@@ -105,8 +100,8 @@ Anděl je krásou laskavého života a vůní soucitného srdce.
 * 7.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:7-cs
+  :genre:
+  :cite-key: angl:7-cs
   :END:
 
 
@@ -118,8 +113,8 @@ Anděl nepřichází se smrtí sám, mír přichází také.
 * 8.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:8-cs
+  :genre:
+  :cite-key: angl:8-cs
   :END:
 
 
@@ -131,8 +126,8 @@ Když se modlím, novodobý hlas anděla mne posiluje.
 * 9.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:9-cs
+  :genre:
+  :cite-key: angl:9-cs
   :END:
 
 
@@ -144,8 +139,8 @@ Anděl pomáhá lidskému srdci, aby bylo cílem příchodu Boha.
 * 10.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:10-cs
+  :genre:
+  :cite-key: angl:10-cs
   :END:
 
 
@@ -159,8 +154,8 @@ z mé poddané otrocké mysli.
 * 11.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:11-cs
+  :genre:
+  :cite-key: angl:11-cs
   :END:
 
 
@@ -173,8 +168,8 @@ Srdce Boha a potěší Boha Jeho vlastním Způsobem.
 * 12.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:12-cs
+  :genre:
+  :cite-key: angl:12-cs
   :END:
 
 
@@ -185,8 +180,8 @@ Když naslouchám andělu, urychluji svůj příchod k Bohu.
 * 13.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:13-cs
+  :genre:
+  :cite-key: angl:13-cs
   :END:
 
 
@@ -198,8 +193,8 @@ pokaždé jsem rozechvěn v celém svém nitru.
 * 14.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:14-cs
+  :genre:
+  :cite-key: angl:14-cs
   :END:
 
 
@@ -211,8 +206,8 @@ tvého květinově sladkého jména.
 * 15.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:15-cs
+  :genre:
+  :cite-key: angl:15-cs
   :END:
 
 
@@ -224,8 +219,8 @@ všechny mé neúnavné otázky.
 * 16.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:16-cs
+  :genre:
+  :cite-key: angl:16-cs
   :END:
 
 
@@ -236,8 +231,8 @@ Nenasloucháš poselství anděla díky své namyšlenosti a ne díky své sebed
 * 17.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:17-cs
+  :genre:
+  :cite-key: angl:17-cs
   :END:
 
 
@@ -249,8 +244,8 @@ přebývajícího v jeskyni, ale epocha člověka létajícího po obloze
 * 18.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:18-cs
+  :genre:
+  :cite-key: angl:18-cs
   :END:
 
 
@@ -261,8 +256,8 @@ Můj anděl strážný je zdaleka nejlepším krotitelem mých úzkostných obav
 * 19.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:19-cs
+  :genre:
+  :cite-key: angl:19-cs
   :END:
 
 
@@ -274,8 +269,8 @@ a zviditelňují se pro nás.
 * 20.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:20-cs
+  :genre:
+  :cite-key: angl:20-cs
   :END:
 
 
@@ -287,8 +282,8 @@ na zvonky mého srdce.
 * 21.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:21-cs
+  :genre:
+  :cite-key: angl:21-cs
   :END:
 
 
@@ -300,8 +295,8 @@ Anděl tě může milovat bez ohledu na to, čím jsi nebo kdo jsi.
 * 22.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:22-cs
+  :genre:
+  :cite-key: angl:22-cs
   :END:
 
 
@@ -313,8 +308,8 @@ tvé zářící oči mají pro mne magnetickou přitažlivost.
 * 23.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:23-cs
+  :genre:
+  :cite-key: angl:23-cs
   :END:
 
 
@@ -325,8 +320,8 @@ Už samotné slovo „anděl“ nesmírně okouzluje mé srdce.
 * 24.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:24-cs
+  :genre:
+  :cite-key: angl:24-cs
   :END:
 
 
@@ -338,8 +333,8 @@ Neočekávají od nás nic nazpátek.
 * 25.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:25-cs
+  :genre:
+  :cite-key: angl:25-cs
   :END:
 
 
@@ -351,8 +346,8 @@ je bezprostřední jízdou vzhůru ke vznešeným výškám Božskosti.
 * 26.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:26-cs
+  :genre:
+  :cite-key: angl:26-cs
   :END:
 
 
@@ -363,8 +358,8 @@ je bezprostřední jízdou vzhůru ke vznešeným výškám Božskosti.
 * 27.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:27-cs
+  :genre:
+  :cite-key: angl:27-cs
   :END:
 
 
@@ -375,8 +370,8 @@ Andělé žijí mezi mou komnatou srdce a Boží komnatou srdce.
 * 28.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:28-cs
+  :genre:
+  :cite-key: angl:28-cs
   :END:
 
 
@@ -388,8 +383,8 @@ Samotný Bůh bude zítra ochoten dát se tebou chytit.
 * 29.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:29-cs
+  :genre:
+  :cite-key: angl:29-cs
   :END:
 
 
@@ -400,8 +395,8 @@ Andělé mi v mých snech pomáhají dýchat s rozkvétajícím úsvitem.
 * 30.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:30-cs
+  :genre:
+  :cite-key: angl:30-cs
   :END:
 
 
@@ -413,8 +408,8 @@ spatřím anděla, jak maluje duhu na nebi mého srdce.
 * 31.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:31-cs
+  :genre:
+  :cite-key: angl:31-cs
   :END:
 
 
@@ -426,8 +421,8 @@ Když je moje meditace hluboká, slyším anděla hrát hudbu Nekonečnosti.
 * 32.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:32-cs
+  :genre:
+  :cite-key: angl:32-cs
   :END:
 
 
@@ -438,8 +433,8 @@ Ve chvíli, kdy se vedle mne zjeví anděl, se stanu extází svého srdce.
 * 33.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:33-cs
+  :genre:
+  :cite-key: angl:33-cs
   :END:
 
 
@@ -450,8 +445,8 @@ Anděl nás vždy vyzývá, abychom nečekali na budoucí vlaky zítřka.
 * 34.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:34-cs
+  :genre:
+  :cite-key: angl:34-cs
   :END:
 
 
@@ -462,8 +457,8 @@ V okamžiku, kdy sestupuje anděl, moje slabosti a touhy mizí.
 * 35.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:35-cs
+  :genre:
+  :cite-key: angl:35-cs
   :END:
 
 
@@ -475,8 +470,8 @@ Když spatřím anděla, to první co udělá je,
 * 36.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:36-cs
+  :genre:
+  :cite-key: angl:36-cs
   :END:
 
 
@@ -487,8 +482,8 @@ Jen naprostý pošetilec poslechne anděla s nechutí.
 * 37.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:37-cs
+  :genre:
+  :cite-key: angl:37-cs
   :END:
 
 
@@ -500,8 +495,8 @@ pošle ke mně Bůh anděla s jeho záplavou duhového úsměvu.
 * 38.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:38-cs
+  :genre:
+  :cite-key: angl:38-cs
   :END:
 
 
@@ -513,8 +508,8 @@ když nenasloucháme sladkým šepotům anděla.
 * 39.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:39-cs
+  :genre:
+  :cite-key: angl:39-cs
   :END:
 
 
@@ -525,8 +520,8 @@ Můj anděl strážný chce, abych byl člověkem hledajícím a ne mluvícím.
 * 40.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:40-cs
+  :genre:
+  :cite-key: angl:40-cs
   :END:
 
 
@@ -537,8 +532,8 @@ Ten, kdo získá po spatření anděla radost, těší ostatní.
 * 41.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:41-cs
+  :genre:
+  :cite-key: angl:41-cs
   :END:
 
 
@@ -552,8 +547,8 @@ aby mluvil za Něj.
 * 42.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:42-cs
+  :genre:
+  :cite-key: angl:42-cs
   :END:
 
 
@@ -563,8 +558,8 @@ Na rozdíl od země jsou andělé v Nebi velmi požadováni.
 * 43.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:43-cs
+  :genre:
+  :cite-key: angl:43-cs
   :END:
 
 
@@ -577,8 +572,8 @@ nejméně s jedním andělem.
 * 44.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:44-cs
+  :genre:
+  :cite-key: angl:44-cs
   :END:
 
 
@@ -592,8 +587,8 @@ a přesto nenasloucháme jejich radám.
 * 45.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:45-cs
+  :genre:
+  :cite-key: angl:45-cs
   :END:
 
 
@@ -605,8 +600,8 @@ pokaždé využije anděla.
 * 46.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:46-cs
+  :genre:
+  :cite-key: angl:46-cs
   :END:
 
 
@@ -618,8 +613,8 @@ ať už podle pozemských let, nebo podle Nebeského kalendáře.
 * 47.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:47-cs
+  :genre:
+  :cite-key: angl:47-cs
   :END:
 
 
@@ -631,8 +626,8 @@ Když se objeví můj anděl strážný, létám a létám.
 * 48.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:48-cs
+  :genre:
+  :cite-key: angl:48-cs
   :END:
 
 
@@ -645,8 +640,8 @@ Byl jsem trojnásobný hlupák, když jsem řekl, že náš svět může snadno 
 * 49.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:49-cs
+  :genre:
+  :cite-key: angl:49-cs
   :END:
 
 
@@ -657,8 +652,8 @@ Když se uvnitř fontány mého srdce rodí a padají moje slzy vděčnosti k B
 * 50.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:50-cs
+  :genre:
+  :cite-key: angl:50-cs
   :END:
 
 
@@ -670,8 +665,8 @@ Můj anděl strážný mi opakovaně říká,
 * 51.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:51-cs
+  :genre:
+  :cite-key: angl:51-cs
   :END:
 
 
@@ -685,8 +680,8 @@ když vidí, že můj život strádá nedostatkem vděčnosti.
 * 52.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:52-cs
+  :genre:
+  :cite-key: angl:52-cs
   :END:
 
 
@@ -698,8 +693,8 @@ ale my trpíme díky našim omezením -- díky pochybnosti o existenci anděla.
 * 53.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:53-cs
+  :genre:
+  :cite-key: angl:53-cs
   :END:
 
 
@@ -711,8 +706,8 @@ jako Jeho dítě -- anděl.
 * 54.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:54-cs
+  :genre:
+  :cite-key: angl:54-cs
   :END:
 
 
@@ -723,8 +718,8 @@ Hlavní úkol anděla je rozhodit všude kolem květy radosti.
 * 55.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:55-cs
+  :genre:
+  :cite-key: angl:55-cs
   :END:
 
 
@@ -735,8 +730,8 @@ Cítím, že jsem opravdu ojedinělý hledající jen tehdy, když mi Bůh zaru�
 * 56.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:56-cs
+  :genre:
+  :cite-key: angl:56-cs
   :END:
 
 
@@ -749,8 +744,8 @@ z ráje do ráje.
 * 57.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:57-cs
+  :genre:
+  :cite-key: angl:57-cs
   :END:
 
 
@@ -761,8 +756,8 @@ Pokaždé, když spatřím anděla, moje blaženost oddanosti k Bohu ihned vzro
 * 58.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:58-cs
+  :genre:
+  :cite-key: angl:58-cs
   :END:
 
 
@@ -774,8 +769,8 @@ Když já miluji svět, svět se usmívá a usmívá.
 * 59.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:59-cs
+  :genre:
+  :cite-key: angl:59-cs
   :END:
 
 
@@ -788,8 +783,8 @@ pro komunikaci s Bohem.
 * 60.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:60-cs
+  :genre:
+  :cite-key: angl:60-cs
   :END:
 
 
@@ -801,8 +796,8 @@ mé srdce nedokáže přestat tleskat.
 * 61.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:61-cs
+  :genre:
+  :cite-key: angl:61-cs
   :END:
 
 
@@ -813,8 +808,8 @@ Mé srdce si užívá svátek pokaždé, když je navštíví anděl.
 * 62.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:62-cs
+  :genre:
+  :cite-key: angl:62-cs
   :END:
 
 
@@ -825,8 +820,8 @@ Andělé si prostě nevšímají posměchu naší pochybovačné mysli.
 * 63.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:63-cs
+  :genre:
+  :cite-key: angl:63-cs
   :END:
 
 
@@ -837,8 +832,8 @@ Dotek anděla je můj cestovní pas do radosti svobody mého srdce.
 * 64.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:64-cs
+  :genre:
+  :cite-key: angl:64-cs
   :END:
 
 
@@ -849,8 +844,8 @@ Anděl nejenom chodí kolem mé hlavy, ale také vstupuje do mého srdce.
 * 65.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:65-cs
+  :genre:
+  :cite-key: angl:65-cs
   :END:
 
 
@@ -861,8 +856,8 @@ Blaženost provází mého anděla strážného, když chce přijít a požehnat
 * 66.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:66-cs
+  :genre:
+  :cite-key: angl:66-cs
   :END:
 
 
@@ -874,8 +869,8 @@ mohu vidět z mého vnitřního světa jen velmi málo.
 * 67.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:67-cs
+  :genre:
+  :cite-key: angl:67-cs
   :END:
 
 
@@ -887,8 +882,8 @@ abych zaujal drahocenné místo v jeho srdci.
 * 68.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:68-cs
+  :genre:
+  :cite-key: angl:68-cs
   :END:
 
 
@@ -899,8 +894,8 @@ Můj anděl strážný má ohromný deštník, pod kterým mohu vždy nalézt ú
 * 69.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:69-cs
+  :genre:
+  :cite-key: angl:69-cs
   :END:
 
 
@@ -913,8 +908,8 @@ nemá nikdy nic proti mně.
 * 70.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:70-cs
+  :genre:
+  :cite-key: angl:70-cs
   :END:
 
 
@@ -928,8 +923,8 @@ ihned pocítím, že jsem určen, abych byl jedinečný.
 * 71.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:71-cs
+  :genre:
+  :cite-key: angl:71-cs
   :END:
 
 
@@ -942,8 +937,8 @@ ale já sám si nařizuji, abych se učil.
 * 72.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:72-cs
+  :genre:
+  :cite-key: angl:72-cs
   :END:
 
 
@@ -956,8 +951,8 @@ když dobře vím,
 * 73.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:73-cs
+  :genre:
+  :cite-key: angl:73-cs
   :END:
 
 
@@ -970,22 +965,9 @@ od nepříjemné směsi strachu a studu.
 * 74.
 
   :PROPERTIES:
-  :GENRE:
-  :cite-key: ANGL:74-cs
+  :genre:
+  :cite-key: angl:74-cs
   :END:
 
 
 Nevím, proč potřebuji ještě kohokoliv jiného, než svého anděla strážného.
-
-
-
-
-#+SETUPFILE: ~/.org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-
-
-
-

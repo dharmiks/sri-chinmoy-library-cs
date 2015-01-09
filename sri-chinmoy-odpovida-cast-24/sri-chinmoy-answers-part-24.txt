@@ -1,20 +1,15 @@
-#+TITLE: Sri Chinmoy odpovídá, část 24
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 24
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2002
-  :PUBLISHER: Sri Chinmoy Centrum
-  :CITE-KEY: SCA-24-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2002
+  :publisher: Sri Chinmoy Centrum
+  :cite-key: SCA-24-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -23,9 +18,9 @@
 * Část I[fn:: SCA 818-820. Sri Chinmoy odpovídal na následující otázky 24. ledna 1996 v Durbanu v Jižní Africe] 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:818e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:818e1-cs
   :END:
 
 
@@ -33,14 +28,14 @@
 * Když máme nějaký manifestační projekt, někdy mám pocit, že znám tu jedinou správnou věc, kterou máme udělat, ale někdo jiný si myslí, že on nebo ona ví, co je nejlepší. Když ani jeden z nás nedokáže překonat tento pocit, jaké je správné řešení?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:818-cs
-  :DATE-EVENT: 1996-01-24
+  :genre: qa
+  :keywords:
+  :cite-key: sca:818-cs
+  :date-event: 1996-01-24
   :END:
 
 
-/Sri Chinmoy:/ Existuje cesta. V tuto chvíli bojuješ za svůj způsob. Máš pocit, že tvůj způsob je správný a že tvá přítelkyně se mýlí. Můžeš ale říci: „Dobrá. Obětuji se. Přijmu její způsob. Vím, že se stoprocentně mýlí, ale vyzkouším její způsob.“ Jestliže tím, že zvolíte její způsob, uděláte hroznou chybu, myslíte, že nebude mít oči nebo srdce, aby viděla, že jste byli natolik laskaví, abyste přijali její způsob, a proto se nic nepodařilo? Řekne: „Můj Bože! Má přítelkyně mě má tak ráda, že se zřekla svého způsobu, a co jsem já udělala? Všechno jsem zničila.“ Příště pak bude mnohem opatrnější, když bude nabízet nějaké řešení. 
+/Sri Chinmoy:/ existuje cesta. v tuto chvíli bojuješ za svůj způsob. máš pocit, že tvůj způsob je správný a že tvá přítelkyně se mýlí. můžeš ale říci: „dobrá. obětuji se. přijmu její způsob. vím, že se stoprocentně mýlí, ale vyzkouším její způsob.“ jestliže tím, že zvolíte její způsob, uděláte hroznou chybu, myslíte, že nebude mít oči nebo srdce, aby viděla, že jste byli natolik laskaví, abyste přijali její způsob, a proto se nic nepodařilo? Řekne: „Můj Bože! Má přítelkyně mě má tak ráda, že se zřekla svého způsobu, a co jsem já udělala? Všechno jsem zničila.“ Příště pak bude mnohem opatrnější, když bude nabízet nějaké řešení. 
 
 Totéž může udělat i ona. Může obětovat svůj způsob a přijmout ten tvůj.  Pak uvidí, zda jsi měla pravdu, nebo ses mýlila. Možná, že tvůj způsob je úplně špatný. Na jednu stranu můžeš říci, že ten, kdo se odevzdá, obětuje svou moudrost. Ale jak dlouho můžeš bojovat za svůj vlastní záměr? Jedna strana musí vystoupit a říci: „Uvidíme, zda je v jejím způsobu nějaká pravda, i když cítím, že je úplně špatný.“ Potom, když jí dáš šanci a ukáže se, že se naprosto mýlila, možná zjistíš, že ani tvůj způsob není úplně správný. Když oba vaše způsoby selžou, pak se musíte modlit k Nejvyššímu, aby vám dal třetí způsob, tak abyste mohli být úspěšnější.
 
@@ -51,10 +46,10 @@ Jeden člověk by měl přijít s postojem obětování a říci: „Odevzdává
 * Dejme tomu, že dva lidé mají způsob, jak pro tebe chtějí udělat něco, co je potřeba. Oba směřují ke stejnému výsledku, ale nejsou v harmonii. Měli bychom být ochotni spokojit se s menším dosažením, abychom si udrželi vnitřní harmonii?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:819-cs
-  :DATE-EVENT: 1996-01-24
+  :genre: qa
+  :keywords:
+  :cite-key: sca:819-cs
+  :date-event: 1996-01-24
   :END:
 
 
@@ -70,14 +65,14 @@ I když vás v obyčejném životě šéf urazí a vyhubuje vám, stále vám d
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:820-cs
-  :DATE-EVENT: 1996-01-24
+  :genre: qa
+  :keywords:
+  :cite-key: sca:820-cs
+  :date-event: 1996-01-24
   :END:
 
 
-/Sri Chinmoy:/ Nemusíte být nespokojení. Když něčeho dosáhnete a Mistr upřímně řekne: „Jsem na tebe velmi hrdý,“ pak si každou vteřinu připomínejte filozofii, kterou jste přijali -- sebepřekonání. Svět Za nám kyne. Když si myslíte, že cíl je nehybný, když si myslíte: „Ó, nyní jsem potěšil Gurua. To znamená, že jsem dosáhl cíle,“ pak na tom určitém místě uvíznete.
+/Sri Chinmoy:/ nemusíte být nespokojení. když něčeho dosáhnete a mistr upřímně řekne: „jsem na tebe velmi hrdý,“ pak si každou vteřinu připomínejte filozofii, kterou jste přijali -- sebepřekonání. svět za nám kyne. když si myslíte, že cíl je nehybný, když si myslíte: „Ó, nyní jsem potěšil Gurua. To znamená, že jsem dosáhl cíle,“ pak na tom určitém místě uvíznete.
 
 Vaše vitálno vám řekne, že jste dosáhli cíle. Ale setrváte-li v duši nebo dokonce i v srdci, řeknete: „Potěšil jsem jej, ale vím, že jeho filozofie a má filozofie jsou stejné -- sebepřekonání. To znamená, že musím jít dál, musím jít hlouběji, musím jít výše. Je-li na mě Guru dnes hrdý, nemohu jej snad učinit hrdým nekonečně více?“ 
 
@@ -92,7 +87,7 @@ V duchovním životě nám vždy jde o sebepřekonání. Sebepřekonání není 
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:821e1-cs
+  :cite-key: sca:821e1-cs
   :END:
 
 
@@ -100,10 +95,10 @@ V duchovním životě nám vždy jde o sebepřekonání. Sebepřekonání není 
 * Nedávno jsi řekl, že máme posílit naše přátelství.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:821-cs
-  :DATE-EVENT: 1996-02-21
+  :genre: qa
+  :keywords:
+  :cite-key: sca:821-cs
+  :date-event: 1996-02-21
   :END:
 
 
@@ -130,16 +125,16 @@ Na druhou stranu, když máte nějakou dobrou zprávu, v tu chvíli je to jako r
 * Je kromě tvého jména ještě nějaký zvuk nebo slovo, které můžeme použít, když tě vzýváme, a které by nás k tobě rychle přeneslo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:822-cs
-  :DATE-EVENT: 1996-02-21
+  :genre: qa
+  :keywords:
+  :cite-key: sca:822-cs
+  :date-event: 1996-02-21
   :END:
 
 
 /Sri Chinmoy:/ Nic nemůže být sladší než slovo ,Guru‘. Není to pouhé slovo nebo jméno. Je to mantra. Stalo se nedílnou součástí životního dechu všech žáků, kteří mě upřímně a vážně přijali, tak jako jsem se já neoddělitelně sjednotil se svými pravými žáky.
 
-Na druhou stranu je mnoho žáků, kteří získávají více radosti, když vzývají přímo Nejvyššího. On je mým Zdrojem. Nejvyšší je můj Guru, váš Guru, Guru všech. Pojem ,Nejvyšší‘ může být ale ještě před realizací Boha prázdný. Nejvyšší je jak osobní, tak neosobní. Dokud Jej nespatříme a nemluvíme s Ním tváří v tvář, může zůstávat neosobní. Když Naren přišel ke Sri Rámakrišnovi, zeptal se ho: „Viděl jsi Boha?“ Sri Rámakrišna řekl: „Zda jsem viděl Boha? Mohu s Ním mluvit jasněji a důvěrněji než s tebou. Mohu Jej vidět jasněji, než před sebou mohu vidět tebe.“ Já mohu říci totéž. Nejenže Jej vidím, ale také s Ním mohu mluvit. Proč by pro mě mělo být nemožné mluvit se svým Nejvyšším? Stejně tak je to s malým dítětem, které chce mluvit se svým otcem. Nehledě na to, co otec zrovna dělá, stráví se svým dítětem pár chvil. Podívejte se na mého psa Čélu. Nehledě na to, jak jsem vážný nebo co zrovna dělám, zajímá to Čélu? Prostě přiběhne a řekne ve svém štěkacím jazyce všechno, co má na srdci. Čéla zná svou jednotu se mnou. Stejně tak Bůh je náš Absolutní Pán Nejvyšší, ale i ve svém lidském vědomí se na Něj mohu obrátit.
+Na druhou stranu je mnoho žáků, kteří získávají více radosti, když vzývají přímo Nejvyššího. On je mým Zdrojem. Nejvyšší je můj Guru, váš Guru, Guru všech. Pojem ,Nejvyšší‘ může být ale ještě před realizací Boha prázdný. Nejvyšší je jak osobní, tak neosobní. Dokud Jej nespatříme a nemluvíme s Ním tváří v tvář, může zůstávat neosobní. Když Naren přišel ke Sri Rámakrišnovi, zeptal se ho: „viděl jsi boha?“ sri rámakrišna řekl: „Zda jsem viděl Boha? Mohu s Ním mluvit jasněji a důvěrněji než s tebou. Mohu Jej vidět jasněji, než před sebou mohu vidět tebe.“ Já mohu říci totéž. Nejenže Jej vidím, ale také s Ním mohu mluvit. Proč by pro mě mělo být nemožné mluvit se svým Nejvyšším? Stejně tak je to s malým dítětem, které chce mluvit se svým otcem. Nehledě na to, co otec zrovna dělá, stráví se svým dítětem pár chvil. Podívejte se na mého psa Čélu. Nehledě na to, jak jsem vážný nebo co zrovna dělám, zajímá to Čélu? Prostě přiběhne a řekne ve svém štěkacím jazyce všechno, co má na srdci. Čéla zná svou jednotu se mnou. Stejně tak Bůh je náš Absolutní Pán Nejvyšší, ale i ve svém lidském vědomí se na Něj mohu obrátit.
 
 Abych se vrátil k tvé otázce -- používej slovo, které ti dává největší radost. Nejvyšší se neoddělitelně a bez dechu sjednotil s tvým životním dechem a také tvůj Guru se neoddělitelně sjednotil s tvým životním dechem. Naneštěstí jsou žáci, kteří, ačkoli jsou se mnou již mnoho let, si mne neuchovávají ve svém životním dechu. Na druhou stranu, jsou někteří noví žáci, zvláště ti, co žijí v jiných zemích, kteří mi v této inkarnaci nikdy nebudou mít možnost říci jediné slovo a ani já nebudu mít možnost mluvit s nimi. Navzdory tomu si vypěstovali takovou blízkost a takovou jednotu s životním dechem mé božskosti, s mým dechem Věčnosti! Tato jednota, kterou si se mnou vytvořili, je tak pevná, tak hmatatelná.
 
@@ -152,10 +147,10 @@ Proč lidé procházejí suchými obdobími? Protože ztrácí svou oddanost. Od
 * Co vlastně znamená vidět v někom nebo v něčem božské?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:823-cs
-  :DATE-EVENT: 1996-02-21
+  :genre: qa
+  :keywords:
+  :cite-key: sca:823-cs
+  :date-event: 1996-02-21
   :END:
 
 
@@ -167,9 +162,9 @@ Přichází-li radost nebo sladkost, kterou nám duše dává, okamžitě a spon
 
 Můžete-li získat spontánní pocit, pak to je úplně nejdůležitější. Když potom vidíte, že je někdo dobrý hledající, že se modlí a medituje nebo že má jiné dobré vlastnosti, dovedete si vážit božského v něm. Nedovolíte své nejistotě, žárlivosti, nečistotě nebo rozdělující mysli, aby překážely. Mezi vámi a tou osobou nesmí být žádné soutěžení.
 
-Někdy se stává, že srdce si váží, ale vitálno je žárlivé nebo mysl lakomá. Mysl vám nedovolí mít radost. Uvidíte-li květinu, mysl může říci: „Nejsem tak krásná jako ta květina, tak kdo o ni stojí?“ Na druhou stranu, když uvidíte krásnou květinu, můžete říci: „Jak si přeji být tak krásná jako ta květina, tak voňavá jako ta květina.“ Toto přání nevytváří žádnou žárlivost, žádnou nejistotu, žádné rozdělení.
+Někdy se stává, že srdce si váží, ale vitálno je žárlivé nebo mysl lakomá. Mysl vám nedovolí mít radost. Uvidíte-li květinu, mysl může říci: „nejsem tak krásná jako ta květina, tak kdo o ni stojí?“ na druhou stranu, když uvidíte krásnou květinu, můžete říci: „Jak si přeji být tak krásná jako ta květina, tak voňavá jako ta květina.“ Toto přání nevytváří žádnou žárlivost, žádnou nejistotu, žádné rozdělení.
 
-Ale pouhé přání nestačí. Když vidíte, že někdo jiný oduševněle medituje nebo se modlí, musíte se modlit k Bohu: „Prosím, pomoz mi stát se tak oduševnělým a zbožným, jako je on.“ Pak Bůh uvidí, že s tím člověkem nesoutěžíte. Jen uvnitř něj vidíte něco krásného -- jako krásnou květinu. Bůh vidí, že se chcete ztotožnit s Jeho božským aspektem, který se v tomto člověku již projevil. Pak řekne: „Jedno z Mých dětí něčeho dosáhlo a jiné Mé dítě si toho začalo vážit, místo aby žárlilo. Toto dítě se ke Mně modlí, aby mělo tytéž dobré vlastnosti. Jsem víc než připraven mu je dát.“
+Ale pouhé přání nestačí. Když vidíte, že někdo jiný oduševněle medituje nebo se modlí, musíte se modlit k Bohu: „prosím, pomoz mi stát se tak oduševnělým a zbožným, jako je on.“ pak bůh uvidí, že s tím člověkem nesoutěžíte. jen uvnitř něj vidíte něco krásného -- jako krásnou květinu. bůh vidí, že se chcete ztotožnit s jeho božským aspektem, který se v tomto člověku již projevil. pak řekne: „Jedno z Mých dětí něčeho dosáhlo a jiné Mé dítě si toho začalo vážit, místo aby žárlilo. Toto dítě se ke Mně modlí, aby mělo tytéž dobré vlastnosti. Jsem víc než připraven mu je dát.“
 
 Častokrát se stává, že když nemáme určité dobré vlastnosti, budeme se je snažit u druhých zmenšit. Budeme se snažit nevidět v nich žádnou hodnotu. Na druhou stranu jsou i některé dobré duše, které chtějí být lepší a nejlepší. Dnes jsou dobré. Zítra se chtějí stát lepšími a nejlepšími. Jak se staneme nejlepšími -- oddělováním se, nebo sjednocováním se? Oddělováním se, ať už lakotou, žárlivostí nebo nejistotou, se nikdy, nikdy nestaneme lepšími. Jen pozitivním způsobem, tím, že budeme mít mír, klid a lásku k Božskému, které se někde projevilo, se můžeme stát lepšími. Nebudeme milovat květinu nebo hledajícího jako takové, ale božskost, která učinila květinu krásnou, božskost, která učinila hledajícího oduševnělým. Musíte mít lásku k božskosti, které se projevuje v každé věci.
 
@@ -194,7 +189,7 @@ Kdybych pro tyto tři otázky použil svou mysl, nebyl bych schopný mluvit o ka
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:824e1
+  :cite-key: sca:824e1
   :END:
 
 
@@ -202,10 +197,10 @@ Kdybych pro tyto tři otázky použil svou mysl, nebyl bych schopný mluvit o ka
 * Trénink na desetiboj
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:824-cs
-  :DATE-EVENT: 1996-06-19
+  :genre: interview
+  :keywords:
+  :cite-key: sca:824-cs
+  :date-event: 1996-06-19
   :END:
 
 
@@ -226,10 +221,10 @@ Kolik času trávíte tréninkem, jako je posilování? Kolikrát týdně posilu
 * Před Olympiádou
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:825-cs
-  :DATE-EVENT: 1996-06-19
+  :genre: interview
+  :keywords:
+  :cite-key: sca:825-cs
+  :date-event: 1996-06-19
   :END:
 
 
@@ -252,16 +247,16 @@ Bude s vámi váš trenér?
 * Odpočinek
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:826-cs
-  :DATE-EVENT: 1996-06-19
+  :genre: interview
+  :keywords:
+  :cite-key: sca:826-cs
+  :date-event: 1996-06-19
   :END:
 
 
 /Sri Chinmoy:/ Vaše tělo vám někdy neřekne, že děláte víc, než potřebujete, nebo že neděláte tolik, kolik máte? Jaké poselství dostáváte od svého těla?
 
-/Robert Změlík:/ Cítím, že jsem celý rok v San Diegu pracoval velmi tvrdě bez odpočinku, jen jsem pracoval a pracoval. Teď cítím, že mi tělo říká: „Roberte, nyní musíš být moudrý, protože Olympiáda se již rychle blíží a ty potřebuješ zvláštní program.“
+/Robert Změlík:/ cítím, že jsem celý rok v san diegu pracoval velmi tvrdě bez odpočinku, jen jsem pracoval a pracoval. teď cítím, že mi tělo říká: „Roberte, nyní musíš být moudrý, protože Olympiáda se již rychle blíží a ty potřebuješ zvláštní program.“
 
 /Sri Chinmoy:/ Zahrnuje ale ten zvláštní program trochu více odpočinku?
 
@@ -270,15 +265,15 @@ Bude s vámi váš trenér?
 
 /Sri Chinmoy:/ Nedovolte, aby vás vaše mysl ovládala. Vy ovládejte svou mysl. Řekněme, že jste jeden den odpočíval. Mysl vám pak řekne, že jste necvičil mnoho dní. Přijdou k vám nejrůznější starosti a úzkosti a přesvědčí vás, že jste odpočíval mnoho dní. Mysl vám může říci, že jste ztratil trochu schopnosti nebo že už nejste dychtivý, už nejste upřímný, už to nemyslíte vážně. Tato ničemná mysl vám může následující den říci, že kdybyste byl velmi upřímný a opravdu to myslel vážně, pak byste včera také cvičil. Tím, že mysl tvrdí, že to nemyslíte vážně a jste neupřímný, vás oslabuje.
 
-V tu chvíli se musíte stát pánem své mysli. Musíte jí říci: „Mé tělo je jako stroj. Velký stroj v továrně potřebuje po několika hodinách doplnit palivo. Všechno potřebuje odpočinek a odpočinek přináší energii. Včera jsem odpočíval; zoufale jsem to potřeboval. Nic nemohu dělat dvacet čtyři hodin denně. I když rád jím, mohu snad jíst dvacet čtyři hodin? To nejde.“ Když se najíme, jsme spokojení. Podobně když si po několika dnech cvičení svaly odpočinou, dostanou výživu. A tak říká-li vám mysl, že už to nemyslíte vážně, že už nejste upřímný a nemáte disciplínu, namítněte jí: „Ach mysli, jsem moudřejší než ty. Proč bych měl být na bojišti každý den, každou hodinu? Musím se vrátit domů odpočinout si.“
+V tu chvíli se musíte stát pánem své mysli. Musíte jí říci: „mé tělo je jako stroj. velký stroj v továrně potřebuje po několika hodinách doplnit palivo. všechno potřebuje odpočinek a odpočinek přináší energii. včera jsem odpočíval; zoufale jsem to potřeboval. nic nemohu dělat dvacet čtyři hodin denně. i když rád jím, mohu snad jíst dvacet čtyři hodin? to nejde.“ když se najíme, jsme spokojení. podobně když si po několika dnech cvičení svaly odpočinou, dostanou výživu. a tak říká-li vám mysl, že už to nemyslíte vážně, že už nejste upřímný a nemáte disciplínu, namítněte jí: „Ach mysli, jsem moudřejší než ty. Proč bych měl být na bojišti každý den, každou hodinu? Musím se vrátit domů odpočinout si.“
 
 V den, kdy jste necvičil, nešel jste na bojiště. Proč? Ne proto, že jste zbabělec, ne proto, že jste slabý, ale proto, že chcete znovu nabýt sil. Následující den pak půjdete na bojiště a všechny porazíte. Byl jste moudrý, a tak jste odpočíval, abyste nabyl víc síly a mohl porazit své nepřátele. Vaše mysl na vás však může zahrát trik a přesvědčit vás, že se celý váš svět se zhroutil, jelikož jste jeden den odpočíval -- už nejste ukázněný, už to se svým sportováním nemyslíte vážně. To se některým atletům stává. Mysl vždy zkouší triky. Naproti tomu, když jste jeden den tvrdě cvičil a další den jste vcelku spokojen, může vám mysl říci: „To nestačí. Měl jsi cvičit víc.“ Cvičil jste víc než dost; jste spokojen. Ale vaše vychytralá mysl vám bere všechnu radost, protože vám říká, že jste necvičil dostatečně. 
 
-Možná půjdete domů, lehnete si a řeknete: „Ó, byl jsem velmi dobrý v hodu oštěpem.“ Vaše mysl vám pak vezme všechnu radost tím, že řekne: „To nestačilo. Kdybych hodil ještě jednou, bylo by to o dva metry dál.“ Mysl z nás vždy udělá hlupáka a vezme nám veškerou radost. V tu chvíli musí být soudcem vaše srdce. Vaše srdce řekne: „Ne, udělal jsem tolik, kolik jsem chtěl. Chtěl jsem hodit patnáctkrát, a tak jsem to udělal. To mi stačí.“
+Možná půjdete domů, lehnete si a řeknete: „Ó, byl jsem velmi dobrý v hodu oštěpem.“ vaše mysl vám pak vezme všechnu radost tím, že řekne: „to nestačilo. kdybych hodil ještě jednou, bylo by to o dva metry dál.“ mysl z nás vždy udělá hlupáka a vezme nám veškerou radost. v tu chvíli musí být soudcem vaše srdce. vaše srdce řekne: „Ne, udělal jsem tolik, kolik jsem chtěl. Chtěl jsem hodit patnáctkrát, a tak jsem to udělal. To mi stačí.“
 
 Konečným soudcem musí být srdce. Ať už uděláte cokoli, srdce vám řekne, že jste udělal správnou věc. Skončíte-li po patnácti hodech, srdce řekne, že jste udělal naprosto správnou věc. Mysl řekne: „Ne, měl jsem hodit ještě dvakrát nebo třikrát. Pak bych byl lepší.“ Kdybyste však hodil víckrát, možná že byste se zranil, namísto abyste byl lepší. Takže mysl vůbec neposlouchejte. Cokoli děláte, dělejte šťastně a radostně. V den, kdy odpočíváte, ciťte, že je to pro vás naprosto správná věc. V den, kdy trénujete, ciťte, že děláte naprosto správnou věc. Ať už děláte cokoli, ciťte, že je to pro vás naprosto správné. Pokud si budete myslet, že to, co děláte, není správné, vaše mysl vám vezme všechnu radost, nadšení, dychtivost a připravenost. 
 
-Když vrháte koulí, ciťte prosím, že děláte správnou věc. Neříkejte si: „Měl bych dělat něco jiného. Včera jsem byl tak špatný v běhu na 400 metrů! Měl bych ho trénovat trochu víc. Vrháte-li koulí, vaše srdce vám říká: „Tohle je chvíle, kdy mám vrhat koulí.“ Nemyslete v tu chvíli na to, že jste včera nebyl dobrý v běhu na 400 metrů. Od samého začátku musí být tím, kdo rozhoduje, vaše srdce. 
+Když vrháte koulí, ciťte prosím, že děláte správnou věc. Neříkejte si: „měl bych dělat něco jiného. včera jsem byl tak špatný v běhu na 400 metrů! měl bych ho trénovat trochu víc. vrháte-li koulí, vaše srdce vám říká: „Tohle je chvíle, kdy mám vrhat koulí.“ Nemyslete v tu chvíli na to, že jste včera nebyl dobrý v běhu na 400 metrů. Od samého začátku musí být tím, kdo rozhoduje, vaše srdce. 
 
 Řekl jste, že jste svým vlastním trenérem. To je výborné. Tím skutečným trenérem však musí být vaše srdce. To znamená, že vše musíte dělat radostně. Kdykoli něco děláte šťastně -- ať už házení, skákání, překážky nebo něco jiného -- musíte vědět, že děláte správnou věc. Nejste-li při tom, co děláte, šťastný, je to mysl, která vás činí nešťastným. 
 
@@ -296,22 +291,22 @@ Kolik hodin odpočinku máte v noci?
 * Happiness
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:827-cs
-  :DATE-EVENT: 1996-06-19
+  :genre: interview
+  :keywords:
+  :cite-key: sca:827-cs
+  :date-event: 1996-06-19
   :END:
 
 
-/Sri Chinmoy:/ Pokaždé si představte, že jste lepší. Dosáhnete-li ve skoku vysokém určité výšky, mysl řekne: „Ó, to je maximální výška.“ Zapomeňte na mysl. Představte si, že jste skočil o dva palce výš. Tam držte výšku, ne níž. A zatímco si představujete, buďte velmi, velmi šťastný. Ciťte, že se vám to podařilo. 
+/Sri Chinmoy:/ pokaždé si představte, že jste lepší. dosáhnete-li ve skoku vysokém určité výšky, mysl řekne: „Ó, to je maximální výška.“ Zapomeňte na mysl. Představte si, že jste skočil o dva palce výš. Tam držte výšku, ne níž. A zatímco si představujete, buďte velmi, velmi šťastný. Ciťte, že se vám to podařilo. 
 
 Vždy si udělejte radost tím, že si představíte něco vyššího, delšího, rychlejšího. Je-li to běhání, prostě si představte, že běžíte rychleji. Je-li to skok do výšky nebo o tyči, představujte si vyšší skok. Pokaždé, když si představujete, ciťte, že jste velmi šťastný, velmi šťastný proto, že jste to dokázal. Vaše představivost nemá vůbec žádné hranice. Když si představujete, nemyslete na to, že tu jsou překážky, přes které musíte přeskočit. Ne, ciťte, že trať je naprosto volná; na trati jste jenom vy a nikdo jiný.
 
-Jsem velmi, velmi šťastný, že s vámi mohu hovořit v době před vaším olympijskou soutěží. Vaše štěstí je vaší silou. Štěstí vám dá jistotu; jistota vám dá štěstí. Při skoku do výšky nebo při čemkoli jiném ciťte, že to děláte proto, abyste byl šťastný. Pokud se vám dnes nedaří nejlépe, prostě si řekněte: „To není nutné. Až přijde čas, snadno to dokážu.“ Neříkejte: „Jestli to nedokážu dnes, jak to dokážu na Olympiádě?“ Ne. Musíte říci: „Není to nezbytné. Dokážu to snadno.“
+Jsem velmi, velmi šťastný, že s vámi mohu hovořit v době před vaším olympijskou soutěží. Vaše štěstí je vaší silou. Štěstí vám dá jistotu; jistota vám dá štěstí. Při skoku do výšky nebo při čemkoli jiném ciťte, že to děláte proto, abyste byl šťastný. Pokud se vám dnes nedaří nejlépe, prostě si řekněte: „to není nutné. až přijde čas, snadno to dokážu.“ neříkejte: „jestli to nedokážu dnes, jak to dokážu na olympiádě?“ ne. musíte říci: „Není to nezbytné. Dokážu to snadno.“
 
 Pokaždé odmítněte svou mysl. Buďte pánem své mysli. Mysl se bude vždy snažit vytvářet sebepochyby. Mysl nám nikdy nedá radost. Když nám na pět vteřin poskytne určitou radost, po pěti minutách nám jí sebere ještě daleko víc. Z mysli můžeme získat omezenou radost. Mysl však potom tuto omezenou radost odebere a k tomu přinese neomezené neštěstí. Dá jeden dolar. Poté tento dolar vezme a zkouší od srdce ukrást dalších deset dolarů. Srdce má radost, a tak mysl potajmu vchází do místnosti srdce a tuto radost srdci bere.
 
-Cokoli děláte, dělejte šťastně. Ničeho nelitujte: „Ó, měl bych dělat tohle; měl bych dělat tamto.“ Ne, cokoli uděláte, ciťte, že je to naprosto správná věc. To vám dá radost. Jakmile jste to už udělal, ciťte, že jste udělal, jak jste mohl nejlépe. Řeknete-li: „Měl jsem dělat něco jiného,“ oslabí vás to. Pak nebudete schopen dobře zvládnout své další disciplíny. Vždy dělejte vše dobře a říkejte si: „Udělal jsem správnou věc. Pokud jsem odpočíval, bylo to naprosto nezbytné. Jestliže jsem neodpočíval, bylo to proto, že to nebylo nezbytné.“ Neustále přesvědčujte svou mysl štěstím, štěstím.
+Cokoli děláte, dělejte šťastně. Ničeho nelitujte: „Ó, měl bych dělat tohle; měl bych dělat tamto.“ ne, cokoli uděláte, ciťte, že je to naprosto správná věc. to vám dá radost. jakmile jste to už udělal, ciťte, že jste udělal, jak jste mohl nejlépe. Řeknete-li: „měl jsem dělat něco jiného,“ oslabí vás to. pak nebudete schopen dobře zvládnout své další disciplíny. vždy dělejte vše dobře a říkejte si: „Udělal jsem správnou věc. Pokud jsem odpočíval, bylo to naprosto nezbytné. Jestliže jsem neodpočíval, bylo to proto, že to nebylo nezbytné.“ Neustále přesvědčujte svou mysl štěstím, štěstím.
 
 Přeji vám hodně, víc, nejvíc štěstí v každé disciplíně!
 
@@ -320,9 +315,9 @@ Přeji vám hodně, víc, nejvíc štěstí v každé disciplíně!
 * Část IV[fn:: SCA 828-829. Sri Chinmoy odpovídal na následující otázky 21. října 1996 v San Francisku.] 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:828e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:828e1-cs
   :END:
 
 
@@ -330,10 +325,10 @@ Přeji vám hodně, víc, nejvíc štěstí v každé disciplíně!
 * Co bys považoval za ideální meditaci v Centru?
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:828-cs
-  :DATE-EVENT: 1996-10-21
+  :genre: note
+  :keywords:
+  :cite-key: sca:828-cs
+  :date-event: 1996-10-21
   :END:
 
 
@@ -347,11 +342,11 @@ V duchovním životě je to stejné. Některé dny nejste vůbec inspirováni. N
 
 Někteří dobří žáci cítí, že jejich Centrum nebo jejich město není jediným místem pro jejich aspiraci a zasvěcení. Cítí, že jsou připraveni pracovat pro celý svět. Právě teď se staráš o své Centrum, zatímco tvoje žena a syn manifestují jinde. Kdybys byl v obyčejném vědomí, měl bys pocit: „Ach, jsem naprosto ztracen. Moje žena není se mnou, můj syn mě opustil!“ Pokud jsi však v srdci, což jsi, budeš velmi hrdý na svou ženu a syna. Zde neseš prapor úplně sám. Takže ve své rodině vyučuješ a zároveň se učíš. Zatímco vyučuješ, učíš se, že existuje jen jedno Centrum, jedno univerzální Centrum, a tím Centrem je srdce vašeho Gurua. To je správný postoj -- ne jedno město, nýbrž celý svět je vaším Centrem. Nejen vedoucí Centra, ale také členové Centra si musí myslet, že existuje jen jedno Centrum, a tím je moje srdce. Někteří žáci jezdí sem a tam, aby pracovali pro projevení Nejvyššího.  Vždy byste měli být připraveni jet tam, kam je třeba. Jsme jedna rodina a naše Centrum je všude.
 
-Ještě o něčem bych se chtěl zmínit, a to jsou Joy Days. Nemáte nejmenší tušení, jakou radost mám z vašich Joy Days. Ať už máte radost vy nebo ne, já ji určitě mám. Musíte jet autem pět nebo šest hodin, takže na vnější úrovni to není snadné. Na druhou stranu však můžete změnit svůj postoj. Použijete-li svou mysl, řeknete: „Jestliže budu muset řídit deset hodin, pak je to nemožné.“ Ale užijete-li srdce, řeknete: „Ó, v autě dostávám zlatou příležitost udělat pokrok. Mohu poslouchat Guruovy kazety. Mohu zpívat oddané písně. Mohu s sebou vzít další žáky, kteří mě budou inspirovat, a já je také mohu inspirovat.“ Po celý týden možná nemáte příležitost myslet na svůj duchovní život nepřetržitě pět nebo šest hodin. Jste-li ve skupině a jedete-li dlouhou vzdálenost, můžete poslouchat kazety nebo můžete hovořit o duchovnosti. Nechci, abyste vstupovali do světa pomluv. Mluvte jen o duchovních věcech, inspirujících věcech. Tímto způsobem se na to dívejte jako na příležitost.
+Ještě o něčem bych se chtěl zmínit, a to jsou Joy Days. Nemáte nejmenší tušení, jakou radost mám z vašich Joy Days. Ať už máte radost vy nebo ne, já ji určitě mám. Musíte jet autem pět nebo šest hodin, takže na vnější úrovni to není snadné. Na druhou stranu však můžete změnit svůj postoj. Použijete-li svou mysl, řeknete: „jestliže budu muset řídit deset hodin, pak je to nemožné.“ ale užijete-li srdce, řeknete: „Ó, v autě dostávám zlatou příležitost udělat pokrok. Mohu poslouchat Guruovy kazety. Mohu zpívat oddané písně. Mohu s sebou vzít další žáky, kteří mě budou inspirovat, a já je také mohu inspirovat.“ Po celý týden možná nemáte příležitost myslet na svůj duchovní život nepřetržitě pět nebo šest hodin. Jste-li ve skupině a jedete-li dlouhou vzdálenost, můžete poslouchat kazety nebo můžete hovořit o duchovnosti. Nechci, abyste vstupovali do světa pomluv. Mluvte jen o duchovních věcech, inspirujících věcech. Tímto způsobem se na to dívejte jako na příležitost.
 
 Když jsem bydlel v Brooklynu, dojet na indický konzulát mi trvalo téměř dvě hodiny. Musel jsem v metru třikrát přestupovat. Měl jsem vždy ohromnou radost, protože jsem takto získal dvě hodiny na meditaci. Říkával jsem si: „Jaká příležitost -- zlatá příležitost!“ Stejný postoj můžete mít k Joy Days.
 
-Máme-li radost, můžeme dělat nejrychlejší pokrok. Vzýváme-li smutek a depresi, abychom se udělali bezmocnými, beznadějnými a zbytečnými, nebudeme nikdy schopni přimět Boha, aby k nám přišel. Bůh řekne: „Zůstaňte si bezmocnými a beznadějnými. Nepotřebuji vás.“ Včera jste se naučili jednu píseň: /To be cheerful is to be on God‘s side/ (Být veselý znamená být na Boží straně). Jestliže já jsem na vaší straně, nebudete i vy na mé straně? Mohu-li být k vašim službám, nebudete i vy k mým službám? Je to vzájemné, oboustranné. Štěstí není jen vaší silou. Je také silou Boha. Jste-li upřímně šťastní, posilujete Boha. Zvětšujete Boží víru ve vás. Bůh vám pak bude svěřovat stále více odpovědnosti. V duchovním životě existuje jen jedno tajemství a tím je radost. Jakmile jste jednou veselí, přikrývky, které jste používali, abyste se chránili před svým mentálním chladem, zmizí. Nebudete je potřebovat. 
+Máme-li radost, můžeme dělat nejrychlejší pokrok. Vzýváme-li smutek a depresi, abychom se udělali bezmocnými, beznadějnými a zbytečnými, nebudeme nikdy schopni přimět Boha, aby k nám přišel. Bůh řekne: „zůstaňte si bezmocnými a beznadějnými. nepotřebuji vás.“ včera jste se naučili jednu píseň: /To be cheerful is to be on God‘s side/ (Být veselý znamená být na Boží straně). Jestliže já jsem na vaší straně, nebudete i vy na mé straně? Mohu-li být k vašim službám, nebudete i vy k mým službám? Je to vzájemné, oboustranné. Štěstí není jen vaší silou. Je také silou Boha. Jste-li upřímně šťastní, posilujete Boha. Zvětšujete Boží víru ve vás. Bůh vám pak bude svěřovat stále více odpovědnosti. V duchovním životě existuje jen jedno tajemství a tím je radost. Jakmile jste jednou veselí, přikrývky, které jste používali, abyste se chránili před svým mentálním chladem, zmizí. Nebudete je potřebovat. 
 
 Opravdu bych si přál, aby se všichni žáci účastnili Joy Days. Je-li to možné, pokuste se mít Joy Days alespoň dvakrát ročně. Mohou se sejít tři nebo čtyři Centra, nebo i jen dvě Centra. Na druhou stranu, pokud se nemohou sejít ani dvě Centra, pak prostě jen jděte ven a buďte společně v parku. Udělejte si piknik. Před dvaceti pěti lety jsem si mnohokrát užíval pikniků. Dokonce i minulý rok jsem šel do domu jednoho žáka na piknik. Kdybych měl čas, jel bych na více míst, abych byl s žáky během jejich Joy Days. Když jste spolu, budete schopni chytit svého zloděje-depresi. Má-li v ten den někdo špatnou náladu, může vás Bůh použít, aby toho člověka inspiroval. Zítra můžete být vy obětí těchto špatných sil a třetí osoba vás může zachránit.
 
@@ -360,26 +355,26 @@ Opravdu bych si přál, aby se všichni žáci účastnili Joy Days. Je-li to mo
 * Co bychom měli dělat na Joy Days?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:829-cs
-  :DATE-EVENT: 1996-10-21
+  :genre: qa
+  :keywords:
+  :cite-key: sca:829-cs
+  :date-event: 1996-10-21
   :END:
 
 
-/Sri Chinmoy:/ Především musíte hrát aspoň dvě hry. Každý se jich musí zúčastnit. Nehledě na to, kolik vám je let, ať už dvacet nebo osmdesát, musíte se určitě zúčastnit, abyste cítili, že jste mladí. Také bych chtěl, abyste zpívali písně /I am a seven-year-old girl/ a /I am a seven-year-old boy/ (Jsem sedmiletá dívka/Jsem sedmiletý chlapec). Zapomeňte na svůj věk -- ať už je vám čtyřicet šest nebo padesát šest -- myslete jen na sedm let. Jedním z účelů Joy Days je přesvědčit mysl, že jste mladí. Opičí mysl musí být zkrocena. Prostě opakujte: „Jsem mladý, jsem mladý, jsem mladý.“ Pak budete mít radost. Sri Rámakrišna říkával, že opakováním „Jsem Pán Šiva, jsem Pán Šiva“ se stanete božskými. Tím, že budete říkat: „Jsem hříšník, jsem hříšník,“ budete odsouzeni k tomu, abyste zůstali hříšníkem. Opakujete-li: „Jsem mladý, jsem mladý,“ zůstanete mladí.
+/Sri Chinmoy:/ především musíte hrát aspoň dvě hry. každý se jich musí zúčastnit. nehledě na to, kolik vám je let, ať už dvacet nebo osmdesát, musíte se určitě zúčastnit, abyste cítili, že jste mladí. také bych chtěl, abyste zpívali písně /i am a seven-year-old girl/ a /i am a seven-year-old boy/ (jsem sedmiletá dívka/jsem sedmiletý chlapec). zapomeňte na svůj věk -- ať už je vám čtyřicet šest nebo padesát šest -- myslete jen na sedm let. jedním z účelů joy days je přesvědčit mysl, že jste mladí. opičí mysl musí být zkrocena. prostě opakujte: „jsem mladý, jsem mladý, jsem mladý.“ pak budete mít radost. sri rámakrišna říkával, že opakováním „jsem pán Šiva, jsem pán Šiva“ se stanete božskými. tím, že budete říkat: „jsem hříšník, jsem hříšník,“ budete odsouzeni k tomu, abyste zůstali hříšníkem. opakujete-li: „Jsem mladý, jsem mladý,“ zůstanete mladí.
 
 Z radosti získáte vše. Vpravo od mého domu bydlí dvě malé holčičky. Je jim asi čtyři a šest let. Jednoho dne mě viděly s mým „nejlepším žákem“. Oběma nám řekly, že můj „nejlepší žák“ vypadá starší než já. Řekl jim, že je mnohem mladší, ale ony mu nevěřily. Viděly moji radost. Cítily moje dětské srdce. Cítily ve svém vlastním srdci, že jsem jako ony. Můj „nejlepší žák“ se s nimi nedokáže bavit na jejich vlastní úrovni. To je důvod, proč říkaly, že jsem mladší.
 
-Ve vašem případě byste měli zvýšit své dětské kvality. I když je vám šedesát nebo sedmdesát let, myslete si, že jste malý chlapec nebo dívka. Kdo je v rodině dražší než nejdražší? To nejmladší dítě. Matka, otec i starší bratři a sestry mají nejraději toho nejmenšího. Staří jsou zkamenělí. Jakmile si mysl pomyslí: „Jsem stará,“ Bůh řekne: „Ó, ty jsi starší než Já? Pak zůstaň vzadu. Nemohu pro tebe nic udělat.“ Ale myslíte-li si, že jste dítětem, Bůh řekne: „Já jsem také věčné dítě hrající si v Zahradě Nekonečnosti. Jsi Mé.“
+Ve vašem případě byste měli zvýšit své dětské kvality. I když je vám šedesát nebo sedmdesát let, myslete si, že jste malý chlapec nebo dívka. Kdo je v rodině dražší než nejdražší? To nejmladší dítě. Matka, otec i starší bratři a sestry mají nejraději toho nejmenšího. Staří jsou zkamenělí. Jakmile si mysl pomyslí: „jsem stará,“ bůh řekne: „Ó, ty jsi starší než já? pak zůstaň vzadu. nemohu pro tebe nic udělat.“ ale myslíte-li si, že jste dítětem, bůh řekne: „Já jsem také věčné dítě hrající si v Zahradě Nekonečnosti. Jsi Mé.“
 
 Bůh Sám neustále roste a rozšiřuje se. Představivost mysli je omezená. Mysl nás jen činí menšími, sobečtějšími a slabšími. Rozlehlost srdce je však založena na jednotě a jednota vždy znamená rozpínání. 
 
 Během Joy Days se můžete dívat na video o tom, co jsem dělal, abych vás inspiroval. Uvidíte, že mohu-li v tomto věku skákat, i vy jste schopni dělat mnoho věcí. Cokoli dělám, dělám pro vás, pro lidstvo. V Bhagavadgítě Pán Krišna říká, že po realizaci Boha už nemusel nic dělat, kdyby však zůstal nečinný, celý svět by se zhroutil. Já jsem aktivní. Proto je můj malý svět -- svět mých žáků -- aktivní. 
 
-Vždy říkám, že je lepší být šíleným slonem a pohybovat se nějakým směrem než zůstat nečinným. Můžete zjistit: „Ó, tohle je špatná cesta.“ Pak si řeknete: „Vydám se jiným směrem.“ Když však nic neuděláte, když se stanete pánem lenosti, čeho pak budete moci dosáhnout?
+Vždy říkám, že je lepší být šíleným slonem a pohybovat se nějakým směrem než zůstat nečinným. Můžete zjistit: „Ó, tohle je špatná cesta.“ pak si řeknete: „Vydám se jiným směrem.“ Když však nic neuděláte, když se stanete pánem lenosti, čeho pak budete moci dosáhnout?
 
-Jsou někteří nešťastní žáci, kteří nevěnují Joy Days pozornost. Říkají si: „Ó, to je pro děti.“ V tom případě jim řeknu, že tento otec je rád se svými dětmi, ne s dospělými. Dospělým otec řekne: „ Můžete se o sebe postarat svým vlastním způsobem.“ Rodiče jsou vždy rádi se svými dětmi, protože je děti potřebují a oni potřebují své děti. 
+Jsou někteří nešťastní žáci, kteří nevěnují Joy Days pozornost. Říkají si: „Ó, to je pro děti.“ v tom případě jim řeknu, že tento otec je rád se svými dětmi, ne s dospělými. dospělým otec řekne: „ Můžete se o sebe postarat svým vlastním způsobem.“ Rodiče jsou vždy rádi se svými dětmi, protože je děti potřebují a oni potřebují své děti. 
 
 Takže na sebe myslete jako na sedmileté, hrajte hry, dívejte se na mé video a dělejte cokoli, co vás inspiruje. Můžete společně nahlas předčítat, tak jako děti. Vyberte několik úryvků z mých knih a pak je nahlas předčítejte, jako když spolu zpíváte. Existují stovky způsobů, jak můžete jeden druhému udělat radost. Samozřejmě, že meditace musí být. Meditace by na Joy Days měla být alespoň třikrát nebo čtyřikrát, i kdyby měla být jen na deset minut. Také můžete deset nebo patnáct minut říkat nevinné vtipy, aby zmizela vaše mentální horečka.
 
@@ -394,7 +389,7 @@ Takže ti, kdo Joy Days nevěnují pozornost, by měli začít. Jste-li neochotn
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:830e1
+  :cite-key: sca:830e1
   :END:
 
 
@@ -402,14 +397,14 @@ Takže ti, kdo Joy Days nevěnují pozornost, by měli začít. Jste-li neochotn
 * Prolomí někdo ve dvacátém prvním století dvouhodinovou hranici v maratonu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:830-cs
-  :DATE-EVENT: 1996-02-25
+  :genre: qa
+  :keywords:
+  :cite-key: sca:830-cs
+  :date-event: 1996-02-25
   :END:
 
 
-/Sri Chinmoy:/ Jak bych si přál, aby se potvrdilo mé proroctví, že někdo zaběhne maraton pod dvě hodiny! K tomu potřebuji žáka, který ve mě má naprostou víru. Je pro mě těžké uvěřit, že naše lidská schopnost je omezená. Nyní je světový rekord v maratonu 2:06. Stačí ubrat jen šest minut na dvaceti šesti mílích. Naneštěstí si lidé stále myslí: „Moje schopnost, moje schopnost.“ Kdyby si ti samí světoví běžci dokázali říci: „Moje schopnost pochází od Boha. Bůh běží ve mně a skrze mne,“ a opravdu to tak mysleli, pak byste viděli překvapivé výsledky. Ve světové špičce je alespoň dvacet maratonských běžců. Kdyby měli takovou víru, slyšeli byste za jediný měsíc, že světový rekord byl smeten.
+/Sri Chinmoy:/ jak bych si přál, aby se potvrdilo mé proroctví, že někdo zaběhne maraton pod dvě hodiny! k tomu potřebuji žáka, který ve mě má naprostou víru. je pro mě těžké uvěřit, že naše lidská schopnost je omezená. nyní je světový rekord v maratonu 2:06. stačí ubrat jen šest minut na dvaceti šesti mílích. naneštěstí si lidé stále myslí: „moje schopnost, moje schopnost.“ kdyby si ti samí světoví běžci dokázali říci: „Moje schopnost pochází od Boha. Bůh běží ve mně a skrze mne,“ a opravdu to tak mysleli, pak byste viděli překvapivé výsledky. Ve světové špičce je alespoň dvacet maratonských běžců. Kdyby měli takovou víru, slyšeli byste za jediný měsíc, že světový rekord byl smeten.
 
 Bohužel všichni atleti nejsou hledajícími nejvyšší výšky. Jinak by nebyl v atletickém světě jediný rekord, který by nemohl být nemilosrdně smeten -- dokonce i ve sprintu na sto metrů. Současný rekord na sto metrů pro mě není žádný rekord. Mohou jej snadno snížit na sedm sekund. Ale kdo mi uvěří? Dnes jen mluvím, ale jednou z Nebe uvidím, že se má proroctví vyplnila. 
 
@@ -433,17 +428,4 @@ Mám žáky, kteří by mohli světový rekord v maratonu překonat. Doufám, ž
 
 Nyní jsem něco předpověděl a Bůh sám ví, kdy se má předpověď vyplní. Ve védských dobách nepovažovali fyzické za tak důležité. Já říkám, že fyzické a duchovní musí jít společně. To fyzické je chrámem a to duchovní je oltářem. Obojí je nepostradatelné. Jak by mohl být oltář, pokud neexistuje chrám? Copak ho neodfoukne vítr?
 
-Vezmou-li mě moji žáci vážně, řeknou: „Jestliže to můj Guru řekl, pak se to dá udělat, musí se to udělat!“ Někteří žáci mají takovýto přístup v jiných oblastech. Říkají: „Pokud Guru něco řekne, pak to jde udělat!“ Tito žáci se pokouší udělat něco nemožného, protože jsem jim řekl, že je to možné, a jsou úspěšní. Ale co se týká maratonu, má vize ještě projevena nebyla. Tolik záleží na vašem vnitřním štěstí. Víte, jak rychle něco dosáhnete v ty dny, kdy jste šťastní, ve srovnání s jinými dny. A v ty dny, kdy máte sebepochybnosti, strach, žárlivost a nejistotu, jste připraveni čekat do nekonečna, abyste něčeho dosáhli nebo abyste se dostali na svůj uspokojivý standard.
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
+Vezmou-li mě moji žáci vážně, řeknou: „jestliže to můj guru řekl, pak se to dá udělat, musí se to udělat!“ někteří žáci mají takovýto přístup v jiných oblastech. Říkají: „Pokud Guru něco řekne, pak to jde udělat!“ Tito žáci se pokouší udělat něco nemožného, protože jsem jim řekl, že je to možné, a jsou úspěšní. Ale co se týká maratonu, má vize ještě projevena nebyla. Tolik záleží na vašem vnitřním štěstí. Víte, jak rychle něco dosáhnete v ty dny, kdy jste šťastní, ve srovnání s jinými dny. A v ty dny, kdy máte sebepochybnosti, strach, žárlivost a nejistotu, jste připraveni čekat do nekonečna, abyste něčeho dosáhli nebo abyste se dostali na svůj uspokojivý standard.

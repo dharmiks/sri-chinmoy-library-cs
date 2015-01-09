@@ -1,20 +1,15 @@
-#+TITLE: Sri Chinmoy odpovídá, část 23
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 23
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2007
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: SCA-23-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2007
+  :publisher: Madal Bal
+  :cite-key: SCA-23-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:788e1-cs
+  :cite-key: sca:788e1-cs
   :END:
 
 
@@ -32,10 +27,10 @@
 * Jak si můžeme vytvořit a poté udržet postoj bojovníka vůči překonávání svých slabostí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:788-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2000-02-03
+  :genre: qa
+  :cite-key: sca:788-cs
+  :keywords:
+  :date-event: 2000-02-03
   :END:
 
 
@@ -73,21 +68,21 @@ Stejně tak můžeme pozorovat, co slabost může udělat v životech druhých. 
 
 Když se lidé odevzdají svým slabostem, vidíme, jak si ničí život. Jedna filozofie je, že se budeme pouze modlit k Bohu a meditovat na Boha a Bůh se postará o zbytek světa. Ale také se můžeme rozhlédnout kolem, můžeme sledovat ostatní a učit se z jejich zkušeností. Řekněme, že se chci dotknout ohně, protože cítím, že oheň je tak okouzlující. Ale když uvidím, že někdo jiný se ohně dotkl a má teď popálenou ruku, proč bych měl také udělat stejnou věc? Copak mi Bůh neukázal, že někdo jiný si spálil prsty tím, že se dotkl ohně? Vidíme, co se stane, když ostatní dovolí slabosti, aby je ovládala. Jak jsem už řekl, slabost sama o sobě je síla, nic jiného. My je vždy rozdělujeme -- říkáme, že toto je slabost, tamto je síla. Musíme použít pozitivní sílu k poražení své slabosti, a touto pozitivní silou je naše láska k Bohu. To je tím jediným způsobem.
 
-Někteří lidé vstupují ze srdce do mysli. Potom chtějí všechny slabosti, které jsou k nalezení v lidském životě, vyzkoušet sami na sobě. Znali tyto slabosti u druhých, ale nyní si je chtějí vyzkoušet sami; chtějí mít přímou zkušenost. Proč potřebuji přímý zážitek slabosti? Když vím, že můj otec zemřel a moje matka zemřela, jsem takový blázen, abych si myslel, že já budu nesmrtelný? Ó ne -- můj čas dříve či později přijde. Otázka nyní zní: modlil se můj otec a meditoval? Modlila se má matka a meditovala? Měli mír mysli? Měli lásku ve svém vnitřním životě? Pro většinu lidských bytostí zní okamžitá odpověď ne, neměli. Pak tedy budu moudrý a řeknu si: „Oni se nemodlili a nemeditovali. Já budu! Já budu!“ Nechť využívám svůj čas moudře. 
+Někteří lidé vstupují ze srdce do mysli. Potom chtějí všechny slabosti, které jsou k nalezení v lidském životě, vyzkoušet sami na sobě. Znali tyto slabosti u druhých, ale nyní si je chtějí vyzkoušet sami; chtějí mít přímou zkušenost. Proč potřebuji přímý zážitek slabosti? Když vím, že můj otec zemřel a moje matka zemřela, jsem takový blázen, abych si myslel, že já budu nesmrtelný? Ó ne -- můj čas dříve či později přijde. Otázka nyní zní: modlil se můj otec a meditoval? modlila se má matka a meditovala? měli mír mysli? měli lásku ve svém vnitřním životě? pro většinu lidských bytostí zní okamžitá odpověď ne, neměli. pak tedy budu moudrý a řeknu si: „Oni se nemodlili a nemeditovali. Já budu! Já budu!“ Nechť využívám svůj čas moudře. 
 
 Neexistuje jediná slabost, kterou nemůžeme porazit. Možná cítíme, že všechny slabosti jsou na pohled tak okouzlující, a tak řekneme: „Jak mohu ze svého života vymést tuhle slabost a tamtu slabost?“ Ale my to dokážeme, když uvidíme, že naše slabost ničí naši vnitřní radost, naši božskost, naši schopnost vidět světlo. Pokud však svou slabost opatrujeme, je to jiný příběh.
 
-Kam až může člověk zajít! To všechno kvůli nevědomosti. Když hledající zneužívá božský soucit, slabost se stává jeho silou. Jak bolestivé je vidět něčí sestup! Puká mi srdce, když vidím, kolik nevědomosti si může člověk opatrovat ve svém životě. Někdy to toleruji, vždy s nadějí, že se onen člověk změní, protože jsem se s nadějí narodil. Je zde naděje a je zde očekávání. Očekávání je vždy v mysli a ve vitálnu, ale naděje je v srdci. Naděje je božský způsob. Naděje říká: „Můj žák nemůže být tak špatný!“ Ale Bůh říká: „Ne, tvůj žák může být tak špatný.“ Nedovedete si představit, jak daleko to může zajít! A to vše je výsledek toho, když si někdo vědomě a záměrně opatruje své slabosti.
+Kam až může člověk zajít! To všechno kvůli nevědomosti. Když hledající zneužívá božský soucit, slabost se stává jeho silou. Jak bolestivé je vidět něčí sestup! Puká mi srdce, když vidím, kolik nevědomosti si může člověk opatrovat ve svém životě. Někdy to toleruji, vždy s nadějí, že se onen člověk změní, protože jsem se s nadějí narodil. Je zde naděje a je zde očekávání. Očekávání je vždy v mysli a ve vitálnu, ale naděje je v srdci. Naděje je božský způsob. Naděje říká: „můj žák nemůže být tak špatný!“ ale bůh říká: „Ne, tvůj žák může být tak špatný.“ Nedovedete si představit, jak daleko to může zajít! A to vše je výsledek toho, když si někdo vědomě a záměrně opatruje své slabosti.
 
 Každá lidská bytost zneužívá soucit. Někteří lidé zneužívají soucit ode dne, kdy vstoupili do duchovního života. Někteří lidé užívají soucit velmi dobře pět let, deset let nebo patnáct let, a potom ho začnou zneužívat. Když vidíme slabost v druhých, musíme být opatrnější, protože tuto slabost máme také my sami. Máme tutéž slabost, ale v jejich případě oni nechtěli tu slabost porazit. Je na nás, zda se stejně jako oni odevzdáme slabosti, anebo ji porazíme. Pokud jsme moudří, porazíme všechny své slabosti.
 
 Jak vždycky říkám, pokud se stanu dobrým člověkem, bude na zemi o jednoho darebáka méně. Jestliže se někdo stane dokonalým, bude na zemi o jednu nedokonalou osobu méně. Jestliže si cením své vnitřní síly a chci se zbavit svých slabostí, kdo mi v tom může zabránit? Řekněme, že jedna místnost je temná, protože tam není elektřina, zatímco jiná místnost má světlo. Mohu jít do místnosti, kde je světlo. Kdo mi v tom může zabránit? Kdo mě žádá, abych tam nechodil? Na druhou stranu pokud přinesu elektřinu do místnosti, která je neosvětlená, potom v této místnosti bude za několik minut světlo. Dokonce když vstoupím do temnoty a pláči a pláči a pláči pro světlo, aby sem přišlo, když světlo přijde, všechna temnota je osvícena. 
 
-Namísto toho, abych vstoupil do světla, není ode mě hloupé vejít do temnoty a modlit se k Bohu: „Zachraň mě, zachraň mě?“ Není hloupé vstoupit do pekla a říct: „Bože, vezmi mě do Nebe, vezmi mě do Nebe?“ Proč bych měl záměrně jít do pekla a potom prosit Boha, aby mě odnesl do Nebe? Ať jdu raději do Nebe a řeknu: „Bože, Ty jsi mě sem přinesl. Teď se k Tobě modlím, prosím, nech mě zde, nech mě zde, nebo mě vezmi do vyššího světa, lepšího světa, více osvěcujícího světa.“ Ale tohle neděláme. Vstoupíme do temnoty a poté zcela zapomeneme na Boha. Zapomeneme, že je zde Někdo, kdo nám může přímo v tomto okamžiku pomoci a zachránit nás. Jsme zcela ztraceni v temnotě. Pak už pro nás neexistuje žádný Bůh a my se potopíme. 
+Namísto toho, abych vstoupil do světla, není ode mě hloupé vejít do temnoty a modlit se k Bohu: „zachraň mě, zachraň mě?“ není hloupé vstoupit do pekla a říct: „bože, vezmi mě do nebe, vezmi mě do nebe?“ proč bych měl záměrně jít do pekla a potom prosit boha, aby mě odnesl do nebe? ať jdu raději do nebe a řeknu: „Bože, Ty jsi mě sem přinesl. Teď se k Tobě modlím, prosím, nech mě zde, nech mě zde, nebo mě vezmi do vyššího světa, lepšího světa, více osvěcujícího světa.“ Ale tohle neděláme. Vstoupíme do temnoty a poté zcela zapomeneme na Boha. Zapomeneme, že je zde Někdo, kdo nám může přímo v tomto okamžiku pomoci a zachránit nás. Jsme zcela ztraceni v temnotě. Pak už pro nás neexistuje žádný Bůh a my se potopíme. 
 
 A tak se vždy rozhlédněme kolem sebe a zeptejme se: „Kam odešel? Kam odešla? Chci být jako on nebo ona?“ Tento člověk zcela jistě opatroval slabost a taková slabost má obrovskou sílu. Tahle ohromná síla odvedla tohoto člověka z duchovního života, od jeho vlastního skutečného bytí, z jeho vlastního skutečného domova.
 
-Musíš použít svou nezdolnou sílu vůle. Ve své předchozí inkarnaci jsi byl vysoce postaveným vojenským důstojníkem. Můžeš být bojovníkem velmi pozitivním způsobem. Jen se podívej do svého nitra. Máš onu nezdolnou sílu vůle, nebo ne? Jestliže se podíváš, okamžitě si řekneš: „Ach, je tam, je tam!“ Proč by měl lev navždy zůstat spát? Tvoje jméno znamená slunce. Proč by slunce mělo být stále zacloněné? Proč by slunce mělo mrakům navždy dovolit, aby ho zakrývaly? Ne, ne, ne! Řekni sám sobě: „Já jsem slunce. Pokud mě zahaluje mrak, prostě zazářím a mrak zničím!“
+Musíš použít svou nezdolnou sílu vůle. Ve své předchozí inkarnaci jsi byl vysoce postaveným vojenským důstojníkem. Můžeš být bojovníkem velmi pozitivním způsobem. Jen se podívej do svého nitra. Máš onu nezdolnou sílu vůle, nebo ne? Jestliže se podíváš, okamžitě si řekneš: „ach, je tam, je tam!“ proč by měl lev navždy zůstat spát? tvoje jméno znamená slunce. proč by slunce mělo být stále zacloněné? proč by slunce mělo mrakům navždy dovolit, aby ho zakrývaly? ne, ne, ne! Řekni sám sobě: „Já jsem slunce. Pokud mě zahaluje mrak, prostě zazářím a mrak zničím!“
 
 Musíš si být jistý -- chceš slabost, nebo chceš sílu? Zeptej se sám sebe stokrát, co chceš -- slabost, nebo sílu. Stokrát ze sta musí tvoje odpověď být: „Chci sílu, chci sílu, chci sílu!“ Potom uvidíš, že pro slabost jsi nehlasoval ani jednou.
 
@@ -107,10 +102,10 @@ Nevědomost se nás snaží chytit, ale my běžíme pryč tou nejvyšší rychl
 * Jak můžeme mít ve svém životě více novosti?[fn:: SCA 789. Sri Chinmoy odpověděl na následující otázku 14. února 2000 v New Yorku]
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:789-cs
-  :KEYWORDS:
-  :DATE-EVENT: 2000-02-14
+  :genre: qa
+  :cite-key: sca:789-cs
+  :keywords:
+  :date-event: 2000-02-14
   :END:
 
 
@@ -122,33 +117,33 @@ Když dospělý každý den vejde do zahrady, uvidí květiny a řekne: „Všec
 
 Každý den děláš tolik věcí. Jdeš do prodejny se zdravou výživou, abys tam pracoval; děláš své úkoly. Když použiješ svou mysl, pak se všechno stává jednotvárné. Řekneš si: „Dělám to deset dní, deset měsíců, deset let.“ Ale když použiješ své zcela dětské srdce, vše je nové, nové, nové.
 
-V mém případě, když použiji svou mysl, abych přemýšlel o zdvihu 900 liber, okamžitě si řeknu: „Ó Bože!“ Není to ze strachu, ale protože to zvedání je nudné -- to je to správné slovo. Každý den se snažím zvedat tak těžké váhy. Nemám snad dost problémů sám se sebou, se svými žáky, se světem? Musím jít a postavit se pod těchto 900 liber? Mysl okamžitě vyjde do popředí, aby mě co nejmocněji odradila. Mysl řekne: „Copak nemáš na práci nic lepšího? Jdi a modli se, jdi a medituj! Dělej něco pro zlepšení světa!“ Tímto způsobem mysl pokračuje. 
+V mém případě, když použiji svou mysl, abych přemýšlel o zdvihu 900 liber, okamžitě si řeknu: „Ó bože!“ není to ze strachu, ale protože to zvedání je nudné -- to je to správné slovo. každý den se snažím zvedat tak těžké váhy. nemám snad dost problémů sám se sebou, se svými žáky, se světem? musím jít a postavit se pod těchto 900 liber? mysl okamžitě vyjde do popředí, aby mě co nejmocněji odradila. mysl řekne: „Copak nemáš na práci nic lepšího? Jdi a modli se, jdi a medituj! Dělej něco pro zlepšení světa!“ Tímto způsobem mysl pokračuje. 
 
 Ale když myslím na Nejvyššího, svého Milovaného, On říká: „Tohle je to, co chci, abys ráno dělal pro projevení Mého Světla ve světě.“ Toto poselství dostanu, když jsem v srdci a moje srdce přijalo toto poselství. Dnes je to čtvrtý den, co jsem zvedl 900 liber. Když je v popředí mysl, už druhý den se tato mysl bude nudit; nechce zvedat. Ale dnes jsem závaží s použitím svého dětského srdce zvedl šestkrát. Když používám své dětské srdce, cítím, že všechno dělám poprvé. 
 
-Každý den dávám modlitby. Můžete říci, že každá ta modlitba je jiná, takže je tam novost. Ale když použiji svou mysl, mysl řekne: „To je tak hloupá věc! Proč musím dávat modlitby každý den? Kdo mě bude poslouchat? Kdo bude říkat mé modlitby? Říkám já své vlastní modlitby?“ Mysl mě odrazuje a říká mi, abych nepokračoval, protože každý den dávám stejný druh modliteb. Ale srdce řekne: „Ne! Všechny jsou nové. Všechny jsou nový život, nový život, nový život.“
+Každý den dávám modlitby. Můžete říci, že každá ta modlitba je jiná, takže je tam novost. Ale když použiji svou mysl, mysl řekne: „to je tak hloupá věc! proč musím dávat modlitby každý den? kdo mě bude poslouchat? kdo bude říkat mé modlitby? Říkám já své vlastní modlitby?“ mysl mě odrazuje a říká mi, abych nepokračoval, protože každý den dávám stejný druh modliteb. ale srdce řekne: „Ne! Všechny jsou nové. Všechny jsou nový život, nový život, nový život.“
 
-Když zvedám 900 liber, když šlapu na rotopedu, když dělám cokoliv, pokud použiji mysl, mysl řekne, že je to jednotvárné. Později zajde mysl dokonce tak daleko, že řekne, že je to směšné. Mysl řekne: „Jsem snad tak hloupý, abych zvedal závaží? Jsem snad tak hloupý, abych ztrácel čas s tímto nevědomým železem?“ Ale srdce získává tolik radosti, protože srdce naslouchá Bohu, když Bůh říká: „Udělej to, udělej to, udělej to!“
+Když zvedám 900 liber, když šlapu na rotopedu, když dělám cokoliv, pokud použiji mysl, mysl řekne, že je to jednotvárné. Později zajde mysl dokonce tak daleko, že řekne, že je to směšné. Mysl řekne: „jsem snad tak hloupý, abych zvedal závaží? jsem snad tak hloupý, abych ztrácel čas s tímto nevědomým železem?“ ale srdce získává tolik radosti, protože srdce naslouchá bohu, když bůh říká: „Udělej to, udělej to, udělej to!“
 
-Každý týden chodíte do základní školy číslo 86 meditovat. Mysl říká: Ó můj Bože, je to povinné, je to povinné!“ Mysl nenávidí tento druh věcí. Mysl říká: „Nemá snad Guru nic jiného na práci? Mohla jsem jít do kina nebo se dívat na televizi.“ Ale srdce řekne: „Dnes, právě po týdnu, se znovu můžeme setkat s naším Guruem. Dnes bude meditovat. Dnes bude moci nasytit celou naši bytost svým světlem, svou radostí, svým požehnáním.“ Srdce a mysl vidí stejnou skutečnost, ale srdce nám dává jednu zprávu a mysl nám dává zase jinou zprávu. Pro mysl je život samá jednotvárnost. Pro mysl je každý den naprosto stejný. Neexistuje žádná novost, žádný nový život. Ale když použijeme srdce, vše je nové. Když na všechno použijeme srdce, uvidíme, že uvnitř srdce je vždy novost a uvnitř novosti je plnost. Ačkoli mysl říká, že všechno je věčně staré, srdce řekne: „Ne, je to vždy nové.“
+Každý týden chodíte do základní školy číslo 86 meditovat. Mysl říká: Ó můj bože, je to povinné, je to povinné!“ mysl nenávidí tento druh věcí. mysl říká: „nemá snad guru nic jiného na práci? mohla jsem jít do kina nebo se dívat na televizi.“ ale srdce řekne: „dnes, právě po týdnu, se znovu můžeme setkat s naším guruem. dnes bude meditovat. dnes bude moci nasytit celou naši bytost svým světlem, svou radostí, svým požehnáním.“ srdce a mysl vidí stejnou skutečnost, ale srdce nám dává jednu zprávu a mysl nám dává zase jinou zprávu. pro mysl je život samá jednotvárnost. pro mysl je každý den naprosto stejný. neexistuje žádná novost, žádný nový život. ale když použijeme srdce, vše je nové. když na všechno použijeme srdce, uvidíme, že uvnitř srdce je vždy novost a uvnitř novosti je plnost. ačkoli mysl říká, že všechno je věčně staré, srdce řekne: „Ne, je to vždy nové.“
 
 Když použijeme termín „vždy nové“, tato novost je v srdci. Cokoliv dělám, pokud to dělám srdcem, potom je to zcela nové. Když jsem v mysli, nic není nové. Řekněme, že hraji na housle. Každý den cvičím padesát písní. Mysl řekne: „Ach jo, musím cvičit padesát písní!“ Ale když použiji srdce, padesát písní je hotovo mrknutím oka. Dokonce jsem připraven nacvičit ještě několik písní navíc.
 
-Srdce získává radost každý den, ačkoliv navenek dělá stejné věci. Ve tvém případě, každý den děláš stejnou věc, ale srdce ti říká, že je zde nová radost, nová radost, nová radost. Každý den zákazníci přicházejí do tvého obchodu se zdravou výživou. Mysl ti řekne: „Ó, přicházejí stále stejní hlupáci! Pokaždé mám stejnou zkušenost.“ Ale když použiješ srdce, pokaždé když se podíváš na vitamínové tablety, lahve a plechovky, dostaneš novou radost. Budeš dychtivý vidět, jestli je na lahvích napsáno něco nového nebo si všimnout něčeho, co jsi předtím neviděl. Srdce je dychtivé vidět novost ve věcech, které vidí už roky a roky. Ale mysl nechce novost. Jeden den dostane jídlo, ale potom hladoví, protože cítí, že všechno je staré, staré, staré. Ale srdce každý den řekne: „Možná je zde něco jiného, něco nového.“ Srdce vždy hledá novost, ale mysl nehledá nic.
+Srdce získává radost každý den, ačkoliv navenek dělá stejné věci. Ve tvém případě, každý den děláš stejnou věc, ale srdce ti říká, že je zde nová radost, nová radost, nová radost. Každý den zákazníci přicházejí do tvého obchodu se zdravou výživou. Mysl ti řekne: „Ó, přicházejí stále stejní hlupáci! pokaždé mám stejnou zkušenost.“ ale když použiješ srdce, pokaždé když se podíváš na vitamínové tablety, lahve a plechovky, dostaneš novou radost. budeš dychtivý vidět, jestli je na lahvích napsáno něco nového nebo si všimnout něčeho, co jsi předtím neviděl. srdce je dychtivé vidět novost ve věcech, které vidí už roky a roky. ale mysl nechce novost. jeden den dostane jídlo, ale potom hladoví, protože cítí, že všechno je staré, staré, staré. ale srdce každý den řekne: „Možná je zde něco jiného, něco nového.“ Srdce vždy hledá novost, ale mysl nehledá nic.
 
 Mysl vždy tápe a reptá. Neexistuje horší zloděj než mysl. Dnes jsi velmi šťastný, protože máš narozeniny. Tvá mysl řekne: „Ó, Guru je ke mně dnes tak milý, protože mám narozeniny, ale zítra mě Guru bude opomíjet. Už ke mně nebude milý. Opravdu se o mě zajímá?“ Takto zítřek vždy vstoupí do naší mysli, aby zničil dnešní radost. Dnes ti dávám radost. Pozval jsem tvé přátele a dělám to a ono, abych tě učinil šťastným. Ale mysl vždy přijde a odebere polovinu dnešní radosti nebo dokonce více. Proč? Protože zítra nemusíš mít stejný druh radosti. Jak směšné! Jak darebáckou přirozenost mysl má! Mysl okamžitě vnáší budoucnost do přítomnosti. Dává ti poselství, že zítra od svého Mistra nebo od svých přátel nedostaneš stejnou radost, stejné uspokojení, stejnou lásku, stejný obdiv. 
 
-V tom okamžiku si musíš říct: „Nemyslím na zítřek; dnešek mi stačí. Ať zítřek přijde, jak musí. Dnes jsem tak šťastný! Guru slaví mé narozeniny a dává mi tolik radosti.“ Zůstaň v dnešku -- tady a teď. Když přemýšlíš o zítřku, pak ti mysl řekne: „Až přijde zítřek, bude úplně jiná situace.“ Jako zloděj, tato zcela odlišná situace ti okamžitě odebere polovinu dnešní radosti.
+V tom okamžiku si musíš říct: „nemyslím na zítřek; dnešek mi stačí. ať zítřek přijde, jak musí. dnes jsem tak šťastný! guru slaví mé narozeniny a dává mi tolik radosti.“ zůstaň v dnešku -- tady a teď. když přemýšlíš o zítřku, pak ti mysl řekne: „Až přijde zítřek, bude úplně jiná situace.“ Jako zloděj, tato zcela odlišná situace ti okamžitě odebere polovinu dnešní radosti.
 
-Když děláš něco velkého, jsi tak šťastný. Ale pak, krůček po krůčku, přichází hloupá mysl, jako darebák. Řekněme, že dnes ses stal mistrem světa a jsi velmi šťastný. Ale večer si pomyslíš: „Možná mi zítra někdo vezme můj rekord.“ Tímto způsobem zítřek vstoupil do dneška. Mysl nám vždy tolika způsoby bere naši radost. Srdce řekne: „Dnes mějme radost. Nechme zítřek přijít zítra.“ Ale mysl zve zítřek do dneška, aby nám sebrala naši radost. Mysl říká: „Dnes jsem zvedl těžké závaží, ale zítra ho možná nedokážu zvednout.“ Srdce cítí, že protože jsem to dnes zvedl, měl bych zůstat v dnešní radosti. Ale mysl řekne: „Jen se chlubím! Na světě je tolik lidí, kteří jsou nekonečně silnější než já. Mohou snadno dokázat to, co jsem dokázal já.“ Proč musíme myslet na lidi, kteří jsou v Africe nebo v Bulharsku nebo někde jinde? Proč si musíme představovat, že jsou nekonečně silnější, než jsme my, že oni snadno dokáží, co jsme dokázali my, ačkoli oni k tomu nedostali příležitost?
+Když děláš něco velkého, jsi tak šťastný. Ale pak, krůček po krůčku, přichází hloupá mysl, jako darebák. Řekněme, že dnes ses stal mistrem světa a jsi velmi šťastný. Ale večer si pomyslíš: „možná mi zítra někdo vezme můj rekord.“ tímto způsobem zítřek vstoupil do dneška. mysl nám vždy tolika způsoby bere naši radost. srdce řekne: „dnes mějme radost. nechme zítřek přijít zítra.“ ale mysl zve zítřek do dneška, aby nám sebrala naši radost. mysl říká: „dnes jsem zvedl těžké závaží, ale zítra ho možná nedokážu zvednout.“ srdce cítí, že protože jsem to dnes zvedl, měl bych zůstat v dnešní radosti. ale mysl řekne: „Jen se chlubím! Na světě je tolik lidí, kteří jsou nekonečně silnější než já. Mohou snadno dokázat to, co jsem dokázal já.“ Proč musíme myslet na lidi, kteří jsou v Africe nebo v Bulharsku nebo někde jinde? Proč si musíme představovat, že jsou nekonečně silnější, než jsme my, že oni snadno dokáží, co jsme dokázali my, ačkoli oni k tomu nedostali příležitost?
 
 Takto nám mysl odebírá radost, kterou jsme získali tím, co jsme dnes dokázali! Ale srdce nepřemýšlí o zítřku. Srdce jen cítí, že něčeho dosáhlo, a proto je tak šťastné a vděčné Bohu. Srdce je vděčné Bohu, protože Bůh nám dal schopnost něco udělat. Dnes mi Bůh dal schopnost zvednout těžké závaží, a tak jsem vděčný. Zůstává to mezi mnou a Bohem. Jsem tak vděčný, že On mi dal tu schopnost, a jsem tak šťastný, že On mě udělal šťastným. To je způsob, jakým musíme zabránit mysli, aby nám brala naši radost, a jak můžeme mít vždy novost. Radost srdce vždy ztělesňuje novost. Kdykoliv jsme šťastní, je zde vždy novost. Když jsme nešťastní, je to náš konec! Vláčíme se s neštěstím dvacet nebo třicet let. V okamžiku, kdy jsme skutečně šťastní, srdce udržuje a chrání naše štěstí. Ale mysl si myslí, že zítra budeme opět nešťastní. Tímto způsobem mysl krade dnešní štěstí.
 
 Nedovol mysli, aby hrála roli zloděje. Když budeš v srdci, potom uvidíš, že je zde vždy radost novosti. Dítě vždy získává radost, bez ohledu na to, kolikrát vešlo do zahrady. Pro něj je to samá radost, radost, radost. Když náš malý psík Čela běhá sem a tam, nemá žádnou mysl. Získává takovou radost! Kdyby si myslel: „Každý den musím běhat touto cestou,“ potom by neběhal žádným směrem. Zapomněl by na běhání! Musíme mít stejně spontánní radost jako Čela a tuto spontánní radost získáme pouze, když jsme v srdci. Musíme být dětští, ne dětinští. Když dospělý jedná dětinsky, udělá něco hloupého. Ale dětské srdce, jako květina, vždy kvete a kvete, kvete a kvete.
 
-Vždy zde musí být novost. Každý den může mysl vymyslet způsoby, jak nám sebrat naši radost. Vždy musíme se svou myslí bojovat. Když chceme udělat něco obtížného, mysl řekne: „Ó můj Bože! Dva dny jsem byl úspěšný a získal jsem radost, ale dnes nemyslím, že toho budu schopen.“ Potom, když přijde smutek a zklamání, okamžitě musíme čelit mysli svou moudrostí. Musíme říci: „No a co když neuspěji? Mým cílem není, řekněme, zvednout určitou hmotnost. Mým cílem je pravidelnost.“ Bůh mě žádá, abych něco dělal. Nepřikazuje mi, abych uspěl; On jen říká: „Musíš být pravidelný.“ Říká: „Udělej to, udělej to!“ a jen mě žádá, abych Ho poslechl.
+Vždy zde musí být novost. Každý den může mysl vymyslet způsoby, jak nám sebrat naši radost. Vždy musíme se svou myslí bojovat. Když chceme udělat něco obtížného, mysl řekne: „Ó můj bože! dva dny jsem byl úspěšný a získal jsem radost, ale dnes nemyslím, že toho budu schopen.“ potom, když přijde smutek a zklamání, okamžitě musíme čelit mysli svou moudrostí. musíme říci: „no a co když neuspěji? mým cílem není, řekněme, zvednout určitou hmotnost. mým cílem je pravidelnost.“ bůh mě žádá, abych něco dělal. nepřikazuje mi, abych uspěl; on jen říká: „musíš být pravidelný.“ Říká: „Udělej to, udělej to!“ a jen mě žádá, abych Ho poslechl.
 
-Když vás žádám, abyste něco udělali, potom byste to měli udělat celým srdcem. Nikdy neřeknu: „Když to nedokážeš udělat, potom tě vyhodím ze své lodi.“ Řeknu: „Vhoď do tohoto projektu své srdce a duši.“ Ale vy si ve své mysli vytvoříte víru, že když to nedokážete udělat, potom budu zklamán. Nikdy nebudu zklamán někým, kdo není úspěšný. Zajímá mě jen upřímnost, připravenost, ochota a dychtivost tohoto člověka. Nikdy nebudu nikoho obviňovat z vnějšího neúspěchu. Ale vnitřní neúspěch -- když zde není připravenost, ochota, dychtivost -- mi skutečně vadí. Někdy vidím žáky pracovat tak tvrdě. Potom je na Bohu, aby jim dal úspěch, nebo neúspěch. Pokud jde o nás, jestliže pracujeme s co největší připraveností, upřímností, ochotou a dychtivostí, pak kdo nás bude obviňovat, když neuspějeme? Bude nás obviňovat Bůh? Nikdy!
+Když vás žádám, abyste něco udělali, potom byste to měli udělat celým srdcem. Nikdy neřeknu: „když to nedokážeš udělat, potom tě vyhodím ze své lodi.“ Řeknu: „Vhoď do tohoto projektu své srdce a duši.“ Ale vy si ve své mysli vytvoříte víru, že když to nedokážete udělat, potom budu zklamán. Nikdy nebudu zklamán někým, kdo není úspěšný. Zajímá mě jen upřímnost, připravenost, ochota a dychtivost tohoto člověka. Nikdy nebudu nikoho obviňovat z vnějšího neúspěchu. Ale vnitřní neúspěch -- když zde není připravenost, ochota, dychtivost -- mi skutečně vadí. Někdy vidím žáky pracovat tak tvrdě. Potom je na Bohu, aby jim dal úspěch, nebo neúspěch. Pokud jde o nás, jestliže pracujeme s co největší připraveností, upřímností, ochotou a dychtivostí, pak kdo nás bude obviňovat, když neuspějeme? Bude nás obviňovat Bůh? Nikdy!
 
 Vždy používejte srdce. Srdce vždy přináší novost, zatímco mysl nese starobu. Pro mysl neexistuje žádná novost. Druhý den mysl ztratí veškeré nadšení, protože cítí, že všechno je příliš staré, příliš staré, příliš staré. Ale pro srdce je každý den nový, jako slunce. Jak jsem řekl dříve, když slunce vychází, mysl nemá zájem podívat se na něj, protože mysl cítí, že je to tatáž stará věc. Bez ohledu na to, zda slunce vychází nad vodou nebo z mraků, mysl to nezajímá. Ale srdce čeká na slunce. Srdce říká: „Kdy vyjde? Kdy vyjde? Kdy vyjde?“ Dychtivost srdce vidí novost vždy a ve všem. Když použijeme srdce, abychom poslechli Boha, potěšili Boha, pak je všechno nové. Každý den, dokonce i když navenek děláme a vidíme stejnou věc, srdce neustále cítí novou radost, novou radost, novou radost.
 
@@ -158,7 +153,7 @@ Vždy používejte srdce. Srdce vždy přináší novost, zatímco mysl nese sta
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:790e1-cs
+  :cite-key: sca:790e1-cs
   :END:
 
 
@@ -168,10 +163,10 @@ Vždy používejte srdce. Srdce vždy přináší novost, zatímco mysl nese sta
 * Paní Tripathi: Co vás přivedlo na duchovní cestu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:790-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :cite-key: sca:790-cs
+  :keywords:
+  :date-event: 1999-11-25
   :END:
 
 
@@ -198,10 +193,10 @@ Toto je můj život v kostce. Pokud máte nějaké konkrétní otázky, budu nes
 * Paní Tripathi: Jak jste zmínil, všichni jsme hledajícími tím nebo oním způsobem, ve svém vlastním malém stylu. Jak může ale někdo poznat, zda dělá duchovní pokrok?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:791-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :cite-key: sca:791-cs
+  :keywords:
+  :date-event: 1999-11-25
   :END:
 
 
@@ -220,10 +215,10 @@ Takže můžeme dělat pokrok za předpokladu, že chceme porazit svá omezení.
 * Paní Tripathi: Znamená to tedy, že být lepší lidskou bytostí se rovná duchovnímu pokroku?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:792-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :cite-key: sca:792-cs
+  :keywords:
+  :date-event: 1999-11-25
   :END:
 
 
@@ -241,16 +236,16 @@ Takže přijetí života je nyní naší filozofií, ne odmítnutí života. Kdy
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:793-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :cite-key: sca:793-cs
+  :keywords:
+  :date-event: 1999-11-25
   :END:
 
 
-/Sri Chinmoy:/ Určitě! /Bhakti/ znamená oddanost. Skutečný tvůrce nabízí všechno Bohu jako část své oddanosti. Nemodlí se k Bohu pro něco určitého, to znamená ne pro to, aby se stal dobrým básníkem nebo velkým zpěvákem či velkým atletem. Pokud je pravým hledajícím, modlí se k Bohu: „Prosím, učiň mě svým vybraným nástrojem. Vyjádři Sám Sebe ve mně a mým prostřednictvím, jestliže si to přeješ, jako spisovatel, jako zpěvák nebo jako umělec.“ Odevzdává svůj vlastní život tužeb Bohu a svým aspirujícím životem přijímá Boží Vůli.
+/Sri Chinmoy:/ určitě! /bhakti/ znamená oddanost. skutečný tvůrce nabízí všechno bohu jako část své oddanosti. nemodlí se k bohu pro něco určitého, to znamená ne pro to, aby se stal dobrým básníkem nebo velkým zpěvákem či velkým atletem. pokud je pravým hledajícím, modlí se k bohu: „Prosím, učiň mě svým vybraným nástrojem. Vyjádři Sám Sebe ve mně a mým prostřednictvím, jestliže si to přeješ, jako spisovatel, jako zpěvák nebo jako umělec.“ Odevzdává svůj vlastní život tužeb Bohu a svým aspirujícím životem přijímá Boží Vůli.
 
-V životě tužeb jdeme od touhy po jednom domě ke dvěma domům, ke třem domům, ke čtyřem domům, od jednoho auta ke dvěma autům. To je jen rozšiřování materiálního bohatství. Ale v životě aspirace říkáme Bohu: „Cokoli potřebuji, prosím, dej mi. Nechci mít možnost si vybírat. Jestliže si přeješ, abych měl jeden dům nebo auto, protože cítíš, že je to nanejvýš nezbytné, potom mi to můžeš dát. Ale jestliže cítíš, že to vůbec není nezbytné, pak mi to nedávej.“ Život aspirace je život odevzdání se Bohu. Život aspirace říká Bohu: „Prosím použij mě svým vlastním Způsobem.“ Život tužeb říká Bohu: „Chci být šťastný svým vlastním způsobem. Když mi dáš materiální bohatství, budu šťastný.“
+V životě tužeb jdeme od touhy po jednom domě ke dvěma domům, ke třem domům, ke čtyřem domům, od jednoho auta ke dvěma autům. To je jen rozšiřování materiálního bohatství. Ale v životě aspirace říkáme Bohu: „cokoli potřebuji, prosím, dej mi. nechci mít možnost si vybírat. jestliže si přeješ, abych měl jeden dům nebo auto, protože cítíš, že je to nanejvýš nezbytné, potom mi to můžeš dát. ale jestliže cítíš, že to vůbec není nezbytné, pak mi to nedávej.“ Život aspirace je život odevzdání se bohu. Život aspirace říká bohu: „prosím použij mě svým vlastním způsobem.“ Život tužeb říká bohu: „Chci být šťastný svým vlastním způsobem. Když mi dáš materiální bohatství, budu šťastný.“
 
 Ale čím více materiálního bohatství dostaneme, tím rychleji spoutáme sami sebe. Zatímco když dostaneme jen trošičku světla, míru nebo blaženosti Shůry nebo zevnitř, potom vstoupíme do záře rozlehlého oceánu světla. Touha tedy svazuje; aspirace osvobozuje.
 
@@ -260,10 +255,10 @@ Ale čím více materiálního bohatství dostaneme, tím rychleji spoutáme sam
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: SCA:794-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-11-25
+  :genre: discourse
+  :cite-key: sca:794-cs
+  :keywords:
+  :date-event: 1999-11-25
   :END:
 
 
@@ -277,11 +272,11 @@ Před čtrnácti lety jsem si šel koupit 70-ti librovou činku a nebyl jsem sch
 
 Řekl jsem mu: „Jednoho dne zvednu nad hlavu 100 liber a dám vám dort.“ Smál se mi. Za čtyři nebo pět měsíců jsem pak zvedl sto liber a dal jsem mu ten dort.
 
-Poté jsme se stali velmi dobrými přáteli. Měl pak ve svém obchodě tolik mých fotografií, jak zvedám závaží. Někdy mi nechtěl ze svého obchodu prodat některé věci. Říkával: „Tohle nestojí za nic.“ Chodíval jsem tam kupovat nějaké věci, a protože byl můj blízký přítel, říkával mi: „Tahle věc vám ve vašem vzpírání nepomůže.“ Byl to Mark Lurie, syn Dana Lurieho. Jeho otec jednou přišel na výroční slavnost mého zvedání.
+Poté jsme se stali velmi dobrými přáteli. Měl pak ve svém obchodě tolik mých fotografií, jak zvedám závaží. Někdy mi nechtěl ze svého obchodu prodat některé věci. Říkával: „tohle nestojí za nic.“ chodíval jsem tam kupovat nějaké věci, a protože byl můj blízký přítel, říkával mi: „Tahle věc vám ve vašem vzpírání nepomůže.“ Byl to Mark Lurie, syn Dana Lurieho. Jeho otec jednou přišel na výroční slavnost mého zvedání.
 
 Jak se život mění! Když jsem v Indii psal poezii a překládal, měl jsem velkou touhu: „Jak bych si přál, abych dokázal napsat dvě stě knih v angličtině!“ Jaká to touha! Jakmile jednou přijmeme duchovní život, Bůh se občas směje našim modlitbám. Myslel jsem si, že kdybych dokázal napsat dvě stě knih, byl bych někým. Nyní mám na svém kontě 1300 knih. Věřte mi -- říkám vám se vší upřímností -- ačkoliv jsem napsal 1300 knih, měl jsem takovou radost, když jsem zatoužil napsat dvě stě knih. Když jsem inspirován z hloubi nitra, tak je to ta největší radost. Můj předešlý cíl bylo zvednout 100 liber, abych se předvedl. Nyní tato touha zmizela. Mým cílem je teď 1000 liber.
 
-Svazujeme sami sebe svou myslí, když říkáme: „Nedokážu tohle, nedokážu tamto.“ Bůh se nám směje. Říká: „Ty že to nedokážeš? Kdo to dělá v tobě a prostřednictvím tebe?“ Pokud cítím, že já jako individuální lidská bytost jsem vykonavatelem, potom nesvedu udělat nic, nic, nic. Ale když mi Bůh dovolí být Jeho nástrojem, pak každý den, v každém okamžiku Bůh mým prostřednictvím vykonává zázraky, protože On je Vykonavatelem. Pokud cítím, že já jsem vykonavatelem, neuzvednu ani 70 liber. Modlím se k Bohu: „Ty to udělej ve mně a mým prostřednictvím podle své vlastní Vůle. Já jen budu dělat svá cvičení. Potom je vše na Tobě. Odevzdal jsem výsledky.“
+Svazujeme sami sebe svou myslí, když říkáme: „nedokážu tohle, nedokážu tamto.“ bůh se nám směje. Říká: „ty že to nedokážeš? kdo to dělá v tobě a prostřednictvím tebe?“ pokud cítím, že já jako individuální lidská bytost jsem vykonavatelem, potom nesvedu udělat nic, nic, nic. ale když mi bůh dovolí být jeho nástrojem, pak každý den, v každém okamžiku bůh mým prostřednictvím vykonává zázraky, protože on je vykonavatelem. pokud cítím, že já jsem vykonavatelem, neuzvednu ani 70 liber. modlím se k bohu: „Ty to udělej ve mně a mým prostřednictvím podle své vlastní Vůle. Já jen budu dělat svá cvičení. Potom je vše na Tobě. Odevzdal jsem výsledky.“
 
 Výsledky mohou přijít jen ve dvou podobách -- úspěch, nebo neúspěch. Jestliže dokážu šťastně nabídnout svůj úspěch Bohu, co je pak špatného na tom, když nabídnu také svůj neúspěch? Mohu mít zralé mango nebo nezralé mango. Když mi dnes Bůh dá zralé mango, pak já ho dám Jemu. Zítra, když mi dá nezralé mango, já ho opět dám Jemu. Když Mu dám obojí se stejnou radostí, potom Bůh bude potěšen tím, co mám a co Mu dávám. On mi může dát zážitek neúspěchu nebo zážitek úspěchu. Jestliže mohu k Jeho Nohám položit obojí se stejnou radostí, potom se nebudu cítit nešťastný. Pak budu tou nejšťastnější osobou. Cokoli mi Bůh dává, okamžitě Mu nabízím zpět. [fn:1] 
 
@@ -291,14 +286,14 @@ Výsledky mohou přijít jen ve dvou podobách -- úspěch, nebo neúspěch. Jes
 * Paní Tripathi: Máte pravdu! Abych se s vámi podělila o svou osobní zkušenost,… 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:795-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :cite-key: sca:795-cs
+  :keywords:
+  :date-event: 1999-11-25
   :END:
 
 
-/Paní Tripathi:/ Když jsme po deseti letech jeli zpět do Indie, jela jsem do Dillí. Tam jsem šla do organizace, která se jmenuje ICCR. Tenkrát byla ve velmi špatném stavu. Bylo tam mnoho korupce. Odbory se bouřily a stávkovaly každý den. Tak mě tam poslali! Řekli mi: „Jste jediná, kdo může dát věci do pořádku.“ Byla jsem naštvaná. Říkala jsem si: „Podívejme! Nemohli by pro mě vymyslet něco jiného? Proč musím dělat tohle všechno?“
+/Paní Tripathi:/ když jsme po deseti letech jeli zpět do indie, jela jsem do dillí. tam jsem šla do organizace, která se jmenuje iccr. tenkrát byla ve velmi špatném stavu. bylo tam mnoho korupce. odbory se bouřily a stávkovaly každý den. tak mě tam poslali! Řekli mi: „jste jediná, kdo může dát věci do pořádku.“ byla jsem naštvaná. Říkala jsem si: „Podívejme! Nemohli by pro mě vymyslet něco jiného? Proč musím dělat tohle všechno?“
 
 S Boží Milostí, cokoliv jsme plánovali, ukázalo se jako správné -- všechno, každý krok -- takže jsem sama byla šokovaná. Nevěděla jsem, jak se to děje. Pak jsem si uvědomila, že to dělal Někdo jiný. Já jsem to nedělala. Dělo se to mým prostřednictvím, ale dělal to Někdo jiný!
 
@@ -308,7 +303,7 @@ Když jsem pracoval na indickém konzulátě, nikdy se mi ani nesnilo, že bych 
 
 Jednou na indický konzulát přišel někdo z Asijské společnosti, aby našel někoho, kdo umí zpívat bengálské písně. Protože umím od všeho trochu, ale nic pořádně, souhlasil jsem, že budu zpívat. Požádali mě, abych zazpíval tři písně. Za každou píseň mi dali deset dolarů. To bylo velmi dobré. Jen vám vyprávím, jak se začala rozvíjet má literární a hudební kariéra.
 
-Jindy mě generální konzul S. K. Roy požádal, abych v synagoze na Long Islandu přednesl řeč o hinduismu. Organizátoři chtěli, aby S. K. Roy večeru předsedal. S. K. Roy se zeptal: „Kdo bude přednášet?“ Byli šťastni, že mu mohli oznámit, že řeč bude mít Ananda Mohan. Když to S. K. Roy slyšel, řekl: „Ne, pošlu vám Ghose.“ Byl jsem mladším úředníkem a Ananda Mohan pracoval v oddělení pro informace. Ale byl jsem požádán, abych šel a měl přednášku. Tak jsem přednesl proslov a generální konzul byl potěšen.
+Jindy mě generální konzul S. K. Roy požádal, abych v synagoze na Long Islandu přednesl řeč o hinduismu. Organizátoři chtěli, aby S. K. Roy večeru předsedal. S. K. Roy se zeptal: „kdo bude přednášet?“ byli šťastni, že mu mohli oznámit, že řeč bude mít ananda mohan. když to s. k. roy slyšel, řekl: „Ne, pošlu vám Ghose.“ Byl jsem mladším úředníkem a Ananda Mohan pracoval v oddělení pro informace. Ale byl jsem požádán, abych šel a měl přednášku. Tak jsem přednesl proslov a generální konzul byl potěšen.
 
 Ananda Mohan byl vynikající přednášející o hinduistické a indické kultuře. Napsal životopis Indiry Gándhíové. Tolik jsem ho obdivoval. Pracoval v oddělení pro informace a já jsem nebyl nikdo, absolutně nikdo. Naneštěstí se netěšil přízni S. K. Roye. Ačkoli jsem byl stále celkem mladý, S. K. Roy chtěl, abych měl přednášku o hinduismu. Nikdy by mě nenapadlo přednášet o hinduismu, ale byl jsem požádán, abych tam šel, a jim se to líbilo. Dali mi sto deset dolarů, takže jsem dělal pokrok.
 
@@ -324,10 +319,10 @@ Když se mě S. K. Roy zeptal, jestli ho znám, odpověděl jsem: „Dilipa Roye
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:796-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-11-25
+  :genre: qa
+  :cite-key: sca:796-cs
+  :keywords:
+  :date-event: 1999-11-25
   :END:
 
 
@@ -339,10 +334,10 @@ Když se mě S. K. Roy zeptal, jestli ho znám, odpověděl jsem: „Dilipa Roye
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: SCA:797-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-11-25
+  :genre: discourse
+  :cite-key: sca:797-cs
+  :keywords:
+  :date-event: 1999-11-25
   :END:
 
 
@@ -359,10 +354,10 @@ Všude jsem byl povzbuzován, povzbuzován. Zde, když jsem začal skládat pís
 * Paní Tripathi: Musím říct, že vaše zpěvačky zpívaly překrásné bhajany (indické duchovní písně -- pozn. překladatele) 2. října u příležitosti výročí Gándhího narozenin u jeho sochy na Manhattanu.
 
   :PROPERTIES:
-  :GENRE: interview
-  :CITE-KEY: SCA:773-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-11-25
+  :genre: interview
+  :cite-key: sca:773-cs
+  :keywords:
+  :date-event: 1999-11-25
   :END:
 
 
@@ -388,7 +383,7 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:799e1
+  :cite-key: sca:799e1
   :END:
 
 
@@ -398,10 +393,10 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
 * /Novinář:/ Sri Chinmoyi, prosím, řekněte mi něco o sobě. Kde jste se narodil?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:799-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:799-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -412,24 +407,24 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
 * Novinář: Jaký druh vzdělání vám mohli nabídnout?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:800-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:800-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
-/Sri Chinmoy:/ Musím být velmi upřímný. Nedokončil jsem vzdělání v ášramu, ale hodně jsem studoval v hlavní ášramové knihovně. Školu jsem opustil a v ášramu jsem dělal různé práce: výrobu ručního papíru, barvení a jiné řemeslné práce. Také jsem pracoval v úseku elektrikářů.
+/Sri Chinmoy:/ musím být velmi upřímný. nedokončil jsem vzdělání v ášramu, ale hodně jsem studoval v hlavní ášramové knihovně. Školu jsem opustil a v ášramu jsem dělal různé práce: výrobu ručního papíru, barvení a jiné řemeslné práce. Také jsem pracoval v úseku elektrikářů.
 
 
 
 * Novinář: Vaši rodiče byli s vámi?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:801-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:801-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -440,24 +435,24 @@ Naše filozofie je pokrok, pokrok, pokrok a sebepřekonávání. To, co jste vyk
 * Novinář: Proč jste opustil Pondicherry?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:802-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:802-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
-/Sri Chinmoy:/ Do ášramu přišli dva Američané. Něco ve mně spatřili a pozvali mě, abych přijel do Ameriky. Ve svém posledním zaměstnání zde jsem pracoval jako sekretář generálního sekretáře Sri Aurobindova ášramu Noliniho Kanta Gupty. Byl velmi známým spisovatelem a obdivovatelem Thákura. Byl hlavním sekretářem Matky a Sri Aurobinda. Vykonával jsem pro něho kancelářské práce a překlady jeho spisů z bengálštiny do angličtiny. Thákur o něm prohlásil: „Nolini Kantův příspěvek k bengálské literatuře je jedinečný.“
+/Sri Chinmoy:/ do ášramu přišli dva američané. něco ve mně spatřili a pozvali mě, abych přijel do ameriky. ve svém posledním zaměstnání zde jsem pracoval jako sekretář generálního sekretáře sri aurobindova ášramu noliniho kanta gupty. byl velmi známým spisovatelem a obdivovatelem thákura. byl hlavním sekretářem matky a sri aurobinda. vykonával jsem pro něho kancelářské práce a překlady jeho spisů z bengálštiny do angličtiny. thákur o něm prohlásil: „Nolini Kantův příspěvek k bengálské literatuře je jedinečný.“
 
 
 
 * Novinář: Na co jste myslel, než jste odjel do Ameriky? Co vás přimělo přijmout jejich pozvání?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:803-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:803-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -473,10 +468,10 @@ Potom jsem získal zelenou kartu, takže jsem mohl v Americe zůstat natrvalo. B
 * Novinář: Neměl jste ale žádné formální spojení s nějakou organizací? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:804-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:804-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -494,10 +489,10 @@ Potom jsem získal zelenou kartu, takže jsem mohl v Americe zůstat natrvalo. B
 * Novinář: Co je to za mírové hnutí? Jaký je váš přínos?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:805-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:805-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -510,10 +505,10 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 * Novinář: Jak meditace pomáhá v této vaší mírové misi?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:806-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:806-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -524,10 +519,10 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 * Novinář: Takže dovolujete jejich vnitřním pocitům vyjít na povrch.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:807-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:807-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -538,10 +533,10 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 * Novinář: Co se týká vašeho mírového hnutí, které země se staly „národy mírových květů“? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:808-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:808-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -552,10 +547,10 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 * Novinář: Cestujete často do těchto zemí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:809-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:809-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -566,10 +561,10 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 * Novinář: Takže v těchto zemích vaši studenti šíří vaše hnutí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:810-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:810-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -580,10 +575,10 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 * Novinář: Rád bych se v krátkosti dověděl něco o vaší filozofii.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:811-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:811-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -594,16 +589,16 @@ Naše mise je jako rostlina -- roste a roste a roste. Semínko bylo zasazeno, kd
 * Novinář: Takže vy cítíte, že mír přijde, když budeme nabízet dobrou vůli každé lidské bytosti? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:812-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:812-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
 /Sri Chinmoy:/ Ano, to je jediný způsob. Jestliže vám nabídnu dobrou vůli a vy nabídnete dobrou vůli mně, nebudeme se hádat, nebudeme bojovat. Protože nenabízíme dobrou vůli jeden druhému, je tento svět plný konfliktů a nedorozumění. Když se budeme modlit a meditovat, nebude mezi námi nedorozumění, protože modlitba očišťuje naši mysl. Když budeme mít čistotu ve své mysli, ve svém srdci, potom se nebudeme hádat, nebudeme bojovat. Takže toto je má jednoduchá filozofie. Hlavní věcí je přijmout život. Nechoďte do himálajských jeskyní. Nezanedbávejte své povinnosti na zemi. Své povinnosti musíte naplnit.
 
-Já žiji v Americe. Moje sestra nedávno zemřela a já jsem sem přijel, abych navštívil svého bratra. Mohl jsem říct: „Modlím se, medituji, mám tisíce studentů. Nemohu odjet do Indie.“ Ne, má povinnost je přijet sem a být s mým bratrem, takže jsem zrušil své aktivity. Měl jsem jet do Norska, Švédska, Irska a Polska, ale řekl jsem: „Ne. Právě teď je pro mě nejdražší moje sestra. O tamty věci se mohu postarat za několik týdnů.“ Já přikládám povinnosti ohromnou důležitost. 
+Já žiji v Americe. Moje sestra nedávno zemřela a já jsem sem přijel, abych navštívil svého bratra. Mohl jsem říct: „modlím se, medituji, mám tisíce studentů. nemohu odjet do indie.“ ne, má povinnost je přijet sem a být s mým bratrem, takže jsem zrušil své aktivity. měl jsem jet do norska, Švédska, irska a polska, ale řekl jsem: „Ne. Právě teď je pro mě nejdražší moje sestra. O tamty věci se mohu postarat za několik týdnů.“ Já přikládám povinnosti ohromnou důležitost. 
 
 Mojí filozofií je přijetí života. Musíme přijmout život -- ne utéct od života nebo odejít do himálajských jeskyní. Zde na zemi musíme nabízet dobrou vůli, inspiraci a aspiraci. Musíme milovat lidstvo a sloužit mu. Jen tak může být tento náš svět přeměněn. Je mnoho, mnoho lidí, kteří jsou na vnější úrovni známí jako politici, ale na vnitřní úrovni jsou to ti nejupřímnější milovníci pravdy a milovníci Boha. Proto jsou mými přáteli. Plujeme na stejné lodi.
 
@@ -612,10 +607,10 @@ Mojí filozofií je přijetí života. Musíme přijmout život -- ne utéct od 
 * Novinář: Jakou roli hraje hudba v tom, co děláte?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:813-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:813-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -626,10 +621,10 @@ Mojí filozofií je přijetí života. Musíme přijmout život -- ne utéct od 
 * Novinář: Chápu, že někdo může oceňovat hudbu, aniž by znal jazyk. Ale přál bych si porozumět tomu, jak hudba pomáhá vaší mírové misi. 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:814-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:814-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -642,10 +637,10 @@ Jak jsem řekl dříve, naší úlohou je inspirovat jeden druhého. Hudba, umě
 * Novinář: Dozvěděl jsem se, že jste přeborníkem ve vzpírání. 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:815-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:815-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -668,10 +663,10 @@ Jak jsem řekl dříve, naší úlohou je inspirovat jeden druhého. Hudba, umě
 * Novinář: Trénujete vzpírání?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:816-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:816-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
@@ -684,24 +679,11 @@ Jak už jsem řekl, mou filozofií je přijetí života v jeho nejrůznějšíc
 * Novinář: Přičítáte veškerý svůj úspěch Bohu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:817-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1999-06-00
+  :genre: qa
+  :cite-key: sca:817-cs
+  :keywords:
+  :date-event: 1999-06-00
   :END:
 
 
 /Sri Chinmoy:/ Bohu přičítám sto procent. Vím, že já nejsem nic, ale s Milostí Boha je možné všechno.
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

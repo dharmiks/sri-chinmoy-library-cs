@@ -1,12 +1,7 @@
-#+TITLE: Sri Chinmoy odpovídá, část 06
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 06
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:203e1-cs
+  :cite-key: sca:203e1-cs
   :END:
 
   
@@ -34,7 +29,7 @@
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:203-cs
+  :cite-key: sca:203-cs
   :date-event: 1995-01-00
   :END:
 
@@ -102,7 +97,7 @@ Toto je jediná dokonalost v životě hledajícího. Jak už jsem řekl dříve,
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:204-cs
+  :cite-key: sca:204-cs
   :date-event: 1995-01-00
   :END:
 
@@ -122,7 +117,7 @@ Opět platí, že pokud se nám něco podaří, po dobu pěti sekund můžeme pr
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:205-cs
+  :cite-key: sca:205-cs
   :date-event: 1995-01-00
   :END:
 
@@ -144,7 +139,7 @@ Zkuste vidět božský aspekt uvnitř svého Mistra tak často, jak je to možn�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:206-cs
+  :cite-key: sca:206-cs
   :date-event: 1995-01-00
   :END:
 
@@ -157,7 +152,7 @@ Ale nejlepší je modlit se k Nejvyššímu, aby ti dal spánek. Když budeš do
 
 Vždycky bychom měli používat svou moudrost a měli bychom vědět, které dobré věci nám mohou nabídnout příležitost dělat pokrok. Už známe sousloví „duchovní odevzdání.“ Musíme se však odevzdávat moudrosti a ne hlouposti. Když má nějaký žák nebo žákyně nejistotu, může si říci: „Možná že je to Vůle Boha, abych měl nejistotu. Protože jsem přišel na svět, jenom abych těšil Boha, zřejmě bych se měl nejistotě odevzdat.“ V takové chvíli se Bůh bude jenom smát žákově hlouposti.
 
-Všechny naše negativní vlastnosti bychom měli přeměnit na dobré vlastnosti. Jestliže nám stojí v cestě nějaké překážky, které nám brání v tom, aby se z nás stal dobrý nástroj Boha, musíme se modlit, aby nám Bůh pomohl tyto překážky překonat. Právě teď trpíš nespavostí; trápí tě nedostatek spánku. Byla by chyba, kdyby sis řekl: „Když nebudu spát šest měsíců, nic se neděje! Bůh mi dává určitou zkušenost, takže zůstanu zticha.“ To by pro tebe v tuto chvíli nebyla správná modlitba. Musíš se modlit k Bohu: „Prosím dej mi spánek, abych mohl zítra meditovat a jít do práce.“
+Všechny naše negativní vlastnosti bychom měli přeměnit na dobré vlastnosti. Jestliže nám stojí v cestě nějaké překážky, které nám brání v tom, aby se z nás stal dobrý nástroj Boha, musíme se modlit, aby nám Bůh pomohl tyto překážky překonat. Právě teď trpíš nespavostí; trápí tě nedostatek spánku. Byla by chyba, kdyby sis řekl: „když nebudu spát šest měsíců, nic se neděje! bůh mi dává určitou zkušenost, takže zůstanu zticha.“ to by pro tebe v tuto chvíli nebyla správná modlitba. musíš se modlit k bohu: „Prosím dej mi spánek, abych mohl zítra meditovat a jít do práce.“
 
 Na druhou stranu, pokud jsi v opravdu vysokém vědomí, můžeš se pokusit změnit svůj přístup k nespavosti. Můžeš transformovat svoje utrpení na štěstí. Místo aby ses cítil nešťastný, že nemůžeš spát, můžeš říci: „Bůh mi dal zlatou příležitost, abych mohl meditovat pár hodin navíc. Až dosud jsem meditoval půl hodiny ráno a půl hodiny večer. Ale teď mohu meditovat ještě v noci další čtyři nebo pět hodin, takže mám opravdu štěstí.“ Pokud bys takto dokázal změnit svůj přístup a začal šťastně a radostně meditovat, ihned by tě navštívila bohyně spánku. Jak říkám, pokud dokážeš v noci meditovat s božským přístupem, nebudeš muset meditovat více než několik minut a přijde bohyně spánku a požehná tě tím nejhlubším spánkem. 
 
@@ -171,7 +166,7 @@ Takže v této chvíli je pro tebe nejlepší modlit se k Nejvyššímu, aby ti 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:207-cs
+  :cite-key: sca:207-cs
   :date-event: 1995-01-00
   :END:
 
@@ -190,7 +185,7 @@ Lepší je věnovat se projevení -- bez ohledu na to, jak je nedokonalé -- ne�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:208-cs
+  :cite-key: sca:208-cs
   :date-event: 1995-01-00
   :END:
 
@@ -204,7 +199,7 @@ Lepší je věnovat se projevení -- bez ohledu na to, jak je nedokonalé -- ne�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:209-cs
+  :cite-key: sca:209-cs
   :date-event: 1995-01-00
   :END:
 
@@ -218,7 +213,7 @@ Lepší je věnovat se projevení -- bez ohledu na to, jak je nedokonalé -- ne�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:210-cs
+  :cite-key: sca:210-cs
   :date-event: 1995-01-00
   :END:
 
@@ -236,7 +231,7 @@ Abyste inspirovali ostatní k plnohodnotnému vstupu do duchovního života, je 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:211-cs
+  :cite-key: sca:211-cs
   :date-event: 1995-01-00
   :END:
 
@@ -258,12 +253,12 @@ Obyčejné a neinspirující sny byste měli prostě zahodit, zahodit, zahodit. 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:212-cs
+  :cite-key: sca:212-cs
   :date-event: 1995-01-00
   :END:
 
 
-/Sri Chinmoy:/ Prozatím zapomeň na Nejvyššího. Pouze ciť, že jsi vstoupil do zahrady s mnoha, mnoha květinami. Vyber si jednu květinu, která se ti líbí, a běž k ní. Obdivuj její krásu a přivoň k ní. A potom jenom několikrát řekni: „Jak bych si přál být tak čistý a tak krásný, jako tato květina.“ Po pěti minutách si snaž představit, že do tebe vstoupila nepatrná troška krásy květiny. Potom se snaž postupně cítit, že všechny dobré kvality, které v květině vidíš -- její krásu, čistotu, vůni a podobně -- do tebe vstoupily a jsou v tobě. 
+/Sri Chinmoy:/ prozatím zapomeň na nejvyššího. pouze ciť, že jsi vstoupil do zahrady s mnoha, mnoha květinami. vyber si jednu květinu, která se ti líbí, a běž k ní. obdivuj její krásu a přivoň k ní. a potom jenom několikrát řekni: „Jak bych si přál být tak čistý a tak krásný, jako tato květina.“ Po pěti minutách si snaž představit, že do tebe vstoupila nepatrná troška krásy květiny. Potom se snaž postupně cítit, že všechny dobré kvality, které v květině vidíš -- její krásu, čistotu, vůni a podobně -- do tebe vstoupily a jsou v tobě. 
 
 Teď si zapamatuj, jak moc jsi tu květinu miloval a kolik radosti ti dala. Nejprve měla oddělenou existenci. Ale ty jsi kousek po kousku přenesl její krásu a skutečnost do svého těla a do svého vlastního srdce. Potom se snaž cítit, že nemáš tělo, že nemáš mysl, že nemáš nic. Mysli na sebe jenom jako na tu krásnou květinu. Protože ses stal tou krásnou květinou, určitě budeš obdivovat sám sebe a milovat sám sebe právě tak, jak jsi miloval tu květinu. 
 
@@ -277,7 +272,7 @@ Jakmile začneš milovat sám sebe, musíš cítit, že Bůh tě miluje nekoneč
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:213-cs
+  :cite-key: sca:213-cs
   :date-event: 1995-01-00
   :END:
 
@@ -288,7 +283,7 @@ Chcete bezesně milovat Boha. Právě teď to není možné, ale pokud dokážet
 
 Jste hledající. Proto určitě milujete Boha; říkat, že k Bohu nechováte žádnou lásku, by byla ta nejhorší možná lež dvacátého století. Teď musíte tu lásku zvětšit. Je to jako když posilujete nějaký sval. Modlitba a meditace jsou v duchovním světě něco jako cvičení, posilování. Snadno dokážete díky modlitbě a meditaci posílit svoji lásku k Bohu. Můžete začít meditovat patnáct minut a postupně zvětšovat délku meditace na dvacet minut, třicet minut a tak dále.
 
-Mezi mými žáky není ani jeden, který by nemiloval Boha. Teď už jde jenom o rozvíjení nepodmíněné lásky k Bohu. Někteří z mých žáků jsou schopni milovat nepodmíněně Boha pět minut nebo půl hodiny během meditace. Ale jakmile jejich meditace skončí, ihned vyplavou na povrch jejich očekávání a požadavky. Někdo řekne: „Neudělal toto nebo tamto, tak jak je možné, že se na něj Guru usmívá?“ Nebo někdo jiný řekne: „Jak je možné, že ten a ten je docela šťastný a já, který jsem se modlil a meditoval, pořád šťastný nejsem?“ Takže najednou je naše láska k Bohu podmíněná. A horší je, že přijdou očekávání -- ještě horší potom je, že přicházejí požadavky. 
+Mezi mými žáky není ani jeden, který by nemiloval Boha. Teď už jde jenom o rozvíjení nepodmíněné lásky k Bohu. Někteří z mých žáků jsou schopni milovat nepodmíněně Boha pět minut nebo půl hodiny během meditace. Ale jakmile jejich meditace skončí, ihned vyplavou na povrch jejich očekávání a požadavky. Někdo řekne: „neudělal toto nebo tamto, tak jak je možné, že se na něj guru usmívá?“ nebo někdo jiný řekne: „Jak je možné, že ten a ten je docela šťastný a já, který jsem se modlil a meditoval, pořád šťastný nejsem?“ Takže najednou je naše láska k Bohu podmíněná. A horší je, že přijdou očekávání -- ještě horší potom je, že přicházejí požadavky. 
 
 My chováme lásku k Bohu. Teď musíme svoji lásku zvětšit. Vždycky říkám, že Bůh sám v každém okamžiku zvětšuje svoji vlastní Věčnost a Nekonečnost -- to Mu dává radost. V současnosti si nedokážeme představit, co je Boží Nekonečnost. Pokud se ale ztotožníme s Boží Vůlí, dokážeme vidět Boží Nekonečnost a Boží Vizi na první pohled. Nemůžeme je změřit pomocí mysli; není to jako vystoupat 8000 metrů na Himálaje. Nekonečnost můžeme poznat jenom díky naší vnitřní vizi. Když meditujeme, zvětšujeme naši vizi, zvětšujeme naši lásku k Bohu.
 
@@ -299,7 +294,7 @@ My chováme lásku k Bohu. Teď musíme svoji lásku zvětšit. Vždycky říká
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:214-cs
+  :cite-key: sca:214-cs
   :date-event: 1995-01-00
   :END:
 
@@ -312,7 +307,7 @@ My chováme lásku k Bohu. Teď musíme svoji lásku zvětšit. Vždycky říká
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:215-cs
+  :cite-key: sca:215-cs
   :date-event: 1995-01-00
   :END:
 
@@ -327,12 +322,12 @@ My chováme lásku k Bohu. Teď musíme svoji lásku zvětšit. Vždycky říká
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:216-cs
+  :cite-key: sca:216-cs
   :date-event: 1995-01-00
   :END:
 
 
-/Sri Chinmoy:/ Musíte použít svoji moudrost. Jedna věc je utratit tisíce dolarů za šaty a šperky, a druhá je dát peníze na něco, co vám pomůže udělat duchovní pokrok. Musíte vědět, co chce duše a vždycky poslouchat hlas duše. Někteří žáci věří v duši jen tehdy, když říká věci, které chtějí slyšet jejich vitálna a mysli. Jinak říkají: „Co je duše? Kdo to je? Kde je? Moje lidské oko chce vidět solidní důkaz!“ Když se jim nelíbí poselství duše, zůstanou tito nešťastní žáci ve světě důkazů. 
+/Sri Chinmoy:/ musíte použít svoji moudrost. jedna věc je utratit tisíce dolarů za šaty a šperky, a druhá je dát peníze na něco, co vám pomůže udělat duchovní pokrok. musíte vědět, co chce duše a vždycky poslouchat hlas duše. někteří žáci věří v duši jen tehdy, když říká věci, které chtějí slyšet jejich vitálna a mysli. jinak říkají: „Co je duše? Kdo to je? Kde je? Moje lidské oko chce vidět solidní důkaz!“ Když se jim nelíbí poselství duše, zůstanou tito nešťastní žáci ve světě důkazů. 
 
 Dokud budu živ, určitě budu celému světu říkat, že duše existují. Pro mě jsou tělo, mysl a vitálno neskutečné. Pouze duše, která je věčná a nesmrtelná, je skutečná. Duše je jako velice zářivé dítě uvnitř nás. Jestliže si udržujete dobré spojení se svou duší, určitě vás vezme k Otci. Otec si s vámi rád promluví, protože vás k němu dovedla duše, jeho nejdražší dítě. Pokud těšíte božské dítě uvnitř vás, jež má volný přístup k Absolutnímu Pánu Nejvyššímu, je potom velice snadné Otce vidět. 
 
@@ -345,7 +340,7 @@ Ptáš se, jestli bys měla šetřit peníze pro případ, že jednou budeš mus
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:217-cs
+  :cite-key: sca:217-cs
   :date-event: 1995-01-00
   :END:
 
@@ -360,12 +355,12 @@ Ptáš se, jestli bys měla šetřit peníze pro případ, že jednou budeš mus
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:218-cs
+  :cite-key: sca:218-cs
   :date-event: 1995-01-00
   :END:
 
 
-/Sri Chinmoy:/ Když realizujete Boha, je to jako kdyby uvnitř vás vykvetla velice krásná květina. Jestliže se snažíte odhalit a projevit Boha, vynášíte tuto květinu ven, abyste světu ukázali, co máte uvnitř sebe -- snažíte se nabídnout krásu a vůni květiny svého srdce světu. Někteří lidé se po realizaci nestarají o projevení, protože je to velice obtížný úkol. Říkají: „Koho zajímá, jestli ostatní věří, že uvnitř mého srdce je velice krásná květina? Nevěří-li, proč bych jim to měl dokazovat? Jsem spokojený s tím, co mám.“
+/Sri Chinmoy:/ když realizujete boha, je to jako kdyby uvnitř vás vykvetla velice krásná květina. jestliže se snažíte odhalit a projevit boha, vynášíte tuto květinu ven, abyste světu ukázali, co máte uvnitř sebe -- snažíte se nabídnout krásu a vůni květiny svého srdce světu. někteří lidé se po realizaci nestarají o projevení, protože je to velice obtížný úkol. Říkají: „Koho zajímá, jestli ostatní věří, že uvnitř mého srdce je velice krásná květina? Nevěří-li, proč bych jim to měl dokazovat? Jsem spokojený s tím, co mám.“
 
 Ale jiné realizované duše, které mají více odvahy, vidí, že existují lidé, kteří jsou nešťastní, protože nevědí, že taková květina vůbec existuje. Tyto realizované duše chtějí květinu ukázat; ne proto, aby se vytahovaly, ale protože jsou štědré. Díky velkorysosti jejich srdcí chtějí sdílet krásu květiny s ostatními. Vědí, že květinu neztratí, když ji budou sdílet s ostatními, protože to není něco, co vlastní, ale něco, čím se sami staly. Vlastnictví můžeme ztratit, ale to, čím věčně jsme, ztratit nikdy nemůžeme. 
 
@@ -377,7 +372,7 @@ Ale jiné realizované duše, které mají více odvahy, vidí, že existují li
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:219-cs
+  :cite-key: sca:219-cs
   :date-event: 1995-01-00
   :END:
 
@@ -392,7 +387,7 @@ Ale jiné realizované duše, které mají více odvahy, vidí, že existují li
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:220-cs
+  :cite-key: sca:220-cs
   :date-event: 1995-01-00
   :END:
 
@@ -408,7 +403,7 @@ Dokonce i teď má pro mne duše Ameriky bezmeznou, bezmeznou, bezmeznou lásku 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:221-cs
+  :cite-key: sca:221-cs
   :date-event: 1995-01-00
   :END:
 
@@ -422,7 +417,7 @@ Dokonce i teď má pro mne duše Ameriky bezmeznou, bezmeznou, bezmeznou lásku 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:222-cs
+  :cite-key: sca:222-cs
   :date-event: 1995-01-00
   :END:
 
@@ -438,7 +433,7 @@ Pro mě však takové meditativní vědomí nepředstavuje nejvyšší druh sam�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:223-cs
+  :cite-key: sca:223-cs
   :date-event: 1995-01-00
   :END:
 
@@ -453,7 +448,7 @@ Pro mě však takové meditativní vědomí nepředstavuje nejvyšší druh sam�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:224-cs
+  :cite-key: sca:224-cs
   :date-event: 1995-01-00
   :END:
 
@@ -468,7 +463,7 @@ Pro mě však takové meditativní vědomí nepředstavuje nejvyšší druh sam�
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:225-cs
+  :cite-key: sca:225-cs
   :date-event: 1995-01-00
   :END:
 
@@ -486,7 +481,7 @@ V Nepálu můžete navštívit některou z jeskyň, kde Gorakšanat meditoval. V
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:226-cs
+  :cite-key: sca:226-cs
   :date-event: 1995-01-00
   :END:
 
@@ -507,7 +502,7 @@ Pozoruji, že do myslí mnoha mých žáků vstoupilo stáří. Neustále myslí
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:227-cs
+  :cite-key: sca:227-cs
   :date-event: 1995-01-00
   :END:
 
@@ -522,7 +517,7 @@ Pozoruji, že do myslí mnoha mých žáků vstoupilo stáří. Neustále myslí
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:228-cs
+  :cite-key: sca:228-cs
   :date-event: 1995-01-00
   :END:
 
@@ -538,7 +533,7 @@ Takže se snažte myslet na dobré vlastnosti ostatních, na jejich božské vla
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:229-cs
+  :cite-key: sca:229-cs
   :date-event: 1995-01-00
   :END:
 
@@ -557,7 +552,7 @@ Je samozřejmé, že vůbec nejdůležitější je aspirace. Existuje ale pár v
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:230e1-cs
+  :cite-key: sca:230e1-cs
   :END:
   
   
@@ -567,7 +562,7 @@ Je samozřejmé, že vůbec nejdůležitější je aspirace. Existuje ale pár v
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:230-cs
+  :cite-key: sca:230-cs
   :date-event: 1995-07-21
   :END:
 
@@ -583,7 +578,7 @@ Musíme se modlit a meditovat každý den, nejlépe pokaždé ve stejnou hodinu 
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:231-cs
+  :cite-key: sca:231-cs
   :date-event: 1995-07-21
   :END:
 
@@ -602,7 +597,7 @@ Jak můžeme poznat Boží Vůli? Můžeme ji poznat díky naší modlitbě a me
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:232-cs
+  :cite-key: sca:232-cs
   :date-event: 1995-07-21
   :END:
 
@@ -617,7 +612,7 @@ Co můžeme dělat s myšlenkami na praktické úrovni? Považujme myšlenky za 
 
 Takže nejlepší je dveře neotvírat za žádných okolností. Po nějaké době nás špatné myšlenky samy od sebe opustí. Jsou-li to nebožské myšlenky, budou mít všechny nebožské vlastnosti. Nebudou mít trpělivost, aby čekaly, až otevřeme dveře. Budou čekat pár minut a potom si řeknou: „To čekání je pod naši důstojnost. Když nás nechce vidět, zaklepeme na jiné dveře a budeme obtěžovat někoho jiného.“
 
-Je-li to božská myšlenka, náš opravdový a božský přítel, řekne: „Ach, můj přítel má možná mnoho práce nebo dělá něco důležitého. Jinak by určitě otevřel. Budu trpělivě čekat.“ Tu dobrou myšlenku budeme zdržovat venku patnáct minut nebo půl hodiny. Budeme zachovávat míruplné ticho půl hodiny nebo hodinu a potom řekneme: „Teď se podíváme, kdo je u našich dveří.“ Tou dobou už tam najdeme jenom naše velice drahé přátele, jak na nás čekají. Těmito přáteli jsou naše božské, energizující a naplňující myšlenky.
+Je-li to božská myšlenka, náš opravdový a božský přítel, řekne: „ach, můj přítel má možná mnoho práce nebo dělá něco důležitého. jinak by určitě otevřel. budu trpělivě čekat.“ tu dobrou myšlenku budeme zdržovat venku patnáct minut nebo půl hodiny. budeme zachovávat míruplné ticho půl hodiny nebo hodinu a potom řekneme: „Teď se podíváme, kdo je u našich dveří.“ Tou dobou už tam najdeme jenom naše velice drahé přátele, jak na nás čekají. Těmito přáteli jsou naše božské, energizující a naplňující myšlenky.
 
 Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hodiny, neaspirující a temné síly na nás už po meditaci nebudou čekat, aby do nás vstoupily. Tímto způsobem můžeme mít z naší meditace jenom dobré myšlenky. Nejprve musíme zcela zablokovat mysl a nedovolit žádným myšlenkám, aby do nás vstoupily. Poté, co jsme se dostali hluboko dovnitř a vstoupili do moře míru, otevřeme dveře naší mysli a najdeme tam jenom dobré, božské myšlenky, jak na nás čekají.
 
@@ -628,7 +623,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:233e1-cs
+  :cite-key: sca:233e1-cs
   :END:
   
   
@@ -639,7 +634,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:233-cs
+  :cite-key: sca:233-cs
   :date-event: 1993-08-28
   :END:
 
@@ -654,7 +649,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:234-cs
+  :cite-key: sca:234-cs
   :date-event: 1993-08-28
   :END:
 
@@ -668,7 +663,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:235-cs
+  :cite-key: sca:235-cs
   :date-event: 1993-08-28
   :END:
 
@@ -683,7 +678,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:236-cs
+  :cite-key: sca:236-cs
   :date-event: 1993-08-28
   :END:
 
@@ -698,7 +693,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:237-cs
+  :cite-key: sca:237-cs
   :date-event: 1993-08-28
   :END:
 
@@ -713,7 +708,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:238-cs
+  :cite-key: sca:238-cs
   :date-event: 1993-08-28
   :END:
 
@@ -727,7 +722,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:239-cs
+  :cite-key: sca:239-cs
   :date-event: 1993-08-28
   :END:
 
@@ -741,7 +736,7 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:240-cs
+  :cite-key: sca:240-cs
   :date-event: 1993-08-28
   :END:
 
@@ -756,23 +751,9 @@ Když dokážeme udržet naši mysl naprosto tichou patnáct minut nebo půl hod
   :PROPERTIES:
   :genre: qa
   :keywords:
-  :cite-key: SCA:241-cs
+  :cite-key: sca:241-cs
   :date-event: 1993-08-28
   :END:
 
 
 /Sri Chinmoy:/ Existuje vnější bytí a vnitřní bytí. Hudba se okamžitě dotýká vnitřního bytí, toho bytí, které aspiruje, aby bylo šťastné, a které se zároveň snaží sdílet své štěstí se zbytkem světa. Hudba se dotýká hloubek naší bytosti a vynáší na povrch to, co tam objevuje. Melodie a harmonie hudby dává lidstvu nejenom radost, ale také mu pomáhá dosáhnout nejvyššího stavu vědomí, které obsahuje mír, lásku, radost a naplnění.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

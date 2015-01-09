@@ -1,21 +1,15 @@
-#+TITLE: Védy, první volání Nesmrtelnosti
-
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Védy, první volání Nesmrtelnosti
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2010
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: VIFC-cs
-  :GENRE: discourse
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2010
+  :publisher: Madal Bal
+  :cite-key: VIFC-cs
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -23,10 +17,10 @@
 * Védský pták osvícení
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:1-cs
-  :DATE-EVENT: 1972-11-14
+  :genre: discourse
+  :keywords:
+  :cite-key: vifc:1-cs
+  :date-event: 1972-11-14
   :END:
 
 
@@ -101,10 +95,10 @@ Védy neztělesňují depresi, potlačování, sebeumrtvování, uvědomování 
 * Zářící vědomí védské pravdy
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:2-cs
-  :DATE-EVENT: 1972-11-14
+  :genre: discourse
+  :keywords:
+  :cite-key: vifc:2-cs
+  :date-event: 1972-11-14
   :END:
 
 
@@ -168,10 +162,10 @@ Neskutečnost je nepravda a Skutečnost je Pravda. Čisté srdce vzývá /satja
 * Oheň Vnitřního odhalení
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:3-cs
-  :DATE-EVENT: 1972-11-15
+  :genre: discourse
+  :keywords:
+  :cite-key: vifc:3-cs
+  :date-event: 1972-11-15
   :END:
 
 
@@ -208,7 +202,7 @@ Védský způsob života nelze oddělit od rituálů. Ve védských dobách byly
 
 Védy hovoří jmenovitě o třech světech: /pršiví/ -- zemi, /antarikša/ -- obloze a /djaus/ -- nebeském světě. Na zemi je vším hmota. Na obloze je vším božské působení. V Nebi je vším schopnost vnímání. 
 
-Ve védách kráčí filozofie bok po boku s poezií. Filozofie osvítila mysl védských zřeců. Poezie učinila jejich srdce věčným. Filozof je básník v mysli. Básník je filozof v srdci. Filozof má rád vnější náboženství a vnitřní vědu. Básník má rád vnější umění a vnitřní literaturu. Filozof říká básníkovi: „Dávám ti své vzácné bohatství: moudrost, jež je stálým a vědomým nástrojem intuice.“ Básník říká filozofovi: „Dávám ti své vzácné bohatství: svou oddanou jednotu s životem světla.“
+Ve védách kráčí filozofie bok po boku s poezií. Filozofie osvítila mysl védských zřeců. Poezie učinila jejich srdce věčným. Filozof je básník v mysli. Básník je filozof v srdci. Filozof má rád vnější náboženství a vnitřní vědu. Básník má rád vnější umění a vnitřní literaturu. Filozof říká básníkovi: „dávám ti své vzácné bohatství: moudrost, jež je stálým a vědomým nástrojem intuice.“ básník říká filozofovi: „dávám ti své vzácné bohatství: svou oddanou jednotu s životem světla.“
 
 Mnoho zřeců vidělo Pravdu, ale když ji odhalovali, velmi často nebyla jejich odhalení stejná. Je opravdu žalostné, že při různých příležitostech a za různých okolností se jejich odhalení stejné Pravdy jeví všemožně, jen ne jako totožná. Musíme si však uvědomit, že rozdíly existují jen v poznání a odhalení Pravdy. V Pravdě samotné nemůže být žádného rozdílu. Proč se objevují rozdíly? Rozdíly se objevují proto, že lidská individualita a osobnost nevidí Pravdu tak, jak by Pravda měla být viděna. Když se lidská individualita a osobnost rozplynou, zůstane Pravda stejná v poznání i odhalení. Netřeba říkat, že védy jsou přímým odhalením osvícení zřeců, a ne dary z neznámých nebes někde nahoře.
 
@@ -228,10 +222,10 @@ Existují čtyři védy: Rgvéda, Jadžurvéda, Sámavéda a Atharvavéda. Rgv�
 * Rgvéda
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:4-cs
-  :DATE-EVENT: 1972-11-17
+  :genre: discourse
+  :keywords:
+  :cite-key: vifc:4-cs
+  :date-event: 1972-11-17
   :END:
 
 
@@ -295,10 +289,10 @@ Máme aspiraci. Potřebujeme realizaci. Bůh i my společně potřebujeme proje
 * Píseň Nekonečna
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:5-cs
-  :DATE-EVENT: 1972-11-28
+  :genre: discourse
+  :keywords:
+  :cite-key: vifc:5-cs
+  :date-event: 1972-11-28
   :END:
 
 
@@ -319,7 +313,7 @@ Védské přikázání pro lidské vitálno zní /ahimsa/. /Ahimsa/ znamená „
 Védské přikázání pro lidskou mysl zní /satjam/. /Satjam/ znamená „pravda“ nebo „pravdivost“. Jedině pravdivost v mysli a pravdivost mysli nás může vést k vyššímu životu, k životu osvěcující Božskosti a naplňující Nesmrtelnosti.
 Védské přikázání pro lidské srdce zní /íšvarapranidhána/. /Íšvarapranidhána/ znamená milující oddanost srdce Pánu Nejvyššímu. Když máme k Nejvyššímu Pánu čistou a spontánní oddanost, tehdy s Ním cítíme neoddělitelnou jednotu -- jednotu s Věčností Jeho Ducha, s Nekonečností Jeho Těla a s Nesmrtelností Jeho Života.
 
-Védy jsou prostoupeny konceptem oběti. My obětujeme Bohu to, co máme: nevědomost. Bůh nám obětuje to, čím sám je: Dokonalost. Boží obětování je vždy nepodmíněné. Naše obětování je občas podmíněné, občas nepodmíněné. Když jde o podmíněné obětování, potom bojujeme v bitvě a zvítězíme. Když jde o nepodmíněné obětování, potom nemusíme vůbec bojovat, protože naše Vítězství je již dosaženo. Vítězství je naším rodným právem: je provždy naše.
+Védy jsou prostoupeny konceptem oběti. My obětujeme Bohu to, co máme: nevědomost. bůh nám obětuje to, čím sám je: dokonalost. boží obětování je vždy nepodmíněné. naše obětování je občas podmíněné, občas nepodmíněné. když jde o podmíněné obětování, potom bojujeme v bitvě a zvítězíme. když jde o nepodmíněné obětování, potom nemusíme vůbec bojovat, protože naše vítězství je již dosaženo. vítězství je naším rodným právem: je provždy naše.
 
 Obětování je nabízení sebe sama. Sebenabízení je sebenaplnění. Sebenaplnění je projevení lásky a dokonalost Pravdy. Prostřednictvím svého vnějšího obětování se stáváme božskou částí Matky Země. Prostřednictvím svého vnitřního obětování se stáváme nesmrtelnou částí Otce Nebe. Vnější oběť vykonáváme, když vystupujeme z vlivu svazujících tužeb a vstupujeme na pole osvobozující aspirace. Vnitřní oběť vykonáváme, když se poté, co jsme realizovali Boha, pokoušíme projevit Jej ve světě nevědomosti. Vnější oběť vyžaduje sílu hrdiny. Vnitřní oběť vyžaduje sílu armády. Díky své vnější oběti vidíme Pravdu. Díky své vnitřní oběti se stáváme Pravdou.
 
@@ -333,10 +327,10 @@ Obětování je nabízení sebe sama. Sebenabízení je sebenaplnění. Sebenapl
 * Védské světlo intuice
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:6-cs
-  :DATE-EVENT: 1972-11-28
+  :genre: discourse
+  :keywords:
+  :cite-key: vifc:6-cs
+  :date-event: 1972-11-28
   :END:
 
 Učenci ani studenti véd se nemohou shodnout na jejich původu. Připadá mi to pošetilé. Védy jsou stejně staré jako vědomá aspirace vesmíru. Vesmír se však vědomě či nevědomě vyvíjí k dokonalosti, kdežto védy obsahují počátek inspirující dokonalosti a završení osvěcující realizace.
@@ -386,10 +380,10 @@ Blaženost je to, čím Bůh je.
 * Slunce moudrosti védské Pravdy
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:7-cs
-  :DATE-EVENT: 1972-11-29
+  :genre: discourse
+  :keywords:
+  :cite-key: vifc:7-cs
+  :date-event: 1972-11-29
   :END:
 
 
@@ -421,18 +415,3 @@ Indie měla védské zřece Pravdy. Indie má hledající Pravdy. Nejvyšším �
 /Bryn Mawr, Pennsylvania/
 
 /29. listopadu 1972/
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

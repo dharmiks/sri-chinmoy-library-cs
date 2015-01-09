@@ -1,20 +1,15 @@
-#+TITLE: Sri Chinmoy odpovídá, část 25
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 25
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2002
-  :PUBLISHER: Sri Chinmoy Centrum
-  :CITE-KEY: SCA-25-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2002
+  :publisher: Sri Chinmoy Centrum
+  :cite-key: SCA-25-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -26,7 +21,7 @@
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:831e1-cs
+  :cite-key: sca:831e1-cs
   :END:
 
 
@@ -34,10 +29,10 @@
 * Jak můžeme zažít společnost andělů?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:831-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:831-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -58,14 +53,14 @@ Andělé mají děti také velmi rádi, ale co se týče vnímavosti, starší l
 * Zdá se, že andělé přicházejí kvůli tomu, aby mohli pomáhat. Proč se však s lidmi stýkají víly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:832-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:832-cs
+  :date-event: 1995-04-23
   :END:
 
 
-/Sri Chinmoy:/ Andělé milují Boha a někteří z nich chtějí vědomě sloužit Božímu stvoření. Říkají Bohu: „Chci sloužit svým bratrům a sestrám, kteří jsou na zemi. Chci jim pomáhat. Moji bratři a sestry trpí a neuvědomují si, kdo jsi. Protože já vím, kdo Ty jsi, půjdu a budu jim pomáhat.“
+/Sri Chinmoy:/ andělé milují boha a někteří z nich chtějí vědomě sloužit božímu stvoření. Říkají bohu: „Chci sloužit svým bratrům a sestrám, kteří jsou na zemi. Chci jim pomáhat. Moji bratři a sestry trpí a neuvědomují si, kdo jsi. Protože já vím, kdo Ty jsi, půjdu a budu jim pomáhat.“
 
 Víly nám přicházejí ukázat, že existují další světy, které jsou plné krásy a světla. Když víly něco udělají, je v tom nesmírné kouzlo.
 
@@ -77,10 +72,10 @@ Je to jako dva kouzelníci. Jeden má velmi jednoduchou a levnou kouzelnou hůlk
 * Jsou andělé velcí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:833-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:833-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -91,10 +86,10 @@ Je to jako dva kouzelníci. Jeden má velmi jednoduchou a levnou kouzelnou hůlk
 * Mají u lidských bytostí větší úspěch andělé, nebo víly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:834-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:834-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -105,10 +100,10 @@ Je to jako dva kouzelníci. Jeden má velmi jednoduchou a levnou kouzelnou hůlk
 * Berou si andělé inkarnace, nebo jsou šťastní tak, jak jsou?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:835-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:835-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -119,10 +114,10 @@ Je to jako dva kouzelníci. Jeden má velmi jednoduchou a levnou kouzelnou hůlk
 * Je pro ty, kteří byli anděly, obtížné vést duchovní život?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:836-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:836-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -135,10 +130,10 @@ Dnes jsem na jevišti viděl dívky, které kdysi byly anděly nebo vílami. Pot
 * Jsou andělé slabí, když přijdou a vezmou si lidskou inkarnaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:837-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:837-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -149,10 +144,10 @@ Dnes jsem na jevišti viděl dívky, které kdysi byly anděly nebo vílami. Pot
 * Dělají víly dobré věci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:838-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:838-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -163,10 +158,10 @@ Dnes jsem na jevišti viděl dívky, které kdysi byly anděly nebo vílami. Pot
 * Patří andělé k nějakému konkrétnímu náboženství, nebo mohou přijít za kýmkoli?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:839-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:839-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -179,10 +174,10 @@ Tím nemám na mysli Kálí nebo Durgu nebo kosmické bohy a bohyně velmi vysok
 * Mají všichni andělé křídla a vypadají stejně? Nebo je jeden krásnější a jiný méně?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:840-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:840-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -194,10 +189,10 @@ Tím nemám na mysli Kálí nebo Durgu nebo kosmické bohy a bohyně velmi vysok
 * Jak můžeme být jako andělé?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:841-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:841-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -208,10 +203,10 @@ Tím nemám na mysli Kálí nebo Durgu nebo kosmické bohy a bohyně velmi vysok
 * Řekl jsi, že víly si většinou oblékají bílé šaty a andělé velmi zářivé. Když je ale ukazují v televizi nebo jsou na obrázcích v knihách, je to obvykle právě naopak. Andělé jsou vždy bílí a víly jsou různobarevné.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:842-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:842-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -222,10 +217,10 @@ Tím nemám na mysli Kálí nebo Durgu nebo kosmické bohy a bohyně velmi vysok
 * Question: Co se týče duchovní výšky, kde se nachází anděl v porovnání se světcem nebo s božstvem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:843-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:843-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -238,10 +233,10 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * Má každý člověk svého vlastního anděla strážného, nebo slouží jeden anděl více lidem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:844-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:844-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -252,10 +247,10 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * Dělají andělé pokrok a mění se?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:845-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:845-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -266,10 +261,10 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * Když někdo zemřel a chce pomáhat člověku, který je ještě naživu, může si na sebe vzít podobu anděla a dávat na toho člověka pozor?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:846-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:846-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -280,10 +275,10 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * Andělé přichází, protože je někdo vzývá?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:847-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:847-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -294,10 +289,10 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * Mohou se andělé někdy materializovat na vnější úrovni, kde je můžeme vidět?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:848-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:848-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -308,10 +303,10 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * Občas lidé vidí anděly. Je to díky jejich intuici?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:849-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:849-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -322,10 +317,10 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * Jak zní andělská hudba? Zpívají a hrají na nástroje?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:850-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:850-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -336,10 +331,10 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * A zpívají?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:851-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:851-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -350,10 +345,10 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * Jak spolu andělé komunikují?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:852-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:852-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -368,10 +363,10 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * Existuje nějaká úroveň nebo sféra, kde andělé přebývají?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:853-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:853-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -382,10 +377,10 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * Jaký je rozdíl mezi anděly a kosmickými bohy a bohyněmi?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:854-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:854-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -396,10 +391,10 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * Měl jsem sen, ve kterém jsem viděl víly, které byly jako malé děti různých velikostí, jak utíkají pryč. V jiném snu dělala jedna víla velice hloupý zvuk, který mě rozesmál, a to mě probudilo.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:855-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:855-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -410,14 +405,14 @@ Víly mají kouzelnější dotek než andělé. Když myslíš na anděla, andě
 * Tak jako máme anděla, který na nás dává pozor, existuje i zlá síla, která na nás dohlíží?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:856-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:856-cs
+  :date-event: 1995-04-23
   :END:
 
 
-/Sri Chinmoy:/ Ovšem. Zlé síly jsou však mnohem bdělejší než božské síly. Matky mají ve své děti velikou víru. Říkají: „Moje dítě nemůže být tak špatné.“ Tohle říkají díky své vlastní božskosti. Stejně tak i otec, který nekouří, nebude schopen uvěřit, že jeho syn kouří marihuanu. Uvěří tomu až za pár let, kdy uvidí, jak se to znovu a znovu opakuje. Na začátku tomu však nebude moci uvěřit. Matka i otec budou vždy posuzovat podle vlastní úrovně. 
+/Sri Chinmoy:/ ovšem. zlé síly jsou však mnohem bdělejší než božské síly. matky mají ve své děti velikou víru. Říkají: „Moje dítě nemůže být tak špatné.“ Tohle říkají díky své vlastní božskosti. Stejně tak i otec, který nekouří, nebude schopen uvěřit, že jeho syn kouří marihuanu. Uvěří tomu až za pár let, kdy uvidí, jak se to znovu a znovu opakuje. Na začátku tomu však nebude moci uvěřit. Matka i otec budou vždy posuzovat podle vlastní úrovně. 
 
 Zlé síly mají ohromnou radost, když se jim podaří pokořit pýchu rodičů. Andělé se snaží lidstvu pomáhat, avšak naneštěstí tyto zlé síly přicházejí a snaží se zničit veškerou jejich dobrou práci.
 
@@ -429,17 +424,17 @@ Občas se může stát, že právě v den, kdy jste se modlili a meditovali, ne
 
 Takto přichází zkouška. V takové chvíli máte zlatou příležitost k nepodmíněnému odevzdání Boží Vůli. V den, kdy jste udělali všechno dobré, můžete zakusit všechny možné nešťastné a ničivé zážitky. Ten den je pro vás v kladném smyslu zlatou šancí, abyste se stali opravdu duchovními. V Bhagavadgítě říká Sri Kršna: „Dělej to nejlepší, co můžeš. Výsledky polož k Nohám Boha.“ I vy jste udělali, co jste mohli. Vstali jste brzo ráno a modlili se a meditovali. Zpívali jste duchovní písně. Cvičili jste. Dělali jste všechny božské věci. Potom se vám přihodilo něco naprosto nesnesitelného -- autonehoda nebo něco jiného. 
 
-V takové chvíli musíte říci: „Ach, mohlo to být horší. Měl jsem vážnou autonehodu -- mohl jsem zahynout. Ale přežil jsem to!“ To je božský způsob, jak se na celou věc podívat. Nebožský způsob znamená říci: „Modlil jsem se a meditoval. Jiné dny jsem se nemodlil a nemeditoval jsem, ale právě dnes jsem měl nehodu! Proč se musím modlit k Bohu? Proč Boha potřebuji?“
+V takové chvíli musíte říci: „ach, mohlo to být horší. měl jsem vážnou autonehodu -- mohl jsem zahynout. ale přežil jsem to!“ to je božský způsob, jak se na celou věc podívat. nebožský způsob znamená říci: „Modlil jsem se a meditoval. Jiné dny jsem se nemodlil a nemeditoval jsem, ale právě dnes jsem měl nehodu! Proč se musím modlit k Bohu? Proč Boha potřebuji?“
 
 
 
 * Když někdo opustil duchovní život, je to kvůli tomu, že nepřátelské síly zesílily více než božské?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:857-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:857-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -447,7 +442,7 @@ V takové chvíli musíte říci: „Ach, mohlo to být horší. Měl jsem vá�
 
 Božský způsob znamená říci: „Budu za Boží Vítězství bojovat každý den. Neusnu na včerejších vavřínech. Každý den vstoupím na bitevní pole života. Budu se modlit pouze za Boží Vítězství -- dnes, zítra, každý den.“
 
-Někteří lidé řeknou: „Když jsem se tak upřímně modlil, proč výsledky mé modlitby nevydrží aspoň deset dní?“ Někdo jiný řekne: „Ne. Doba, kterou jsem strávil modlitbou a meditací, mě zachránila na tento den. Zítra se znovu budu muset modlit a meditovat, abych byl v bezpečí po celý zítřejší den. Svoji modlitbu a meditaci budu obnovovat den za dnem.“ 
+Někteří lidé řeknou: „když jsem se tak upřímně modlil, proč výsledky mé modlitby nevydrží aspoň deset dní?“ někdo jiný řekne: „Ne. Doba, kterou jsem strávil modlitbou a meditací, mě zachránila na tento den. Zítra se znovu budu muset modlit a meditovat, abych byl v bezpečí po celý zítřejší den. Svoji modlitbu a meditaci budu obnovovat den za dnem.“ 
 
 Když máte v obyčejném životě tisíc dolarů, můžete je utrácet deset nebo více dní. Ale s vnitřním bohatstvím to tak není. Nemůžete se spokojit s vnitřním bohatstvím, které už máte. Musíte ho zvětšovat. Jinak se dostanete do potíží. Přijde mnoho dní, kdy ráno vstanete a budete o sobě pochybovat. Nebudete-li zvětšovat své vnitřní bohatství, pohltí vás jed pochybnosti. 
 
@@ -458,10 +453,10 @@ Očekáváme určité věci nejenom od světa, ale také od sebe samých. Když 
 * Spolupracují andělé a víly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:858-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:858-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -472,10 +467,10 @@ Očekáváme určité věci nejenom od světa, ale také od sebe samých. Když 
 * Jsou andělé ovlivňováni prostředím?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:859-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:859-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -486,14 +481,14 @@ Očekáváme určité věci nejenom od světa, ale také od sebe samých. Když 
 * Lidé jsou občas anděly a vílami fascinováni. Když vás něco takového ve vnitřním světě přitahuje, měli byste se na to soustředit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:860-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:860-cs
+  :date-event: 1995-04-23
   :END:
 
 
-/Sri Chinmoy:/ Ne, ne, ne. Je to, jako když cestou do chrámu procházíte zahradou. Květiny v zahradě, které tam uvidíte, vás mohou inspirovat. Máte-li inspiraci, můžete ke svému cíli běžet velmi rychle. Pokud je ale cíl ještě daleko, můžete si říci: „Nějakou dobu tady zůstanu a budu se radovat z krásy a vůně těchto květin.“ 
+/Sri Chinmoy:/ ne, ne, ne. je to, jako když cestou do chrámu procházíte zahradou. květiny v zahradě, které tam uvidíte, vás mohou inspirovat. máte-li inspiraci, můžete ke svému cíli běžet velmi rychle. pokud je ale cíl ještě daleko, můžete si říci: „Nějakou dobu tady zůstanu a budu se radovat z krásy a vůně těchto květin.“ 
 
 Podobně pokud za vámi cestou k cíli přijdou andělé, jako květiny vás mohou inspirovat k tomu, abyste šli rychleji. Na druhou stranu vás mohou okouzlit natolik, že můžete říci: „Jsou tak krásní. Na chvíli tu zastavím a popovídám si s nimi.“ Někteří běžci mohou klidně běžet rychleji, ale rádi se baví s pomalejšími běžci.
 
@@ -504,10 +499,10 @@ Krása a vůně zahrady vás může inspirovat k větší rychlosti. Může vá
 * Jak vzývat anděly, když je chcete spatřit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:861-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:861-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -520,10 +515,10 @@ Musíme být moudří. Je-li naším cílem získat málo, půjdeme k tomu, kdo
 * Existují andělé, kteří nejsou spojeni s lidmi, ale se zvířaty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:862-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:862-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -536,10 +531,10 @@ Lidské bytosti jsou také nepřátelské, ale mohou to skrývat. Když se na n�
 * Bojují někdy andělé proti nepřátelským silám přímo, nebo jenom pomáhají lidem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:863-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:863-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -554,10 +549,10 @@ Pokud mají andělé některé lidské bytosti radši než jiné, půjdou bojova
 * Může mít někdo více andělů, kteří ho opravdu milují?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:864-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:864-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -568,10 +563,10 @@ Pokud mají andělé některé lidské bytosti radši než jiné, půjdou bojova
 * Když se někdo stane tvým žákem, opustí ho jeho anděl strážný, nebo s tebou naváže přátelství, nebo jen řekne: „Teď už mě nepotřebuješ“?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:865-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:865-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -579,7 +574,7 @@ Pokud mají andělé některé lidské bytosti radši než jiné, půjdou bojova
 
 Jakmile vás položím k Nohám Otce, moje úloha skončí. Stejně jako já budete schopni sedět u Nohou Otce, dotýkat se Jich a líbat Je. Až vás položím k Nohám Nejvyššího, proč byste měli myslet na toho, kdo vám pomohl, když On má vše a je vším?
 
-Řekněme, že chcete navštívit nějaký dům. Někoho se zeptáte: „Kde je sto padesátá ulice?“ Ten člověk vám řekne: „Běžte tudy, potom tamtudy a tak se tam dostanete.“ Až se dostanete na to místo, budete mu vděční. Přivezl vás však ten člověk na to místo? Pět mil odtud jste se ho zeptali, kde je sto padesátá ulice, a on vám poradil. Neřekl vám: „Nastupte si do mého vozu. Zavezu vás tam.“ Řekl: „Běžte tudy, zahněte doleva, potom tamtou ulicí a tamtou ulicí.“ Jste mu vděční, protože vám poradil, kudy jít.
+Řekněme, že chcete navštívit nějaký dům. Někoho se zeptáte: „kde je sto padesátá ulice?“ ten člověk vám řekne: „běžte tudy, potom tamtudy a tak se tam dostanete.“ až se dostanete na to místo, budete mu vděční. přivezl vás však ten člověk na to místo? pět mil odtud jste se ho zeptali, kde je sto padesátá ulice, a on vám poradil. neřekl vám: „nastupte si do mého vozu. zavezu vás tam.“ Řekl: „Běžte tudy, zahněte doleva, potom tamtou ulicí a tamtou ulicí.“ Jste mu vděční, protože vám poradil, kudy jít.
 
 Andělé jsou jako ten člověk, který vám ukázal, kudy jít. Můžete jim být vděční, protože vám poradili, jak se dostat k cíli, ale neodnesli vás tam na svých ramenou.
 
@@ -588,24 +583,24 @@ Andělé jsou jako ten člověk, který vám ukázal, kudy jít. Můžete jim b�
 * Proto jsem se ptal. Zdá se mi, že je zbytečné mít anděly, jakmile jsme přišli za tebou. Mohou jít a pomáhat někomu jinému.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:866-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:866-cs
+  :date-event: 1995-04-23
   :END:
 
 
-/Sri Chinmoy:/ Jakmile vás položím k Nohám Nejvyššího, budu také zbytečný. Jsem jako průvodce, který pro vás otvírá dveře, abyste mohli vstoupit do místnosti, kde je vedoucí. Až budete u nohou vedoucího a stanete se jeho oblíbencem, na co budete potom potřebovat průvodce? Vedoucí řekne průvodci: „Kdykoli chce jít ven, může jít ven, a kdykoli chce vstoupit, může vstoupit.“
+/Sri Chinmoy:/ jakmile vás položím k nohám nejvyššího, budu také zbytečný. jsem jako průvodce, který pro vás otvírá dveře, abyste mohli vstoupit do místnosti, kde je vedoucí. až budete u nohou vedoucího a stanete se jeho oblíbencem, na co budete potom potřebovat průvodce? vedoucí řekne průvodci: „Kdykoli chce jít ven, může jít ven, a kdykoli chce vstoupit, může vstoupit.“
 
 
 
 * Vychází spolu andělé navzájem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:867-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:867-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -618,10 +613,10 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
 * Jsou země, kde hrají andělé významnější roli?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:868-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:868-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -633,10 +628,10 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:869-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:869-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -647,10 +642,10 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
 * Proč Bůh poslal jako svého zástupce anděla, aby řekl Marii, že se jí narodí Kristus?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:870-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:870-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -661,10 +656,10 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
 * Jsou křídla andělů jenom na okrasu, nebo je používají k letu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:871-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:871-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -675,10 +670,10 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
 * Jsou víly ve vnitřním světě složeny z něčeho hrubšího než andělé?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:872-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:872-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -689,10 +684,10 @@ Andělé nemají v povaze se hádat či bojovat jako kočky a psi, ale pocit na
 * Různí lidé si v minulosti mysleli, že viděli Pannu Marii. Byli to andělé, a ne Panna Marie?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:873-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:873-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -705,10 +700,10 @@ Když si Bůh na sebe vezme svoji všemohoucí, vševědoucí a všudypřítomno
 * Jedí andělé nějaké jídlo, aby mohli existovat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:874-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:874-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -719,10 +714,10 @@ Když si Bůh na sebe vezme svoji všemohoucí, vševědoucí a všudypřítomno
 * Jak často se andělé stýkají s Nejvyšším?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:875-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:875-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -733,10 +728,10 @@ Když si Bůh na sebe vezme svoji všemohoucí, vševědoucí a všudypřítomno
 * Existuje nějaký vedoucí všech andělů?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:876-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:876-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -747,10 +742,10 @@ Když si Bůh na sebe vezme svoji všemohoucí, vševědoucí a všudypřítomno
 * Trpí někdy andělé a umírají, nebo žijí věčně?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:877-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:877-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -763,10 +758,10 @@ Někteří andělé chtějí jít na jiné místo. Není to jako u lidí, kteř�
 * Mají andělé duši?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:878-cs
-  :DATE-EVENT: 1995-04-23
+  :genre: qa
+  :keywords:
+  :cite-key: sca:878-cs
+  :date-event: 1995-04-23
   :END:
 
 
@@ -782,7 +777,7 @@ Dokonce i ve zlém člověku -- ve zloději, v narkomanovi -- je duše. Jedinou
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:879e1-cs
+  :cite-key: sca:879e1-cs
   :END:
 
 
@@ -791,10 +786,10 @@ Dokonce i ve zlém člověku -- ve zloději, v narkomanovi -- je duše. Jedinou
 * Jak můžeme vymazat minulost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:879-cs
-  :DATE-EVENT: 1999-11-27
+  :genre: qa
+  :keywords:
+  :cite-key: sca:879-cs
+  :date-event: 1999-11-27
   :END:
 
 
@@ -805,18 +800,18 @@ Dokonce i ve zlém člověku -- ve zloději, v narkomanovi -- je duše. Jedinou
 * Existuje nějaká zvláštní vlastnost, kterou by si měli portoričtí žáci rozvinout?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:880-cs
-  :DATE-EVENT: 1999-11-27
+  :genre: qa
+  :keywords:
+  :cite-key: sca:880-cs
+  :date-event: 1999-11-27
   :END:
 
 
 /Sri Chinmoy:/ Nejen mí portoričtí žáci, ale všichni mí žáci potřebují rozvinout vzájemné uznání. Když máte osobní setkání, oceňujte se prosím navzájem. Pokud někdo udělal něco špatného, vůbec si toho nevšímejte. Myslete si, že jste tu hloupou věc udělali vy sami. Čas, který strávíte hledáním chyb na někom jiném, nebo čas, který ten druhý stráví hledáním chyb na vás, je naprosto ztracen. Všímejte si na druhých jen jejich dobrých vlastností. Když někdo udělá něco dobrého, oceňte to. Uděláte-li vy něco dobrého, ostatní by to měli ocenit. Tímto způsobem postupujete kupředu. Jinak nikdy neuděláte pokrok. Dělat pokrok znamená vidět v každém jen dobré věci. Bůh v nás vidí jenom dobré věci. Špatní lidé vidí v každém jen špatné věci. 
 
-Duchovní Mistři se snaží ve svých žácích vidět dobré vlastnosti. Někteří žáci se však naneštěstí snaží vidět ve svém Mistrovi jen špatné vlastnosti. Říkají: „Mistr se na mě neusmál, ale usmál se na toho a na tamtoho.“ Měli by říci: „Co záleží na tom, jestli se na mě Mistr usmál, nebo ne, dokud mu mohu sloužit?“
+Duchovní Mistři se snaží ve svých žácích vidět dobré vlastnosti. Někteří žáci se však naneštěstí snaží vidět ve svém Mistrovi jen špatné vlastnosti. Říkají: „mistr se na mě neusmál, ale usmál se na toho a na tamtoho.“ měli by říci: „Co záleží na tom, jestli se na mě Mistr usmál, nebo ne, dokud mu mohu sloužit?“
 
-Vždycky hledejte v ostatních dobré věci. Na špatné věci zapomeňte nebo řekněte: „Kdybych byl na jeho místě, udělal bych totéž, nebo dokonce ještě něco horšího.“ Když někdo udělal něco špatného, buď si toho nevšímejte, nebo prostě řekněte: „Udělal jsi tohle, ale možná jsi mohl udělat něco lepšího.“
+Vždycky hledejte v ostatních dobré věci. Na špatné věci zapomeňte nebo řekněte: „kdybych byl na jeho místě, udělal bych totéž, nebo dokonce ještě něco horšího.“ když někdo udělal něco špatného, buď si toho nevšímejte, nebo prostě řekněte: „Udělal jsi tohle, ale možná jsi mohl udělat něco lepšího.“
 
 Vždy zůstávejte ve světě povzbuzení. Kdykoli jsem něčeho dosáhl, dostal jsem od Nejvyššího Požehnání, Milost, Soucit a vůbec všechno. Také jsem ale dostal povzbuzení od lidstva, včetně několika významných lidí. Když mě spatřil Pablo Casals, tekly mu slzy. Ocenil mě Leonard Bernstein a jiní velcí hudebníci. Kdyby byli řekli: „Vy jste hudebník třetí třídy. Zanechte svých hudebních ambicí,“ stal by se ze mě hudebník?
 
@@ -829,14 +824,14 @@ Když jsi byl ještě dítětem a poprvé ses postavil na nohy, tvoje matka měl
 * Jak tě mohou portoričtí žáci potěšit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:881-cs
-  :DATE-EVENT: 1999-11-27
+  :genre: qa
+  :keywords:
+  :cite-key: sca:881-cs
+  :date-event: 1999-11-27
   :END:
 
 
-/Sri Chinmoy:/ Pro některé žáky je moje naplnění jediná věc, o kterou usilují. Zeptej se sám sebe, jestli je pro tebe moje naplnění vším. Napiš si odpověď, ať už je jakákoliv. Ano, jistě chceš pro svého Gurua naplnění, ale kromě toho chceš naplnění i sám pro sebe. Pro několik žáků -- pro velice málo žáků -- neexistuje kromě mého naplnění už nic. Pro ně je jen jedno: „Guruovo naplnění. Nepotřebuji svoje vlastní naplnění.“
+/Sri Chinmoy:/ pro některé žáky je moje naplnění jediná věc, o kterou usilují. zeptej se sám sebe, jestli je pro tebe moje naplnění vším. napiš si odpověď, ať už je jakákoliv. ano, jistě chceš pro svého gurua naplnění, ale kromě toho chceš naplnění i sám pro sebe. pro několik žáků -- pro velice málo žáků -- neexistuje kromě mého naplnění už nic. pro ně je jen jedno: „Guruovo naplnění. Nepotřebuji svoje vlastní naplnění.“
 
 Ty sám si přeješ mé naplnění, ale zároveň se díváš na tu stranu a na tamtu stranu a říkáš: „Můžu i já dostat naplnění? Můžu také být nejlepším bubeníkem na světě nebo nejlepším hráčem na cello na světě?“
 
@@ -851,7 +846,7 @@ Mé portorické děti řeknou: „Ach, naše Centra nerostou kvůli portorickém
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:882e1-cs
+  :cite-key: sca:882e1-cs
   :END:
 
 
@@ -859,10 +854,10 @@ Mé portorické děti řeknou: „Ach, naše Centra nerostou kvůli portorickém
 * Občas v meditaci dosáhnu stavu, ze kterého bych rád postoupil dál. Jak mohu porazit strach z toho, že dosáhnu něčeho vyššího, neznámého?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:857-cs
-  :DATE-EVENT: 2000-01-01
+  :genre: qa
+  :keywords:
+  :cite-key: sca:857-cs
+  :date-event: 2000-01-01
   :END:
 
 
@@ -875,16 +870,3 @@ Neznámého se bojíme jen tehdy, když nevěříme, že existuje vyšší síla
 Pokud máš ve chvíli, kdy tvoje duše vystupuje z těla, víru, že tě vede, ochraňuje a opatruje vyšší síla, nebudeš mít strach. Vždycky měj víru, víru, víru. Máš-li víru, určitě budeš ochráněn. Tvoje víra je nekonečně, nekonečně silnější než strach, který si sám vytváříš nebo který si představuješ. Vždycky měj tedy více víry v sebe, v Boha a ve svého Mistra. Potom neznámé nemůže zůstat neznámým. V současné chvíli je to neznámé, ale nezůstane to neznámým navždy. Dítě se lekne, když spatří svého bratra, jak čte tlustou knihu, když ono samo se teprve učí abecedu. Řekne: „Ach Bože! Dokážu vůbec někdy přečíst tak tlustou knihu?“ Potom se pár let učí a přijde čas, kdy si bude moci přečíst tu knihu, která ho kdysi tak vyděsila. 
 
 Je ještě jeden způsob, jak pomocí víry překonat strach z neznámého. Když vidíš, jak je někdo velice nebožský, pokus se vynést na povrch svoji víru a ihned zkus vidět svou vlastní božskost nebo jeho božskost. Neexistuje jediný člověk, který by neměl vrozenou božskost. Je-li někdo velmi špatný, prostě se pokus uvnitř něj vidět to božské. Když v něm uvidíš to božské, jeho božskost ihned vyjde na povrch a jeho vnější zvířecí sklony zmizí. Vždy měj víru v božské. Tvoje víra je nekonečně silnější než pomyslný strach nebo nějaký jiný strach, se kterým se ve svém duchovním životě setkáváš. 
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

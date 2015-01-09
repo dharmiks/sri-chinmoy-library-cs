@@ -1,20 +1,15 @@
-#+TITLE: Sri Chinmoy odpovídá, část 04
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 04
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2001
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: SCA-4-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2001
+  :publisher: Madal Bal
+  :cite-key: SCA-4-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Část I[fn:: SCA 114-124. 2. dubna 1988 byl Sri Chinmoy pozván, aby meditoval se sestrami a matkou představenou benediktýnského kláštera Heiligenkreuz v Churu nedaleko města Zug ve Švýcarsku. Potom odpovídal na jejich otázky. Přepis tohoto setkání následuje]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:114e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:114e1-cs
   :END:
 
 
@@ -33,10 +28,10 @@
 * Meditace v klášteře Heiligenkreuz
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:114-cs
-  :DATE-EVENT: 1988-04-02
+  :genre: interview
+  :keywords:
+  :cite-key: sca:114-cs
+  :date-event: 1988-04-02
   :END:
 
 
@@ -49,10 +44,10 @@
 * Jak můžeme lépe projevit mír a radost, jež cítíme při meditaci v našem každodenním životě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:115-cs
-  :DATE-EVENT: 1988-04-02
+  :genre: qa
+  :keywords:
+  :cite-key: sca:115-cs
+  :date-event: 1988-04-02
   :END:
 
 
@@ -62,14 +57,14 @@
 * Question: Jaký je rozdíl mezi modlitbou a meditací?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:116-cs
-  :DATE-EVENT: 1988-04-02
+  :genre: qa
+  :keywords:
+  :cite-key: sca:116-cs
+  :date-event: 1988-04-02
   :END:
 
 
-/Sri Chinmoy:/ Když se modlíme, žádáme o něco a něco dobrého a božského získáme: Boží Ochranu, Soucit, Lásku a Požehnání. Ale pokud meditujeme, těmito věcmi se stáváme. Získáváme shůry Boží Soucit, Lásku a tak dále a splyneme s nimi. Jakmile se jednou staneme těmito věcmi, je naší povinností dát je svým bratrům a sestrám ve světě.
+/Sri Chinmoy:/ když se modlíme, žádáme o něco a něco dobrého a božského získáme: Boží Ochranu, Soucit, Lásku a Požehnání. Ale pokud meditujeme, těmito věcmi se stáváme. Získáváme shůry Boží Soucit, Lásku a tak dále a splyneme s nimi. Jakmile se jednou staneme těmito věcmi, je naší povinností dát je svým bratrům a sestrám ve světě.
 Nemůžeme ale dát, dokud se napřed nestaneme. Modlitba a meditace jsou rovnocenně nezbytné. Když se modlíme, získáváme; když meditujeme, stáváme se. Potom, jakmile se jednou staneme, považujeme Boha Stvoření za své vlastní a dáváme zpět Bohu Stvoření vše, co jsme obdrželi od Boha Stvořitele.
 
 Je to jako jít do zahrady a trhat krásné květiny. Položíme tyto květiny na oltář a modlíme se k Pánu Ježíši Kristu. Zatímco se modlíme, vůně a božskost této květiny do nás vstoupí a v hloubi našeho srdce se staneme touto vůní a božskostí. Potom, když vyjdeme ven na ulici, lidé v nás něco vidí a cítí, přestože nemusí vědět, co to je. A to, co v nás vidí a cítí, od nás také získávají. Když nás vidí, vstupují do zahrady našeho srdce, kde i oni mohou získat krásu a vůni těch nejkrásnějších květin.
@@ -79,14 +74,14 @@ Je to jako jít do zahrady a trhat krásné květiny. Položíme tyto květiny n
 * Ráda bych znala Váš názor na Ježíše Krista.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:117-cs
-  :DATE-EVENT: 1988-04-02
+  :genre: qa
+  :keywords:
+  :cite-key: sca:117-cs
+  :date-event: 1988-04-02
   :END:
 
 
-/Sri Chinmoy:/ Chovám ke Kristu Spasiteli nejvyšší lásku a oddanost. Otec je v Nebi a Syn, jenž představuje lidstvo, je na zemi. Tento Syn řekl: já a můj Otec jsme jedním. Takže v tomto okamžiku, když je jeho vědomí s lidstvem, je Kristus Synem, a v příštím okamžiku, když se stane jedním s Otcem, je Kristus Absolutním Otcem -- všemohoucím Bohem, jenž je Pánem vesmíru.
+/Sri Chinmoy:/ chovám ke kristu spasiteli nejvyšší lásku a oddanost. otec je v nebi a syn, jenž představuje lidstvo, je na zemi. tento syn řekl: já a můj Otec jsme jedním. Takže v tomto okamžiku, když je jeho vědomí s lidstvem, je Kristus Synem, a v příštím okamžiku, když se stane jedním s Otcem, je Kristus Absolutním Otcem -- všemohoucím Bohem, jenž je Pánem vesmíru.
 
 Jsem Ind, ale mám úplně stejného Boha, jako máte vy. On není Bohem Švýcarska nebo Indie, ale Pánem vesmíru. Takže když se stal Kristus Spasitel neoddělitelně jedním se všemohoucím Bohem, nebyl nikým jiným než mým otcem v Nebi, a moje modlitba a meditace -- tak jako kohokoliv jiného -- směřují k němu. Když je jedním s lidstvem, když se s námi modlí, medituje a učí nás, jak růst do naší nejvyšší božskosti, v tu chvíli cítím, že je jako můj bratr, jenž mě zvedá k Otci. Když je ale ve svém nejvyšším vědomí -- neoddělitelně jedním se všemohoucím, vševědoucím a všudypřítomným Nejvyšším -- v tu chvíli cítím, že je Pánem vesmíru.
 
@@ -97,10 +92,10 @@ Záleží na mém vlastním vědomí, jak k němu přistupuji: jako k někomu, k
 * Co byste řekl o Duchu Svatém?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:118-cs
-  :DATE-EVENT: 1988-04-02
+  :genre: qa
+  :keywords:
+  :cite-key: sca:118-cs
+  :date-event: 1988-04-02
   :END:
 
 
@@ -110,10 +105,10 @@ Záleží na mém vlastním vědomí, jak k němu přistupuji: jako k někomu, k
 * Jaký je duchovní význam modré barvy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:119-cs
-  :DATE-EVENT: 1988-04-02
+  :genre: qa
+  :keywords:
+  :cite-key: sca:119-cs
+  :date-event: 1988-04-02
   :END:
 
 
@@ -128,14 +123,14 @@ Modlím se a medituji od svého dětství. Bůh mě tedy ze svého nekonečného
 * Vyrůstal jste jako křesťan, nebo jako hinduista?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:120-cs
-  :DATE-EVENT: 1988-04-02
+  :genre: qa
+  :keywords:
+  :cite-key: sca:120-cs
+  :date-event: 1988-04-02
   :END:
 
 
-/Sri Chinmoy:/ Do věku jedenácti let jsem byl vychováván jako hinduista. Potom jsem se přidal k duchovní komunitě, kde jsem se modlil a meditoval co nejupřímněji a nejoduševněleji a řekl si: „Jediné, co nyní mám, je upřímná láska k Bohu.“
+/Sri Chinmoy:/ do věku jedenácti let jsem byl vychováván jako hinduista. potom jsem se přidal k duchovní komunitě, kde jsem se modlil a meditoval co nejupřímněji a nejoduševněleji a řekl si: „Jediné, co nyní mám, je upřímná láska k Bohu.“
 
 Hinduismus, křesťanství, judaismus, islám a všechny ostatní náboženství jsou domy. Každý je narozen v určitém domě, ale po určité době dům opustíme a vyjdeme do světa, kde se stýkáme s ostatními bratry a sestrami. Pokud se mě dnes někdo zeptá, jaké je mé vyznání, neodpovím, že hinduismus. Řeknu, že mé vyznání je trvalá, vědomá a bdělá láska k Bohu. Naše láska k Bohu je živoucím dechem v nás, a toto je naše univerzální náboženství.
 
@@ -144,10 +139,10 @@ Hinduismus, křesťanství, judaismus, islám a všechny ostatní náboženství
 * Je tedy pro vás Kristus něco jako prorok nebo někdo jako Gándhí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:121-cs
-  :DATE-EVENT: 1988-04-02
+  :genre: qa
+  :keywords:
+  :cite-key: sca:121-cs
+  :date-event: 1988-04-02
   :END:
 
 
@@ -160,10 +155,10 @@ Krišna, Buddha, Kristus a několik dalších jsou pro mě jedním, mají jen ro
 * Věříte v reinkarnaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:122-cs
-  :DATE-EVENT: 1988-04-02
+  :genre: qa
+  :keywords:
+  :cite-key: sca:122-cs
+  :date-event: 1988-04-02
   :END:
 
 
@@ -174,10 +169,10 @@ Krišna, Buddha, Kristus a několik dalších jsou pro mě jedním, mají jen ro
 * Question: Křesťané věří, že protože Kristus umřel na kříži, dojdeme všichni po smrti spásy. Jak to vidíte vy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:123-cs
-  :DATE-EVENT: 1988-04-02
+  :genre: qa
+  :keywords:
+  :cite-key: sca:123-cs
+  :date-event: 1988-04-02
   :END:
 
 
@@ -190,16 +185,16 @@ Když hovoříte o tom, že Bůh nám nabídl spásu, mluvíme o spasení od hř
 * /Matka představená/: Zítra navštívíte našeho federálního kancléře Flavia Cottiho. Ráda bych se na závěr zeptala, jestli tam jdete jako soukromá osoba, nebo jako duchovní vůdce.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:124-cs
-  :DATE-EVENT: 1988-04-02
+  :genre: qa
+  :keywords:
+  :cite-key: sca:124-cs
+  :date-event: 1988-04-02
   :END:
 
 
 /Sri Chinmoy:/ Nejdu tam jako duchovní vůdce. Jsem studentem míru. Kamkoliv jdu, snažím se nabídnout lekce, které jsem se naučil z modlitby a meditace. Jdu tam jako hledající pravdy a jako milovník Boha. Protože se modlím a medituji, rád bych se s ním modlil a meditoval pro světový mír.
 
-Jsem vám velmi vděčný, Matko představená, že jsem zde mohl být. Před dvaceti třemi lety jsem navštívil jednu kapli v Portoriku. Několik sester mě spatřilo a velmi je rozrušilo a pobouřilo, že v jejich kapli je nějaký hinduista. Šly zavolat Matku představenou. Zpočátku byla rozzlobená, že do jejich kaple vstoupil hinduista, ale když mě viděla, jak se modlím se sepnutýma rukama před obrazem Krista, řekla: „Tento člověk je oddaný našemu pánu. Odpusťme mu tedy.“ Potom mi řekla: „Nikdy se sem už nesmíte vrátit, protože jste hinduista.“
+Jsem vám velmi vděčný, Matko představená, že jsem zde mohl být. Před dvaceti třemi lety jsem navštívil jednu kapli v Portoriku. Několik sester mě spatřilo a velmi je rozrušilo a pobouřilo, že v jejich kapli je nějaký hinduista. Šly zavolat Matku představenou. Zpočátku byla rozzlobená, že do jejich kaple vstoupil hinduista, ale když mě viděla, jak se modlím se sepnutýma rukama před obrazem Krista, řekla: „tento člověk je oddaný našemu pánu. odpusťme mu tedy.“ potom mi řekla: „Nikdy se sem už nesmíte vrátit, protože jste hinduista.“
 
 Podívejte se na nesmírnost vašeho srdce. Vy jste se narodila jako křesťanka, já zase jako hinduista, a přesto jste pro mne nalezla ve svém srdci místo. Pozvala jste mě, abych zde nabídnul bohoslužbu. Podívejte se, jak se svět vyvíjí! Jedna Matka představená mě pokárala a napadla, a vy jste mě požádala, abych zde nabídl své oduševnělé modlitby. Tohle je způsob, jak děláme pokrok a těšíme našeho Nebeského Otce.
 
@@ -208,9 +203,9 @@ Podívejte se na nesmírnost vašeho srdce. Vy jste se narodila jako křesťanka
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:125e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:125e1-cs
   :END:
 
 
@@ -219,10 +214,10 @@ Podívejte se na nesmírnost vašeho srdce. Vy jste se narodila jako křesťanka
 * Rozhovor s Dr. Josephine Davisovou
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:125-cs
-  :DATE-EVENT: 1994-07-11
+  :genre: interview
+  :keywords:
+  :cite-key: sca:125-cs
+  :date-event: 1994-07-11
   :END:
 
 
@@ -237,10 +232,10 @@ Poté co jsem navštívila Nagasaki, Hirošimu, Berlín a tábor Dachau v Němec
 * Dr. Davisová: V této fázi mého života cítím, že potřebuji více meditovat. Během posledního měsíce jsem opakovala mantry a meditovala na srdce.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:126-cs
-  :DATE-EVENT: 1994-07-11
+  :genre: interview
+  :keywords:
+  :cite-key: sca:126-cs
+  :date-event: 1994-07-11
   :END:
 
 /Sri Chinmoy:/ Když meditujete na srdce, jestli vám nevadí má připomínka, můžete dělat ještě několik věcí. Bez ohledu na to, ve kterou denní dobu meditujete, dokonce i když je to večer, představte si na několik málo vteřin vycházející slunce. Představte si, že slunce vychází a vyzařuje světlo uvnitř vašeho srdce. Anebo si můžete představit tu nejkrásnější a nejčistší květinu, jak rozkvétá lístek po lístku ve vašem srdci.
@@ -254,10 +249,10 @@ Z vycházejícího slunce či nejkrásnější květiny, jíž jste se stala, bu
 * Dr. Davisová: Je v pořádku, když se s vámi podělím o to, co jsem používala jako mantru? Nevadí, že Vám to říkám?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:127-cs
-  :DATE-EVENT: 94-07-11
+  :genre: interview
+  :keywords:
+  :cite-key: sca:127-cs
+  :date-event: 94-07-11
   :END:
 
 
@@ -276,17 +271,17 @@ Jakmile se o ní zmíníte někomu jinému, bez ohledu na to, jak přátelská d
 
 /Sri Chinmoy:/ Existuje několik věcí, o které se můžete podělit, a zároveň je několik věcí, o které se podělit nemůžete. Pokud jste zevnitř získala trvalý přísun Boží Lásky, Božího Zájmu, Božího Soucitu a Boží Milosti, pokud máte volný přístup k božskému bohatství, potom se o něj můžete a měla byste se podělit se svými blízkými podle jejich potřeby. Můžete jim vnitřně nabídnout svou nejčistší lásku a radost. Ale neměla byste se s nimi navenek dělit o tajný způsob, jak tyto věci získáváte. Tohle musí být velmi tajné a posvátné. Není to jejich záležitost. To, co jim dáváte, potřebují. Ale jak jste se ve vnitřním světě stala multimilionářem, to není nezbytné, aby věděli. 
 
-Znovu, musíte vědět, kolik vnímavosti kdo má. Pětileté dítě dokáže správně naložit pouze s jedním dolarem. Když mu dáte padesát nebo sto dolarů, nebude vědět, jak je použít, a může je hodit na ulici. Duchovní standard vašich studentů může být nyní velmi omezen. Pokud se s nimi v tuto chvíli podělíte o své neomezené světlo moudrosti, mohou vybuchnout jako balón, protože právě teď nemusí být připraveni. Po dítěti z mateřské školky nemůžete chtít, aby absolvovalo univerzitní přednášku. Ne, nejdříve se musí naučit abecedu. Jinak mu vůbec nepomůžete a jen je zmatete.[fn:: SCA 127,7. V následující edici zněl tento odstavec takto: Znovu, musíte vědět, kolik vnímavosti kdo má. Pětileté dítě dokáže správně naložit pouze s jedním dolarem. Když mu dáte padesát nebo sto dolarů, nebude vědět, jak je použít, a může je hodit na ulici. Duchovní standard vašich studentů může být nyní velmi omezen. Pokud se s nimi v tuto chvíli podělíte o své neomezené světlo moudrosti, nemusí být připraveni, nemusí být zralí. Po dítěti z mateřské školky nemůžete chtít, aby absolvovalo univerzitní přednášku. Ne, nejdříve se musí naučit abecedu. Jinak mu vůbec nepomůžete a jen je zmatete."]
+Znovu, musíte vědět, kolik vnímavosti kdo má. Pětileté dítě dokáže správně naložit pouze s jedním dolarem. Když mu dáte padesát nebo sto dolarů, nebude vědět, jak je použít, a může je hodit na ulici. Duchovní standard vašich studentů může být nyní velmi omezen. Pokud se s nimi v tuto chvíli podělíte o své neomezené světlo moudrosti, mohou vybuchnout jako balón, protože právě teď nemusí být připraveni. Po dítěti z mateřské školky nemůžete chtít, aby absolvovalo univerzitní přednášku. Ne, nejdříve se musí naučit abecedu. Jinak mu vůbec nepomůžete a jen je zmatete.[fn:: sca 127,7. v následující edici zněl tento odstavec takto: Znovu, musíte vědět, kolik vnímavosti kdo má. Pětileté dítě dokáže správně naložit pouze s jedním dolarem. Když mu dáte padesát nebo sto dolarů, nebude vědět, jak je použít, a může je hodit na ulici. Duchovní standard vašich studentů může být nyní velmi omezen. Pokud se s nimi v tuto chvíli podělíte o své neomezené světlo moudrosti, nemusí být připraveni, nemusí být zralí. Po dítěti z mateřské školky nemůžete chtít, aby absolvovalo univerzitní přednášku. Ne, nejdříve se musí naučit abecedu. Jinak mu vůbec nepomůžete a jen je zmatete."]
 
 
 
 * Dr. Davisová: To je velmi zajímavé. Cesta k duchovnosti je velmi spletitá.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:128-cs
-  :DATE-EVENT: 1994-07-11
+  :genre: interview
+  :keywords:
+  :cite-key: sca:128-cs
+  :date-event: 1994-07-11
   :END:
 
 
@@ -294,14 +289,14 @@ Znovu, musíte vědět, kolik vnímavosti kdo má. Pětileté dítě dokáže sp
 
 V duchovním životě existují dvě hlavní cesty, které nás zavedou k našemu cíli. Jedna cest je delší než nejdelší; je to cesta klikatá, plná serpentin. Toto je cesta mysli. Ta druhá cesta je cesta srdce. Tato cesta je kratší než nejkratší. Můžete říci, že je to sluncem zalitá cesta.
 
-Pokud si vyberete cestu mysli, budete často obtěžována sebepochybnostmi: „Dělám správnou věc?“ Nebo přijmete do své bytosti pochyby druhých. Budete se ptát sama sebe: „Co si myslí? Říkají, že mám správný směr?“ Ale pokud následujete srdce, potom to tak vůbec není. Zde existuje magnetická přitažlivost mezi vámi a Bohem. On je váš nejdražší Otec a vy jste jeho nejdražší dítě, takže oba dva používáte váš vlastní zvláštní magnetismus, abyste se navzájem přitáhli blíže.[fn:2]
+Pokud si vyberete cestu mysli, budete často obtěžována sebepochybnostmi: „dělám správnou věc?“ nebo přijmete do své bytosti pochyby druhých. budete se ptát sama sebe: „co si myslí? Říkají, že mám správný směr?“ ale pokud následujete srdce, potom to tak vůbec není. zde existuje magnetická přitažlivost mezi vámi a bohem. on je váš nejdražší otec a vy jste jeho nejdražší dítě, takže oba dva používáte váš vlastní zvláštní magnetismus, abyste se navzájem přitáhli blíže.[fn:2]
 
-[fn:2] /V předcházející edici zněl tento odstavec následovně:/
+[fn:2] /v předcházející edici zněl tento odstavec následovně:/
 „Cesta k duchovnosti není spletitá. Existují pouze rozdílné cesty. Pokud chcete jít odněkud v Evropě do Říma, můžete jet autem, můžete jet ve člunu nebo letět letadlem. Jestliže poletíte letadlem, je to rychlejší než nejrychlejší. Ale pokud pojedete ve člunu, bůhví kolik dní vám to zabere. /A pokud jste dostatečně hloupí, abyste se vydali pěšky, pak/ tato cesta nikdy neskončí! 
 
 V duchovním životě existují dvě hlavní cesty, které nás zavedou k našemu cíli. Jedna cest je delší než nejdelší; je to cesta klikatá, plná serpentin. Toto je cesta mysli. Ta druhá cesta je cesta srdce. Tato cesta je kratší než nejkratší. Můžete říci, že je to sluncem zalitá cesta.
 
-Pokud si vyberete cestu mysli, budete často obtěžována sebepochybnostmi: „Dělám správnou věc?“ Nebo přijmete do své bytosti pochyby druhých. Budete se ptát sama sebe: „Co si myslí? Říkají, že mám správný směr?“ Ale pokud následujete srdce, potom to tak vůbec není. Zde existuje magnetická přitažlivost mezi /Bohem a vámi/. On je váš nejdražší Otec a vy jste jeho nejdražší dítě, takže oba dva používáte váš vlastní zvláštní magnetismus, abyste se navzájem přitáhli blíže.“
+Pokud si vyberete cestu mysli, budete často obtěžována sebepochybnostmi: „dělám správnou věc?“ nebo přijmete do své bytosti pochyby druhých. budete se ptát sama sebe: „Co si myslí? Říkají, že mám správný směr?“ Ale pokud následujete srdce, potom to tak vůbec není. Zde existuje magnetická přitažlivost mezi /Bohem a vámi/. On je váš nejdražší Otec a vy jste jeho nejdražší dítě, takže oba dva používáte váš vlastní zvláštní magnetismus, abyste se navzájem přitáhli blíže.“
 
 /Dr. Davisová:/ Takže jsem na správné dráze! Je dobře, že jsem vás navštívila. Potřebovala jsem tohle ujištění. Je to opravdu úžasné. Je to neuvěřitelné. Začala jsem meditovat na srdce, protože cítím, že abych se chránila, musím udržovat své srdce čisté. Ráda vyzařuji mír, lásku a radost a mám ráda, když z mého obličeje vychází úsměv a záře. Aby mohl můj obličej tohle ukázat, musím to cítit uvnitř. Snažím se udržovat své srdce jako otevřenou nádobu. Je ve mně určitá mladistvost. Snažím se uvnitř cítit mladistvá, živá a energická a doufám, že to vyzařuje.
 
@@ -318,10 +313,10 @@ Každé dítě je novým Božím snem přinášejícím lásku, nic než lásku.
 * Dr. Davisová: To je krásné. Můj manžel a já jsme si užili váš koncert, když jsme tam byli. Bylo úžasné vidět vás hrát na tolik rozličných nástrojů. Ani jsem neznala názvy některých z nich.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:129-cs
-  :DATE-EVENT: 1994-07-11
+  :genre: interview
+  :keywords:
+  :cite-key: sca:129-cs
+  :date-event: 1994-07-11
   :END:
 
 
@@ -338,10 +333,10 @@ Před meditací je lepší dvě hodiny nejíst. Můžete si dát šálek čaje n
 * Dr. Davisová: Všimla jsem si, že všichni nosí pohodlné, volné oblečení. Je to důležité?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:130-cs
-  :DATE-EVENT: 1994-07-11
+  :genre: interview
+  :keywords:
+  :cite-key: sca:130-cs
+  :date-event: 1994-07-11
   :END:
 
 
@@ -352,31 +347,31 @@ Před meditací je lepší dvě hodiny nejíst. Můžete si dát šálek čaje n
 * Dr. Davisová: Zdá se mi, že když člověk začíná na duchovní cestě, právě tehdy k němu přicházejí zlé věci intenzivnějším tempem.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:131-cs
-  :DATE-EVENT: 1994-07-11
+  :genre: interview
+  :keywords:
+  :cite-key: sca:131-cs
+  :date-event: 1994-07-11
   :END:
 
 
-/Sri Chinmoy:/ Když vstupujeme do duchovního života, někdy se stává, že na nás útočí nepřátelské síly neodbytněji. Vstupujeme do duchovního života, abychom se ztotožnili s Boží Vůlí. Tehdy nás tyto síly napadají a říkají: „Nedovolíme ti to.“ Bůh vám říká: „Nyní se chceš vědomě stát se Mnou jedním. Potom dokaž, že potřebuješ jen Mou lásku.“ My se tedy modlíme a meditujeme a Bůh nás zaplavuje svým Soucitem a Milostí, abychom proti těmto nepřátelským silám bojovali.
+/Sri Chinmoy:/ když vstupujeme do duchovního života, někdy se stává, že na nás útočí nepřátelské síly neodbytněji. vstupujeme do duchovního života, abychom se ztotožnili s boží vůlí. tehdy nás tyto síly napadají a říkají: „nedovolíme ti to.“ bůh vám říká: „Nyní se chceš vědomě stát se Mnou jedním. Potom dokaž, že potřebuješ jen Mou lásku.“ My se tedy modlíme a meditujeme a Bůh nás zaplavuje svým Soucitem a Milostí, abychom proti těmto nepřátelským silám bojovali.
 Když jste nám minule řekla, že nemůžete přijít na setkání, na kterém jsme se dohodli, měl jsem tak důvěrný pocit z vaší duše. Ve vnitřním světě jsem viděl, že vaše duše chce přijít. Řekl jsem si: „Jak je možné, že mysl neposlouchá srdce a duši?“
 
 
 
-/Dr. Davisová/: Objevil jste se v době, kdy jsem skutečně potřebovala přijít. Ale bylo to jako lavina krizí, se kterými jsem se musela potýkat. Takže dnes, když přišel můj asistent a řekl: „Sri Chinmoy vás zve, ale já vím, vy nemůžete jít,“ řekla jsem: „Ne, budu tam.“ Když zmínil vaše jméno, řekla jsem si, že bych zrušila všechno.
+/Dr. Davisová/: objevil jste se v době, kdy jsem skutečně potřebovala přijít. ale bylo to jako lavina krizí, se kterými jsem se musela potýkat. takže dnes, když přišel můj asistent a řekl: „sri chinmoy vás zve, ale já vím, vy nemůžete jít,“ řekla jsem: „Ne, budu tam.“ Když zmínil vaše jméno, řekla jsem si, že bych zrušila všechno.
 Když jsem začala s meditací, chodívala jsem do knihkupectví s náboženskou literaturou a vybírala si knihy, které jste napsal vy. Znala jsem vaše jméno, když jsem byla v Georgii a Minnesotě. Aniž bych vás znala, četla jsem vaše knihy. Když jsem se dozvěděla, že žijete v New Yorku, byla jsem prostě ohromená. Říkala jsem si: „Sri Chinmoy je v Jamaice v New Yorku! Tomu nemohu uvěřit!“ Myslela jsem si, že bych musela do Himalájí, abych vás viděla.
-Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme začít dělat něco s duchem, necháme to na mysli a řekneme si: „Dělám správnou věc? Mám se vzdát, nebo pokračovat?“ Setkání jako tohle říká: „Děláš správnou věc.“ Nyní jsem se ujistila. 
+Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme začít dělat něco s duchem, necháme to na mysli a řekneme si: „dělám správnou věc? mám se vzdát, nebo pokračovat?“ setkání jako tohle říká: „Děláš správnou věc.“ Nyní jsem se ujistila. 
 
 
 
 * Dr. Davisová: Mohu se vás zeptat na význam svíček a pálení vonných tyčinek?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:132-cs
-  :DATE-EVENT: 1994-07-11
+  :genre: interview
+  :keywords:
+  :cite-key: sca:132-cs
+  :date-event: 1994-07-11
   :END:
 
 
@@ -387,10 +382,10 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
 * Dr. Davisová: Záleží na barvě?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:133-cs
-  :DATE-EVENT: 1994-07-11
+  :genre: interview
+  :keywords:
+  :cite-key: sca:133-cs
+  :date-event: 1994-07-11
   :END:
 
 
@@ -401,10 +396,10 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
 * Dr. Davisová: Lotos je můj oblíbený! Používám lotos jako symbol svého života. Už jsem vám říkala dříve, že když přemýšlím o svém životě, říkám, že jsem zakořeněna ve vodě.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:134-cs
-  :DATE-EVENT: 1994-07-11
+  :genre: interview
+  :keywords:
+  :cite-key: sca:134-cs
+  :date-event: 1994-07-11
   :END:
 
 
@@ -417,7 +412,7 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
 /Dr. Davisová:/ Když ráno medituji, chodím k vodě.
 
 
-/Sri Chinmoy (nabízí nějaké knihy):/. Pro mě je jen jediné náboženství: Láska k Bohu. Vy můžete být křesťanka, já hinduista, ale naše láska k Bohu je jediné náboženství.
+/Sri Chinmoy (nabízí nějaké knihy):/. pro mě je jen jediné náboženství: Láska k Bohu. Vy můžete být křesťanka, já hinduista, ale naše láska k Bohu je jediné náboženství.
 
 
 
@@ -425,10 +420,10 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:135e1-cs
-  :DATE-EVENT: 1993-04-24
+  :genre: section
+  :keywords:
+  :cite-key: sca:135e1-cs
+  :date-event: 1993-04-24
   :END:
 
 
@@ -437,10 +432,10 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
 * Russell Wilson: Chci vám říci, že jsem cítil, že se s vámi musím setkat. Četl jsem jednu z vašich knih a některé vaše básně. Našel jsem v nich velkou inspiraci. Cítil jsem, že se s vámi potřebuji setkat, abych se od vás mohl učit.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:135-cs
-  :DATE-EVENT: 1993-04-24
+  :genre: interview
+  :keywords:
+  :cite-key: sca:135-cs
+  :date-event: 1993-04-24
   :END:
 
 
@@ -453,8 +448,8 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:136-cs
-  :DATE-EVENT: 1993-04-24
+  :cite-key: sca:136-cs
+  :date-event: 1993-04-24
   :END:
 
 /Sri Chinmoy:/ Ve chvíli kdy jsem přišel a uviděl vás, při prvním pohledu jsem vstoupil do největších hlubin vašeho srdce, do ústřední bytosti vašeho života. Máte nějakou konkrétní otázku, na kterou byste se mě rád zeptal? Rád bych vám byl k službám.
@@ -464,10 +459,10 @@ Tohle dnešní setkání je pro mě duchovní potravou. Kdykoliv se snažíme za
 * Russell Wilson: Je to pro mne taková čest, pane. Cítím vás tak silně, že je obtížné hovořit. Ale je to velmi příjemný a krásný pocit. Hledám vnitřní mír a cítil jsem s vámi velmi silné vnitřní spojení. Pokud byste mne přijal, rád bych se od vás učil.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:137-cs
-  :DATE-EVENT: 1993-04-24
+  :genre: qa
+  :keywords:
+  :cite-key: sca:137-cs
+  :date-event: 1993-04-24
   :END:
 
 /Sri Chinmoy:/ Vše je vzájemné. Nemůžeme tleskat jednou rukou, potřebujeme ruce dvě. Také zde vidíme vzájemné přijetí našich dvou srdcí. Toto přijetí se může stát trvale osvětlujícím a naplňujícím, pokud dokážete zůstat za polem působnosti zemí spoutané mysli. Srdce vytváří svou jednotu na základě jeho vnitřní čistoty, krásy a božskosti. Ale protože lidská mysl ještě nebyla osvícena světlem shůry či zevnitř, má tendenci zpochybňovat čistotu, krásu a božskost, jež vidíme a cítíme uvnitř našeho srdce. Všechno, co je uvnitř nás božské, naše mysl zpochybňuje.
@@ -486,14 +481,14 @@ Pokud vezmete toto vnitřní bohatství, které máte uvnitř svého srdce, a d�
 * Russell Wilson: Jak se dostanu ke svému srdci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:138-cs
-  :DATE-EVENT: 1993-04-24
+  :genre: qa
+  :keywords:
+  :cite-key: sca:138-cs
+  :date-event: 1993-04-24
   :END:
 
 
-/Sri Chinmoy:/ Nemějte pocit, že musíte za svým srdcem jít. Pouze ciťte, že srdce jste. Používáme termín „zahrada srdce“. Uvnitř zahrady našeho srdce jsou všechny božské vlastnosti. Jsou jako krásné a vonící květiny. Nejprve si pro sebe opakujte: „Jsem uvnitř zahrady svého srdce.“ Pokuste se cítit a vidět všechny ty krásné květiny, které tam jsou. Potom si řekněte: „Jsem zahrada mého srdce. Všechny ty božské květiny uvnitř zahrady mého srdce jsou součástí mého vlastního já.“ Až do této chvíle jste si vytvořil jednotu s realitou, kterou vidíte ve svém vnějším životě. Ale nyní si chcete vytvořit jednotu s vaší nejdražší a nejčistší existencí, jíž je váš vnitřní život, život vašeho srdce.
+/Sri Chinmoy:/ nemějte pocit, že musíte za svým srdcem jít. pouze ciťte, že srdce jste. používáme termín „zahrada srdce“. uvnitř zahrady našeho srdce jsou všechny božské vlastnosti. jsou jako krásné a vonící květiny. nejprve si pro sebe opakujte: „jsem uvnitř zahrady svého srdce.“ pokuste se cítit a vidět všechny ty krásné květiny, které tam jsou. potom si řekněte: „Jsem zahrada mého srdce. Všechny ty božské květiny uvnitř zahrady mého srdce jsou součástí mého vlastního já.“ Až do této chvíle jste si vytvořil jednotu s realitou, kterou vidíte ve svém vnějším životě. Ale nyní si chcete vytvořit jednotu s vaší nejdražší a nejčistší existencí, jíž je váš vnitřní život, život vašeho srdce.
 
 Když meditujete, pokud se přitom náhodou podíváte na své rameno či koleno, řekněte si prosím: „Tohle je moje srdce.“ Pokud máte dobré myšlenky během meditace, potom se snažte okamžitě uvnitř vašich myšlenek cítit své srdce. Pokud máte ale špatné myšlenky, myšlenky neaspirující, okamžitě je odhoďte. Snažte se nemít s takovými myšlenkami nic společného.
 
@@ -507,10 +502,10 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:139-cs
-  :DATE-EVENT: 1993-04-24
+  :genre: qa
+  :keywords:
+  :cite-key: sca:139-cs
+  :date-event: 1993-04-24
   :END:
 
 
@@ -521,10 +516,10 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
 * Russell Wilson: Když jsem viděl vaši tvář na videu, nějak jsem se cítil být k vám přitahován. Nedokážu to vysvětlit.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:140-cs
-  :DATE-EVENT: 1993-04-24
+  :genre: qa
+  :keywords:
+  :cite-key: sca:140-cs
+  :date-event: 1993-04-24
   :END:
 
 /Sri Chinmoy:/ Je to magnetická přitažlivost srdce. Vnitřní pláč vašeho vlastního srdce je touto přitažlivostí. Vaše srdce mě přitahuje směrem k vám a mé srdce přitahuje vás směrem ke mně. Je to naše píseň jednoty srdce.
@@ -537,14 +532,14 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
 * Russell Wilson: Vím z toho videa, že jste byl velmi blízký U Thantovi.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:141-cs
-  :DATE-EVENT: 1993-04-24
+  :genre: qa
+  :keywords:
+  :cite-key: sca:141-cs
+  :date-event: 1993-04-24
   :END:
 
 
-/Sri Chinmoy:/ Jakmile mě U Thant uviděl, spatřil ve mně něco a já spatřil něco v něm. Jeho první věta ke mně byla: „Lidé mi o vás říkali tolik pěkných věcí, a teď vidím, že je to naprostá pravda.“ Potom vzniklo opravdové přátelství. On byl buddhista a já pocházím z hinduistické rodiny, ale když přijmeme duchovní život, překročíme hranice náboženství. Náboženství je jako dům. Já žiji ve svém domě, vy ve svém. Ale studujeme společně ve stejné škole a touto školou je naše láska k Bohu. Takže on přesáhl jeho náboženství a já náboženství své. Naším jediným náboženstvím byla láska k Bohu. Byl mým drahým přítelem. Víte také o mé lásce a obdivu k mému bratrovi, kongresmanu Garymu Ackermanovi.
+/Sri Chinmoy:/ jakmile mě u thant uviděl, spatřil ve mně něco a já spatřil něco v něm. jeho první věta ke mně byla: „Lidé mi o vás říkali tolik pěkných věcí, a teď vidím, že je to naprostá pravda.“ Potom vzniklo opravdové přátelství. On byl buddhista a já pocházím z hinduistické rodiny, ale když přijmeme duchovní život, překročíme hranice náboženství. Náboženství je jako dům. Já žiji ve svém domě, vy ve svém. Ale studujeme společně ve stejné škole a touto školou je naše láska k Bohu. Takže on přesáhl jeho náboženství a já náboženství své. Naším jediným náboženstvím byla láska k Bohu. Byl mým drahým přítelem. Víte také o mé lásce a obdivu k mému bratrovi, kongresmanu Garymu Ackermanovi.
 
 /Russell Wilson:/ On to cítí stejně.
 
@@ -557,8 +552,8 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
   :PROPERTIES:
   :genre: interview
   :keywords:
-  :cite-key: SCA:142-cs
-  :DATE-EVENT: 1993-04-24
+  :cite-key: sca:142-cs
+  :date-event: 1993-04-24
   :END:
 
 /Sri Chinmoy:/ Všechno závisí na hodině Boha. Když tato hodina udeří, vidíme realitu, cítíme realitu a realitou se stáváme. Tuhle píseň jsem složil před mnoha lety na počest Garyho Ackermana. Moji studenti ji nyní zazpívají. Přijeli z celého světa slavit výročí mého příjezdu do Ameriky před 29 lety. Jsou z Velké Británie, Francie, Rakouska, Japonska a dalších míst. 
@@ -574,10 +569,10 @@ Máte velmi krásné srdce. Nelichotím vám. Vnitřní pláč vašeho srdce je 
 * Russell Wilson:. To je neuvěřitelné, skutečně úžasné - musím vám říci, že dokonce ještě před tím, než jsem se s vámi sešel, zasáhl jste do mého života svou poezií a filozofií. Věděl jsem, že jste někdo velmi zvláštní, a chtěl jsem se od vás opravdu učit. Ale cítil jsem, že to není možné bez toho, že bych vás potkal. Děkuji vám za tu čest, že jsem se s vámi mohl setkat. Chci vám jen říci, jak moc obdivuji vaši jasnost a moudrost a jak moc jste ovlivnil můj život.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:143-cs
-  :DATE-EVENT: 1993-04-24
+  :genre: interview
+  :keywords:
+  :cite-key: sca:143-cs
+  :date-event: 1993-04-24
   :END:
 
 
@@ -597,10 +592,10 @@ Byly doby, kdy byli vaši rodiče celým vaším světem. Nyní se celé lidstvo
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:144-cs
-  :DATE-EVENT: 1993-04-24
+  :genre: qa
+  :keywords:
+  :cite-key: sca:144-cs
+  :date-event: 1993-04-24
   :END:
 
 
@@ -621,32 +616,32 @@ Napsal jsem kdysi něco o politice a duchovnosti, co vyšlo v jednom indickém �
 * Russell Wilson: Guru, chci se vás zeptat na jednu velmi obtížnou otázku. Proč v Indii, která je považována za centrum všech náboženství a kde duchovnost hraje tak důležitou roli, je tolik konfliktů a napětí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:145-cs
-  :DATE-EVENT: 1993-04-24
+  :genre: qa
+  :keywords:
+  :cite-key: sca:145-cs
+  :date-event: 1993-04-24
   :END:
 
 
 /Sri Chinmoy:/ Protože jsem Ind, jsem schopen odpovědět na tuhle otázku. Kdysi dávno byla Indie zemí míru. Nyní je ve stavu trvalého sváru a boje. Proč?  Odpověď je velmi jednoduchá. Bůh nám dal svobodu a my jsme ji zneužili. V každém okamžiku se můžeme my jako lidské bytosti rozhodnout udělat buď dobrou věc, nebo věc špatnou. Mohu vstávat brzy ráno modlit se a meditovat, abych se stal dobrým člověkem, nebo mohu spát do deseti či dokonce jedenácti a vstávat tehdy, když už je pozdě jít vůbec do práce. Možná jsem získával po dobu šesti měsíců světlo shůry a moje upřímnost, moje čestnost a láska k Bohu mě přiměla vstávat brzy ráno a meditovat. Ale po šesti měsících jsem přestal aspirovat a myslet na Boha, takže už brzy nevstávám, abych se modlil a meditoval. Navenek jsem šťastný člověk, ale v mém vnitřním životě jsem se změnil.
 
-V dávné minulosti chodívali politici k duchovním mistrům pro požehnání a osvícení. Jeden z nejvyšších indických hrdinů, Šivadží, chodíval ke svému duchovnímu mistrovi a říkal: „Poraď mi, prosím.“ Potom začal mít Šivadží své země a politiky plné zuby. Řekl: „Všechno je zkažené. Už to víc nechci.“ Ale jeho duchovní učitel jej přiměl, aby zůstal v politice. Řekl: „Pokud se vzdáš, kdo potom přemění svět? Zůstaň ve své funkci a mysli jen na mě. Nejvyšší ve mě povede tuto zemi v tobě a skrze tebe.“
+V dávné minulosti chodívali politici k duchovním mistrům pro požehnání a osvícení. Jeden z nejvyšších indických hrdinů, Šivadží, chodíval ke svému duchovnímu mistrovi a říkal: „poraď mi, prosím.“ potom začal mít Šivadží své země a politiky plné zuby. Řekl: „všechno je zkažené. už to víc nechci.“ ale jeho duchovní učitel jej přiměl, aby zůstal v politice. Řekl: „Pokud se vzdáš, kdo potom přemění svět? Zůstaň ve své funkci a mysli jen na mě. Nejvyšší ve mě povede tuto zemi v tobě a skrze tebe.“
 
 Byly doby, kdy Indie měla vyrovnanou a míruplnou mysl, ale nebyla spokojená s tímto vnitřním mírem a rovnováhou. Chtěla soutěžit s Amerikou. Naneštěstí, když vstoupila do světa soutěžení, začala ztrácet duchovnost. Jedna věc je udržet si svou vlastní výšku a potom dávat, co máš, a obdržet, co má někdo jiný. Ale Indie se namísto toho, aby si zachovala svou původní čistotu a božskost, stala nenasytnou a začala se starat více o vnější bohatství. Chtěla se stát stejně bohatou jako Amerika a už nepřikládala tolik důležitosti svému vnitřnímu bohatství. To byla největší chyba Indie.
 
 Když mi Bůh něco dává, měl bych to opatrovat. Potom, až udeří pravá hodina, dá mi Bůh něco jiného, protože je se mnou spokojen. Ale pokud odmítnu to, co mi Bůh dal, a pláču jen po něčem jiném, potom mě vnitřní kvality, jež jsem jednou měl, opustí a ze mě bude žebrák. Indie měla zůstat Bohu vděčná za to, co jí dal, namísto aby napodobovala Západ; měla opatrovat své vlastní božské kvality. Ale když se začala méně starat o své vnitřní bohatství a více o to vnější, v tu chvíli začala má matka Indie ztrácet něco velmi drahocenného.
 
-Něco podobného se nyní děje v bývalém Sovětském svazu. Prezident Gorbačov byl odpovědný za probuzení vědomí Sovětského svazu. Poté co sovětské občany probudil, řekl: „Spali jsme spoustu let a právě jsme se probudili. Kráčejme pomalu, stejnoměrně a neomylně k našemu cíli. Později, až přijde čas a my budeme mít více kapacity, budeme pochodovat a nakonec poběžíme.“ Ale lidé neposlouchali. Stali se velmi hamižnými a chtěli být právě takoví jako Západ. Chtěli běžet hned od začátku, přestože na to neměli kapacitu. Vybrali si tedy jiného politika, který sliboval okamžité výsledky. Všichni chceme mít okamžitou realizaci -- jako instantní kávu. Chceme mít vše mrknutím oka. Dítěti zabere několik let, než se naučí chodit. Když tomu malému dítěti řeknu, že může běžet jako jeho starší bratr, bude toto dítě inspirováno, aby to zkusilo. Ale naneštěstí si jen zlomí nohu. Matka bude dítěti vždycky říkat: „Ne, běž pomalu. Tvému bratrovi je už pět, a tobě teprve jeden rok. Jak můžeš očekávat, že budeš kráčet vedle svého bratra?“
+Něco podobného se nyní děje v bývalém Sovětském svazu. Prezident Gorbačov byl odpovědný za probuzení vědomí Sovětského svazu. Poté co sovětské občany probudil, řekl: „spali jsme spoustu let a právě jsme se probudili. kráčejme pomalu, stejnoměrně a neomylně k našemu cíli. později, až přijde čas a my budeme mít více kapacity, budeme pochodovat a nakonec poběžíme.“ ale lidé neposlouchali. stali se velmi hamižnými a chtěli být právě takoví jako západ. chtěli běžet hned od začátku, přestože na to neměli kapacitu. vybrali si tedy jiného politika, který sliboval okamžité výsledky. všichni chceme mít okamžitou realizaci -- jako instantní kávu. chceme mít vše mrknutím oka. dítěti zabere několik let, než se naučí chodit. když tomu malému dítěti řeknu, že může běžet jako jeho starší bratr, bude toto dítě inspirováno, aby to zkusilo. ale naneštěstí si jen zlomí nohu. matka bude dítěti vždycky říkat: „Ne, běž pomalu. Tvému bratrovi je už pět, a tobě teprve jeden rok. Jak můžeš očekávat, že budeš kráčet vedle svého bratra?“
 
 
 
 * Russell Wilson: Mohu se vás zeptat ještě na několik otázek ohledně meditace? Kdy je nejlepší čas meditovat a jak dlouho mám meditovat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:146-cs
-  :DATE-EVENT: 1993-04-24
+  :genre: qa
+  :keywords:
+  :cite-key: sca:146-cs
+  :date-event: 1993-04-24
   :END:
 
 
@@ -661,10 +656,10 @@ Je rovněž dobré, když můžete přes den každou hodinu meditovat. Nemusí t
 * Russell Wilson: Jste zastánce meditace s očima otevřenýma, nebo zavřenýma?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:147-cs
-  :DATE-EVENT: 1993-04-24
+  :genre: qa
+  :keywords:
+  :cite-key: sca:147-cs
+  :date-event: 1993-04-24
   :END:
 
 
@@ -678,9 +673,9 @@ Není to tak, že musíte meditovat po určitou stanovenou dobu. Ne! Co je důle
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:148e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sca:148e1-cs
   :END:
 
 
@@ -689,10 +684,10 @@ Není to tak, že musíte meditovat po určitou stanovenou dobu. Ne! Co je důle
 * Paní Kovandová: Musím vám říci, že naše dítě je pro nás každým dnem větší a větší radostí. Ráda bych cítila to, co cítí on!
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:148-cs
-  :DATE-EVENT: 1994-06-13
+  :genre: interview
+  :keywords:
+  :cite-key: sca:148-cs
+  :date-event: 1994-06-13
   :END:
 
 
@@ -706,10 +701,10 @@ Pokud chcete cítit to, co cítí on, můžete meditovat na jeho srdce, obzvlá�
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:149-cs
-  :DATE-EVENT: 1994-06-13
+  :genre: qa
+  :keywords:
+  :cite-key: sca:149-cs
+  :date-event: 1994-06-13
   :END:
 
 
@@ -724,10 +719,10 @@ Když se modlíte za své dítě, je ještě jedna věc, kterou můžete dělat.
 * Paní Kovandová: Co mám dělat pro svého muže?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:150-cs
-  :DATE-EVENT: 1994-06-13
+  :genre: qa
+  :keywords:
+  :cite-key: sca:150-cs
+  :date-event: 1994-06-13
   :END:
 
 
@@ -740,10 +735,10 @@ Když přijde na konci dne zpět domů unavený a vyčerpaný, přinese sebou do
 * Paní Kovandová: Je pro mě velmi obtížné modlit se pro něco jiného než pro zdraví, protože zdraví je tak důležité. Cítím se sobecká, když se modlím pro něco jiného.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:151-cs
-  :DATE-EVENT: 1994-06-13
+  :genre: qa
+  :keywords:
+  :cite-key: sca:151-cs
+  :date-event: 1994-06-13
   :END:
 
 
@@ -754,14 +749,14 @@ Když přijde na konci dne zpět domů unavený a vyčerpaný, přinese sebou do
 * Paní Kovandová: Mám se modlit v tichosti nebo nahlas?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:152-cs
-  :DATE-EVENT: 1994-06-13
+  :genre: qa
+  :keywords:
+  :cite-key: sca:152-cs
+  :date-event: 1994-06-13
   :END:
 
 
-/Sri Chinmoy:/ Vždy je lepší modlit se nahlas. Když nahlas řeknete: „Bože, požehnej mě dobrým zdravím. Daruj mi lásku, radost a mír,“ potom bude vaše fyzická mysl přesvědčena. Nemusíte ale zbořit strop! Tak nahlas se modlit nemusíte. Přestože jsem se narodil jako hinduista, mám rovněž rád muslimy a cítím, že jsou mými bratry. Ale když se v mešitě modlí, modlí se tak nahlas, že je můžete slyšet velmi daleko. My hinduisté cítíme, že pokud slyšíte svou modlitbu svýma vlastníma ušima, jste přesvědčena, že se modlíte, a to stačí. 
+/Sri Chinmoy:/ vždy je lepší modlit se nahlas. když nahlas řeknete: „Bože, požehnej mě dobrým zdravím. Daruj mi lásku, radost a mír,“ potom bude vaše fyzická mysl přesvědčena. Nemusíte ale zbořit strop! Tak nahlas se modlit nemusíte. Přestože jsem se narodil jako hinduista, mám rovněž rád muslimy a cítím, že jsou mými bratry. Ale když se v mešitě modlí, modlí se tak nahlas, že je můžete slyšet velmi daleko. My hinduisté cítíme, že pokud slyšíte svou modlitbu svýma vlastníma ušima, jste přesvědčena, že se modlíte, a to stačí. 
 
 Když se modlíte, používáte slova: „Ó Bože, dej mi toto, dej mi ono. Udělej pro mě tohle, udělej pro mě tamto.“ V tu chvíli můžete mluvit přiměřeně rychle -- asi tak, jak se nyní bavíme. Modlete se dostatečně nahlas, abyste se slyšela, a mluvte svým běžným tempem. Ale když dojde na meditaci, pokuste se nemít vůbec žádné myšlenky a nepoužívat žádná slova; pokuste se mít svou mysl prázdnou. Jakoukoli myšlenku či představu, která vstoupí do vaší mysli, musíte utišit. Pokud ji nedokážete utišit, pak se snažte zpomalit její rychlost. Vstupuje-li do vás velmi rychle proud nějakých myšlenek a vy jej nemůžete naráz zastavit, potom se jej pokuste alespoň zpomalit. Nakonec se můžete pokusit jej utišit. Abyste dokázala svou mysl více utišit, je také dobré, když si představíte něco velmi míruplného, jako rozlehlou oblohu brzy zrána nebo večerní zapadající slunce. Anebo se můžete pokusit cítit, že jste na dně moře nebo na vrcholu hory v Himalájích.
 
@@ -769,21 +764,3 @@ Když se modlíte, hovoříte k Bohu a Bůh vám naslouchá. Když meditujete, B
 Existuje ještě jeden rozdíl. Když se modlíte, pokuste se cítit, že jste naprosto bezmocná. Musíte se modlit jako žebračka prosící o almužnu. „Bože, dej mi tohle.“ Musíte upřímně cítit, že zoufale potřebujete to, pro co se modlíte. Musíte cítit, že se celý váš svět zhroutí, pokud to nedostanete. Když nebude vaše modlitba naplněna, budete v úplné beznaději.
 
 Naproti tomu když meditujete, musíte cítit, že jste princezna nebo královna či nejdražší Boží dcera s nekonečným bohatstvím ve svém srdci. Když meditujete, vynášíte do popředí svou vlastní božskost a vnitřní bohatství -- svůj vlastní vnitřní mír, blaženost, lásku a radost. Tyto věci nevynalézáte, patří vám a vy je nacházíte.
-
-
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

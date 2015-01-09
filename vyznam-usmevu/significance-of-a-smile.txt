@@ -1,20 +1,15 @@
-#+TITLE: Význam úsměvu
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Význam úsměvu
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2003
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: SGSM-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2003
+  :publisher: Madal Bal
+  :cite-key: SGSM-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Dětské srdce
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SGSM:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: sgsm:1e1-cs
   :END:
 
 
@@ -32,9 +27,9 @@
 * Jak mohu nejsnáze získat kvality srdce ?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:1-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:1-cs
   :END:
 
 /Sri Chinmoy:/ Pokud dokážeš cítit, že je ti pět nebo sedm let, zůstaneš čistý, upřímný a oddaný. Jestliže si ale myslíš, že je ti dvacet tři nebo dvacet osm, budeš muset zápasit se svou myslí. Prostě jenom ciť, že je ti pět let a že si hraješ na zahradě. Ať si o tobě ostatní myslí, že jsi hloupý, nevadí. Naše cesta je cestou přijetí. Dítě přijme všechno, co vidí kolem sebe. Zkouší všechno přijmout a všechno uchopit. Pokud můžeš upřímně cítit, že jsi dítě, jestliže můžeš mít dětské srdce, učiníš nejrychlejší pokrok. Tento pocit však musí být spontánní.
@@ -44,9 +39,9 @@
 * Jak mohu pěstovat tento pocit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:2-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:2-cs
   :END:
 
 /Sri Chinmoy:/ Nejlepším způsobem, jak pěstovat tento pocit, je stýkat se s ostatními, kteří mají také dětské srdce. Ptáci jednoho druhu se sdružují do hejna. Zloděj se bude přátelit s jinými zloději a svatý muž bude mít přátele mezi duchovními lidmi. Jestliže chceš být s dětmi a ony uvidí tvoji nečistotu a neupřímnost, proč by se potom s tebou chtěly přátelit? Musíš se ponořit hluboko do nitra a získat spojení s vnitřní zahradou; potom se znovu staneš dítětem. Poté už ostatní děti nebudou namítat, když se s nimi budeš chtít stýkat. Nebudou pociťovat zející propast mezi tvým bytím a Boží existencí.
@@ -55,9 +50,9 @@
 * Co je to zájem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:3-cs
   :END:
 
 /Sri Chinmoy:/ Zájem či starost je nanejvýš složité slovo. Občas říkáme, že máme o někoho starost, ale možná nejde o skutečný zájem. O skutečný zájem jde tehdy, když cosi nabízíte kvůli lásce, kvůli Bohu, když dáváte najevo svoji jednotu s lidstvem. Je-li Bůh mostem mezi dvěma jedinci, musí vás spojit v jednoho. Potom jde o opravdový zájem. Je-li ovšem Bůh „mimo hru“, když chcete něco udělat pro někoho jiného, jde o připoutání, protože jeden zkouší vlastnit druhého.
@@ -68,9 +63,9 @@
 * Musíme mít velkou víru a důvěru, abychom mohli mít dětské kvality ?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:4-cs
   :END:
 
 /Sri Chinmoy:/ Ano, je to tak. Je to absolutně nezbytné. Dítě ví, že mu matka nikdy záměrně neublíží. Dítě věří, že matka mu ani nevědomě neudělá nic špatného. Pro matku je možnost vědomého ublížení dítěti nemyslitelná. Dítě si nikdy nebude myslet, že matka udělá vědomě cosi špatného, vůbec ne. Naopak, dítě má v matku samozřejmou víru. Cítí, že když mu dá někdo jed, matka mu jed vezme a sama ho vypije, aby ho zachránila. Stejný druh víry by měl mít zralý člověk s rozvinutou myslí. Po té, co dítě překročí třináctý rok, začne pracovat mysl. Ať už je to intelektuální či obyčejná mysl, má svůj vlastní způsob pochybovačnosti, podezřívavosti a ostatní druhy nebožských vlastností. Takže nejlepší je myslet si, že jsou vám čtyři roky, i když jste velmi zralí, a v duchovním životě velmi vyvinutí. Jestliže si myslíte, že jste dítě, učiníte nejrychlejší pokrok. 
@@ -82,9 +77,9 @@ Jak můžete získat vnímavost? Dítě má vnímavost, bezprostřední vnímavo
 * Jak můžeme nejlépe milovat druhé nebo pomáhat druhým?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:5-cs
   :END:
 
 /Sri Chinmoy:/ Nejlépe milovat druhé a pomáhat druhým můžeme za předpokladu, že se všemi cítíme jednotu. Když trpí jedna část mého těla, jiná část silou jednoty vyjde do popředí a pokusí se pomoci té, která to potřebuje. Můžeme-li milovat Boha-kořen, můžeme milovat i Boha-semínko, Boha-rostlinu, Boha-kmen, Boha-květ a Boha-listy. Jestliže hledající cítí, že on a ostatní jsou jedno a totéž, může jeho i ostatní vést jedině Bůh.
@@ -93,9 +88,9 @@ Jak můžete získat vnímavost? Dítě má vnímavost, bezprostřední vnímavo
 * Jak se můžeme ujistit, že práce, kterou děláme, je nesobeckou, zasvěcenou službou?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:6-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:6-cs
   :END:
 
 /Sri Chinmoy:/ Zda je naše práce zasvěcenou nesobeckou službou můžeme snadno zjistit tak, že během ní vstoupíme do svého srdce. Pokud se srdce rozšiřuje, pokud je osvěcováno, pokud běží jako jelen ke svému Cíli, jde určitě o zasvěcenou službu.
@@ -105,9 +100,9 @@ Jak můžete získat vnímavost? Dítě má vnímavost, bezprostřední vnímavo
 * Jak nám pomáhá jednota?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:7-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:7-cs
   :END:
 
 /Sri Chinmoy:/ Když zůstáváš v nejvyšším vědomí, když jsi se mnou ztotožněn, silou svého sjednocení a jednoty vlastníš veškeré schopnosti. Pokud je ale spojení přerušeno a jednota není úplná, náležíš sám sobě. Podporuješ svoji vlastní individualitu a osobnost. Tato je ovšem omezená a proto nemůžeš projevit své vnitřní schopnosti. Na nejvyšší úrovni nejsou žádné zkoušky; skutečnost je zde ve své úplnosti. Když jsi ale, byť jen o jednu příčku níže pod nejvyšší úrovní, cítíš, že začíná nějaký druh zkoušky, protože se svými omezenými schopnostmi zkoušíš dosáhnout neomezeného. To je důvod, proč pokračuje jistý druh zkoušky. 
@@ -118,9 +113,9 @@ Znovu to opakuji, jsi-li v nejvyšším, všechno je neomezené. Činíš si ná
 * Byl jsem na koncertě, kde jsem pocítil jisté spojení s houslistou.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:8-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:8-cs
   :END:
 
 /Sri Chinmoy:/ V tomto případě jsi dosáhl jednoty se Zdrojem uvnitř něj. Na vnější úrovni hrál na housle; na vnitřní úrovni hrála duše uvnitř a tvým prostřednictvím. Vstoupil jsi do toho hudebníka a on vstoupil do Zdroje. Odtud ta hudba vycházela. Jen zřídka se stává, že hledající z publika vstoupí do Zdroje. Hledající v publiku může snadněji navodit svoji jednotu se Zdrojem tehdy, cítí-li, že jej Zdroj využívá. Jeden je aktivní, druhý je tichý. Ten, který hraje, je aktivní a ty jsi tichý. Nebyl jsi pouhým tichým posluchačem, ale tichým účastníkem.
@@ -129,9 +124,9 @@ Znovu to opakuji, jsi-li v nejvyšším, všechno je neomezené. Činíš si ná
 * Jak mohu mít současně jistotu a pokoru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:9-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:9-cs
   :END:
 
 /Sri Chinmoy:/ V obyčejném, neaspirujícím životě není nic takového jako jistota. Nikdo si nemůže být jist svým životem, nebo životem druhých. Nezáleží na tom, jak je silný, jak je bohatý nebo moudrý, nebude cítit naprostou jistotu. Proč? Právě proto, že sám není pevně zakotven, nemůže dosáhnout jednoty s jinými jedinci. Nemůže zde být jednota, stálá a věčná jednota, dokud a pokud není založena jednota s Nejvyšším. Když chceme zde na zemi nastolit jistotu v našich vlastních schopnostech a talentech, dojdeme nakonec k poznání, že je to nemožné. Potom se staneme dokonalými služebníky někomu jinému, abychom jistotu získali. Musíme ale vědět, že Nejvyšší má veškerou jistotu. Jdeme-li hluboko dovnitř, budeme schopni cítit jistotu v našem Zdroji. Když se modlíme a meditujeme na Nejvyšší, nemusíme se modlit za jistotu, stačí, když se budeme modlit za stálou a vědomou jednotu.
@@ -143,12 +138,12 @@ Pokora nespočívá v dotýkání se prachu něčích nohou. Pokora přichází 
 * Je upřímnost v mysli a ve vitálnu u všech hledajících stejná, nebo je u každého jiná?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:10-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:10-cs
   :END:
 
-/Sri Chinmoy:/ Záleží to na stupni pokročilosti hledajícího. Upřímnost dítěte, upřímnost mladého muže a upřímnost starších lidí ve fyzickém, vitálnu a v mysli nemusí být stejná. Jestliže dítě udělá něco špatného, řekne všechno od začátku do konce. Jestliže něco špatného provede dospělý nebo dospívající, je mnohem méně sdílný. Možná řekne několik slov o tom, co se stalo. A čtyřiceti či padesátiletý člověk pouze řekne: „Ó, udělal jsem chybu.“ To je velikost jeho upřímnosti. Upřímnost je tedy vyjádřena třemi lidmi třemi různými způsoby. Dítě, je-li upřímné, řekne celý příběh, jak začal a jak skončil. Dospívající řekne jen několik řádků svého příběhu a skončí. A padesáti či šedesátiletý neřekne ani co se stalo. Řekne pouze, že udělal chybu.
+/Sri Chinmoy:/ záleží to na stupni pokročilosti hledajícího. upřímnost dítěte, upřímnost mladého muže a upřímnost starších lidí ve fyzickém, vitálnu a v mysli nemusí být stejná. jestliže dítě udělá něco špatného, řekne všechno od začátku do konce. jestliže něco špatného provede dospělý nebo dospívající, je mnohem méně sdílný. možná řekne několik slov o tom, co se stalo. a čtyřiceti či padesátiletý člověk pouze řekne: „Ó, udělal jsem chybu.“ To je velikost jeho upřímnosti. Upřímnost je tedy vyjádřena třemi lidmi třemi různými způsoby. Dítě, je-li upřímné, řekne celý příběh, jak začal a jak skončil. Dospívající řekne jen několik řádků svého příběhu a skončí. A padesáti či šedesátiletý neřekne ani co se stalo. Řekne pouze, že udělal chybu.
 
 Pokud jde o rozeznávání neupřímnosti, dítě možná ani neví, že bylo nehodné. Dospělý člověk ví, co je to upřímnost a co je to neupřímnost, ale neváží si pravdomluvnosti. Občas řekne dospělý desetkrát tu stejnou lež, aby si dokázal, že je upřímný. Jestliže nějaká osoba řekne lež, musí říci deset dalších lží, aby zachránila tu první. Mnoho lidí je připraveno říci dalších deset lží či opakovat tu samou lež. Shromažďují negativní sílu a potom ji nabízejí první lži. Pak jsou přesvědčeni, že říkají pravdu. Mnohokrát vědí, že říkají lež, ale prostě pokračují. Poté, co řeknou tu stejnou věc dvacetkrát, už to pro ně není lež; stane se to pro ně evangeliem. Zvykli si na to a už se to stalo součástí jejich života. Neupřímnost se pro ně stala upřímností, ale ostatní ji mohou odhalit.
 
@@ -158,9 +153,9 @@ Na druhou stranu, lidé občas upřímnost vyzývají. Něco jste viděli nebo j
 * Co je to čistota?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:11-cs
   :END:
 
 /Sri Chinmoy:/ Co je to čistota? Čistota je cosi, co nám dává pocítit, že Bůh nemůže být oddělen od naší skutečné existence. Když má někdo čistotu, může cítit Boha jako svého zcela vlastního. Když někdo čistotu nemá, nikdy nepocítí Boha jako svého vlastního; pouze klame sám sebe. Člověk nečistoty nikdy, nikdy nemůže s nejvyšší upřímností považovat Boha za svého zcela vlastního.
@@ -172,9 +167,9 @@ Takže jen tehdy, má-li někdo čistotu v neomezené míře, bude schopen čini
 * Guru, jak mohu získat více čistoty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:12-cs
   :END:
 
 /Sri Chinmoy:/ Brzy zrána se podívej na květinu a přivoň k ní. Dívej se na květinu a okamžitě pociťuj, jak je čistá. Potom se podívej do ranního, právě vycházejícího slunce. Jak je překrásné! Vidíš na něm nějakou nečistotu? Ne. Podívej se na Měsíc. Vidíš něco nečistého? Dívej se na cokoli, co ti dává pocit čistoty. Podívej se na plamen svíčky a uvidíš, že je celý čistý; spálí všechny tvé nečistoty. Cokoliv, u čeho cítíš, že je na vnější úrovni čisté, měj přímo před svou mentální vizí. To je jeden způsob, nejsnazší způsob, jak přesvědčit mysl.
@@ -188,9 +183,9 @@ Můžeš praktikovat obě metody. Měj květinu, tyčinku nebo cokoliv, co pro t
 * Jak si můžeme udržet čistotu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:13-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:13-cs
   :END:
 
 /Sri Chinmoy:/ Čistotu si můžeme udržet, pokud dokážeme vědomě cítit, že uvnitř našeho srdce rozkvétá lístek za lístkem růže. Vždy musíme vidět živý obrázek květiny, řekněme růže nebo lotosu. V okamžiku, kdy vidíme květinu, vědomě či nevědomě vdechujeme její čistotu. Jestliže cítíme, jak z našeho nitra rozkvétá růže lístek po lístku, její vůně a čistota prostoupí celou naši vnitřní i vnější existenci. Nebo pokud chceme, můžeme uvnitř svého srdce zkusit spatřit plamen svíčky. Plamen stoupá vzhůru, výše, nejvýše. Zatímco stoupá, osvěcuje naši nevědomou, temnou, nečistou a nebožskou existenci. Tímto způsobem si tedy můžeme udržet čistotu a získat v našem životě nepomíjející uspokojení.
@@ -200,9 +195,9 @@ Můžeš praktikovat obě metody. Měj květinu, tyčinku nebo cokoliv, co pro t
 * Jaký je vztah mezi aspirací a čistotou?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:14-cs
   :END:
 
 /Sri Chinmoy:/ Jestliže řekneš, že musíš být naprosto čistý, abys mohl aspirovat, odpovím ti, že takový den nezasvitne. Chceš-li se být nejprve stoprocentně čistý a neposkvrněný, budeš čekat Věčnost. Je pravda, že se musíš do značné míry očistit; nejsme-li očištěni, když do nás vstoupí nás Božská Síla, všechno se poškodí. Nadělá to více zmatku než radosti. Nebude zde stvoření, Božské Stvoření. Aspirace a očištění musí jít spolu. Když aspiruješ, získáš čistotu ve své vlastní přirozenosti; a jestliže máš očištění ve své přirozenosti, bude tvá aspirace intenzívnější, dosáhne vrcholu. Takže, nikdo není dokonalý. Nikdo se nemůže odvážit říci, že začne meditovat, až bude jeho přirozenost dokonalá. Na co by byla meditace a koncentrace, kdybychom již byli dokonalí? Čistota a neposkvrněnost přichází pouze z vnitřní aspirace, musí jít společně vedle sebe. Jedno doplňuje druhé, jedno naplňuje druhé.
@@ -212,9 +207,9 @@ Můžeš praktikovat obě metody. Měj květinu, tyčinku nebo cokoliv, co pro t
 * Důležitost úsměvu
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SGSM:15e2-cs
+  :genre: section
+  :keywords:
+  :cite-key: sgsm:15e2-cs
   :END:
 
 
@@ -222,9 +217,9 @@ Můžeš praktikovat obě metody. Měj květinu, tyčinku nebo cokoliv, co pro t
 * Jaký je duchovní význam úsměvu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:15-cs
   :END:
 
 /Sri Chinmoy:/ Když se usmívá lidská matka, vychází to z jejího srdce. Když se usmívá Božská Matka, jde o její slib, který dává svému duchovnímu dítěti, že Cíl, který je Za, je určen pro něj, že Transcendentální Skutečnost pro něj zasvitne. Když se usmívá lidský otec na svého syna, nabízí mu pozemskou vědomost, moudrost a zájem. Když se duchovní Otec usmívá na své duchovní dítě, nabízí mu ujištění, že je v každé sekundě věčně jeho a pro něj. V aspiraci hledajícího a v Mistrově realizaci jsou hledající i Mistr jedno a totéž. Když Mistr přinese zlatou loď, která převeze hledajícího ke Zlatému Břehu, vítá hledajícího s nejširším úsměvem, s úsměvem svého srdce. Když potom veze hledajícího ze země ke Zlatému Břehu, znovu mu nabízí svůj vrcholně naplňující a odhalující úsměv svého srdce.
@@ -234,9 +229,9 @@ Můžeš praktikovat obě metody. Měj květinu, tyčinku nebo cokoliv, co pro t
 * Jak nám pomáhá radost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:16-cs
   :END:
 
 /Sri Chinmoy:/ Každý den, každou hodinu, každou minutu, každou sekundu musí hledající vědět, jak otevřít dveře vedoucí k srdci Nejvyššího. Potřebuje klíč a ten klíč se jmenuje radost. Když je hledající šťastný, nejenom že má klíč, on sám je klíčem. Čím je hledající šťastnější, tím snadnější je pro něj otevřít dveře k srdci Nejvyššího. Klíč je nejdokonalejší, je-li hledající nejšťastnější ze všech lidských bytostí.
@@ -245,9 +240,9 @@ Můžeš praktikovat obě metody. Měj květinu, tyčinku nebo cokoliv, co pro t
 * Jak mohu získat větší uspokojení z odpoutání?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:17-cs
   :END:
 
 /Sri Chinmoy:/ Jak získat sílu odpoutání nebo světlo odpoutání? Je to snadné pro upřímného hledajícího a zároveň velmi nesnadné pro neupřímného. I pro upřímné hledající, dokud jsou v konečném, s konečným a pro konečné, zde bude vždy připoutání. Pokud ale cítí, že přišli z Nekonečného, že jsou v Nekonečném a že existují pro Nekonečné, nemusí plakat pro odpoutání. Odpoutání samo běží k nim a oni cítí, že sami nejsou ničím jiným, než odpoutáním samým.
@@ -261,9 +256,9 @@ Není to tak, že se konečné oddělí od Nekonečného. Ne. Konečné se vědo
 * Je velký rozdíl mezi radostí a Blažeností?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:18-cs
   :END:
 
 /Sri Chinmoy:/ Mezi radostí a Blažeností je velký rozdíl. Řekněme, že radost je opak potěšení. Potěšením rozumíme požitek ve fyzickém a vitálním. Za potěšením ihned následuje frustrace a za frustrací zkáza. Radost je ale cosi, co v nás roste. Může růst pomalu a spolehlivě. I radost může uvadnout, ale nikdy neklesne na úroveň frustrace. Mít radost je jako pít sklenici vody. Máš-li žízeň, můžeš vypít všechnu vodu a žádná nezbude. Máš-li sklenici blízko vodovodu, můžeš si ji znovu a znovu naplnit. Podobně, je-li to potřeba, se radost může zmenšit. Může se také znovu obnovit. Ale ať už klesá nebo roste, je-li to skutečná radost, nikdy nedojde k frustraci či ke zkáze.
@@ -281,9 +276,9 @@ Radost nemůže jít za hranice své vlastní existence. Ale Blaženost přichá
 * Mohu si modlitbou vyvinout více rovnováhy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:19-cs
   :END:
 
 /Sri Chinmoy:/ Modlitba ti dá všechno. Nemáš-li rovnováhu, tvá modlitba ti ji nutně musí dát. Ale přeji si říci, že každý přichází na svět s nějakou vnitřní rovnováhou. Duše má v zárodečné podobě všechny božské kvality. Duše je částí Božského, takže je zde přirozeně všechno. Ale rovnováha na fyzické úrovni může být v absolutně zanedbatelném množství. Jestliže se o to pokusíš, můžeš vyvolat oceán rovnováhy z jediné kapky. I když si myslíš, že nemáš ani jedinou kapku rovnováhy, nevadí. Nejvyšší ti dá neomezenou rovnováhu, protože se modlíš. Potom přijde čas, kdy bude celá tvá bytost zaplavena vnitřní rovnováhou. Ty se modlíš a modlíš a tvá vnitřní bytost tajně shromažďuje rovnováhu. Potom přijde den, kdy uvidíš, že jsi samá rovnováha, neomezená rovnováha.
@@ -293,12 +288,12 @@ Radost nemůže jít za hranice své vlastní existence. Ale Blaženost přichá
 * Co je to Blaženost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:20-cs
   :END:
 
-/Sri Chinmoy:/ Blaženost je Bůh, vše přeměňující Skutečnost. Když se mne zeptáte: „Kdo je Bůh?“, moje odpověď bude: „Blaženost“. Zeptáte-li se mne: „Proč je Bůh?“, moje odpověď bude: „Blaženost“. Zeptáte-li se mne: „Jaký je Bůh?“, moje odpověď bude: „Blaženost“. Zde na zemi není otázky, na kterou by nebylo možné odpovědět pomocí tohoto nejvyššího slova „Blaženost“. Ať už se ptáte na cokoli, je jen jedna správná odpověď a ta zní -- Blaženost.
+/Sri Chinmoy:/ blaženost je bůh, vše přeměňující skutečnost. když se mne zeptáte: „kdo je bůh?“, moje odpověď bude: „blaženost“. zeptáte-li se mne: „proč je bůh?“, moje odpověď bude: „blaženost“. zeptáte-li se mne: „jaký je bůh?“, moje odpověď bude: „Blaženost“. Zde na zemi není otázky, na kterou by nebylo možné odpovědět pomocí tohoto nejvyššího slova „Blaženost“. Ať už se ptáte na cokoli, je jen jedna správná odpověď a ta zní -- Blaženost.
 
 
 
@@ -306,9 +301,9 @@ Radost nemůže jít za hranice své vlastní existence. Ale Blaženost přichá
 * Jak můžeme být za každé situace duchapřítomní?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:21-cs
   :END:
 
 /Sri Chinmoy:/ Jestliže se chceš jako individuální lidská bytost pokaždé správně rozhodnout ve správnou chvíli, bude to nemožné. Žádná lidská bytost se není schopna pokaždé správně rozhodnout ve správný okamžik. Když ale žádáš Nejvyššího, aby jednal v tobě a tvým prostřednictvím dvacet čtyři hodin denně a pokud můžeš cítit, že cokoliv, co děláš během těchto čtyřiadvaceti hodin, nepatří tobě, ale Nejvyššímu, odpovědnost převezme Bůh. Pociťuj, že nepatříš sám sobě, ale jedině Nejvyššímu. Dokážeš-li cítit, že nepatříš sám sobě, ale pouze Bohu, pak je to jeho starost, ne tvoje. Jestliže cítíš, že je to tvoje zodpovědnost, aby ses správně rozhodl ve správný okamžik, bude to tvoje zodpovědnost. Když ale dáš svou zodpovědnost Absolutně Nejvyššímu, stane se to jeho zodpovědností; a jakmile se to stane, potom se ty sám staneš jeho nástrojem. Konajícím je ten, kdo má odpovědnost. Takže když jsi dal odpovědnost Nejvyššímu v sobě, potom se On stává Konajícím a je na něm, aby říkal ty správné věci a dělal správná rozhodnutí uvnitř tebe a tvým prostřednictvím.
@@ -320,9 +315,9 @@ Pokud si udržuješ svou vlastní individualitu a zodpovědnost, Nejvyšší ř�
 * Vděčnost a Vůle Nejvyššího
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SGSM:22e3-cs
+  :genre: section
+  :keywords:
+  :cite-key: sgsm:22e3-cs
   :END:
 
 
@@ -330,12 +325,12 @@ Pokud si udržuješ svou vlastní individualitu a zodpovědnost, Nejvyšší ř�
 * Mohl bys nám říci něco o pokoře a vděčnosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:22-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:22-cs
   :END:
 
-/Sri Chinmoy:/ V duchovním životě jsou absolutně nejdůležitější dvě kvality. Tyto kvality jsou pokora a vděčnost. Pokora a vděčnost. Pokud přidáme přiměřená přídavná jména k těmto slovům, pokryjí větší výšku a hloubku hledajícího v nás, hledajícího ve všech lidských bytostech. Pro pokoru si přeji přidat slovo „upřímný“: upřímná pokora. Pro vděčnost si přeji přidat „oduševnělý“: oduševnělá vděčnost. Vděčnost musí být plná vědomí duše; jinak nejde o vděčnost. Potom se z toho stává lstivý způsob, jak získat cosi navíc od osoby, které svoji vděčnost dáváme najevo. Ale oduševnělá vděčnost se nabízí někomu za to, co jsme přijali. I když nám ta osoba v životě nic víc nedá, ani špetku radosti nebo lásky, vždy zůstaneme plni vděčnosti za to, co pro nás udělala. Budeme vždy vděčni za způsob, jakým byl jeho dar přidán k našemu životu aspirace, nebo za důležitou přeměnu našeho života, a za to, že nás vědomě nesl k Nejvyššímu Zdroji. Když nabízíme oduševnělou vděčnost, je to naše věčné uznání toho, co jsme od někoho přijali na naší věčné cestě Věčností ke břehu Krásy, Světla, Blaženosti a Nekonečna.
+/Sri Chinmoy:/ v duchovním životě jsou absolutně nejdůležitější dvě kvality. tyto kvality jsou pokora a vděčnost. pokora a vděčnost. pokud přidáme přiměřená přídavná jména k těmto slovům, pokryjí větší výšku a hloubku hledajícího v nás, hledajícího ve všech lidských bytostech. pro pokoru si přeji přidat slovo „upřímný“: upřímná pokora. pro vděčnost si přeji přidat „oduševnělý“: oduševnělá vděčnost. Vděčnost musí být plná vědomí duše; jinak nejde o vděčnost. Potom se z toho stává lstivý způsob, jak získat cosi navíc od osoby, které svoji vděčnost dáváme najevo. Ale oduševnělá vděčnost se nabízí někomu za to, co jsme přijali. I když nám ta osoba v životě nic víc nedá, ani špetku radosti nebo lásky, vždy zůstaneme plni vděčnosti za to, co pro nás udělala. Budeme vždy vděčni za způsob, jakým byl jeho dar přidán k našemu životu aspirace, nebo za důležitou přeměnu našeho života, a za to, že nás vědomě nesl k Nejvyššímu Zdroji. Když nabízíme oduševnělou vděčnost, je to naše věčné uznání toho, co jsme od někoho přijali na naší věčné cestě Věčností ke břehu Krásy, Světla, Blaženosti a Nekonečna.
 
 Kristus a všichni duchovní Mistři bez výjimky říkají, že pro nejrychlejší a nejjistější pokrok v duchovním životě je pokora stálou nezbytností. Je to nezbytné proto, abychom mohli spatřit tvář našeho Milovaného Nejvyššího, Vnitřního Pilota. Vnitřní pokora a vděčnost jsou naším nejvyšším dosažením. Když cítíte pokoru, cítíte, že vaše tělo, vitálno a mysl poslouchají diktátu vaší duše. Cítíte-li se plni vděčnosti, upřímné vděčnosti, oduševnělé vděčnosti, dosáhli jste nejvyššího dosažení, které může vědomí země nabídnout vědomí Nebe.
 
@@ -344,12 +339,12 @@ Kristus a všichni duchovní Mistři bez výjimky říkají, že pro nejrychlej�
 * Jak mohu mít v každodenním životě více vděčnosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:23-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:23-cs
   :END:
 
-/Sri Chinmoy:/ Dělej jedinou věc: srovnej sám sebe s tím, kterým jsi byl před osmi lety. Mnoho dobrých i špatných věcí se ti přihodilo za těch osm let, ale celkově vzato uvidíš, že před osmi lety jsi nebyl ani u nohou stromu realizace. Byl jsi miliony mil daleko od své realizace. Nyní nejenom že stojíš u paty stromu, ale už jsi také vyšplhal do značné výšky. Možná, že tě při tom napadaly všechny možné druhy obav, ale jsi zde stále. Někteří lidé při šplhání po stromu realizace dostali strach a spadli dolů, znovu to opakuji -- jiní lidé jsou teď plni strachu a nemohou šplhat výše. Strach, pochybnosti a úzkost za tebou přijdou, ale ty se musíš zeptat své vnitřní bytosti: „Jsem na tom samém místě jako před osmi lety?“ Odpověď bude znít: „Ne. Tenkrát jsem nebyl ani poblíž stromu realizace.“ V tomto okamžiku přijde vděčnost.
+/Sri Chinmoy:/ dělej jedinou věc: srovnej sám sebe s tím, kterým jsi byl před osmi lety. mnoho dobrých i špatných věcí se ti přihodilo za těch osm let, ale celkově vzato uvidíš, že před osmi lety jsi nebyl ani u nohou stromu realizace. byl jsi miliony mil daleko od své realizace. nyní nejenom že stojíš u paty stromu, ale už jsi také vyšplhal do značné výšky. možná, že tě při tom napadaly všechny možné druhy obav, ale jsi zde stále. někteří lidé při šplhání po stromu realizace dostali strach a spadli dolů, znovu to opakuji -- jiní lidé jsou teď plni strachu a nemohou šplhat výše. strach, pochybnosti a úzkost za tebou přijdou, ale ty se musíš zeptat své vnitřní bytosti: „jsem na tom samém místě jako před osmi lety?“ odpověď bude znít: „Ne. Tenkrát jsem nebyl ani poblíž stromu realizace.“ V tomto okamžiku přijde vděčnost.
 
 Musíme vidět pozitivní aspekt toho, čeho jsme dosáhli a do čeho jsme vrostli. Vždycky říkám, že minulost je prach. Minulost nám dala frustraci, ne osvícení. Zároveň ale musíme vidět rozdíl mezi minulostí, která je prachem a přítomností, která prachem není. Učinili jsme hezkých pár kroků vpřed za těch několik uplynulých let. Takže jestliže jsme se stali něčím, čím jsme před tím nebyli, potom je zde možnost, že se v budoucnosti staneme něčím nekonečně lepším. To je důvod, proč nabízíme Nejvyššímu svou vděčnost.
 
@@ -358,9 +353,9 @@ Musíme vidět pozitivní aspekt toho, čeho jsme dosáhli a do čeho jsme vrost
 * Jak mohu pocítit nezbytnost vděčnosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:24-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:24-cs
   :END:
 
 /Sri Chinmoy:/ Nezbytnost vděčnosti můžeš pocítit tehdy, jestliže cítíš, že vděčnost je tvým živoucím dechem. Pociťuj, že kdyby tvůj dech vděčnosti uhasl, byl bys mrtev. Nabízej vděčnost po každou letmou sekundu, pociťuj ji jako živoucí dech.
@@ -373,9 +368,9 @@ Na zemi není nic tak důležitého nebo významného, jako vděčnost. Co se t�
 * Jak můžeme nabízet a zvyšovat svoji vděčnost k tobě a k Nejvyššímu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:25-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:25-cs
   :END:
 
 /Sri Chinmoy:/ Vděčnost je nejdrahocennější věc, kterou lidská bytost může mít. Má-li někdo milion dolarů a někdo jiný špetku vděčnosti, ten se špetkou vděčností je v očích Nejvyššího mnohem výše. Vděčnost je nejčistší věc, kterou můžeme mít. Je uvnitř nás nesmrtelná. Můžeme-li nabídnout Bohu cokoliv nesmrtelného, oduševnělého a významného, potom je to vrcholně důležité.
@@ -390,9 +385,9 @@ Každé ráno byste měli Bohu nabízet vděčnost za svoji existenci. Měli bys
 * Je zde vděčnost i po té, kdy realizuješ Nejvyššího a ztotožníš se s Ním?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:26-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:26-cs
   :END:
 
 /Sri Chinmoy:/ I když realizujete Nejvyšší Vědomí, vděčnost stále zůstává. Vděčnost je sladkost a blaženost. Blaženost zakoušíme bez ohledu na to, na které úrovni vědomí se nacházíme. Vděčnost je největší blažeností Nebe i země. Když kosmičtí bohové dostanou něco od Nejvyššího, nabízejí blaženost a vděčnost.
@@ -407,9 +402,9 @@ Vděčnost je v realizaci i v projevení. Zůstáváte-li v nejvyšší realizac
 * Závisí aspirace na mé vůli, nebo závisí na Boží Vůli?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:27-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:27-cs
   :END:
 
 /Sri Chinmoy:/ Závisí na Vůli Boha a také na tvé vlastní oddanosti duchovnímu životu. Obojí jde ruku v ruce. Na začátku se musíš podílet na hře. Musíš vstávat brzo ráno, v šest nebo sedm hodin a musíš meditovat. Potom ale přijde čas, kdy uvidíš, že je to jen jeho Vůle, která působí uvnitř tebe a tvým prostřednictvím. Na začátku můžeš cítit, že je to z padesáti procent tvoje a z padesáti procent Boží Vůle. Pokud ale jdeš hluboko dovnitř, uvidíš, že je to z devadesáti devíti procent Boží Vůle. Později si uvědomíš, že je to ze sta procent Boží Vůle. Ale na začátku musíš jednat jako dobrý student. Musíš brzo ráno vstát a pracovat na svém vnitřním studiu. V tu chvíli cítíš, že aspirace závisí na tvé vůli.
@@ -419,12 +414,12 @@ Vděčnost je v realizaci i v projevení. Zůstáváte-li v nejvyšší realizac
 * Proč nemůžeš lidi prostě probudit a dát jim aspiraci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:28-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:28-cs
   :END:
 
-/Sri Chinmoy:/ Když se na tebe podívám jako na jednotlivce, slyším z tvého srdce jedno poselství a z tvých úst jiné. Ve vnitřním světě se někdo dotkne mých nohou a řekne: „Ty jsi moje jediná Skutečnost. Spatřil jsem tvoji transcendentální Podobu. Chystal jsem se ukončit svůj život, ale ty jsi mne zachránil.“ Když ale promluvím na vnější úrovni k témuž člověku, bude na mne hrubý způsobem, který si ani nedovedeš představit.
+/Sri Chinmoy:/ když se na tebe podívám jako na jednotlivce, slyším z tvého srdce jedno poselství a z tvých úst jiné. ve vnitřním světě se někdo dotkne mých nohou a řekne: „Ty jsi moje jediná Skutečnost. Spatřil jsem tvoji transcendentální Podobu. Chystal jsem se ukončit svůj život, ale ty jsi mne zachránil.“ Když ale promluvím na vnější úrovni k témuž člověku, bude na mne hrubý způsobem, který si ani nedovedeš představit.
 
 Jeden den jsem Spasitel. Tři dni po té jsem nejhorším člověkem na zemi, protože jsem mu zabránil, aby si vzal život, nebo jsem nesplnil jeho touhy. Proč ale cítí, že je to moje schopnost, která ho zachránila, nebo nesplnila jeho vitální požadavky? Je to sám Nejvyšší, který dává příkaz. Ale jednotlivec nemůže uvěřit, že je to Vůle Nejvyššího, takže proklíná mne a je hrubý na mne.
 
@@ -435,9 +430,9 @@ Jste-li ztotožněni s Vůlí Nejvyššího, můžete dělat i ty nejneuvěřite
 * Jak můžeme poznat, zda byl úspěch nebo neúspěch Vůlí Nejvyššího? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:29-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:29-cs
   :END:
 
 /Sri Chinmoy:/ Nejvyšší ve své Mysli neuchovává úspěch či neúspěch. Zachovává pouze zkušenost. Když ty něco uděláš a neuspěješ, budeš velmi smutný a rozrušený. Měl bys ale z nitra cítit, že budeš šťastný stejnou měrou bez ohledu na výsledek. Musíš cítit, že úspěch nebo selhání není to, co chceš, je to pouze zkušenost, kterou potřebuješ ke svému růstu. Potom bude výsledek v souladu s božskou Vůlí. Jinak budeš plakat pro úspěch a v případě selhání se budeš cítit bídně. Takže pokud něco děláš a jestliže jsi inspirován z nitra, budeš spokojen s úspěchem i neúspěchem. Ať ti chce dát božská síla jakýkoli zážitek, ber jej jako zkušenost.
@@ -447,9 +442,9 @@ Jste-li ztotožněni s Vůlí Nejvyššího, můžete dělat i ty nejneuvěřite
 * Jaký je význam ticha?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:30-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:30-cs
   :END:
 
 /Sri Chinmoy:/ Zde zachováváme božské ticho a nikoli lidské ticho. Při lidském způsobu ticha můžeme mít zavřená ústa, ale mysl stále povídá, hubuje a uráží. Mysl dělá cokoliv. Ale jestliže můžeme zachovat božské ticho, okamžitě z něj získáme Světlo od Boha. Potom můžeme toto Světlo nabízet lidem, kteří nám způsobují problémy.
@@ -459,9 +454,9 @@ Jste-li ztotožněni s Vůlí Nejvyššího, můžete dělat i ty nejneuvěřite
 * Chtěl bych znát nejlepší a nejefektivnější způsob růstu vědomí a způsob, jak si udržet jeho úroveň.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:31-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:31-cs
   :END:
 
 /Sri Chinmoy:/ Přeji si říci, že tvé vědomí roste pomocí tvého vnitřního pláče a pro udržení úrovně tvého nejvyššího vědomí musíš nastolit značnou čistotu vitálna. Nejprve jdeš nahoru se svým vnitřním pláčem, se svou aspirací. Jak tam potom zůstaneš? Právě pomocí čistoty ve vitálnu, která ti umožní zde nadobro zůstat.
@@ -471,9 +466,9 @@ Jste-li ztotožněni s Vůlí Nejvyššího, můžete dělat i ty nejneuvěřite
 * Je pro hledajícího nejdůležitější vstoupit do Univerzálního Vědomí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:32-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:32-cs
   :END:
 
 /Sri Chinmoy:/ Pro hledajícího -- poté, co vstoupil do Univerzálního Vědomí -- je nejdůležitější ztělesnit vědomí Světla, vědomí Blaženosti, vědomí Síly a vědomí Pravdy,
@@ -482,9 +477,9 @@ Jste-li ztotožněni s Vůlí Nejvyššího, můžete dělat i ty nejneuvěřite
 * Co je to vědomí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:33-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:33-cs
   :END:
 
 /Sri Chinmoy:/ Vědomí je spojující linka mezi zemí a Nebem. Vědomí spojuje pláč konečného s Úsměvem Nekonečného. Vědomí je spojující linkou mezi aspirující skutečností země s usmívající se skutečností Nebe. Je to most mezi rostoucí skutečností a skutečností, která je věčná. Když jsme zde na zemi, rosteme. Když jsme v Nebi, potom jenom věčně jsme.
@@ -493,9 +488,9 @@ Jste-li ztotožněni s Vůlí Nejvyššího, můžete dělat i ty nejneuvěřite
 * Jaký je rozdíl mezi vědomím a stavem, kdy jsme si něčeho vědomi?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:34-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:34-cs
   :END:
 
 /Sri Chinmoy:/ Když jste si něčeho vědomi, můžete se podívat kolem sebe, jste si vědomi přítomnosti dalšího člověka, místnosti, toho, jak stojíte, sedíte, nebo mluvíte. Vědomí je ale daleko hlubší a širší. Když je zde vědomí, není třeba subjektu a objektu. Vědomí pouze existuje. Jednotlivec se v něm rozplývá a ztotožňuje se s univerzální Skutečností. Není zde oddělenost jednotlivce, vše existující splývá s Jediným. Vědomí není osobní kvalita, ale všeobjímající kosmická identita.
@@ -505,12 +500,12 @@ Jste-li ztotožněni s Vůlí Nejvyššího, můžete dělat i ty nejneuvěřite
 * Měli bychom se snažit udržovat své pracovní prostředí čisté a upravené, nebo můžeme stejně dobře pracovat i v nepořádku?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:35-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:35-cs
   :END:
 
-/Sri Chinmoy:/ Když jsem byl mladým mužem, pracoval jsem ve svém prvním zaměstnání jako elektrikář. Můj šéf došel k závěru, že na tomto světě stvořil Bůh jen dva druhy lidí: ty, kteří dělají nepořádek a ty, kteří jej uklízejí. Musíme se starat o dokonalost. Řekl jsi, že bychom měli udržovat své pracovní prostředí čisté. S tím plně souhlasím. Když uklidíte před tím, než začnete pracovat, můžete říci, že jste ztratili deset minut času, ale ve skutečnosti toho zvládnete více. Tyto věci mohu říkat stokrát, ale lidé, kteří nemají smysl pro čistotnost pocházející z nitra, nebudou nikdy doopravdy čistí. Modlím se za své žáky, aby se sprchovali. Šest nebo sedm tak stále nečiní. Když v člověku není čistotnost, jak mu ji chcete vnutit?
+/Sri Chinmoy:/ když jsem byl mladým mužem, pracoval jsem ve svém prvním zaměstnání jako elektrikář. můj šéf došel k závěru, že na tomto světě stvořil bůh jen dva druhy lidí: ty, kteří dělají nepořádek a ty, kteří jej uklízejí. Musíme se starat o dokonalost. Řekl jsi, že bychom měli udržovat své pracovní prostředí čisté. S tím plně souhlasím. Když uklidíte před tím, než začnete pracovat, můžete říci, že jste ztratili deset minut času, ale ve skutečnosti toho zvládnete více. Tyto věci mohu říkat stokrát, ale lidé, kteří nemají smysl pro čistotnost pocházející z nitra, nebudou nikdy doopravdy čistí. Modlím se za své žáky, aby se sprchovali. Šest nebo sedm tak stále nečiní. Když v člověku není čistotnost, jak mu ji chcete vnutit?
 
 Kdo nese odpovědnost za udržování čistoty? Chlapci nebo dívky? Chlapcům jednak brání mužská pýcha, aby něco umývali a potom to ani neumí. Chlapci cítí, že by to měly dělat dívky. Dívky cítí, že tato neschopnost chlapců je neomluvitelná. Je zde mnoho věcí, které chlapci neumí dělat, zatímco dívky ano. Chlapci musím dát na úklid jeho pokoje dvacet čtyři hodiny, ale dívka to zvládne za pět minut. Co jemu zabere dvacet čtyři hodin, ona zvládne v pěti minutách. A jeho smysl pro čistotu se bude od jejího lišit. On řekne, že jeho pokoj je uklizen. Když ale do jeho pokoje vstoupíte, budete překvapeni.
 
@@ -523,9 +518,9 @@ Asi před třemi týdny jsem navštívil naši tiskárnu. Byl tam hrozný nepoř
 * Mohl bys nám prosím říci něco o sebezpytování a sebepodceňování? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:36-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:36-cs
   :END:
 
 /Sri Chinmoy:/ Mezi sebezpytováním a sebepodceňováním je velký rozdíl. Sebezpytování je předchůdcem sebeodhalování. Kdo jsem? Kvůli čemu jsem tady? Velký duchovní Mistr jménem Ramana Mahariši z Jižní Indie obvykle kladl tyto otázky. Jestliže nechcete vědět, kým jste, jak byste potom mohli vědět, kvůli čemu tady jste?
@@ -539,9 +534,9 @@ Sebezpytování, sebezkoumání vede k sebeodhalování. Sebepodceňování vede
 * Když cítíme, že se naše intuitivní kvality zlepšují, je to tvé dílo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:37-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:37-cs
   :END:
 
 /Sri Chinmoy:/ Je to vaše vlastní božskost, která vychází do popředí. Samozřejmě, s vaší božskostí je zde moje jednota, moje neoddělitelná jednota. Snáším shora milost, ale vaše úsilí tuto věc urychluje. Takže chci dát padesát procent upřímnému hledajícímu ve vás.
@@ -551,9 +546,9 @@ Sebezpytování, sebezkoumání vede k sebeodhalování. Sebepodceňování vede
 * Mohl bys nám prosím vysvětlit psychické emoce?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:38-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:38-cs
   :END:
 
 /Sri Chinmoy:/ Psychická bytost může existovat jen v lidských bytostech. Duše je ve všem; ve stěně, uvnitř stolu, přítomnost duše můžete vidět kdekoliv. Ale psychickou bytost nemůžete spatřit v kousku vlny nebo ve zvířeti. Pouze když lidská bytost vstupuje do existence, uvidíte záblesk psychické bytosti. Tato psychická bytost je nesmrtelným dítětem uvnitř vás. Je zástupcem naší vnitřní duše. Má nekonečné množství možností, jak nás vést do nejvyššího, do nejčistšího, do Věčnosti. Psychická bytost přebývá uvnitř našeho srdce. Je vší čistotou, vším světlem, a vší blažeností.
@@ -565,9 +560,9 @@ Nejprve dostaneme záblesk této bytosti a postupně vstupujeme do její oblasti
 * Co je to prostota, upřímnost a pokora?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:39-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:39-cs
   :END:
 
 /Sri Chinmoy:/ Mít prostotu, znamená běžet k Bohu bez temnoty, obav nebo nečistoty. Prostota běží směrem k cíli. Upřímnost má ten hledající, který chce pouze cíl a ne květiny a ovoce rostoucí podél cesty. Pokora přichází, když hledající dosahuje cíle. On ví, že to nebyly jeho schopnosti, které ho přinesly do cíle. Prostota je krása; upřímnost je povinnost, a všechny společně plodí pokoru. Pokora je Bůh-skutečnost, Bůh-jednota a Bůh-dokonalost. Pokora neztělesňuje jenom Rozlehlost, ale také Nekonečnost, Věčnost. Není to něco, čím se můžeme stát, je to Bůh-Skutečnost.
@@ -577,12 +572,12 @@ Nejprve dostaneme záblesk této bytosti a postupně vstupujeme do její oblasti
 * Velice rád bych pracoval na přijetí Božího vnějšího těla, světa, a také na přijetí mých konfliktů. Jak s tím mohu začít?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:40-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:40-cs
   :END:
 
-/Sri Chinmoy:/ Jak přijmout sebe sama a jak přijmout vnější svět? Než odpovíš na tuto otázku, zkus se zeptat takto: „Proč mám přijímat?“ Tvůj úkol bude snazší. A jak přijmout? Je zde mnoho způsobů, ale všechny budou neplodné, jestliže nevíš, proč přijímat lidstvo, nebo sebe sama.
+/Sri Chinmoy:/ jak přijmout sebe sama a jak přijmout vnější svět? než odpovíš na tuto otázku, zkus se zeptat takto: „Proč mám přijímat?“ Tvůj úkol bude snazší. A jak přijmout? Je zde mnoho způsobů, ale všechny budou neplodné, jestliže nevíš, proč přijímat lidstvo, nebo sebe sama.
 
 Nejprve musíš přijmout sám sebe, potom můžeš pomýšlet na přijetí lidstva. Proč bys měl přijímat sám sebe? Měl bys přijmout sám sebe, protože Pán, který je vší Láskou, vším Milosrdenstvím, vším Soucitem, veškerou Ochranou a vší Silou, přijal a použil tebe jako svůj vybraný nástroj. On tě přijal; to je hlavní důvod, proč bys měl přijmout sám sebe. Nekonečné přijalo konečné a pomocí něj chce vyjádřit samo sebe. Jaký větší důvod potřebuješ, aby ses cítil božsky hrdý? Když pocítíš, že tě Nekonečné přijalo ke svému vyjádření, potom jsi s nejhlubší radostí a pýchou připraven k přijetí sebe sama.
 
@@ -600,9 +595,9 @@ Jak přijmout? Říkám ti, budeš schopen přijmout svět změnou svého postoj
 
 * Když nám někdo ublíží, jak poznáme, kdy máme odpustit a kdy trestat?
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:41-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:41-cs
   :END:
 
 /Sri Chinmoy:/ Jsou dva druhy lidí. Jedni jsou jako opice nebo škorpióni. Když opici dovolíme, aby se k nám přiblížila, ihned nás pokouše a poškrábe. Dotkneme-li se škorpióna, uštkne nás svým žahadlem. Když na něj sáhneme ještě jednou, znovu nás uštkne. V tomto světě musíme odpozorovat, zda se nás někdo nepokouší zničit. Jestliže se nevědomost nezmenšuje, musíme se chránit.
@@ -616,9 +611,9 @@ Ale jestliže má někdo povahu škorpióna nebo opice, můžeme mu dát libovol
 * Rád bych, kdybys nám mohl popsat Úsměv Nejvyššího.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:42-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:42-cs
   :END:
 
 /Sri Chinmoy:/ Když je Nejvyšší v neprojevené, nemanifestované podobě, je pouze Tváří, ale když je projeven, nebo když chce manifestovat sám sebe, ukazuje svůj úsměv. On žije, On působí, On je dynamický, On je aktivní. Toto můžeme poznat, jenom když vidíme úsvit úsměvu na Jeho Tváři. Mluvíme-li o Nejvyšším, musíme vědět, že On je jak mužského, tak i ženského rodu. Toto je velmi těžké pochopit naší lidskou myslí. V mužské podobě je statický, je za projevením, třebaže do něj vstupuje. Pokud do projevení vstupuje, děje se tak pomocí jeho ženské podoby. V naší indické tradici se ženská podoba nazývá Prakriti, nebo Přírodní Síla, nebo Mateřský aspekt Nejvyššího. Když Přírodní Síla pracuje ve fyzickém světě, vidíme činnost Bytosti Nejvyššího. A když se tato činnost odehrává, vidíme spontánní radost v celé projevené podobě Nejvyššího. Tato radost vyjadřuje sama sebe nejzřetelněji na Tváři Nejvyššího jako úsměv. Takže můžeme říci, že Úsměv Nejvyššího je Žijící Silou nebo Tvořivostí Nejvyššího. Tento úsměv je skutečným Dechem univerzálního Vědomí stejně jako Dechem Nejvyššího samotného. Jestliže zde není úsměv, není zde ani dech a jestliže zde není dech, stvoření zůstává neprojeveno. Takže Stvoření začíná pracovat v Úsměvu Nejvyššího.
@@ -628,9 +623,9 @@ Ale jestliže má někdo povahu škorpióna nebo opice, můžeme mu dát libovol
 * Jaký je rozdíl mezi připoutáním a soucitem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:43-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:43-cs
   :END:
 
 /Sri Chinmoy:/ V případě připoutání jednáme podmíněně, v případě soucitu jednáme otevřeně, věčně a nepodmíněně. Připoutání je jednání v sebeklamu; zatímco soucit je Bohem inspirovaná, Bohem odhalující a Bohem projevená činnost.
@@ -640,9 +635,9 @@ Ale jestliže má někdo povahu škorpióna nebo opice, můžeme mu dát libovol
 * Kolik spánku potřebuje hledající?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:44-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:44-cs
   :END:
 
 /Sri Chinmoy:/ To zcela závisí na tom, kolik máš síly vůle k vytvoření vnímavosti ve fyzickém těle. Jestliže tvá síla vůle může vytvořit vnímavost ve fyzickém vědomí, stačí jen jedna či dvě hodiny, nebo dokonce i méně, je-li to nezbytné. Jestliže tuto vnímavost nemůžeš vytvořit, je vždy vhodnější si odpočinout. Jinak nebude řádně pracovat vědomí. A když nepracuje vědomí, jsme horší než zvířata. Ono nejenom že nepracuje, co horšího, stává se destruktivní. Destrukce se odehrává v podobě negativních pocitů k čemukoliv, i k tvém vlastním bytí. Pokud pěstuješ negativní pocity, je to skutečná smrt.
@@ -652,9 +647,9 @@ Ale jestliže má někdo povahu škorpióna nebo opice, můžeme mu dát libovol
 * Lze porovnat Boží a lidské zákony?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:45-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:45-cs
   :END:
 
 /Sri Chinmoy:/ Boží zákon je vykonáván jeho Světlem Soucitu a lidský zákon je vykonáván soudní mocí. Soudní moc je lidský zákon, kdežto Světlo Soucitu je božský Zákon. Když udělám něco špatného, pokusí se mne lidský zákon potrestat, ale trest není konečnou odpovědí. V případě Božího zákonu, pokud udělám něco špatného, například něco ukradnu, se dotkne Soucit Nejvyššího kořene a způsobí, že si uvědomím, jak je krádež špatná a že bych měl pracovat, abych tu věc získal poctivým způsobem. Takže Boží Soucit pracuje tak, že nám pomáhá se změnit, kdežto lidský zákon povahu člověka změnit nemůže. Je to pouze Božský Zákon, který osvěcuje, který může změnit a transformovat lidskou přirozenost. Lidská spravedlnost je okamžitou odpovědí na to, co jste udělali -- je to akce a reakce. Božský zákon vstoupí dovnitř kořene nevědomosti a přemění jej.
@@ -664,26 +659,11 @@ Ale jestliže má někdo povahu škorpióna nebo opice, můžeme mu dát libovol
 * Bůh se projevuje celým svým stvořením. Jak můžeme porozumět Bohu pomocí jediné části tohoto stvoření?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SGSM:46-cs
+  :genre: qa
+  :keywords:
+  :cite-key: sgsm:46-cs
   :END:
 
 /Sri Chinmoy:/ Vezměme Boha jako širý oceán. Vy víte, že oceán je složen z drobných kapek. Miliony, miliardy a biliony kapek dají dohromady oceán. Když víme, jak se ztotožnit s nejmenší kapkou i s celým oceánem, můžeme vidět Boha uvnitř konečného a také uvnitř Nekonečného. Vidět a cítit Boha nám umožňuje právě síla jednoty s nejmenší kapkou v oceánu. Můžeme-li vybudovat jednotu s konečným, můžeme vidět, jak vypadá Nekonečné.
 
 Jestliže chceme vidět Boha v jeho rozlehlém stvoření jako stvoření samo, můžeme tak učinit. Ale na začátku může být snazší oddělit Boha od jeho stvoření a ztotožnit se jen s jeho malou částí. I v této malé části, která je pro nás nyní viditelná, vidíme nekonečnou proměnlivost. Co bychom potom mohli udělat s celým Božím stvořením? Naše mysl ho vůbec nebude schopna pochopit. Pro naši omezenou lidskou mysl je i konečná pozemská skutečnost nekonečná. Můžeme-li začít rozumět tomuto malému kousku Božího nesmírně rozlehlého stvoření, můžeme říci, že jsme učinili značný vnitřní pokrok.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

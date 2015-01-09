@@ -1,20 +1,15 @@
-#+TITLE: Proudícím slzám srdce mé matky a překypujícím úsměvům duše mé matky
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Proudícím slzám srdce mé matky a překypujícím úsměvům duše mé matky
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2000
-  :PUBLISHER: (knižně nevydáno)
-  :CITE-KEY: STMH-cs
-  :GENRE: poem, story
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2000
+  :publisher: (knižně nevydáno)
+  :cite-key: STMH-cs
+  :genre: poem, story
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Proudícím slzám...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: STMH:1-cs
+  :genre: poem
+  :keywords:
+  :cite-key: stmh:1-cs
   :END:
 
 
@@ -44,9 +39,9 @@ duše mé matky
 * Zdědil jsem
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: STMH:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: stmh:2-cs
   :END:
 
 
@@ -82,9 +77,9 @@ duše mé matky
 * Zkušenosti raného dětství
 
   :PROPERTIES:
-  :GENRE: stories
-  :KEYWORDS:
-  :CITE-KEY: STMH:3-cs
+  :genre: stories
+  :keywords:
+  :cite-key: stmh:3-cs
   :END:
 
 
@@ -92,9 +87,9 @@ duše mé matky
 * Modlitba mé matky
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:4-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:4-cs
   :END:
 
 
@@ -107,9 +102,9 @@ Pro oslavu stého výročí narození mé matky jsme použili mnoho soch a obraz
 * Narodil se Madal
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:5-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:5-cs
   :END:
 
 
@@ -117,7 +112,7 @@ Narodil jsem se v našem vesnickém domě. Tenkrát lidé nechodili do nemocnice
 
  Moje maminka řekla: "Ne, mé dítě přinese ohromné jméno a slávu do naší rodiny."
 
- O týden později moje babička zkomponovala kuplet, ve kterém se pravilo: "Člověk zrozený v Bhadra obrátí všechno vzhůru nohama." Srpen se v Bengálsku nazývá "Bhadra", ale v dialektu Chittagong se říká "Bhada". Báseň tedy zněla:
+ O týden později moje babička zkomponovala kuplet, ve kterém se pravilo: "Člověk zrozený v bhadra obrátí všechno vzhůru nohama." srpen se v bengálsku nazývá "bhadra", ale v dialektu chittagong se říká "bhada". báseň tedy zněla:
 
 /Ek bhada jar/
 /Ut put tar/
@@ -134,9 +129,9 @@ Dali mi jméno Madal, což znamená "buben", ale mé úplně první jméno, mé 
 * Buben
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:6-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:6-cs
   :END:
 
 
@@ -149,9 +144,9 @@ Během mého dětství jsem byl známý pod něžnou Bengálskou přezdívkou Ma
 * Příběhy z Mahábháraty
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:7-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:7-cs
   :END:
 
 
@@ -174,9 +169,9 @@ Můj úsměv ale vždy překonal její srdce. Jak rychle mne začala peskovat, t
 * Moje první lekce angličtiny
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:8-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:8-cs
   :END:
 
 
@@ -189,9 +184,9 @@ Když mi byly čtyři roky, moje nejstarší sestra, Arpita, řekla, že nemám 
 * Mytí nohou mého tatínka
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:9-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:9-cs
   :END:
 
 
@@ -202,9 +197,9 @@ Každý víkend brzo ráno přišla moje maminka se sklenicí vody za tatínkem 
 * Opice
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:10-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:10-cs
   :END:
 
 
@@ -217,9 +212,9 @@ Když jsem byl ještě dítě, měli jsme psa jménem Bhaga, bílého zajíce, m
 * Komu se chce učit?
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:11-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:11-cs
   :END:
 
 
@@ -244,9 +239,9 @@ Když se můj tatínek stal vlastníkem a ředitelem banky, zůstával celý tý
 * Moje maminka v očích lva
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:12-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:12-cs
   :END:
 
 
@@ -269,9 +264,9 @@ Když mi bylo deset let, navštívil jsem strýce z maminčiny strany, který ž
 * Povídání o kuchyni
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:13-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:13-cs
   :END:
 
 
@@ -288,9 +283,9 @@ Ještě před tím, než jsem přijal duchovní život, jsem jedl ryby a maso, c
 * Vzpomínky
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:14-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:14-cs
   :END:
 
 
@@ -303,9 +298,9 @@ Moje maminka se velmi zlobila, když slyšela, jak lidé někoho kritizují. V j
 * Víra v Boha, ne v doktory
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:15-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:15-cs
   :END:
 
 
@@ -316,15 +311,15 @@ Moje maminka věřila v Boha, ale nikdy nevěřila doktorům. Kdykoli někdo z r
 * Jak moje maminka léčila neštovice
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:16-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:16-cs
   :END:
 
 
 Když mi byly čtyři roky, dostal jsem tu nejhorší možnou formu neštovic. Neštovice zasáhly mé oči, uši, nos -- všechno. Doktor řekl mamince, že je to otázka týdnů. Buď zemřu, nebo oslepnu, nebo ohluchnu. Bylo to velmi vážné.
 
- Moje maminka řekla: "S Božím požehnáním a mými modlitbami nedovolím, aby můj nejmladší syn zemřel, nebo oslepl či ohluchl." Doktor na to: "Já vím, že nechcete, aby váš syn zemřel, ale on umírá. Naše léky jsou na tohle nedostatečné."
+ Moje maminka řekla: "s božím požehnáním a mými modlitbami nedovolím, aby můj nejmladší syn zemřel, nebo oslepl či ohluchl." doktor na to: "Já vím, že nechcete, aby váš syn zemřel, ale on umírá. Naše léky jsou na tohle nedostatečné."
 
  Maminka přijala výzvu. Umyla mi tvář kokosovým mlékem a její modlitba a kokosové mléko mne zachránilo. Nezemřel jsem, ani jsem neoslepl nebo neohluchl. Na mé tváři možná zůstaly po této nemoci nějaké stopy, ale mohlo to dopadnout nekonečně hůře, kdyby mne neštovice neopustily. Byl jsem vyléčen maminčinou modlitbou k Bohu a její něžnou péčí. Zachránila mi život.
 
@@ -333,9 +328,9 @@ Když mi byly čtyři roky, dostal jsem tu nejhorší možnou formu neštovic. N
 * „Moje modlitba je silnější než neštovice”
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:17-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:17-cs
   :END:
 
 
@@ -354,9 +349,9 @@ V průběhu mé nemoci byla chvíle, kdy se můj stav zhoršoval den ode dne. Ne
 * Doktor nebo okultista
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:18-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:18-cs
   :END:
 
 
@@ -377,9 +372,9 @@ Jednou byl můj bratr Chitta velmi vážně nemocen a s ním také syn příbuzn
 * Léčení tyfové horečky
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:19-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:19-cs
   :END:
 
 
@@ -394,9 +389,9 @@ Moje sestra Lily jednou dostala velmi nebezpečnou tyfovou horečku. Vesnický d
 * Přání mé maminky
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:20-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:20-cs
   :END:
 
 
@@ -411,9 +406,9 @@ Takový byl vnitřní pláč mé maminky.
 * Lidská matka a Božská matka
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:21-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:21-cs
   :END:
 
 
@@ -444,17 +439,17 @@ Byl mi pouze jeden rok a tři měsíce, když můj nejstarší bratr, Hriday, op
 * Jeden bratr v Ašrámu vystřídal druhého
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:22-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:22-cs
   :END:
 
 
 Když se můj nejstarší bratr vrátil na pár měsíců do Chittagongu, jiný bratr odejel místo něj do Ašrámu. Stalo se tak proto, protože bratr Hriday slíbil mamince, že pokud ona nebo tatínek zemře, vrátí se na několik měsíců domů. Když náš tatínek odešel, Hriday se na osm nebo deset měsíců s dovolením Božské Matky vrátil domů. Dali mu své svolení, a bratr jim dal svůj slib.
 
- Moje maminka byla velmi nemocná, když Hriday dojel domů. Celá rodina věděla, že bude brzo následovat tatínka na onen svět. Chitta však přesto chtěl odjet do Sri Aurobindova Ašrámu. Maminka řekla: "Umírám. Je to otázka několika měsíců. Nebudeš se cítit smutně, když umřu v tvé nepřítomnosti?" Chitta okamžitě odpověděl: "Máš pravdu, nikam nepojedu." Maminka se ještě zeptala: "Koupil sis už jízdenku?" A on na to: "Už dávno jsem si ji koupil, ale nepojedu. Nechci, abys zemřela a já byl někde jinde." Maminka byla velmi šťastná, že Chitta odložil svůj odjezd, ale zároveň věděla, že až odejde, všechny její děti odejdou do Ašrámu. Chitta už dávno zapomněl na datum, kdy měl původně odejet a už se o tom nikdy nezmínil. Maminka ale nezapomněla. A právě v ten den řekla Chittovi: "Vyslyš prosím moji žádost." Chitta: "Jaká je tvá žádost?" Maminka: "Původně jsi chtěl dnes odjet do Ašrámu. Chtěla jsem, abys zůstal. Jsem tvoje matka, ale vím, že Božská Matka se o vás o všechny postará.
+ Moje maminka byla velmi nemocná, když Hriday dojel domů. Celá rodina věděla, že bude brzo následovat tatínka na onen svět. Chitta však přesto chtěl odjet do Sri Aurobindova Ašrámu. Maminka řekla: "umírám. je to otázka několika měsíců. nebudeš se cítit smutně, když umřu v tvé nepřítomnosti?" chitta okamžitě odpověděl: "máš pravdu, nikam nepojedu." maminka se ještě zeptala: "koupil sis už jízdenku?" a on na to: "už dávno jsem si ji koupil, ale nepojedu. nechci, abys zemřela a já byl někde jinde." maminka byla velmi šťastná, že chitta odložil svůj odjezd, ale zároveň věděla, že až odejde, všechny její děti odejdou do ašrámu. chitta už dávno zapomněl na datum, kdy měl původně odejet a už se o tom nikdy nezmínil. maminka ale nezapomněla. a právě v ten den řekla chittovi: "vyslyš prosím moji žádost." chitta: "jaká je tvá žádost?" maminka: "Původně jsi chtěl dnes odjet do Ašrámu. Chtěla jsem, abys zůstal. Jsem tvoje matka, ale vím, že Božská Matka se o vás o všechny postará.
 
- Bratr na to: "Ale já jsem už prodal jízdenku". Maminka opáčila: "Musíš si koupit novou."
+ Bratr na to: "ale já jsem už prodal jízdenku". maminka opáčila: "Musíš si koupit novou."
 
  To bylo přání jejího srdce. Řekla: "Nyní je tady tvůj nejstarší bratr a pro tebe nastal čas odjet, abys mohl být u Božské Matky." Maminka nutila mého bratra, aby jel do Ašrámu. Odejel ještě týž den a maminka skonala za několik měsíců poté.
 
@@ -463,9 +458,9 @@ Když se můj nejstarší bratr vrátil na pár měsíců do Chittagongu, jiný 
 * Maminčino srdce soucitu
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:23-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:23-cs
   :END:
 
 
@@ -477,13 +472,13 @@ Když můj tatínek odešel ze svého zaměstnání inspektora železničních d
 
  Zcela náhle se objevil onen bratranec -- byl asi o patnáct či dvacet let starší než já -- a chytil mne za ruku. Dostal jsem z toho šok. Měl tenkrát mne a celou naši rodinu opravdu rád.
 
- Řekl mi: "Vyřiď prosím své matce: přiznávám, že jsem ukradl ty peníze, ale už jsem je všechny utratil. Žiji jen na bramborách a moje žena žije stále na svém místě."
+ Řekl mi: "vyřiď prosím své matce: přiznávám, že jsem ukradl ty peníze, ale už jsem je všechny utratil. Žiji jen na bramborách a moje žena žije stále na svém místě."
 
  Jak hrozně se jeho žena cítila, když se to stalo! Hořce plakala a moji rodiče a sestry se ji marně pokoušeli utěšit. Všichni chtěli, aby to tatínek dal k soudu, ale on na to jenom řekl: "Je jako můj syn. Udělal cosi špatného, to je pravda. Ale kdyby můj vlastní syn něco provedl, mohl bych se s ním soudit?"
 
  Když jsem mamince řekl, že bratranec žije na bramborách, byla velmi rozčilená. "Proč jsi s ním vůbec mluvil?", ptala se. Řekl jsem na to, že mne chytil za ruku a že mi řekl o svém trápení.
 
- Moje maminka řekla: "Vzal příliš mnoho peněz." Nemohla uvěřit, že mohl utratit tolik peněz. Potom řekla: "Snad je promrhal." Za pár okamžiků začala nad nešťastným bratrancem plakat. "Syn mé sestry nemá žádné peníze. Běda, žije jen o bramborách!"
+ Moje maminka řekla: "vzal příliš mnoho peněz." nemohla uvěřit, že mohl utratit tolik peněz. potom řekla: "Snad je promrhal." Za pár okamžiků začala nad nešťastným bratrancem plakat. "Syn mé sestry nemá žádné peníze. Běda, žije jen o bramborách!"
 
  Takové bylo srdce soucitu mé maminky.
 
@@ -492,9 +487,9 @@ Když můj tatínek odešel ze svého zaměstnání inspektora železničních d
 * Tragické důsledky
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:24-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:24-cs
   :END:
 
 
@@ -509,9 +504,9 @@ Můj nejstarší strýc z maminčiny strany, Ambika Charan Biswas, se kvůli té
 * Chybějící podpis
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:25-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:25-cs
   :END:
 
 
@@ -548,9 +543,9 @@ Morálně i právně, ale zejména morálně měl tatínek zodpovědnost, proto�
 * Odchod mé maminky
 
   :PROPERTIES:
-  :GENRE: stories
-  :KEYWORDS:
-  :CITE-KEY: STMH:26-cs
+  :genre: stories
+  :keywords:
+  :cite-key: stmh:26-cs
   :END:
 
 
@@ -558,9 +553,9 @@ Morálně i právně, ale zejména morálně měl tatínek zodpovědnost, proto�
 * “Ty jsi důležitější”
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:27-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:27-cs
   :END:
 
 
@@ -581,9 +576,9 @@ Moje maminka zemřela na strumu,  na nádor v levé části krku. V Americe to n
 * Maminka se připravuje na odchod
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:28-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:28-cs
   :END:
 
 
@@ -596,9 +591,9 @@ Když je někdo velmi duchovní, pak v čase, kdy přichází smrt, řekne svým
 * “Její čas nadešel”
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:29-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:29-cs
   :END:
 
 
@@ -613,9 +608,9 @@ Sri Aurobindo měl dva nebo tři sekretáře. Jeden z nich byl dříve lékařem
 * Den maminčina odchodu
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:30-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:30-cs
   :END:
 
 
@@ -628,9 +623,9 @@ Ten den, kdy moje maminka umírala, jsem byl v domě strýce z maminčiny strany
 * Světlo duše mé maminky
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:31-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:31-cs
   :END:
 
 
@@ -647,9 +642,9 @@ Podle našeho hinduistického zvyku se mrtvé tělo nenechává déle než jeden
 * Sen mých příbuzných
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:32-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:32-cs
   :END:
 
 
@@ -666,9 +661,9 @@ Když moje maminka opustila tělo, jeden z blízkých příbuzných mi vyprávě
 * Požehnání ze světa duší
 
   :PROPERTIES:
-  :GENRE: stories
-  :KEYWORDS:
-  :CITE-KEY: STMH:33-cs
+  :genre: stories
+  :keywords:
+  :cite-key: stmh:33-cs
   :END:
 
 
@@ -676,9 +671,9 @@ Když moje maminka opustila tělo, jeden z blízkých příbuzných mi vyprávě
 * Návštěvy mé maminky
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:34-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:34-cs
   :END:
 
 
@@ -691,9 +686,9 @@ Můj fyzický otec mne ze světa duší navštěvuje jenom při vzácných a vý
 * Božské Vize
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:35-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:35-cs
   :END:
 
 
@@ -706,9 +701,9 @@ Ráno, když cvičím, se mnou občas bývají Matka Kálí a duše mé fyzické
 * Požehnání mého Dne Matek
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:36-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:36-cs
   :END:
 
 
@@ -721,9 +716,9 @@ Jednou zrána, když jsem zrovna cvičil, jsem slyšel Ranjanu, svoji sekretář
 * Vyprávění při svíčce
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:37-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:37-cs
   :END:
 
 
@@ -736,9 +731,9 @@ Po té, co jsem uzvedl 240 liber jednou rukou, dali mi žáci dort se třemi dro
 * Povzbuzení ze světa Duše
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:38-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:38-cs
   :END:
 
 
@@ -753,9 +748,9 @@ To ráno, kdy jsem poprvé uzvedl jednou rukou 360 liber, přišla maminčina du
 * Rodinná schůzka
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:39-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:39-cs
   :END:
 
 
@@ -794,9 +789,9 @@ Jednou jsem začal se vzpíráním okolo 7.30 ráno. Na první pokus, který je 
 * Přála si, abych zvedl více
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:40-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:40-cs
   :END:
 
 
@@ -807,9 +802,9 @@ Když jsem poprvé zvedl jednou rukou 604 libry, objevila se přede mnou ve vnit
 * Rodinná škola jednoty
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:41-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:41-cs
   :END:
 
 
@@ -822,9 +817,9 @@ V říjnu 1988, když jsem byl ve Washingtonu na meditaci v Pentagonu, jsem nav�
 * Maminka nemluví
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:42-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:42-cs
   :END:
 
 
@@ -839,10 +834,10 @@ V červnu 1991 jsem jel do International Falls na zvláštní obřad. Starosta F
 * Náš malý pes Kanu
 
   :PROPERTIES:
-  :GENRE: story
-  :PRIVATE: t
-  :KEYWORDS:
-  :CITE-KEY: STMH:43-cs
+  :genre: story
+  :private: t
+  :keywords:
+  :cite-key: stmh:43-cs
   :END:
 
 
@@ -861,9 +856,9 @@ Náš malý pes Kanu opustil tělo 23.prosince 1992. Mí žáci a já, ale zejm�
 * Svítání Nového Roku
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: STMH:44-cs
+  :genre: story
+  :keywords:
+  :cite-key: stmh:44-cs
   :END:
 
 
@@ -876,9 +871,9 @@ První den tohoto roku jsem byl v Nandi, na Fidji. Přišla za mnou duše mého 
 * Spojení srdcí jednoty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: STMH:45-cs
+  :genre: poem
+  :keywords:
+  :cite-key: stmh:45-cs
   :END:
 
 
@@ -899,17 +894,3 @@ Devátého února tohoto roku za mnou přišla maminčina duše a nabídla mi ne
 
 
 #+END_VERSE
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

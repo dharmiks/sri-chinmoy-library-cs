@@ -1,20 +1,15 @@
-#+TITLE: Řeka čistoty vítězí
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Řeka čistoty vítězí
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 1998
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: PRW-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 1998
+  :publisher: Madal Bal
+  :cite-key: PRW-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,18 +17,18 @@
 * Co je to čistota?
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PRW:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: prw:1e1-cs
   :END:
 
 
 
 * Co je to čistota?
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:1-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:1-cs
   :END:
 
 
@@ -51,14 +46,14 @@ V našem vnitřním životě aspirace nemůže být nic důležitějšího než 
 * Mohl bys vyjmenovat některé nečistoty? Ovlivňují nás vnějšně stejně tak jako vnitřně?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:2-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:2-cs
   :END:
 
 
 
-/Sri Chinmoy:/ Pochybnost, neupřímnost, strach, úzkost, žárlivost, připoutanost a všechny další nedokonalosti a omezení jsou nečistotami. Ale nejhorší nečistotou je pochybnost či negativní způsob myšlení. Jestliže si myslíte: “Nedokážu dělat správné věci. Nedokážu myslet na Boha. Nedokážu meditovat na Boha. Nemohu mluvit pravdu,” opatrujete nejhorší možné nečistoty. Vždy musíte vidět světlo pozitivním způsobem. Právě nyní mohu říci, že potřebuji světlo. Mám světlo v nekonečné míře, ale jestliže řeknu: “Nemám vůbec žádné světlo! Jsem sama temnota,” potom o sobě pochybuji a ničím se. Také jestliže toto tvrdím, vyjadřuji falešnou skromnost. Falešná skromnost je špatná. V koutku mysli víte, že jste mnohem lepší, než říkáte, ale tím, že jste skromní se snažíte, aby vám to někdo potvrdil. Jakákoliv neupřímnost nás nikdy nedovede k realizaci Boha.
+/Sri Chinmoy:/ pochybnost, neupřímnost, strach, úzkost, žárlivost, připoutanost a všechny další nedokonalosti a omezení jsou nečistotami. ale nejhorší nečistotou je pochybnost či negativní způsob myšlení. jestliže si myslíte: “nedokážu dělat správné věci. nedokážu myslet na boha. nedokážu meditovat na boha. nemohu mluvit pravdu,” opatrujete nejhorší možné nečistoty. vždy musíte vidět světlo pozitivním způsobem. právě nyní mohu říci, že potřebuji světlo. mám světlo v nekonečné míře, ale jestliže řeknu: “Nemám vůbec žádné světlo! Jsem sama temnota,” potom o sobě pochybuji a ničím se. Také jestliže toto tvrdím, vyjadřuji falešnou skromnost. Falešná skromnost je špatná. V koutku mysli víte, že jste mnohem lepší, než říkáte, ale tím, že jste skromní se snažíte, aby vám to někdo potvrdil. Jakákoliv neupřímnost nás nikdy nedovede k realizaci Boha.
 
 Každý den myslíme a konáme. Činnost nemůže být nikdy oddělena od našeho vnitřního způsobu porozumění. Když máme něco uvnitř, nevyhnutelně to ukazujeme nějakým způsobem navenek. Jestliže mám uvnitř neupřímnost, budu ji ukazovat navenek, přijmu útočiště v domě neupřímnosti. Ale když mám uvnitř upřímnost, potom získám útočiště v domě upřímnosti. Nečistota zahrnuje neupřímnost, pochybnost a všechny ostatní negativní způsoby myšlení a nutně ovlivňují naše vnější chování stejně tak jako náš vnitřní pokrok.
 
@@ -67,9 +62,9 @@ Každý den myslíme a konáme. Činnost nemůže být nikdy oddělena od našeh
 * Jaký je nejvyšší druh čistoty, o který mohu usilovat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:3-cs
   :END:
 
 
@@ -85,9 +80,9 @@ Prosím modlete se a meditujte na vnitřní světlo, vyšší světlo, aby svět
 * Je možné, aby člověk bezděčně získal vibrace někoho, kdo je nečistý?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:4-cs
   :END:
 
 
@@ -101,9 +96,9 @@ V našem každodenním životě často narazíme na lidi a místa, která jsou v
 * Čistota v různých částech naší bytosti
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PRW:5e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: prw:5e1-cs
   :END:
 
 
@@ -111,9 +106,9 @@ V našem každodenním životě často narazíme na lidi a místa, která jsou v
 * Na jakou část naší bytosti bychom měli meditovat pro čistotu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:5-cs
   :END:
 
 
@@ -127,9 +122,9 @@ Poté, co si vytvoříme čistotu ve fyzickém, musíme cítit, že tato čistot
 * Jak důležitá je čistota těla?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:6-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:6-cs
   :END:
 
 
@@ -141,9 +136,9 @@ Poté, co si vytvoříme čistotu ve fyzickém, musíme cítit, že tato čistot
 * Jak se mohu oddělit od svých fyzických tužeb?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:7-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:7-cs
   :END:
 
 
@@ -168,14 +163,14 @@ Když pláču, létám.
 * Říkal jsi, že musíme ve své mysli udržovat božské myšlenky, ne nebožské. Jak poznáme božské myšlenky?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:8-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:8-cs
   :END:
 
 
 
-/Sri Chinmoy:/ Když máme božské myšlenky, naše vědomí se okamžitě rozšiřuje, zvětšujeme své vědomí. Když máme nebožské myšlenky, svazujeme se. Když říkáme: “Já, můj a mé,” svazujeme se. To jsou lidské nebo nebožské myšlenky. Ale když máme božské myšlenky, okamžitě říkáme “my”. Pokud se v tu chvíli sami sebe zeptáme: “Odkud toto cítění jednoty s lidstvem pochází?” zjistíme, že pochází z našeho Zdroje, který je nekonečné Světlo nebo Bůh.
+/Sri Chinmoy:/ když máme božské myšlenky, naše vědomí se okamžitě rozšiřuje, zvětšujeme své vědomí. když máme nebožské myšlenky, svazujeme se. když říkáme: “já, můj a mé,” svazujeme se. to jsou lidské nebo nebožské myšlenky. ale když máme božské myšlenky, okamžitě říkáme “my”. pokud se v tu chvíli sami sebe zeptáme: “Odkud toto cítění jednoty s lidstvem pochází?” zjistíme, že pochází z našeho Zdroje, který je nekonečné Světlo nebo Bůh.
 
 Pokaždé, když získáte nějakou myšlenku, pokaždé,  když jakákoliv představa vstoupí do vaší mysli, pokuste se prosím uvidět, zda tato myšlenka rozpíná vaše vědomí, či vás svazuje. Kdykoliv přijdou jakékoliv myšlenky nebo emoce, prosím snažte se do nich vstoupit a spatřit, zda vás podněcuje vlastnit něco nebo někoho. Jestliže ano, musíte pocítit, že je to nebožská myšlenka. Když se snažíme vlastnit někoho, náhle zjistíme, že již jsme sami vlastněni. Ale je-li to božská myšlenka, nebudeme se snažit nikoho ovládat, budeme se snažit každého osvítit a osvobodit, protože božské je bezmezné, nekonečné.
 
@@ -184,14 +179,14 @@ Pokaždé, když získáte nějakou myšlenku, pokaždé,  když jakákoliv pře
 * Ačkoliv jsem lidská bytost a ne zvíře, někdy se mi zdá téměř nemožné očistit svůj vitální život, jak říkáš, že bych měl.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:9-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:9-cs
   :END:
 
 
 
-/Sri Chinmoy:/ Vidíme, že zvířata jsou plny vášně a touhy, a že my nejednáme způsobem, jakým jednají zvířata. Ačkoliv jsme stále napůl zvířaty, cítíme, že jsme zvířatům nadřazeni. Ale pokud půjdeme hluboko dovnitř, spatříme v sobě žárlivost, pochyby, nečinnost a úzkost. Proto se duchovní lidé nedívají na zvířata nebo ostatní lidské bytosti spatra. Říkají: “Před deseti nebo patnácti lety, nebo v minulé inkarnaci jsem byl také temny a neosvícený, také jsem měl všechny druhy tužeb a vášní.”
+/Sri Chinmoy:/ vidíme, že zvířata jsou plny vášně a touhy, a že my nejednáme způsobem, jakým jednají zvířata. ačkoliv jsme stále napůl zvířaty, cítíme, že jsme zvířatům nadřazeni. ale pokud půjdeme hluboko dovnitř, spatříme v sobě žárlivost, pochyby, nečinnost a úzkost. proto se duchovní lidé nedívají na zvířata nebo ostatní lidské bytosti spatra. Říkají: “Před deseti nebo patnácti lety, nebo v minulé inkarnaci jsem byl také temny a neosvícený, také jsem měl všechny druhy tužeb a vášní.”
 
 Duchovní Mistr vidí svou vlastní minulost, přítomnost a budoucnost. Vědomě ví, že kdysi dávno se nacházel ve stejných potížích, v jakých jsou jeho žáci nyní. Je si vědom slabostí, které měl před dvěma či čtyřmi nebo šesti inkarnacemi. Ví, že pro jeho žáky je velmi těžké překonat touhy, a ukazuje jim soucit díky svému ztotožnění se s nimi. Ale jeho soucit nebude čekat nekonečně. Jeho soucit bude dynamicky jednat. Řekne svým žákům: “Podívejte, zde je cesta. Před stovkami let jsem začal aspirovat a nyní jsem dosáhl cíle. Nyní vy lidé také začněte s aspirací. Také dosáhnete cíle.”
 
@@ -202,9 +197,9 @@ Mistr nebude žádat žáky, aby dělali něco, co nemohou udělat. Jestliže ř
 * Opravdu cítím, že potřebuji čistotu v mysli, proto jsem začal ráno dělat džapu. Ale po několika stovkách opakování je to pro mne agónie.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:10-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:10-cs
   :END:
 
 
@@ -215,9 +210,9 @@ Mistr nebude žádat žáky, aby dělali něco, co nemohou udělat. Jestliže ř
 * Co je to psychická bytost a jaká je její úloha v našem duchovním životě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:11-cs
   :END:
 
 
@@ -231,9 +226,9 @@ Mistr nebude žádat žáky, aby dělali něco, co nemohou udělat. Jestliže ř
 * Jaké jsou převládající kvality těla, vitálna a mysli?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:12-cs
   :END:
 
 
@@ -253,9 +248,9 @@ Vedeme-li duchovní život, získáme takovéto aktivní tělo, dynamické vitá
 * Jak se můžeme očistit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:13-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:13-cs
   :END:
 
 
@@ -271,9 +266,9 @@ Existuje ještě jeden postup, kterým můžeme očistit své duchovní nervy a 
 * Čistota ve vitálnu
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PRW:14e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: prw:14e1-cs
   :END:
 
 
@@ -281,9 +276,9 @@ Existuje ještě jeden postup, kterým můžeme očistit své duchovní nervy a 
 * Co je to vitálno?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:14-cs
   :END:
 
 
@@ -295,9 +290,9 @@ Existuje ještě jeden postup, kterým můžeme očistit své duchovní nervy a 
 * Znamená to tedy, že kdykoliv cítím něco z nižší oblasti, je to vitálno?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:15-cs
   :END:
 
 
@@ -309,9 +304,9 @@ Existuje ještě jeden postup, kterým můžeme očistit své duchovní nervy a 
 * Co je to vitální žádost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:16-cs
   :END:
 
 
@@ -323,9 +318,9 @@ Existuje ještě jeden postup, kterým můžeme očistit své duchovní nervy a 
 * Shledal jsem, že ovládnout smysly je velmi obtížné. Jde o vnitřní nebo vnější konflikt?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:17-cs
   :END:
 
 
@@ -340,14 +335,14 @@ Ale co děláme samotným potlačováním? Volíme negativní cestu. Snažíme s
 * Kdykoliv spatřím krásnou ženu, do mé mysli vstoupí sexuální myšlenky. Snažím se je zničit, ale ony přetrvají.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:18-cs
   :END:
 
 
 
-/Sri Chinmoy:/ Jsou dva způsoby, jak vyřešit tento problém. Jakmile uvidíš krásnou ženu, pokus se jen svou vůli povznést celé její tělo na oblohu. Podívej se na ni a zkoncentruj se a vynes ji vzhůru, aby lítala jako drak. Druhý způsob, nejjednodušší způsob je, když spatříš ženu, dívat se jí pouze na chodidla. Indičtí /sadhuové/ radí dívat se pouze na chodidla, ne na oči, ne na obličej. Pokud chceš okamžité osvobození od pokušení, dívej se pouze na chodidla. Dívej se pouze na chodidla a pokus se celým svým vědomím jít hluboko dovnitř. To potrvá pouze chvíli. Buď povznes tu ženu vzhůru, nebo se dívej na její chodidla. Potom okamžitě musí být nižší vitální myšlenky ovládnuty. Mnozí takto učinili a byli velmi úspěšní. Existoval jede velký indický /avatár/ jménem Sri Čaitanja. Říkával všem svým žákům: “I když je to vaše matka, nedívejte se jí na oči, dívejte se jen na její chodidla”.
+/Sri Chinmoy:/ jsou dva způsoby, jak vyřešit tento problém. jakmile uvidíš krásnou ženu, pokus se jen svou vůli povznést celé její tělo na oblohu. podívej se na ni a zkoncentruj se a vynes ji vzhůru, aby lítala jako drak. druhý způsob, nejjednodušší způsob je, když spatříš ženu, dívat se jí pouze na chodidla. indičtí /sadhuové/ radí dívat se pouze na chodidla, ne na oči, ne na obličej. pokud chceš okamžité osvobození od pokušení, dívej se pouze na chodidla. dívej se pouze na chodidla a pokus se celým svým vědomím jít hluboko dovnitř. to potrvá pouze chvíli. buď povznes tu ženu vzhůru, nebo se dívej na její chodidla. potom okamžitě musí být nižší vitální myšlenky ovládnuty. mnozí takto učinili a byli velmi úspěšní. existoval jede velký indický /avatár/ jménem sri Čaitanja. Říkával všem svým žákům: “I když je to vaše matka, nedívejte se jí na oči, dívejte se jen na její chodidla”.
 
 Ale tyto metody jsou pouze pro začátečníky. Jednou přijde den, kdy se podíváš na ženu otevřenýma očima a svými vnitřními zážitky, svou vlastní vnitřní realizací půjdeš za zdání muže a ženy. Je pouze jedno univerzální Vědomí, není mužské ani ženské. Je pouze jedno vědomí proudící do dvou rozdílných forem. Toto cítění může být rozvinuto pouze s naším vlastním vnitřním rozvojem. Je to velmi pokročilý stav. Právě teď asi necítíme jednotu ani se svými údy. Jestliže dohodím koulí pravou rukou dál než levou rukou, budu pravé ruce přikládat větší důležitost a levé ruce nebudu věnovat pozornost. Viděl jsem mnoho atletů, kteří prokleli svou levou ruku, když potřebovali pomoc levé ruky, dokonce i když není tak silná, jako pravá. Jestliže nedokážeme cítit jednotu dokonce s oběma svýma rukama, jak můžeme být jedním s jinou osobou? Díky aspiraci a vnitřnímu duchovnímu rozvoji se celé stvoření stane našim. Tehdy zde nebude žádná nesnáz.
 
@@ -356,9 +351,9 @@ Ale tyto metody jsou pouze pro začátečníky. Jednou přijde den, kdy se podí
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:19-cs
   :END:
 
 
@@ -374,14 +369,14 @@ Očištění a aspirace musí jít společně bok po boku. Jestliže chcete ček
 * Mohl byste promluvit o pohlavní zdrženlivosti v souvislosti s dosažením vyššího vědomí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:20-cs
   :END:
 
 
 
-/Sri Chinmoy:/ “Vyšší vědomí” je nejasný pojem. Jestliže někdo řekne: “Toto je mé vyšší vědomí,” druhá osoba řekne: “Mé vyšší vědomí je nekonečně výše.” Třetí osoba řekne: “Ach, z mého pohledu, je to všechno nízké vědomí. Když pozoruji tvé vyšší vědomí, vidím, že je rovné mému nejnižšímu vědomí.” Namísto toho používejme slovo “aspirace”.
+/Sri Chinmoy:/ “vyšší vědomí” je nejasný pojem. jestliže někdo řekne: “toto je mé vyšší vědomí,” druhá osoba řekne: “mé vyšší vědomí je nekonečně výše.” třetí osoba řekne: “Ach, z mého pohledu, je to všechno nízké vědomí. Když pozoruji tvé vyšší vědomí, vidím, že je rovné mému nejnižšímu vědomí.” Namísto toho používejme slovo “aspirace”.
 
 V své aspiraci musíme poznat, jaký je náš cíl. Musíme poznat, jak vysoko chceme jít. Pro dítě je několik stop velmi vysoko, ale pro dospělého je to zcela nízko, a pro pilota v letadle to není vůbec žádná výška. Když naše aspirace roste, stoupá nekonečně výše, než vyletí jakékoliv letadlo. Jestliže chceme vést obyčejný život a mít jen malou aspiraci, můžeme. Ti, kteří mají malou aspiraci, jsou lepší než ti, kteří nemají vůbec žádnou, protože se snaží získat alespoň trochu světla. Po nějaký čas zůstávají ve světle, a nějaký čas zůstávají v temnotě. Jsou přesně jako batolata. Jejich schopnosti jsou velmi omezené. Ale opět, jsou lidé, kteří chtějí zůstat ve světle dvacet čtyři hodin denně. Pro ty, kteří se chtějí dotknout Nejvyššího, je fyzická zdrženlivost nezbytná. Za všechno musíme platit nějakou cenu. Čím výše stoupáme s naší aspirací, tím větší je naše blaženost. Aspirující musí vědět, co chce. Jestliže je jeho konečný cíl Nejvyšší, potom se musí postupně vzdát pohlavního života. Ale jestliže přestane s pohlavním životem najednou, bude odsouzen ke zkáze. Vnitřní očištění musí být dosaženo postupně.
 
@@ -393,9 +388,9 @@ Když získáme vnitřní zkušenosti, celé naše bytí bude zaplaveno blaženo
 * Kdyby každý následoval duchovní cestu, nastal by čas, kdy by se všichni vzdali svého sexuálního života. Kdyby to udělal každý, nebylo by více inkarnací!
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:21-cs
   :END:
 
 
@@ -413,9 +408,9 @@ V budoucnosti budou duše sestupovat do světa, aniž by procházely procesem li
 * Psychoanalytici nám tvrdí, že pokud dokážeme vynést naše sexuální touhy na povrch a vyjádřit je, staneme se emocionálně dospělými. Ale duchovní učitelé říkají, že sexuální touha stojí na cestě vnitřního růstu. Kdo má pravdu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:22-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:22-cs
   :END:
 
 
@@ -428,9 +423,9 @@ Je bláhové snažit se redukovat všechny lidské a božské podněty na takzva
 * Můj duchovní Mistr mi řekl, že vitální požitky a duchovní život se mohou doprovázet. Ale zjistil jsem, že když řídím touto filozofií, je má meditace naprosto mizerná. Jak se mohou vitální požitky a meditace provázet?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:23-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:23-cs
   :END:
 
 
@@ -442,22 +437,22 @@ Je bláhové snažit se redukovat všechny lidské a božské podněty na takzva
 * Někdy se cítím, jako dvě odporující si osoby. Mohl bys prosím vysvětlit tento pocit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:24-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:24-cs
   :END:
 
 
 
-/Sri Chinmoy:/ Každý jednotlivec má dvě bytosti: dožadující se vitálno a odevzdávající se srdce. Rozpor mezi těmito dvěma je ve vás denně přítomen. Na sklonku dne, pokud jste byli vědomí, budete vědět, kolikrát jste stranili srdci a kolikrát jste se postavili na stranu vitálna.
+/Sri Chinmoy:/ každý jednotlivec má dvě bytosti: dožadující se vitálno a odevzdávající se srdce. Rozpor mezi těmito dvěma je ve vás denně přítomen. Na sklonku dne, pokud jste byli vědomí, budete vědět, kolikrát jste stranili srdci a kolikrát jste se postavili na stranu vitálna.
 
 
 * Emoce
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PRW:25e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: prw:25e1-cs
   :END:
 
 
@@ -465,14 +460,14 @@ Je bláhové snažit se redukovat všechny lidské a božské podněty na takzva
 * Je nějaký rozdíl mezi emocemi a vitálnem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:25-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:25-cs
   :END:
 
 
 
-/Sri Chinmoy:/ Emoce a vitálno jsou dvě rozdílné věci. Můžete říci, že vitálno je domem a emoce jsou nájemníkem v tomto domě. Nejvíce převládajícími emocemi jsou vitální emoce. Ale emoce mohou být také v těle, mysli a v srdci. Emoce v těle obvykle znehodnocují naše vědomí. Emoce v nečistém srdci nás oslepují a svazují, zatímco emoce v čistém srdci nás osvětlují a osvobozují. V mysli jsou také nějaké emoce, ale mysl je od přírody suchá, a nevlastní tento druh bujných nebo nekontrolovatelných dětských emocí vitálna. Když říkáme: “To je ale emocionální člověk,” poukazujeme tím na jeho neukázněné a neosvícené vitální emoce. Tyto emoce obvykle pochází ze dvou center pod pupečním centrem.
+/Sri Chinmoy:/ emoce a vitálno jsou dvě rozdílné věci. můžete říci, že vitálno je domem a emoce jsou nájemníkem v tomto domě. nejvíce převládajícími emocemi jsou vitální emoce. ale emoce mohou být také v těle, mysli a v srdci. emoce v těle obvykle znehodnocují naše vědomí. emoce v nečistém srdci nás oslepují a svazují, zatímco emoce v čistém srdci nás osvětlují a osvobozují. v mysli jsou také nějaké emoce, ale mysl je od přírody suchá, a nevlastní tento druh bujných nebo nekontrolovatelných dětských emocí vitálna. když říkáme: “To je ale emocionální člověk,” poukazujeme tím na jeho neukázněné a neosvícené vitální emoce. Tyto emoce obvykle pochází ze dvou center pod pupečním centrem.
 
 Někteří z vás mne velmi rozlaďují svými emocionálními vitálními problémy. Prosím pokuste se očistit svůj vitální svět. Budu nanejvýš hrdý na každého z vás ve chvíli, když spatřím očištění vašeho vitálna. Nadmu se božskou hrdostí, že mé duchovní děti jsou skutečně čisté.
 
@@ -485,9 +480,9 @@ Dokážete-li přeměnit své vitální emoce do božských emocí, tyto božsk�
 * Je špatné pro duchovně aspirující ukazovat navzájem veřejně fyzicky svou náklonnost k druhému?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:26-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:26-cs
   :END:
 
 
@@ -502,9 +497,9 @@ Fyzická výměna lásky mezi dívkami je nanejvýš nezdravá a to samé je pra
 * Měli bychom se snažit pomáhat druhým s jejich emocionálními problémy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:27-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:27-cs
   :END:
 
 
@@ -517,9 +512,9 @@ Kdo ho prosil, aby jim pomáhal? Pouze jeho vlastní ego. Ty ženy za ním nepř
 * Když někdy stojím vedle nějakého člověka, cítím velké teplo a výměnu energií, zdá se mi, jako by šlo o spojení našich srdcí, a určitý stupeň vzrušení. Je to něco na co bych měl být opatrný, nebo něco, do čeho bych se měl vrhnout, nebo bych to jen měl nechat dít se, když se to stane?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:28-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:28-cs
   :END:
 
 
@@ -530,9 +525,9 @@ Sri Chinmoy:/ Rozšíření srdce je velmi dobré, velmi potřebné. Ale musíme
 * Jak můžeme bojovat proti temným, tmavým emocím, které dnes svět vyvrhuje?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:29-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:29-cs
   :END:
 
 
@@ -544,9 +539,9 @@ Sri Chinmoy:/ Rozšíření srdce je velmi dobré, velmi potřebné. Ale musíme
 * Když se cítíme plni radosti po většinu času, znamená to, že je s námi Bůh spokojen?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:30-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:30-cs
   :END:
 
 
@@ -562,9 +557,9 @@ Jestliže zakoušíme pravou radost, můžeme cítit, že Bůh je námi potěše
 * Jak mohu vyjádřit lásku a manifestovat ji ve fyzickém světě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:31-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:31-cs
   :END:
 
 
@@ -577,9 +572,9 @@ Lásku také můžeš vyjádřit a manifestovat ve fyzickém světě skrze čist
 * Touha
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PRW:32e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: prw:32e1-cs
   :END:
 
 
@@ -587,14 +582,14 @@ Lásku také můžeš vyjádřit a manifestovat ve fyzickém světě skrze čist
 * Jsme na zemi jen proto, abychom toužili? Je touha jedinou nutností?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:32-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:32-cs
   :END:
 
 
 
-/Sri Chinmoy:/ Jsou dva důvody, proč jsme na zemi: jedním je toužit a druhým je aspirovat. Musíme začít svou cestu s touhou a musíme zakončit svou cestu s aspirací. Není možné začít aspirací. Pokaždé, když přijmeme lidskou inkarnaci, začínáme svou cestu s touhou. Když jsme mladí, většina z nás se stává obětí touhy. Později, vidíme potřebu aspirace a pustíme se do duchovního života.
+/Sri Chinmoy:/ jsou dva důvody, proč jsme na zemi: jedním je toužit a druhým je aspirovat. Musíme začít svou cestu s touhou a musíme zakončit svou cestu s aspirací. Není možné začít aspirací. Pokaždé, když přijmeme lidskou inkarnaci, začínáme svou cestu s touhou. Když jsme mladí, většina z nás se stává obětí touhy. Později, vidíme potřebu aspirace a pustíme se do duchovního života.
 
 Jaký je rozdíl mezi touhou a aspirací? Touha nás svazuje. Vždy si přejeme více a více a více. Pokud máme jeden dolar, pokusíme se získat dva dolary. Ale toto rozšiřování provádíme v nevědomosti a temnotě, takže nakonec jsme svou vlastní touhou svázáni. Dokonce, máme-li deset domů, nezískáme žádnou vnitřní spokojenost. Budeme svázaní svým majetkem. Ale když aspirujeme, modlíme se za Světlo, Mír, Blaženost a Sílu. Každá modlitba je rozšířením naší vnitřní svobody. Ve světě touhy má rozšiřování své meze, ale ve světě aspirace není žádná mez. Ze všech božských vlastností, kterých dosahujeme, získáváme v hojném množství svobodu.
 
@@ -606,26 +601,26 @@ Na zemi pracuje touha i aspirace. Ale přijde den, kdy bude celý svět přeměn
 * Když říkáš, že musíme ovládat své touhy, abychom realizovali Boha, znamená to, že touhy budou kolem navždy, ale budou pod kontrolou naší duše?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:33-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:33-cs
   :END:
 
 
 
-/Sri Chinmoy:/ Právě teď naše touhy nejsou pod žádnou kontrolou. Naše aspirace je pod kontrolou duše. Když aspirujeme, duše nám říká, abychom něco udělali, a my to uděláme. Ale když jsme oběťmi hojných tužeb, dokonce i když nám duše říká, abychom něco nedělali, neposloucháme ji. Stejně tu věc uděláme. Ale nakonec duše získá svou právoplatnou svrchovanost. Co se děje je toto: nadřízený úředník přijde poprvé do kanceláře, aby nahradil někoho, kdo odešel. Zpočátku, se mu obyčejní nižší úředníci v jeho kanceláři posmívají. Dělají všechno špatně a odmítají ho poslouchat. Nadřízený úředník pozoruje situaci ve svém úřadě, ale ví, že je nade vším. Postupně prosadí svou autoritu. Když nižší úředníci vidí jeho moc, bojí se a poslouchají ho.
+/Sri Chinmoy:/ právě teď naše touhy nejsou pod žádnou kontrolou. naše aspirace je pod kontrolou duše. když aspirujeme, duše nám říká, abychom něco udělali, a my to uděláme. ale když jsme oběťmi hojných tužeb, dokonce i když nám duše říká, abychom něco nedělali, neposloucháme ji. stejně tu věc uděláme. ale nakonec duše získá svou právoplatnou svrchovanost. co se děje je toto: nadřízený úředník přijde poprvé do kanceláře, aby nahradil někoho, kdo odešel. Zpočátku, se mu obyčejní nižší úředníci v jeho kanceláři posmívají. Dělají všechno špatně a odmítají ho poslouchat. Nadřízený úředník pozoruje situaci ve svém úřadě, ale ví, že je nade vším. Postupně prosadí svou autoritu. Když nižší úředníci vidí jeho moc, bojí se a poslouchají ho.
 
 Podobně, v duchovním životě duše zpočátku snáší vše. Tělo, vitálno a mysl jsou neukázněnými členy rodiny. Posmívají se a neposlouchají duši. Jsou jako neposlušné děti, které se nechtějí koupat. Stojí před vanou, ale cítí, že voda je velmi studená či velmi nepříjemná, a nechtějí do ní vstoupit. Poslušné děti vstoupí do vany samy a řádně se vykoupou. Tady je s nimi matka velmi spokojená. Situaci s neposlušnými dětmi pozoruje půl hodiny, a když vidí, že nepůjdou do vany samy, jednoduše je dovnitř strčí sama a donutí je okoupat se.
 
-Duše také po nějaký čas vyčkává. Uvnitř duše je neústupná Vůle Nejvyššího a Božího nekonečného Světla, ale duše čeká, až udeří její hodina. Přijde čas, kdy skrze duši bude uplatněna božská Vůle, ale zpočátku duše zůstává svědkem. Sleduje, kdo je dobrý a kdo je špatný. Duše vítá dobré a božské členy rodiny, kteří ji poslouchají. Jim říká: “Poběžme společně.” Co se týče špatných členů rodiny, kteří úmyslně vytváří problémy, duše přednese jejich případ Nejvyššímu. Jednoho dne Nejvyšší řekne: “Nyní nastal čas, ukázat tvé božské světlo skrze tvou božskou autoritu.” To je Boží Hodina, kdy duše zažene temnotu tisíců let z lidského vědomí.
+Duše také po nějaký čas vyčkává. Uvnitř duše je neústupná Vůle Nejvyššího a Božího nekonečného Světla, ale duše čeká, až udeří její hodina. Přijde čas, kdy skrze duši bude uplatněna božská Vůle, ale zpočátku duše zůstává svědkem. Sleduje, kdo je dobrý a kdo je špatný. Duše vítá dobré a božské členy rodiny, kteří ji poslouchají. Jim říká: “poběžme společně.” co se týče špatných členů rodiny, kteří úmyslně vytváří problémy, duše přednese jejich případ nejvyššímu. jednoho dne nejvyšší řekne: “Nyní nastal čas, ukázat tvé božské světlo skrze tvou božskou autoritu.” To je Boží Hodina, kdy duše zažene temnotu tisíců let z lidského vědomí.
 
 
 * Jak se můžeme vyvarovat touhy po plodech činnosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:34-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:34-cs
   :END:
 
 
@@ -640,9 +635,9 @@ Ale jak se můžeme osvobodit od touhy po plodech činnosti? Když pracujeme, p�
 * Manželství
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PRW:35e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: prw:35e1-cs
   :END:
 
 
@@ -650,9 +645,9 @@ Ale jak se můžeme osvobodit od touhy po plodech činnosti? Když pracujeme, p�
 * Jaké je místo sexuálního života ve vašem duchovním centru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:35-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:35-cs
   :END:
 
 
@@ -672,9 +667,9 @@ Doporučuji mladším manželským párům, aby duchovně rostli pomalu, jistě 
 * Jaký účel má spojení mezi mužem a ženou?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:36-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:36-cs
   :END:
 
 
@@ -687,9 +682,9 @@ Toto vše vám říkám z přísně duchovního hlediska. Než můžeme zamítno
 * Můžeš prosím, promluvit o manželství v vztahu k duchovnímu životu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:37-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:37-cs
   :END:
 
 
@@ -702,9 +697,9 @@ Manželství není v některých případech nutné. Ti, kdo prošli rodinným �
 * Je vlastní očištění obtížnější, protože jsme manželé?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:38-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:38-cs
   :END:
 
 
@@ -717,9 +712,9 @@ Co potřebuješ skutečně pro očištění je aspirace. Ale nemuč sám sebe. P
 * Zmínil jsi, že rolí manžela je ticho a rolí manželky je síla. Co tím vlastně míníš?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:39-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:39-cs
   :END:
 
 
@@ -732,9 +727,9 @@ Co potřebuješ skutečně pro očištění je aspirace. Ale nemuč sám sebe. P
 * Praktické metody k získání čistoty
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PRW:40e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: prw:40e1-cs
   :END:
 
 
@@ -742,9 +737,9 @@ Co potřebuješ skutečně pro očištění je aspirace. Ale nemuč sám sebe. P
 * Jaký je nejúčinnější způsob, jak mohu dosáhnout čistoty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:40-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:40-cs
   :END:
 
 
@@ -757,9 +752,9 @@ Nejprve božští vojáci vstoupí a vidí, že jsou zde nebožští vojáci. Po
 * Kam mám soustředit své snahy o čistotu, a jak to mám udělat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:41-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:41-cs
   :END:
 
 
@@ -777,9 +772,9 @@ Takže se koncentruj na třetí oko a uzři světlo, vstup do světla, vrosť do
 * Může být z mého života úplné odstraněna nečistota? Jakkoliv těžce se snažím, vypadá to, že se mě drží, jako nějaká chronická choroba.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:42-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:42-cs
   :END:
 
 
@@ -792,9 +787,9 @@ Nečistota je také vyléčitelná choroba, ale nečistota v nás vydrží déle
 * Co můžeme udělat během své meditace, abychom transformovali nebo pomohli očistit mysl, vitálno a tělo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:43-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:43-cs
   :END:
 
 
@@ -805,9 +800,9 @@ Nečistota je také vyléčitelná choroba, ale nečistota v nás vydrží déle
 * Dělal jsem džapu pro čistotu, zpíval jsem “Supreme”. Je to nejlepší způsob, jak dosáhnout čistoty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:44-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:44-cs
   :END:
 
 
@@ -820,9 +815,9 @@ Napsal jsem esej nazvanou “Úloha čistoty v duchovním životě”(pozn.: v k
 * Když dělá člověk džapu, je nutné mít růženec, nebo může počítat na prstech?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:45-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:45-cs
   :END:
 
 
@@ -833,9 +828,9 @@ Napsal jsem esej nazvanou “Úloha čistoty v duchovním životě”(pozn.: v k
 * Je nějaký rozdíl, když při džapě člověk opakuje slovo rychle a pomalu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:46-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:46-cs
   :END:
 
 
@@ -847,9 +842,9 @@ Napsal jsem esej nazvanou “Úloha čistoty v duchovním životě”(pozn.: v k
 * Když lidé, kteří dřív nikdy nemeditovali s duchovním Mistrem, přijdou na veřejnou meditaci, co by měli dělat, aby vstoupili do jeho vědomí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:47-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:47-cs
   :END:
 
 
@@ -863,9 +858,9 @@ Protože jsem duchovní člověk, ti, kteří přicházejí se mnou meditovat, b
 * Můžeme získat čistotu tím, že do tebe vstoupíme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRW:48-cs
+  :genre: qa
+  :keywords:
+  :cite-key: prw:48-cs
   :END:
 
 
@@ -877,17 +872,3 @@ Nejlepším způsobem, jak dosáhnout čistoty je skrze upřímnou aspiraci a hl
 Když žehnám některé z vás, lidí, vidím, jak se kolem ve vašich myslích potulují zlé myšlenky, ale vy se je snažíte skrývat. Myslíte si: “Ach, Guru nás chytí!”. Guru vás chytil předtím, než jste chytili sebe, ale Guru je bezmocný, protože vy mu nedáváte své nečistoty, vy si je prostě opatrujete ve své mysli. Když je do mě vhodíte, okamžitě je od vás odeberu.
 
 Nikdy se mne neobávejte. Kdo se obává? Ten, kdo úmyslně udělal něco špatně. Jestliže neděláte vědomě nic špatně, proč byste se mne měli obávat? Jsem tyran? To si nemyslím. Nehubuji vám lidem bezdůvodně. Takže proč byste se mne měli obávat? Dítě se neobává svého otce. Jestliže máte nějakou zlou myšlenku, nebo jiný druh nečistoty, prostě ji vhoďte do mne a já jsem připraven ji přijmout. Neřeknu: “Proč znečišťujete mé vědomí?” Ne Já jen budu přijímat a přijímat a přijímat. Uvnitř mého těla, uvnitř mé mysli, uvnitř mého srdce, uvnitř mé duše prochází a hraje si Nekonečno.
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

@@ -1,20 +1,15 @@
-#+TITLE: Vnitřní cesta
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Vnitřní cesta
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2000
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: IJ-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2000
+  :publisher: Madal Bal
+  :cite-key: IJ-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -23,9 +18,9 @@
 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IJ:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: ij:1e1-cs
   :END:
 
 
@@ -33,9 +28,9 @@
 * Proč je jednoduší dosáhnout Boha skrze Gurua? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:1-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:1-cs
   :END:
 
 
@@ -48,15 +43,15 @@
 * V této inkarnaci jsem tě přijal jako svého Gurua. Budu tě mít jako svého Gurua i ve své příští inkarnaci? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:2-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:2-cs
   :END:
 
 
 /Sri Chinmoy:/ Toto je naprosto osobní otázka, a odpověď je rozdílná pro každého jedince. V tvém případě si přeji říci, že tvá duše si utvořila velmi, velmi, velmi blízké spojení s mou duší. S veškerou láskou, požehnáním a zájmem své duše tě mohu ujistit, že budu tvým Guruem. Ale tak to není pro každého. Žák má právo změnit svého učitele. Jestliže žák, kterého nyní mám, chce ve své příští inkarnaci přejít k jinému Guruovi, nemám žádnou námitku. Dokonce i v této inkarnaci mám tady a tam bývalé žáky, kteří patří k různým skupinám a následují různé učitele. Nechovám k nim žádnou zášť a nejsem žárlivý na jejich nové učitele. Pokud noví učitelé vezmou mé dřívější duchovní děti k Bohu, jsem šťastný. Také mám žáky, kteří jednou následovali jiné učitele, ale nyní pro své duchovní naplnění přišli ke mně. V některých případech k nim jejich Guruové přišli během meditace nebo spánku, aby jim mohli říct, že se mohou stát mými žáky. 
 
-   Takže záleží na žákovi. Jestliže žák upřímně řekne: „Chci s tebou zůstat po celou Věčnost,“ dám mu své ujištění, že zůstanu jeho Mistrem. Řeknu: „Budu na tebe dávat pozor, na tvé srdce a duši, neustále.“ Ale musí to být oboustranné přijetí a oboustranný slib. Když žák slíbí: „Chci, aby tento Guru byl stále mým Guruem,“ tehdy Guru řekne: „Ano, vždy zůstaneš mým blízkým a drahým žákem.“
+   Takže záleží na žákovi. Jestliže žák upřímně řekne: „chci s tebou zůstat po celou věčnost,“ dám mu své ujištění, že zůstanu jeho mistrem. Řeknu: „budu na tebe dávat pozor, na tvé srdce a duši, neustále.“ ale musí to být oboustranné přijetí a oboustranný slib. když žák slíbí: „chci, aby tento guru byl stále mým guruem,“ tehdy guru řekne: „Ano, vždy zůstaneš mým blízkým a drahým žákem.“
 
 Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepomáhám? Každý den jim pomáhám. Mám tam žáky, příbuzné, přátele, dokonce své vlastní rodiče. Realizovaná duše může vstoupit do jakéhokoli světa a pomoci jakékoli osobě na světě. Mistr je povinen pomoci těm, kteří chtějí a potřebují tuto pomoc, protože žije pouze proto, aby sloužil ostatním.
 
@@ -69,9 +64,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Souhlasíte s jinými duchovními Mistry ohledně smyslu života? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:3-cs
   :END:
 
 
@@ -82,9 +77,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Může kdokoli obdržet vaše učení, nebo člověk musí mít jisté předpoklady? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:4-cs
   :END:
 
 
@@ -99,9 +94,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Dokážete říct, kdy je člověk připraven přijmout od vás nejvyšší pokyn?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:5-cs
   :END:
 
 
@@ -112,9 +107,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Jste ochotný dávat pokyny těm, kdo se zajímají o vaši cestu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:6-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:6-cs
   :END:
 
 
@@ -128,9 +123,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Opustí špatné síly okamžitě hledající, když přijmou vaši cestu? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:7-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:7-cs
   :END:
 
 
@@ -141,9 +136,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Mohl by člověk, který je duchovně vyspělý, být čarodějem? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:8-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:8-cs
   :END:
 
 
@@ -154,9 +149,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Poté, co jsem přišel na vaši cestu, všechny věci ke mně přicházejí, aniž bych o něco žádal. Je to normální? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:9-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:9-cs
   :END:
 
 
@@ -171,9 +166,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Nerozumím vašemu vztahu k Bohu a k vašim žákům. 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:10-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:10-cs
   :END:
 
 
@@ -184,13 +179,13 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Guru, kdy dostanu své duchovní jméno? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:11-cs
   :END:
 
 
-/Sri Chinmoy:/ To je nanejvýš obtížná otázka. Dostaneš své jméno, když jsi připraven. Dám ti tvé duchovní jméno pouze tehdy, když jsi připraven cítit, že jméno, které jsem ti dal, je jediné jméno, které ti dá radost. Jednou jsem vyprávěl příběh o pětileté dceři jednoho z mých žáků. Její matka a otec ji stále oslovovali jejím starým jménem. Nakonec řekla svým rodičům: „Jestli mě ještě jednou oslovíte starým jménem, půjdu ven a zůstanu tam.“ Podívejte se na radost, kterou tato malá dívenka dostala ze jména své duše!
+/Sri Chinmoy:/ to je nanejvýš obtížná otázka. dostaneš své jméno, když jsi připraven. dám ti tvé duchovní jméno pouze tehdy, když jsi připraven cítit, že jméno, které jsem ti dal, je jediné jméno, které ti dá radost. jednou jsem vyprávěl příběh o pětileté dceři jednoho z mých žáků. její matka a otec ji stále oslovovali jejím starým jménem. nakonec řekla svým rodičům: „Jestli mě ještě jednou oslovíte starým jménem, půjdu ven a zůstanu tam.“ Podívejte se na radost, kterou tato malá dívenka dostala ze jména své duše!
 
    Tvé jméno ti dám s radostí a pýchou, ale naneštěstí nepřišel čas. Když tvůj čas přijde, mohu ti dát duchovní jméno dokonce po telefonu. Pro tvého bratra jsem to udělal. Teď když jsi mě požádal o své jméno, nemusíš to už zmiňovat. Možná to zabere dva měsíce, možná to zabere rok, nebo to možná zabere tři dny. Když mi Bůh řekne, abych ti dal tvé jméno, určitě to udělám. Ty budeš na tento den čekat a budeš šťastný, až přijde. 
 
@@ -199,9 +194,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Část II.: Oddanost Mistrovi
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IJ:12e2-cs
+  :genre: section
+  :keywords:
+  :cite-key: ij:12e2-cs
   :END:
 
 
@@ -209,13 +204,13 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Jak mohu Nejvyššímu v tobě sloužit více vědomě? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:12-cs
   :END:
 
 
-/Sri Chinmoy:/ Abys sloužil Nejvyššímu ve mně více vědomě, nesmíš se nikdy zapomenout vyhýbat jednomu slovu, a tímto slovem je očekávání. Téměř všichni z vás ode mě svým vlastním způsobem něco očekávají. Většina z vás, pokud ne všichni, tuto politováníhodnou chybu děláte. Obvykle je pro lidské bytosti nemožné neočekávat. Řeknete: „Proč by nám neměl dávat, jestliže dáváme my jemu?“ Pravda, protože mi dáváte svou aspiraci, máte veškeré právo něco ode mě očekávat. Určitě vám dám něco na oplátku; ale dám vám to svým vlastním způsobem. Člověk, který realizoval Boha, nedokáže být lakomý, nedokáže být malicherný, nedokáže být lhostejný. Ustanovil-li si člověk vnitřní spojení, vnitřní jednotu s Mistrem, pak určitě Mistr bude dávat. Je nutnou povinností duchovního Mistra být neustále nápomocen svým žákům. Vy hrajete úlohu svou aspirací: to je vaše služba. Mistr hraje svou roli svým zájmem, soucitem a pocitem jednoty, který pozvedne vaše vědomí. 
+/Sri Chinmoy:/ abys sloužil nejvyššímu ve mně více vědomě, nesmíš se nikdy zapomenout vyhýbat jednomu slovu, a tímto slovem je očekávání. téměř všichni z vás ode mě svým vlastním způsobem něco očekávají. většina z vás, pokud ne všichni, tuto politováníhodnou chybu děláte. obvykle je pro lidské bytosti nemožné neočekávat. Řeknete: „proč by nám neměl dávat, jestliže dáváme my jemu?“ pravda, protože mi dáváte svou aspiraci, máte veškeré právo něco ode mě očekávat. určitě vám dám něco na oplátku; ale dám vám to svým vlastním způsobem. Člověk, který realizoval boha, nedokáže být lakomý, nedokáže být malicherný, nedokáže být lhostejný. ustanovil-li si člověk vnitřní spojení, vnitřní jednotu s mistrem, pak určitě mistr bude dávat. je nutnou povinností duchovního mistra být neustále nápomocen svým žákům. vy hrajete úlohu svou aspirací: to je vaše služba. Mistr hraje svou roli svým zájmem, soucitem a pocitem jednoty, který pozvedne vaše vědomí. 
 
    Ale jestliže si myslíte, že o vás něco někomu pěkného řeknu, nebo že o vás budu pěkně mluvit jen proto, že jste meditovali dvě hodiny, pak děláte vážnou chybu. Jestliže uvažujete: „Protože se dneska nanejvýš upřímně modlím k Nejvyššímu v mém Guruovi, zítra se na mě usměje nebo o mně řekne něco pěkného mým duchovním sestrám a bratrům,“ pak nesloužíte Nejvyššímu ve mně. Pokud ode mě svým vlastním způsobem nikdy nic neočekáváte, je to samý začátek vaší nanejvýš oduševnělé služby. Bůh chce vidět, jak upřímně se chcete ponořit do mé duchovní cesty. Meditovali jste brzy ráno, abyste získali uznání? Nebo je důvodem to, že jdete ven do města dělat přednášku o meditaci? Jestliže chcete uznání, pak služba zmizí. Pravá služba zaniká v okamžiku, kdy pláčeme po vnějším uznání. 
 
@@ -238,9 +233,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Jak tě mohu nejlépe potěšit, Guru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:13-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:13-cs
   :END:
 
 
@@ -251,9 +246,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Guru, jestliže tvůj žák má k tobě lásku a oddanost, ale je ve špatném vědomí, jestliže ho spatříš, prohlédneš skrze jeho špatné vědomí přímo k jeho lásce a oddanosti? Tedy když je v nízkém vědomí, vidíš také jeho dobré vlastnosti? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:14-cs
   :END:
 
 
@@ -266,9 +261,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Jak se můžeme stát více odevzdaní tobě, Guru? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:15-cs
   :END:
 
 
@@ -279,13 +274,13 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Jak tě můžeme milovat a nic po tobě nevyžadovat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:16-cs
   :END:
 
 
-/Sri Chinmoy:/ Když dítě stojí před svým otcem a otec začíná počítat své peníze, otec říká dítěti: „Toto jsou všechno tvé peníze. Ale když je dostaneš teď, nebudeš schopné je použít k žádnému pořádnému účelu.“ A tak se dítě spokojí s pencí či pěticentem od svého otce. Požadavek přichází pouze tehdy, když cítíme, že nedostaneme věc, kterou chceme nebo potřebujeme; že půjde k někomu jinému. Dítě ví, že jeho otec mu nakonec, až nadejde správný čas, dá všechen svůj majetek. A tak když otec drží své peníze, dítě nic nepožaduje. Když uslyší, že to jsou všechno jeho peníze, je spokojeno s pěticentem, které dostane. 
+/Sri Chinmoy:/ když dítě stojí před svým otcem a otec začíná počítat své peníze, otec říká dítěti: „Toto jsou všechno tvé peníze. Ale když je dostaneš teď, nebudeš schopné je použít k žádnému pořádnému účelu.“ A tak se dítě spokojí s pencí či pěticentem od svého otce. Požadavek přichází pouze tehdy, když cítíme, že nedostaneme věc, kterou chceme nebo potřebujeme; že půjde k někomu jinému. Dítě ví, že jeho otec mu nakonec, až nadejde správný čas, dá všechen svůj majetek. A tak když otec drží své peníze, dítě nic nepožaduje. Když uslyší, že to jsou všechno jeho peníze, je spokojeno s pěticentem, které dostane. 
 
    Jsem tvůj duchovní otec a mám pro tebe nekonečný Mír, Světlo a Blaženost. Požaduješ, protože cítíš, že všechno jde k někomu jinému, že někdo jiný uchvátí mé duchovní bohatství. Ale duchovní Mistr, je-li opravdovým duchovním Mistrem, bude mít Mír, Světlo a Blaženost v nekonečné míře. Tyto věci nikdy nemohou ubýt, nehledě na to, kolik dává někomu jinému. Musíš cítit, že právě ty duchovní vlastnosti, které chceš, určitě získáš, až přijde čas. 
 
@@ -296,9 +291,9 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Jak mohu poznat, zdali konám svou vůli nebo tvoji vůli? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:17-cs
   :END:
 
 
@@ -306,7 +301,7 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 
    V duchovním životě chcete jít daleko za oblast mysli. Vaše existence pochází z nejvyššího trojitého Vědomí. Tato konečná existence pochází ze /Sat-Čit-Ánanda/, nekonečné Pravdy, nekonečného Vědomí a nekonečné Blaženosti. Jste jeho nedílnou součástí. Musíte cítit, že váš Mistr je vaší nejvyšší částí a ne odděleným jedincem. Jsem lidská bytost, souhlasím; ale chcete-li být naprosto jedním s mým božským vědomím, pak se musíte učinit tak prázdnými, jak je to jen možné. Dokážete-li nechat svou nádobu prázdnou, pak pouze tehdy má vůle vstoupí a naplní vás po okraj. Jste-li již plni svými osobními sklony, tendencemi a tak dále, pak jsem ztracen. 
 
-   A tak každý den si najděte chvilku, kdy nebudete mít žádnou svou vlastní vůli. Vědomě se snažte cítit, že vůle vašeho Mistra je vaší vůlí. Když Kristus řekl: „Staň se Vůle Tvá,“ bylo to nejvyšší uvědomění vyjádřené lidským jazykem. Vy také můžete cítit nezbytnost, aby vaše vůle byla naprosto a neoddělitelně jednou s Vůlí Nejvyššího ve mně. Časně ráno, první věc, kterou musíte udělat, je modlit se k Nejvyššímu: „Nabízím svou vůli svému Guruovi. Nechť jeho světlo proudí ve mně a skrze mě.“
+   A tak každý den si najděte chvilku, kdy nebudete mít žádnou svou vlastní vůli. Vědomě se snažte cítit, že vůle vašeho Mistra je vaší vůlí. Když Kristus řekl: „staň se vůle tvá,“ bylo to nejvyšší uvědomění vyjádřené lidským jazykem. vy také můžete cítit nezbytnost, aby vaše vůle byla naprosto a neoddělitelně jednou s vůlí nejvyššího ve mně. Časně ráno, první věc, kterou musíte udělat, je modlit se k nejvyššímu: „Nabízím svou vůli svému Guruovi. Nechť jeho světlo proudí ve mně a skrze mě.“
 
    Přeji si vám říct, že je nekonečně snazší jít k Nejvyššímu skrze mě, než vstoupit do Nejvyššího přímo. Možná cítíte, že není nutné mít duchovního Mistra, ale jak hodláte dosáhnout Cíle? Na duchovním žebříčku je mnoho příček, a jestliže po nich nevylezete, jak hodláte dosáhnout vrcholu? Proto se snažte časně ráno, každý den, odevzdat svou vůli a zároveň cítit, že má vůle, která zastupuje Vůli Nejvyššího, je vaší vůlí ve zbožštělé podobě. Pak uvidíte, že ve vašem životě aspirace a realizace nemůže být žádný problém. 
 
@@ -315,13 +310,13 @@ Mám žáky již v Nebi. Myslíte si, že protože jsem tady na zemi, jim nepom
 * Jaké cvičení byste mi doporučil, abych dokázal pamatovat na vaši přítomnost během vaší fyzické nepřítomnosti? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:18-cs
   :END:
 
 
-/Sri Chinmoy:/ Když jste v mé fyzické přítomnosti, prosím, zkuste cítit jednu věc: že božské ve mně, ne lidské ve mně, je pro vás vší láskou. Ciťte, že neexistuje nic, co by božské ve mně pro vás neudělalo. Musíte cítit, že máte volný přístup k mé duši. Musíte-li jít ze svého obývacího pokoje do své ložnice, mezi těmi dvěma místnostmi mohou být překážky. Ale chcete-li jít ze své existence a vstoupit do mé božské existence, nebudou zde žádné překážky. Proto chcete-li vstoupit do mého duchovního srdce, srdce, které slouží Nejvyššímu ve vás a v každém, pak nenajdete žádné potíže do něj vstoupit. Mezi vaší aspirací a mým osvícením nebudou vůbec žádné překážky. Dokážete-li na to pamatovat, pak si budete schopni pamatovat mou přítomnost.
+/Sri Chinmoy:/ když jste v mé fyzické přítomnosti, prosím, zkuste cítit jednu věc: že božské ve mně, ne lidské ve mně, je pro vás vší láskou. Ciťte, že neexistuje nic, co by božské ve mně pro vás neudělalo. Musíte cítit, že máte volný přístup k mé duši. Musíte-li jít ze svého obývacího pokoje do své ložnice, mezi těmi dvěma místnostmi mohou být překážky. Ale chcete-li jít ze své existence a vstoupit do mé božské existence, nebudou zde žádné překážky. Proto chcete-li vstoupit do mého duchovního srdce, srdce, které slouží Nejvyššímu ve vás a v každém, pak nenajdete žádné potíže do něj vstoupit. Mezi vaší aspirací a mým osvícením nebudou vůbec žádné překážky. Dokážete-li na to pamatovat, pak si budete schopni pamatovat mou přítomnost.
 
 Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete do něčeho narazit a zlomit si nohu. Ale v případě božského ve mně čím rychleji k němu běžíte, tím dříve jej dosáhnete. A čím dříve jej dosáhnete, tím lépe pro vás, pro mě a pro každého. 
 
@@ -330,9 +325,9 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Zdá se, že vás Nejvyšší má rád víc, než má rád sám Sebe. 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:19-cs
   :END:
 
 
@@ -344,9 +339,9 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Jak mohu realizovat vaši duchovní výšku? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:20-cs
   :END:
 
 
@@ -357,9 +352,9 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Část III.: Meditace a Mistrova přítomnost
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IJ:21e3-cs
+  :genre: section
+  :keywords:
+  :cite-key: ij:21e3-cs
   :END:
 
 
@@ -367,9 +362,9 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Proč žádáte své žáky, aby meditovali na vaši fotografii?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:21-cs
   :END:
 
 
@@ -377,16 +372,16 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
    Když meditují na můj obraz, síla jejich meditace vstoupí do Nejvyššího ve mně. Nepodvádím je. Pravý předmět lásky, kterým je Bůh, je stejným dílem v mém srdci jako v srdcích mých žáků. Jediná věc je ta, že oni nemají dostatek víry v sebe sama. Jinak bych mohl říct každému člověku, aby meditoval sám na sebe. Ale jestliže řeknu svým žákům, aby meditovali na sebe, nakrmí se pouze jejich ega. Jejich ega vyjdou do popředí a řeknou: „Jsem Brahma, jsem Bůh.“ Pak, když jejich mysl přijde s malou pochybností, snadno je pohltí pochybnost a frustrace. 
 
-   Proto neradím svým žákům, aby meditovali na sebe. Říkám jim: „Buďte pokorní. Soustřeďte se na květinu nebo na plamen a inspirujte se.“ V Indii jsem viděl mnoho lidí, jak říkají: „Jsem Šiva, jsem Brahma, jsem Krišna.“ A nakonec se z toho pomátli. 
+   Proto neradím svým žákům, aby meditovali na sebe. Říkám jim: „buďte pokorní. soustřeďte se na květinu nebo na plamen a inspirujte se.“ v indii jsem viděl mnoho lidí, jak říkají: „Jsem Šiva, jsem Brahma, jsem Krišna.“ A nakonec se z toho pomátli. 
 
 
 
 * Měli bychom se během meditace na vás dívat se sepjatýma rukama? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:22-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:22-cs
   :END:
 
 
@@ -401,13 +396,13 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Někdy, když se během své meditace po nás rozhlížíte a když se blížíte pohledem ke mně, vyděsím se. Ale nevím proč. 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:23-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:23-cs
   :END:
 
 
-/Sri Chinmoy:/ Bojíš se mě, protože cítíš, že budeš odhalen. Nevědomky přemýšlíš: „Ráno jsem byl žárlivý, pochyboval jsem o svém duchovním životě nebo jsem udělal něco jiného špatně.“ Mysl okamžitě přemýšlí o něčem špatném, co jsi udělal a ty se začneš bát. Ale jestliže v tom okamžiku cítíš: „Ne, nejsem mysl; jsem srdce,“ pak se nebudeš bát. Když dítě vidí svou matku nebo svého otce, jak se k němu blíží, jestliže ví, že udělalo něco špatně, bude se bát. Jestliže neudělalo nic špatného, pak se bát nebude. 
+/Sri Chinmoy:/ bojíš se mě, protože cítíš, že budeš odhalen. nevědomky přemýšlíš: „ráno jsem byl žárlivý, pochyboval jsem o svém duchovním životě nebo jsem udělal něco jiného špatně.“ mysl okamžitě přemýšlí o něčem špatném, co jsi udělal a ty se začneš bát. ale jestliže v tom okamžiku cítíš: „Ne, nejsem mysl; jsem srdce,“ pak se nebudeš bát. Když dítě vidí svou matku nebo svého otce, jak se k němu blíží, jestliže ví, že udělalo něco špatně, bude se bát. Jestliže neudělalo nic špatného, pak se bát nebude. 
 
    Stejně tak má-li dítě velmi laskavého a milujícího otce, pak dokonce jestliže udělalo něco špatného, nebude se bát, protože ví, že jeho otec ho neudeří a nevynadá mu. Vidí pouze otcův zájem zlepšit jej. Proto v okamžiku, kdy máte důvěru ke svému Mistrovi, cítíte: „Je v mém zájmu být dobrý a je v jeho zájmu učinit mě dobrým.“ V okamžiku, kdy cítíte, že jste udělali něco špatně, ať ve svých myšlenkách nebo ve svých činech, ciťte, že má starost zlepšit vás je nekonečně větší než vaše starost zlepšit sama sebe. Pak zde nebude žádný strach. Strach přichází, protože cítíte, že budete odhaleni mým světlem. Ale mé světlo je tu jen proto, aby vás osvítilo. 
 
@@ -420,9 +415,9 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Když jsem zpočátku stal žákem, bylo radostí meditovat a následovat cestu. V poslední době cítím, že tu radost nemám, a tak nemedituji pravidelně. 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:24-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:24-cs
   :END:
 
 
@@ -439,22 +434,22 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Guru, měli bychom meditovat při řízení? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:25-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:25-cs
   :END:
 
 
-/Sri Chinmoy:/ Když jsem běhával stovku sprintu za deset nebo jedenáct vteřin, Bůh věděl, kolikrát jsem na Něj meditoval. Vedl jsem v běžeckém závodě, nicméně během závodu byla má mysl u Boha. Možná řeknete: „Jak jsi dokázal myslet na Boha tak oddaně? Je-li tvá mysl u Boha, změníš svou dráhu a budeš diskvalifikován.“ Ale nikoli, dokázal jsem to. A tak když máte rozvinutou sílu meditace a jste zkušení v meditaci, pak jste schopni meditovat během řízení. Všechno záleží na vašem vnitřním vývoji. Jste-li schopni meditovat během řízení, neděláte nic špatného. Ale jestliže se začátečník v duchovním životě snaží meditovat během řízení, pak bude mít nehodu. 
+/Sri Chinmoy:/ když jsem běhával stovku sprintu za deset nebo jedenáct vteřin, bůh věděl, kolikrát jsem na něj meditoval. vedl jsem v běžeckém závodě, nicméně během závodu byla má mysl u boha. možná řeknete: „Jak jsi dokázal myslet na Boha tak oddaně? Je-li tvá mysl u Boha, změníš svou dráhu a budeš diskvalifikován.“ Ale nikoli, dokázal jsem to. A tak když máte rozvinutou sílu meditace a jste zkušení v meditaci, pak jste schopni meditovat během řízení. Všechno záleží na vašem vnitřním vývoji. Jste-li schopni meditovat během řízení, neděláte nic špatného. Ale jestliže se začátečník v duchovním životě snaží meditovat během řízení, pak bude mít nehodu. 
 
 
 
-* Část IV.: Sri Chinmoy: osobní postřehy
+* Část IV.: sri chinmoy: osobní postřehy
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IJ:26e4-cs
+  :genre: section
+  :keywords:
+  :cite-key: ij:26e4-cs
   :END:
 
 
@@ -462,13 +457,13 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Jaká je vaše vlastní definice Boha? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:26-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:26-cs
   :END:
 
 
-/Sri Chinmoy:/ Předtím, než vyslovím svou definici Boha, si přeji říct, že definice Boha každého jednotlivce je vždy správná. Není to tak, že jedině duchovní Mistr je schopen říct definici Boha. Ne, dokonce i dítě dokáže říct dostatečnou definici Boha. Řekne ji podle svého porozumění, své schopnosti, svého vnitřního porozumění. Každý jednotlivec, bez ohledu na věk a úroveň, může odpovědět na tuto otázku podle svého vlastního vnitřního uvědomění a vnitřního osvícení. Někteří duchovní Mistři říkají, že Bůh je Světlo. Jiní říkají, že Bůh je Vědomí. Někteří zase tvrdí, že Bůh je Síla. Čtvrtá skupina řekne, že Bůh je osobní Bytost. Definice Boha každého je správná jeho vlastním způsobem, protože v této konkrétní podobě k nim Bůh přišel: jako Láska, Vědomí, Síla, Blaženost, Bytost s lidskými rysy, a tak dále. Když kritizujeme ostatní, tím, že řekneme: „Ne, tvoje definice je špatná, moje je správná,“ je to absurdní. Má pravdu, protože mluví na základě svého vnitřního chápání. To, co říkáte vy, je také pravda na základě vašeho chápání a já mám pravdu na základě mého chápání. 
+/Sri Chinmoy:/ předtím, než vyslovím svou definici boha, si přeji říct, že definice boha každého jednotlivce je vždy správná. není to tak, že jedině duchovní mistr je schopen říct definici boha. ne, dokonce i dítě dokáže říct dostatečnou definici boha. Řekne ji podle svého porozumění, své schopnosti, svého vnitřního porozumění. každý jednotlivec, bez ohledu na věk a úroveň, může odpovědět na tuto otázku podle svého vlastního vnitřního uvědomění a vnitřního osvícení. někteří duchovní mistři říkají, že bůh je světlo. jiní říkají, že bůh je vědomí. někteří zase tvrdí, že bůh je síla. Čtvrtá skupina řekne, že bůh je osobní bytost. definice boha každého je správná jeho vlastním způsobem, protože v této konkrétní podobě k nim bůh přišel: jako láska, vědomí, síla, blaženost, bytost s lidskými rysy, a tak dále. když kritizujeme ostatní, tím, že řekneme: „Ne, tvoje definice je špatná, moje je správná,“ je to absurdní. Má pravdu, protože mluví na základě svého vnitřního chápání. To, co říkáte vy, je také pravda na základě vašeho chápání a já mám pravdu na základě mého chápání. 
 
    Podle mého chápání mou vlastní definicí Boha je Láska. Je mi nejdražší, protože v Něm vidím nekonečnou Lásku. Vím, že Bůh je jak věčným Milovníkem, tak věčným Milovaným. Uvnitř srdce každého jednotlivého hledajícího, předtím než realizuje Nejvyšší, je Bůh milovníkem. Ale pro tohoto samého hledajícího, který aspiruje po Nejvyšším, je Bůh sám Milovaným. Nakonec se milovník a Milovaný stanou naprosto jedním. Člověk a Bůh jsou věčně jedním. Člověk je Bohem ještě nerealizovaným plně, vědomě a neodlučitelně; Bůh je člověkem ještě úplně neprojeveným na zemi.
 
@@ -477,9 +472,9 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:27-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:27-cs
   :END:
 
 
@@ -490,9 +485,9 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Berete na sebe také jiné podoby? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:28-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:28-cs
   :END:
 
 
@@ -505,9 +500,9 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Guru, jak to, že během rozhovorů působíš vážně, a když mluvíš k nám, působíš přátelsky? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:29-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:29-cs
   :END:
 
 
@@ -523,9 +518,9 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Jak dlouho vám trvalo vystoupat po duchovním žebříčku? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:30-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:30-cs
   :END:
 
 
@@ -536,9 +531,9 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Jak moc váš vnější život odráží ten vnitřní? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:31-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:31-cs
   :END:
 
 
@@ -551,22 +546,22 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Když říkáš „Aum“, obracíš se na nekonečné? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:32-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:32-cs
   :END:
 
 
-/Sri Chinmoy:/ /Aum/ zastupuje Boha v Jeho třech hlavních aspektech. „A“ zastupuje Boha Stvořitele, „U“ zastupuje Boha Udržovatele, „M“ zastupuje Boha Přeměnitele. Když opakuji /Aum/, vstupuji do svého nejvyššího vědomí. Když jsem v opravdové meditaci, tehdy jestliže jednou vyslovím /Aum/, vstoupím do svého nejvyššího transcendentálního Vědomí, kde si spolu hraje Nekonečnost, Věčnost a Nesmrtelnost. Ale když hovořím a během řeči řeknu slovo /Aum/, neznamená to, že vstupuji do svého nejvyššího vědomí nebo že se obracím na Nekonečné. Tehdy je můj záměr jiný: je to jako hodit světlo do aspirujících duší. Jestliže ony chtějí jít hlouběji do mého vědomí nebo do jejich vlastního nejvyššího vědomí, pak musí meditovat. Pak, když spolu opakujeme /Aum/ na konci meditace, můžeme vstoupit do nejvyšších světů. 
+/Sri Chinmoy:/ /aum/ zastupuje boha v jeho třech hlavních aspektech. „a“ zastupuje boha stvořitele, „u“ zastupuje boha udržovatele, „m“ zastupuje boha přeměnitele. když opakuji /aum/, vstupuji do svého nejvyššího vědomí. když jsem v opravdové meditaci, tehdy jestliže jednou vyslovím /aum/, vstoupím do svého nejvyššího transcendentálního vědomí, kde si spolu hraje nekonečnost, věčnost a nesmrtelnost. ale když hovořím a během řeči řeknu slovo /aum/, neznamená to, že vstupuji do svého nejvyššího vědomí nebo že se obracím na nekonečné. tehdy je můj záměr jiný: je to jako hodit světlo do aspirujících duší. Jestliže ony chtějí jít hlouběji do mého vědomí nebo do jejich vlastního nejvyššího vědomí, pak musí meditovat. Pak, když spolu opakujeme /Aum/ na konci meditace, můžeme vstoupit do nejvyšších světů. 
 
 
 
 * Ve vaší knize o astrologii jste mluvil o boji s vitálními bytostmi. V jednom místě mluvíte o sedmi bytostech, které přišly a napadly vás. Jak jste vlastně bojoval s těmito bytostmi? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:33-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:33-cs
   :END:
 
 
@@ -577,9 +572,9 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Napíšete někdy svůj životopis?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IJ:34-cs
+  :genre: qa
+  :keywords:
+  :cite-key: ij:34-cs
   :END:
 
 
@@ -589,7 +584,7 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 
    To, co dělám od té doby, co jsem přišel do Ameriky, je opravdu důležité. Jiné věci nejsou důležité. V životě Krista jsou důležité pouze tři roky. To, co dělal, než dosáhl třiceti let, sám Bůh ví. Co uvidíme nebo co získáme z jeho života před třicítkou? Nic! Ale během let od třiceti do třiatřiceti, udělal věci, které jsou nesmrtelné. Vědomí země si stále váží věcí, které udělal: stále si cení jeho lásky a soucitu. 
    
-   Jestliže vy lidé cítíte: „Ó, kdybych tak mohl něco vědět o Kristovi před jeho třicetinami, pak bych byl spasen,“ já řeknu: „Ne, čím méně víte o osobní stránce, o nedůležité stránce, tím lépe. Jen věnujte pozornost samotnému Cíli.“ Na mangovníku je mnoho větví a tisíce a tisíce listů. Ale co potřebujete, je mango. Jestliže víte, kde je mango, máte všechno. Proč chcete vědět, kolik listů je na stromě? Máte-li hlad nebo žízeň, samotné mango vás uspokojí, ne listy. A tak byste měli jíst své mango a být spokojeni. 
+   Jestliže vy lidé cítíte: „Ó, kdybych tak mohl něco vědět o kristovi před jeho třicetinami, pak bych byl spasen,“ já řeknu: „Ne, čím méně víte o osobní stránce, o nedůležité stránce, tím lépe. Jen věnujte pozornost samotnému Cíli.“ Na mangovníku je mnoho větví a tisíce a tisíce listů. Ale co potřebujete, je mango. Jestliže víte, kde je mango, máte všechno. Proč chcete vědět, kolik listů je na stromě? Máte-li hlad nebo žízeň, samotné mango vás uspokojí, ne listy. A tak byste měli jíst své mango a být spokojeni. 
 
    Když se člověk stane opravdovým Mistrem a dokáže nabízet Světlo, Světlo je mangem. Chcete-li získat mango příliš brzy, předtím, než je zralé, nebudete spokojeni. Takže teď jsem mangem, Světlem. Teď je čas podívat se na mango, které je mou přítomností, a ne na listy, které zastupují mou minulost. 
 
@@ -598,9 +593,9 @@ Snažíte-li se běžet z jedné místnosti ve vašem domě do jiné, můžete 
 * Zlatá Loď
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IJ:35-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: ij:35-cs
   :END:
 
 
@@ -619,19 +614,3 @@ Drahé děti, Zlatá Loď není má. Tato loď patří Nejvyššímu. Všichni j
    Znovu si přeji říct, že toto není má loď: je to Loď Nejvyššího. Já jsem zkušený nebo pokročilý člen této Lodi. Jak vám stále říkám, jsem jedním z vás; jsem vaším bratrem. Naším Otcem je někdo jiný. Narodil jsem se do této duchovní rodiny několik let předtím, než jste se narodili vy, proto se ode mě přirozeně očekává, že jsem učinil trochu větší pokrok než vy. Nyní jsem schopný říct vám o Nejvyšším, který je naším věčným Otcem, věčnou Matkou, věčným Přítelem, věčným Milovaným. Snažím se vás naučit, jak vrůst do Jeho pravé Podoby. Ukážu vám, kde je náš Otec a tím je mé poslání skončeno. 
 
    Nejvyšší se vždy zabývá překonáváním Svého vlastního rozvíjejícího se Vědomí. V každé chviličce překonává hranice Svého vlastního Překonání. A proto říkáme, že se zabývá stálým překonáváním Skutečnosti, Božskosti a Nesmrtelnosti. Dnes se modlím k Nejvyššímu Kormidelníkovi, aby mi dal příležitost a schopnost nesčetněkrát nabídnout každému z vás svou vděčnost plnou požehnání, neboť každý žák, každý hledající, mi dal příležitost být nápomocen Nejvyššímu v něm. Nejste to vy, kdo by měl být hrdý na vašeho takzvaného vůdce na zemi; jsem to já, kdo by měl být v každičkém okamžiku hrdý na vás a nabídnout vám svou nanejvýš oduševnělou vděčnost. Jste to vy, kdo mi dal příležitost, a jste to vy, kdo si mě vybral, abych byl zasvěceně a oddaně nápomocen vám všem. 
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

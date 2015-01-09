@@ -1,20 +1,15 @@
-#+TITLE: Everest aspirace, část 1.
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Everest aspirace, část 1.
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2003
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: EA-1-cs
-  :GENRE: discourse
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2003
+  :publisher: Madal Bal
+  :cite-key: EA-1-cs
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -25,10 +20,10 @@
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:1-cs
-  :DATE-EVENT: 1977-07-01
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:1-cs
+  :date-event: 1977-07-01
   :END:
 
 
@@ -83,10 +78,10 @@ Asbury Park, New Jersey
 * VDĚČNOST
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:2-cs
-  :DATE-EVENT: 1977-07-02
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:2-cs
+  :date-event: 1977-07-02
   :END:
 
 
@@ -94,7 +89,7 @@ Vděčnost, vděčnost, vděčnost.
 
 Vděčnost je zázračným vlivem uvnitř nás. Toto zázračné působení posiluje naše fyzické tělo, pročišťuje naši vitální energii, rozšiřuje naše mentální zření a zintenzivňuje naši duševní blaženost. Hledající v nás se snaží být prostý, upřímný, čistý a pokorný. Každý duchovní hledající se snaží pěstovat si tyto kvality v hojné míře. Nejjednodušší a nejúčinnější cestou, jak pěstovat tyto kvality, je otevřít květinu vděčnosti a nechat ji rozkvétat uvnitř našeho srdce lístek po lístku. Jak to dokážeme? Musíme považovat za důležitější nejenom to, co máme, ale plnou měrou i to, co nemáme.
 
-Co máme, je myšlení plné touhy, hledání plné touhy a toužebnou snahu stát se něčím. Myšlení plné touhy: myslíme si, že budeme nějakým způsobem velcí nebo úspěšní. Hledání plné touhy: hledáme pravdu a světlo svým vlastním způsobem tam, kde podle nás pravda a světlo musí přebývat. Toužebná snaha stát se něčím: chceme se stát čímsi, co nám dá potěšení. Toto je ta nejžalostnější chyba, kterou děláme. Pokud se chceme těšit svým vlastním způsobem, pak vědomě nebo nevědomě přivádíme do popředí vlka vitálna.
+Co máme, je myšlení plné touhy, hledání plné touhy a toužebnou snahu stát se něčím. Myšlení plné touhy: myslíme si, že budeme nějakým způsobem velcí nebo úspěšní. hledání plné touhy: hledáme pravdu a světlo svým vlastním způsobem tam, kde podle nás pravda a světlo musí přebývat. toužebná snaha stát se něčím: chceme se stát čímsi, co nám dá potěšení. Toto je ta nejžalostnější chyba, kterou děláme. Pokud se chceme těšit svým vlastním způsobem, pak vědomě nebo nevědomě přivádíme do popředí vlka vitálna.
 
 Co nemáme, je bezdechý vnitřní pláč a bezmezný vnější úsměv. Jestliže si dokážeme vyvinout bezdechý vnitřní pláč, pak si automaticky vyvineme i bezmezný vnější úsměv.
 
@@ -110,10 +105,10 @@ Jamaica, New York \\
 * NEVÍM
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:3-cs
-  :DATE-EVENT: 1977-07-02
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:3-cs
+  :date-event: 1977-07-02
   :END:
 
 
@@ -135,10 +130,10 @@ Jamaica, New York \\
 * SEN
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:4-cs
-  :DATE-EVENT: 1977-07-02
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:4-cs
+  :date-event: 1977-07-02
   :END:
 
 
@@ -166,10 +161,10 @@ Long Island, New York \\
 * JISTOTA
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:5-cs
-  :DATE-EVENT: 1977-07-02
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:5-cs
+  :date-event: 1977-07-02
   :END:
 
 
@@ -201,10 +196,10 @@ Long Island. New York \\
 * TEORETICKÁ ODEVZDANOST A PRAKTICKÁ ODEVZDANOST
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:6-cs
-  :DATE-EVENT: 1977-07-03
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:6-cs
+  :date-event: 1977-07-03
   :END:
 
 
@@ -214,7 +209,7 @@ Nyní jsem jedním se svým Milovaným Nejvyšším a navždy zůstanu jedním, 
 
 Má teoretická odevzdanost jednoty říká: "Pane, staň se vůle Tvá." Ale jakmile jsem zmítán údery pozemského života, stáhnu svou takzvanou odevzdanou jednotu se svým Milovaným Nejvyšším. Proklínám sám sebe za to, že jsem byl horlivý, abych se s Ním stal jedním. Toto je teoretická odevzdanost jednoty.
 
-Moje praktická odevzdanost jednoty je zcela odlišná. Ve své praktické jednotě zažívám to, co On prožívá ve mně a skrze mne: životní selhání a životní úspěch, životní smutek a životní radost, život v procesu couvání a ústupu a život v procesu stávání se a překonávání se. Všechno přijímám s veselou, oddanou, bezpodmínečnou a odevzdanou jednotou. Jestliže mohu vytvořit svou odevzdanou jednotu se svým Milovaným Nejvyšším na fyzické úrovni, praktické úrovni, pak jen tehdy se mohu stát nejen tím, co On má, ale také tím, čím On je. Tím, čím On je, já věčně a opravdu jsem: Věčnou Duší Jednoty a Nekonečným Cílem Jednoty.
+Moje praktická odevzdanost jednoty je zcela odlišná. Ve své praktické jednotě zažívám to, co On prožívá ve mně a skrze mne: životní selhání a životní úspěch, životní smutek a životní radost, život v procesu couvání a ústupu a život v procesu stávání se a překonávání se. všechno přijímám s veselou, oddanou, bezpodmínečnou a odevzdanou jednotou. jestliže mohu vytvořit svou odevzdanou jednotu se svým milovaným nejvyšším na fyzické úrovni, praktické úrovni, pak jen tehdy se mohu stát nejen tím, co on má, ale také tím, čím on je. tím, čím on je, já věčně a opravdu jsem: Věčnou Duší Jednoty a Nekonečným Cílem Jednoty.
 
 Mé sladké děti, někteří z vás jste se odevzdali teoreticky. Ale na praktické úrovni se neodevzdal nikdo, nikdo, nikdo. A mnoho z vás tady se neodevzdalo ani na teoretické úrovni. Takže jak vám mohu pomoci? Ti, kteří jste si nevytvořili teoretickou odevzdanost, laskavě ji ode dneška začněte provádět. A ti, kteří máte teoretickou odevzdanost, se zkuste ode dneška stát prakticky odevzdaným žákem Nejvyššího. Jste-li nyní na teoretické úrovni,  pokuste se dostat na praktickou úroveň, a ty, kteří nemají ani teoretickou odevzdanost, prosím, aby přešli na úroveň teoretické jednoty s Nejvyšším.
 
@@ -228,10 +223,10 @@ Jamaica, New York \\
 * USPOKOJENÍ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:7-cs
-  :DATE-EVENT: 1977-07-03
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:7-cs
+  :date-event: 1977-07-03
   :END:
 
 
@@ -260,10 +255,10 @@ Jamaica, New York \\
 * VÝŠE SOUCITU A SVĚTLO SPRAVEDLNOSTI
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:8-cs
-  :DATE-EVENT: 1977-07-04
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:8-cs
+  :date-event: 1977-07-04
   :END:
 
 
@@ -293,10 +288,10 @@ Jamaica, New York \\
 * MÁ TOUHO
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:9-cs
-  :DATE-EVENT: 1977-07-04
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:9-cs
+  :date-event: 1977-07-04
   :END:
 
 
@@ -322,10 +317,10 @@ Jamaica, New York \\
 * ZKRATKA, KRATŠÍ ZKRATKA, NEJKRATŠÍ ZKRATKA
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:10-cs
-  :DATE-EVENT: 1977-07-05
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:10-cs
+  :date-event: 1977-07-05
   :END:
 
 
@@ -352,10 +347,10 @@ Jamaica, New York \\
 * ŠTĚSTÍ A NEŠTĚSTÍ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:11-cs
-  :DATE-EVENT: 1977-07-05
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:11-cs
+  :date-event: 1977-07-05
   :END:
 
 
@@ -379,10 +374,10 @@ Hollis, New York \\
 * LIDSKÁ SKUTEČNOST A BOŽSKÁ SKUTEČNOST
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:12-cs
-  :DATE-EVENT: 1977-07-06
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:12-cs
+  :date-event: 1977-07-06
   :END:
 
 "Můj drahý Milovaný Nejvyšší, vím, že ztělesňuješ dvě skutečnosti, dva aspekty -- lidskou skutečnost, nebo lidský aspekt, a božskou skutečnost, nebo božský aspekt. Prosím, řekni mi, který Tvůj aspekt je lepší, nebo který aspekt si musím vybrat, abych dělal nejrychlejší pokrok, nebo zda je z mé strany nutné zvolit si jeden z aspektů, abych dospěl k nejvyššímu Cíli hluboko uvnitř Tebe."
@@ -406,10 +401,10 @@ Jamaica, New York \\
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:13-cs
-  :DATE-EVENT: 1977-07-06
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:13-cs
+  :date-event: 1977-07-06
   :END:
 
 
@@ -436,10 +431,10 @@ Flushing, New York \\
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:14-cs
-  :DATE-EVENT: 1977-07-07
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:14-cs
+  :date-event: 1977-07-07
   :END:
 
 
@@ -466,10 +461,10 @@ Jamaica, New York \\
 * USMÍVEJME SE, MILUJME A PŘIJMĚME
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:15-cs
-  :DATE-EVENT: 1977-07-07
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:15-cs
+  :date-event: 1977-07-07
   :END:
 
 
@@ -497,10 +492,10 @@ Caldwell, New Jersey \\
 * PŘEDSTAVIVOST
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:16-cs
-  :DATE-EVENT: 1977-07-08
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:16-cs
+  :date-event: 1977-07-08
   :END:
 
 
@@ -540,10 +535,10 @@ Jamaica, New York \\
 * MOJI CELOŽIVOTNÍ PŘÁTELÉ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:17-cs
-  :DATE-EVENT: 1977-07-08
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:17-cs
+  :date-event: 1977-07-08
   :END:
 
 
@@ -571,10 +566,10 @@ United Nations, New York \\
 * ASPIRACE
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:18-cs
-  :DATE-EVENT: 1977-07-08
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:18-cs
+  :date-event: 1977-07-08
   :END:
 
 
@@ -613,10 +608,10 @@ Purchase, New York \\
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:19-cs
-  :DATE-EVENT: 1977-07-09
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:19-cs
+  :date-event: 1977-07-09
   :END:
 
 
@@ -652,10 +647,10 @@ Jamaica, New York \\
 * POMÍJIVÝ ŽIVOT
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:20-cs
-  :DATE-EVENT: 1977-07-09
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:20-cs
+  :date-event: 1977-07-09
   :END:
 
 
@@ -679,10 +674,10 @@ Bronx, New York \\
 * CHCI SE OSVOBODIT
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:21-cs
-  :DATE-EVENT: 1977-07-09
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:21-cs
+  :date-event: 1977-07-09
   :END:
 
 Chci se osvobodit od neklidu, strachu a pochybnosti. Neklid snižuje mou rychlost, mou vnitřní rychlost. Strach mě znervózňuje. Pochybnost mě otravuje. Potřebuji klid, aby nahradil můj neklid. Potřebuji odvahu, aby nahradila můj strach. Potřebuji víru, aby nahradila mou pochybnost. Můj klid je mou jistotou a ujištěním mého Pána. Má odvaha bude sloužit Bohu-člověku v celém širém světě. Má odvaha bude milovat člověka-Boha ve vnitřním světě i ve vnějším světě. Má víra urychlí nejen moji cestu, ale také cestu všech upřímných hledajících; jsme totiž jedním, neoddělitelně jedním. Síla mé víry posílí je a síla jejich víry posílí mne.
@@ -703,10 +698,10 @@ Norwalk, Connecticut \\
 * ZÁŽITEK A REALIZACE
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:22-cs
-  :DATE-EVENT: 1977-07-09
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:22-cs
+  :date-event: 1977-07-09
   :END:
 
 
@@ -733,10 +728,10 @@ New Rochelle, New York \\
 * JSEM ZROZENÁ MODLITBA
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:23-cs
-  :DATE-EVENT: 1977-07-10
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:23-cs
+  :date-event: 1977-07-10
   :END:
 
 
@@ -773,10 +768,10 @@ Jamaica, New York \\
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:24-cs
-  :DATE-EVENT: 1977-07-11
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:24-cs
+  :date-event: 1977-07-11
   :END:
 
 
@@ -802,10 +797,10 @@ Jamaica, New York \\
 * DUCHOVNOST
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:25-cs
-  :DATE-EVENT: 1977-07-11
+  :genre: discourse
+  :keywords:
+  :cite-key: ea:25-cs
+  :date-event: 1977-07-11
   :END:
 
 
@@ -832,20 +827,3 @@ Duchovnost říká hledajícímu, aby nežil v dávné minulosti ani ve vzdálen
 St. Paul's Chapel \\
 Columbia University \\
 New York, New York \\
-
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

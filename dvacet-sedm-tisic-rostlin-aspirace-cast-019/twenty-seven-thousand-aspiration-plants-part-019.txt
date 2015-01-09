@@ -1,19 +1,15 @@
-#+TITLE: Dvacet sedm tisíc rostlin aspirace, část 019
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-* Index
+* Dvacet sedm tisíc rostlin aspirace, část 019
 
   :PROPERTIES:
-  :BOOK-NUMBER:  
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:  nil
-  :YEAR:  2005
-  :PUBLISHER:  Madal Bal
-  :CITE-KEY: AP-19-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number:  
+  :author: Sri Chinmoy
+  :original-edition:  nil
+  :year:  2005
+  :publisher:  Madal Bal
+  :cite-key: AP-19-cs
+  :genre: poem
+  :keywords:
   :END
 
 
@@ -21,9 +17,9 @@
 * 1801
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1801-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1801-cs
   :END:
 
 
@@ -42,9 +38,9 @@ Ticha-Boha.
 * 1802
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1802-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1802-cs
   :END:
 
 #+BEGIN_VERSE
@@ -63,9 +59,9 @@ uvnitř a skrze jeho život na zemi.
 * 1803
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1803-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1803-cs
   :END:
 
 
@@ -86,9 +82,9 @@ získají velmi zvláštní význam.
 * 1804
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1804-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1804-cs
   :END:
 
 #+BEGIN_VERSE
@@ -108,9 +104,9 @@ a s láskou tvého života pro lidstvo.
 * 1805
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1805-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1805-cs
   :END:
 
 
@@ -128,9 +124,9 @@ od jeho skrytých ničivých nedokonalostí.
 * 1806
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1806-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1806-cs
   :END:
 
 
@@ -149,9 +145,9 @@ trvá jen letmý okamžik.
 * 1807
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1807-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1807-cs
   :END:
 
 
@@ -174,9 +170,9 @@ pro Boha.
 * 1808
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1808-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1808-cs
   :END:
 
 
@@ -196,9 +192,9 @@ trvá to stále a stále.
 * 1809
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1809-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1809-cs
   :END:
 
 
@@ -217,9 +213,9 @@ bude určovat tvoji budoucnost.
 * 1810
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1810-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1810-cs
   :END:
 
 
@@ -238,9 +234,9 @@ Nepochybně uspěješ.
 * 1811
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1811-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1811-cs
   :END:
 
 
@@ -261,9 +257,9 @@ pochodovat po cestě svatosti.
 * 1812
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1812-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1812-cs
   :END:
 
 
@@ -282,9 +278,9 @@ svobodě tvé duše.
 * 1813
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1813-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1813-cs
   :END:
 
 
@@ -303,9 +299,9 @@ do vnitřního člověka.
 * 1814
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1814-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1814-cs
   :END:
 
 
@@ -332,9 +328,9 @@ tak zoufale touží.
 * 1815
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1815-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1815-cs
   :END:
 
 
@@ -351,9 +347,9 @@ věčný úsvit probouzení srdce.
 * 1816
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1816-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1816-cs
   :END:
 
 
@@ -376,9 +372,9 @@ bojujícím proti nevědomosti lidstva.
 * 1817
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1817-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1817-cs
   :END:
 
 
@@ -402,9 +398,9 @@ Absolutního Nejvyššího na zemi.
 * 1818
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1818-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1818-cs
   :END:
 
 
@@ -428,9 +424,9 @@ celé tvoje.“
 * 1819
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1819-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1819-cs
   :END:
 
 
@@ -448,9 +444,9 @@ hledá.
 * 1820
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1820-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1820-cs
   :END:
 
 
@@ -471,9 +467,9 @@ a univerzální Světlo a Blaženost.
 * 1821
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1821-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1821-cs
   :END:
 
 
@@ -495,9 +491,9 @@ ze samotné tvé přítomnosti na zemi.
 * 1822
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1822-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1822-cs
   :END:
 
 
@@ -517,9 +513,9 @@ cestu srdce.
 * 1823
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1823-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1823-cs
   :END:
 
 
@@ -538,9 +534,9 @@ lásku a jednotu.
 * 1824
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1824-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1824-cs
   :END:
 
 
@@ -561,9 +557,9 @@ a každé duše, která ještě přijde
 * 1825
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1825-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1825-cs
   :END:
 
 
@@ -580,9 +576,9 @@ prostupuje celý svět.
 * 1826
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1826-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1826-cs
   :END:
 
 
@@ -604,9 +600,9 @@ cosi k jejímu stálému použití.
 * 1827
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1827-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1827-cs
   :END:
 
 
@@ -622,9 +618,9 @@ světem hořkých a sladkých snů.
 * 1828
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1828-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1828-cs
   :END:
 
 
@@ -642,9 +638,9 @@ nejdražším, nejbližším a nejdokonalejším
 * 1829
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1829-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1829-cs
   :END:
 
 
@@ -666,9 +662,9 @@ nabízí Bůh novou Vizi
 * 1830
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1830-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1830-cs
   :END:
 
 
@@ -686,9 +682,9 @@ může učinit něco velmi špatného.
 * 1831
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1831-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1831-cs
   :END:
 
 
@@ -710,9 +706,9 @@ jak z vnitřního světa,
 * 1832
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1832-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1832-cs
   :END:
 
 
@@ -733,9 +729,9 @@ nebožskou silou.
 * 1833
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1833-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1833-cs
   :END:
 
 
@@ -752,9 +748,9 @@ potom neopatruj včerejší sny.
 * 1834
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1834-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1834-cs
   :END:
 
 
@@ -778,9 +774,9 @@ Ty a Bůh si budete schopni radostně
 * 1835
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1835-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1835-cs
   :END:
 
 
@@ -802,9 +798,9 @@ Můj Bůh je moje vlastní
 * 1836
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1836-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1836-cs
   :END:
 
 
@@ -822,9 +818,9 @@ Bůh mne potřebuje více, než já Jeho.
 * 1837
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1837-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1837-cs
   :END:
 
 
@@ -841,9 +837,9 @@ Květina je jednota čistoty.
 * 1838
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1838-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1838-cs
   :END:
 
 
@@ -862,9 +858,9 @@ Kde je naše dokonalost jednoty?
 * 1839
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1839-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1839-cs
   :END:
 
 
@@ -882,9 +878,9 @@ hrozí jejím únosem.
 * 1840
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1840-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1840-cs
   :END:
 
 
@@ -907,9 +903,9 @@ Nyní si je musíš pouze
 * 1841
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1841-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1841-cs
   :END:
 
 
@@ -926,9 +922,9 @@ mu mocně a se slávou dal
 * 1842
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1842-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1842-cs
   :END:
 
 
@@ -954,9 +950,9 @@ můžeš pocítit mír uvnitř
 * 1843
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1843-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1843-cs
   :END:
 
 
@@ -976,9 +972,9 @@ následovat už dobře známou
 * 1844
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1844-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1844-cs
   :END:
 
 
@@ -996,9 +992,9 @@ co tvé srdce již má
 * 1845
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1845-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1845-cs
   :END:
 
 
@@ -1018,9 +1014,9 @@ univerzální harmonie.
 * 1846
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1846-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1846-cs
   :END:
 
 
@@ -1039,9 +1035,9 @@ Tvoji Sílu a Tvoji Lásku.
 * 1847
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1847-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1847-cs
   :END:
 
 
@@ -1059,9 +1055,9 @@ v souladu s mým Univerzálním Já.
 * 1848
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1848-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1848-cs
   :END:
 
 
@@ -1083,9 +1079,9 @@ ale z absolutních sta procent
 * 1849
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1849-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1849-cs
   :END:
 
 
@@ -1102,9 +1098,9 @@ musíš se vzdát přebývání uvnitř
 * 1850
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1850-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1850-cs
   :END:
 
 
@@ -1127,9 +1123,9 @@ jsou daleko lepší, než tvé zbytečné já!
 * 1851
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1851-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1851-cs
   :END:
 
 
@@ -1147,9 +1143,9 @@ potom jsi absolutně
 * 1852
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1852-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1852-cs
   :END:
 
 
@@ -1167,9 +1163,9 @@ jako pokoření.
 * 1853
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1853-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1853-cs
   :END:
 
 
@@ -1185,9 +1181,9 @@ protože tvé srdce je zcela nepřístupné
 * 1854
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1854-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1854-cs
   :END:
 
 
@@ -1207,9 +1203,9 @@ Není to výška
 * 1855
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1855-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1855-cs
   :END:
 
 
@@ -1233,9 +1229,9 @@ a sebechvála?
 * 1856
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1856-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1856-cs
   :END:
 
 
@@ -1254,9 +1250,9 @@ tento strom bez mízy, stojící přede mnou.“
 * 1857
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1857-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1857-cs
   :END:
 
 
@@ -1273,9 +1269,9 @@ v jiném světě.
 * 1858
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1858-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1858-cs
   :END:
 
 
@@ -1294,9 +1290,9 @@ vidí květiny a plody
 * 1859
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1859-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1859-cs
   :END:
 
 
@@ -1318,9 +1314,9 @@ určitě realizuje Boha
 * 1860
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1860-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1860-cs
   :END:
 
 
@@ -1338,9 +1334,9 @@ mi právě tuto věc samo poskytne.
 * 1861
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1861-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1861-cs
   :END:
 
 
@@ -1358,9 +1354,9 @@ co má pro tebe v životě cenu.
 * 1862
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1862-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1862-cs
   :END:
 
 
@@ -1380,9 +1376,9 @@ aby nesl váhu
 * 1863
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1863-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1863-cs
   :END:
 
 
@@ -1400,9 +1396,9 @@ Běda, jak můžeš být kdy šťastný?
 * 1864
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1864-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1864-cs
   :END:
 
 
@@ -1421,9 +1417,9 @@ a nepokoušej se klamat sám sebe.
 * 1865
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1865-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1865-cs
   :END:
 
 
@@ -1442,9 +1438,9 @@ Nyní se však jeho srdce
 * 1866
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1866-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1866-cs
   :END:
 
 
@@ -1462,9 +1458,9 @@ Potom dělej jen dvě věci:
 * 1867
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1867-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1867-cs
   :END:
 
 
@@ -1480,9 +1476,9 @@ pro tvoji naprostou přeměnu.
 * 1868
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1868-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1868-cs
   :END:
 
 
@@ -1503,9 +1499,9 @@ A když se budu chtít něco naučit,
 * 1869
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1869-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1869-cs
   :END:
 
 
@@ -1525,9 +1521,9 @@ uvidím tam mého Milovaného Nejvyššího.
 * 1870
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1870-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1870-cs
   :END:
 
 
@@ -1544,9 +1540,9 @@ sešplhat dolů po nebeském žebříku
 * 1871
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1871-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1871-cs
   :END:
 
 
@@ -1562,9 +1558,9 @@ a dal mu Svůj vlastní Štít Odpoutání.
 * 1872
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1872-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1872-cs
   :END:
 
 
@@ -1582,9 +1578,9 @@ nebude meditace nikdy připadat cizí -
 * 1873
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1873-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1873-cs
   :END:
 
 
@@ -1604,9 +1600,9 @@ Pocítíš mír Nekonečnosti.
 * 1874
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1874-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1874-cs
   :END:
 
 
@@ -1624,9 +1620,9 @@ vyhraješ jej nejenom pro sebe,
 * 1875
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1875-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1875-cs
   :END:
 
 
@@ -1644,9 +1640,9 @@ Ostatní budou určitě inspirováni
 * 1876
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1876-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1876-cs
   :END:
 
 
@@ -1671,9 +1667,9 @@ učinit to, co on tak snadno
 * 1877
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1877-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1877-cs
   :END:
 
 
@@ -1693,9 +1689,9 @@ abys vstoupil do Cíle Plnosti.
 * 1878
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1878-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1878-cs
   :END:
 
 
@@ -1715,9 +1711,9 @@ po cestě dokonalosti.
 * 1879
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1879-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1879-cs
   :END:
 
 
@@ -1735,9 +1731,9 @@ Tato síla má volný přístup
 * 1880
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1880-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1880-cs
   :END:
 
 
@@ -1757,9 +1753,9 @@ rušit rovnováhu
 * 1881
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1881-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1881-cs
   :END:
 
 
@@ -1780,9 +1776,9 @@ a rozšíří se
 * 1882
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1882-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1882-cs
   :END:
 
 
@@ -1804,9 +1800,9 @@ Vše je jednotou --
 * 1883
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1883-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1883-cs
   :END:
 
 
@@ -1824,9 +1820,9 @@ ses stal dechem a tělem
 * 1884
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1884-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1884-cs
   :END:
 
 
@@ -1851,9 +1847,9 @@ a odejme moji slávu.“
 * 1885
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1885-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1885-cs
   :END:
 
 
@@ -1879,9 +1875,9 @@ alespoň jeden Jeho Sen
 * 1886
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1886-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1886-cs
   :END:
 
 
@@ -1906,9 +1902,9 @@ Jak potom můžeme říci,
 * 1887
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1887-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1887-cs
   :END:
 
 
@@ -1929,9 +1925,9 @@ divokého smíchu mé mysli.
 * 1888
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1888-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1888-cs
   :END:
 
 
@@ -1949,9 +1945,9 @@ cosi se ihned stalo
 * 1889
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1889-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1889-cs
   :END:
 
 
@@ -1971,9 +1967,9 @@ abych potěšil Tebe.
 * 1890
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1890-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1890-cs
   :END:
 
 
@@ -1992,9 +1988,9 @@ Kvůli jedinému okamžiku odevzdání
 * 1891
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1891-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1891-cs
   :END:
 
 
@@ -2013,9 +2009,9 @@ kterého jsi již dosáhl,
 * 1892
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1892-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1892-cs
   :END:
 
 
@@ -2035,9 +2031,9 @@ může být pokoření tvým jménem.
 * 1893
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1893-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1893-cs
   :END:
 
 
@@ -2058,9 +2054,9 @@ svoji vnitřní božskost,
 * 1894
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1894-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1894-cs
   :END:
 
 
@@ -2078,9 +2074,9 @@ básníkova srdce.
 * 1895
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1895-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1895-cs
   :END:
 
 
@@ -2098,9 +2094,9 @@ jež je daleko za lidskou logiku.
 * 1896
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1896-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1896-cs
   :END:
 
 
@@ -2122,9 +2118,9 @@ a ty musíš poslouchat Jeho.
 * 1897
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1897-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1897-cs
   :END:
 
 
@@ -2143,9 +2139,9 @@ a já jej bez selhání
 * 1898
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1898-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1898-cs
   :END:
 
 
@@ -2164,9 +2160,9 @@ Tvůj Pán Nejvyšší vždy bude
 * 1899
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1899-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1899-cs
   :END:
 
 
@@ -2183,9 +2179,9 @@ vyšší světy je však chytily
 * 1900
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: AP:1900-cs
+  :genre:  poem
+  :keywords:
+  :cite-key: ap:1900-cs
   :END:
 
 
@@ -2199,15 +2195,3 @@ a Bůh Milovaný používá tebe
 velmi zvláštním způsobem.
 
 #+END_VERSE
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
-

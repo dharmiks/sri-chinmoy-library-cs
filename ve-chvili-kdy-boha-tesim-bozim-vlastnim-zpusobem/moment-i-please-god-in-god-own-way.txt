@@ -1,20 +1,15 @@
-#+TITLE: Ve chvíli kdy Boha těším Božím vlastním Způsobem
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Ve chvíli kdy Boha těším Božím vlastním Způsobem
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2009
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: MIPG-cs
-  :GENRE: poem
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2009
+  :publisher: Madal Bal
+  :cite-key: MIPG-cs
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:1-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:1-cs
   :END:
 
 #+BEGIN_VERSE
@@ -44,9 +39,9 @@ Vůni svého Srdce.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:2-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:2-cs
   :END:
 
 #+BEGIN_VERSE
@@ -65,9 +60,9 @@ svého vlastního Srdce.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:3-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:3-cs
   :END:
 
 #+BEGIN_VERSE
@@ -85,9 +80,9 @@ před tím, než cokoliv udělá.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:4-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:4-cs
   :END:
 
 #+BEGIN_VERSE
@@ -105,9 +100,9 @@ nesmrtelnou kolébkou ochrany.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:5-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:5-cs
   :END:
 
 #+BEGIN_VERSE
@@ -126,9 +121,9 @@ rozkvetlou květinou aspirace.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:6-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:6-cs
   :END:
 
 #+BEGIN_VERSE
@@ -147,9 +142,9 @@ natrvalo.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:7-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:7-cs
   :END:
 
 #+BEGIN_VERSE
@@ -170,9 +165,9 @@ světa.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:8-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:8-cs
   :END:
 
 #+BEGIN_VERSE
@@ -191,9 +186,9 @@ a slabosti.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:9-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:9-cs
   :END:
 
 #+BEGIN_VERSE
@@ -211,9 +206,9 @@ naprostou nemožností.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:10-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:10-cs
   :END:
 
 #+BEGIN_VERSE
@@ -232,9 +227,9 @@ Oceněním Světla Vize.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:11-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:11-cs
   :END:
 
 #+BEGIN_VERSE
@@ -253,9 +248,9 @@ se neodváží přiblížit
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:12-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:12-cs
   :END:
 
 #+BEGIN_VERSE
@@ -273,9 +268,9 @@ a já se stávám Tepem Jeho Srdce.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:13-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:13-cs
   :END:
 
 #+BEGIN_VERSE
@@ -295,9 +290,9 @@ temné aleje mé mysli.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:14-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:14-cs
   :END:
 
 #+BEGIN_VERSE
@@ -316,9 +311,9 @@ nabídkami Jednoty.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:15-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:15-cs
   :END:
 
 #+BEGIN_VERSE
@@ -337,9 +332,9 @@ dopis srdce vděčnosti.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:16-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:16-cs
   :END:
 
 #+BEGIN_VERSE
@@ -357,9 +352,9 @@ v Jeho Kosmické Hře.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:17-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:17-cs
   :END:
 
 #+BEGIN_VERSE
@@ -378,9 +373,9 @@ na koni ega mé mysli.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:18-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:18-cs
   :END:
 
 #+BEGIN_VERSE
@@ -398,9 +393,9 @@ nástrahy pokušení.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:19-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:19-cs
   :END:
 
 #+BEGIN_VERSE
@@ -420,9 +415,9 @@ otrokem tvého otroka.“
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:20-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:20-cs
   :END:
 
 #+BEGIN_VERSE
@@ -444,9 +439,9 @@ božské skutky.“
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:21-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:21-cs
   :END:
 
 #+BEGIN_VERSE
@@ -466,9 +461,9 @@ ty sis podrobil Mou Korunu.“
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:22-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:22-cs
   :END:
 
 #+BEGIN_VERSE
@@ -489,9 +484,9 @@ Já ti dávám to,
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:23-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:23-cs
   :END:
 
 #+BEGIN_VERSE
@@ -512,9 +507,9 @@ Ihned ti ji splním.“
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:24-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:24-cs
   :END:
 
 #+BEGIN_VERSE
@@ -534,9 +529,9 @@ Mi mou vlastní nejcennější touhu?“
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:25-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:25-cs
   :END:
 
 #+BEGIN_VERSE
@@ -559,9 +554,9 @@ jako partner mé Věčnosti.“
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:26-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:26-cs
   :END:
 
 #+BEGIN_VERSE
@@ -585,9 +580,9 @@ k Mým Nohám.“
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:27-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:27-cs
   :END:
 
 #+BEGIN_VERSE
@@ -609,9 +604,9 @@ stejně tak je pravda,
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:28-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:28-cs
   :END:
 
 #+BEGIN_VERSE
@@ -632,9 +627,9 @@ a lepší než nejlepší Posel.“
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:29-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:29-cs
   :END:
 
 #+BEGIN_VERSE
@@ -656,9 +651,9 @@ po celou Věčnost.“
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:30-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:30-cs
   :END:
 
 #+BEGIN_VERSE
@@ -678,9 +673,9 @@ překvapení.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:31-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:31-cs
   :END:
 
 #+BEGIN_VERSE
@@ -699,9 +694,9 @@ nepřátelského osudu.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:32-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:32-cs
   :END:
 
 #+BEGIN_VERSE
@@ -721,9 +716,9 @@ neobyčejně hrdými.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:33-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:33-cs
   :END:
 
 #+BEGIN_VERSE
@@ -743,9 +738,9 @@ Boží Nekonečnosti.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:34-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:34-cs
   :END:
 
 #+BEGIN_VERSE
@@ -765,9 +760,9 @@ lavinou nečistoty.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:35-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:35-cs
   :END:
 
 #+BEGIN_VERSE
@@ -786,9 +781,9 @@ Dokonalé Dokonalosti.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:36-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:36-cs
   :END:
 
 #+BEGIN_VERSE
@@ -809,9 +804,9 @@ k mému Cíli.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:37-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:37-cs
   :END:
 
 #+BEGIN_VERSE
@@ -833,9 +828,9 @@ k mému Cíli.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:38-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:38-cs
   :END:
 
 #+BEGIN_VERSE
@@ -854,9 +849,9 @@ Jeho Vůli zaplavenou Nektarem.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:39-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:39-cs
   :END:
 
 #+BEGIN_VERSE
@@ -875,9 +870,9 @@ Bohu.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:40-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:40-cs
   :END:
 
 #+BEGIN_VERSE
@@ -897,9 +892,9 @@ cenu Míru.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:41-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:41-cs
   :END:
 
 #+BEGIN_VERSE
@@ -919,9 +914,9 @@ v Mé Kosmické Lile (Hře)."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:42-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:42-cs
   :END:
 
 #+BEGIN_VERSE
@@ -943,9 +938,9 @@ nad Mým stvořením."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:43-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:43-cs
   :END:
 
 #+BEGIN_VERSE
@@ -963,9 +958,9 @@ k věčnému spánku.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:44-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:44-cs
   :END:
 
 #+BEGIN_VERSE
@@ -987,9 +982,9 @@ Jeho Zvukem Nekonečnosti.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:45-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:45-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1010,9 +1005,9 @@ Je zcela tvůj."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:46-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:46-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1032,9 +1027,9 @@ oceánem blaženosti.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:47-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:47-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1054,9 +1049,9 @@ Za.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:48-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:48-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1075,9 +1070,9 @@ chyb v životě.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:49-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:49-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1096,9 +1091,9 @@ aby se usmívaly jedna na druhou.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:50-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:50-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1117,9 +1112,9 @@ mé aspiraci sebe-objevení.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:51-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:51-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1139,9 +1134,9 @@ Soucitem svého Srdce Nekonečnosti.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:52-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:52-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1160,9 +1155,9 @@ i ty nikdy nebudeš chybět."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:53-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:53-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1182,9 +1177,9 @@ do zahrady mého srdce.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:54-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:54-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1203,9 +1198,9 @@ k Jeho univerzálnímu Srdci.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:55-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:55-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1223,9 +1218,9 @@ brát mě jako dalšího Boha.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:56-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:56-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1244,9 +1239,9 @@ z Jeho ohromného potlesku.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:57-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:57-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1264,9 +1259,9 @@ Svého Ticha Věčnosti.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:58-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:58-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1284,9 +1279,9 @@ s hudbou andělů.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:59-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:59-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1306,9 +1301,9 @@ kdykoliv budu chtít.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:60-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:60-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1327,9 +1322,9 @@ Jeho Dechu Věčnosti.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:61-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:61-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1348,9 +1343,9 @@ Jeho Doteku.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:62-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:62-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1369,9 +1364,9 @@ obviněním.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:63-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:63-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1389,9 +1384,9 @@ jak v Nebi tak i na zemi.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:64-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:64-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1411,9 +1406,9 @@ s Úsměvy Pýchy.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:65-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:65-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1432,9 +1427,9 @@ pro uctívání Boha.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:66-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:66-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1454,9 +1449,9 @@ bezdechým vlakem zasvěcení.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:67-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:67-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1476,9 +1471,9 @@ svým vlastním způsobem.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:68-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:68-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1499,9 +1494,9 @@ tvůj stálý Příkaz."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:69-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:69-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1519,9 +1514,9 @@ Sladké Jednoty Plnosti Boží Vůle.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:70-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:70-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1541,9 +1536,9 @@ ve velmi obrovské míře.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:71-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:71-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1562,9 +1557,9 @@ v Jeho Misi.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:72-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:72-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1583,9 +1578,9 @@ noci nevědomosti.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:73-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:73-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1605,9 +1600,9 @@ než si mohu kdy představit.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:74-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:74-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1627,9 +1622,9 @@ blaženém Objetí.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:75-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:75-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1648,9 +1643,9 @@ sloganem života manifestace.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:76-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:76-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1669,9 +1664,9 @@ Soucitem zaplavené Náklonosti.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:77-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:77-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1691,9 +1686,9 @@ doktorem své mysli."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:78-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:78-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1715,9 +1710,9 @@ Mé Úsměvy Srdce."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:79-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:79-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1740,9 +1735,9 @@ objevováním Boha."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:80-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:80-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1762,9 +1757,9 @@ vůní Země je Boží Srdce.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:81-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:81-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1786,9 +1781,9 @@ ani snažit."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:82-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:82-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1808,9 +1803,9 @@ a ne nezbytnost."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:83-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:83-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1830,9 +1825,9 @@ a ne životem plánování mysli."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:84-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:84-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1853,9 +1848,9 @@ Mluví přesně jako Já."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:85-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:85-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1876,9 +1871,9 @@ Má Ruka bude řídit tvůj hlas."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:86-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:86-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1902,9 +1897,9 @@ a Nesmrtelnou Pýchou.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:87-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:87-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1922,9 +1917,9 @@ můj srdeční tep Boha.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:88-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:88-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1945,9 +1940,9 @@ záchran.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:89-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:89-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1967,9 +1962,9 @@ k zaplacení.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:90-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:90-cs
   :END:
 
 #+BEGIN_VERSE
@@ -1990,9 +1985,9 @@ tento fakt je jistý."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:91-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:91-cs
   :END:
 
 #+BEGIN_VERSE
@@ -2012,9 +2007,9 @@ hladem po Bohu.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:92-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:92-cs
   :END:
 
 #+BEGIN_VERSE
@@ -2036,9 +2031,9 @@ nebude nikdy nefunkční."
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:93-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:93-cs
   :END:
 
 #+BEGIN_VERSE
@@ -2058,9 +2053,9 @@ budou tvarovat můj život.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:94-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:94-cs
   :END:
 
 #+BEGIN_VERSE
@@ -2081,9 +2076,9 @@ nezrozené a nesmrtelné.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:95-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:95-cs
   :END:
 
 #+BEGIN_VERSE
@@ -2102,9 +2097,9 @@ Svým slovníkem Srdce.
 * Ve chvíli ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MIPG:96-cs
+  :genre: poem
+  :keywords:
+  :cite-key: mipg:96-cs
   :END:
 
 #+BEGIN_VERSE
@@ -2121,15 +2116,3 @@ pro příchod
 k mému konečnému Cíli.
 
 #+END_VERSE
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

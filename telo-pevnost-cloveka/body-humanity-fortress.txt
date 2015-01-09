@@ -1,20 +1,15 @@
-#+TITLE: Tělo, pevnost člověka
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Tělo, pevnost člověka
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 1998
-  :PUBLISHER: Sri Chinmoy Centrum
-  :CITE-KEY: BHF-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 1998
+  :publisher: Sri Chinmoy Centrum
+  :cite-key: BHF-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Tři těla: Fyzické, subtilní a kauzální
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: BHF:1e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: bhf:1e1-cs
   :END:
 
 
@@ -32,9 +27,9 @@
 * Za jakým účelem máme fyzické tělo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:1-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:1-cs
   :END:
 
 
@@ -49,9 +44,9 @@ Když člověk začne vědomě aspirovat, postupně začne aspirovat celá jeho 
 * Jaký je rozdíl mezi fyzickým a subtilním tělem ve fyzickém vzhledu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:2-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:2-cs
   :END:
 
 
@@ -62,9 +57,9 @@ Když člověk začne vědomě aspirovat, postupně začne aspirovat celá jeho 
 * Myslíte tím, že subtilní tělo je méně hustá podoba hmoty? Žije subtilní tělo uvnitř fyzického těla nebo jím prostupuje?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:3-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:3-cs
   :END:
 
 
@@ -83,9 +78,9 @@ Fyzickým myslíme vnější vědomí vesmíru. Ve své semenné podobě je to /
 * Které z těchto tří těl získává psychické zážitky?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:4-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:4-cs
   :END:
 
 
@@ -97,9 +92,9 @@ Fyzickým myslíme vnější vědomí vesmíru. Ve své semenné podobě je to /
 * Je možné, aby fyzická forma žila ve dvou světech najednou?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:5-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:5-cs
   :END:
 
 
@@ -110,9 +105,9 @@ Fyzickým myslíme vnější vědomí vesmíru. Ve své semenné podobě je to /
 * Může se subtilní tělo objevovat na jiných místech?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:6-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:6-cs
   :END:
 
 
@@ -125,9 +120,9 @@ Ale zatímco je duše a subtilní fyzické tělo mimo hrubé fyzické, nesmíme 
 * Je možné vidět kauzální nebo subtilní tělo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:7-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:7-cs
   :END:
 
 
@@ -140,9 +135,9 @@ Ale zatímco je duše a subtilní fyzické tělo mimo hrubé fyzické, nesmíme 
 * Přetrvává kauzální a subtilní tělo déle než fyzické, anebo jsou všechna nestálá?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:8-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:8-cs
   :END:
 
 
@@ -155,9 +150,9 @@ Ale zatímco je duše a subtilní fyzické tělo mimo hrubé fyzické, nesmíme 
 * Jak si vyvineme vědomí ve svém subtilním těle?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:9-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:9-cs
   :END:
 
 
@@ -172,9 +167,9 @@ Jak můžete krmit a rozvíjet fyzické vědomí? Vědomí ve fyzickém těle m�
 * Je pravda, že všechny nemoci začínají v subtilním těle a pak se projeví ve fyzickém těle?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:10-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:10-cs
   :END:
 
 
@@ -185,9 +180,9 @@ Jak můžete krmit a rozvíjet fyzické vědomí? Vědomí ve fyzickém těle m�
 * Hathajóga (pozice) a fyzické zdraví
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: BHF:11e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: bhf:11e1-cs
   :END:
 
 
@@ -195,9 +190,9 @@ Jak můžete krmit a rozvíjet fyzické vědomí? Vědomí ve fyzickém těle m�
 * Je hathajóga nezbytná pro koncentraci, meditaci a kontemplaci? Je nepostradatelná pro realizaci Boha?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:11-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:11-cs
   :END:
 
 
@@ -211,7 +206,7 @@ Je-li vaším cílem udržet tělo uvolněné a zdravé, pak vám hathajóga ur�
 
 V Indii jsou stovky a tisíce opravdových hledajících, kteří nikdy neprováděli žádná cvičení. Náhodou jsem byl v ašrámu, kde jsem prováděl fyzické cvičení kvůli tělu, ale dokonce ani v tomto ašrámu duchovní Mistr nikdy nedoporučoval, aby aspirující prováděli ásany pro to, aby učinili duchovní pokrok. V mnoha duchovních společenstvích v Indii nejsou ásany nikdy prováděny. Hledající začínají přímo s aspirací a meditací. 
 
-Pokud člověk cítí, že tím, že se stane odborníkem v hathajóze, bude moci realizovat Boha nebo dělat rychlý pokrok na cestě k realizaci, potom si přeji říct, že se mýlí. Na zemi je mnoho lidí, kteří provádějí fyzická cvičení a udržují svá těla nanejvýš zdravá. Jsou zápasníci, akrobaté a atleti, kteří jsou velmi silní a zdraví, ale v této inkarnaci pro ně realizace Boha není míněna. Jsou silní fyzicky, ale nestarají se o duchovní sílu. Naštěstí nebo naneštěstí není žádný přímý vztah mezi fyzickou a duchovní silou nebo kapacitou. Každá indická vesnice má stovky chlapců, kteří mohou předvést daleko lepší představení hathajógy, než dokáží svámí zde. Příroda je naučila, Matka Indie je naučila. Ale pro tyto chlapce zůstane realizace Boha ještě dlouho vzdáleným pláčem. Musíme vědět, co skutečně chceme. Hathajóga má k nabídnutí cosi, co je velmi omezené, a meditace má k nabídnutí cosi, co je naprosto neomezené. Pokud řeknete: „Ať dosáhnu nejprve omezené věci a pak vyrostu do neomezené,“ je to v pořádku. Na druhou stranu, pokud máte kapacitu a ochotu vstoupit přímo do rozlehlého oceánu, Bůh vás nebude žádat, abyste plavali v bazénu. Ale pokud nemáte schopnost skočit přímo do oceánu, pak Bůh řekne: „Jdi do bazénu a chvilku si užívej.“
+Pokud člověk cítí, že tím, že se stane odborníkem v hathajóze, bude moci realizovat Boha nebo dělat rychlý pokrok na cestě k realizaci, potom si přeji říct, že se mýlí. Na zemi je mnoho lidí, kteří provádějí fyzická cvičení a udržují svá těla nanejvýš zdravá. Jsou zápasníci, akrobaté a atleti, kteří jsou velmi silní a zdraví, ale v této inkarnaci pro ně realizace Boha není míněna. Jsou silní fyzicky, ale nestarají se o duchovní sílu. Naštěstí nebo naneštěstí není žádný přímý vztah mezi fyzickou a duchovní silou nebo kapacitou. Každá indická vesnice má stovky chlapců, kteří mohou předvést daleko lepší představení hathajógy, než dokáží svámí zde. Příroda je naučila, Matka Indie je naučila. Ale pro tyto chlapce zůstane realizace Boha ještě dlouho vzdáleným pláčem. Musíme vědět, co skutečně chceme. Hathajóga má k nabídnutí cosi, co je velmi omezené, a meditace má k nabídnutí cosi, co je naprosto neomezené. Pokud řeknete: „ať dosáhnu nejprve omezené věci a pak vyrostu do neomezené,“ je to v pořádku. na druhou stranu, pokud máte kapacitu a ochotu vstoupit přímo do rozlehlého oceánu, bůh vás nebude žádat, abyste plavali v bazénu. ale pokud nemáte schopnost skočit přímo do oceánu, pak bůh řekne: „Jdi do bazénu a chvilku si užívej.“
 
 Moje jóga nebude říkat nic proti hathajóze, ale zároveň má jóga cítí, že vnitřní síla také dodá vnější sílu. Tím chci říci, že pokud skutečně miluji Boha, můj věčný Otec se postará o potřeby mého těla. Dá mi dostatečně silné tělo, které mi umožní pokračovat v mé vnitřní práci. Jsem-li připraven zasvětit sám sebe nebo nabídnout cosi svému Milovanému, svému Otci, pak On přirozeně bude myslet na potřeby mého těla, neboť ví, že pokud nebudu mít fyzickou kapacitu, nebudu schopen naplnit Jej jako božský nástroj a pracovat pro Něj na zemi.
 
@@ -222,9 +217,9 @@ Takže pokud chcete provádět ásany pět nebo deset minut denně, abyste udrž
 * Jak je důležité fyzické zdraví?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:12-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:12-cs
   :END:
 
 
@@ -237,9 +232,9 @@ Takže prosím pravidelně cvičte. Vaše silné tělo bude jednoho dne zapotře
 * Řekl byste, že ásany jsou potřeba více na Západě, aby pomohly lidem relaxovat, protože lidé z Indie a Orientu již mají více míru mysli, než máme my?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:13-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:13-cs
   :END:
 
 
@@ -252,9 +247,9 @@ Takže prosím pravidelně cvičte. Vaše silné tělo bude jednoho dne zapotře
 * Chce-li někdo meditovat a zároveň provádět hathajógu, měl by meditovat předtím, než začne cvičit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:14-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:14-cs
   :END:
 
 
@@ -265,9 +260,9 @@ Takže prosím pravidelně cvičte. Vaše silné tělo bude jednoho dne zapotře
 * Mám problémy se sezením v lotosové pozici.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:15-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:15-cs
   :END:
 
 
@@ -277,9 +272,9 @@ Takže prosím pravidelně cvičte. Vaše silné tělo bude jednoho dne zapotře
 * Je nezbytné dávat ruce do nějaké zvláštní polohy, když meditujeme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:16-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:16-cs
   :END:
 
 
@@ -292,9 +287,9 @@ Co se týká vnitřní zkušenosti, můžete si ruce položit kamkoliv. Důleži
 * Jaký je duchovní účel soutěživých sportů?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:17-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:17-cs
   :END:
 
 
@@ -307,13 +302,13 @@ Pokud se můžeme naučit účastnit se soutěživých sportů oddaně, potom z�
 * Může být pratjahára praktikována nezávisle na dalších sadhanách?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:18-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:18-cs
   :END:
 
 
-/Sri Chinmoy:/ V duchovní /sadhaně/ neboli disciplíně je osm kroků: /jama, nijama, ásana, pránajáma, pratjahára, dhárana, dhjána a samádhi/. /Jama/ je sebekontrola a morální abstinence, /nijama/ je přímé dodržování chování a charakteru, ásany jsou pozice těla určené pro utišení těla a pro to, aby z něj učinily vnímavý nástroj, /pránajáma/ je systematické dýchání, které pomáhá k utišení a kontrole mysli, /pratjahára/ je stažení se ze života smyslů, /dhárana/ je ustálení vědomí v Bohu, /dhjána/ je meditace a /samádhi/ je trans, naprostá jednota individuálního vědomí s univerzálním vědomím.
+/Sri Chinmoy:/ v duchovní /sadhaně/ neboli disciplíně je osm kroků: /jama, nijama, ásana, pránajáma, pratjahára, dhárana, dhjána a samádhi/. /Jama/ je sebekontrola a morální abstinence, /nijama/ je přímé dodržování chování a charakteru, ásany jsou pozice těla určené pro utišení těla a pro to, aby z něj učinily vnímavý nástroj, /pránajáma/ je systematické dýchání, které pomáhá k utišení a kontrole mysli, /pratjahára/ je stažení se ze života smyslů, /dhárana/ je ustálení vědomí v Bohu, /dhjána/ je meditace a /samádhi/ je trans, naprostá jednota individuálního vědomí s univerzálním vědomím.
 
 Nemusíme jít skrze všechny stupně, jakmile jednou začneme vědomě aspirovat. Nemusíme jít skrze ásany hathajógy a skrze /pránajámu/, abychom vstoupili do meditace. Sebekontrola, stažení se od smyslového života a upevnění vědomí na Boha jsou do určité míry nezbytné, předtím než může začít pravá aspirace. Ale jakmile jednou aspirace vstoupí do našeho neosvíceného lidského života, naše cesta začala. Máme-li aspiraci, můžeme začít s koncentrací, meditací a kontemplací.
 
@@ -328,9 +323,9 @@ Stejně jako se říká, že pomalý a vytrvalý vyhrává závod, vy můžete j
 * Pránajáma a jogínské dýchání
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: BHF:19e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: bhf:19e1-cs
   :END:
 
 
@@ -338,9 +333,9 @@ Stejně jako se říká, že pomalý a vytrvalý vyhrává závod, vy můžete j
 * Co je prána?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:19-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:19-cs
   :END:
 
 
@@ -355,9 +350,9 @@ Poslední podobou /prány/ je /udána/. /Udána/ je umístěna uprostřed páte�
 * Jak můžeme získat z prány nejvíce?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:20-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:20-cs
   :END:
 
 
@@ -368,13 +363,13 @@ Poslední podobou /prány/ je /udána/. /Udána/ je umístěna uprostřed páte�
 * Mohl byste říci něco o tajemství jogínského dýchání neboli pránajámě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:21-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:21-cs
   :END:
 
 
-/Sri Chinmoy:/ Podle naší hinduistické duchovní filozofie máme tři hlavní jógy: /džňána/ jógu, /karma/ jógu a /bhakti/ jógu; cestu vědění, cestu činu a cestu oddanosti. V /džňána/ józe, cestě vědění, je větev zvaná /rádža/ jóga. /Rádža/ znamená „král“. Tato větev je nazývána královská jóga. V /rádža/ józe je osm kroků nebo stupňů na cestě hledajících směřujících k Bohu, a čtvrtým z nich je /pránajáma/. Je to jóga systematického dýchání, kontrolovaného dechu. Všichni dýcháme, ale většina z nás neví, jak dýchat pořádně. Přitom dokážeme-li dýchat správně, můžeme se osvobodit od nemoci a nakonec můžeme dokonce vzdorovat smrti.
+/Sri Chinmoy:/ podle naší hinduistické duchovní filozofie máme tři hlavní jógy: /džňána/ jógu, /karma/ jógu a /bhakti/ jógu; cestu vědění, cestu činu a cestu oddanosti. V /džňána/ józe, cestě vědění, je větev zvaná /rádža/ jóga. /Rádža/ znamená „král“. Tato větev je nazývána královská jóga. V /rádža/ józe je osm kroků nebo stupňů na cestě hledajících směřujících k Bohu, a čtvrtým z nich je /pránajáma/. Je to jóga systematického dýchání, kontrolovaného dechu. Všichni dýcháme, ale většina z nás neví, jak dýchat pořádně. Přitom dokážeme-li dýchat správně, můžeme se osvobodit od nemoci a nakonec můžeme dokonce vzdorovat smrti.
 
 Jsou dva druhy dechu: jedním je /prána/ a druhým je /apána/. Když se nadechujeme kosmické energie, aby pročistila a energizovala náš život, nazýváme to /prána/. Když vydechujeme naše nečistoty, je to nazýváno /apána/. Když se nadechujeme /prány/, porážíme nemoc, když vydechujeme /apánu/, uvádíme do dokonalého stavu fyzické orgány, které nepracují dobře, to znamená, že uvádíme celé tělo do naprostého pořádku. Zde je prosté cvičení, které můžete provádět kdekoliv. Při chůzi se velice pravidelně na pět kroků nadechujte a na pět kroků vydechujte. Děláte-li to pouhé dva bloky domů, budete se cítit osvěženi.
 
@@ -406,9 +401,9 @@ Získat osvobození nemusí trvat roky, může to být záležitost měsíců. �
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:22-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:22-cs
   :END:
 
 
@@ -420,9 +415,9 @@ Získat osvobození nemusí trvat roky, může to být záležitost měsíců. �
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:23-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:23-cs
   :END:
 
 
@@ -439,9 +434,9 @@ Probudit /kundalini/ a otevřít své čakry může zpěvák nebo hudebník, kdy
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:24-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:24-cs
   :END:
 
 
@@ -451,9 +446,9 @@ Probudit /kundalini/ a otevřít své čakry může zpěvák nebo hudebník, kdy
 * Jaká je role pránajámy v duchovním životě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:25-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:25-cs
   :END:
 
 
@@ -470,9 +465,9 @@ Jediné dechové cvičení, které duchovní aspirant skutečně potřebuje, je 
 * Slyšel jsem, že při normálním dýchání se nadechujeme skrze obě nosní dírky a energie potom dvě hodiny proudí dolů po jedné straně páteře a další dvě hodiny proudí dolů po druhé straně; když ale provádíme střídavé dýchání, mění se to. Je to pravda?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:26-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:26-cs
   :END:
 
 
@@ -491,15 +486,15 @@ Když během dne dýcháme normálním způsobem, ani ne třikrát nebo čtyřik
 * Mohl byste říci něco o rozdílných aspektech Božského, které mohou být vzývány, když dýcháme levou a pravou nosní dírkou?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:27-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:27-cs
   :END:
 
 
 /Sri Chinmoy:/ Každý z vás se nadechuje a vydechuje. Snažte se prosím pozorovat, zda dýcháte především levou, nebo pravou nosní dírkou. Ti z vás, kteří se nadechujete levou nosní dírkou, prosím opakujte slovo měsíc, a ti kteří se nadechují pravou nosní dírkou, prosím opakujte slovo slunce. 
 
-Chcete-li změnit svůj osud, existuje jedna nanejvýš důležitá a účinná metoda. Během dne nebo v noci, když zjistíte, že vaše levá nosní dírka pracuje a pravá ne, potom se snažte několik minut koncentrovat nebo meditovat na měsíc. Získáte kvality měsíce: mír, jasnost a jemnou blaženost. Pokud zjistíte, že pracuje pravá nosní dírka, potom se koncentrujte na slunce. Nutně musíte získat kvality slunce: dynamiku a božskou sílu. Ale pokud použijete tuto sílu špatně, pokud neaspirujete pro dynamickou a energizující sílu, potom se stává agresí. A pokud špatně použijete mír a jemnou blaženost, pak vás okamžitě napadne nečinnost, letargie a lenost a bude se snažit plně vést váš život. Když jste nečinní, když se vám nechce nic dělat, pak budete-li se chvíli pozorovat, zjistíte, že je to levá nosní dírka, která pracuje. Ale jste-li energičtí, chcete-li něco dělat, v tu chvíli je to pravá dírka.
+Chcete-li změnit svůj osud, existuje jedna nanejvýš důležitá a účinná metoda. Během dne nebo v noci, když zjistíte, že vaše levá nosní dírka pracuje a pravá ne, potom se snažte několik minut koncentrovat nebo meditovat na měsíc. Získáte kvality měsíce: mír, jasnost a jemnou blaženost. pokud zjistíte, že pracuje pravá nosní dírka, potom se koncentrujte na slunce. nutně musíte získat kvality slunce: dynamiku a božskou sílu. Ale pokud použijete tuto sílu špatně, pokud neaspirujete pro dynamickou a energizující sílu, potom se stává agresí. A pokud špatně použijete mír a jemnou blaženost, pak vás okamžitě napadne nečinnost, letargie a lenost a bude se snažit plně vést váš život. Když jste nečinní, když se vám nechce nic dělat, pak budete-li se chvíli pozorovat, zjistíte, že je to levá nosní dírka, která pracuje. Ale jste-li energičtí, chcete-li něco dělat, v tu chvíli je to pravá dírka.
 
 Provádíte-li těžká cvičení, zjistíte, že obě nosní dírky pracují stejně. V tu chvíli je to sušumna, hlavní kanál, který pracuje. Když pracují obě dírky, v tu chvíli ve vás pracuje božský Mír a božská Síla zároveň. Ale musíte si toho být vědomi a vzývat je více a více.
 
@@ -512,9 +507,9 @@ Během své nejhlubší meditace na svůj dech vůbec nemusíte myslet. Neměli 
 * Jak se setkává přicházející dech s odcházejícím?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:28-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:28-cs
   :END:
 
 
@@ -527,9 +522,9 @@ Ale chcete-li spojit dech přicházející a odcházející, musíte vzít svou 
 * Když se snažím jít hluboko dovnitř, můj dech přerušuje mou koncentraci. Jak mohu kontrolovat svůj dech?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:29-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:29-cs
   :END:
 
 
@@ -541,9 +536,9 @@ Ale chcete-li spojit dech přicházející a odcházející, musíte vzít svou 
 * Spánek a vědomí těla
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: BHF:30e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: bhf:30e1-cs
   :END:
 
 
@@ -552,9 +547,9 @@ Ale chcete-li spojit dech přicházející a odcházející, musíte vzít svou 
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:30-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:30-cs
   :END:
 
 
@@ -569,9 +564,9 @@ Ti, kteří ráno meditují v šest hodin nebo o půl sedmé, nemusí jít znovu
 * Co můžeme dělat, pokud nepijeme kávu ani čaj a začneme se cítit během řízení v noci ospalí, nebo když máme málo spánku a je pro nás obtížné ráno vstát?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:31-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:31-cs
   :END:
 
 
@@ -588,9 +583,9 @@ Když jdete spát, snažte se také cítit, že jdete spát na dvacet čtyři ho
 * Jak můžeme zůstat vědomí během spánku?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:32-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:32-cs
   :END:
 
 
@@ -605,9 +600,9 @@ Pokud nemůžete meditovat šest hodin, a o to se v této chvíli nemůžete a n
 * Mohl byste říci něco více o tom, jak duše během spánku létá do různých úrovní?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:33-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:33-cs
   :END:
 
 
@@ -620,9 +615,9 @@ Nyní, jak může mít aspirant vědomý pocit této jednoty během spánku? Je 
 * Existuje nějaký způsob, jak můžeme využít čas spánku, abychom zvětšili svůj pokrok a dokázali přenést naše denní vědomí přes noc?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:34-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:34-cs
   :END:
 
 
@@ -634,7 +629,7 @@ Pro duchovní lidi není žádná noc. Noc pro nás znamená nevědomost, nevěd
 
 Jestliže se poté, co jsme spali hodinu nebo dvě, probudíme a cítíme, že jsme několik vteřin bdělí, ale nemeditujeme, nejlepší je okamžitě vstát a pět, deset nebo patnáct minut meditovat. V tu chvíli se musíme snažit cítit, že den vstoupil do našeho vědomí, že náš den již začal. Co to znamená? Znamená to, že naše vědomí je plně bdělé, je probuzené a čilé a nechce spát. Tělo může spát, ale vědomí je již plně probuzené a medituje místo nás. Cítíme-li, že jsme letargičtí a těžcí, že naše mysl nepracuje, neměli bychom této myšlence věnovat žádnou pozornost. Pokud cítíme, že když vstaneme, nebudeme moci příští den pracovat, je to špatné. Ne, budeme moci pracovat. Vždy se musíme snažit cítit, že noc může být skrze naše probuzené vědomí transformována v den.
 
-Mohu vám říci veselý příběh? V některých společenstvích musí všichni členové vstávat ve tři nebo o půl čtvrté a meditovat společně. Když byl založen Rámakrišnův ašrám, bylo Vivekanandovým nařízením, že každý musí vstávat o půl čtvrté, aby meditoval, bez ohledu na to, jak vysoké bylo jeho postavení. Pokud někdo nevstal, potom jej ti, kteří se probudili, mohli postříkat nesnesitelně studenou vodou. Jednou se prezident ašrámu Rakhal (Brahmananda) necítil dobře a nemohl nebo nechtěl vstát. Někdo řekl Vivekanandovi, že Rakhal nechtěl vstát. Vivékánanda řekl: „Jeho se týká stejné pravidlo. Jdi a vytáhni jej z postele.“ Rakhal se rozčílil a chtěl odejít z ašrámu. Řekl: „Já jsem prezident a tento mladík, můj žák, přijde a urazí mě. Víš, že jsem nemocný, jinak bych neporušil tvé pravidlo. Odcházím, nechci tu zůstat.“
+Mohu vám říci veselý příběh? V některých společenstvích musí všichni členové vstávat ve tři nebo o půl čtvrté a meditovat společně. Když byl založen Rámakrišnův ašrám, bylo Vivekanandovým nařízením, že každý musí vstávat o půl čtvrté, aby meditoval, bez ohledu na to, jak vysoké bylo jeho postavení. Pokud někdo nevstal, potom jej ti, kteří se probudili, mohli postříkat nesnesitelně studenou vodou. Jednou se prezident ašrámu Rakhal (Brahmananda) necítil dobře a nemohl nebo nechtěl vstát. Někdo řekl Vivekanandovi, že Rakhal nechtěl vstát. Vivékánanda řekl: „jeho se týká stejné pravidlo. jdi a vytáhni jej z postele.“ rakhal se rozčílil a chtěl odejít z ašrámu. Řekl: „Já jsem prezident a tento mladík, můj žák, přijde a urazí mě. Víš, že jsem nemocný, jinak bych neporušil tvé pravidlo. Odcházím, nechci tu zůstat.“
 
 Ale Vivékánanda byl velmi chytrý. Řekl: „Čí je toto místo? Rámakrišna mě nikdy nenazýval svým synem, vždy nazýval tebe svým synem. Nyní patří otcův majetek synovi. Toto je tvé místo, tvůj ašrám. Zde je mise tvého otce, realizace tvého otce. Ty musíš zůstat, já odejdu.“ Brahmananda nechtěl, aby Vivékánanda odešel, takže záležitost byla urovnána. Tento příběh ukazuje, jak Vivékánanda učinil pevným a přísným pravidlem, že každý musí vstávat brzy ráno, nehledě na to, jak vysoké je jeho postavení. A pomohlo to, pomohlo.
 
@@ -643,9 +638,9 @@ Ale Vivékánanda byl velmi chytrý. Řekl: „Čí je toto místo? Rámakrišna
 * Kolik hodin spánku bychom jako tví žáci měli mít každou noc?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:35-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:35-cs
   :END:
 
 
@@ -662,9 +657,9 @@ Dokud jsme neporazili něco, co nám stojí v cestě, nesmíme říkat, že to m
 * Někdy v noci zjišťuji, že nejsem unavený a jen ležím v posteli plný radosti. Měl bych v tu dobu meditovat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:36-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:36-cs
   :END:
 
 
@@ -675,9 +670,9 @@ Dokud jsme neporazili něco, co nám stojí v cestě, nesmíme říkat, že to m
 * Jaká poloha je pro spánek nejlepší?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:37-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:37-cs
   :END:
 
 
@@ -688,9 +683,9 @@ Dokud jsme neporazili něco, co nám stojí v cestě, nesmíme říkat, že to m
 * Dieta a půst
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: BHF:38e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: bhf:38e1-cs
   :END:
 
 
@@ -698,9 +693,9 @@ Dokud jsme neporazili něco, co nám stojí v cestě, nesmíme říkat, že to m
 * Je to pravda, že tělo ovlivňuje naši schopnost koncentrovat se? Nepomohla by nějaká dieta a pročištění?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:38-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:38-cs
   :END:
 
 
@@ -711,9 +706,9 @@ Dokud jsme neporazili něco, co nám stojí v cestě, nesmíme říkat, že to m
 * Zjišťuji, že když jím maso, nemohu meditovat příliš dobře; cítím se neklidný. Když ale nejím maso, cítím se velmi slabý.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:39-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:39-cs
   :END:
 
 
@@ -730,9 +725,9 @@ Cvičíte meditaci nanejvýš upřímně a oddaně. Co musíte udělat je zbavit
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:40-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:40-cs
   :END:
 
 
@@ -749,9 +744,9 @@ Nechci svým žákům ukládat přísnou vegetariánskou dietu; je to záležito
 * Takže pro realizaci Boha není vegetariánství nezbytné?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:41-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:41-cs
   :END:
 
 
@@ -764,9 +759,9 @@ Když přestanete jíst ryby a maso, neuskutečníte Boha přes noc. Zdaleka ne!
 * Když člověk ví, že je na cestě k Bohu, nebude pro něj maso automaticky zevnitř odpudivé?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:42-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:42-cs
   :END:
 
 
@@ -778,9 +773,9 @@ Když přestanete jíst ryby a maso, neuskutečníte Boha přes noc. Zdaleka ne!
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:43-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:43-cs
   :END:
 
 
@@ -797,9 +792,9 @@ Pokud chcete jíst ryby nebo pokud musíte jíst ryby, prosím snažte se jíst 
 * A co vejce, mléko a další mléčné výrobky?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:44-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:44-cs
   :END:
 
 
@@ -810,9 +805,9 @@ Pokud chcete jíst ryby nebo pokud musíte jíst ryby, prosím snažte se jíst 
 * V jedné makrobiotické knize jsem četl, že je špatné jíst brambory a rajčata. Rád bych věděl, jestli je to pravda.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:45-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:45-cs
   :END:
 
 
@@ -824,9 +819,9 @@ Pokud chcete jíst ryby nebo pokud musíte jíst ryby, prosím snažte se jíst 
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:46-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:46-cs
   :END:
 
 
@@ -841,9 +836,9 @@ Také káva a čaj nejsou dobré, kromě bylinných čajů. Pro mě jsou káva a
 * Jak se nejlépe stát vegetariánem, je-li člověk zvyklý jíst maso a ryby?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:47-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:47-cs
   :END:
 
 
@@ -854,28 +849,28 @@ Také káva a čaj nejsou dobré, kromě bylinných čajů. Pro mě jsou káva a
 * Prosím řekněte mi, jestli jsme v lepším kontaktu s Božským, když držíme půst a pijeme jen džus nebo vodu. Pomáhá nám půst k realizaci Boha?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:48-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:48-cs
   :END:
 
 
-/Sri Chinmoy:/ Když pijete džus, nedržíte půst. Mnoho lidí říká: „Časně zrána si dám šálek kávy, v poledne sklenici džusu a večer jen sklenici mléka.“ To je jejich pojetí půstu. Podle mě to ale není půst. Při pravém půstu můžete mít jen čistou vodu a nic jiného. 
+/Sri Chinmoy:/ když pijete džus, nedržíte půst. mnoho lidí říká: „Časně zrána si dám šálek kávy, v poledne sklenici džusu a večer jen sklenici mléka.“ To je jejich pojetí půstu. Podle mě to ale není půst. Při pravém půstu můžete mít jen čistou vodu a nic jiného. 
 
 Pokud se rozhodnete držet půst, musíte vědět, proč to děláte. Pokud cítíte, že držením půstu uskutečníte Boha, je to bláznovství. Pravým jménem Boha je Blaženost a Radost. Je-li váš Otec veškerou Radostí, bude vás žádat, abyste se trápili kvůli tomu, abyste k Němu mohli přijít? Bůh je vlastníkem nekonečné radosti a my víme, že je také nekonečně soucitný. Dal vám tělo -- je to Jeho tělo -- a začnete-li trápit Jeho tělo, bude potěšen? Nikdy! Začnete-li držet půst pro realizaci Boha, Bůh řekne, že kráčíte po špatné cestě.
 
 Půst nám ale může pomoci snížit váhu, vyléčit některé naše fyzické nemoci a pročistit naše nervy a mysl. Velice často jíme nezdravé jídlo a ubohé tělo potřebuje nějaký odpočinek a pročištění. Také díváme-li se na nebožské lidi a věci, z atmosféry do nás vstupují jejich vibrace a ovlivňují naše fyzické tělo -- pokožku, svaly, nervy. Chceme-li držet půst jeden den v měsíci, abychom pročistili svůj systém, lze to doporučit. Potřebujeme čistotu, abychom mohli ocenit Boží existenci na zemi. Je to v čistotě -- čistých myšlenkách, čistých činech, čistém vědomí -- kde Bůh přebývá. Půst nám může do velké míry pomoci při sebepročištění. A vstoupí-li do nás čistota, postupujeme rychleji vstříc naší realizaci Boha. Ale toto je pouze první krok, půst sám o sobě nám realizaci Boha nedá.
 
-Takže pro pročištění můžete zkusit půst -- pít jen vodu -- jednou za měsíc. Nyní mluvím jen z duchovního hlediska. Nevím nic o vaší fyzické konstituci. Jste-li silní a zdraví, můžete držet půst; jinak se to nedoporučuje. Ale dokonce i když nedržíte půst, můžete jednou týdně, jste-li upřímný hledající, omezit množství jídla, které přijímáte. Můžete to dělat obzvláště o nedělích, kdy nemusíte být příliš aktivní. Většina lidí vstává v neděli pozdě, takže mohou snadno vynechat snídani. V čase oběda si mohou říci: „Jím každý den. Pokud dnes budu jíst o trochu méně, vůbec mi to neuškodí.“ Potom večer, při večeři, mohou říci: „K obědu jsem nejedl obvyklé množství a neuškodilo mi to. Stále mám dost energie. Proč neudělat totéž nyní?“ Takže můžete-li jednou týdně, obzvláště o nedělích, odlehčit své jídlo, velice vám to pomůže. A nemusíte podstupovat přísný, mučivý půst, který skutečné duchovní postavy nedoporučují.
+Takže pro pročištění můžete zkusit půst -- pít jen vodu -- jednou za měsíc. Nyní mluvím jen z duchovního hlediska. Nevím nic o vaší fyzické konstituci. Jste-li silní a zdraví, můžete držet půst; jinak se to nedoporučuje. Ale dokonce i když nedržíte půst, můžete jednou týdně, jste-li upřímný hledající, omezit množství jídla, které přijímáte. Můžete to dělat obzvláště o nedělích, kdy nemusíte být příliš aktivní. Většina lidí vstává v neděli pozdě, takže mohou snadno vynechat snídani. V čase oběda si mohou říci: „jím každý den. pokud dnes budu jíst o trochu méně, vůbec mi to neuškodí.“ potom večer, při večeři, mohou říci: „K obědu jsem nejedl obvyklé množství a neuškodilo mi to. Stále mám dost energie. Proč neudělat totéž nyní?“ Takže můžete-li jednou týdně, obzvláště o nedělích, odlehčit své jídlo, velice vám to pomůže. A nemusíte podstupovat přísný, mučivý půst, který skutečné duchovní postavy nedoporučují.
 
 
 
 * Pomáhá-li nám půst skutečně v našem pročištění, proč bychom se potom neměli postit častěji než jednou nebo dvakrát za měsíc?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:49-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:49-cs
   :END:
 
 
@@ -898,9 +893,9 @@ Buddha nás učil střední cestu, cestu umírněnosti. Vyzkoušel extrémní ce
 * Nemohu meditovat, dokud mé tělo není uspokojeno. Jsem-li hladový nebo rozčilený, nemohu skutečně meditovat.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:50-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:50-cs
   :END:
 
 
@@ -911,9 +906,9 @@ Buddha nás učil střední cestu, cestu umírněnosti. Vyzkoušel extrémní ce
 * Jak brzy bychom měli jíst před a po meditaci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:51-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:51-cs
   :END:
 
 
@@ -926,9 +921,9 @@ Chcete-li meditovat nanejvýš upřímně, vždy se doporučuje meditovat s prá
 * Říká se, že jogíni v Indii pijí soma a získají určité vhledy.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:52-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:52-cs
   :END:
 
 
@@ -939,9 +934,9 @@ Chcete-li meditovat nanejvýš upřímně, vždy se doporučuje meditovat s prá
 * Transformace a zdokonalení těla
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: BHF:53e1-cs
+  :genre: section
+  :keywords:
+  :cite-key: bhf:53e1-cs
   :END:
 
 
@@ -949,9 +944,9 @@ Chcete-li meditovat nanejvýš upřímně, vždy se doporučuje meditovat s prá
 * Jak můžeme správně používat smysly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:53-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:53-cs
   :END:
 
 
@@ -966,9 +961,9 @@ Mohli bychom například používat naše oči, abychom viděli v lidstvu a v ce
 * Mohl byste říci něco o sebekontrole těla?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:54-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:54-cs
   :END:
 
 
@@ -983,9 +978,9 @@ Proč nás tělo neposlouchá, když se jej snažíme kontrolovat? Odpověď je 
 * Jak mohu přemoci své fyzické touhy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:55-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:55-cs
   :END:
 
 
@@ -1020,9 +1015,9 @@ Když myslím na celý svět, na problémy světa, topím se. Když si vybírám
 * Jaký je nejvyšší druh čistoty, o kterou mohu usilovat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:56-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:56-cs
   :END:
 
 
@@ -1035,9 +1030,9 @@ Musíte usilovat o čistotu v hrubém fyzickém. Jak to můžete udělat? Skrze 
 * Říká vaše filozofie, že tělo musí být vždy překážkou v komunikaci s Bohem a nemůže být nikdy částí našeho sebenabízení Bohu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:57-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:57-cs
   :END:
 
 
@@ -1054,26 +1049,10 @@ Je klavír a je klavírista. Oba jsou pro hru stejně nezbytní. Když není ž�
 * Jak můžeme zbožštět lidské tělo?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: BHF:58-cs
+  :genre: qa
+  :keywords:
+  :cite-key: bhf:58-cs
   :END:
 
 
 /Sri Chinmoy:/ Jsou dvě metody, jak zbožštět a transformovat tělo. Jedna je skrze neustálou aspiraci, kdy fyzické aspiruje společně s duší. Druhá je skrze vývoj. Poté co se duše mnohokrát vrátí do oblasti duší a zpět na zem, postupně dosáhne úrovně, kdy bude schopna jednat na zemi způsobem, jakým chce Nejvyšší. V tu chvíli bude moci transformovat tělo zevnitř.
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

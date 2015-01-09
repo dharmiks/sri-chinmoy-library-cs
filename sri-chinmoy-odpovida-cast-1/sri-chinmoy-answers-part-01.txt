@@ -1,20 +1,15 @@
-#+TITLE: Sri Chinmoy odpovídá, část 01
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 01
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2001
-  :PUBLISHER: Sri Chinmoy Centrum
-  :CITE-KEY: SCA-1-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2001
+  :publisher: Sri Chinmoy Centrum
+  :cite-key: SCA-1-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Část I[fn:: SCA 1-8. 25. června 1994 vyzval Sri Chinmoy žáky, kteří jsou na cestě více než dvacet pět let, k otázkám.]
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: SCA-e1-cs
-  :KEYWORDS:
+  :genre: section
+  :cite-key: SCA-e1-cs
+  :keywords:
   :END:
 
 
@@ -32,10 +27,10 @@
 * Jak může náš vnitřní život naplňovat všechny naše potřeby, když je naše vnitřní schopnost stále tak omezená?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-06-25
+  :genre: qa
+  :cite-key: sca:1-cs
+  :keywords:
+  :date-event: 1994-06-25
   :END:
 
 
@@ -56,16 +51,16 @@ Pro žáky je nejlepším způsobem, jak posílit víru v Mistra, když si před
 * Co má přednost - naprostá poslušnost, nebo bezpodmínečná odevzdanost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:2-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-06-25
+  :genre: qa
+  :cite-key: sca:2-cs
+  :keywords:
+  :date-event: 1994-06-25
   :END:
 
 
-/Sri Chinmoy:/ Poslušnost je většinou v mysli, zatímco odevzdanost je záležitostí celé bytosti. Bezpodmínečná odevzdanost zahrnuje celou bytost: aspirující srdce, hledající mysl, dynamické vitálno a tělo, které se zcela straní letargii. Když přijde odevzdanost, je to jako když padnete k Nohám Nejvyššího, naprosto odevzdávajíce sami sebe k Nohám Boha. Tehdy se nejen vaše hlava, ale celé vaše tělo dotýká nekonečného Oceánu Soucitu našeho Milovaného Pána Nejvyššího.
+/Sri Chinmoy:/ poslušnost je většinou v mysli, zatímco odevzdanost je záležitostí celé bytosti. bezpodmínečná odevzdanost zahrnuje celou bytost: aspirující srdce, hledající mysl, dynamické vitálno a tělo, které se zcela straní letargii. Když přijde odevzdanost, je to jako když padnete k Nohám Nejvyššího, naprosto odevzdávajíce sami sebe k Nohám Boha. Tehdy se nejen vaše hlava, ale celé vaše tělo dotýká nekonečného Oceánu Soucitu našeho Milovaného Pána Nejvyššího.
 
-Poslušnost se ale týká většinou mysli. Jestliže vám říkám, abyste něco udělali, můžete buď kráčet tak pomalu jako želva, nebo běžet tak rychle jako jelen. Ale ať jdete jakkoliv rychle, jakkoliv nadšeně, jakkoliv ochotně, pouze jedna část vaší bytosti kráčí: mysl. Mysl kráčí s nadějí, že potěší Boha nebo potěší Mistra. Říká si: „Jestliže nepůjdu, pak bude Mistr nespokojený, Bůh bude nespokojený.“ I přesto, že jdete rychle, ať už to děláte ze své vlastní vůle nebo z donucení, stále nezískáváte pocit spontánní sladkosti v celé bytosti. Když ale učiníte bezpodmínečné odevzdání, všechny části vašeho těla, každý jednotlivý nerv z vašich 86000 jemných nervů -- všechno -- vám bude dávat nepředstavitelnou radost.
+Poslušnost se ale týká většinou mysli. Jestliže vám říkám, abyste něco udělali, můžete buď kráčet tak pomalu jako želva, nebo běžet tak rychle jako jelen. Ale ať jdete jakkoliv rychle, jakkoliv nadšeně, jakkoliv ochotně, pouze jedna část vaší bytosti kráčí: mysl. mysl kráčí s nadějí, že potěší boha nebo potěší mistra. Říká si: „Jestliže nepůjdu, pak bude Mistr nespokojený, Bůh bude nespokojený.“ I přesto, že jdete rychle, ať už to děláte ze své vlastní vůle nebo z donucení, stále nezískáváte pocit spontánní sladkosti v celé bytosti. Když ale učiníte bezpodmínečné odevzdání, všechny části vašeho těla, každý jednotlivý nerv z vašich 86000 jemných nervů -- všechno -- vám bude dávat nepředstavitelnou radost.
 
 Musíme vědět, že bezpodmínečné odevzdání není odevzdáním se otroka jeho pánu. Je to odevzdání, které přichází z moudrosti, z uvědomění si, že Někdo ví více než my a zároveň nás považuje za své zcela vlastní a také chce, abychom Jej přijali za svého vlastního. Rozlehlý oceán chce vždy pojmout malou kapku. Pokud má kapka trochu inteligence nebo moudrosti, chce také přijmout oceán za svůj vlastní a říci: „Stala jsem se oceánem.“  Jestliže můžeme přesně stejným způsobem učinit bezpodmínečné odevzdání, okamžitě se staneme neoddělitelnou součástí našeho Milovaného Nejvyššího. Tehdy nejsme za nic odpovědní, protože to, co říkáme, nevychází z nás; vychází to z naší nejvyšší skutečnosti.
 
@@ -77,14 +72,14 @@ Ptáš se, co je přednější. To záleží na jedinci. Bezpodmínečné odevzd
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:3-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-06-25
+  :genre: qa
+  :cite-key: sca:3-cs
+  :keywords:
+  :date-event: 1994-06-25
   :END:
 
 
-/Sri Chinmoy:/ Hovořil jsem o poslušnosti a odevzdání. Nyní si přeji říci, že pokud je poslušnost hledajícího šťastná, radostná, bezesná a bezdechá, pak může hledající rozhodně těšit Boha. Ale není to jediný způsob, ne! Je mnoho způsobů. Někdo řekne: „S poslušností chci běžet nejrychleji a těšit Boha Jeho vlastním způsobem.“ Někdo jiný řekne: „Chci běžet nejrychleji a těšit Boha prostřednictvím aspirace.“ Někdo další řekne: „Chci těšit Boha a běžet nejrychleji se svým odhodláním.“
+/Sri Chinmoy:/ hovořil jsem o poslušnosti a odevzdání. nyní si přeji říci, že pokud je poslušnost hledajícího šťastná, radostná, bezesná a bezdechá, pak může hledající rozhodně těšit boha. ale není to jediný způsob, ne! je mnoho způsobů. někdo řekne: „s poslušností chci běžet nejrychleji a těšit boha jeho vlastním způsobem.“ někdo jiný řekne: „chci běžet nejrychleji a těšit boha prostřednictvím aspirace.“ někdo další řekne: „Chci těšit Boha a běžet nejrychleji se svým odhodláním.“
 
 Je tedy mnoho způsobů, jak těšit Boha a běžet nejrychleji. Pokud si vyberete cestu poslušnosti, pak si přeji říci, že tato poslušnost musí být radostná, šťastná a spontánně sebedávající. Tehdy se poslušnost jednotlivého žáka stává nejmocnějším způsobem, jak těšit Boha. Pokud chcete běžet nejrychleji po cestě poslušnosti, pak vaše poslušnost nesmí být vynucená. Nemůže vycházet ze strachu z potrestání za neposlušnost. Ne, musí vycházet z lásky. 
 
@@ -101,10 +96,10 @@ Existuje něco, co je nanejvýš důležité a čemu žáci nevěnují žádnou 
 * Co tě na žácích nejvíce potěšilo a co tě nejméně potěšilo od doby, kdy jsi na Západě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:4-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-06-25
+  :genre: qa
+  :cite-key: sca:4-cs
+  :keywords:
+  :date-event: 1994-06-25
   :END:
 
 
@@ -137,10 +132,10 @@ Jak jsem již řekl předtím, základní víru, nejvyšší víru, mám v každ
 * Jaká je nejrychlejší cesta k trvalému překonání letargie?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:5-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-06-25
+  :genre: qa
+  :cite-key: sca:5-cs
+  :keywords:
+  :date-event: 1994-06-25
   :END:
 
 
@@ -154,10 +149,10 @@ Toto je jeden z nejúčinnějších způsobů, jak porazit letargii, zatímco kr
 * Jak může duchovnost uniknout omezenosti náboženství?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:6-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-06-25
+  :genre: qa
+  :cite-key: sca:6-cs
+  :keywords:
+  :date-event: 1994-06-25
   :END:
 
 
@@ -165,7 +160,7 @@ Toto je jeden z nejúčinnějších způsobů, jak porazit letargii, zatímco kr
 
 Jakmile jednou přijmeme duchovní život, naším náboženstvím se stane naše láska k Bohu. A pokud milujeme Boha, všechno uvnitř nás se rozpíná. Tehdy necítíme, že naše tělo je omezeno na několik stop výšky; ne, vidíme expanzi těla. Také vidíme rozpínání našeho vitálna, mysli, celé naší bytosti. Naše láska k Bohu je pokračujícím rozpínáním celé naší skutečnosti. 
 
-Láska k Bohu je jediným skutečným náboženstvím, jediným náboženstvím, které by měl opravdový hledající praktikovat. Existuje nějaké náboženství, které nám říká, abychom nemilovali Boha? Problémem náboženství ale je, že se snaží omezit naši lásku k Bohu. Náboženství říká: „Pouze pokud miluješ Boha takovým způsobem, jakým Jej miluji já, děláš správnou věc.“ Každé náboženství bude tvrdit: „Miluj Boha, ale dělej to mým způsobem. Pouze když budeš chodit do kostela, když budeš chodit do chrámu, když budeš chodit do mešity, bude tvoje láska k Bohu dokonalá. Všechny jiné cesty jsou špatné.“ 
+Láska k Bohu je jediným skutečným náboženstvím, jediným náboženstvím, které by měl opravdový hledající praktikovat. Existuje nějaké náboženství, které nám říká, abychom nemilovali Boha? Problémem náboženství ale je, že se snaží omezit naši lásku k Bohu. Náboženství říká: „pouze pokud miluješ boha takovým způsobem, jakým jej miluji já, děláš správnou věc.“ každé náboženství bude tvrdit: „Miluj Boha, ale dělej to mým způsobem. Pouze když budeš chodit do kostela, když budeš chodit do chrámu, když budeš chodit do mešity, bude tvoje láska k Bohu dokonalá. Všechny jiné cesty jsou špatné.“ 
 
 Láska k Bohu ale taková není. Jestliže miluji Boha, Bůh mi řekne: „Proč by v zahradě náboženství měly být jenom růže? Mohou zde být také jiné květiny.“ Někdo přijde a bude obdivovat růži a někomu jinému se bude líbit jiná květina. A tak musíme milovat Boha všemi možnými způsoby -- prostřednictvím toho, co říkáme a co děláme, prostřednictvím neustálého sebedávání na každém jednotlivém stupni našeho vědomí. Musíme milovat Boha Božím vlastním Způsobem. Jedině tehdy nebudeme uvězněni v omezeních náboženství a nikdy se nebudeme pokoušet někoho omezit. 
 
@@ -178,14 +173,14 @@ Ptáš se, jak může duchovnost uniknout omezením náboženství. Únik není 
 * Jestliže používáme intuici na vnější úrovni, stane se méně účinnou v duchovních aktivitách?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:7-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-06-25
+  :genre: qa
+  :cite-key: sca:7-cs
+  :keywords:
+  :date-event: 1994-06-25
   :END:
 
 
-/Sri Chinmoy:/ Většinou když používáme intuici na vnější úrovni, používáme ji proto, aby sloužila našemu vlastnímu účelu a ne proto, aby sloužila Božím účelům. Duchovní Mistři ronívali hořké slzy, když je jejich žáci žádali, aby použili svoji intuici k odpovědím na nesmyslné otázky. Někdo přijde a požaduje: „Ztratila se mi kráva. Prosím, řekni mi, kde je?“ Jiný se ptá: „Prosím, řekni mi, jestli můj syn složí zkoušku, nebo ne?“ Duchovní Mistr může díky své intuici snadno říci, kde se nachází kráva nebo zda syn složí zkoušku, ale tímto způsobem nenaplňuje Vůli Boha. 
+/Sri Chinmoy:/ většinou když používáme intuici na vnější úrovni, používáme ji proto, aby sloužila našemu vlastnímu účelu a ne proto, aby sloužila božím účelům. duchovní mistři ronívali hořké slzy, když je jejich žáci žádali, aby použili svoji intuici k odpovědím na nesmyslné otázky. někdo přijde a požaduje: „ztratila se mi kráva. prosím, řekni mi, kde je?“ jiný se ptá: „Prosím, řekni mi, jestli můj syn složí zkoušku, nebo ne?“ Duchovní Mistr může díky své intuici snadno říci, kde se nachází kráva nebo zda syn složí zkoušku, ale tímto způsobem nenaplňuje Vůli Boha. 
 
 Je tolik způsobů, kdy může být síla intuice použita pro božský účel. Jestliže upřímný hledající přijde ke svému duchovnímu Mistrovi a chce vědět, proč nečiní pokrok, pak může Mistr použít svoji sílu intuice, aby viděl, co je příčinou, a pomoci tak hledajícímu. Může říci: „Chyba je ve tvé mysli. Pochyby ti nedovolí dělat pokrok.“ Nebo vidí, že překážkou je strach nebo nejistota či nečistota. Pokud někdo upřímně pláče, protože nemůže dělat pokrok kvůli nějaké nedokonalosti ve svém těle, vitálnu nebo mysli, pak může být použito síly intuice, aby mu opravdu pomohla. 
 
@@ -199,10 +194,10 @@ Jakmile jednou vstoupíme do duchovního života, naším prvním a nejpředněj
 * Jaký je rozdíl mezi neposlušností a slabostí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:8-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-06-25
+  :genre: qa
+  :cite-key: sca:8-cs
+  :keywords:
+  :date-event: 1994-06-25
   :END:
 
 
@@ -221,23 +216,23 @@ Toto světlo obvykle pochází ze života ticha, z míru. A mír přichází po
 * Část II[fn:: SCA 20-27. 4. července 1994, po speciální meditaci na americký den nezávislosti, vyzval Sri Chinmoy své žáky k otázkám.]
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: SCA-9e1-cs
-  :KEYWORDS:
+  :genre: section
+  :cite-key: SCA-9e1-cs
+  :keywords:
   :END:
 
 
 * Je pro žáka lepší vědět o tvé lásce, nebo cítit tvoji lásku?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:9-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-07-04
+  :genre: qa
+  :cite-key: sca:9-cs
+  :keywords:
+  :date-event: 1994-07-04
   :END:
 
 
-/Sri Chinmoy:/ Vědět o mé lásce je pouze knižní znalostí. Z knih se dozvíte, jak miluji lidstvo. Cítit moji lásku je nekonečně důležitější než vědět o mé lásce. Naopak ale prostřednictvím cítění můžete vědět. Jestliže vám vaše srdce umožní cítit, jak moc vás miluji, tehdy se pokusíte přesvědčit svoji mysl: „Guru mne miluje, ačkoliv se usmál na někoho jiného a ne na mne.“ Pocit toho, že vás miluji, musí být přenesen z vašeho srdce do vaší váhající nebo pochybující mysli. Jakmile je jednou vaše mysl přesvědčena o mé lásce, automaticky o ní budete vědět. A tak je nejlepší cítit a poté díky tomuto pocitu vědět o mé lásce.  
+/Sri Chinmoy:/ vědět o mé lásce je pouze knižní znalostí. z knih se dozvíte, jak miluji lidstvo. cítit moji lásku je nekonečně důležitější než vědět o mé lásce. naopak ale prostřednictvím cítění můžete vědět. jestliže vám vaše srdce umožní cítit, jak moc vás miluji, tehdy se pokusíte přesvědčit svoji mysl: „Guru mne miluje, ačkoliv se usmál na někoho jiného a ne na mne.“ Pocit toho, že vás miluji, musí být přenesen z vašeho srdce do vaší váhající nebo pochybující mysli. Jakmile je jednou vaše mysl přesvědčena o mé lásce, automaticky o ní budete vědět. A tak je nejlepší cítit a poté díky tomuto pocitu vědět o mé lásce.  
 
 Obyčejné lidské bytosti, které neaspirují, se mohou dozvědět pouze z knih, že je Bůh miluje. Poté, díky této znalosti, mohou jednou vstoupit do srdce a cítit v celém svém životě Boží Lásku. Jakmile ale jednou  přijmete duchovní život, je to jiné. Od úplného začátku musíte cítit Boží Lásku ve svém srdci. Nezáleží na tom, kolik knih jste přečetli nebo kolik jich hodláte přečíst, nikdy nezískáte pocit Boží Lásky nebo lásky vašeho Mistra z knih. Pokud srdce tento pocit nepodpoří, pak nemá dlouhé trvání. 
 
@@ -249,10 +244,10 @@ Vraťme se zpátky k tvé otázce -- je nekonečně, nekonečně, nekonečně d�
 * Jak mohou duchovní lidé s vedoucími schopnostmi vyjít do popředí v americké politice?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:10-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-07-04
+  :genre: qa
+  :cite-key: sca:10-cs
+  :keywords:
+  :date-event: 1994-07-04
   :END:
 
 
@@ -270,10 +265,10 @@ Právě nyní se musí duchovní lidé více modlit a meditovat, aby získali v�
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:11-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-07-04
+  :genre: qa
+  :cite-key: sca:11-cs
+  :keywords:
+  :date-event: 1994-07-04
   :END:
 
 
@@ -290,27 +285,27 @@ Většinou když žák-hudebník hraje moji hudbu, vidím, že jeho mysl pracuje
 * Vždy nás žádáš, abychom tě přijali za svého zcela vlastního. Mohl bys mi pomoci vymyslet, jak to udělat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:12-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-07-04
+  :genre: qa
+  :cite-key: sca:12-cs
+  :keywords:
+  :date-event: 1994-07-04
   :END:
 
 
-/Sri Chinmoy:/ To není věcí přemýšlení. Není to ani věcí cítění. Je to věcí stávání se. Když v Indii miliónkrát opakují: „Shivaham, Shivaham -- jsem Šiva, jsem Šiva“, stávají se jedním s vědomím Pána Šivy. Opětovným považováním se za něco se stáváš tou věcí samotnou. 
+/Sri Chinmoy:/ to není věcí přemýšlení. není to ani věcí cítění. je to věcí stávání se. když v indii miliónkrát opakují: „Shivaham, Shivaham -- jsem Šiva, jsem Šiva“, stávají se jedním s vědomím Pána Šivy. Opětovným považováním se za něco se stáváš tou věcí samotnou. 
 
-Když říkám, abyste mě přijali za svého vlastního, zcela vlastního, může toho být dosaženo pouze opakováním: „Stal jsem se Guruovým vybraným nástrojem. Proto mohu přijmout svého Gurua za svého vlastního, zcela vlastního.“ Přijměte mě, přijměte mě, přijměte mě; pak se to, co říkáte, stane skutečným. Jinak se budete chvíli snažit myslet, chvíli se budete snažit cítit a nikdy ničeho nedosáhnete. Jestliže ale řeknete: „Stal jsem se Guruovým vybraným nástrojem. Proto jej mohu přijmout za svého vlastního, zcela vlastního,“ pak se můžete zbavit všech nečistých, špinavých nánosů -- strachu, pochyb, úzkostí, obav, deprese a frustrace -- které si zbytečně nakládáte na svá ramena.
+Když říkám, abyste mě přijali za svého vlastního, zcela vlastního, může toho být dosaženo pouze opakováním: „stal jsem se guruovým vybraným nástrojem. proto mohu přijmout svého gurua za svého vlastního, zcela vlastního.“ přijměte mě, přijměte mě, přijměte mě; pak se to, co říkáte, stane skutečným. jinak se budete chvíli snažit myslet, chvíli se budete snažit cítit a nikdy ničeho nedosáhnete. jestliže ale řeknete: „Stal jsem se Guruovým vybraným nástrojem. Proto jej mohu přijmout za svého vlastního, zcela vlastního,“ pak se můžete zbavit všech nečistých, špinavých nánosů -- strachu, pochyb, úzkostí, obav, deprese a frustrace -- které si zbytečně nakládáte na svá ramena.
 
-Jediným  způsobem je přijímání a stávání se. Prostě si řekněte: „Stal jsem se čistým. Stal jsem se vybraným nástrojem.“ Neobelháváte sami sebe, vlastně vrůstáte v tuto skutečnost. Pokud řeknete: „Jsem čistý, jsem čistý,“ a pokud to někdo uslyší, může se vám vysmát. Může říci: „Ó, jsi tak špatný člověk!“ Když ale budete dále opakovat: „Jsem čistý, jsem dobrý, jsem božský,“ pak se dobré vědomí, Boží vědomí, stane vaším vlastním, protože se stanete tím, co opakujete.
+Jediným  způsobem je přijímání a stávání se. Prostě si řekněte: „stal jsem se čistým. stal jsem se vybraným nástrojem.“ neobelháváte sami sebe, vlastně vrůstáte v tuto skutečnost. pokud řeknete: „jsem čistý, jsem čistý,“ a pokud to někdo uslyší, může se vám vysmát. může říci: „Ó, jsi tak špatný člověk!“ když ale budete dále opakovat: „Jsem čistý, jsem dobrý, jsem božský,“ pak se dobré vědomí, Boží vědomí, stane vaším vlastním, protože se stanete tím, co opakujete.
 
 
 * J. (šest let): Kde je Bůh a proč Jej nemohu spatřit? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:13-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-07-04
+  :genre: qa
+  :cite-key: sca:13-cs
+  :keywords:
+  :date-event: 1994-07-04
   :END:
 
 
@@ -323,14 +318,14 @@ Jak Jej můžeš vidět? Prostě se podívej do zrcadla a pokus se cítit, že o
 * Co potřebují Afroameričané a Afričané nejvíce k tomu, aby překonali překážky, kterým dnes čelí? A čeho my, Afroameričané, potřebujeme více pro přivádění a udržení dalších afroamerických žáků na cestu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:14-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-07-04
+  :genre: qa
+  :cite-key: sca:14-cs
+  :keywords:
+  :date-event: 1994-07-04
   :END:
 
 
-/Sri Chinmoy:/ Jako Afroameričan musíš ve svém srdci nalézt více lásky pro ostatní Afroameričany, kteří ještě nepřijali duchovní cestu. V minulosti jsem říkával: „Považujte ostatní Afroameričany za své menší bratry. Je vaší svatou povinností přivést je k duchovnímu životu, protože to je jediný život, který jim pomůže. Žádná lidská bytost nemůže nikdy najít uspokojení, dokud jej nenajde na duchovní cestě. Všechno ostatní selže -- v tvém případě dnes, v jeho případě zítra, v případě někoho jiného pozítří.“
+/Sri Chinmoy:/ jako afroameričan musíš ve svém srdci nalézt více lásky pro ostatní afroameričany, kteří ještě nepřijali duchovní cestu. v minulosti jsem říkával: „Považujte ostatní Afroameričany za své menší bratry. Je vaší svatou povinností přivést je k duchovnímu životu, protože to je jediný život, který jim pomůže. Žádná lidská bytost nemůže nikdy najít uspokojení, dokud jej nenajde na duchovní cestě. Všechno ostatní selže -- v tvém případě dnes, v jeho případě zítra, v případě někoho jiného pozítří.“
 
 Ale nyní vidím, že nestačí považovat je za své menší bratry, kteří jsou vám malinko podřazení. Ne, nyní říkám, že musíte cítit, že jsou součástí vašeho vlastního těla, vy jen máte trochu více světla než oni. Je to takto. Máte dvě paže. Jedna paže je osvícená a druhá není osvícená. V jedné části těla máte osvícení a v druhé ne. Díky jejich vzájemné blízkosti může osvícená část vašeho těla snadno přinést světlo do neosvícené části. A proto, pokud se na to budete dívat tímto způsobem, rozhodně dosáhnete lepších výsledků.
 
@@ -340,10 +335,10 @@ Pokud se budete dívat na ostatní Afroameričany jako na oddělené individuali
 * Je dnes Thomas Jefferson dostatečně uznáván?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:15-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-07-04
+  :genre: qa
+  :cite-key: sca:15-cs
+  :keywords:
+  :date-event: 1994-07-04
   :END:
 
 
@@ -358,10 +353,10 @@ Jeffersonova vize v okamžiku pozvedla vědomí světa. Světlo, jež chtěl uk�
 * Jak člověk ví, že skutečně dává ze své duše a neobelhává pouze sám sebe?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:16-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-07-04
+  :genre: qa
+  :cite-key: sca:16-cs
+  :keywords:
+  :date-event: 1994-07-04
   :END:
 
 /Sri Chinmoy:/ Pokud dáváš ze své duše, nebudeš zjišťovat, zda druhá osoba přijímá, a nebudeš od ní očekávat vděčnost nebo uznání. Dáváš-li něco ze své duše, cítíš spontánní radost ze samotného dávání. Necítíš, že něco odevzdáváš; dáváš úsměv nebo něco jiného jednoduše proto, že cítíš vnitřní spontánní potřebu. Když něco dáváš běžným způsobem, někdy ti přijde na mysl myšlenka dobročinnosti nebo určitý pocit nadřazenosti. Cítíš, že jsi nadřazený, protože ty jsi tím, kdo dává. Ale ve skutečném sebedávání nevidíš druhou osobu jako někoho jiného, ale spíše jako jakési rozšíření sebe sama. Při sebedávání vlastně znásobuješ sama sebe. Jdeš od jednoho ke dvěma. S jednotou svého srdce vytváříš další já, které je přesně stejné jako ty sám, a tomuto druhému já dáváš stejné věci, které máš sám. Se svojí vlastní božskostí vytváříš další božskost, přesně stejnou, jako jsi ty sám -- přesný prototyp vlastní existence. Je to jako vyrábět další osobu v továrně. Nejprve vyrábíš jednu osobu, pak dvě, tři, čtyři, pět osob, a pak nespočetné množství osob.
@@ -371,10 +366,10 @@ Jeffersonova vize v okamžiku pozvedla vědomí světa. Světlo, jež chtěl uk�
 * Jestliže máš v každodenním životě problémy s lidmi, jak poznáš, kdy je nejlepší zůstat tichý a kdy je nejlepší něco říci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:17-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-07-04
+  :genre: qa
+  :cite-key: sca:17-cs
+  :keywords:
+  :date-event: 1994-07-04
   :END:
 
 
@@ -389,10 +384,10 @@ Cítím, že svým žákům říkám správnou věc, ale oni mne velice často n
 * Jak můžeme nejlépe ztělesňovat tvé světlo, učíme-li tvoji filozofii ve třídě?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:18-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-07-04
+  :genre: qa
+  :cite-key: sca:18-cs
+  :keywords:
+  :date-event: 1994-07-04
   :END:
 
 
@@ -407,10 +402,10 @@ Vycházím z tebe a také do tebe vstupuji. Vycházím z tvého srdce a vstupuji
 * Měli bychom během naší meditace myslet na štěstí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:19-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-07-04
+  :genre: qa
+  :cite-key: sca:19-cs
+  :keywords:
+  :date-event: 1994-07-04
   :END:
 
 
@@ -425,9 +420,9 @@ Vedeš duchovní život, protože chceš štěstí. Pokud by duchovní život ne
 * Část III[fn:: SCA 28. V den Akuliných narozenin, 10. května 1994, hovořil Sri Chinmoy o poslušnosti a poté ji požádal, aby mu položila několik otázek.]
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: SCA-20e1-cs
-  :KEYWORDS:
+  :genre: section
+  :cite-key: SCA-20e1-cs
+  :keywords:
   :END:
 
 
@@ -437,21 +432,21 @@ Vedeš duchovní život, protože chceš štěstí. Pokud by duchovní život ne
   :PROPERTIES:
   :genre: remark
   :keywords:
-  :cite-key: SCA:20
-  :DATE-EVENT: 1994-05-10
+  :cite-key: sca:20
+  :date-event: 1994-05-10
   :END:
 
-/Sri Chinmoy:/ Skutečnou meditací je učinit tvého Vnitřního kormidelníka šťastným prostřednictvím poslušnosti. Toto je meditace, která je nanejvýš účinná: poslouchat svého Vnitřního kormidelníka. Pokud posloucháš svého Vnitřního kormidelníka radostně každou vteřinu, pak zde nemůže být žádná vnitřní horečka -- žádný strach, pochyby nebo žárlivost -- protože nemáš čas přemýšlet o těchto věcech.
+/Sri Chinmoy:/ skutečnou meditací je učinit tvého vnitřního kormidelníka šťastným prostřednictvím poslušnosti. toto je meditace, která je nanejvýš účinná: poslouchat svého Vnitřního kormidelníka. Pokud posloucháš svého Vnitřního kormidelníka radostně každou vteřinu, pak zde nemůže být žádná vnitřní horečka -- žádný strach, pochyby nebo žárlivost -- protože nemáš čas přemýšlet o těchto věcech.
 
 
 
 * Proč mám tak ráda vrány?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:21-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-05-10
+  :genre: qa
+  :cite-key: sca:21-cs
+  :keywords:
+  :date-event: 1994-05-10
   :END:
 
 
@@ -467,10 +462,10 @@ Můžeme se na to dívat dvěma způsoby. Jeden způsob je považovat vránu za 
 * Jestliže jsou vrány tak špatné, je to moje nevědomost, která je tak ráda pozoruje?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:22-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-05-10
+  :genre: qa
+  :cite-key: sca:22-cs
+  :keywords:
+  :date-event: 1994-05-10
   :END:
 
 
@@ -485,14 +480,14 @@ V každém případě ty máš vrány ráda. Jednou jsi měla inkarnaci vrány, 
 * Snažím se myslet na svého Vnitřního kormidelníka, přesto si ale uchovávám nevědomost, která mnou proudí jako krev. Co mohu dělat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:23-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-05-10
+  :genre: qa
+  :cite-key: sca:23-cs
+  :keywords:
+  :date-event: 1994-05-10
   :END:
 
 
-/Sri Chinmoy:/ Co můžeš dělat? Dokázala jsi, že umíš přinést vítězství svému Vnitřnímu kormidelníkovi. Kolik lidí na zemi by uspělo v tom, co jsi udělala? Kolik lidí by řeklo těm nebožským lidem to, co ty: „Miluji svého Vnitřního kormidelníka, miluji svého Vnitřního kormidelníka.“ Ze tří tisíc žáků by pravděpodobně pouze pět procent přežilo, pokud by prošli tím, čím jsi prošla ty. Nedokázala jsi tedy, že miluješ Nejvyššího?
+/Sri Chinmoy:/ co můžeš dělat? dokázala jsi, že umíš přinést vítězství svému vnitřnímu kormidelníkovi. kolik lidí na zemi by uspělo v tom, co jsi udělala? kolik lidí by řeklo těm nebožským lidem to, co ty: „Miluji svého Vnitřního kormidelníka, miluji svého Vnitřního kormidelníka.“ Ze tří tisíc žáků by pravděpodobně pouze pět procent přežilo, pokud by prošli tím, čím jsi prošla ty. Nedokázala jsi tedy, že miluješ Nejvyššího?
 
 Nezáleží na tom, kolikrát tě nevědomost napadne, tvá mantra je vždy: „Miluji svého Vnitřního kormidelníka, miluji svého Vnitřního kormidelníka, miluji svého Vnitřního kormidelníka.“
 
@@ -501,14 +496,14 @@ Nezáleží na tom, kolikrát tě nevědomost napadne, tvá mantra je vždy: „
 * Ale ona mne pouze nenapadá; zdá se, že mám nevědomost ráda.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:24-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-05-10
+  :genre: qa
+  :cite-key: sca:24-cs
+  :keywords:
+  :date-event: 1994-05-10
   :END:
 
 
-/Sri Chinmoy:/ Nevědomost je tak špatná! V některých případech si uchováváme nevědomost, v jiných případech ne, někdo nás ale nutí k tomu, abychom cítili, že se těšíme z nevědomosti. Dítě nemusí mít rádo určité jídlo, matka jej ale stále žádá, aby jedlo, nebo mu strká jídlo do úst a říká: „Je to moc chutné, je to pro tebe dobré.“ Nakonec už dítě matku nechce poslouchat a řekne: „Ano, je to moc dobré.“
+/Sri Chinmoy:/ nevědomost je tak špatná! v některých případech si uchováváme nevědomost, v jiných případech ne, někdo nás ale nutí k tomu, abychom cítili, že se těšíme z nevědomosti. dítě nemusí mít rádo určité jídlo, matka jej ale stále žádá, aby jedlo, nebo mu strká jídlo do úst a říká: „je to moc chutné, je to pro tebe dobré.“ nakonec už dítě matku nechce poslouchat a řekne: „Ano, je to moc dobré.“
 
 Ty už sis vybrala mezi nevědomostí a moudrostí, ale někdo tě nutí cítit, že se těšíš z nevědomosti.
 
@@ -517,10 +512,10 @@ Ty už sis vybrala mezi nevědomostí a moudrostí, ale někdo tě nutí cítit,
 * Co mohu dělat, abych urychlila svůj pokrok? Nemluvím ani o dosažení realizace Boha, ale pouze o zbavení se nevědomosti, která mnou proudí téměř nitrožilně?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:25-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-05-10
+  :genre: qa
+  :cite-key: sca:25-cs
+  :keywords:
+  :date-event: 1994-05-10
   :END:
 
 
@@ -533,10 +528,10 @@ Akuli: Nejvyššímu z toho není špatně?
 * Nejvyššímu z toho není špatně?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:26-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-05-10
+  :genre: qa
+  :cite-key: sca:26-cs
+  :keywords:
+  :date-event: 1994-05-10
   :END:
 
 
@@ -549,10 +544,10 @@ Při fotbalovém zápasu hráč ví, zda vyhrává nebo prohrává, a v určité
 * Co mohu dělat, abych těšila Nejvyššího více?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:27-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-05-10
+  :genre: qa
+  :cite-key: sca:27-cs
+  :keywords:
+  :date-event: 1994-05-10
   :END:
 
 
@@ -591,18 +586,18 @@ Akuli, znáš ten hloupý indický vtip o tom, kolik existuje vran? Někdo řekn
 * Část IV
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: SCA-28e1-cs
-  :KEYWORDS:
+  :genre: section
+  :cite-key: SCA-28e1-cs
+  :keywords:
   :END:
 
 * Jsem tak špatný zpěvák a vím toho o hudbě velmi málo. Zajímalo by mě, zda jsem někdy měl hudební inkarnaci.[fn:: SCA 28. C. se zeptal na své narozeniny Sri Chinmoye na následující otázku 9. února 1990]
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:28-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-09
+  :genre: qa
+  :cite-key: sca:28-cs
+  :keywords:
+  :date-event: 1990-02-09
   :END:
 
 
@@ -624,9 +619,9 @@ Naopak jsou tací, kteří znají hudbu velmi dobře a také mají schopnost oce
 
 * Část V 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: SCA-29e1-cs
-  :KEYWORDS:
+  :genre: section
+  :cite-key: SCA-29e1-cs
+  :keywords:
   :END:
 
 
@@ -635,9 +630,9 @@ Naopak jsou tací, kteří znají hudbu velmi dobře a také mají schopnost oce
 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: SCA:29-cs
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: sca:29-cs
+  :keywords:
   :END:
 
 
@@ -649,11 +644,11 @@ Obyčejní lidé chtějí být soběstační tím, že chtějí mít více peně
 
 Ale jestliže se svými modlitbami, svými meditacemi, svou sebedávající službou, svou vděčností a svým odevzdáním se Boží Vůli budeš snažit stát se více hodna Božího Soucitu, pak budeš v každém okamžiku šťastná. Získáš vnitřní ujištění od Boha Samotného, že tě učiní šťastnou, nejen dnes, ale také zítra a pozítří.
 
-Dopis žáka může být soukromý, ale moje odpověď se vztahuje na vás všechny. Vaše mysl vám říká: „Pokud udělám tohle a stanu se soběstačným, pak budu zabezpečen, budu šťasten!“ Ale to není pravda. Můžete být zabezpečeni a šťastni pouze tehdy, když dokážete více přijímat Boží Soucit. Pokud se modlíte k Bohu: „Učiň mne hodným Tvého Soucitu, učiň mne hodným Tvé Lásky,“ pak budete jednou schopni přijmout Boží skutečnou Lásku, skutečné Světlo, skutečný Soucit a vše ostatní, co vám chce Bůh nabídnout.
+Dopis žáka může být soukromý, ale moje odpověď se vztahuje na vás všechny. Vaše mysl vám říká: „pokud udělám tohle a stanu se soběstačným, pak budu zabezpečen, budu šťasten!“ ale to není pravda. můžete být zabezpečeni a šťastni pouze tehdy, když dokážete více přijímat boží soucit. pokud se modlíte k bohu: „Učiň mne hodným Tvého Soucitu, učiň mne hodným Tvé Lásky,“ pak budete jednou schopni přijmout Boží skutečnou Lásku, skutečné Světlo, skutečný Soucit a vše ostatní, co vám chce Bůh nabídnout.
 
 A tak říkám všem svým žákům: pokud si myslíte, že vaše bezpečí záleží na vaší vlastní soběstačnosti, potom se velice mýlíte. Žádná lidská bytost na zemi se nemůže stát opravdu zabezpečenou tím, že se stane soběstačnou. To platí nejen pro duchovní lidi, ale pro každého. Je to vaše mysl, která vám říká, že získáte-li vysokoškolský titul nebo doktorát, pak budete zabezpečeni. Zatímco ale budete studovat, tolik špatných sil vás napadne. Kde pak je vaše bezpečí? Kde je vaše štěstí? Pokud se ale stanete závislí na Božím Soucitu, pokud budete hodni Božího Soucitu, pak vás Bůh povede v každém okamžiku. Tehdy bude samotné Boží Světlo vaším zabezpečením. 
 
-Svojí myslí plánujete budoucnost a říkáte si: „Jestliže se stanu tímhle, pak získám tohle.“ Ale možná, že to nezískáte, nebo zde bude něco, co vám bude stát v cestě a odvede vás od vašeho cíle. Pomyslíte si: „Pravděpodobně tohle není ta správná věc, zkusím tedy něco jiného,“ a budete opět nešťastní. A i když budete dělat to, co jste chtěli, a stanete se tím, čím jste se chtěli stát, nebudete šťastní, protože vám tyto věci nepřinesou zabezpečení a štěstí, které jste očekávali. 
+Svojí myslí plánujete budoucnost a říkáte si: „jestliže se stanu tímhle, pak získám tohle.“ ale možná, že to nezískáte, nebo zde bude něco, co vám bude stát v cestě a odvede vás od vašeho cíle. pomyslíte si: „Pravděpodobně tohle není ta správná věc, zkusím tedy něco jiného,“ a budete opět nešťastní. A i když budete dělat to, co jste chtěli, a stanete se tím, čím jste se chtěli stát, nebudete šťastní, protože vám tyto věci nepřinesou zabezpečení a štěstí, které jste očekávali. 
 
 A proto, milá dívko, chceš-li být šťastná a zabezpečená, pokus se prostě být víc otevřená a hodna Soucitu Nejvyššího. Pokus se přijmout Boží Soucit Božím vlastním Způsobem. V Božím Soucitu je nekonečný Mír, nekonečné Světlo, nekonečná Láska. Přečetl jsem a pochopil celý tvůj dopis a odpověděl jsem na celý. Porozuměl jsem všemu, když říkáš, že pokud uděláš to a to, nebudeš se muset strachovat o své finance a svoji budoucnost. Stavíš ale pouze hrad z písku, hrad, který se rozpadne. Na druhé straně, následuješ-li božskou cestu, dovolíš-li Někomu jinému a Něčemu jinému -- Bohu a Božímu Soucitu -- pracovat v tobě a prostřednictvím tebe, pak uvidíš Boží Světlo prostupovat celým tvým životem. A toto Světlo je jediným štěstím a jistotou. 
 
@@ -662,9 +657,9 @@ A proto, milá dívko, chceš-li být šťastná a zabezpečená, pokus se prost
 * Část VI[fn:: SCA 30. 31. prosince 1986, se N. zeptala Sri Chinmoye na následující otázku]
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: SCA-30e1-cs
-  :KEYWORDS:
+  :genre: section
+  :cite-key: SCA-30e1-cs
+  :keywords:
   :END:
 
 
@@ -672,10 +667,10 @@ A proto, milá dívko, chceš-li být šťastná a zabezpečená, pokus se prost
 * Má pro mne moje mysl určité poselství?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:30-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1986-12-31
+  :genre: qa
+  :cite-key: sca:30-cs
+  :keywords:
+  :date-event: 1986-12-31
   :END:
 
 
@@ -705,10 +700,10 @@ Přistihl jsem tvou mysl; udělal jsi chyby. Musíš vědět, že když udeří 
 * Vděčnost[fn:: SCA-31. Sri Chinmoy předal tuto promluvu o vděčnosti 16. ledna 1994]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: SCA:31-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1994-01-16
+  :genre: discourse
+  :cite-key: sca:31-cs
+  :keywords:
+  :date-event: 1994-01-16
   :END:
 
 
@@ -720,22 +715,6 @@ Hovořím o upřímné vděčnosti -- o takové vděčnosti, jejíž živoucí p
 
 Vděčnost je tou nejmocnější zbraní ve vašem životě. Není nic nebožského, čeho byste se pomocí vděčnosti nemohli ve vašem životě zbavit. A také ve vašem životě neexistuje nic božského, co byste silou své vděčnosti nemohli posílit v nekonečné míře. Je pouze jedna věc, kterou potřebujete k tomu, abyste posílili svoji božskost, a tou věcí je vděčnost. Jestliže každý den vědomě posilujete svoji vděčnost -- ne ke Sri Chinmoyovi, ale k Nejvyššímu, který je vaším Guruem, mým Guruem a Guruem každého -- pak uvidíte, jak velký učiníte pokrok a kolika špatných sil se budete schopni zbavit. Říkám vám, že všechna fyzická, vitální, mentální a emocionální horečka, kterou trpíte, přichází pouze z toho důvodu, že jste ztratili dech vděčnosti svého srdce. Je-li dech vašeho srdce vděčnosti v pořádku, pak si jej udržte navždy. Toto je nepochybně ta správná cesta, jak běžet rychle, rychleji, nejrychleji ke stanovenému Cíli.
 
-Vděčnost není pouhým slovem; není to pouze pojem. Je to živoucí dech vaší skutečné existence na zemi. Není nic, co by pro vás Bůh neučinil, pokud ve svém aspirujícím srdci skutečně chováte dech vděčnosti. Prosím, prosím, každému z vás říkám: chcete-li běžet nejrychleji, pak se zbavte věci, která vás brzdí. Věcí, která vás ochromuje nebo paralyzuje ve vašem duchovním životě, je nevděčnost. Pokud si můžete navždy uchovat svůj dech vděčnosti, potom vám nic nemůže stát v cestě a nikdo vám nemůže zabránit dělat správnou věc a stát se tou správnou osobou: nejdokonalejším nástrojem našeho Pána Milovaného Nejvyššího.
+Vděčnost není pouhým slovem; není to pouze pojem. Je to živoucí dech vaší skutečné existence na zemi. Není nic, co by pro vás Bůh neučinil, pokud ve svém aspirujícím srdci skutečně chováte dech vděčnosti. Prosím, prosím, každému z vás říkám: chcete-li běžet nejrychleji, pak se zbavte věci, která vás brzdí. věcí, která vás ochromuje nebo paralyzuje ve vašem duchovním životě, je nevděčnost. pokud si můžete navždy uchovat svůj dech vděčnosti, potom vám nic nemůže stát v cestě a nikdo vám nemůže zabránit dělat správnou věc a stát se tou správnou osobou: nejdokonalejším nástrojem našeho Pána Milovaného Nejvyššího.
 
 Vděčnost, vděčnost a vděčnost. Duši neznáte; Nejvyššího neznáte. V tomto stadiu vašeho duchovního vývoje je nemusíte znát. Ale vděčnost musíte znát, pokud se chcete spojit se svojí nejvyšší Výškou, s Nejvyšším. Chcete-li se spojit se Skutečným v sobě, pak musíte přijmout svůj dech vděčnosti za vlastní, zcela vlastní.
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

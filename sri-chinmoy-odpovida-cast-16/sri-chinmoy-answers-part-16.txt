@@ -1,20 +1,15 @@
-#+TITLE: Sri Chinmoy odpovídá, část 16
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Sri Chinmoy odpovídá, část 16
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2001
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: SCA-16-cs
-  :GENRE: qa
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2001
+  :publisher: Madal Bal
+  :cite-key: SCA-16-cs
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,22 +17,22 @@
 * Část I 
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: SCA:580e1-cs
-  :KEYWORDS:
+  :genre: section
+  :cite-key: sca:580e1-cs
+  :keywords:
   :END:
 
 
 
 
 
-* Před programem „Zvedání světa srdcem jednoty“[fn:: SCA 580. 17. ledna 1990 v řeckých Aténách zvedl Sri Chinmoy jednou rukou nad hlavu řadu svých jugoslávských žáků jako součást svého programu „Lifting up the World with a Oneness-Heart“ (Zvedání Světa Srdcem Jednoty). Před zvedáním řekl:]
+* Před programem „Zvedání světa srdcem jednoty“[fn:: sca 580. 17. ledna 1990 v řeckých aténách zvedl sri chinmoy jednou rukou nad hlavu řadu svých jugoslávských žáků jako součást svého programu „lifting up the world with a oneness-heart“ (zvedání světa srdcem jednoty). před zvedáním řekl:]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: SCA:580-cs
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-17
+  :genre: discourse
+  :cite-key: sca:580-cs
+  :keywords:
+  :date-event: 1990-01-17
   :END:
 
 
@@ -50,10 +45,10 @@ Ještě jednou každému z vás nabízím své srdce lásky a život vděčnost
 * Část II[fn:: SCA 581-585. 18. ledna 1990 v Aténách Sri Chinmoy vyzval k otázkám velkou skupinu svých jugoslávských žáků, kteří přijeli do Řecka, aby poprvé spatřili svého duchovního Mistra] 
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: SCA:581e2-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-18
+  :genre: section
+  :cite-key: sca:581e2-cs 
+  :keywords:
+  :date-event: 1990-01-18
   :END:
 
 
@@ -62,10 +57,10 @@ Ještě jednou každému z vás nabízím své srdce lásky a život vděčnost
 * Jak se můžeme vyvarovat kritizování druhých?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:581-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-18
+  :genre: qa
+  :cite-key: sca:581-cs 
+  :keywords:
+  :date-event: 1990-01-18
   :END:
 
 
@@ -78,10 +73,10 @@ Jak můžete světu dokázat, že jste velmi moudří, pokud neustále kritizuje
 * Jak můžeme být shovívaví k lidem kolem nás, když vidíme, že nejsou příliš dokonalí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:582-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-18
+  :genre: qa
+  :cite-key: sca:582-cs 
+  :keywords:
+  :date-event: 1990-01-18
   :END:
 
 
@@ -95,10 +90,10 @@ Když vidíte, že někdo není dokonalý, vaše srdce musí vyjít do popředí
 * Jsou žáci, kteří jsou vám věrní, ale nevěří v Boha?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:583-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-18
+  :genre: qa
+  :cite-key: sca:583-cs 
+  :keywords:
+  :date-event: 1990-01-18
   :END:
 
 
@@ -113,10 +108,10 @@ Tito lidé, kteří používají mysl, o sobě říkají, že nevěří v Boha.
 * Když medituji v Centru, jde mi to dobře, ale když medituji sám, často cítím strach.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:584-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-18
+  :genre: qa
+  :cite-key: sca:584-cs 
+  :keywords:
+  :date-event: 1990-01-18
   :END:
 
 /Sri Chinmoy:/ Představte si laskavě velký plavecký bazén, v němž plave mnoho lidí. Pokud v něm uvidíte někoho plavat, okamžitě do něj skočíte. Ale pokud budete před bazénem sám, začnete mít strach. Budete se bát, že když se něco stane, nebude tu nikdo, kdo by vám pomohl. Když meditujete doma, musíte myslet na Centrum, kde meditují ostatní. Potom budete moci vstoupit do své meditace bez jakéhokoliv strachu.
@@ -125,10 +120,10 @@ Tito lidé, kteří používají mysl, o sobě říkají, že nevěří v Boha.
 
 * Je správné opustit syna a rodinu a odejít meditovat jinam, když nemůžu meditovat doma?
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:585-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-18
+  :genre: qa
+  :cite-key: sca:585-cs 
+  :keywords:
+  :date-event: 1990-01-18
   :END:
 
 /Sri Chinmoy:/ Není správné opustit syna a rodinu. Musíte se stát vnitřně velmi silným. Jen proto, že právě teď nemůžete doma meditovat, nesmíte opustit svého syna a rodinu. Pokud odejdete, budete myslet jen na svého syna. Budete přemýšlet, co dělá, co jí a tak dále. Kamkoliv odejdete, ponesete si tu samou mysl. Je to mysl, která vám nedovoluje meditovat. 
@@ -137,12 +132,12 @@ Měl byste žít v srdci. Když se na svého syna díváte nebo s ním či se 
 
 
 
-* Část III[fn:: SCA 586. Sri Chinmoy poté svým jugoslávským žákům na rozloučenou řekl:]
+* Část III[fn:: sca 586. sri chinmoy poté svým jugoslávským žákům na rozloučenou řekl:]
 
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:586e1-cs
+  :cite-key: sca:586e1-cs
   :END:
  
 
@@ -151,10 +146,10 @@ Měl byste žít v srdci. Když se na svého syna díváte nebo s ním či se 
 * Rozloučení s jugoslávskými žáky
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: SCA:586-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-18
+  :genre: discourse
+  :cite-key: sca:586-cs 
+  :keywords:
+  :date-event: 1990-01-18
   :END:
 
 Brzy opustíte Athény. Vaše takzvaně fyzická existence opustí tento hotel a vrátí se do Jugoslávie, ale vaši vnitřní existenci, která je skutečná, naprosto skutečná, která je jedinou skutečností, ponecháte v hlubinách mého srdce. Zůstane se mnou nastálo. V blízké budoucnosti asi nebudu moci navštívit vaši zemi fyzicky, ale duchovně už v ní jsem. Mé srdce bezmezné lásky, nekonečné náklonnosti a neoddělitelné jednoty je zcela pro ty z vás, kteří pocházíte z aspirujícího srdce a zasvěceného života Jugoslávie. Ti, kteří se připojili k naší lodi, mají velmi zvláštní význam v hlubinách mého vlastního aspirujícího srdce. Během krátkých dvou dnů jste neomylným způsobem prokázali svůj upřímný, nejupřímnější pláč po našem Pánu Milovaném Nejvyšším. Můj zbožný život a žehnající duše vás vždy povedou a budou provázet k nejvyššímu Cíli. 
@@ -172,7 +167,7 @@ Protože jsme všichni hledající, věříme v existenci duše. Duše létá p
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:587e1-cs
+  :cite-key: sca:587e1-cs
   :END:
 
 
@@ -180,10 +175,10 @@ Protože jsme všichni hledající, věříme v existenci duše. Duše létá p
 * Zdá se, že se nepřátelské síly rozrůstají a postupují a dobré síly ztrácí sílu. Jak je možné, aby dobré síly jednou zvítězily?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:587-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-31
+  :genre: qa
+  :cite-key: sca:587-cs 
+  :keywords:
+  :date-event: 1990-01-31
   :END:
 
 /Sri Chinmoy:/ Kdo jsme, že říkáme, které síly jsou nepřátelské, které síly dobré a kdo vítězí? Používáme název „nepřátelské síly,“ ale víme, které síly jsou ve skutečnosti nepřátelské a které dobré? My sami můžeme hrát roli nepřátelských sil naprosto dokonale. Pokusme se, vědomě a oduševněle, zmenšit své špatné činy. Pokud každý den dokážeme udělat o jeden špatný skutek méně, pomůžeme tím božskému uvnitř nás, aby nás zdokonalilo. Protože Bůh to s námi nevzdal, musíme pokračovat. Tak jako On má nekonečnou Trpělivost, buďme také my trpěliví v přemáhání špatných sil.
@@ -195,10 +190,10 @@ Nesmíme Bohu přidělávat problémy. Nevědomě děláme mnoho špatných věc
 * Ve vašem novoročním poselství se v posledních dvou řádcích říká: „Moje Koruna Transcendentálního Ticha a můj Trůn Univerzálního Zvuku.“ Můžete o tom něco říci?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:588-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-31
+  :genre: qa
+  :cite-key: sca:588-cs 
+  :keywords:
+  :date-event: 1990-01-31
   :END:
 
 /Sri Chinmoy:/ Nejedná se o mé básnické vyjádření; je to má vlastní vnitřní zkušenost. Pokud dokážete pozvednout své vědomí, svou vnitřní výšku, potom uvidíte, že mé novoroční poselství není mentální žonglování. Když jsem minulý rok v poselství vyjádřil určité věci, splnily se. Tento rok se také vyplní. Ve vnitřním světě se denně dějí ohromné věci. Když ve vnitřním světě spatříme poupě krásy, víme, že rozkvete, lístek po lístku. Ale dokud zcela nerozkvete navenek, nemůžeme ho svým vnějším pohledem nazvat květinou. Takže pokud máme ve vnitřním světě jistotu nebo víru, můžeme vidět vnitřní skutečnost. Ale pokud v sobě přechováváme pochybnost, potom neuvidíme, co je opravdu nejkrásnější a nejskutečnější. Pochybující a praktická mysl to nepostřehne. Většinou je-li něco ve vnitřním světě ve formě semínka, víme, že se to nakonec zcela projeví. Velmi pokročilí duchovní hledající dokáží svým třetím okem vidět budoucnost. Ví, že jejich vize je skutečná. Už k tomu došlo ve vnitřním světě, ale ještě se to neprojevuje na vnější úrovni. 
@@ -212,10 +207,10 @@ Bůh je potěšen dokonce i naším kratičkým životem odevzdání a nekonečn
 * Mohl byste nám dát nějakou meditační nebo koncentrační techniku pro rozvinutí schopnosti rozlišování?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:589-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-31
+  :genre: qa
+  :cite-key: sca:589-cs 
+  :keywords:
+  :date-event: 1990-01-31
   :END:
 
 /Sri Chinmoy:/ Pokud prostě dokážete ronit slzy -- a nemyslím tím krokodýlí slzy -- rozvinete si schopnost rozlišování. Zkuste cítit, že jste naprosto bezmocní, jako nemluvně v lese. Musíte vynést do popředí pokoru a cítit, že nejste ničím a nemůžete ničím být bez Boží Ochrany, Božího Soucitu. Musíte plakat jako dítě. Myslete na to, jak dítě pláče a volá matku, když chce mléko nebo hračku. Okamžitě dokážete rozlišovat a vyberete si pouze věci, které vám pomůžou dělat duchovní pokrok. Co potřebujete, to dostanete. Schopnost rozlišování přichází z našeho nejupřímnějšího pláče. Pokud budete k rozlišování používat mysl, bude to chyba. Rozlišování je založeno na nejčistším pláči srdce. Boží Soucit a Ochrana vám okamžitě dají nektar a uchrání vás před jedem.
@@ -227,10 +222,10 @@ Jiný způsob je chovat se jako hrdina. Musíte mít odvahu cítit, že jste nan
 * Před jedenácti lety spáchal můj otec sebevraždu a stále mě to znepokojuje. Měl rakovinu a zbývaly mu tři měsíce života, tak si vzal život.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:590-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-31
+  :genre: qa
+  :cite-key: sca:590-cs 
+  :keywords:
+  :date-event: 1990-01-31
   :END:
 
 /Sri Chinmoy:/ Podle mé vnitřní filozofie nám tento život dal Bůh. Každý okamžik musíme využít příležitost bojovat se smrtí. Můžete říci, že život vašeho otce byl zbytečný. I kdyby zůstal, možná by vnějšímu světu nemohl ničím přispět. Ale je zde svět vnitřní, svět duše. Duše již nemusí být schopna se déle projevovat uvnitř a prostřednictvím určitého těla, ale může se projevovat prostřednictvím jeho blízkých. Tímto způsobem udržuje spojení se zemí. Existuje mnoho takových důvodů, proč by nikdo neměl spáchat sebevraždu.
@@ -244,10 +239,10 @@ Na konci vašeho života, i když se pohybujete jen rychlostí indického býč�
 * Na meditaci pro veřejnost jste mluvil o plačícím dítěti uvnitř. Když se koncentrujeme na váš Transcendentální obraz, můžeme se pokusit spatřit v něm plačící dítě a ztotožnit se s ním?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:591-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-31
+  :genre: qa
+  :cite-key: sca:591-cs 
+  :keywords:
+  :date-event: 1990-01-31
   :END:
 
 /Sri Chinmoy:/ Chcete si představit plačící dítě uvnitř mé Transcendentální fotografie? Ne, to není správný způsob. Můj Transcendentál jako takový nepláče. V určitém smyslu můžete říci, že pláče po dokonalosti lidských bytostí, ale můj Transcendentál je plný nekonečného soucitu, lásky a světla. Když jsem mluvil o plačícím dítěti uvnitř, myslel jsem tím, že vy jako jednotlivec musíte plakat způsobem, jakým pláče dítě. Můžete plakat k mému Transcendentálu pro věci, které potřebujete, pro rozpoznání dobrého od špatného a tak dále. 
@@ -259,10 +254,10 @@ Transcendentál naplní vaši aspiraci. Ale kdyby Transcendentál začal také p
 * Existují určitá hudební díla, která je nejlepší poslouchat v určitou denní dobu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:592-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-31
+  :genre: qa
+  :cite-key: sca:592-cs 
+  :keywords:
+  :date-event: 1990-01-31
   :END:
 
 /Sri Chinmoy:/ Nejsem odborníkem na hudbu. K tomu si musíte přečíst knihy o indických rágách. Když si přečtete indické knihy, řeknou vám, která rága je nejlepší večer, která ráno a která odpoledne. Ale co se týče mé hudby, složil jsem tisíce písní, takže si můžete vybrat. Pokud nejste zpěvák, potom můžete poslouchat mé nahrávky nebo nahrávky mých žáků a zjistit, které písně jsou pro vás nejlepší. Vy sám to rozhodněte. Některé písně vás budou oslovovat hlavně časně zrána, jiné pozdě večer a další možná pozdě v noci. 
@@ -274,10 +269,10 @@ Vyzkoušel jsem několik indických rág. Ale bohužel nesouhlasím s tím, že
 * Jedna ze starších žákyň v našem Centru je velmi zděšená něčím, co četla v jedné z vašich knih. Řekl jste, že starší lidé kolem padesáti let velmi často přestávají dělat duchovní pokrok, protože v tomto věku je vitálno buď nečisté, nebo unavené a přestává dávat odhodlání mysli. Tato žákyně se vyděsila a řekla: „Jakou mám naději? Je mi padesát.“
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:593-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-31
+  :genre: qa
+  :cite-key: sca:593-cs 
+  :keywords:
+  :date-event: 1990-01-31
   :END:
 
 /Sri Chinmoy:/ Samozřejmě je jednoduše nemožné učinit duchovní pokrok, pokud zůstává v mysli. Ale když bude zůstávat v srdci, zůstane věčným dítětem. Jsem také padesátník, ale cítím, že stále dělám pokrok. Pokud dokážete zůstat v srdci, potom můžete činit pokrok bez ohledu na to, kolik vám je let, dokonce i kdyby vám bylo devadesát devět. Zůstanete-li ale v mysli, budete svázáni svým fyzickým věkem. Jsou žáci, kterým je teprve dvacet pět nebo dvacet šest let, ale kvůli letargii, neochotě a dalším neaspirujícím postojům, které opatrují, se chovají jako devadesátiletí. Zároveň jsou dvě nebo tři ženy, kterým je hodně přes padesát, ale jak tvrdě pracují, jak energicky, jak horlivě! Někdy dokonce ani nejdou v noci spát. Jak je obdivuji! Nezůstávají v mysli; zůstávají v srdci. Jsou vždy nadšené a připravené inspirovat druhé. Takže starší ženy ve vašem Centru by se měly snažit zůstávat v srdci. Pokud taková žačka zůstane v srdci, nemusí se strachovat o svůj věk. Dětské srdce jí v životě pomůže udělat všechen nezbytný pokrok.
@@ -287,15 +282,15 @@ Vyzkoušel jsem několik indických rág. Ale bohužel nesouhlasím s tím, že
 * Jak můžeme poznat, zda se snažíme pracovat na příliš mnoha projektech a nedostává se nám spánku?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:594-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-31
+  :genre: qa
+  :cite-key: sca:594-cs 
+  :keywords:
+  :date-event: 1990-01-31
   :END:
 
-/Sri Chinmoy:/ Chcete vědět, zda nepracujete příliš? Existují lidé, kteří pracují hodinu a myslí si, že pracovali dvanáct hodin. Naopak někteří lidé pracují šestnáct hodin a cítí, že pracovali pouze čtyři hodiny. Podle mě odpočinek přichází s novou činností. Pokud máte v průběhu dne pracovat na šesti nebo sedmi odlišných úkolech, každou změnu práce musíte brát jako odpočinek. Odpočinek je celý v mysli. Mysl řekne: „Už jsem dokončil jednu věc. Jak mohu začít další úkol?“ Ale pokud každou práci vezmete jako zlatou příležitost udělat rychlejší než nejrychlejší pokrok a pokud vědomě dokážete vstřebat každý krok vpřed, který jste učinili, potom neklamete sami sebe tím, že říkáte, že odpočíváte.
+/Sri Chinmoy:/ chcete vědět, zda nepracujete příliš? existují lidé, kteří pracují hodinu a myslí si, že pracovali dvanáct hodin. naopak někteří lidé pracují šestnáct hodin a cítí, že pracovali pouze čtyři hodiny. podle mě odpočinek přichází s novou činností. pokud máte v průběhu dne pracovat na šesti nebo sedmi odlišných úkolech, každou změnu práce musíte brát jako odpočinek. odpočinek je celý v mysli. mysl řekne: „Už jsem dokončil jednu věc. Jak mohu začít další úkol?“ Ale pokud každou práci vezmete jako zlatou příležitost udělat rychlejší než nejrychlejší pokrok a pokud vědomě dokážete vstřebat každý krok vpřed, který jste učinili, potom neklamete sami sebe tím, že říkáte, že odpočíváte.
 
-To samé množství energie, tu samou úroveň vědomí, kterou máte během jedné práce, si ponesete s sebou, až se pustíte do další práce. Představte si, že jdete po schodech. Nejdřív děláte první krok, potom druhý, potom třetí. Pokud použijete své běžné vnímání, po každém kroku můžete vidět, že jste unavenější. Řeknete si: „Takhle musím vyjít dvacet pater!“ Ale použijete-li moudrost svého srdce, budete cítit, že po každém kroku získáváte letmou vteřinu před dalším krokem. To je vaše zlatá příležitost. Můžete říct: „Teď odpočívám.“
+To samé množství energie, tu samou úroveň vědomí, kterou máte během jedné práce, si ponesete s sebou, až se pustíte do další práce. Představte si, že jdete po schodech. Nejdřív děláte první krok, potom druhý, potom třetí. Pokud použijete své běžné vnímání, po každém kroku můžete vidět, že jste unavenější. Řeknete si: „takhle musím vyjít dvacet pater!“ ale použijete-li moudrost svého srdce, budete cítit, že po každém kroku získáváte letmou vteřinu před dalším krokem. to je vaše zlatá příležitost. můžete říct: „Teď odpočívám.“
 
 Stejně tak můžeme vzít práci. Když máte za den stihnout pět nebo šest věcí, na konci každé myslete na to, že získáváte nejen příležitost k odpočinku, ale zároveň příležitost učinit pokrok. Levá, pravá, levá, pravá. Když přichází krok pravou nohou, vaše levá noha odpočívá. Když je řada na levé noze, vaše pravá noha odpočívá. Takže pokaždé, když změníte činnost, snažte se vědomě cítit, že odpočíváte. To není sebeklam; to je moudrost. 
 
@@ -304,10 +299,10 @@ Stejně tak můžeme vzít práci. Když máte za den stihnout pět nebo šest v
 * Jak je možné, že vzpomínka na to, kdy jsme tě viděli poprvé, má takovou schopnost velmi rychle pozvednout naše vědomí?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:595-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-31
+  :genre: qa
+  :cite-key: sca:595-cs 
+  :keywords:
+  :date-event: 1990-01-31
   :END:
 
 /Sri Chinmoy:/ To je velmi dobrý zážitek. Říkám každému, aby si tento první zážitek pamatoval -- první den, kdy jste mě požádali o přijetí. V den, kdy jste poslali svou fotografii nebo se stali žáky, v ten den se zcela změnil váš životní příběh. Toho dne jste učinili slavnostní slib. Vaše srdce, mysl, vitálno, fyzická existence, vše mi dalo slavnostní slib, že budete vynikajícími žáky, a stát se vynikajícím žákem znamená potěšit Mistra jeho vlastním způsobem.
@@ -327,13 +322,13 @@ Jsem velmi šťastný z vaší otázky. Takový by měl být postoj úplně ka�
 * Dělám si řidičský průkaz a zajímalo by mě, jestli složím zkoušku.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:596-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-31
+  :genre: qa
+  :cite-key: sca:596-cs 
+  :keywords:
+  :date-event: 1990-01-31
   :END:
 
-/Sri Chinmoy:/ Nejsem věštec ani okultista. Jsem obyčejný člověk jako vy. Můžu se za vás modlit k Bohu, ale vy se budete k Bohu modlit, aby vám pomohl uspět, zatímco moje modlitba bude trochu odlišná. Naučil jsem se ji od někoho před dvěma tisíci lety. Můj bratr Ježíš Kristus mě naučil: „Staň se Vůle Tvá.“ Mohu se k Bohu modlit, aby se při vašem řízení stala Jeho Vůle, ale nemohu vám říct, co je Jeho Vůlí.
+/Sri Chinmoy:/ nejsem věštec ani okultista. jsem obyčejný člověk jako vy. můžu se za vás modlit k bohu, ale vy se budete k bohu modlit, aby vám pomohl uspět, zatímco moje modlitba bude trochu odlišná. naučil jsem se ji od někoho před dvěma tisíci lety. můj bratr ježíš kristus mě naučil: „Staň se Vůle Tvá.“ Mohu se k Bohu modlit, aby se při vašem řízení stala Jeho Vůle, ale nemohu vám říct, co je Jeho Vůlí.
 
 V Jamaice, West Indies, jedna bývalá žákyně neuspěla ve svém řidičském testu alespoň pětkrát. To bylo příliš, opravdu příliš! Její manžel špatně viděl, a tak se musela učit řídit. Pokaždé, když neuspěla, cítila se velmi špatně. Já také. Když se to stalo pošesté, řekl jsem jí: „Dobře, proboha, tentokrát musíš uspět.“ Potom naštěstí uspěla.
 
@@ -346,10 +341,10 @@ Nejlepší modlitbou ze všech je ta, kterou nás naučil Ježíš Kristus: „S
 * V jedné ze svých básní říkáte, že se máme snažit být stále spokojeni sami se sebou. Když jste smutný, frustrovaný nebo zklamaný, protože jste spoustu věcí neudělal nebo udělal špatně, potom jak můžete být spokojený sám se sebou?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:597-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-01-31
+  :genre: qa
+  :cite-key: sca:597-cs 
+  :keywords:
+  :date-event: 1990-01-31
   :END:
 
 /Sri Chinmoy:/ I když jste desetkrát selhali, i když jste selhali ve všem, co jste přes den dělali, jednoduše buďte spokojení, že jste nepropadli frustraci. Pouze to přijměte jako útok. Naštěstí jste se mu neodevzdali. Musíte se osvobodit od frustrace jako takové. Zítra se pokusíte znovu. Ale pokud budete přechovávat frustraci nebo se jí odevzdáte, jak budete moci být šťastní? Řekněme, že jste vyzkoušeli to a to a nepodařilo se vám to. Jestliže na to myslíte jako na neúspěch, naprostý neúspěch, potom zítra nebo pozítří nebudete mít inspiraci začít svou cestu znovu. I když selžete, buďte spokojení s tím, že jste se neúspěchu neodevzdali a že jste nepřizvali frustraci. Zrovna teď jste neuspěli. Ale protože jste nepozvali frustraci, měli byste být se sebou spokojeni. Mohlo to být nekonečně horší. 
@@ -363,7 +358,7 @@ Někteří lidé si libují ve frustraci. Vzývají ji. Potom chtějí ve frust
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:598e1-cs
+  :cite-key: sca:598e1-cs
   :END:
 
 
@@ -372,36 +367,36 @@ Někteří lidé si libují ve frustraci. Vzývají ji. Potom chtějí ve frust
 * Včera jste mluvil o modlitbě „Staň se Vůle Tvá.“ Je špatné modlit se pro něco konkrétního?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:598-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-04
+  :genre: qa
+  :cite-key: sca:598-cs 
+  :keywords:
+  :date-event: 1990-02-04
   :END:
 
-/Sri Chinmoy:/ Musíte vědět, o jaký druh modlitby jde. Pokud se k Bohu modlíte: „Bože, dej mi Světlo Soucitu,“ taková modlitba není vůbec špatná. Rozhodně musíte používat svou moudrost. Pokud se k Bohu modlíte pro Jeho Soucit, pro Jeho Lásku, pro Jeho Požehnání, takové věci jsou nedílnou součástí Jeho Vůle. Pokud ale požádáte: „Udělám řidičskou zkoušku?“ nebo „Dej mi nové auto,“ je to jiná záležitost.
+/Sri Chinmoy:/ musíte vědět, o jaký druh modlitby jde. pokud se k bohu modlíte: „bože, dej mi světlo soucitu,“ taková modlitba není vůbec špatná. rozhodně musíte používat svou moudrost. pokud se k bohu modlíte pro jeho soucit, pro jeho lásku, pro jeho požehnání, takové věci jsou nedílnou součástí jeho vůle. pokud ale požádáte: „Udělám řidičskou zkoušku?“ nebo „Dej mi nové auto,“ je to jiná záležitost.
 
 
 
-* V poslední době jsem četl mnoho věcí o síle pozitivního myšlení. Když něco opravdu chcete, měl byste říct: „Nejvyšší, ať se to stane, pokud je to Tvá Vůle,“ nebo byste měl prohlásit: „Toto se stane“?
+* V poslední době jsem četl mnoho věcí o síle pozitivního myšlení. Když něco opravdu chcete, měl byste říct: „nejvyšší, ať se to stane, pokud je to tvá vůle,“ nebo byste měl prohlásit: „Toto se stane“?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:599-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-04
+  :genre: qa
+  :cite-key: sca:599-cs 
+  :keywords:
+  :date-event: 1990-02-04
   :END:
 
-/Sri Chinmoy:/ Musíme vědět, jestli jde o něco spojeného s touhou. Nejdřív řeknete: „Nejvyšší, dej mi dvě stě dolarů.“ Nabídnete tuto nejupřímnější touhu Bohu. Potom si v duchu můžete říct: „Co si o mně Nejvyšší pomyslí? Mám říct ,Staň se Vůle Tvá.‘“ Když jste se modlil pro dvě stě dolarů, vaše touha byla v tu chvíli tak intenzivní, tak upřímná. Ale když jste řekl: „Staň se Vůle Tvá,“ tato modlitba se stala bezvýznamnou. Řekl jste to jen mechanicky. Všechno to bylo na mentální úrovni. Bůh ví, kdy si děláte legraci a kde je vaše upřímnost. Tehdy vám nedá vůbec nic, protože vidí, že když řeknete „Tvá Vůle,“ je to pouhý žert.
+/Sri Chinmoy:/ musíme vědět, jestli jde o něco spojeného s touhou. nejdřív řeknete: „nejvyšší, dej mi dvě stě dolarů.“ nabídnete tuto nejupřímnější touhu bohu. potom si v duchu můžete říct: „co si o mně nejvyšší pomyslí? mám říct ,staň se vůle tvá.‘“ když jste se modlil pro dvě stě dolarů, vaše touha byla v tu chvíli tak intenzivní, tak upřímná. ale když jste řekl: „Staň se Vůle Tvá,“ tato modlitba se stala bezvýznamnou. Řekl jste to jen mechanicky. Všechno to bylo na mentální úrovni. Bůh ví, kdy si děláte legraci a kde je vaše upřímnost. Tehdy vám nedá vůbec nic, protože vidí, že když řeknete „Tvá Vůle,“ je to pouhý žert.
 
 
 
 * Je špatné modlit se pro jakoukoliv touhu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:600-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-04
+  :genre: qa
+  :cite-key: sca:600-cs 
+  :keywords:
+  :date-event: 1990-02-04
   :END:
 
 /Sri Chinmoy:/ Ne, můžete se modlit pro naplnění svých tužeb, ale musíte být velmi opatrní, protože pokud jde o materiální touhu, potom to může být proti vaší vnitřní aspiraci. Lidé se modlí pro nové auto. Modlí se pro jeden dům, dva domy. Musíte vědět, jaký druh touhy vás svazuje a jaký druh aspirace vás osvobozuje. Některé hmotné věci jsou v našem každodenním životě zcela nezbytné. Ti, kdo mají peníze, si snadno můžou dovolit žít na dobré úrovni. Ale ne, nejsou spokojeni. Musí se stát multimilionáři. Buďte bohatí, pokud chcete, ale pak můžete být chudí duchovně. Musíte se rozhodnout, co z toho chcete.
@@ -413,10 +408,10 @@ Naší cestou je život přijetí. Máte naprosté právo modlit se k Bohu pro 
 * Musí Bůh nutně naplnit vaši touhu, pokud je založená na chamtivosti?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:601-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-04
+  :genre: qa
+  :cite-key: sca:601-cs 
+  :keywords:
+  :date-event: 1990-02-04
   :END:
 
 /Sri Chinmoy:/ Pokud s vámi Bůh není potěšen, potom může naplnit všechny vaše touhy tak, abyste si mohli dříve než nejdříve vykopat vlastní hrob. Stalo se to nespočetněkrát. Když Bůh vidí, že váš případ je beznadějný, naplní vás hmotně a duchovně vám dá větší než největší nulu. 
@@ -428,15 +423,15 @@ Bůh je jako farmář. Kope a kope. Na jednom místě kopal mnohokrát, ale nič
 * Moje otázka se týká manifestace a duchovnosti. Často mi připadá, že více manifestace znamená menší příležitost stát se duchovně silnějším. Jak můžeme najít správnou rovnováhu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:602-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-04
+  :genre: qa
+  :cite-key: sca:602-cs 
+  :keywords:
+  :date-event: 1990-02-04
   :END:
 
 /Sri Chinmoy:/ V mém případě a v případě mých žáků je manifestace rozhodně Boží Vůlí. Jste mým žákem. Takže pokud je pro vás Boží Vůlí projevit Jeho Světlo, nikdy nesmíte cítit, že děláte něco špatného. Bohužel, oddělujete aspiraci od manifestace. 
 
-Jako jednotlivci máme tolik dychtivosti vidět své vlastní zdokonalení, svůj pokrok. A pokud se dokážeme ztotožnit s ostatními, nebudeme mít tutéž dychtivost po jejich zdokonalení? Jsme připraveni věnovat svůj čas, energii a vše pro svou vlastní aspiraci, protože se chceme stát dokonalými. Nyní Bůh řekne: „Ačkoliv ještě nejsi dokonalý, chci, abys pomohl svému malému bratrovi, abys ho dovedl k určitému standardu.“ Jste jeden krok před tímto člověkem. To je důvod, proč vás Bůh o to žádá. Bůh nežádá třetí osobu, aby udělala to samé. Bůh nežádá někoho jiného, aby přišel a poradil vám. Bůh nežádá mě, abych se poradil, když jdu ven na ulici. Ale říká mi: „Když uvidíš někoho upřímného, vnímavého, dej mu, co máš. Dej mu svou energii, dej mu své světlo.“
+Jako jednotlivci máme tolik dychtivosti vidět své vlastní zdokonalení, svůj pokrok. A pokud se dokážeme ztotožnit s ostatními, nebudeme mít tutéž dychtivost po jejich zdokonalení? Jsme připraveni věnovat svůj čas, energii a vše pro svou vlastní aspiraci, protože se chceme stát dokonalými. Nyní Bůh řekne: „ačkoliv ještě nejsi dokonalý, chci, abys pomohl svému malému bratrovi, abys ho dovedl k určitému standardu.“ jste jeden krok před tímto člověkem. to je důvod, proč vás bůh o to žádá. bůh nežádá třetí osobu, aby udělala to samé. bůh nežádá někoho jiného, aby přišel a poradil vám. bůh nežádá mě, abych se poradil, když jdu ven na ulici. ale říká mi: „Když uvidíš někoho upřímného, vnímavého, dej mu, co máš. Dej mu svou energii, dej mu své světlo.“
 
 Abychom se vrátili k aspiraci, pokud meditujete brzy ráno a dokážete-li meditovat dobře, potom třebaže meditujete jen patnáct minut, tehdy síla vaší meditace snadno vydrží celý den. Ale tato meditace musí být velmi mocná. Pokud časně ráno natankujete auto benzínem, můžete ujet stovky mil. A potom následující den můžete natankovat znovu. Ale pokud ráno nemáte žádný benzín, jak budete moci ujet nějakou vzdálenost? Mnoho, mnoho žáků se ráno nemodlí a nemedituje. Jen klamou sami sebe. Někteří si sednou na dvě nebo tři minuty před oltář. A cítí, že toto stačí.
 
@@ -463,10 +458,10 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 * Jak nejlépe rozlišit touhu mysli od vůle duše?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:603-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-04
+  :genre: qa
+  :cite-key: sca:603-cs 
+  :keywords:
+  :date-event: 1990-02-04
   :END:
 
 /Sri Chinmoy:/ Pokud chcete znát vůli duše, musíte se modlit a meditovat nanejvýš upřímně a intenzivně. Jinak jestliže se nebudete modlit oduševněle a meditovat mocně, touha vaší mysli automaticky vystoupí do popředí. 
@@ -476,10 +471,10 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 * Co můžeme dělat, když tělo stále brzdí naše duchovní dosažení ve vnějším světě, jako je přeplavání kanálu La Manche?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:604-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-04
+  :genre: qa
+  :cite-key: sca:604-cs 
+  :keywords:
+  :date-event: 1990-02-04
   :END:
 
 /Sri Chinmoy:/ Neříkám vám, abyste se stali světovým šampiónem v plavání. Neříkám vám, abyste se stali světovým šampiónem v maratonu. Nežádám nikoho, aby přeplaval kanál La Manche, vůbec ne. Pouze říkám, že pokud cítíte, že máte tu schopnost, zkuste to! Máte má požehnání. Jsem si jistý, že to uděláte. Mám nesmírně rád takové druhy dosažení. Necítím, že jsou něčím špatným. Ale zároveň nechci, abyste zanedbávali svou práci v Centru a svou vlastní aspiraci. S tím nesouhlasím. 
@@ -489,10 +484,10 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 * Jakým nejlepším způsobem mohu udělat pokrok v boji s letargií a pohodlností?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:605-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-04
+  :genre: qa
+  :cite-key: sca:605-cs 
+  :keywords:
+  :date-event: 1990-02-04
   :END:
 
 /Sri Chinmoy:/ Jen se podívejte, kolik let jste promarnili. Vzpomeňte si na dny, kdy jste byli plní energie, a na to, kolik radosti jste tehdy získali. Každý rok se dva týdny účastníte výletu na kánoích. Jak aktivní a dynamičtí v tu chvíli jste! Takže si pamatujte tyto zlaté dny a kolik štěstí vám to dalo. Nejlepší způsob, jak můžete porazit letargii, je vzpomenout si na zážitky, kdy jste tvrdě pracovali na přípravě výletu na kánoích. Když vynesete do popředí vzpomínku na tento aktivní život, získáte tolik radosti. Tato radost je pokrokem a pomůže vám udělat další věci se stejným nadšením a dychtivostí. 
@@ -502,10 +497,10 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 * Zajímalo by mě, jestli je vhodné, aby velmi malé Centrum pořádalo veřejné meditace jako formu manifestace.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:606-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-04
+  :genre: qa
+  :cite-key: sca:606-cs 
+  :keywords:
+  :date-event: 1990-02-04
   :END:
 
 /Sri Chinmoy:/ Pokud víte, že to, co děláte, je správné, uděláte to, přestože se vám to desetkrát nepodařilo. Děláte-li správnou věc, potom ji dokážete udělat třeba dvěstěkrát, aniž by se vám to podařilo. Když jsem se pokoušel zvednout 300 liber, věděl jsem, že dělám správnou věc. Po dvě stě neúspěšných pokusech, vzdal jsem to? Ne, pokračoval jsem a nakonec se mi to podařilo při dvě stě čtrnáctém pokusu. Pokud vím, že dělám něco zcela správného, dokonce i když neuspěji a Boží Vůlí bude, abych něco dělal, udělám to.
@@ -515,10 +510,10 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 * Jak můžu vědět, že dělám pokrok?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:607-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-04
+  :genre: qa
+  :cite-key: sca:607-cs 
+  :keywords:
+  :date-event: 1990-02-04
   :END:
 
 /Sri Chinmoy:/ Když něco jím, cožpak necítím sílu nebo radost? Pokud jím správnou věc, okamžitě získávám radost a energii. Naopak pokud jím něco, co není dobré pro mé zdraví, okamžitě to vím. Takže když se budu ráno upřímně modlit a meditovat, pocítím určitou energii, sílu a radost. Pokud během své modlitby a meditace dokážu tyto vlastnosti cítit, jedná se nepochybně o pokrok.
@@ -528,10 +523,10 @@ Manifestace je obtížná, obzvlášť pro Indy, protože naše mysl je zaměře
 * Při některých druzích manifestace zjišťuji, že často necítím tolik radosti, protože je v nich více soutěžení. Neměli bychom tyto věci dělat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:608-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-04
+  :genre: qa
+  :cite-key: sca:608-cs 
+  :keywords:
+  :date-event: 1990-02-04
   :END:
 
 /Sri Chinmoy:/ Jestliže jste ve světě soutěžení se svými bratry a sestrami -- žáky, radím vám, abyste si vytvořili více jednoty. Jinak zvětšíte-li svůj sklon soutěžit s ostatními, dojde ke zkáze. Za každou cenu se budete snažit porazit své kolegy, přátele nebo naše ostatní Centra. Proto se tento soutěživý přístup musí zarazit v zárodku. Určitě soutěžte sami se sebou. To je podstatné. Jestliže jste se včera na někoho rozzlobili, protože udělali něco špatného, snažte se jim dnes odpustit. Ciťte, jak moc se dokážete ztotožnit s jejich slabostmi. Tento druh soutěžení je pro vaše vlastní sebezdokonalení. Sledujte, kolik tolerance jste měli včera, a dnes se podívejte, jestli se vaše tolerance zvětšila. Potom uvidíte svůj pokrok. Ale pokud řeknete, že vy máte pravdu a někdo jiný se mýlí, pak jen projevujete svou nadřazenost. Tento druh soutěžení s ostatními je zničením.
@@ -545,7 +540,7 @@ Samozřejmě, v závodě běžíte po stejné trati s dalšími běžci. Zde, 
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: SCA:609e1-cs
+  :cite-key: sca:609e1-cs
   :END:
 
 
@@ -554,17 +549,17 @@ Samozřejmě, v závodě běžíte po stejné trati s dalšími běžci. Zde, 
 * Jak mohu být více poslušný?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:609-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-14
+  :genre: qa
+  :cite-key: sca:609-cs 
+  :keywords:
+  :date-event: 1990-02-14
   :END:
 
 /Sri Chinmoy:/ Musíte změnit nadřízeného. Říkáte, že nejste poslušný. Ale vy jste poslušný. Otázkou je komu. Předpokládejme, že musíte vstát brzy ráno, ale šli jste spát velmi pozdě. Vaše tělo nespolupracuje. Něco uvnitř vás vám říká, abyste nevstávali, a něco jiného vás žádá, abyste vstali. To, co vás žádá, abyste nevstali, je jeden nadřízený, a to, co si přeje, abyste vstali, je druhý nadřízený. 
 
 Musíte si vybrat, kterého nadřízeného poslechnete. Musíte se sami sebe zeptat, jestli vám ten, který chce, abyste nevstali, říká správnou věc. Jestliže ráno nevstanete, kdy máte vstát, budete se cítit bídně, až budete chtít dělat další věc. Pokud v osm hodin musíte jít do práce, budete se cítit mizerně, protože jste neudělali první věc -- nemeditovali jste. Jestliže v osm hodin nepůjdete do práce, protože půjdete běhat, vzniknou další problémy. Pokud každou činnost začnete pozdě, pocítíte bolest, až budete chtít dělat něco dalšího. Přijde vám na mysl první věc a zničí všechnu vaši radost. Až půjdete do práce – druhá věc -- budete smutní z první věci – že jste nevstali k meditaci. Naopak, jestliže nepůjdete do práce a budete dělat něco jiného, řeknete: „Ó Bože, nejdříve jsem nevstal a pak jsem nešel do práce.“ Tím jste zmeškali dvě věci. Takto se to hromadí a kupí. 
 
-Říkáme, že minulost je prach. Dobře, časně ráno jste nemohli vstát. To je minulostí. Ale pak udělejte druhou věc. Při zkoušce vám učitel dal pět nebo šest otázek. Pokud nedokážete odpovědět na jednu z nich, nevšímejte si jí. Když se u ní zastavíte, budete jen plýtvat svým drahocenným časem a energií a řeknete: „Ó Bože, nejsem schopný na ni odpovědět.“ Takový druh obavy a starosti zničí všechnu vaši radost. Potom nebudete schopni odpovědět na čtyři nebo pět dalších otázek, které umíte velice dobře. Vaše mysl bude zatížena obavou a starostí: „Co se stane? Nezískám plný počet bodů.“ Namísto toho musíte na tu otázku ihned zapomenout. Máte šest otázek a umíte odpovědět na pět, ale pokud tu šestou neodstraníte ze své mysli, bude vás trápit. 
+Říkáme, že minulost je prach. Dobře, časně ráno jste nemohli vstát. To je minulostí. Ale pak udělejte druhou věc. Při zkoušce vám učitel dal pět nebo šest otázek. Pokud nedokážete odpovědět na jednu z nich, nevšímejte si jí. Když se u ní zastavíte, budete jen plýtvat svým drahocenným časem a energií a řeknete: „Ó bože, nejsem schopný na ni odpovědět.“ takový druh obavy a starosti zničí všechnu vaši radost. potom nebudete schopni odpovědět na čtyři nebo pět dalších otázek, které umíte velice dobře. vaše mysl bude zatížena obavou a starostí: „Co se stane? Nezískám plný počet bodů.“ Namísto toho musíte na tu otázku ihned zapomenout. Máte šest otázek a umíte odpovědět na pět, ale pokud tu šestou neodstraníte ze své mysli, bude vás trápit. 
 
 Stejně tak během dne máte tolik věcí na práci. Pokud jste zmeškali první z nich, zapomeňte na to. Zbývá vám ještě pět, šest nebo deset dalších věcí. Jestliže uděláte všechny zbývající věci, budete mít znovu sílu. Získáte nesmírnou radost, že jste udělali to, to a to. 
 
@@ -579,10 +574,10 @@ Vždy posloucháme, pozitivně, nebo negativně. Vždy se proto snažte jít poz
 * Když mluvíme s hledajícími, jakou vlastnost bychom se v sobě měli snažit vynést do popředí, abychom vynesli na povrch jejich srdce a vnímavost?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:610-cs 
-  :KEYWORDS:
-  :DATE-EVENT: 1990-02-14
+  :genre: qa
+  :cite-key: sca:610-cs 
+  :keywords:
+  :date-event: 1990-02-14
   :END:
 
 /Sri Chinmoy:/ Pouze pokoru. Musíme se s nimi ztotožnit a ne jim dát pocítit, že jsme jim nekonečně nadřazenější, a proto máme právo učit je. Ve třídě je několik nových studentů a několik starších. Od starších studentů se očekává, že toho budou vědět o něco více než noví studenti. 
@@ -598,19 +593,3 @@ Podobně i vy budete muset říct novým hledajícím: „Pojďte se mnou. Doká
 Když jednáte s hledajícími, nemáte tento problém. Stýkáte se s nimi na jejich úrovni. Ale jsou žáci, kteří nechtějí být na stejné úrovni. Chtějí být vysoko nad nimi. Prosím všechny žáky, kteří dělají kurzy, aby byli na stejné úrovni jako začátečníci. Nedávejte jim najevo, že vy jste velmi vysoko, na vrcholku Himálají. Pak budou zcela ztraceni. Když jim dáte pocítit, že jste dosáhli cíle, ale ráčili jste sestoupit a vést je k cíli, je to opravdová chyba.
 
 Když jednáte s novými hledajícími, vždy je nechte pocítit, že jste s nimi jedním a že jste celí pro ně. Víte o něco málo víc než oni. Dokážete teď přečíst knihu, protože jste se naučili abecedu. Učíte je tu samou abecedu. Potom jednoho dne se začnou učit číst jednu stránku nebo dvě. Když přijde tento den, okamžitě je můžete přivést ke mně a já jim dám na čtení mnoho knih!
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

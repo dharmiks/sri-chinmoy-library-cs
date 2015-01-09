@@ -1,20 +1,15 @@
-#+TITLE: Syn (divadelní hra o Ježíšovi)
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Syn (divadelní hra o Ježíšovi)
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: Nil
-  :YEAR: 2006
-  :PUBLISHER: Sri Chinmoy Centrum
-  :CITE-KEY: SON-cs
-  :GENRE: play
-  :KEYWORDS:
+  :language: cs
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition: Nil
+  :year: 2006
+  :publisher: Sri Chinmoy Centrum
+  :cite-key: SON-cs
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Syn
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:1-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:1-cs
   :END:
 
 
@@ -32,9 +27,9 @@
 * Scéna 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:2-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:2-cs
   :END:
 
 
@@ -70,7 +65,7 @@ Otec: Jsem rád, že jsi Mi porozuměl. Jsem rád, že Mne na zemi odhalíš. Js
 
 Syn: Jakým jazykem to mluvíš, Otče? Zní tak zvláštně, a přitom krásně.
 
-Otec: Ach synu, copak ten jazyk neznáš? Je to sanskrt. A to, co jsem právě řekl, byl vznešený výrok tvého bratra Krišny. Řekl svému nejdražšímu žákovi: „Ó Árdžuno, staň se mým pouhým nástrojem.“ I ty řekneš svým žákům a svým drahým, aby se stali božskými nástroji. Synu, řeknu ti něco, co tě udiví, nebo přinejmenším pobaví. Během svého pobytu na zemi půjdeš do té části světa, kde se učí písma v sanskrtu. Mnohému se z nich naučíš. Strávíš v té části světa jeden rok. Ve tvém vnitřním životě bude tento rok nesmírně přínosný.
+Otec: ach synu, copak ten jazyk neznáš? je to sanskrt. a to, co jsem právě řekl, byl vznešený výrok tvého bratra krišny. Řekl svému nejdražšímu žákovi: „Ó Árdžuno, staň se mým pouhým nástrojem.“ I ty řekneš svým žákům a svým drahým, aby se stali božskými nástroji. Synu, řeknu ti něco, co tě udiví, nebo přinejmenším pobaví. Během svého pobytu na zemi půjdeš do té části světa, kde se učí písma v sanskrtu. Mnohému se z nich naučíš. Strávíš v té části světa jeden rok. Ve tvém vnitřním životě bude tento rok nesmírně přínosný.
 
 Syn: Jak zvláštní je sanskrt! Jak sladký je sanskrt! Otče, zopakuješ mi laskavě, co jsi právě řekl v sanskrtu?
 
@@ -78,7 +73,7 @@ Otec: /Nimitta matram bhava savyasachin./
 
 Syn: Děkuji Ti, Otče. Vím, že jsem pouze Tvým pokorným nástrojem. To je vše.
 
-Otec: Synu, ty znáš nejvyšší tajemství, a tím nejvyšším tajemstvím je pokora. Právě tvá pokora ti dá korunu transcendentálního vítězství. Synu, ty Mi rozumíš a já rozumím tobě. Ale svět tě nepochopí. Dáš světu to, co máš a čím jsi: Lásku, Zájem a Soucit v nekonečné míře. Přesto tě svět zoufale nepochopí. Nějací neosvícení, nebožští a nepředstavitelní lidé tě zabijí.
+Otec: synu, ty znáš nejvyšší tajemství, a tím nejvyšším tajemstvím je pokora. právě tvá pokora ti dá korunu transcendentálního vítězství. synu, ty mi rozumíš a já rozumím tobě. ale svět tě nepochopí. dáš světu to, co máš a čím jsi: Lásku, Zájem a Soucit v nekonečné míře. Přesto tě svět zoufale nepochopí. Nějací neosvícení, nebožští a nepředstavitelní lidé tě zabijí.
 
 Syn: Zabijí mne! Proč? Jak?
 
@@ -92,16 +87,16 @@ Syn: Otče, ti lidé jsou tak nevděční!
 
 Otec: Synu, vděčnost se na zemi dosud nenarodila a nevím, zda se někdy na pozemské půdě vůbec narodí. Nesmíš si však při svém ukřižování myslet, že jsem tě opustil. To lidské v tobě si to bude myslet, nikoliv však to božské. Protože na sebe bereš lidské vtělení, musíš se někdy chovat jako lidská bytost. Jinak by to nebyla žádná hra. Jinak by lidé vždy viděli zející propast mezi tvým životem čistoty a osvícení a svým životem nečistoty a temnoty. Pokud by to takto vnímali, nikdy by se nepokusili překonat své pozemsky spoutané vědomí. Světlo musí sestoupit do temnoty. Jedině pak může Světlo temnotu přeměnit a osvítit. Není jiné cesty. Abys přeměnil vědomí lidstva, musíš se stát s lidstvem jedním. Musíš se stát nedílnou součástí lidstva. Někdy musíš jednat na jejich vlastní úrovni, v souladu s jejich omezeným chápáním. Není jiné cesty, můj synu. 
 
-Na konci tvé cesty lidské v tobě řekne: „Otče, proč jsi mne opustil?“ Božské v tobě řekne: „Otče, odpusť jim, neboť nevědí, co činí!“ Ujišťuji tě, Můj synu, to umírající lidské v tobě okamžitě utěším a dobře se o ně postarám. To osvěcující božské v tobě tě nejen učiní nesmrtelným, ale urychlí také Mé úplné projevení na zemi.
+Na konci tvé cesty lidské v tobě řekne: „otče, proč jsi mne opustil?“ božské v tobě řekne: „Otče, odpusť jim, neboť nevědí, co činí!“ Ujišťuji tě, Můj synu, to umírající lidské v tobě okamžitě utěším a dobře se o ně postarám. To osvěcující božské v tobě tě nejen učiní nesmrtelným, ale urychlí také Mé úplné projevení na zemi.
 
 
 
 * Scéna 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:3-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:3-cs
   :END:
 
 
@@ -127,7 +122,7 @@ Anděl: Copak tě mučím, Marie?
 
 Marie: Ano, mučíš. Příval strachu mučí mé srdce. Vulkán pochybnosti mučí mou mysl.
 
-Anděl: Nestrachuj se, protože to ti nepřísluší. Neprovdávej se za pochybnost, protože ani to ti nepřísluší, Marie. Povím ti tajemství: jsi ztělesněním Nekonečnosti; tvé srdce je Věčností; tvůj život je Nesmrtelností. Ježíš, syn Boha, je v tobě, Marie. On spasí svůj lid. Bude navěky vládnout širému světu. Chceš vědět jak?
+Anděl: nestrachuj se, protože to ti nepřísluší. neprovdávej se za pochybnost, protože ani to ti nepřísluší, marie. povím ti tajemství: jsi ztělesněním Nekonečnosti; tvé srdce je Věčností; tvůj život je Nesmrtelností. Ježíš, syn Boha, je v tobě, Marie. On spasí svůj lid. Bude navěky vládnout širému světu. Chceš vědět jak?
 
 Marie: Jak?
 
@@ -176,9 +171,9 @@ já a můj Cíl budeme se slunit.
 * Scéna 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:4-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:4-cs
   :END:
 
 /(Dům Alžběty. Vstoupí Marie.)/
@@ -207,9 +202,9 @@ Marie: Ó Bože, dej mi tři dary. Přeji si vždy vidět svého syna tak, jako 
 * Scéna 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:5-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:5-cs
   :END:
 
 
@@ -258,9 +253,9 @@ Anděl: Nemyslím, necítím! Jasně vidím, že tvůj syn Ježíš bude Králem
 * Scéna 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:6-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:6-cs
   :END:
 
 
@@ -275,9 +270,9 @@ Marie: Všechno bude v pořádku. Neutápěj se ve zbytečných starostech. Ná�
 * Scéna 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:7-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:7-cs
   :END:
 
 
@@ -293,7 +288,7 @@ Všichni tři pastýři: Běda, nějaký neznámý strach mučí naše srdce.
 
 Anděl: Ó sladcí, prostí a upřímní pastýřové, zahoďte svůj neopodstatněný strach. Přišel jsem k vám s velmi radostnou zprávou. Dnes, právě dnes se narodil Spasitel. Narodil se v Betlémě, který je kousek od nás. Novorozené božské děťátko leží v chlévě jednoho hostince. On je Kristus, Pán, předpovězený Král. Pohleďte vzhůru a podívejte se, co dělají mí kamarádi andělé.
 
-Pastýři: Ach, tančí, pějí chvalozpěvy a zpívají: „Sláva Bohu na Výsostech a mír lidem na zemi, kteří těší Boha.“ To je úžasné, úžasné! Pospěšme do Betléma, abychom viděli tuto ohromnou věc. 
+Pastýři: ach, tančí, pějí chvalozpěvy a zpívají: „Sláva Bohu na Výsostech a mír lidem na zemi, kteří těší Boha.“ To je úžasné, úžasné! Pospěšme do Betléma, abychom viděli tuto ohromnou věc. 
 
 /(Všichni odejdou.)/
 
@@ -302,9 +297,9 @@ Pastýři: Ach, tančí, pějí chvalozpěvy a zpívají: „Sláva Bohu na Vý
 * Scéna 7
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:8-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:8-cs
   :END:
 
 
@@ -323,9 +318,9 @@ Herodes /(vítá je)/: Jsem tak rád, že vás vidím. Mnoho jsem o vás slyšel
 * Scéna 8
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:9-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:9-cs
   :END:
 
 
@@ -362,9 +357,9 @@ Anděl: Josefe, ty, tvá žena a tvé dítě musíte okamžitě odejít do Egypt
 * Scéna 9
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:10-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:10-cs
   :END:
 
 
@@ -417,9 +412,9 @@ Ježíš: Děkuji ti, maminko. Zítra půjdu navštívit Dům našeho Pána. Zí
 * Scéna 10
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:11-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:11-cs
   :END:
 
 
@@ -450,9 +445,9 @@ Josef: Kdo by si to nepřál? Loď mého života se však rychle potápí. Jež�
 * Scéna 11
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:12-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:12-cs
   :END:
 
 
@@ -506,7 +501,7 @@ Ježíš: Zajisté. Budu vám vděčný a budu rád, když se k vám budu moci p
 
 Ježíš: Pane, jsem vám tak vděčný. Tato božská slova z Gíty naprosto utěšila mé srdce.
 
-Učitel: Vždycky jsem v tobě viděl a cítil něco zvláštního. Navenek jsem to nikdy nikomu neřekl, ale jsi mým nejoblíbenějším studentem. Vážím si tvé upřímnosti, pokory a čistoty. A protože se mnou, Ježíši, nebudeš moci studovat Gítu, chci ti nyní říci něco, co tě nepochybně inspiruje. Víš, že Gíta je rozhovorem mezi Pánem Krišnou a jeho nejdražším žákem a přítelem Ardžunou. Pán naučil svého žáka něco jedinečného. Řekl, že Bůh je skutečným vykonavatelem. Lidé jsou pouhými nástroji. Ať jsme zde na zemi nebo tam v Nebi, je to Bůh, kdo jedná v nás a naším prostřednictvím. My jsme pouhými nástroji: /Nimitta matram bhava savyasachin./
+Učitel: vždycky jsem v tobě viděl a cítil něco zvláštního. navenek jsem to nikdy nikomu neřekl, ale jsi mým nejoblíbenějším studentem. vážím si tvé upřímnosti, pokory a čistoty. a protože se mnou, ježíši, nebudeš moci studovat gítu, chci ti nyní říci něco, co tě nepochybně inspiruje. víš, že gíta je rozhovorem mezi pánem krišnou a jeho nejdražším žákem a přítelem ardžunou. pán naučil svého žáka něco jedinečného. Řekl, že bůh je skutečným vykonavatelem. lidé jsou pouhými nástroji. ať jsme zde na zemi nebo tam v nebi, je to bůh, kdo jedná v nás a naším prostřednictvím. my jsme pouhými nástroji: /Nimitta matram bhava savyasachin./
 
 Ježíš: To už jsem někdy slyšel. Slyšel jsem to už někde jinde. Běda, nemohu si vzpomenout. /(Po chvíli.)/ Ach, už vím! Můj Nejvyšší Otec mi řekl o této mantře těsně před tím, než jsem opustil Nebe.
 
@@ -531,9 +526,9 @@ Učitel: Dnes se dotýkáš mých nohou se vší pokorou svého srdce. V blízk�
 * Scéna 12
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:13-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:13-cs
   :END:
 
 
@@ -574,9 +569,9 @@ Ježíš /(usmívá se na Janovy žáky)/: Vaše jméno je všeosvěcující a v
 * Scéna 13
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:14-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:14-cs
   :END:
 
 
@@ -586,7 +581,7 @@ Ježíš: Matko, prosím za odpuštění.
 
 Marie: Neudělal jsi nic špatného, synu. Proč potřebuješ mé odpuštění?
 
-Ježíš: Matko, včera na té svatební oslavě jsem na tebe byl zbytečně hrubý. Když jim došlo víno, požádala jsi mne, abych něco udělal. Byl jsem na tebe tak zlý. Řekl jsem: „Ženo, co na tom záleží tobě a co na tom záleží mně? Má hodina ještě nepřišla.“
+Ježíš: matko, včera na té svatební oslavě jsem na tebe byl zbytečně hrubý. když jim došlo víno, požádala jsi mne, abych něco udělal. byl jsem na tebe tak zlý. Řekl jsem: „Ženo, co na tom záleží tobě a co na tom záleží mně? Má hodina ještě nepřišla.“
 
 Marie: Ale nakonec jsi mne poslechl. Jak se tedy na tebe mohu zlobit? Můj synu, proměnil jsi vodu ve víno. Jaký zázrak! Ježíši, byl to tvůj první zázrak. Jsem si jistá, že uděláš mnoho dalších. Ale to ti povím, můj synu, jestliže vykonáš padesát zázraků ve vnějším světě, pak ve vnitřním světě jich vykonáš padesát tisíc. Tvůj božský Otec v Nebi a má prostá duše na zemi budou znát všechny tvé skutky ve vnitřním světě. Ježíši, včera na svatební oslavě jsem požádala služebníky, aby tě poslechli. Dnes požádám celý svět, aby tě poslouchal, a on určitě bude.
 
@@ -601,9 +596,9 @@ Ježíš: Já vím, maminko moje. Ty chceš jenom to, aby má božskost vyšla d
 * Scéna 14
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:15-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:15-cs
   :END:
 
 
@@ -628,9 +623,9 @@ Ježíš: Mezi vámi jsou stále ještě někteří, kdo ve mne nemají víru. K
 * Scéna 15
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:16-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:16-cs
   :END:
 
 
@@ -650,7 +645,7 @@ Otec: Požehnáni jsou zarmoucení, neboť oni budou utěšeni.
 
 Ježíš: Krásné, Otče.
 
-Otec: Znamená to, synu, že pravý duchovní život hledajícího začíná tehdy, když má skutečný pocit ztráty. Jeho ztrátou je ztráta jeho vnitřního bohatství: míru, radosti, lásky a blaženosti. Tato ztráta v něm vytvoří vnitřní pláč, který se může navenek projevit jako zármutek. Takovému hledajícímu bude přirozeně navrácen mír, radost, láska a blaženost, které touží znovu získat.
+Otec: znamená to, synu, že pravý duchovní život hledajícího začíná tehdy, když má skutečný pocit ztráty. jeho ztrátou je ztráta jeho vnitřního bohatství: míru, radosti, lásky a blaženosti. Tato ztráta v něm vytvoří vnitřní pláč, který se může navenek projevit jako zármutek. Takovému hledajícímu bude přirozeně navrácen mír, radost, láska a blaženost, které touží znovu získat.
 
 Ježíš: Rozumím. Děkuji Ti, Otče. Dále?
 
@@ -701,9 +696,9 @@ Otec: Pro dnešek to stačí, Můj synu. Jsem trochu unaven. Někdy příště t
 * Scéna 16
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:17-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:17-cs
   :END:
 
 
@@ -795,9 +790,9 @@ Ježíš: Děti, buďte nástroji Pána. Všichni jsme Jeho nástroji. Přišli 
 * Scéna 17
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:18-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:18-cs
   :END:
 
 
@@ -820,9 +815,9 @@ Strom své Vize.
 * Scéna 18
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:19-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:19-cs
   :END:
 
 
@@ -855,7 +850,7 @@ Ježíš: Matko, tvá hodina ještě neudeřila, ale brzy udeří.
 
 /(Vstoupí Marie Magdalena. Pláče.)/
 
-Magdalena: Pane, včera v noci jsem měla hrozný sen, viděla jsem v něm, jak jsi byl ukřižován. Na kříži jsi požádal o něco k pití a podali ti trochu vína. Vypil jsi víno, pak jsi sklonil hlavu a řekl: „Vše je skončeno.“ Můj sen byl tak živý. Pane, ten sen nemilosrdně mučí mé nitro. Mé srdce je zcela zlomené. Pane, prosím tě, řekni mi, že můj sen byl celý jen výplodem mé fantazie a nemá nic společného se skutečností.
+Magdalena: pane, včera v noci jsem měla hrozný sen, viděla jsem v něm, jak jsi byl ukřižován. na kříži jsi požádal o něco k pití a podali ti trochu vína. vypil jsi víno, pak jsi sklonil hlavu a řekl: „Vše je skončeno.“ Můj sen byl tak živý. Pane, ten sen nemilosrdně mučí mé nitro. Mé srdce je zcela zlomené. Pane, prosím tě, řekni mi, že můj sen byl celý jen výplodem mé fantazie a nemá nic společného se skutečností.
 
 Ježíš: Viděla jsi ještě něco?
 
@@ -867,7 +862,7 @@ Magdalena: Byl to ten nešťastný Tomáš.
 
 /(Vstoupí Tomáš.)/
 
-Tomáš: Magdaleno, slyšel jsem tvůj rozhovor s Pánem. I mně se zdál podobný sen. Pán mi ze své nekonečné štědrosti dal bezvýhradnou víru v něj a řekl: „Ty mi věříš, protože mne vidíš. Šťastní a požehnaní jsou ti, kteří ve mne věří, aniž by mne spatřili.“
+Tomáš: magdaleno, slyšel jsem tvůj rozhovor s pánem. i mně se zdál podobný sen. pán mi ze své nekonečné štědrosti dal bezvýhradnou víru v něj a řekl: „Ty mi věříš, protože mne vidíš. Šťastní a požehnaní jsou ti, kteří ve mne věří, aniž by mne spatřili.“
 
 /(Tomáš zpívá.)/
 
@@ -905,9 +900,9 @@ Jsem pouhým nástrojem.
 * Scéna 19
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SON:20-cs
+  :genre: play
+  :keywords:
+  :cite-key: son:20-cs
   :END:
 
 
@@ -947,18 +942,3 @@ Cítil jsem tvé odpouštějící srdce.
 Usmíval jsem se a usmíval.
 Objal jsem tvou osvěcující duši.
 Tančil jsem a tančil.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

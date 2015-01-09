@@ -1,12 +1,7 @@
-#+TITLE: Mír
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Mír
 
   :PROPERTIES:
+  :language: cs
   :book-number: 
   :author: Sri Chinmoy
   :original-edition: Nil
@@ -24,7 +19,7 @@
   :PROPERTIES:
   :genre: section
   :keywords:
-  :cite-key: PEACE:1e1-cs
+  :cite-key: peace:1e1-cs
   :END:
 
 
@@ -39,7 +34,7 @@ srdce sní o míru...
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:1-cs
+  :cite-key: peace:1-cs
   :END:
 
 
@@ -56,7 +51,7 @@ zatímco má mysl sní o nadřazenosti.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:2-cs
+  :cite-key: peace:2-cs
   :END:
 
 
@@ -74,7 +69,7 @@ přípravám na můj život míru.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:3-cs
+  :cite-key: peace:3-cs
   :END:
 
 
@@ -91,7 +86,7 @@ stane skutečností v mém životě.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:4-cs
+  :cite-key: peace:4-cs
   :END:
 
 
@@ -108,7 +103,7 @@ co jsme hledali mír.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:5-cs
+  :cite-key: peace:5-cs
   :END:
 
 
@@ -125,7 +120,7 @@ a ne synem kompromisu.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:6-cs
+  :cite-key: peace:6-cs
   :END:
 
 
@@ -142,7 +137,7 @@ Pouze mou mysl osvěcuje.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:7-cs
+  :cite-key: peace:7-cs
   :END:
 
 
@@ -159,7 +154,7 @@ být celoživotním druhem mého srdce.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:8-cs
+  :cite-key: peace:8-cs
   :END:
 
 
@@ -177,7 +172,7 @@ když ho ujistím,
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:9-cs
+  :cite-key: peace:9-cs
   :END:
 
 
@@ -194,7 +189,7 @@ mé srdce začne tančit s létajícími křídly větru.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:10-cs
+  :cite-key: peace:10-cs
   :END:
 
 
@@ -212,7 +207,7 @@ temného vězení mé mysli.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:11-cs
+  :cite-key: peace:11-cs
   :END:
 
 
@@ -229,7 +224,7 @@ nakonec bude žít v míru.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:12-cs
+  :cite-key: peace:12-cs
   :END:
 
 
@@ -245,7 +240,7 @@ Mír hladí a sytí slzy mého neustále stoupajícího srdce.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:13-cs
+  :cite-key: peace:13-cs
   :END:
 
 
@@ -262,7 +257,7 @@ Závislost na Bohu je mír.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:14-cs
+  :cite-key: peace:14-cs
   :END:
 
 
@@ -279,7 +274,7 @@ Mír může dokázat,
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:15-cs
+  :cite-key: peace:15-cs
   :END:
 
 
@@ -296,7 +291,7 @@ můj krutý a mocný osud.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:16-cs
+  :cite-key: peace:16-cs
   :END:
 
 
@@ -313,7 +308,7 @@ můj oduševnělý a plodný osud.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:17-cs
+  :cite-key: peace:17-cs
   :END:
 
 
@@ -329,7 +324,7 @@ Požehnání nezměrné radosti získáme pouze z míru.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:18-cs
+  :cite-key: peace:18-cs
   :END:
 
 
@@ -346,7 +341,7 @@ a oslabuje pochyby mé mysli.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:19-cs
+  :cite-key: peace:19-cs
   :END:
 
 
@@ -363,7 +358,7 @@ která opatruje váhavost.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:20-cs
+  :cite-key: peace:20-cs
   :END:
 
 
@@ -380,7 +375,7 @@ nemůže být mírem.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:21-cs
+  :cite-key: peace:21-cs
   :END:
 
 
@@ -400,7 +395,7 @@ Ochota pochází z připravenosti.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:22-cs
+  :cite-key: peace:22-cs
   :END:
 
 
@@ -417,7 +412,7 @@ protože mír se nikdy neunaví.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:23-cs
+  :cite-key: peace:23-cs
   :END:
 
 
@@ -434,7 +429,7 @@ nikdy nebudou mít ani špetku míru.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:24-cs
+  :cite-key: peace:24-cs
   :END:
 
 
@@ -452,7 +447,7 @@ Pro mír jsi jeho největším miláčkem.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:25-cs
+  :cite-key: peace:25-cs
   :END:
 
 
@@ -469,7 +464,7 @@ uchovávat mír znamená zasloužit si uspokojení.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:26-cs
+  :cite-key: peace:26-cs
   :END:
 
 
@@ -486,7 +481,7 @@ Mír je hostem pružného srdce.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:27-cs
+  :cite-key: peace:27-cs
   :END:
 
 
@@ -503,7 +498,7 @@ střežit tvé srdce jednoty se světem.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:28-cs
+  :cite-key: peace:28-cs
   :END:
 
 
@@ -519,7 +514,7 @@ Mír jsou vlny tance Nekonečnosti.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:29-cs
+  :cite-key: peace:29-cs
   :END:
 
 
@@ -535,7 +530,7 @@ Mír jsou oceány písní Nesmrtelnosti.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:30-cs
+  :cite-key: peace:30-cs
   :END:
 
 
@@ -553,7 +548,7 @@ Nejlepší, zdaleka nejlepší je stát se mírem světa.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:31-cs
+  :cite-key: peace:31-cs
   :END:
 
 
@@ -570,7 +565,7 @@ a ne pro toho, kdo si jich užívá.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:32-cs
+  :cite-key: peace:32-cs
   :END:
 
 
@@ -590,7 +585,7 @@ když se má duše se světlem usmívá skrze můj život.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:33-cs
+  :cite-key: peace:33-cs
   :END:
 
 
@@ -607,7 +602,7 @@ Na zemi má mír jiné jméno: láska.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:34-cs
+  :cite-key: peace:34-cs
   :END:
 
 
@@ -624,7 +619,7 @@ Mír vytvořený sebeobětováním je nesmrtelný.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:35-cs
+  :cite-key: peace:35-cs
   :END:
 
 
@@ -641,7 +636,7 @@ Mé srdce naplněné mírem těší mou duši.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:36-cs
+  :cite-key: peace:36-cs
   :END:
 
 
@@ -658,7 +653,7 @@ abys byl otrokem vnější skutečnosti.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:37-cs
+  :cite-key: peace:37-cs
   :END:
 
 
@@ -676,7 +671,7 @@ V srdci tvé trpělivosti objevíš květy míru a květy uspokojení.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:38-cs
+  :cite-key: peace:38-cs
   :END:
 
 
@@ -693,7 +688,7 @@ Má duše je stále velmi šokovaná tím,
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:39-cs
+  :cite-key: peace:39-cs
   :END:
 
 
@@ -709,7 +704,7 @@ Srdce zaplavené mírem nemůže být nikdy zašpiněno ani poraženo.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:40-cs
+  :cite-key: peace:40-cs
   :END:
 
 
@@ -726,7 +721,7 @@ co máš, ale pro to, čím jsi: mírem.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:41-cs
+  :cite-key: peace:41-cs
   :END:
 
 
@@ -743,7 +738,7 @@ zvěstovatelem večera tvého života.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:42-cs
+  :cite-key: peace:42-cs
   :END:
 
 
@@ -759,7 +754,7 @@ Mír je zvěstovatelem věčného dětství.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:43-cs
+  :cite-key: peace:43-cs
   :END:
 
 
@@ -776,7 +771,7 @@ pokud nemám doporučení od míru.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:44-cs
+  :cite-key: peace:44-cs
   :END:
 
 
@@ -792,7 +787,7 @@ Podezření a iluze nejsou nikdy zváni na večírek míru.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:45-cs
+  :cite-key: peace:45-cs
   :END:
 
 
@@ -809,7 +804,7 @@ nebudeš moci vstoupit do Království Božího Míru.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:46-cs
+  :cite-key: peace:46-cs
   :END:
 
 
@@ -827,7 +822,7 @@ Nakonec se stanu tím, kdo mír dává.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:47-cs
+  :cite-key: peace:47-cs
   :END:
 
 
@@ -843,7 +838,7 @@ Mír je největším triumfem víry mého srdce v univerzální jednotu.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:48-cs
+  :cite-key: peace:48-cs
   :END:
 
 
@@ -860,7 +855,7 @@ Mír žije v slibu mé duše.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:49-cs
+  :cite-key: peace:49-cs
   :END:
 
 
@@ -877,7 +872,7 @@ když se modlím.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:50-cs
+  :cite-key: peace:50-cs
   :END:
 
 
@@ -894,7 +889,7 @@ když medituji.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:51-cs
+  :cite-key: peace:51-cs
   :END:
 
 
@@ -911,7 +906,7 @@ dokud jsi nechytil své zlodějské ego?
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:52-cs
+  :cite-key: peace:52-cs
   :END:
 
 
@@ -927,7 +922,7 @@ Mysl míru je plnou sklizní příležitostí.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:53-cs
+  :cite-key: peace:53-cs
   :END:
 
 
@@ -944,7 +939,7 @@ To neskutečné ve mně touží po moci.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:54-cs
+  :cite-key: peace:54-cs
   :END:
 
 
@@ -961,7 +956,7 @@ které je těžké se naučit.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:55-cs
+  :cite-key: peace:55-cs
   :END:
 
 
@@ -980,7 +975,7 @@ mír ve svém srdci, mír ve svém životě.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:56-cs
+  :cite-key: peace:56-cs
   :END:
 
 
@@ -996,7 +991,7 @@ Včera byl mír cestou mé aspirace.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:57-cs
+  :cite-key: peace:57-cs
   :END:
 
 
@@ -1012,7 +1007,7 @@ Dnes je mír cílem mé realizace.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:58-cs
+  :cite-key: peace:58-cs
   :END:
 
 
@@ -1028,7 +1023,7 @@ Zítra bude mír projevením mé dokonalosti.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:59-cs
+  :cite-key: peace:59-cs
   :END:
 
 
@@ -1044,7 +1039,7 @@ Dychtivost přináší kapku míru do mé hledající mysli.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:60-cs
+  :cite-key: peace:60-cs
   :END:
 
 
@@ -1060,7 +1055,7 @@ Ochota přináší spoustu míru do mého aspirujícího srdce.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:61-cs
+  :cite-key: peace:61-cs
   :END:
 
 
@@ -1077,7 +1072,7 @@ do mého kvetoucího života.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:62-cs
+  :cite-key: peace:62-cs
   :END:
 
 
@@ -1094,7 +1089,7 @@ společně pláčou nad našimi vědomými a úmyslnými prohřešky.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:63-cs
+  :cite-key: peace:63-cs
   :END:
 
 
@@ -1113,7 +1108,7 @@ Co ještě? Mír naplňuje.
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PEACE:64-cs
+  :cite-key: peace:64-cs
   :END:
 
 
@@ -1126,14 +1121,3 @@ Mír spatřil světlo dne,
 aby mi láskyplně ukázal cestu.
 
 #+END_VERSE
-
-
-
-
-
-#+SETUPFILE: ~/.org/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# End:
-

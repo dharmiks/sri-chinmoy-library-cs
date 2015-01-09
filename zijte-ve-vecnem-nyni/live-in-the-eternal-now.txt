@@ -1,20 +1,15 @@
-#+TITLE: Žijte ve Věčném Nyní
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: cs
-
-
-
-* Index
+* Žijte ve Věčném Nyní
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2013
-  :PUBLISHER: Madal Bal
-  :GENRE: discourse, anecdote-biographical
-  :CITE-KEY: LEN-cs
-  :KEYWORDS:
+  :language: cs
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2013
+  :publisher: Madal Bal
+  :genre: discourse, anecdote-biographical
+  :cite-key: LEN-cs
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Poznámka vydavatele:
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: LEN:1e1-cs
+  :genre: note
+  :keywords:
+  :cite-key: len:1e1-cs
   :END:
 
 
@@ -37,10 +32,10 @@ Název knihy, stejně jako výběr kapitol vybralo /Nakladatelství Sri Chinmoy 
 * Mé sladké děti[fn:: LEN 1. Následující poselství přednesl Sri Chinmoy na Aspiration Ground v New Yorku 13. dubna 1987, v den výročí svého příjezdu do USA v roce 1964] 
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:1-cs
-  :DATE-EVENT: 1987-04-13
+  :genre: discourse
+  :keywords:
+  :cite-key: len:1-cs
+  :date-event: 1987-04-13
   :END:
 
 
@@ -55,10 +50,10 @@ Milujte Nejvyššího ve mně více, nekonečně více. Buďte oddaní Nejvyšš
 * Nesmířím se s porážkou[fn:: LEN 2. Sri Chinmoy měl tuto promluvu ke svým žákům 23. prosince 1976, při setkání v Miami na Floridě, na vánočním výletě]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:2-cs
-  :DATE-EVENT: 1976-12-23
+  :genre: discourse
+  :keywords:
+  :cite-key: len:2-cs
+  :date-event: 1976-12-23
   :END:
 
 Včera jsme měli v autobuse soutěž v intuici. Napsal jsem tři řádky a vyzval žáky, aby použili svou intuici a řekli, co jsem napsal. Vyhráli tři žáci. Neřekli přesně, co jsem napsal, ale slova byla do určité míry správná. 
@@ -84,10 +79,10 @@ Ve vnitřním světě vím, co musím dělat. I ve vnějším světě, až udeř
 * Žijte ve Věčném Nyní[fn:: LEN 3. Sri Chinmoy měl tuto promluvu ve svém domě na Jamaice v New Yorku 23. listopadu 1989]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:3-cs
-  :DATE-EVENT: 1989-11-23
+  :genre: discourse
+  :keywords:
+  :cite-key: len:3-cs
+  :date-event: 1989-11-23
   :END:
 
 
@@ -110,10 +105,10 @@ Máte-li ryzí aspiraci, pak vyrůstejte každým okamžikem se svou aspirací. 
 * Božský běžec inspiruje běžce-člověka[fn:: LEN 4. Sri Chinmoy vyprávěl tento osobní zážitek 12. března 1990]
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: LEN:4-cs
-  :DATE-EVENT: 1990-03-12
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: len:4-cs
+  :date-event: 1990-03-12
   :END:
 
 
@@ -131,7 +126,7 @@ V mém případě přijímá božský běžec ve mně božské věci zevnitř, 
 
 Abych se vrátil k příběhu. Rozhodčí řekli, že si berou deset dnů na to, aby učinili konečné rozhodnutí, zda bude čas božského běžce uznán platným. Všechno to byli božští rozhodčí. Božští rozhodčí mají velký soucit pro vývoj země. Kdyby byl vývoj na zemi příliš rychlý, kdyby se odehrál příliš rychle na fyzické úrovni kvůli rychlosti božského běžce, mohl by zmást lidského běžce. Mohl by se vzdát, kdyby rozhodčí uznali čas božského běžce. 
 
-Když někdo dokáže dělat něco zázračného, můžeme si myslet: „Proč to vůbec zkoušet?“ Kdybych měl hrát tenis se šampiónem, jako je Ivan Lendl, vzdal bych to ještě před tím, než bych začal. Ale když bude Lendl laskavý, řekne: „Ne, hrajme. Chci, aby se vaše úroveň zlepšila.“
+Když někdo dokáže dělat něco zázračného, můžeme si myslet: „proč to vůbec zkoušet?“ kdybych měl hrát tenis se šampiónem, jako je ivan lendl, vzdal bych to ještě před tím, než bych začal. ale když bude lendl laskavý, řekne: „Ne, hrajme. Chci, aby se vaše úroveň zlepšila.“
 
 Když je někdo v něčem nekonečně lepší než já, ale nesestoupí na mou úroveň, k čemu je to dobré? Vezměme si například profesora. Ten musí sejít na úroveň studenta, aby ho mohl učit. Jakmile zůstane na své vlastní úrovni, se svou vznešenou moudrostí, student od něj nic nezíská. Když učitel učí malé dítě abecedu, ví, že on sám už přečetl tisíce knih, ale sestoupí na úroveň nevědomosti, nebo můžete říci, na úroveň velmi omezených schopností dítěte, které se musí naučit abecedu. Zároveň si učitel ponechává znalosti a moudrost, které získal přečtením mnoha knih. Jak se jinak malé dítě naučí abecedu a posléze bude samo číst knihy, pokud učitel kvůli dítěti nesestoupí na úroveň abecedy? 
 
@@ -144,10 +139,10 @@ Co to znamená? Kdybyste tento sen řekli vykladači snů, krásně by ho vysvě
 * Máte zlatou příležitost[fn:: LEN 5. Sri Chinmoy přednesl tuto promluvu o novém roku 24. ledna 1994 poté, co se vrátil do New Yorku z každoročního vánočního výletu se svými žáky]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:5-cs
-  :DATE-EVENT: 1994-01-24
+  :genre: discourse
+  :keywords:
+  :cite-key: len:5-cs
+  :date-event: 1994-01-24
   :END:
 
 Mé drahé děti, toto je můj nanejvýš, nanejvýš požehnaný požadavek na každičkého z vás zde osobně přítomného. Každý večer, než jdete spát, se posaďte na své posteli a jen tři nebo pět minut se modlete a meditujte. Také prosím zpívejte nebo recitujte novou /Bhulite Diyona/. Tady je její překlad:
@@ -183,7 +178,7 @@ Prosím, zapamatujte si tuto báseň:
     I never want to count
 My heart’s aspiration-moments.
     I just want to multiply
-My life’s dedication-hours.[fn:: I Am My Life’s God-Hunger-Heart, Part 2/, no. 16. New York: Agni Press, 1994]
+My life’s dedication-hours.[fn:: i am my life’s god-hunger-heart, part 2/, no. 16. new york: Agni Press, 1994]
 
 Nikdy nechci počítat 
 okamžiky aspirace svého srdce.
@@ -244,10 +239,10 @@ Roním slzy vděčnosti, když si vzpomenu, kolik dobrých věcí jste pro mě u
 * „Invocation“ je naším životním dechem[fn:: LEN 6. Sri Chinmoy přednesl tyto poznámky k „Invocation“ a dalším důležitým písním 19. dubna 1994, v P.S. 86 na Jamaice v Queensu]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:6-cs
-  :DATE-EVENT: 1994-04-19
+  :genre: discourse
+  :keywords:
+  :cite-key: len:6-cs
+  :date-event: 1994-04-19
   :END:
 
 
@@ -278,10 +273,10 @@ Drazí, vy jste průkopníky v učení se mých písní. Jste se mnou, ve mně 
 * Inkarnace zlaté příležitosti[fn:: LEN 7. Sri Chinmoy měl následující promluvu 11. ledna 1996 při setkání se svými studenty v hotelu Summerstrand Holiday Inn v Port Elizabeth, v Jižní Africe, během každoročního vánočního výletu]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:7-cs
-  :DATE-EVENT: 1996-01-11
+  :genre: discourse
+  :keywords:
+  :cite-key: len:7-cs
+  :date-event: 1996-01-11
   :END:
 
 
@@ -319,7 +314,7 @@ Nikdo nemůže unikat duchovnímu životu navždy. Můžete unikat deset, dvacet
 
 V duchovním životě hodina přijde a odejde. Jakmile jednou hodinu, Boží Hodinu, nevyužijete správně, bude přísnější, až příště nastane znovu. Je to jako letiště. Před posledním hlášením o nástupu na palubu letadla jsou tři nebo čtyři oznámení. Když se však ozve poslední hlášení a vy nespěcháte a nenastoupíte do letadla, letadlo nebude čekat. Zmeškáte svůj let, a kdo ví, kdy poletí další letadlo. V duchovním životě je to úplně stejné. Chcete jít z jedné úrovně vědomí na jinou. Volají vás. Pokud nevyužijete příležitost teď, pokud nebudete věnovat pozornost hlášení o nástupu do letadla, zmeškáte let. 
 
-Pokaždé, když běžíme maraton, slibujeme, že další už nikdy nepoběžíme. A co se stane pak, další den? Jdeme trénovat! Během závodu je celé naše tělo naplněné bolestí, bolestí, bolestí, ale následující den jsme znovu inspirováni trénovat na maraton. Vnitřní maraton nemá přesně danou délku. Nekončí po čtyřiceti dvou kilometrech. Vnitřní závod je, bohužel nebo bohudík, velmi, velmi dlouhá cesta. Pokud nedokončíte svůj vnější maraton, nevadí, i když se vám někteří lidé mohou smát. Vaši kolegové mohou říci: „Je to s ním marné, nedokázal ho dokončit.“ Možná budou mít pro vás pochopení. Pak záleží na vás, jestli budete chtít zkusit to znovu. Ale vnitřní maraton musíte přijmout. Někdo může sice říci: „Ó, nemusím běžet vnitřní maraton.“ Ale rád bych řekl, že ta hodina přijde.
+Pokaždé, když běžíme maraton, slibujeme, že další už nikdy nepoběžíme. A co se stane pak, další den? Jdeme trénovat! Během závodu je celé naše tělo naplněné bolestí, bolestí, bolestí, ale následující den jsme znovu inspirováni trénovat na maraton. Vnitřní maraton nemá přesně danou délku. Nekončí po čtyřiceti dvou kilometrech. Vnitřní závod je, bohužel nebo bohudík, velmi, velmi dlouhá cesta. Pokud nedokončíte svůj vnější maraton, nevadí, i když se vám někteří lidé mohou smát. Vaši kolegové mohou říci: „je to s ním marné, nedokázal ho dokončit.“ možná budou mít pro vás pochopení. pak záleží na vás, jestli budete chtít zkusit to znovu. ale vnitřní maraton musíte přijmout. někdo může sice říci: „Ó, nemusím běžet vnitřní maraton.“ Ale rád bych řekl, že ta hodina přijde.
  
 Na druhou stranu jsou lidé, kteří začali vnitřní maraton a pak si z nějakého důvodu myslí, že mohou zastavit. Ale z tohoto maratonu nemůžete úplně odejít. Pár dnů, pár měsíců, pár let nebo dokonce pár inkarnací možná můžete odpočívat, ale pak budete nuceni znovu začít. Bohužel pokaždé, když polevíte ve své aspiraci, své horlivosti, připravenosti a ochotě, si to děláte jen složitější. Když si vrcholový sprinter hoví v potěšení z nicnedělání, je pro něj po návratu na dráhu mnohem obtížnější dostat se na svou původní úroveň. Když dnes atlet-šampión zanechá běhání, komu na tom záleží? Může říci: „Udělal jsem dost.“ Ale ve vnitřním životě nebude moci duchovní hledající přestat běžet. Jakmile jednou začal vnitřní závod, nebude se moci vzdát. Poběží, dokud závod nevyhraje. Vyhrát zde znamená realizovat Boha. 
 
@@ -336,10 +331,10 @@ Když ve vnějším maratonu uběhnete čtyřicet dva kilometrů, je konec. Po d
 * Větve stromu mého života[fn:: LEN 8. Sri Chinmoy měl tuto promluvu ke svým žákům 19. ledna 1997 při setkání v Sun Royal hotelu v Kagošimě v Japonsku během každoročního vánočního výletu]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:8-cs
-  :DATE-EVENT: 1997-01-19
+  :genre: discourse
+  :keywords:
+  :cite-key: len:8-cs
+  :date-event: 1997-01-19
   :END:
 
 Celý svůj život jsem byl básníkem. Ve čtyřech nebo pěti letech jsem začal skládat verše v bengálštině. Ve věku sedmi let jsem dokázal diktovat básně svému bratru Chittovi. 
@@ -398,7 +393,7 @@ Mnoho, mnoho mých básní se dotkne nejvnitřnějších hloubek vašeho aspiruj
 
 Próza představuje sílu, ale poezie představuje sladkost, křehkost, jemnost, oduševnělost. Filosof i básník mohou říkat stejnou věc, když však mluví básník, jeho slova nebudou jen přitahovat pozornost mnoha lidí, ale lidé z nich budou mít i obrovskou radost. Na druhou stranu, když filosof nebo autor prózy říká stejnou věc jinými slovy, může být pro některé lidi složitější mít radost. 
 
-V Indii je tradiční jedno pořekadlo, které se dá přeložit takto: „Před tebou je kus dřeva.“ Autor prózy nebo filosof jednoduše řekne: „Přede mnou je suché dřevo.“ Ale básník uvidí stejný kus dřeva ve svých představách jako velký strom. Řekne velmi soucitně: „Přede mnou stojí strom, který bohužel právě teď nemá mízu.“ Když básník mluví o uschlém stromu, srdce každého roztaje.
+V Indii je tradiční jedno pořekadlo, které se dá přeložit takto: „před tebou je kus dřeva.“ autor prózy nebo filosof jednoduše řekne: „přede mnou je suché dřevo.“ ale básník uvidí stejný kus dřeva ve svých představách jako velký strom. Řekne velmi soucitně: „Přede mnou stojí strom, který bohužel právě teď nemá mízu.“ Když básník mluví o uschlém stromu, srdce každého roztaje.
 
 Nepopírám, že mnoho spisovatelů vytvořilo velmi skvělá díla. Ale většinu času jsou jejich díla v mentálním světě, zatímco poezie se pohybuje většinu času v psychickém světě nebo světě srdce. 
 
@@ -425,10 +420,10 @@ Tímto způsobem můžete vytvořit tajné a posvátné kluby, ve kterých se po
 * Pro tebe, mé dítě, není odpočinku![fn:: LEN 9. Dne 23. ledna 1998 dokončil Sri Chinmoy v Cancúnu v Mexiku svou sérii básní Dvacet sedm tisíc rostlin aspirace. Hned následujícího rána obdržel od Nejvyššího vnitřní Rozkaz, aby zahájil nový riskantní podnik. Tentokrát měl napsat Sedmdesát sedm tisíc stromů služby. V této úvaze Sri Chinmoy popisuje zrození tohoto rozsáhlého eposu]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:9-cs
-  :DATE-EVENT: 1998-01-23
+  :genre: discourse
+  :keywords:
+  :cite-key: len:9-cs
+  :date-event: 1998-01-23
   :END:
 
 
@@ -454,7 +449,7 @@ My Twenty-Seven Thousand
 You have given humanity
 A sleepless God-thirst
     And
-A breathless God-hunger.[fn:: Twenty-Seven Thousand Aspiration-Plants, Part 270/, 27000. báseň. New York: Agni Press, 1998]
+A breathless God-hunger.[fn:: twenty-seven thousand aspiration-plants, part 270/, 27000. báseň. new york: Agni Press, 1998]
 
 Mých Dvacet sedm tisíc
 rostlin aspirace,
@@ -473,7 +468,7 @@ bezdechý hlad po Bohu.
 #+END_VERSE
 
 
-Absolutní Rozkaz mého Nejvyššího[fn:: Seventy-Seven Thousand Service-Trees, Part 50/, following Preface. New York: Agni Press, 2009]
+Absolutní Rozkaz mého Nejvyššího[fn:: seventy-seven thousand service-trees, part 50/, following preface. new york: Agni Press, 2009]
 
 Dnes v brzkých ranních hodinách byla má duše v Transcendentálním Vědomí a mé srdce v Univerzálním Vědomí. 
 
@@ -507,10 +502,10 @@ Můj problém je jen začít. Kolik nových žáků přijde na naši loď a koli
 * Mít sladkou rodinu[fn:: LEN 10. Sri Chinmoy měl následující promluvu 20. června 1998, večer před Dnem otců, v P.S. 117 na Jamaice v New Yorku]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:10-cs
-  :DATE-EVENT: 1998-06-20
+  :genre: discourse
+  :keywords:
+  :cite-key: len:10-cs
+  :date-event: 1998-06-20
   :END:
 
 
@@ -553,10 +548,10 @@ Zapomeňme na mučivé bolesti, úplně zapomeňme. Jednoduše se staňme sladko
 * Žádné očekávání![fn:: LEN 11. Sri Chinmoy měl následující promluvu ve svém domě, na Jamaice v Queensu dne 10. července 1998]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:11-cs
-  :DATE-EVENT: 1998-07-10
+  :genre: discourse
+  :keywords:
+  :cite-key: len:11-cs
+  :date-event: 1998-07-10
   :END:
 
 
@@ -570,7 +565,7 @@ Jakmile vyjdeme z domu, naše očekávání je, že bude vát mírný vánek. B
 
 Bohužel, to neříkáme. Ještě než něco vykonáme, snažíme se dostat výsledek. Musíme dojít do bodu, kdy dokážeme říci: „Budu konat, ale nebudu se zajímat o výsledky.“ Tehdy děláme pokrok. Jinak očekáváme výsledek ještě před tím, než něco uděláme. Ještě před tím, než se dotkneme bubnu, očekáváme, že přijde zvuk. 
 
-Kdy se objevuje na scéně bezpodmínečné odevzdání? Když pláčeme po Bohu, říkáme: „Bože, pláču po Tobě. Je-li to Tvá Vůle, přijď. Ale není-li to Tvá Vůle, nechoď. Chci Tě uspokojit Tvým vlastním Způsobem.“ Kolik lidí denně opakuje: „Chci Tě, Bože, uspokojit Tvým vlastním Způsobem?“Jakmile to řekneme více než desetkrát, zvedá se nám žaludek, když slyšíme vlastní hlas! Pak svou modlitbu změníme: „Budu Tě těšit, jen když se mi bude chtít, a dokud budeme těšit jeden druhého jednou za uherský rok, nebude mi vadit, když ani Ty nebudeš těšit mě.“
+Kdy se objevuje na scéně bezpodmínečné odevzdání? Když pláčeme po Bohu, říkáme: „bože, pláču po tobě. je-li to tvá vůle, přijď. ale není-li to tvá vůle, nechoď. chci tě uspokojit tvým vlastním způsobem.“ kolik lidí denně opakuje: „chci tě, bože, uspokojit tvým vlastním způsobem?“jakmile to řekneme více než desetkrát, zvedá se nám žaludek, když slyšíme vlastní hlas! pak svou modlitbu změníme: „Budu Tě těšit, jen když se mi bude chtít, a dokud budeme těšit jeden druhého jednou za uherský rok, nebude mi vadit, když ani Ty nebudeš těšit mě.“
 
 Teď mi dovolte říci příběh o bezpodmínečné oddanosti.
 
@@ -580,15 +575,15 @@ Tato sestřenice byla zodpovědná za to, že jsem dostal práci u Noliniho. Ře
 
 Ale nejdůležitější věc se stala, když jsem ve věku jednoho roku a tří měsíců přišel do Ášramu. Jak byla Nirmala-di laskavá! Měla velmi ráda mou matku. Celý měsíc, kdykoliv má matka chtěla strávit nějaký čas v hlavní ášramové budově nebo návštěvou Božské Matky na balkóně nebo kdekoliv jinde, se obětovala a starala se o mě. A jak já jsem plakal, plakal, plakal a volal matku! Křik byl slyšet přes několik bloků! Sestřenice řekla mým sestrám: „Vy běžte. Postarám se o něj.“ I přesto, že ona sama byla v Ášramu teprve dva měsíce, když mě přinesli -- přišla ve stejnou dobu jako můj bratr Hriday -- takto se obětovala. Chtěla, aby má matka strávila v hlavní budově nebo návštěvou Božské Matky co nejvíce času. Taková byla má sestřenice. Měla nás velmi ráda. Každou chvíli nám hubovala! Byla starší než mé sestry. Když jste starší, máte naprosté právo hubovat mladším. 
 
-Abychom se vrátili k tématu. Co Nirmala-di očekávala za své služby? Mohla říci mé matce: „Přinesla jsi sem své dítě. Je to tvá zodpovědnost. Proč nepožádáš jednu ze svých dcer nebo jednoho ze svých synů, aby se o něj postarali? Máš čtyři nebo pět dalších dětí, které se o něj snadno dokážou postarat. Nechť se starají.“ Ale ona to neudělala. Místo toho řekla: „Jsem zde už dva měsíce. Ty za měsíc odejdeš, proto mi dovol obětovat se.“ Dělala to vše z lásky k mé matce. Takové bylo její bezpodmínečné odevzdání. 
+Abychom se vrátili k tématu. Co Nirmala-di očekávala za své služby? Mohla říci mé matce: „přinesla jsi sem své dítě. je to tvá zodpovědnost. proč nepožádáš jednu ze svých dcer nebo jednoho ze svých synů, aby se o něj postarali? máš čtyři nebo pět dalších dětí, které se o něj snadno dokážou postarat. nechť se starají.“ ale ona to neudělala. místo toho řekla: „Jsem zde už dva měsíce. Ty za měsíc odejdeš, proto mi dovol obětovat se.“ Dělala to vše z lásky k mé matce. Takové bylo její bezpodmínečné odevzdání. 
 
 Kolik z vás zkusilo, upřímně zkusilo, vidět vše mým vlastním způsobem? Bude to můj osud nemít ani jediného žáka, který to dokáže? V některých případech se rok co rok žáci nesnaží mě těšit, protože zcela zatarasili své vnitřní i vnější dveře. Nedokážu otevřít jejich vnější dveře a nedokážu otevřít jejich vnitřní dveře. Neexistuji uvnitř nich. Jsem venku, venku, venku. Nejsem ani v jejich mysli, ani v jejich srdci, nejsem v jejich existenci.
 
-Nikdo si nedovolí mi říci: „Dělám vše tvým vlastním způsobem.“ Na druhou stranu, nikdo mi nebude moci říci: Vždycky se snažím dělat všechno tvým způsobem.“ Někdo se může snažit dělat všechno mým způsobem týden nebo měsíc, ale pak se unaví. Jednoduše řekne: „Velmi tvrdě jsem jeden měsíc zkoušel potěšit Gurua. Teď by měl on potěšit aspoň na jeden nebo dva nebo tři dny mě.“ Takový druh odevzdání je jen vtip. Způsobuje mi utrpení. 
+Nikdo si nedovolí mi říci: „dělám vše tvým vlastním způsobem.“ na druhou stranu, nikdo mi nebude moci říci: vždycky se snažím dělat všechno tvým způsobem.“ někdo se může snažit dělat všechno mým způsobem týden nebo měsíc, ale pak se unaví. jednoduše řekne: „Velmi tvrdě jsem jeden měsíc zkoušel potěšit Gurua. Teď by měl on potěšit aspoň na jeden nebo dva nebo tři dny mě.“ Takový druh odevzdání je jen vtip. Způsobuje mi utrpení. 
 
-Žák se snaží těšit mě asi dva dny a pak očekává, že já jej budu těšit deset dnů -- dokonce ne naopak. A lidé občas říkají: „Protože Guru má tu schopnost, protože je duchovně silnější než já, měl by on více těšit mě, mým vlastním způsobem.“ Ale to není správná filosofie. Žáci by měli říci: „Protože má Guru více schopností, dovol mi sjednotit se s ním. Pak budu mít jeho schopnosti.“ Takový postoj by si měli lidé osvojit.
+Žák se snaží těšit mě asi dva dny a pak očekává, že já jej budu těšit deset dnů -- dokonce ne naopak. A lidé občas říkají: „protože guru má tu schopnost, protože je duchovně silnější než já, měl by on více těšit mě, mým vlastním způsobem.“ ale to není správná filosofie. Žáci by měli říci: „Protože má Guru více schopností, dovol mi sjednotit se s ním. Pak budu mít jeho schopnosti.“ Takový postoj by si měli lidé osvojit.
 
-Snažíte se mě těšit několik týdnů nebo několik měsíců. Pak vyvstane očekávání. Když se vaše očekávání nenaplní, říkáte: „Ó, naší filosofií je neočekávat,“ a vy se znovu začnete snažit. Ale nezapomenete opět použít očekávání! Říkáte: „Kdo ví, příště Guru mé očekávání možná naplní.“
+Snažíte se mě těšit několik týdnů nebo několik měsíců. Pak vyvstane očekávání. Když se vaše očekávání nenaplní, říkáte: „Ó, naší filosofií je neočekávat,“ a vy se znovu začnete snažit. ale nezapomenete opět použít očekávání! Říkáte: „Kdo ví, příště Guru mé očekávání možná naplní.“
 
 Ode dneška se musíte začít snažit sloužit bez očekávání. Lepší později než nikdy! Vždycky se snažíme ve svém životě dávat sliby, jako můj bratr Mantu. Každý den si dával předsevzetí, že nebude číst noviny. Pak přišel jeden z jeho přátel a řekl: „Mantu Babu, Mantu Babu, četl jsi o tom a tom? Víš to?“
 
@@ -598,17 +593,17 @@ Pak jeho přítel řekne: „Nechci ti to říkat. Nechci tě připravit o tvou 
 
 Mantuovo předsevzetí vydrželo asi jen dvacet minut. Pak šel co nejrychleji do knihovny a článek si přečetl!
 
-Ve vašem případě můžete učinit rozhodnutí, že se ode dneška budete upřímně snažit vidět všechno a dělat všechno mým vlastním způsobem. Prostě si opakujte: „Radostná poslušnost, radostná poslušnost, radostná poslušnost.“ Pak můžete říci: „Žádné očekávání, žádné očekávání, žádné očekávání!“ a také: „Nejrychlejší pokrok, nejrychlejší pokrok, nejrychlejší pokrok!“ Pokud dokážete tato slova opakovat jako džapu, pokud je vyryjete na tabuli svého srdce, budete rozhodně schopni dělat ten nejrychlejší pokrok.
+Ve vašem případě můžete učinit rozhodnutí, že se ode dneška budete upřímně snažit vidět všechno a dělat všechno mým vlastním způsobem. Prostě si opakujte: „radostná poslušnost, radostná poslušnost, radostná poslušnost.“ pak můžete říci: „Žádné očekávání, žádné očekávání, žádné očekávání!“ a také: „Nejrychlejší pokrok, nejrychlejší pokrok, nejrychlejší pokrok!“ Pokud dokážete tato slova opakovat jako džapu, pokud je vyryjete na tabuli svého srdce, budete rozhodně schopni dělat ten nejrychlejší pokrok.
 
 
 
 * Člověk míní, Pán Bůh mění[fn:: LEN 12. Sri Chinmoy měl tuto promluvu ve svém domě na Jamaice v New Yorku 29. března 1999]
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: LEN:12-cs
-  :DATE-EVENT: 1999-03-29
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: len:12-cs
+  :date-event: 1999-03-29
   :END:
 
 
@@ -648,7 +643,7 @@ Další, kdo je zklamal, byl můj prostřední bratr Chitta. Když odešel Hrida
 
 Další na řadě byla sestra Ahana. Ahana byla velmi, velmi skvělá studentka. Absolvovala střední školu a byla první rok na vysoké škole. Mezitím otec zemřel a matka trpěla strumou. V dnešní době se struma dá snadno léčit. Tady v Americe se to ani nebere vážně. Ale má matka dva roky strumou velmi trpěla a pak zemřela. Zemřela ani ne šest měsíců po otci. 
 
-Když zemřel otec, bratr Hriday opustil Ášram a vrátil se, aby se postaral o rodinu, zatímco matka umírala. Dal matce slib, že až bude umírat, vrátí se z Ášramu. Požádal Matku Ášramu o dovolení: „Matko, dal jsem slib, že navštívím svou fyzickou matku.“ Matka Sri Aurobindova Ášramu řekla: „Můžeš jít.“ Hriday se tak vrátil za námi.  
+Když zemřel otec, bratr Hriday opustil Ášram a vrátil se, aby se postaral o rodinu, zatímco matka umírala. Dal matce slib, že až bude umírat, vrátí se z Ášramu. Požádal Matku Ášramu o dovolení: „matko, dal jsem slib, že navštívím svou fyzickou matku.“ matka sri aurobindova Ášramu řekla: „Můžeš jít.“ Hriday se tak vrátil za námi.  
 
 Bylo to v době, kdy Chitta řekl matce: „Chci teď zaujmout Hridayovo místo v Ášramu. Nepotřebuješ nás tady oba.“ Chitta odešel do Pondicherry. 
 
@@ -662,7 +657,7 @@ Nirodbaran věděl, že Sri Aurobindo je mému bratru velmi nakloněn. I když H
 
 Sri Aurobindo byl po celou dobu k naší rodině velmi soucitný. Když se Nirodbaran zmínil o utrpení mojí matky, Sri Aurobindo ihned řekl: „Chceš, abych ji vyléčil? Co mohu dělat? Nastal její čas. Je to Vůle Boží, aby její děti přišly sem.“
 
-Toto Sri Aurobindo řekl v Pondicherry kolem poledne. Za dvě hodiny přišel telegram z Chittagongu. Hriday posílal zprávu Chittovi. Když ji Chitta uviděl, řekl: „Nemusím to otevírat. Vím, co to je.“ Předtím, než telegram obdržel, mu Nirod-da řekl, co řekl Sri Aurobindo: „Nadešel její čas.“
+Toto Sri Aurobindo řekl v Pondicherry kolem poledne. Za dvě hodiny přišel telegram z Chittagongu. Hriday posílal zprávu Chittovi. Když ji Chitta uviděl, řekl: „nemusím to otevírat. vím, co to je.“ předtím, než telegram obdržel, mu nirod-da řekl, co řekl sri aurobindo: „Nadešel její čas.“
 
 Jediným přáním mé matky bylo, aby každý vystudoval. Tak to cítí všechny matky. Ale Sri Aurobindo již nechtěl, aby kdokoliv z nás ještě otálel. Tituly nebyly určeny pro nás. Studia celé rodiny tak smrtí mé matky skončila. Sestra Ahana se vzdala studia na vysoké škole. Mantuovi zbývaly již jen tři měsíce do imatrikulace. Prošel by tak snadno. Mně bylo teprve dvanáct let. 
 
@@ -672,13 +667,13 @@ Ve Sri Aurobindově Ášramu byla škola, kde jsme Mantu a já studovali. Všich
 
 Božská Matka chtěla, abych vystudoval. Já jsem chtěl studovat francouzštinu na jedné univerzitě mimo Ášram. Jmenovala se Calve Collage, byla v Pondicherry. Bratr mé matky byl velmi nadšený, že chci studovat. V té době jsem byl připraven na 10. třídu, což byla imatrikulace. Ale oni řekli, že musím nejdříve složit zkoušku do 9. třídy, proto jsem šel na univerzitu dělat zkoušku. Těsně před zkouškou řekl školní inspektor pro celou oblast Pondicherry, který byl náhodou Francouz, že není dovoleno více než čtyřicet pět studentů v jedné třídě, proto mě do třídy nepřijali. Řekli: „Teď musíš do 8. třídy.“ Byl jsem velmi šokovaný. 
 
-Ten den mě doprovázel můj učitel francouzštiny z Ášramu. Jmenoval se Benjamin. Byl k nám velmi laskavý, ale my jsme si z něj dělávali legraci a říkali mu „Bon jamais“[fn:: /Bon jamais/ znamená ve francouzštině „nikdy dobrý“]. Vzal mě do 8. třídy. Když jsme dorazili, řekli nám učitelé, že přišel inspektor a dva nebo tři studenti budou muset potají odejít. Řekl jsem: „Já jdu“. Postupoval jsem dolů a dolů, dokonce ještě dřív, než zkouška začala! Umístili mě níže, než byla má úroveň. 
+Ten den mě doprovázel můj učitel francouzštiny z Ášramu. Jmenoval se Benjamin. Byl k nám velmi laskavý, ale my jsme si z něj dělávali legraci a říkali mu „Bon jamais“[fn:: /bon jamais/ znamená ve francouzštině „nikdy dobrý“]. vzal mě do 8. třídy. když jsme dorazili, řekli nám učitelé, že přišel inspektor a dva nebo tři studenti budou muset potají odejít. Řekl jsem: „Já jdu“. Postupoval jsem dolů a dolů, dokonce ještě dřív, než zkouška začala! Umístili mě níže, než byla má úroveň. 
 
 Nejlegračnější je, že jsem o mnoho, mnoho let později přednášel ve Francii. Existuje francouzská organizace, kam přichází důležití lidé a přednášejí. Všiml jsem si, že den přede mnou tam přednášel právě tento inspektor. 
 
 V každém případě to byl konec mého studia. Byl jsem tak smutný a znechucený, že jsem se s Benjaminem vrátil domů. Nepočkal jsem, jestli získám „postup“ z 8. třídy. Ten večer si mě Matka zavolala. Chodíval jsem k ní nejméně třikrát denně a někdy i čtyřikrát. Přišel jsem k ní a začal ohromně plakat. Řekl jsem Matce: „Nechci studovat.“
 
-Řekla mi: „Proč jsi s sebou bral Benjamina? Proč jsi nevzal Pavitru, ředitele naší školy?“ Pavitra byl Matčiným tajemníkem. Byl to Francouz a měl velký respekt. Předtím než přišel do Ášramu, byl inženýrem a chemikem. Matka řekla: „Zítra jdi za Pavitrou. Promluví s nimi a oni ti rozhodně dovolí dělat zkoušku.“
+Řekla mi: „proč jsi s sebou bral benjamina? proč jsi nevzal pavitru, ředitele naší školy?“ pavitra byl matčiným tajemníkem. byl to francouz a měl velký respekt. předtím než přišel do Ášramu, byl inženýrem a chemikem. matka řekla: „Zítra jdi za Pavitrou. Promluví s nimi a oni ti rozhodně dovolí dělat zkoušku.“
 
 V tu chvíli jsem byl tak rozzlobený, že jsem Matce řekl: „Nechci jít skládat tu jejich zkoušku. Vzdávám to.“
 
@@ -703,10 +698,10 @@ Vyprávím vám to proto, že někteří z vás chtěli studovat, ale nebylo ji
 * Síla úsměvu štěstí[fn:: LEN 13. Sri Chinmoy měl následující promluvu ke svým žákům na Den otců 17. června 2001 na Aspiration-Ground v New Yorku]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:13-cs
-  :DATE-EVENT: 2001-06-17
+  :genre: discourse
+  :keywords:
+  :cite-key: len:13-cs
+  :date-event: 2001-06-17
   :END:
 
 
@@ -745,10 +740,10 @@ Co se týká úsměvu, usmívám se na vás nekonečně, nekonečně, nekonečn�
 * Když chodí po Zemi Mistr[fn:: LEN 14. Sri Chinmoy přednesl tyto poznámky ke svým žákům během každoročního vánočního výletu v hotelu Intercontinental v Phnom Penh v Kambodži 5. ledna 2002 brzy ráno, před tím, než jim řekl ranní modlitby]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:14-cs
-  :DATE-EVENT: 2002-01-05
+  :genre: discourse
+  :keywords:
+  :cite-key: len:14-cs
+  :date-event: 2002-01-05
   :END:
 
 
@@ -777,10 +772,10 @@ Mnozí z vás kvůli této cestě opustili své drahé, své příbuzné, člen
 * Každý den nový pokus[fn:: LEN 15. Sri Chinmoy přednesl následující poselství během dopoledního setkání se svými žáky v hotelu Hilton v Nanjingu v Číně 13. února 2005 během vánočního výletu]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:15-cs
-  :DATE-EVENT: 2005-02-13
+  :genre: discourse
+  :keywords:
+  :cite-key: len:15-cs
+  :date-event: 2005-02-13
   :END:
 
 
@@ -805,10 +800,10 @@ Když se díváte na moji Transcendentální fotografii, usmívejte se ze své d
 * Aspirace a zasvěcení: dvě křídla[fn:: LEN 16. Sri Chinmoy měl tuto promluvu na Aspiration-Ground na Jamaice v New Yorku 15. listopadu 2005]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:16-cs
-  :DATE-EVENT: 2005-11-15
+  :genre: discourse
+  :keywords:
+  :cite-key: len:16-cs
+  :date-event: 2005-11-15
   :END:
 
 
@@ -836,7 +831,7 @@ Máte dvě křídla. Měli byste aspirovat a měli byste sloužit. Projevení po
 „Dověděl jsem se
 něco velmi nového:
 Výsady projevení
-dává Bůh jen několika lidem.“[fn:: /My God-Hunger-Cry/, báseň pro 24.únor 2006. New York: Agni Press, 2009]
+dává Bůh jen několika lidem.“[fn:: /my god-hunger-cry/, báseň pro 24.únor 2006. new york: Agni Press, 2009]
 
 #+END_VERSE
 
@@ -850,9 +845,9 @@ Pokud již věnujete stejnou pozornost aspiraci a zasvěcené službě, jsem vel
 * Krása a čistota vděčnosti[fn:: LEN 17. Sri Chinmoy měl tuto promluvu ke svým žákům při setkání v Progress-Promise, meditačním centru na Jamaice v New Yorku v 80. letech]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LEN:17-cs
+  :genre: discourse
+  :keywords:
+  :cite-key: len:17-cs
   :END:
 
 
@@ -868,7 +863,7 @@ Někteří žáci, kteří jsou s námi již mnoho let, ještě Nejvyššímu n
 
 Možná jste jen kapka, ale jste vědomá kapka ze srdce nekonečného oceánu. A protože jste vědomou kapkou, jednoho dne se určitě vrhnete do rozlehlosti oceánu. A pak se stanete oceánem samotným. Ostatní si nejsou vědomi, že jejich zdrojem je nekonečný oceán. Jste o krok napřed, protože jste si vědomi. Lidé, kteří jsou si vědomi, jsou rozhodně o krok napřed před lidmi nevědomými. 
 
-Můžete nyní namítnout, že je velmi těžké vyjádřit bezpodmínečnou vděčnost, a můžete i říct, že ani nevíte, co bezpodmínečná vděčnost je. Význam slova „bezpodmínečný“ znáte ze slovníku: bez jakékoliv podmínky. Ale otázkou je, jak se dá provádět v každodenním životě? Přál bych si, abyste mysleli jen na jedinou věc: radost. Snažte se představit si ve svém životě radost. Vždycky říkám, že představivost je skutečnost sama o sobě, na jiné úrovni vědomí. Musíme ji jen snést dolů. Brzy ráno, když vstáváte, opakujte několikrát jméno Nejvyššího, „Supreme, Supreme“. Uvnitř mantry „Supreme“ se snažte ucítit radost. V tu chvíli si představte, že pijete něco sladkého. Opakujete jméno Nejvyššího, který je Zdrojem vašeho života, který je vaším Vším. Když říkáte „Supreme“, snažte se prosím cítit, že pijete něco velmi sladkého a chutného. 
+Můžete nyní namítnout, že je velmi těžké vyjádřit bezpodmínečnou vděčnost, a můžete i říct, že ani nevíte, co bezpodmínečná vděčnost je. Význam slova „bezpodmínečný“ znáte ze slovníku: bez jakékoliv podmínky. ale otázkou je, jak se dá provádět v každodenním životě? přál bych si, abyste mysleli jen na jedinou věc: radost. Snažte se představit si ve svém životě radost. Vždycky říkám, že představivost je skutečnost sama o sobě, na jiné úrovni vědomí. Musíme ji jen snést dolů. Brzy ráno, když vstáváte, opakujte několikrát jméno Nejvyššího, „Supreme, Supreme“. Uvnitř mantry „Supreme“ se snažte ucítit radost. V tu chvíli si představte, že pijete něco sladkého. Opakujete jméno Nejvyššího, který je Zdrojem vašeho života, který je vaším Vším. Když říkáte „Supreme“, snažte se prosím cítit, že pijete něco velmi sladkého a chutného. 
 
 Když máte sladkost a radost v mysli a v srdci, je snazší nabízet cokoliv bezpodmínečně. Podívejte se na dítě. V ruce drží krásnou květinu. A co dělá? Běží k vám a dává vám tu květinu. Neočekává od vás nic na oplátku. Proč k vám však přichází? Přichází, protože je šťastné. Uvnitř něj je radost, spontánní radost, a ono se chce s vámi o tuto vnitřní radost podělit. Neočekává od vás nic na oplátku, dokonce ani úsměv ne. Kdybychom měli stejně jako dítě spontánní vnitřní radost, dokázali bychom nabízet Nejvyššímu vděčnost. 
 
@@ -887,29 +882,3 @@ Proto drazí, chcete-li se zbavit svých negativních vlastností, musíte se mo
 Drazí, dejte mi svou nejlepší vlastnost, vděčnost, a já vám také dám svou nejlepší vlastnost, vděčnost. Použijme společně naši nejlepší vlastnost, abychom učinili náš Zdroj -- Nejvyššího -- šťastným.
 
 Vděčnost, vděčnost. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-

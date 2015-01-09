@@ -1,20 +1,15 @@
-#+TITLE: Čokoľvek chceš, Boh ti dá
-#+AUTHOR: Sri Chinmoy
-#+LANGUAGE: sk
-
-
-
-* Index
+* Čokoľvek chceš, Boh ti dá
 
   :PROPERTIES:
-  :BOOK-NUMBER: 
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: nil
-  :YEAR: 2002
-  :PUBLISHER: Madal Bal
-  :CITE-KEY: YWGG-sk
-  :GENRE: story
-  :KEYWORDS:
+  :language: sk
+  :book-number: 
+  :author: Sri Chinmoy
+  :original-edition: nil
+  :year: 2002
+  :publisher: Madal Bal
+  :cite-key: YWGG-sk
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,9 +17,9 @@
 * Sri Chinmoy rozprával nasledujúce tri klasické...
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: YWGG:1e1-sk
-  :KEYWORDS:
+  :genre: note
+  :cite-key: ywgg:1e1-sk
+  :keywords:
   :END:
 
 
@@ -34,9 +29,9 @@ Sri Chinmoy rozprával nasledujúce tri klasické indické príbehy skupine det�
 * Čokoľvek chceš, Boh ti dá
 
   :PROPERTIES:
-  :GENRE: story
-  :CITE-KEY: YWGG:1-sk 
-  :KEYWORDS:
+  :genre: story
+  :cite-key: ywgg:1-sk 
+  :keywords:
   :END:
 
 
@@ -105,9 +100,9 @@ Krišna povedal: „Nie, musíš mi to dať. Musím od teba dostať to, čo mi p
 * KOMENTÁR
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: YWGG:2-sk 
-  :KEYWORDS:
+  :genre: discourse
+  :cite-key: ywgg:2-sk 
+  :keywords:
   :END:
 
 
@@ -121,9 +116,9 @@ Krišna povedal: „Nie, musíš mi to dať. Musím od teba dostať to, čo mi p
 
 
   :PROPERTIES:
-  :GENRE: story
-  :CITE-KEY: YWGG:3-sk 
-  :KEYWORDS:
+  :genre: story
+  :cite-key: ywgg:3-sk 
+  :keywords:
   :END:
 
 
@@ -141,7 +136,7 @@ Krišna povedal: „Nie, musíš mi to dať. Musím od teba dostať to, čo mi p
    
    Tak ho teda sňali zo stromu, pomohli mu okúpať sa, dali mu to najchutnejšie jedlo, obliekli mu pekné šaty a turban. Vyzeral ako skutočný pandit. Potom ho priviezli do mesta a radili mu: „Musíš zostať úplne ticho, pretože ťa ideme priviesť k princeznej.“
    
-   Mladý muž sa naľakal: „K princeznej? A na čo?“ Povedali mu: „Aby si ju mohol poraziť v polemizovaní a oženiť sa s ňou.“
+   Mladý muž sa naľakal: „k princeznej? a na čo?“ povedali mu: „Aby si ju mohol poraziť v polemizovaní a oženiť sa s ňou.“
    
    Na jednej strane sa chudobný pastier na smrť vyľakal, na druhej strane bol v pokušení. Bol pripravený ísť a poraziť princeznú v polemizovaní. Panditi mu povedali: „Kedykoľvek ti princezná dá otázku, odpovedaj len gestami -- dvíhaním rúk a prstov.“
    
@@ -159,7 +154,7 @@ Krišna povedal: „Nie, musíš mi to dať. Musím od teba dostať to, čo mi p
     
    Mladý muž poslúchol svoju ženu. Odišiel do chrámu Matky Kali a zamkol dvere zvnútra. Potom sa najoddanejšie začal modliť. Po niekoľkých hodinách Matka Kali prišla a zaklopala na dvere. Ako jej otváral, povedal: „Matka, Matka, pustím ťa dovnútra, len keď ma požehnáš. Inak ti nedovolím vojsť dnu.“
    
-   Vidiac jeho úprimnosť, Matka Kali sa naňho pozrela a skropila ho celým svojím Súcitom. Povedala: „Otvor ústa a ukáž Mi jazyk.“ Keď tak urobil, napísala mu na jazyk tajnú mantru -- niečo najposvätnejšie a najtajnejšie. Ihneď bol zaplavený božskými darmi: stal sa učeným, dokázal plynule hovoriť sanskritom a začal písať básne.
+   Vidiac jeho úprimnosť, Matka Kali sa naňho pozrela a skropila ho celým svojím Súcitom. Povedala: „otvor ústa a ukáž mi jazyk.“ keď tak urobil, napísala mu na jazyk tajnú mantru -- niečo najposvätnejšie a najtajnejšie. ihneď bol zaplavený božskými darmi: stal sa učeným, dokázal plynule hovoriť sanskritom a začal písať básne.
     
    Keď sa neskôr v noci vrátil domov, manželka bola veľmi spokojná s jeho premenou. Na jej najväčšiu radosť sa zo dňa na deň stal veľkým učencom a básnikom. Tí dvaja žili spolu veľmi šťastne. Mladý muž sa stal známym ako Kalidasa. „Dasa“ znamená otrok alebo sluha. Prijal svetlo múdrosti od Matky Kali -- preto jeho meno bolo Kalidasa -- sluha Matky Kali.      
 
@@ -169,9 +164,9 @@ Krišna povedal: „Nie, musíš mi to dať. Musím od teba dostať to, čo mi p
 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: YWGG:4e1-sk 
-  :KEYWORDS:
+  :genre: note
+  :cite-key: ywgg:4e1-sk 
+  :keywords:
   :END:
 
 
@@ -185,7 +180,7 @@ Keď do nás vstúpi milosť Matky Kali alebo akéhokoľvek aspektu Božskej Mat
     
    Každý chce byť šťastný. Ale pravé šťastie pochádza len z jednoty s vôľou vašej duše, s Vôľou Boha. Ak poslúchate Jeho vôľu bezsenne a bez dychu, budete šťastní.
     
-   Tak, drahí moji, vážte si svoj duchovný život. Nebuďte závislý na druhých, aby vás inšpirovali a pomáhali vám. Buďte sami sebe inšpiráciou. Zintenzívnite dobré veci, ktoré robíte. Neverte mysli, keď hovorí: „Toto je správne.“ V jednej chvíli myseľ povie: „Choď tou cestou.“ V ďalšej chvíli povie: „Choď tamtou cestou.“  Myseľ len s tebou hrá futbal. Ale srdce to nerobí. Srdce pozná vôľu Najvyššieho, a srdce vám vždy povie, aby ste išli k Svetlu. Takže ak môžete vždy zostať v srdci, budete môcť pokračovať v ceste k Zlatému Brehu. S nekonečnou láskou, súcitom, záujmom a božskou pýchou vás žiadam, sladké deti, aby ste vždy zostali najkrajšími a najvoňavejšími kvetmi v Záhrade Srdca Najvyššieho.      
+   Tak, drahí moji, vážte si svoj duchovný život. Nebuďte závislý na druhých, aby vás inšpirovali a pomáhali vám. Buďte sami sebe inšpiráciou. Zintenzívnite dobré veci, ktoré robíte. Neverte mysli, keď hovorí: „toto je správne.“ v jednej chvíli myseľ povie: „choď tou cestou.“ v ďalšej chvíli povie: „Choď tamtou cestou.“  Myseľ len s tebou hrá futbal. Ale srdce to nerobí. Srdce pozná vôľu Najvyššieho, a srdce vám vždy povie, aby ste išli k Svetlu. Takže ak môžete vždy zostať v srdci, budete môcť pokračovať v ceste k Zlatému Brehu. S nekonečnou láskou, súcitom, záujmom a božskou pýchou vás žiadam, sladké deti, aby ste vždy zostali najkrajšími a najvoňavejšími kvetmi v Záhrade Srdca Najvyššieho.      
 
 
 
@@ -193,9 +188,9 @@ Keď do nás vstúpi milosť Matky Kali alebo akéhokoľvek aspektu Božskej Mat
 
 
   :PROPERTIES:
-  :GENRE: story
-  :CITE-KEY: YWGG:4-sk 
-  :KEYWORDS:
+  :genre: story
+  :cite-key: ywgg:4-sk 
+  :keywords:
   :END:
 
 
@@ -209,7 +204,7 @@ Keď do nás vstúpi milosť Matky Kali alebo akéhokoľvek aspektu Božskej Mat
     
    Keď Mira videla, že bábiku nedostane, prestala jesť. Čo mohol potom chudák otec robiť? Pretože odmietala jesť, nakoniec jej bábiku dal. Od toho času sa Mira stále hrala s bábikou. Rozprávala sa s bábikou  a spievala jej. Mala ju veľmi rada.
     
-   Keď mala päť rokov, popred ich palác prechádzal svadobný sprievod. Mira sa spýtala matky: „Čo sa to deje?“  Matka odpovedala: „To je svadba. Tí dvaja sa idú zobrať.“
+   Keď mala päť rokov, popred ich palác prechádzal svadobný sprievod. Mira sa spýtala matky: „Čo sa to deje?“  matka odpovedala: „To je svadba. Tí dvaja sa idú zobrať.“
     
    Zo zvedavosti sa Mirabai spýtala matky: „A ja sa za koho vydám?“
    
@@ -243,7 +238,7 @@ A stalo sa, že sestra jej manžela začala veľmi na Miru žiarliť. Počula, 
  
 Jedného dňa táto neznesiteľná švagriná povedala Mirinmu manželovi: „Si slepý? Tvoja manželka má toľko chlapcov. Ľahko to môžem dokázať. Len choď a uvidíš, čo sa v noci bude diať v chráme.“
 
-Mirin manžel sa nahneval a v tú noc čakal vonku pred chrámom. Keď počul, ako sa Mira s niekým rozpráva, vylomil dvere a s odhaleným mečom sa ponáhľal dovnútra. Mira sa rozprávala s Pánom Krišnom. Zjavil sa jej vo svojej nebeskej forme. Ale hneď, ako prišiel manžel, zmizol. Mirin manžel videl len svoju manželku s jej malou bábikou, žiadna iná ľudská bytosť tam nebola. Smial sa a povedal: „Moja sestra mi nepovedala nič iné ako lži!“ Keď odišiel, Mira volala a volala za Pánom Krišnom: „Kam si odišiel, kam si odišiel?“
+Mirin manžel sa nahneval a v tú noc čakal vonku pred chrámom. Keď počul, ako sa Mira s niekým rozpráva, vylomil dvere a s odhaleným mečom sa ponáhľal dovnútra. Mira sa rozprávala s Pánom Krišnom. Zjavil sa jej vo svojej nebeskej forme. Ale hneď, ako prišiel manžel, zmizol. Mirin manžel videl len svoju manželku s jej malou bábikou, žiadna iná ľudská bytosť tam nebola. Smial sa a povedal: „moja sestra mi nepovedala nič iné ako lži!“ keď odišiel, mira volala a volala za pánom krišnom: „Kam si odišiel, kam si odišiel?“
  
 Dokonca aj po tejto epizóde, švagriná ďalej šírila zlomyseľné klebety o Mire. Pre Miru to bolo príliš, ale čo mohla robiť? Aspoň mohla každú noc chodiť do chrámu  a uctievať svojho Milovaného Pána svojím vlastným spôsobom.
 
@@ -283,9 +278,9 @@ Pán Krišna otvoril Svoju srdečnú čakru. Mirabai potom vstúpila do jeho srd
 * KOMENTÁR   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: YWGG:5e1-sk 
-  :KEYWORDS:
+  :genre: note
+  :cite-key: ywgg:5e1-sk 
+  :keywords:
   :END:
 
 
@@ -296,9 +291,9 @@ Najvyšší je tvoj Guru, môj Guru, každého Guru. Spočíva v srdci každéh
 * Nasledujúce dva príbehy napísal Mano Ranjan Ghose...
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: YWGG:5e2-sk 
-  :KEYWORDS:
+  :genre: note
+  :cite-key: ywgg:5e2-sk 
+  :keywords:
   :END:
 
 
@@ -311,9 +306,9 @@ Príbehy sa po prvý krát objavili v AUM Magazíne, v 1. Zväzku, 1. Časti, v
 
 
   :PROPERTIES:
-  :GENRE: story
-  :CITE-KEY: YWGG:5-sk 
-  :KEYWORDS:
+  :genre: story
+  :cite-key: ywgg:5-sk 
+  :keywords:
   :END:
 
 
@@ -331,9 +326,9 @@ O niekoľko dní neskôr, bez sanjasinovho povolenia, sa Mirabai vybrala navšt�
 
 
   :PROPERTIES:
-  :GENRE: story
-  :CITE-KEY: YWGG:6-sk 
-  :KEYWORDS:
+  :genre: story
+  :cite-key: ywgg:6-sk 
+  :keywords:
   :END:
 
 
@@ -346,18 +341,3 @@ O niekoľko dní neskôr, bez sanjasinovho povolenia, sa Mirabai vybrala navšt�
    Budha povedal: „Nuž, snažil si sa mi ponúknuť dary, ktoré si si priniesol so sebou. Pretože som tvoje dary neprijal, berieš si ich späť.“
    
    Muž sa cítil smutný a zahanbený svojím správaním. Prosil Budhu o odpustenie. Budha mu odpustil a muž sa nakoniec stal blízkym žiakom Budhu.
-
-
-
-
-
-
-
-
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
-
-# Local Variables:
-# mode: org
-# coding: unix
-# End:
-
